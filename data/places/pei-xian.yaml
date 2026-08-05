@@ -1,0 +1,11 @@
+id: pei-xian
+names:
+  historical: 沛县
+  modern: 江苏省沛县
+coords:
+  lng: 116.94
+  lat: 34.73
+  precision: approximate
+map:
+  region: 江淮
+notes: 刘邦起兵地

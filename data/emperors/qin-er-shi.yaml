@@ -1,0 +1,82 @@
+id: qin-er-shi
+tier: emperor
+sort_key: "秦-002"
+
+names:
+  display: 秦二世
+  personal: 胡亥
+  temple: null
+  posthumous: null
+  aliases: ["二世皇帝"]
+
+dynasty:
+  id: qin
+  label: 秦
+  sequence: 2
+
+reign:
+  start: "-210"
+  end: "-207"
+  eras: ["二世"]
+
+life:
+  birth: null
+  death: "-207"
+  birth_place_id: null
+  death_place_id: xianyang
+
+summary: 秦始皇之后短促在位的二世皇帝，秦政崩解的关键人物。
+
+tags:
+  - 短祚
+  - 权臣
+
+portrait:
+  primary: assets/portraits/qin-er-shi/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    史书侧重其政局与性格叙事，五官无可靠描写。画像宜年轻、冠服承秦制而神气弱于始皇，以作对照。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+
+bio:
+  file: content/bios/qin-er-shi.md
+
+timeline:
+  - year: "-210"
+    date_note: 前210年
+    title: 即位
+    summary: 始皇死后即位，朝政迅速滑向高压与权臣操盘。
+    place_id: xianyang
+    related_person_ids: ["qin-shi-huang"]
+    sources: ["史记·秦始皇本纪"]
+  - year: "-207"
+    date_note: 前207年
+    title: 身死国危
+    summary: 在起义与内斗中结局，秦中央权威崩解。
+    place_id: xianyang
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+
+relations:
+  - type: predecessor
+    target_id: qin-shi-huang
+    note: 父（始皇帝）
+
+routes:
+  - group: 都城
+    order: 1
+    year: "-210"
+    place_id: xianyang
+    event: 在位期间主要活动于咸阳政治中心
+
+sources:
+  - title: 史记·秦始皇本纪
+    note: 附见二世行事
+
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: null
+  inclusion_reason: 秦朝第二位皇帝，正史记载。

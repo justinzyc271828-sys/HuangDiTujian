@@ -1,0 +1,11 @@
+id: xinzheng
+names:
+  historical: 新郑
+  modern: 河南省郑州市新郑
+coords:
+  lng: 113.74
+  lat: 34.40
+  precision: approximate
+map:
+  region: 中原
+notes: 韩都一带，灭韩节点示意

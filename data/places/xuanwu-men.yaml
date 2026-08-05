@@ -1,0 +1,11 @@
+id: xuanwu-men
+names:
+  historical: 玄武门
+  modern: 唐长安宫城北门一带（西安）
+coords:
+  lng: 108.94
+  lat: 34.35
+  precision: approximate
+map:
+  region: 关中
+notes: 玄武门之变

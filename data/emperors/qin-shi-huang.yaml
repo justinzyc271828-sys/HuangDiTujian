@@ -1,0 +1,128 @@
+id: qin-shi-huang
+tier: emperor
+sort_key: "秦-001"
+
+names:
+  display: 秦始皇
+  personal: 嬴政
+  temple: null
+  posthumous: 始皇帝
+  aliases: ["秦王政", "始皇帝"]
+
+dynasty:
+  id: qin
+  label: 秦
+  sequence: 1
+
+reign:
+  start: "-221"
+  end: "-210"
+  eras: ["始皇"]
+
+life:
+  birth: "-259"
+  death: "-210"
+  birth_place_id: handan
+  death_place_id: shaqiu
+
+summary: 结束列国分立、建立中央集权帝制的秦帝国开创者。
+
+tags:
+  - 统一
+  - 中央集权
+  - 巡狩
+  - 书同文
+
+portrait:
+  primary: assets/portraits/qin-shi-huang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    《史记》未系统描写五官细节。画像宜表现战国末至统一初期君主的威重、
+    深衣冠冕的时代特征，以及巡狩天下的倦锐并存气质。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+
+bio:
+  file: content/bios/qin-shi-huang.md
+
+timeline:
+  - year: "-246"
+    date_note: 前246年
+    title: 即位为秦王
+    summary: 年少即位，国政初由权臣与太后势力交织。
+    place_id: xianyang
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+  - year: "-238"
+    date_note: 前238年
+    title: 亲政
+    summary: 平定内部不稳后开始强化王权。
+    place_id: xianyang
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+  - year: "-230"
+    date_note: 前230年
+    title: 灭韩
+    summary: 灭六国战争序幕。
+    place_id: xinzheng
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+  - year: "-221"
+    date_note: 前221年
+    title: 称始皇帝
+    summary: 六国既灭，定皇帝之号，推行郡县等统一制度。
+    place_id: xianyang
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+  - year: "-219"
+    date_note: 前219年
+    title: 封禅泰山
+    summary: 东巡郡县，封禅以宣示受命。
+    place_id: taishan
+    related_person_ids: []
+    sources: ["史记·秦始皇本纪"]
+  - year: "-210"
+    date_note: 前210年
+    title: 沙丘病逝
+    summary: 最后一次出巡途中去世，触发嗣位与政治震荡。
+    place_id: shaqiu
+    related_person_ids: ["qin-er-shi"]
+    sources: ["史记·秦始皇本纪"]
+
+relations:
+  - type: successor
+    target_id: qin-er-shi
+    note: 二世胡亥（史载继位过程充满权谋）
+  - type: related_emperor
+    target_id: han-gao-zu
+    note: 秦亡后刘邦建立汉朝（跨朝关联，叙事对照）
+
+routes:
+  - group: 都城
+    order: 1
+    year: "-246"
+    place_id: xianyang
+    event: 以咸阳为政治中心
+  - group: 巡狩
+    order: 2
+    year: "-219"
+    place_id: taishan
+    event: 封禅泰山
+  - group: 巡狩
+    order: 3
+    year: "-210"
+    place_id: shaqiu
+    event: 沙丘平台病逝
+
+sources:
+  - title: 史记·秦始皇本纪
+    note: 主叙事
+  - title: 资治通鉴
+    note: 编年对照（选用通行本）
+
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: null
+  inclusion_reason: 秦朝开国皇帝，正史立本纪。

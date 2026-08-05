@@ -1,0 +1,144 @@
+id: han-wu-di
+tier: emperor
+sort_key: "汉-007"
+
+names:
+  display: 汉武帝
+  personal: 刘彻
+  temple: 世宗
+  posthumous: 孝武皇帝
+  aliases: ["武帝", "汉世宗"]
+
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 7
+
+reign:
+  start: "-141"
+  end: "-87"
+  eras: ["建元", "元光", "元朔", "元狩", "元鼎", "元封", "太初", "天汉", "太始", "征和", "后元"]
+
+life:
+  birth: "-156"
+  death: "-87"
+  birth_place_id: chang-an
+  death_place_id: chang-an
+
+summary: 在位半个多世纪，拓边、改制、尊崇儒术，把汉帝国推向极盛并留下深刻制度遗产的皇帝。
+
+tags:
+  - 开边
+  - 年号
+  - 集权
+  - 封禅
+
+portrait:
+  primary: assets/portraits/han-wu-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+
+bio:
+  file: content/bios/han-wu-di.md
+
+timeline:
+  - year: "-141"
+    date_note: 前141年（建元元年）
+    title: 即位
+    summary: 景帝之后即位，年号建元，开启西汉中期长时段统治。
+    place_id: chang-an
+    related_person_ids: []
+    sources: ["汉书·武帝纪"]
+  - year: "-138"
+    date_note: 前138年前后
+    title: 遣使通西域
+    summary: 张骞出使西行，为后来河西与西域经营埋下线索。
+    place_id: chang-an
+    related_person_ids: []
+    sources: ["史记·大宛列传", "汉书·张骞传"]
+  - year: "-127"
+    date_note: 前127年（元朔二年）
+    title: 河南之役
+    summary: 汉军取河南地，北边攻防格局改观。
+    place_id: shuofang
+    related_person_ids: []
+    sources: ["汉书·武帝纪"]
+  - year: "-121"
+    date_note: 前121年（元狩二年）
+    title: 河西之役
+    summary: 打通河西走廊方向，为设郡与通西域创造条件。
+    place_id: hexi
+    related_person_ids: []
+    sources: ["汉书·武帝纪"]
+  - year: "-110"
+    date_note: 前110年（元封元年）
+    title: 封禅泰山
+    summary: 东巡封禅，以国家礼仪宣示受命与武功。
+    place_id: taishan
+    related_person_ids: ["qin-shi-huang"]
+    sources: ["史记·封禅书", "汉书·武帝纪"]
+  - year: "-104"
+    date_note: 前104年（太初元年）
+    title: 改历太初
+    summary: 颁布太初历，年号与历法成为帝国时间秩序的一部分。
+    place_id: chang-an
+    related_person_ids: []
+    sources: ["汉书·武帝纪"]
+  - year: "-89"
+    date_note: 前89年（征和四年）
+    title: 轮台罪己
+    summary: 晚岁调整扩张政策，下诏反省，成为读武帝功过的关键节点。
+    place_id: chang-an
+    related_person_ids: []
+    sources: ["汉书·西域传", "汉书·武帝纪"]
+
+relations:
+  - type: related_emperor
+    target_id: qin-shi-huang
+    note: 封禅与统一帝国礼仪的长线对照
+  - type: related_emperor
+    target_id: han-gao-zu
+    note: 汉家开国之后的极盛之主
+  - type: successor
+    target_id: null
+    note: 昭帝（页待建）
+
+routes:
+  - group: 都城
+    order: 1
+    year: "-141"
+    place_id: chang-an
+    event: 以长安为政治中心
+  - group: 亲征
+    order: 2
+    year: "-127"
+    place_id: shuofang
+    event: 北边用兵方向（示意）
+  - group: 亲征
+    order: 3
+    year: "-121"
+    place_id: hexi
+    event: 河西经营方向（示意）
+  - group: 巡狩
+    order: 4
+    year: "-110"
+    place_id: taishan
+    event: 封禅泰山
+
+sources:
+  - title: 汉书·武帝纪
+    note: 年表主据
+  - title: 史记·孝武本纪 / 封禅书等
+    note: 互见
+  - title: 资治通鉴·汉纪
+    note: 编年对照
+
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: null
+  inclusion_reason: 西汉关键皇帝，正史立纪。

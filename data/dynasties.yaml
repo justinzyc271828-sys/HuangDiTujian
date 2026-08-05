@@ -1,0 +1,21 @@
+# 王朝 / 政权元数据（随内容扩充）
+- id: qin
+  label: 秦
+  start: "-221"
+  end: "-207"
+  color: "#3D3D3D"
+  parent_group: 秦汉
+
+- id: w-han
+  label: 西汉
+  start: "-202"
+  end: "8"
+  color: "#8B1E1E"
+  parent_group: 秦汉
+
+- id: tang
+  label: 唐
+  start: "618"
+  end: "907"
+  color: "#C4A35A"
+  parent_group: 隋唐

@@ -1,0 +1,11 @@
+id: liaodong
+names:
+  historical: 辽东
+  modern: 辽宁一带（示意）
+coords:
+  lng: 123.4
+  lat: 41.1
+  precision: schematic
+map:
+  region: 东北
+notes: 太宗东征方向示意

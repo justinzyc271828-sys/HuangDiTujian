@@ -1,0 +1,11 @@
+id: hexi
+names:
+  historical: 河西
+  modern: 甘肃河西走廊（示意）
+coords:
+  lng: 100.5
+  lat: 38.9
+  precision: schematic
+map:
+  region: 西北
+notes: 武帝河西经营示意点

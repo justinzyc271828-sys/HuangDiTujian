@@ -1,0 +1,11 @@
+id: taishan
+names:
+  historical: 泰山
+  modern: 山东省泰安市
+coords:
+  lng: 117.1
+  lat: 36.25
+  precision: approximate
+map:
+  region: 山东
+notes: 封禅

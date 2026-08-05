@@ -1,0 +1,11 @@
+id: shuofang
+names:
+  historical: 朔方
+  modern: 内蒙古河套一带（示意）
+coords:
+  lng: 108.0
+  lat: 40.8
+  precision: schematic
+map:
+  region: 北疆
+notes: 武帝北边用兵示意点

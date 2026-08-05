@@ -1,0 +1,12 @@
+# 复制本文件为 data/places/{id}.yaml 后填写
+id: example-place
+names:
+  historical: 古地名
+  modern: 今地说明
+coords:
+  lng: 0.0
+  lat: 0.0
+  precision: approximate # exact | approximate | schematic
+map:
+  region: 区域名
+notes: ""

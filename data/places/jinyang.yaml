@@ -1,0 +1,11 @@
+id: jinyang
+names:
+  historical: 晋阳
+  modern: 山西太原附近
+coords:
+  lng: 112.55
+  lat: 37.87
+  precision: approximate
+map:
+  region: 河东
+notes: 唐高祖起兵地；太宗相关

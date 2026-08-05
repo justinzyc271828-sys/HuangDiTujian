@@ -1,0 +1,74 @@
+# 复制本文件为 data/emperors/{id}.yaml 后填写
+id: example-id
+tier: emperor # emperor | quasi | honorary
+sort_key: "朝-000"
+
+names:
+  display: 显示名
+  personal: 姓名
+  temple: null
+  posthumous: null
+  aliases: []
+
+dynasty:
+  id: example-dynasty
+  label: 朝名
+  sequence: 1
+
+reign:
+  start: "0000"
+  end: "0000"
+  eras: []
+
+life:
+  birth: null
+  death: null
+  birth_place_id: null
+  death_place_id: null
+
+summary: 一句话定位。
+
+tags: []
+
+portrait:
+  primary: assets/portraits/example-id/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    填写史书/传统画像依据。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+
+bio:
+  file: content/bios/example-id.md
+
+timeline: []
+  # - year: "0000"
+  #   date_note: ""
+  #   title: ""
+  #   summary: ""
+  #   place_id: null
+  #   related_person_ids: []
+  #   sources: []
+
+relations: []
+  # - type: successor
+  #   target_id: other-id
+  #   note: ""
+
+routes: []
+  # - group: 巡狩
+  #   order: 1
+  #   year: "0000"
+  #   place_id: some-place
+  #   event: ""
+
+sources: []
+  # - title: 史记·某本纪
+  #   note: ""
+
+meta:
+  status: draft # draft | review | published
+  confidence: low # low | medium | high
+  last_reviewed: null
+  inclusion_reason: 说明为何收入图鉴（准帝王/追尊必填）。

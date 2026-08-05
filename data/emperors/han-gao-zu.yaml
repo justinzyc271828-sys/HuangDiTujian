@@ -1,0 +1,103 @@
+id: han-gao-zu
+tier: emperor
+sort_key: "汉-001"
+
+names:
+  display: 汉高祖
+  personal: 刘邦
+  temple: 太祖
+  posthumous: 高皇帝
+  aliases: ["汉王刘邦", "沛公"]
+
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 1
+
+reign:
+  start: "-202"
+  end: "-195"
+  eras: []
+
+life:
+  birth: "-256"
+  death: "-195"
+  birth_place_id: null
+  death_place_id: chang-an
+
+summary: 由布衣起兵、击败西楚、开创汉朝的开国皇帝。
+
+tags:
+  - 开国
+  - 楚汉
+  - 约法
+
+portrait:
+  primary: assets/portraits/han-gao-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    传统画像多作隆准龙颜等符号化描写；宜表现豁达多谋的平民开国之君气质，服饰入汉初。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+
+bio:
+  file: content/bios/han-gao-zu.md
+
+timeline:
+  - year: "-209"
+    date_note: 前209年
+    title: 沛县起兵
+    summary: 响应反秦浪潮，由地方长吏轨迹转入争天下。
+    place_id: pei-xian
+    related_person_ids: []
+    sources: ["史记·高祖本纪"]
+  - year: "-206"
+    date_note: 前206年
+    title: 入关灭秦王室
+    summary: 先入关中，秦王子婴降，秦中央终结。
+    place_id: xianyang
+    related_person_ids: ["qin-er-shi"]
+    sources: ["史记·高祖本纪"]
+  - year: "-202"
+    date_note: 前202年
+    title: 即皇帝位
+    summary: 楚汉战争结束，建立汉朝。
+    place_id: dingtao
+    related_person_ids: []
+    sources: ["史记·高祖本纪"]
+
+relations:
+  - type: related_emperor
+    target_id: qin-shi-huang
+    note: 历史序列上承接秦帝国崩溃后的新秩序
+  - type: related_emperor
+    target_id: qin-er-shi
+    note: 秦末政治崩解的对照人物
+
+routes:
+  - group: 起兵
+    order: 1
+    year: "-209"
+    place_id: pei-xian
+    event: 沛县起事
+  - group: 入关
+    order: 2
+    year: "-206"
+    place_id: xianyang
+    event: 入关中
+  - group: 都城
+    order: 3
+    year: "-200"
+    place_id: chang-an
+    event: 定都关中（长安体系）
+
+sources:
+  - title: 史记·高祖本纪
+    note: 主叙事
+
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: null
+  inclusion_reason: 西汉开国皇帝。

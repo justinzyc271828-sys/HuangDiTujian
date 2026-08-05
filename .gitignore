@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+data/generated/
+.vite/
+coverage/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# 大体量本地参考包（物理上仍在本仓库内，默认不提交）
+reference/**
+!reference/README.md
+HuangDiTujian-Ref/**
+!HuangDiTujian-Ref/INDEX.md
+!HuangDiTujian-Ref/README.md
+apps/web/node_modules/
+apps/web/dist/

@@ -1,0 +1,11 @@
+id: handan
+names:
+  historical: 邯郸
+  modern: 河北省邯郸市
+coords:
+  lng: 114.54
+  lat: 36.63
+  precision: approximate
+map:
+  region: 河北
+notes: 始皇出生地（史载）
