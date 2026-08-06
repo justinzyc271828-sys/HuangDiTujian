@@ -103,6 +103,7 @@ npm run dev
 
 参考库（写史料卡）：`HuangDiTujian-Ref/11-史料卡工作台/README.md`  
 卷目录索引：`HuangDiTujian-Ref/10-索引/` · 总览：`HuangDiTujian-Ref/INDEX.md`  
+**皇帝索引总表（全库人数）：** [`docs/references/catalogs/皇帝索引总表.md`](docs/references/catalogs/皇帝索引总表.md)  
 （二十四史/通鉴等大体量 md 默认不提交 Git；索引与工作台可提交）
 
 ## 路线图（极简）

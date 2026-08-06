@@ -5,13 +5,13 @@
 
 ## 状态总览
 
-| id | 人物 | status | 主文本（简体 md） |
-|----|------|--------|-------------------|
-| qin-shi-huang | 秦始皇 | ready-to-fill | 史记·卷006·始皇帝 |
-| han-wu-di | 汉武帝 | ready-to-fill | 汉书·卷006·武帝 |
-| tang-tai-zong | 唐太宗 | ready-to-fill | 旧唐·卷2·太宗上 |
+| id | 人物 | status | 史料卡 | 主文本 |
+|----|------|--------|--------|--------|
+| qin-shi-huang | 秦始皇 | dossier-complete | 12 条 | 史记·卷006 |
+| han-wu-di | 汉武帝 | dossier-complete | 12 条 | 汉书·卷006 |
+| tang-tai-zong | 唐太宗 | dossier-complete | 12 条 | 旧唐·卷2 |
 
-`ready-to-fill` = 脚手架齐，**证据卡正文未填**。
+全量皇帝索引：`docs/references/catalogs/皇帝索引总表.md` · `data/catalog/emperors_master.json`
 
 ## 写卡时打开
 
