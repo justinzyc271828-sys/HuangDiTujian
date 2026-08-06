@@ -154,6 +154,14 @@ def main() -> int:
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(site, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # 替身档 Lab 数据
+    stand_src = ROOT / "data" / "catalog" / "stand_stats.json"
+    if stand_src.is_file():
+        stand_out = OUT.parent / "stand_stats.json"
+        stand_out.write_text(stand_src.read_text(encoding="utf-8"), encoding="utf-8")
+        print(f"OK -> {stand_out.relative_to(ROOT)}")
+
     print(
         f"OK -> {OUT.relative_to(ROOT)}  total={catalog_stats['total']} "
         f"draft={catalog_stats['draft']} stub={catalog_stats['stub']} "

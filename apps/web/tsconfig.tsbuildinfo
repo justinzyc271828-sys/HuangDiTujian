@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/routemap.tsx","./src/hooks/usecollection.ts","./src/pages/emperorpage.tsx","./src/pages/gallery.tsx"],"version":"5.7.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/standtypes.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/routemap.tsx","./src/components/standradar.tsx","./src/hooks/usecollection.ts","./src/pages/emperorpage.tsx","./src/pages/gallery.tsx","./src/pages/standlab.tsx"],"version":"5.7.3"}

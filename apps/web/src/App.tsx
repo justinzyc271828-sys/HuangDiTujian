@@ -1,14 +1,17 @@
 import { useEffect, useState } from "react";
-import { Link, Route, Routes } from "react-router-dom";
+import { Link, Route, Routes, useLocation } from "react-router-dom";
 import type { SiteData } from "./types";
 import Gallery from "./pages/Gallery";
 import EmperorPage from "./pages/EmperorPage";
+import StandLab from "./pages/StandLab";
 import { useCollection } from "./hooks/useCollection";
 
 export default function App() {
   const [site, setSite] = useState<SiteData | null>(null);
   const [err, setErr] = useState<string | null>(null);
   const { read } = useCollection();
+  const loc = useLocation();
+  const isLab = loc.pathname.startsWith("/lab");
 
   useEffect(() => {
     fetch("/data/site.json")
@@ -37,6 +40,14 @@ export default function App() {
   const total = site.catalog_stats?.total ?? site.emperors.length;
   const draft = site.catalog_stats?.draft ?? 0;
 
+  if (isLab) {
+    return (
+      <Routes>
+        <Route path="/lab" element={<StandLab site={site} />} />
+      </Routes>
+    );
+  }
+
   return (
     <div className="app-shell">
       <div className="topbar">
@@ -44,13 +55,23 @@ export default function App() {
           皇帝图鉴
           <span>索引 {total}</span>
         </Link>
-        <div className="progress">
-          首批 {featuredRead}/{site.featured_ids.length} · 专页 {draft}/{total}
+        <div style={{ display: "flex", gap: "0.6rem", alignItems: "center" }}>
+          <Link
+            to="/lab"
+            className="chip"
+            style={{ textDecoration: "none", color: "inherit" }}
+          >
+            替身档 Lab
+          </Link>
+          <div className="progress">
+            首批 {featuredRead}/{site.featured_ids.length} · 专页 {draft}/{total}
+          </div>
         </div>
       </div>
       <Routes>
         <Route path="/" element={<Gallery site={site} />} />
         <Route path="/emperor/:id" element={<EmperorPage site={site} />} />
+        <Route path="/lab" element={<StandLab site={site} />} />
       </Routes>
     </div>
   );

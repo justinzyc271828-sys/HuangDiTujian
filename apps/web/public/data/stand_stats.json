@@ -1,0 +1,60 @@
+{
+  "version": "v1-lab",
+  "note": "JoJo 式六维品藻（1–5）。初级演示用，非正式史评。",
+  "axes": [
+    { "key": "military", "label": "武功", "jojo": "破坏力", "desc": "征伐、拓边、军事压服" },
+    { "key": "strategy", "label": "机略", "jojo": "速度", "desc": "决断与政局反应" },
+    { "key": "range", "label": "疆域", "jojo": "射程", "desc": "势力所及与空间控制" },
+    { "key": "endurance", "label": "国祚", "jojo": "持续力", "desc": "在位稳定与政权续命" },
+    { "key": "precision", "label": "精密", "jojo": "精密度", "desc": "制度、人事、集权精度" },
+    { "key": "legacy", "label": "余波", "jojo": "成长性", "desc": "对后世的长影与被模仿" }
+  ],
+  "grades": ["E", "D", "C", "B", "A", "A+"],
+  "profiles": {
+    "qin-shi-huang": {
+      "stand_name": "【始皇帝】",
+      "stand_type": "统一特攻·制度具现",
+      "cry": "车同轨，书同文——六合之内，莫非王土。",
+      "scores": {
+        "military": 5,
+        "strategy": 4,
+        "range": 5,
+        "endurance": 2,
+        "precision": 5,
+        "legacy": 5
+      },
+      "ability": "「皇帝」概念具现：郡县网格覆盖已知天下；代价是国祚轴极低。",
+      "weakness": "二世而亡——持续力为致命破绽。"
+    },
+    "han-wu-di": {
+      "stand_name": "【孝武】",
+      "stand_type": "开边特攻·儒法双持",
+      "cry": "犯强汉者，虽远必诛——直到轮台一诏。",
+      "scores": {
+        "military": 5,
+        "strategy": 4,
+        "range": 5,
+        "endurance": 4,
+        "precision": 4,
+        "legacy": 5
+      },
+      "ability": "长时段在位下的连续军政释放；年号与礼制成为时间武器。",
+      "weakness": "国力透支与巫蛊内伤；晚岁需主动降功率。"
+    },
+    "tang-tai-zong": {
+      "stand_name": "【天可汗】",
+      "stand_type": "均衡万能·纳谏增幅",
+      "cry": "以铜为镜，可正衣冠——以魏徵为镜，可知得失。",
+      "scores": {
+        "military": 4,
+        "strategy": 5,
+        "range": 4,
+        "endurance": 4,
+        "precision": 5,
+        "legacy": 5
+      },
+      "ability": "君臣共鸣增幅：纳谏使精密与机略同时上升。",
+      "weakness": "玄武门原罪与辽东高耗；均衡型怕长期战耗。"
+    }
+  }
+}

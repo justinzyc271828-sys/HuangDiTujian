@@ -78,7 +78,11 @@ export default function Gallery({ site }: Props) {
         <h1>皇帝图鉴</h1>
         <p>
           索引共 <strong>{stats.total}</strong> 人（专页草稿 {stats.draft} · 灰卡
-          stub {stats.stub} · 准 {stats.quasi}）。首批三人有完整事迹/年表/地图；其余为占位灰卡，可点开查看基本信息。
+          stub {stats.stub} · 准 {stats.quasi}）。首批三人有完整事迹/年表/地图；其余为占位灰卡。
+          <br />
+          <Link to="/lab" style={{ fontWeight: 600 }}>
+            → 打开「替身档 Lab」对比 5 版六维设定页 UI
+          </Link>
         </p>
       </header>
 
