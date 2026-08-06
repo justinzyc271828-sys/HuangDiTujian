@@ -101,7 +101,9 @@ npm run dev
 
 闭环：图鉴总览 → 秦始皇 / 汉武帝 / 唐太宗人物卡 → `[[链接]]` 跳转 → 侧栏示意地图 → 本地已读/收藏。
 
-图书索引：`HuangDiTujian-Ref/INDEX.md`（大文件默认不提交 Git）。
+参考库（写史料卡）：`HuangDiTujian-Ref/11-史料卡工作台/README.md`  
+卷目录索引：`HuangDiTujian-Ref/10-索引/` · 总览：`HuangDiTujian-Ref/INDEX.md`  
+（二十四史/通鉴等大体量 md 默认不提交 Git；索引与工作台可提交）
 
 ## 路线图（极简）
 

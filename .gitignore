@@ -15,8 +15,13 @@ coverage/
 # 大体量本地参考包（物理上仍在本仓库内，默认不提交）
 reference/**
 !reference/README.md
+# 大体量原文 md/PDF/GIS 忽略；索引与工作台可提交
 HuangDiTujian-Ref/**
 !HuangDiTujian-Ref/INDEX.md
 !HuangDiTujian-Ref/README.md
+!HuangDiTujian-Ref/10-索引/
+!HuangDiTujian-Ref/10-索引/**
+!HuangDiTujian-Ref/11-史料卡工作台/
+!HuangDiTujian-Ref/11-史料卡工作台/**
 apps/web/node_modules/
 apps/web/dist/

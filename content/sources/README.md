@@ -1,36 +1,35 @@
 # 史源 / 史料工作区
 
-本目录是**史源卡级**材料与填写的家。规范：`docs/05-史源卡工作规范.md`。
+规范：`docs/05-史源卡工作规范.md`  
+**参考库入口（已整理）：** `HuangDiTujian-Ref/11-史料卡工作台/README.md`
 
 ## 状态总览
 
-| id | 人物 | status | 产品 YAML |
-|----|------|--------|-----------|
-| qin-shi-huang | 秦始皇 | ready-to-fill | draft 已有 |
-| han-wu-di | 汉武帝 | ready-to-fill | 未建 |
-| tang-tai-zong | 唐太宗 | ready-to-fill | 未建 |
+| id | 人物 | status | 主文本（简体 md） |
+|----|------|--------|-------------------|
+| qin-shi-huang | 秦始皇 | ready-to-fill | 史记·卷006·始皇帝 |
+| han-wu-di | 汉武帝 | ready-to-fill | 汉书·卷006·武帝 |
+| tang-tai-zong | 唐太宗 | ready-to-fill | 旧唐·卷2·太宗上 |
 
-`ready-to-fill` = 脚手架、书目入口、表头、模板齐；**不是**已写完证据。
+`ready-to-fill` = 脚手架齐，**证据卡正文未填**。
+
+## 写卡时打开
+
+1. `HuangDiTujian-Ref/11-史料卡工作台/{id}.md` — 锚点  
+2. 对应简体史书 md  
+3. 本目录 `证据/` 落卡  
+
+检索：
+
+```bash
+python tools/search_ref.py "始皇帝" --book 史记
+python tools/build_ref_indexes.py   # 重建卷目录
+```
 
 ## 目录
 
 ```
-_templates/           全局模板
-qin-shi-huang/        始皇
-han-wu-di/            武帝
-tang-tai-zong/        太宗
+_templates/
+qin-shi-huang/  han-wu-di/  tang-tai-zong/
+  00–06 …  证据/  摘录/
 ```
-
-每人标准文件：`00`–`06` + `证据/`。
-
-## 你何时开填
-
-1. 打开 `docs/references/checklists/材料就绪检查清单.md`  
-2. 勾选纸书/在线入口  
-3. 下令：「开始填史源卡…」
-
-在此之前请勿把 YAML 标为 `published`。
-
-## 仓库外大文件
-
-`D:\Reference\HuangDiTujian-Ref\`
