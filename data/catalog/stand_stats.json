@@ -1,6 +1,6 @@
 {
   "version": "v1-lab",
-  "note": "JoJo 式六维品藻（1–5）。初级演示用，非正式史评。",
+  "note": "游戏化六维品藻（1–5）。史实骨架认真，包装娱乐向；非正式史评。",
   "axes": [
     { "key": "military", "label": "武功", "jojo": "破坏力", "desc": "征伐、拓边、军事压服" },
     { "key": "strategy", "label": "机略", "jojo": "速度", "desc": "决断与政局反应" },

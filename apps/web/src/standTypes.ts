@@ -24,9 +24,10 @@ export type StandStatsFile = {
   profiles: Record<string, StandProfile>;
 };
 
+/** 游戏化专页实验风格（第二轮） */
 export type StyleId =
-  | "jojo-dark"
-  | "jojo-gold"
-  | "memorial"
-  | "stele"
-  | "tcg";
+  | "rpg-menu"
+  | "gacha"
+  | "boss-raid"
+  | "dex"
+  | "fighter";
