@@ -1,149 +1,231 @@
 id: tang-tai-zong
 tier: emperor
-sort_key: "唐-002"
-
+sort_key: 唐-002
 names:
   display: 唐太宗
   personal: 李世民
   temple: 太宗
   posthumous: 文武大圣大广孝皇帝
-  aliases: ["秦王", "天可汗"]
-
+  aliases:
+  - 秦王
+  - 天可汗
 dynasty:
   id: tang
   label: 唐
   sequence: 2
-
 reign:
-  start: "626"
-  end: "649"
-  eras: ["贞观"]
-
+  start: '626'
+  end: '649'
+  eras:
+  - 贞观
 life:
-  birth: "598"
-  death: "649"
+  birth: '598'
+  death: '649'
   birth_place_id: jinyang
   death_place_id: chang-an
-
 summary: 经玄武门即位，以贞观之治与开明用人著称，并在北境与辽东方向留下鲜明军政轨迹的唐代皇帝。
-
 tags:
-  - 贞观
-  - 玄武门
-  - 纳谏
-  - 东征
-
+- 贞观
+- 玄武门
+- 纳谏
+- 东征
 portrait:
   primary: assets/portraits/tang-tai-zong/primary.png
   variants: []
   style_version: v1
-  appearance_basis: |
-    传世画像与后世想象并存。MVP 占位；定稿前按唐初冠服作艺术想象。
+  appearance_basis: '传世画像与后世想象并存。MVP 占位；定稿前按唐初冠服作艺术想象。
+
+    '
   prompt_ref: tools/prompts/portrait-v1.md
   disclaimer: 艺术想象，非考古复原
-
 bio:
   file: content/bios/tang-tai-zong.md
-
 timeline:
-  - year: "617"
-    date_note: 大业十三年 / 义宁前后
-    title: 晋阳起兵
-    summary: 随父起兵反隋，李世民在军事中崭露头角（本页收录即位前关键节点）。
-    place_id: jinyang
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪", "资治通鉴·唐纪"]
-  - year: "618"
-    date_note: 武德元年
-    title: 唐朝建立
-    summary: 李渊称帝，世民以秦王身份继续统一战争。
-    place_id: chang-an
-    related_person_ids: []
-    sources: ["旧唐书·高祖本纪"]
-  - year: "626"
-    date_note: 武德九年
-    title: 玄武门之变
-    summary: 宫城政变后即位，年号旋改为贞观。
-    place_id: xuanwu-men
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪", "资治通鉴·唐纪"]
-  - year: "630"
-    date_note: 贞观四年
-    title: 破突厥
-    summary: 北境大捷，唐廷声威远播，史有「天可汗」之称。
-    place_id: yinshan
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪"]
-  - year: "643"
-    date_note: 贞观十七年
-    title: 凌烟阁功臣
-    summary: 图画功臣，标志贞观用人集团的政治记忆。
-    place_id: chang-an
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪"]
-  - year: "645"
-    date_note: 贞观十九年
-    title: 亲征辽东
-    summary: 御驾东征高句丽方向，是晚年最重要的军事行动之一。
-    place_id: liaodong
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪", "资治通鉴·唐纪"]
-  - year: "649"
-    date_note: 贞观二十三年
-    title: 崩于长安
-    summary: 在位二十三年，庙号太宗。
-    place_id: chang-an
-    related_person_ids: []
-    sources: ["旧唐书·太宗本纪"]
-
+- year: '598'
+  date_note: 开皇十八年
+  title: 生于武功
+  summary: 高祖第二子李世民。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷2·太宗上
+  card_id: E001
+- year: '617'
+  date_note: 大业末
+  title: 太原义举
+  summary: 潜图义举，义兵起于太原。
+  place_id: jinyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷2·太宗上
+  card_id: E002
+- year: '617'
+  date_note: 义宁元年
+  title: 霍邑之战
+  summary: 力阻班师，克霍邑西进。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷2·太宗上
+  card_id: E003
+- year: '618'
+  date_note: 武德元年
+  title: 唐朝建立
+  summary: 李渊称帝，世民为秦王。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·高祖本纪/太宗纪
+  card_id: E004
+- year: '621'
+  date_note: 武德四年
+  title: 定中原战功
+  summary: 破王世充、窦建德系关键战役（择要）。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷2·太宗上
+  card_id: E005
+- year: '626'
+  date_note: 武德九年
+  title: 玄武门之变
+  summary: 宫变后即位。
+  place_id: xuanwu-men
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷2
+  - 资治通鉴·唐纪
+  card_id: E006
+- year: '627'
+  date_note: 贞观元年
+  title: 改元贞观
+  summary: 贞观政治开端。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·太宗纪
+  card_id: E007
+- year: '630'
+  date_note: 贞观四年
+  title: 破突厥
+  summary: 北境大捷。
+  place_id: yinshan
+  related_person_ids: []
+  sources:
+  - 旧唐书·太宗纪
+  card_id: E008
+- year: '643'
+  date_note: 贞观十七年
+  title: 凌烟阁
+  summary: 图画功臣。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·太宗纪
+  card_id: E009
+- year: '645'
+  date_note: 贞观十九年
+  title: 亲征辽东
+  summary: 御驾东征。
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 旧唐书·太宗纪
+  card_id: E010
+- year: '649'
+  date_note: 贞观二十三年
+  title: 崩于长安
+  summary: 庙号太宗。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·太宗纪
+  card_id: E011
+- year: '627'
+  date_note: 贞观年间
+  title: 用人纳谏
+  summary: 房杜魏徵等君臣结构（总括卡）。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·魏徵等传
+  card_id: E012
 relations:
-  - type: related_emperor
-    target_id: han-wu-di
-    note: 极盛之君的对照阅读
-  - type: related_emperor
-    target_id: qin-shi-huang
-    note: 统一帝国传统下的不同治理路径
-  - type: predecessor
-    target_id: null
-    note: 唐高祖（页待建）
-
+- type: related_emperor
+  target_id: han-wu-di
+  note: 极盛之君的对照阅读
+- type: related_emperor
+  target_id: qin-shi-huang
+  note: 统一帝国传统下的不同治理路径
+- type: predecessor
+  target_id: null
+  note: 唐高祖（页待建）
 routes:
-  - group: 起兵
-    order: 1
-    year: "617"
-    place_id: jinyang
-    event: 晋阳起兵
-  - group: 都城
-    order: 2
-    year: "618"
-    place_id: chang-an
-    event: 定都长安体系
-  - group: 其他
-    order: 3
-    year: "626"
-    place_id: xuanwu-men
-    event: 玄武门之变
-  - group: 亲征
-    order: 4
-    year: "630"
-    place_id: yinshan
-    event: 北境破突厥方向（示意）
-  - group: 亲征
-    order: 5
-    year: "645"
-    place_id: liaodong
-    event: 辽东之役方向（示意）
-
+- group: 其他
+  order: 1
+  year: '598'
+  place_id: chang-an
+  event: 生于武功
+- group: 起兵
+  order: 2
+  year: '617'
+  place_id: jinyang
+  event: 太原义举
+- group: 都城
+  order: 3
+  year: '618'
+  place_id: chang-an
+  event: 唐朝建立
+- group: 其他
+  order: 4
+  year: '626'
+  place_id: xuanwu-men
+  event: 玄武门之变
+- group: 都城
+  order: 5
+  year: '627'
+  place_id: chang-an
+  event: 改元贞观
+- group: 亲征
+  order: 6
+  year: '630'
+  place_id: yinshan
+  event: 破突厥
+- group: 都城
+  order: 7
+  year: '643'
+  place_id: chang-an
+  event: 凌烟阁
+- group: 亲征
+  order: 8
+  year: '645'
+  place_id: liaodong
+  event: 亲征辽东
+- group: 都城
+  order: 9
+  year: '649'
+  place_id: chang-an
+  event: 崩于长安
 sources:
-  - title: 旧唐书·太宗本纪
-    note: 主叙事之一
-  - title: 新唐书·太宗本纪
-    note: 对照
-  - title: 资治通鉴·唐纪
-    note: 编年
-
+- title: 旧唐书·太宗本纪
+  note: 主叙事之一
+- title: 新唐书·太宗本纪
+  note: 对照
+- title: 资治通鉴·唐纪
+  note: 编年
+- title: 旧唐书·卷2·太宗上
+  note: 史料卡同步
+- title: 旧唐书·高祖本纪/太宗纪
+  note: 史料卡同步
+- title: 旧唐书·卷2
+  note: 史料卡同步
+- title: 旧唐书·太宗纪
+  note: 史料卡同步
+- title: 旧唐书·魏徵等传
+  note: 史料卡同步
 meta:
   status: draft
   confidence: medium
-  last_reviewed: null
+  last_reviewed: '2026-08-06'
   inclusion_reason: 唐朝第二位皇帝，正史立纪。
+  synced_from_cards: true

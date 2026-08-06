@@ -148,6 +148,22 @@ a:hover {
   border-color: #b08d4a;
 }
 
+.card.stub {
+  background: linear-gradient(160deg, #ece7dc 0%, #e2dccf 100%);
+  border-color: #c5b9a0;
+  color: #5a5348;
+  box-shadow: none;
+  opacity: 0.92;
+}
+
+.card.stub:hover {
+  opacity: 1;
+}
+
+.card.quasi:not(.featured) {
+  border-style: dashed;
+}
+
 .badge {
   position: absolute;
   top: 0.7rem;
@@ -157,6 +173,72 @@ a:hover {
   color: #fff;
   border-radius: 6px;
   padding: 0.1rem 0.4rem;
+}
+
+.badge-stub {
+  background: #6b6560;
+  right: 0.7rem;
+}
+
+.badge-quasi {
+  background: #5c6b5a;
+  top: 0.7rem;
+  right: 0.7rem;
+}
+
+.card.stub .badge-quasi {
+  right: 3.2rem;
+}
+
+.stub-label {
+  color: #7a7266;
+  font-style: italic;
+}
+
+.search {
+  flex: 1;
+  min-width: 200px;
+  max-width: 360px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9rem;
+  color: var(--ink);
+}
+
+.person-stub {
+  background: #f0ebe0;
+}
+
+.stub-banner {
+  background: #e5dfd0;
+  border: 1px dashed #b8ad96;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+}
+
+.inline-badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  font-size: 0.7rem;
+  vertical-align: middle;
+  padding: 0.1rem 0.4rem;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.inline-badge.quasi {
+  background: #d7e0d4;
+  color: #3d4a3c;
+}
+
+.inline-badge.stub {
+  background: #d4d0c8;
+  color: #5a5348;
 }
 
 .card h2 {

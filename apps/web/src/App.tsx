@@ -34,16 +34,18 @@ export default function App() {
   }
 
   const featuredRead = site.featured_ids.filter((id) => read.includes(id)).length;
+  const total = site.catalog_stats?.total ?? site.emperors.length;
+  const draft = site.catalog_stats?.draft ?? 0;
 
   return (
     <div className="app-shell">
       <div className="topbar">
         <Link to="/" className="brand">
           皇帝图鉴
-          <span>MVP 闭环</span>
+          <span>索引 {total}</span>
         </Link>
         <div className="progress">
-          首批收集 {featuredRead}/{site.featured_ids.length}
+          首批 {featuredRead}/{site.featured_ids.length} · 专页 {draft}/{total}
         </div>
       </div>
       <Routes>

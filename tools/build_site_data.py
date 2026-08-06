@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build apps/web/public/data/site.json from YAML + bios."""
+"""Build apps/web/public/data/site.json from YAML + master catalog + bios."""
 from __future__ import annotations
 
 import json
@@ -15,6 +15,7 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "apps" / "web" / "public" / "data" / "site.json"
+MASTER = ROOT / "data" / "catalog" / "emperors_master.json"
 LINK_RE = re.compile(r"\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]")
 
 
@@ -24,7 +25,6 @@ def load_yaml(path: Path):
 
 
 def parse_bio(md: str) -> list[dict]:
-    """Split markdown into segments of text / emperor links."""
     parts: list[dict] = []
     last = 0
     for m in LINK_RE.finditer(md):
@@ -43,6 +43,53 @@ def parse_bio(md: str) -> list[dict]:
     return parts
 
 
+def stub_from_catalog(c: dict) -> dict:
+    return {
+        "id": c["id"],
+        "tier": c.get("tier") or "emperor",
+        "sort_key": f"{c.get('dynasty','')}-{c.get('sequence',0):03d}",
+        "names": {
+            "display": c.get("display") or c["id"],
+            "personal": c.get("personal") or "",
+            "temple": None,
+            "posthumous": None,
+            "aliases": [],
+        },
+        "dynasty": {
+            "id": c.get("dynasty_id") or "",
+            "label": c.get("dynasty") or "",
+            "sequence": c.get("sequence"),
+        },
+        "reign": {
+            "start": str(c.get("reign_start") or ""),
+            "end": str(c.get("reign_end") or ""),
+            "eras": [],
+        },
+        "summary": c.get("note")
+        or "索引占位：尚无人物专页，史料卡与正文待补。",
+        "tags": [],
+        "timeline": [],
+        "relations": [],
+        "routes": [],
+        "sources": [],
+        "bio_md": "",
+        "bio_parts": [
+            {
+                "type": "text",
+                "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。",
+            }
+        ],
+        "meta": {
+            "status": "stub",
+            "confidence": "low",
+            "page_status": "stub",
+            "note": c.get("note") or "",
+        },
+        "page_status": "stub",
+        "portrait": {"disclaimer": "画像暂缓"},
+    }
+
+
 def main() -> int:
     places = {}
     for p in sorted((ROOT / "data" / "places").glob("*.yaml")):
@@ -51,7 +98,7 @@ def main() -> int:
 
     dynasties = load_yaml(ROOT / "data" / "dynasties.yaml") or []
 
-    emperors = []
+    full: dict[str, dict] = {}
     for p in sorted((ROOT / "data" / "emperors").glob("*.yaml")):
         d = load_yaml(p)
         bio_file = (d.get("bio") or {}).get("file")
@@ -62,10 +109,39 @@ def main() -> int:
                 bio_md = bp.read_text(encoding="utf-8")
         d["bio_md"] = bio_md
         d["bio_parts"] = parse_bio(bio_md)
-        # drop heavy unused fields for client if needed — keep full for MVP
-        emperors.append(d)
+        d["page_status"] = "draft"
+        meta = d.get("meta") or {}
+        meta["page_status"] = "draft"
+        d["meta"] = meta
+        full[d["id"]] = d
 
-    emperors.sort(key=lambda e: e.get("sort_key") or e["id"])
+    master_list: list[dict] = []
+    if MASTER.is_file():
+        master = json.loads(MASTER.read_text(encoding="utf-8"))
+        master_list = master.get("emperors") or []
+
+    emperors: list[dict] = []
+    seen = set()
+    for c in master_list:
+        eid = c["id"]
+        seen.add(eid)
+        if eid in full:
+            emperors.append(full[eid])
+        else:
+            emperors.append(stub_from_catalog(c))
+
+    # YAML not in master still appear (safety)
+    for eid, d in full.items():
+        if eid not in seen:
+            emperors.append(d)
+
+    catalog_stats = {
+        "total": len(emperors),
+        "stub": sum(1 for e in emperors if e.get("page_status") == "stub"),
+        "draft": sum(1 for e in emperors if e.get("page_status") == "draft"),
+        "quasi": sum(1 for e in emperors if e.get("tier") == "quasi"),
+        "emperor": sum(1 for e in emperors if e.get("tier") == "emperor"),
+    }
 
     site = {
         "generated_note": "由 tools/build_site_data.py 生成，勿手改",
@@ -73,11 +149,16 @@ def main() -> int:
         "places": places,
         "emperors": emperors,
         "featured_ids": ["qin-shi-huang", "han-wu-di", "tang-tai-zong"],
+        "catalog_stats": catalog_stats,
     }
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(site, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"OK -> {OUT.relative_to(ROOT)}  emperors={len(emperors)} places={len(places)}")
+    print(
+        f"OK -> {OUT.relative_to(ROOT)}  total={catalog_stats['total']} "
+        f"draft={catalog_stats['draft']} stub={catalog_stats['stub']} "
+        f"quasi={catalog_stats['quasi']} places={len(places)}"
+    )
     return 0
 
 

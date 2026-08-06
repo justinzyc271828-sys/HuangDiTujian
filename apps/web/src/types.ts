@@ -14,6 +14,7 @@ export type TimelineEvent = {
   place_id?: string | null;
   related_person_ids?: string[];
   sources?: string[];
+  card_id?: string;
 };
 
 export type Relation = {
@@ -38,6 +39,7 @@ export type Emperor = {
   id: string;
   tier: string;
   sort_key?: string;
+  page_status?: "stub" | "draft" | "ready" | string;
   names: {
     display: string;
     personal: string;
@@ -59,10 +61,23 @@ export type Emperor = {
   relations?: Relation[];
   routes?: RoutePoint[];
   sources?: { title: string; note?: string }[];
-  meta?: { status?: string; confidence?: string };
+  meta?: {
+    status?: string;
+    confidence?: string;
+    page_status?: string;
+    note?: string;
+  };
   bio_parts?: BioPart[];
   bio_md?: string;
   portrait?: { disclaimer?: string };
+};
+
+export type CatalogStats = {
+  total: number;
+  stub: number;
+  draft: number;
+  quasi: number;
+  emperor: number;
 };
 
 export type SiteData = {
@@ -70,4 +85,5 @@ export type SiteData = {
   places: Record<string, Place>;
   emperors: Emperor[];
   featured_ids: string[];
+  catalog_stats?: CatalogStats;
 };
