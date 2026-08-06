@@ -103,8 +103,13 @@ npm run dev
 
 参考库（写史料卡）：`HuangDiTujian-Ref/11-史料卡工作台/README.md`  
 卷目录索引：`HuangDiTujian-Ref/10-索引/` · 总览：`HuangDiTujian-Ref/INDEX.md`  
-**皇帝索引总表（全库人数）：** [`docs/references/catalogs/皇帝索引总表.md`](docs/references/catalogs/皇帝索引总表.md)  
-（二十四史/通鉴等大体量 md 默认不提交 Git；索引与工作台可提交）
+**皇帝索引总表：** [`docs/references/catalogs/皇帝索引总表.md`](docs/references/catalogs/皇帝索引总表.md)  
+
+### 专页 UI（定稿方向 · 前端槽位预留）
+
+正式点进皇帝 = **奏折展开三栏**：左目录 · 中主文（含六维） · 右一生地图。  
+设计说明：[`docs/07-专页奏折布局设计.md`](docs/07-专页奏折布局设计.md)  
+**现有 `/lab` 仅实验，不作正式视觉；高保真前端按 07 文档另做。**
 
 ## 路线图（极简）
 

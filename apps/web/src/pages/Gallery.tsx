@@ -80,9 +80,11 @@ export default function Gallery({ site }: Props) {
           索引共 <strong>{stats.total}</strong> 人（专页草稿 {stats.draft} · 灰卡
           stub {stats.stub} · 准 {stats.quasi}）。首批三人有完整事迹/年表/地图；其余为占位灰卡。
           <br />
-          <Link to="/lab" style={{ fontWeight: 600 }}>
-            → 打开「替身档 Lab」对比 5 版六维设定页 UI
-          </Link>
+          <span style={{ color: "var(--ink-soft)" }}>
+            专页定稿方向：奏折三栏（左目录 · 中主文含六维 · 右地图）——见仓库{" "}
+            <code>docs/07-专页奏折布局设计.md</code>。现有页面为数据预览壳，正式 UI
+            槽位预留。
+          </span>
         </p>
       </header>
 

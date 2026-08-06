@@ -55,17 +55,8 @@ export default function App() {
           皇帝图鉴
           <span>索引 {total}</span>
         </Link>
-        <div style={{ display: "flex", gap: "0.6rem", alignItems: "center" }}>
-          <Link
-            to="/lab"
-            className="chip"
-            style={{ textDecoration: "none", color: "inherit" }}
-          >
-            替身档 Lab
-          </Link>
-          <div className="progress">
-            首批 {featuredRead}/{site.featured_ids.length} · 专页 {draft}/{total}
-          </div>
+        <div className="progress">
+          首批 {featuredRead}/{site.featured_ids.length} · 专页 {draft}/{total}
         </div>
       </div>
       <Routes>
