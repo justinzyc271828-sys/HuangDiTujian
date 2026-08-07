@@ -73,7 +73,9 @@ HuangDiTujian/
 | [材料就绪检查清单](docs/references/checklists/材料就绪检查清单.md) | **你决定是否开填三卡的决策页** |
 | [所需书籍清单](docs/references/checklists/所需书籍与资料清单.md) | 已得 / 未得书目 |
 | [工作区边界](docs/06-工作区边界.md) | **仅本仓库可写** |
-| [史源工作区](content/sources/README.md) | 三人 ready-to-fill 脚手架 |
+| [史源工作区](content/sources/README.md) | 二十人史料卡 + 三人 dossier-complete |
+| [先导二十人](docs/references/catalogs/先导二十人.md) | video-01 名单与六维 |
+| [视频分镜包](content/video/video-01/README.md) | 先导二十 · 系列版式与分镜 |
 | [本地参考包](reference/README.md) | 大体量资料放仓库内 `reference/` |
 
 ---

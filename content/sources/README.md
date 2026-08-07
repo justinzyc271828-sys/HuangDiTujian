@@ -1,35 +1,31 @@
 # 史源 / 史料工作区
 
-规范：`docs/05-史源卡工作规范.md`  
-**参考库入口（已整理）：** `HuangDiTujian-Ref/11-史料卡工作台/README.md`
+规范：`docs/05-史源卡工作规范.md`
 
-## 状态总览
+## 状态总览（video-01 + 首批三人）
 
-| id | 人物 | status | 史料卡 | 主文本 |
-|----|------|--------|--------|--------|
-| qin-shi-huang | 秦始皇 | dossier-complete | 12 条 | 史记·卷006 |
-| han-wu-di | 汉武帝 | dossier-complete | 12 条 | 汉书·卷006 |
-| tang-tai-zong | 唐太宗 | dossier-complete | 12 条 | 旧唐·卷2 |
+| id | 人物 | status | 史料卡 | 备注 |
+|----|------|--------|--------|------|
+| qin-shi-huang | 秦始皇 | dossier-complete | 12 | 史记 |
+| han-wu-di | 汉武帝 | dossier-complete | 12 | 汉书 |
+| tang-tai-zong | 唐太宗 | dossier-complete | 12 | 两唐书 |
+| han-xuan-di | 汉宣帝 | in-progress | 8 | video-01 先导 |
+| xin-wang-mang | 新帝王莽 | in-progress | 7 | video-01 先导 |
+| e-han-guangwu | 汉光武帝 | in-progress | 7 | video-01 先导 |
+| h-zhao-shi-le | 后赵石勒 | in-progress | 7 | video-01 先导 |
+| liang-wu | 梁武帝 | in-progress | 6 | video-01 先导 |
+| xixia-li-yuanhao | 西夏景宗 | in-progress | 6 | video-01 先导 |
+| q-qin-fu-jian | 前秦世祖 | in-progress | 7 | video-01 先导 |
+| n-wei-xiaowen | 北魏孝文帝 | in-progress | 6 | video-01 先导 |
+| sui-wen | 隋文帝 | in-progress | 5 | video-01 先导 |
+| sui-yang | 隋炀帝 | in-progress | 6 | video-01 先导 |
+| zhou-wu-zetian | 武则天 | in-progress | 6 | video-01 先导 |
+| tang-xian-zong | 唐宪宗 | in-progress | 5 | video-01 先导 |
+| zhou-shi | 后周世宗 | in-progress | 6 | video-01 先导 |
+| n-tang-houzhu | 南唐后主 | in-progress | 6 | video-01 先导 |
+| n-song-tai-zu | 宋太祖 | in-progress | 5 | video-01 先导 |
+| yuan-shi-zu | 元世祖 | in-progress | 6 | video-01 先导 |
+| n-wei-taiwu | 北魏太武帝 | in-progress | 7 | video-01 先导 |
 
-全量皇帝索引：`docs/references/catalogs/皇帝索引总表.md` · `data/catalog/emperors_master.json`
-
-## 写卡时打开
-
-1. `HuangDiTujian-Ref/11-史料卡工作台/{id}.md` — 锚点  
-2. 对应简体史书 md  
-3. 本目录 `证据/` 落卡  
-
-检索：
-
-```bash
-python tools/search_ref.py "始皇帝" --book 史记
-python tools/build_ref_indexes.py   # 重建卷目录
-```
-
-## 目录
-
-```
-_templates/
-qin-shi-huang/  han-wu-di/  tang-tai-zong/
-  00–06 …  证据/  摘录/
-```
+分镜总包：`content/video/video-01/`
+全量索引：`data/catalog/emperors_master.json`
