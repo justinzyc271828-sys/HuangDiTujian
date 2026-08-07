@@ -104,6 +104,7 @@ npm run dev
 参考库（写史料卡）：`HuangDiTujian-Ref/11-史料卡工作台/README.md`  
 卷目录索引：`HuangDiTujian-Ref/10-索引/` · 总览：`HuangDiTujian-Ref/INDEX.md`  
 **皇帝索引总表：** [`docs/references/catalogs/皇帝索引总表.md`](docs/references/catalogs/皇帝索引总表.md)  
+**先导二十人（视频/封面批）：** [`docs/references/catalogs/先导二十人.md`](docs/references/catalogs/先导二十人.md) · 数据 `data/catalog/video20.json`  
 
 ### 专页 UI（定稿方向 · 前端槽位预留）
 

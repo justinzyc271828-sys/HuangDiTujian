@@ -1,0 +1,427 @@
+{
+  "version": "1.0",
+  "updated": "2026-08-06",
+  "batch": "video-01",
+  "title": "皇帝图鉴·先导二十人",
+  "disclaimer": "后效言格局，月旦言褒贬；皆品藻，非盖棺铁案。月旦≠知名度。",
+  "axes": [
+    {
+      "key": "wugong",
+      "label": "武功",
+      "scale": [0, 100],
+      "desc": "征伐、拓边、军威是否立得住"
+    },
+    {
+      "key": "wenzhi",
+      "label": "文治",
+      "scale": [0, 100],
+      "desc": "制度、吏治、礼法、安民"
+    },
+    {
+      "key": "taolue",
+      "label": "韬略",
+      "scale": [0, 100],
+      "desc": "权谋、决断、纵横、危机处理"
+    },
+    {
+      "key": "guozuo",
+      "label": "国祚",
+      "scale": [0, 100],
+      "desc": "在位久暂 + 身死之后政权是否立得住"
+    },
+    {
+      "key": "houxiao",
+      "label": "后效",
+      "scale": [0, 100],
+      "desc": "客观上留给后代的制度/格局/路径依赖（非骂名大小）"
+    },
+    {
+      "key": "yuedan",
+      "label": "月旦",
+      "scale": [0, 100],
+      "desc": "世人与史评总体褒贬（高=偏正，低=偏负；≠知名度）"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "qin-shi-huang",
+      "display": "秦始皇",
+      "personal": "嬴政",
+      "dynasty": "秦",
+      "epithet": "一统六合",
+      "memory": "前221称帝",
+      "memory_note": "六国既灭，号始皇帝",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 96,
+        "wenzhi": 93,
+        "taolue": 88,
+        "guozuo": 18,
+        "houxiao": 99,
+        "yuedan": 42
+      },
+      "score_note": "后效顶格、国祚极低；月旦功罪撕裂偏苛"
+    },
+    {
+      "id": "han-xuan-di",
+      "display": "汉宣帝",
+      "personal": "刘询",
+      "dynasty": "西汉",
+      "epithet": "综核名实",
+      "memory": "地节亲政 / 昭宣气象",
+      "memory_note": "霍光死后综核名实",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 94,
+        "taolue": 90,
+        "guozuo": 80,
+        "houxiao": 74,
+        "yuedan": 84
+      },
+      "score_note": "文治韬略高；大众识别度低于武宣口号"
+    },
+    {
+      "id": "han-wu-di",
+      "display": "汉武帝",
+      "personal": "刘彻",
+      "dynasty": "西汉",
+      "epithet": "封狼居胥",
+      "memory": "漠北叙事 / 元封封禅",
+      "memory_note": "片中可二选一主打",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 95,
+        "wenzhi": 82,
+        "taolue": 85,
+        "guozuo": 86,
+        "houxiao": 94,
+        "yuedan": 68
+      },
+      "score_note": "雄主与穷兵拉扯，月旦中略正"
+    },
+    {
+      "id": "xin-wang-mang",
+      "display": "新帝王莽",
+      "personal": "王莽",
+      "dynasty": "新",
+      "epithet": "以儒窃国",
+      "memory": "始建国元年（9）",
+      "memory_note": "假周公、托古改制",
+      "tier": "quasi",
+      "scores": {
+        "wugong": 35,
+        "wenzhi": 55,
+        "taolue": 72,
+        "guozuo": 12,
+        "houxiao": 70,
+        "yuedan": 22
+      },
+      "score_note": "月旦篡贼定评；后效在改制讨论"
+    },
+    {
+      "id": "e-han-guangwu",
+      "display": "汉光武帝",
+      "personal": "刘秀",
+      "dynasty": "东汉",
+      "epithet": "昆阳一旅",
+      "memory": "昆阳之战",
+      "memory_note": "中兴打出来的一战",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 91,
+        "wenzhi": 90,
+        "taolue": 90,
+        "guozuo": 84,
+        "houxiao": 86,
+        "yuedan": 90
+      },
+      "score_note": "中兴令主，月旦正面"
+    },
+    {
+      "id": "h-zhao-shi-le",
+      "display": "后赵石勒",
+      "personal": "石勒",
+      "dynasty": "后赵",
+      "epithet": "奴隶天子",
+      "memory": "襄国称赵",
+      "memory_note": "从奴隶到皇帝",
+      "tier": "quasi",
+      "scores": {
+        "wugong": 93,
+        "wenzhi": 76,
+        "taolue": 94,
+        "guozuo": 42,
+        "houxiao": 68,
+        "yuedan": 72
+      },
+      "score_note": "史家称雄略，月旦偏正"
+    },
+    {
+      "id": "liang-wu",
+      "display": "梁武帝",
+      "personal": "萧衍",
+      "dynasty": "梁",
+      "epithet": "同泰天子",
+      "memory": "舍身同泰 / 侯景之乱",
+      "memory_note": "佛与侯景两面",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 48,
+        "wenzhi": 78,
+        "taolue": 62,
+        "guozuo": 55,
+        "houxiao": 72,
+        "yuedan": 50
+      },
+      "score_note": "前誉后毁，月旦中性"
+    },
+    {
+      "id": "xixia-li-yuanhao",
+      "display": "西夏景宗",
+      "personal": "李元昊",
+      "dynasty": "西夏",
+      "epithet": "河西称制",
+      "memory": "1038称帝",
+      "memory_note": "天授礼法延祚元年",
+      "tier": "quasi",
+      "scores": {
+        "wugong": 88,
+        "wenzhi": 80,
+        "taolue": 86,
+        "guozuo": 75,
+        "houxiao": 73,
+        "yuedan": 55
+      },
+      "score_note": "敌国史书偏贬，月旦取中"
+    },
+    {
+      "id": "q-qin-fu-jian",
+      "display": "前秦世祖",
+      "personal": "苻坚",
+      "dynasty": "前秦",
+      "epithet": "投鞭断流",
+      "memory": "383淝水",
+      "memory_note": "巅峰一句与战略翻车",
+      "tier": "quasi",
+      "scores": {
+        "wugong": 84,
+        "wenzhi": 81,
+        "taolue": 65,
+        "guozuo": 35,
+        "houxiao": 66,
+        "yuedan": 64
+      },
+      "score_note": "惜败嘉志，月旦中略正"
+    },
+    {
+      "id": "n-wei-xiaowen",
+      "display": "北魏孝文帝",
+      "personal": "元宏",
+      "dynasty": "北魏",
+      "epithet": "胡骑解辫",
+      "memory": "太和迁都",
+      "memory_note": "汉化更张",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 96,
+        "taolue": 84,
+        "guozuo": 70,
+        "houxiao": 93,
+        "yuedan": 86
+      },
+      "score_note": "文治后效极高，月旦正面"
+    },
+    {
+      "id": "sui-wen",
+      "display": "隋文帝",
+      "personal": "杨坚",
+      "dynasty": "隋",
+      "epithet": "混一戎夏",
+      "memory": "开皇九年灭陈",
+      "memory_note": "再统一",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 85,
+        "wenzhi": 95,
+        "taolue": 88,
+        "guozuo": 55,
+        "houxiao": 91,
+        "yuedan": 88
+      },
+      "score_note": "开国正面；二世而亡压国祚"
+    },
+    {
+      "id": "sui-yang",
+      "display": "隋炀帝",
+      "personal": "杨广",
+      "dynasty": "隋",
+      "epithet": "江东晋王",
+      "memory": "江都之变 / 大业",
+      "memory_note": "晋王出身，终于江都",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 70,
+        "wenzhi": 42,
+        "taolue": 52,
+        "guozuo": 15,
+        "houxiao": 86,
+        "yuedan": 18
+      },
+      "score_note": "后效≫月旦：运河遗产 vs 暴君定评"
+    },
+    {
+      "id": "tang-tai-zong",
+      "display": "唐太宗",
+      "personal": "李世民",
+      "dynasty": "唐",
+      "epithet": "天可汗令",
+      "memory": "破突厥 / 玄武门",
+      "memory_note": "片中可主打其一",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 89,
+        "wenzhi": 96,
+        "taolue": 95,
+        "guozuo": 88,
+        "houxiao": 97,
+        "yuedan": 96
+      },
+      "score_note": "治世典范，月旦顶格正面"
+    },
+    {
+      "id": "zhou-wu-zetian",
+      "display": "武则天",
+      "personal": "武曌",
+      "dynasty": "武周",
+      "epithet": "金轮称制",
+      "memory": "天授元年（690）称帝",
+      "memory_note": "女主称制",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 88,
+        "taolue": 94,
+        "guozuo": 78,
+        "houxiao": 88,
+        "yuedan": 58
+      },
+      "score_note": "传统贬抑与现代重估拉扯"
+    },
+    {
+      "id": "tang-xian-zong",
+      "display": "唐宪宗",
+      "personal": "李纯",
+      "dynasty": "唐",
+      "epithet": "元和鞭藩",
+      "memory": "元和削藩",
+      "memory_note": "中晚唐回光",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 76,
+        "wenzhi": 87,
+        "taolue": 90,
+        "guozuo": 48,
+        "houxiao": 78,
+        "yuedan": 80
+      },
+      "score_note": "中兴之主，月旦偏正"
+    },
+    {
+      "id": "zhou-shi",
+      "display": "后周世宗",
+      "personal": "柴荣",
+      "dynasty": "后周",
+      "epithet": "显德振旅",
+      "memory": "显德征伐",
+      "memory_note": "五代英主",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 92,
+        "wenzhi": 89,
+        "taolue": 88,
+        "guozuo": 28,
+        "houxiao": 85,
+        "yuedan": 88
+      },
+      "score_note": "史评高；英年早逝压国祚"
+    },
+    {
+      "id": "n-tang-houzhu",
+      "display": "南唐后主",
+      "personal": "李煜",
+      "dynasty": "南唐",
+      "epithet": "江南残梦",
+      "memory": "975城破",
+      "memory_note": "违命侯与词谶",
+      "tier": "quasi",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 35,
+        "taolue": 30,
+        "guozuo": 20,
+        "houxiao": 78,
+        "yuedan": 78
+      },
+      "score_note": "君道负、才人正；月旦为同情分非知名度"
+    },
+    {
+      "id": "n-song-tai-zu",
+      "display": "宋太祖",
+      "personal": "赵匡胤",
+      "dynasty": "北宋",
+      "epithet": "杯酒释兵",
+      "memory": "杯酒释兵权（副钩：960陈桥）",
+      "memory_note": "制度名场面",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 80,
+        "wenzhi": 93,
+        "taolue": 95,
+        "guozuo": 78,
+        "houxiao": 94,
+        "yuedan": 90
+      },
+      "score_note": "强干弱枝后效极强"
+    },
+    {
+      "id": "yuan-shi-zu",
+      "display": "元世祖",
+      "personal": "忽必烈",
+      "dynasty": "元",
+      "epithet": "混一车书",
+      "memory": "1279灭宋",
+      "memory_note": "至元混一",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 91,
+        "wenzhi": 86,
+        "taolue": 87,
+        "guozuo": 86,
+        "houxiao": 96,
+        "yuedan": 52
+      },
+      "score_note": "后效极高；征服/正统争议压月旦"
+    },
+    {
+      "id": "n-wei-taiwu",
+      "display": "北魏太武帝",
+      "personal": "拓跋焘",
+      "dynasty": "北魏",
+      "epithet": "真君铁骑",
+      "memory": "灭北凉 / 太平真君灭佛",
+      "memory_note": "北方一统硬指标",
+      "tier": "emperor",
+      "scores": {
+        "wugong": 96,
+        "wenzhi": 62,
+        "taolue": 86,
+        "guozuo": 74,
+        "houxiao": 82,
+        "yuedan": 48
+      },
+      "score_note": "武功正；残暴/灭佛拉低月旦"
+    }
+  ]
+}
