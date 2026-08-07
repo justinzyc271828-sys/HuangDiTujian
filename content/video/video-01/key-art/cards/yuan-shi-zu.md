@@ -1,35 +1,40 @@
 ---
 id: "yuan-shi-zu"
 display: "元世祖"
+personal: "忽必烈"
 epithet: "混一车书"
 order: 19
 batch: video-01
 type: key-art-static
+naming: "personal-first then title; no book-title marks on events"
 ---
 
-# Key Art · 19 · 元世祖「混一车书」
+# Key Art · 19 · 忽必烈（元世祖）「混一车书」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
+
+> **命名规则**：先出**本人姓名**，再出庙号/通行称号；代表事**不加书名号**。
 
 ### 右上 · 代表事
 
 ```
 [代表事]
-《1279灭宋》
-《混一车书》
+1279灭宋
+混一车书
 ```
 
-### 右下 · 四字号 + 名
+### 右下 · 四字号 + 姓名（本名在上）
 
 ```
 [混一车书]
+忽必烈
 元世祖
 ```
 
 ### 可选顶栏
 
 ```
-《皇帝图鉴》先导 · video-01
+皇帝图鉴 · 先导 video-01
 ```
 
 ### 左下雷达数字（程序绘）
@@ -56,7 +61,8 @@ type: key-art-static
 | 史料钩 | `content/sources/yuan-shi-zu/` · 分镜 `content/video/video-01/分镜/yuan-shi-zu.md` |
 
 **综合效果目标（对标文豪图鉴井中贺知章）：**  
-人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。
+人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。  
+叠字像「贺知章」那样出**人名**，不拿「文豪称号」当主名；四字号只当绰号框。
 
 ## 3. English image prompt（复制给 Image）
 
@@ -82,5 +88,6 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar cha
 
 - [ ] 底板无字无 UI  
 - [ ] 雷达六维与 video20 一致  
-- [ ] 右上代表事、右下四字号+姓名  
+- [ ] 右上代表事（无书名号）  
+- [ ] 右下：四字号 + **本名在上** + 称号在下  
 - [ ] 暗角与参考帧同级  

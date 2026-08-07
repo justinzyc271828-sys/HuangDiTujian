@@ -329,25 +329,53 @@ def full_prompt(body: str) -> str:
     return PREFIX + body.strip().rstrip(",") + ", " + SUFFIX
 
 
+def personal_name(p: dict) -> str:
+    """本名优先；去掉括号注（如 病已、嵬名…）仅取主名。"""
+    raw = (p.get("personal") or p.get("display") or "").strip()
+    if "（" in raw:
+        raw = raw.split("（", 1)[0].strip()
+    if "(" in raw:
+        raw = raw.split("(", 1)[0].strip()
+    return raw
+
+
+def name_title_line(p: dict) -> str:
+    """叠字：先本名，再称号（显示名）。本名与称号相同则只出一行。"""
+    name = personal_name(p)
+    title = (p.get("display") or "").strip()
+    if not title or title == name:
+        return name
+    # 若 display 已含本名（少见）也不重复
+    if name and name in title and title != name:
+        return f"{name}\n{title}"
+    return f"{name}\n{title}"
+
+
 def card_md(p: dict, sc: dict) -> str:
     scores = p["scores"]
     score_lines = " · ".join(f"{zh}{scores[k]}" for k, zh in AXIS_LABELS)
     radar_rows = "\n".join(f"| {zh} | {scores[k]} |" for k, zh in AXIS_LABELS)
-    ev1, ev2 = sc["event_zh"][0], sc["event_zh"][1] if len(sc["event_zh"]) > 1 else ""
-    rep_block = f"《{ev1}》" + (f"\n《{ev2}》" if ev2 else "")
+    # 代表事：纯事件名，不加书名号《》（皇帝不是文豪作品）
+    rep_block = "\n".join(sc["event_zh"])
+    name_block = name_title_line(p)
+    pname = personal_name(p)
     fp = full_prompt(sc["prompt"])
     return f"""---
 id: "{p['id']}"
 display: "{p['display']}"
+personal: "{pname}"
 epithet: "{p['epithet']}"
 order: {sc['order']}
 batch: video-01
 type: key-art-static
+naming: "personal-first then title; no book-title marks on events"
 ---
 
-# Key Art · {sc['order']:02d} · {p['display']}「{p['epithet']}」
+# Key Art · {sc['order']:02d} · {pname}（{p['display']}）「{p['epithet']}」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
+
+> **命名规则**：先出**本人姓名**，再出庙号/通行称号；代表事**不加书名号**。
 
 ### 右上 · 代表事
 
@@ -356,17 +384,17 @@ type: key-art-static
 {rep_block}
 ```
 
-### 右下 · 四字号 + 名
+### 右下 · 四字号 + 姓名（本名在上）
 
 ```
 [{p['epithet']}]
-{p['display']}
+{name_block}
 ```
 
 ### 可选顶栏
 
 ```
-《皇帝图鉴》先导 · video-01
+皇帝图鉴 · 先导 video-01
 ```
 
 ### 左下雷达数字（程序绘）
@@ -388,7 +416,8 @@ type: key-art-static
 | 史料钩 | `content/sources/{p['id']}/` · 分镜 `content/video/video-01/分镜/{p['id']}.md` |
 
 **综合效果目标（对标文豪图鉴井中贺知章）：**  
-人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。
+人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。  
+叠字像「贺知章」那样出**人名**，不拿「文豪称号」当主名；四字号只当绰号框。
 
 ## 3. English image prompt（复制给 Image）
 
@@ -414,7 +443,8 @@ type: key-art-static
 
 - [ ] 底板无字无 UI  
 - [ ] 雷达六维与 video20 一致  
-- [ ] 右上代表事、右下四字号+姓名  
+- [ ] 右上代表事（无书名号）  
+- [ ] 右下：四字号 + **本名在上** + 称号在下  
 - [ ] 暗角与参考帧同级  
 """
 
@@ -426,8 +456,8 @@ def main():
 
     overlay = {"version": "1.0", "batch": "video-01", "axes": [zh for _, zh in AXIS_LABELS], "cards": []}
     table_rows = [
-        "| # | id | 人物 | 四字号 | 代表事 | 卡 |",
-        "|---|-----|------|--------|--------|-----|",
+        "| # | id | 本名 / 称号 | 四字号 | 代表事（无书名号） | 卡 |",
+        "|---|-----|-------------|--------|-------------------|-----|",
     ]
     en_only = [
         "# video-01 key-art EN prompts only",
@@ -445,7 +475,7 @@ def main():
         (CARDS / f"{pid}.md").write_text(md, encoding="utf-8")
         fp = full_prompt(sc["prompt"])
         en_only += [
-            f"## {sc['order']:02d} | {pid} | {p['display']} | {p['epithet']}",
+            f"## {sc['order']:02d} | {pid} | {personal_name(p)} / {p['display']} | {p['epithet']}",
             "",
             fp,
             "",
@@ -456,17 +486,20 @@ def main():
         ]
         ev = " / ".join(sc["event_zh"])
         table_rows.append(
-            f"| {sc['order']} | `{pid}` | {p['display']} | {p['epithet']} | {ev} | [cards/{pid}.md](cards/{pid}.md) |"
+            f"| {sc['order']} | `{pid}` | **{personal_name(p)}** / {p['display']} | {p['epithet']} | {ev} | [cards/{pid}.md](cards/{pid}.md) |"
         )
         overlay["cards"].append(
             {
                 "id": pid,
                 "order": sc["order"],
+                "personal": personal_name(p),
                 "display": p["display"],
+                "name_lines": name_title_line(p).split("\n"),
                 "epithet": p["epithet"],
                 "dynasty": p.get("dynasty"),
                 "event_label": sc["event_label"],
                 "event_lines": sc["event_zh"],
+                "event_style": "plain-no-book-title-marks",
                 "scores": p["scores"],
                 "scene_one_liner_zh": sc["scene_one_liner_zh"],
                 "prompt_en": fp,
@@ -505,7 +538,7 @@ def main():
 |------|------|
 | 静态主画面 | 每人 1 张 16:9 事件综合场景 |
 | 人物+代表事件+背景 | 已写进中文场景说明 + 英文 prompt |
-| 中文 | 仅叠字层（代表事/四字号/姓名/六维标签） |
+| 中文 | 仅叠字层；**本名优先**，可本名+称号；代表事**无书名号** |
 | 英文 | 全部出图 prompt 与 negative |
 | 先不生成图 | 本目录只有 md/json/txt |
 

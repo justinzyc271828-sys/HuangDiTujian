@@ -13,7 +13,12 @@
     {
       "id": "qin-shi-huang",
       "order": 1,
+      "personal": "嬴政",
       "display": "秦始皇",
+      "name_lines": [
+        "嬴政",
+        "秦始皇"
+      ],
       "epithet": "一统六合",
       "dynasty": "秦",
       "event_label": "代表事",
@@ -21,6 +26,7 @@
         "前221称帝",
         "书同文·车同轨"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 96,
         "wenzhi": 93,
@@ -36,7 +42,12 @@
     {
       "id": "han-xuan-di",
       "order": 2,
+      "personal": "刘询",
       "display": "汉宣帝",
+      "name_lines": [
+        "刘询",
+        "汉宣帝"
+      ],
       "epithet": "综核名实",
       "dynasty": "西汉",
       "event_label": "代表事",
@@ -44,6 +55,7 @@
         "地节亲政",
         "综核名实"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 68,
         "wenzhi": 94,
@@ -59,7 +71,12 @@
     {
       "id": "han-wu-di",
       "order": 3,
+      "personal": "刘彻",
       "display": "汉武帝",
+      "name_lines": [
+        "刘彻",
+        "汉武帝"
+      ],
       "epithet": "封狼居胥",
       "dynasty": "西汉",
       "event_label": "代表事",
@@ -67,6 +84,7 @@
         "封狼居胥",
         "漠北勒石"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 95,
         "wenzhi": 82,
@@ -82,7 +100,12 @@
     {
       "id": "xin-wang-mang",
       "order": 4,
+      "personal": "王莽",
       "display": "新帝王莽",
+      "name_lines": [
+        "王莽",
+        "新帝王莽"
+      ],
       "epithet": "以儒窃国",
       "dynasty": "新",
       "event_label": "代表事",
@@ -90,6 +113,7 @@
         "始建国元年",
         "托古改制"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 35,
         "wenzhi": 55,
@@ -105,7 +129,12 @@
     {
       "id": "e-han-guangwu",
       "order": 5,
+      "personal": "刘秀",
       "display": "汉光武帝",
+      "name_lines": [
+        "刘秀",
+        "汉光武帝"
+      ],
       "epithet": "昆阳一旅",
       "dynasty": "东汉",
       "event_label": "代表事",
@@ -113,6 +142,7 @@
         "昆阳之战",
         "以少击众"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 91,
         "wenzhi": 90,
@@ -128,7 +158,12 @@
     {
       "id": "h-zhao-shi-le",
       "order": 6,
+      "personal": "石勒",
       "display": "后赵石勒",
+      "name_lines": [
+        "石勒",
+        "后赵石勒"
+      ],
       "epithet": "奴隶天子",
       "dynasty": "后赵",
       "event_label": "代表事",
@@ -136,6 +171,7 @@
         "襄国称赵",
         "奴隶天子"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 93,
         "wenzhi": 76,
@@ -151,7 +187,12 @@
     {
       "id": "liang-wu",
       "order": 7,
+      "personal": "萧衍",
       "display": "梁武帝",
+      "name_lines": [
+        "萧衍",
+        "梁武帝"
+      ],
       "epithet": "同泰天子",
       "dynasty": "梁",
       "event_label": "代表事",
@@ -159,6 +200,7 @@
         "舍身同泰",
         "侯景将至"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 48,
         "wenzhi": 78,
@@ -174,7 +216,12 @@
     {
       "id": "xixia-li-yuanhao",
       "order": 8,
+      "personal": "李元昊",
       "display": "西夏景宗",
+      "name_lines": [
+        "李元昊",
+        "西夏景宗"
+      ],
       "epithet": "河西称制",
       "dynasty": "西夏",
       "event_label": "代表事",
@@ -182,6 +229,7 @@
         "1038称帝",
         "河西立国"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 88,
         "wenzhi": 80,
@@ -197,7 +245,12 @@
     {
       "id": "q-qin-fu-jian",
       "order": 9,
+      "personal": "苻坚",
       "display": "前秦世祖",
+      "name_lines": [
+        "苻坚",
+        "前秦世祖"
+      ],
       "epithet": "投鞭断流",
       "dynasty": "前秦",
       "event_label": "代表事",
@@ -205,6 +258,7 @@
         "投鞭断流",
         "淝水将败"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 84,
         "wenzhi": 81,
@@ -220,7 +274,12 @@
     {
       "id": "n-wei-xiaowen",
       "order": 10,
+      "personal": "元宏",
       "display": "北魏孝文帝",
+      "name_lines": [
+        "元宏",
+        "北魏孝文帝"
+      ],
       "epithet": "胡骑解辫",
       "dynasty": "北魏",
       "event_label": "代表事",
@@ -228,6 +287,7 @@
         "太和迁都",
         "胡骑解辫"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 65,
         "wenzhi": 96,
@@ -243,7 +303,12 @@
     {
       "id": "sui-wen",
       "order": 11,
+      "personal": "杨坚",
       "display": "隋文帝",
+      "name_lines": [
+        "杨坚",
+        "隋文帝"
+      ],
       "epithet": "混一戎夏",
       "dynasty": "隋",
       "event_label": "代表事",
@@ -251,6 +316,7 @@
         "开皇灭陈",
         "混一戎夏"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 85,
         "wenzhi": 95,
@@ -266,7 +332,12 @@
     {
       "id": "sui-yang",
       "order": 12,
+      "personal": "杨广",
       "display": "隋炀帝",
+      "name_lines": [
+        "杨广",
+        "隋炀帝"
+      ],
       "epithet": "江东晋王",
       "dynasty": "隋",
       "event_label": "代表事",
@@ -274,6 +345,7 @@
         "江都之变",
         "运河如带"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 70,
         "wenzhi": 42,
@@ -289,7 +361,12 @@
     {
       "id": "tang-tai-zong",
       "order": 13,
+      "personal": "李世民",
       "display": "唐太宗",
+      "name_lines": [
+        "李世民",
+        "唐太宗"
+      ],
       "epithet": "天可汗令",
       "dynasty": "唐",
       "event_label": "代表事",
@@ -297,6 +374,7 @@
         "天可汗",
         "贞观纳谏"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 89,
         "wenzhi": 96,
@@ -312,7 +390,12 @@
     {
       "id": "zhou-wu-zetian",
       "order": 14,
+      "personal": "武曌",
       "display": "武则天",
+      "name_lines": [
+        "武曌",
+        "武则天"
+      ],
       "epithet": "金轮称制",
       "dynasty": "武周",
       "event_label": "代表事",
@@ -320,6 +403,7 @@
         "天授称帝",
         "金轮称制"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 68,
         "wenzhi": 88,
@@ -335,7 +419,12 @@
     {
       "id": "tang-xian-zong",
       "order": 15,
+      "personal": "李纯",
       "display": "唐宪宗",
+      "name_lines": [
+        "李纯",
+        "唐宪宗"
+      ],
       "epithet": "元和鞭藩",
       "dynasty": "唐",
       "event_label": "代表事",
@@ -343,6 +432,7 @@
         "元和削藩",
         "雪夜蔡州"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 76,
         "wenzhi": 87,
@@ -358,7 +448,12 @@
     {
       "id": "zhou-shi",
       "order": 16,
+      "personal": "柴荣",
       "display": "后周世宗",
+      "name_lines": [
+        "柴荣",
+        "后周世宗"
+      ],
       "epithet": "显德振旅",
       "dynasty": "后周",
       "event_label": "代表事",
@@ -366,6 +461,7 @@
         "高平之战",
         "显德振旅"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 92,
         "wenzhi": 89,
@@ -381,7 +477,12 @@
     {
       "id": "n-tang-houzhu",
       "order": 17,
+      "personal": "李煜",
       "display": "南唐后主",
+      "name_lines": [
+        "李煜",
+        "南唐后主"
+      ],
       "epithet": "江南残梦",
       "dynasty": "南唐",
       "event_label": "代表事",
@@ -389,6 +490,7 @@
         "975城破",
         "江南残梦"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 15,
         "wenzhi": 35,
@@ -404,7 +506,12 @@
     {
       "id": "n-song-tai-zu",
       "order": 18,
+      "personal": "赵匡胤",
       "display": "宋太祖",
+      "name_lines": [
+        "赵匡胤",
+        "宋太祖"
+      ],
       "epithet": "杯酒释兵",
       "dynasty": "北宋",
       "event_label": "代表事",
@@ -412,6 +519,7 @@
         "杯酒释兵权",
         "烛宴"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 80,
         "wenzhi": 93,
@@ -427,7 +535,12 @@
     {
       "id": "yuan-shi-zu",
       "order": 19,
+      "personal": "忽必烈",
       "display": "元世祖",
+      "name_lines": [
+        "忽必烈",
+        "元世祖"
+      ],
       "epithet": "混一车书",
       "dynasty": "元",
       "event_label": "代表事",
@@ -435,6 +548,7 @@
         "1279灭宋",
         "混一车书"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 91,
         "wenzhi": 86,
@@ -450,7 +564,12 @@
     {
       "id": "n-wei-taiwu",
       "order": 20,
+      "personal": "拓跋焘",
       "display": "北魏太武帝",
+      "name_lines": [
+        "拓跋焘",
+        "北魏太武帝"
+      ],
       "epithet": "真君铁骑",
       "dynasty": "北魏",
       "event_label": "代表事",
@@ -458,6 +577,7 @@
         "灭北凉",
         "真君铁骑"
       ],
+      "event_style": "plain-no-book-title-marks",
       "scores": {
         "wugong": 96,
         "wenzhi": 62,
