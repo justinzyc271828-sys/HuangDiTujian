@@ -3,7 +3,8 @@
 > 更新：2026-08-06  
 > 数据：`data/catalog/video20.json`  
 > 史料：`content/sources/{id}/`  
-> 分镜：`content/video/video-01/分镜/{id}.md`
+> 分镜：`content/video/video-01/分镜/{id}.md`  
+> **静态主画面（文豪图鉴式 Key Art 文案）**：`content/video/video-01/key-art/`
 
 ## 产品定位
 

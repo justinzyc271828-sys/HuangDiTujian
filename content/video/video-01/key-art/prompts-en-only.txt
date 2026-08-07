@@ -1,0 +1,162 @@
+# video-01 key-art EN prompts only
+# Each block: id | display | then positive prompt
+
+## 01 | qin-shi-huang | 秦始皇 | 一统六合
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Qin Shi Huang standing alone on a high black-and-gold palace terrace of Xianyang, tall crown and black imperial robe with gold edges, stern forward gaze as if measuring the world, behind him a vast ancient China map of the six states dissolving into one unified dark gold realm, ritual bronze measuring vessels and bamboo slips glowing faintly at his feet, monumental symmetry, smoke and cold dawn light, imperial seal atmosphere without showing any seal text, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 02 | han-xuan-di | 汉宣帝 | 综核名实
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Han Xuandi as a calm middle-aged ruler in plain but dignified Han dynasty robes, seated or standing beside a mountain of bamboo document slips in Weiyang Palace at night, holding a red-ink brush mid-stroke as if auditing names against reality, soft warm gray lamp light, subtle ghost image of common street life of Chang'an in the misty background, intelligent sharp eyes of someone raised among commoners, quiet power not martial spectacle, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 03 | han-wu-di | 汉武帝 | 封狼居胥
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Han Wudi in golden-red armor and imperial cloak on a windy Mongolian desert ridge, the dark silhouette of Langjuxu Mountain behind him, countless Han banners and cavalry below like a tide, sand gold light and cold blue sky, victorious yet heavy atmosphere of endless northern campaigns, cinematic low angle hero shot, dust and horsehair in the wind, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 04 | xin-wang-mang | 新帝王莽 | 以儒窃国
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Wang Mang as the Xin dynasty usurper-emperor in overly perfect Confucian ritual robes, holding a jade gui tablet with an almost mask-like solemn smile inside a cold bright Mingtang hall, bronze ritual vessels gleam too cleanly, broken ancient knife-coins and failed currency shards scatter at his feet, a faint ghostly silhouette of the Duke of Zhou overlapping his shadow, copper-green and pale light, uncanny classical beauty, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 05 | e-han-guangwu | 汉光武帝 | 昆阳一旅
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Liu Xiu (Guangwu) as a young war leader charging through torrential rain at the Battle of Kunyang, small Han cavalry spearhead smashing into a vast dark enemy army tide, city walls of Kunyang behind, lightning white against storm clouds, mud and flying water, desperate heroic energy of restoration, one clear main figure on horseback dominating the frame, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 06 | h-zhao-shi-le | 后赵石勒 | 奴隶天子
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Shi Le of Later Zhao as a rugged non-Han emperor rising from slavery to the throne, broken iron slave chains falling from his wrists as he sits or stands upon a rough imperial seat, rammed-earth fortress of Xiangguo behind him in dusty wind, a Zhao battle banner rising, rust iron and bone-white colors, hard life etched on his face, epic class-ascent atmosphere, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 07 | liang-wu | 梁武帝 | 同泰天子
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Liang Wudi before a colossal golden Buddha in Tongtai Temple, Jiankang, wearing imperial robes with a Buddhist kasaya edge, ritual of self-dedication, piles of ransom coins and offerings around him, holy golden light on his face, but far outside the temple gate gray smoke and armored cavalry dust of coming Hou Jing chaos, beauty and doom in one frame, lotus and ash, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 08 | xixia-li-yuanhao | 西夏景宗 | 河西称制
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Li Yuanhao, founder-emperor of Western Xia, standing on a fortress wall of Xingqing under Helan Mountains, distinct Tangut-inspired royal costume and fierce eagle-like eyes, desert hard sunlight, sand-gold and deep blue palette, abstract glowing glyph patterns of a unique script in the air without readable letters, sense of a new empire rising on the Hexi frontier against distant Song dynasty horizons, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 09 | q-qin-fu-jian | 前秦世祖 | 投鞭断流
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Fu Jian of Former Qin on a high bank overlooking a wide Yangtze-like river, raising a horsewhip toward the water in the famous 'throwing whips could stop the current' hubris moment, golden late-afternoon light on his armor while the river itself is cold blue-gray foreshadowing Feishui disaster, illusory countless whip silhouettes over the current, vast army suggestion behind him, tragic pride, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 10 | n-wei-xiaowen | 北魏孝文帝 | 胡骑解辫
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Xiaowen of Northern Wei at the moment of cultural reform, slowly unbraiding Xianbei hair and putting on elegant Han-style court robes upon Luoyang city tower, southern migration caravan faintly visible on the road below, cold northern wind meeting warm ritual lantern light, solemn transformative atmosphere, identity change made visual, no readable text, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 11 | sui-wen | 隋文帝 | 混一戎夏
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Wen of Sui in relatively frugal dark imperial robes, standing above a geometric plan-like vision of Daxing City grid, while the Yangtze campaign fleet sails toward Jiankang with a falling Chen dynasty banner in the distance, cool blue-gray institutional light, reunification of north and south as calm inevitability, ruler as system-builder rather than pure warlord, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 12 | sui-yang | 隋炀帝 | 江东晋王
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Yang of Sui on a luxurious dragon boat along a luminous grand canal that looks like a jade belt from above, gorgeous gold and turquoise splendor, yet a cold dagger glint and night shadows of Jiangdu palace close in on him, split mood of magnificent infrastructure legacy and personal doom, weary imperial face, cinematic color contrast between canal beauty and murderous night, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 13 | tang-tai-zong | 唐太宗 | 天可汗令
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Taizong of Tang in bright golden armor but holding an open remonstrance paper scroll instead of a weapon, wise intense eyes, behind him collapsed Turkic banners and a faint ghostly wall of meritorious ministers (Lingyan spirit), clear Zhenguan daylight, balance of martial glory and good governance, heroic yet thoughtful, high classical Tang atmosphere, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 14 | zhou-wu-zetian | 武则天 | 金轮称制
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Wu Zetian as sole female emperor of Zhou, wearing full imperial mianguan crown and solemn dragon-pattern robes, standing in purple mist of Luoyang divine capital, a great golden wheel mandala light behind her like political-religious authority, monumental not sensual, cold sacred power, palace silhouettes and Mingtang suggestion, no harem melodrama, pure sovereign presence, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 15 | tang-xian-zong | 唐宪宗 | 元和鞭藩
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Xianzong of Tang in a dark Daming Palace night chamber, finger pressing on a military map of rebellious fanzhen provinces, candles and cold blue moonlight, double-exposure style blend with snowy night assault on Caizhou city walls, mid-Tang restoration tension, sharp determined middle-aged emperor, sparse and hard atmosphere, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 16 | zhou-shi | 后周世宗 | 显德振旅
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Shizong of Later Zhou, young martial sovereign Chai Rong in black-silver armor on Gaoping battlefield slope, personally rallying troops and striking down fleeing cowards, blood-red banners, autumn grass and smoke, short brilliant life energy, high action epic still frame, forever in armor, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 17 | n-tang-houzhu | 南唐后主 | 江南残梦
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Li Yu, last ruler of Southern Tang, as a poet-emperor not a warrior, leaning by a rainy night window in Jinling, ink and blank paper without readable characters, distant city-fall fire reflecting on Qinhuai water, wet ink-wash melancholy blue-gray palette, soft tragic beauty, dream of Jiangnan ending, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 18 | n-song-tai-zu | 宋太祖 | 杯酒释兵
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Taizu of Song Zhao Kuangyin smiling gently while offering wine cups to senior generals at a candlelit palace banquet, generals removing armor in the background, soft gold candlelight, political soft power moment of releasing military authority, a faint yellow robe silhouette outside the door recalling Chenqiao, intimate tension under courtesy, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 19 | yuan-shi-zu | 元世祖 | 混一车书
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Kublai Khan, Yuan Shizu, as a Eurasian-scale emperor combining Mongol and Chinese imperial presence, standing where Dadu city axis meets open steppe wind, far-southern sea waves of Yashan swallowing Song banners, relay-horse light trails suggesting empire networks, blue-silver Mongol sky and palace red accents, vast unification mood without modern flags or text, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
+
+## 20 | n-wei-taiwu | 北魏太武帝 | 真君铁骑
+
+Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Taiwu of Northern Wei Tuoba Tao as a brutal cavalry conqueror on a snowy northern campaign, iron horsemen flooding a desert fortress gate of the Northern Liang capital, smoke and winter light, hard iron-blue palette, distant cracked temple bells suggesting religious persecution without graphic gore focus, raw military peak of northern unification, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+
+NEGATIVE: text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+
+---
