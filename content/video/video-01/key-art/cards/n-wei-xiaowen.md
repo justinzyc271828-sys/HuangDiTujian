@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功65 · 文治96 · 韬略84 · 国祚70 · 后效93 · 月旦86`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约二十七（太和迁洛前后） |
-| 证据等级 | **A/B** |
-| 一句话场景 | 皮肤白皙的青年鲜卑帝在洛阳城楼解辫换汉服。 |
-| 势力/画风 | 北风转中原礼；笳声渐隐的渐变滤镜。 |
-| 气质色调 | 塞外→礼乐 |
-| 关键道具 | 辫发、汉服、洛阳城阙、南迁车队 |
+| 定格年龄 | 约二十七（太和迁洛） |
+| 外貌证据 | **A/B** |
+| 冠服证据 | **B** |
+| 一句话场景 | 白皙青年在洛阳城楼一边解辫一边披汉袍。 |
+| 势力画风 | 胡汉渐变滤镜：笳→雅乐。 |
+| 气质 | 解辫更张 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《魏书·高祖纪》：帝生而洁白，有异姿……绰然有君人之表
-- B 鲜卑拓跋系——可保留轻度北族骨相，但太和汉化场景以解辫易服为视觉核
+**外貌：**
+- A《魏书》生而洁白有异姿
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 太和服制改革：禁胡服、着汉衣冠——画面用「换装过程」
 
-东亚青年男性，二十七上下；肤色明显白皙（生而洁白）；眉清，骨相端正秀挺，非粗豪武夫；半解的鲜卑辫、发丝散落；一手持汉式冠服；身形修长；服：胡服半卸、汉袍加身的过程态。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+白皙青年，秀挺骨相，半解辫。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【左半/外】鲜卑窄袖褶袴、蹀躞带未尽卸；【右半/内】汉式宽袖朝服、进贤/通天简化冠在手或半戴；色彩从苍褐过渡到绛红礼服。
+
+### 2.4 饰品与道具
+
+解下的辫绳；汉冠；南迁车队铃；洛阳城砖。
+
+### 2.5 背景空间
+
+洛阳新建宫阙城楼；官道车队向南；北风与礼乐灯同时存在。
+
+### 2.6 画风·势力气质
+
+胡汉渐变滤镜：笳→雅乐。 · 解辫更张
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a young East Asian man about 27 of Xianbei-Tabgatch origin, notably fair pale skin, refined elegant bone structure, not a crude warrior face, slender tall body, mid-action of unbraiding northern braid hair, half northern steppe dress half putting on elegant Han-style court robes, standing on Luoyang city tower, migration caravan faint on the southern road below, cold northern wind meeting warm ritual lantern light, identity transformation made visible, style: gradient cultural-reform lyrical historical painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, mid-unbraiding hair, COSTUME: half northern Xianbei narrow-sleeve riding dress with belt hooks still on, half putting on wide-sleeve Han court robe, Han-style cap in hand or half-worn, color shift from earth-brown to ritual crimson, ACCESSORIES AND PROPS: loose braid cords, Han court cap, distant cart bells of southern migration, Luoyang bricks, POSE: on city tower, hands in hair and robe, transformative mid-action, BACKGROUND SET: Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light, ART DIRECTION: gradient cultural-reform lyrical painting, two dress systems in one body, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

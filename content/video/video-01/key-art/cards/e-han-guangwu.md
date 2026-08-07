@@ -52,39 +52,60 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功91 · 文治90 · 韬略90 · 国祚84 · 后效86 · 月旦90`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约二十八九（昆阳，23年） |
-| 证据等级 | **A** |
-| 一句话场景 | 二十七八的高大正脸青年，大嘴高鼻日角，雨水泥里带头冲阵。 |
-| 势力/画风 | 东汉中兴雨战；雷光写实脏镜头。 |
-| 气质色调 | 雨战→将晴 |
-| 关键道具 | 暴雨、昆阳城、少骑、敌潮 |
+| 定格年龄 | 约二十八九（昆阳） |
+| 外貌证据 | **A** |
+| 冠服证据 | **B** |
+| 一句话场景 | 泥甲湿须的高大青年在雷雨里冲锋。 |
+| 势力画风 | 中兴雨战脏镜头：水、泥、雷。 |
+| 气质 | 以少击众 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《后汉书·光武帝纪》：身长七尺三寸，美须眉，大口，隆准，日角
+**外貌：**
+- A《后汉书》：身长七尺三寸，美须眉，大口，隆准，日角
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 更始/新汉之际军容：皮甲/札甲、战袍
+- B 此帧是战场非登基龙袍
 
-东亚青年男性，近三十；身高明显高于常人（七尺三寸量级的挺拔感）；浓密好看的眉与须；嘴巴宽大（大口）；鼻梁高隆（隆准）；额中央骨起如日（日角，前额中央微鼓的贵相结构）；脸被暴雨打湿，英气脏污并存；体格精悍能战；服：早期汉军皮甲/玄甲泥污，非龙袍登基像。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+高大正脸青年，美须眉，大口隆准日角，雨水泥污。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【甲】早期东汉皮甲/玄色札甲，泥浆开裂；【袍】甲下赭褐战袍；【冠】兜鍪歪斜或发髻湿乱；【禁】黄袍加身、云台功臣锦衣。
+
+### 2.4 饰品与道具
+
+长矛/环首刀；湿旗；缰绳；飞溅泥水。
+
+### 2.5 背景空间
+
+昆阳城墙雨幕，敌阵如潮，雷光白，少骑突击楔形。
+
+### 2.6 画风·势力气质
+
+中兴雨战脏镜头：水、泥、雷。 · 以少击众
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a tall East Asian man about 28-29, notably above-average height, handsome thick eyebrows and beard, wide mouth, high prominent nose bridge, forehead with a raised central bone boss (day-horn physiognomy), athletic warrior body, rain-soaked muddy face full of decisive fire, wearing early Eastern-Han leather-and-lamellar armor filthy with mud, not court robes, charging on horseback through torrential rain as a small spearhead against a vast dark enemy army, Kunyang city walls behind, white lightning, flying water and mud, restoration-war grit, style: wet dirty heroic storm painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a tall East Asian man 28-29, Eastern-Han restoration war leader, above-average height, thick handsome brows and beard, wide mouth, high nose, raised central forehead bone boss, athletic body, rain-soaked muddy face, COSTUME: early Eastern-Han leather and dark lamellar armor caked with mud and rain, brown war robe under armor, helmet askew or wet hair bun, battlefield filth, NOT coronation dragon robe, ACCESSORIES AND PROPS: spear or ring-pommel sword, soaked battle flag, reins, flying mud droplets, POSE: horse charge spearhead through rain, body leaning into storm, BACKGROUND SET: Kunyang city walls in torrential rain, vast dark enemy tide, white lightning, small cavalry wedge, ART DIRECTION: wet dirty heroic storm painting, high motion blur on rain, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -95,7 +116,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

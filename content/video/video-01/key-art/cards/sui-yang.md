@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功70 · 文治42 · 韬略52 · 国祚15 · 后效86 · 月旦18`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约四十五至五十（江都终局） |
-| 证据等级 | **A/B** |
-| 一句话场景 | 美姿仪的中年帝王立龙舟头，盛装仍在，眼神已倦到死。 |
-| 势力/画风 | 运河绮丽切断为江都磷火。 |
-| 气质色调 | 金碧→磷火 |
-| 关键道具 | 龙舟、运河玉带、冷刃、江都夜 |
+| 定格年龄 | 约四十八（江都） |
+| 外貌证据 | **A/B** |
+| 冠服证据 | **B** |
+| 一句话场景 | 金碧龙舟上的倦帝，运河美，刃光近。 |
+| 势力画风 | 绮丽切断：金碧→磷火青。 |
+| 气质 | 壮美与杀机 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《隋书·炀帝纪》：上美姿仪，少敏慧……特所钟爱
-- B 善文艺骑射传统记载——外形宜俊美而非魁梧莽夫；终局加疲态
+**外貌：**
+- A 美姿仪；B 大业极奢
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 大业行幸：冕服/龙袍金碧、仙幢华饰；龙舟卤簿
 
-东亚男性，近五十；史称美姿仪——五官端丽，眉目疏秀，曾是美少年帝王；此时眼窝微陷、法令纹深，英俊被疲惫腐蚀；须修整但仍整齐；体态仍修长，不横壮；服：大业极致华服/龙舟常服金碧，与背后夜刃对比。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+曾极俊美，近五十疲态腐蚀英俊，修长。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【衣】大业极致：金线龙纹袍、青绿缘；【冠】通天/远游高冠珠翠（可克制但华）；【质】织金、轻纱、反光强；与隋文清俭对打。
+
+### 2.4 饰品与道具
+
+龙舟阑干；羽扇或玉笏；背后运河；近景冷刃反光；酒器可有。
+
+### 2.5 背景空间
+
+俯瞰运河如玉带+近景龙舟舱；江都宫夜影压过来。
+
+### 2.6 画风·势力气质
+
+绮丽切断：金碧→磷火青。 · 壮美与杀机
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 48, historically described as beautiful in appearance: refined handsome features, elegant brows and eyes, once radiant now hollow-eyed and exhausted, neat beard, slender graceful body not a brute, wearing extremely luxurious Sui imperial gold-and-turquoise dragon-boat attire, standing at the prow of a ornate dragon boat on a luminous grand canal like a jade belt from above, yet cold dagger glints and Jiangdu palace night shadows close in, split mood of infrastructure glory and murder doom, style: gorgeous-to-toxic color tragedy painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 48, once-beautiful Sui touring emperor, refined handsome features now hollow-eyed exhausted, neat beard, slender graceful body, COSTUME: extremely luxurious Sui imperial robe with gold dragon embroidery and turquoise trim, tall beaded crown, shimmering brocade, maximum splendor, ACCESSORIES AND PROPS: dragon-boat rail, jade tablet or feather fan, wine vessel, cold dagger glint nearby, POSE: standing at dragon-boat prow, weary upright, BACKGROUND SET: luminous grand canal like jade belt from above, Jiangdu palace night shadows closing in, toxic beauty, ART DIRECTION: gorgeous-to-toxic color tragedy, gold versus murder blue, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

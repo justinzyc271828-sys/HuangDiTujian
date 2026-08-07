@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功15 · 文治35 · 韬略30 · 国祚20 · 后效78 · 月旦78`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约三十八九（975城破） |
-| 证据等级 | **B/C** |
-| 一句话场景 | 文士肩的中年南唐国主倚雨窗，眉目秀而软，全无武人骨。 |
-| 势力/画风 | 江南水墨湿冷；月白黛青。 |
-| 气质色调 | 残梦 |
-| 关键道具 | 雨窗、空白纸绢、秦淮火光 |
+| 定格年龄 | 约三十八九（975） |
+| 外貌证据 | **B/C** |
+| 冠服证据 | **B/C** |
+| 一句话场景 | 湿巾细袍的文士帝王倚在雨窗前。 |
+| 势力画风 | 江南水墨湿冷。 |
+| 气质 | 残梦 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- B 史传与文学传统：工书善画、词人皇帝——外形宜秀弱文士
-- C 正史缺严格五官尺寸；禁画成横刀武将
+**外貌：**
+- B 词人皇帝传统；C 无严格五官尺寸
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 南唐文人帝服：软脚襆头/巾，细布袍，非甲
 
-东亚男性，三十八九；脸清秀偏软，眉目如画而愁；无须或仅淡髭；肤白；肩窄，指长染墨；体态文弱，站如文人不是将军；服：南唐细布袍、软巾，雨湿贴身。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+秀软文士脸，淡髭或无须，肩窄指长。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【头】软巾或软脚襆头，雨湿；【衣】月白/黛青细布交领袍，薄；【履】软履；【禁】横刀金甲。
+
+### 2.4 饰品与道具
+
+空白纸绢与墨（勿显字）；窗棂；远处火光映水。
+
+### 2.5 背景空间
+
+金陵夜雨窗；秦淮水火倒影；水墨空间。
+
+### 2.6 画风·势力气质
+
+江南水墨湿冷。 · 残梦
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 38-39, soft refined scholar face, painted melancholy brows and eyes, little or no beard, pale skin, narrow literary shoulders, long ink-stained fingers, weak unmilitary posture, Southern Tang fine cloth robe and soft headcloth wet with rain, leaning by a rainy night window in Jinling, blank paper and ink without readable characters, distant city-fall fire reflecting on river water, wet ink-wash blue-gray palette, style: Jiangnan tragic literati watercolor, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 38-39, Southern Tang poet-emperor, soft refined scholar face, melancholy brows, little beard, pale skin, narrow shoulders, long ink-stained fingers, COSTUME: soft rain-wet headcloth or soft futou, moon-white or blue-gray fine cloth cross-collar robe, soft shoes, NO armor, ACCESSORIES AND PROPS: blank paper and ink without characters, window lattice, distant fire on water, POSE: leaning by rainy window, literati posture, BACKGROUND SET: Jinling night rain, Qinhuai reflections of city fire, wet ink-wash space, ART DIRECTION: Jiangnan tragic literati watercolor, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

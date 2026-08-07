@@ -22,14 +22,22 @@
       ],
       "epithet": "一统六合",
       "appearance_level": "A/B",
-      "age_moment_zh": "约四十前后（前221称帝时）",
-      "appearance_zh": "东亚中年男性；高而尖的鼻梁（蜂准）；细长而锋利的眼睛（长目）；前胸略佝、肩背有猛禽般前倾感（挚鸟膺）；薄唇，神情少恩、刻薄镇定；无须或仅短髭，下颌线条硬；肤色偏冷白；身体精瘦而非横壮；发型：冠下束发；服：通体玄黑宽袖袍，金线窄缘，黑冠高耸；手不持剑，可近权量竹简。",
+      "costume_level": "A/B",
+      "age_moment_zh": "约四十（前221）",
+      "appearance_zh": "蜂准长目，精瘦中年，少恩薄唇，短髭或无须，冷白肤，猛禽般肩背。",
+      "costume_zh": "【冠】高耸玄黑漆冠，冠梁挺直，无华丽珠旒堆砌（秦冷制）。【衣】通体玄黑宽袖袍，仅极窄鎏金缘；内层深灰中衣隐约可见；腰大带黑色。【履】翘头黑舄。【禁】朱红汉袍、清代朝珠、欧式披风。",
+      "accessories_zh": "权（青铜权）与方形量器；成捆竹简；黑旌旗（六为纪可暗示旗幅比例）；玉具或素带钩低调；手不持长剑为主——权力在制度器物。",
+      "background_zh": "咸阳宫高台，中轴对称夯土+木构斗拱剪影；远景六国旧色地图块熄灭收成玄金一统；晨雾冷、地平线干净；地面青石与漆反射。",
+      "style_faction_zh": "秦水德纪念碑：玄黑+冷金+对称；制度感，拒绝暖红热闹。",
       "appearance_sources_zh": [
-        "A《史记·秦始皇本纪》载尉缭语：秦王为人「蜂准、长目、挚鸟膺、豺声」（敌对侧写，作五官线索，非美化）",
-        "B 同纪：水德，衣服旄旌节旗皆上黑；数以六为纪",
-        "B 冕服制度向：通天冠/玄衣想象，以黑为主"
+        "A《史记·秦始皇本纪》尉缭：蜂准、长目、挚鸟膺、豺声",
+        "B 同纪：水德，衣服旄旌节旗皆上黑；数以六为纪"
       ],
-      "style_faction_zh": "秦·水德玄黑纪念碑风；对称、冷、制度感；拒绝暖红汉风。",
+      "costume_sources_zh": [
+        "A/B 水德尚黑：袍、旗、节以玄黑为主",
+        "B 秦皇冠服系统：高冠（通天/远游想象）、玄衣纁裳传统向简化为玄衣金缘",
+        "B 不用汉以后大红龙袍脸谱"
+      ],
       "event_lines": [
         "前221称帝",
         "书同文·车同轨"
@@ -42,8 +50,8 @@
         "houxiao": 99,
         "yuedan": 42
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a stern East Asian man about 40 years old as a Warring-States-to-Qin unifier king-emperor, distinctive sharp high-bridged nose (beak-like), long narrow piercing eyes, thin hard lips, slightly hunched predatory chest and shoulders like a raptor, lean wiry body not bulky, cold pale skin, short sparse facial hair or clean jaw, emotionless measuring gaze, tall black lacquered ceremonial crown, full black imperial robe with only thin gold trim (water-virtue black system), standing alone on a high symmetrical Xianyang palace terrace at cold dawn, behind him six colored state-map fragments collapsing into one dark-gold unified realm, bronze measuring vessels and bamboo slips at his feet, black banners, monumental symmetry, smoke, limestone and lacquer textures, style: austere black-gold seal-monument painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a stern East Asian man about 40, Qin unifier king-emperor type, sharp high beak-like nose, long narrow piercing eyes, thin hard lips, lean wiry body, slightly raptor-hunched shoulders, cold pale skin, sparse short facial hair, COSTUME: tall rigid black lacquer ceremonial crown without hanging pearl strings, full black wide-sleeve Warring-States/Qin robe with only razor-thin gold edge, dark gray inner layer, black large sash belt, black upturned ceremonial shoes, NO bright red Han dragon robe, NO Qing court beads, ACCESSORIES AND PROPS: bronze weight and measuring vessels, stacked bamboo slips, black ritual banners, simple jade belt-hook, hands empty of sword or near the measuring tools, POSE: standing alone centered on a high terrace as if measuring the world, frontal monumental stance, BACKGROUND SET: symmetrical Xianyang palace terrace of rammed earth and dark timber architecture, cold dawn fog, behind him six colored ancient-state map fragments collapsing into one dark-gold realm, stone floor with lacquer reflections, ART DIRECTION: austere black-and-cold-gold seal-monument painting, extreme symmetry, institutional coldness, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "han-xuan-di",
@@ -55,15 +63,21 @@
         "汉宣帝"
       ],
       "epithet": "综核名实",
-      "appearance_level": "C（正史无细貌；年龄+吏治气质重建）",
-      "age_moment_zh": "约三十余（地节亲政前后）",
-      "appearance_zh": "东亚男性，三十中后；脸偏清瘦，颧骨略显，不是肥环龙颜脸；眉目沉静锐利，眼袋浅，有熬夜看文书感；须短而整齐，非虬髯武夫；肤色正常偏劳，不涂脂粉；肩窄于武将，手指细长沾朱砂；服：深褐/皂色宽袖袍，冠简洁，腰间绶带不夸张。",
+      "appearance_level": "C",
+      "costume_level": "B",
+      "age_moment_zh": "约三十余（地节）",
+      "appearance_zh": "清瘦中年，颧骨显，短须整齐，锐眼熬夜感，非肥环龙颜。",
+      "costume_zh": "【冠】黑色进贤冠（梁冠），简。【衣】深褐/皂色曲裾或直裾深衣，领袖缘暗红极窄；内中衣本白。【带】革带+绶（青紫系低饱和）；【禁】金光闪闪龙袍满身、明清补服。",
+      "accessories_zh": "朱笔、满案竹简木牍、油灯、简册绳、铜印绶在腰侧可隐；无长兵器。",
+      "background_zh": "未央宫夜殿内部：藻井与柱列在暗处；灯火暖而空间冷；远门外隐约长安街市虚影（其出身）。",
+      "style_faction_zh": "西汉吏治暖灰：案牍、朱砂、油灯，办公美学。",
       "appearance_sources_zh": [
-        "C《汉书·宣帝纪》详政治、不载五官尺寸",
-        "B 长于民间、知闾里奸邪——神态宜「市井洞察」而非天生龙颜脸谱",
-        "B 西汉中后期冠服：进贤冠/介帻、深衣袍、偏务实不奢"
+        "C 本纪无细貌；B 长于民间→神态市井洞察"
       ],
-      "style_faction_zh": "西汉吏治暖灰；案牍美学；少战场红。",
+      "costume_sources_zh": [
+        "B 西汉中期冕服/常朝：进贤冠或介帻、深衣袍、佩绶",
+        "B 宣帝务实形象：冠服整洁但少奢金玉堆砌"
+      ],
       "event_lines": [
         "地节亲政",
         "综核名实"
@@ -76,8 +90,8 @@
         "houxiao": 74,
         "yuedan": 84
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man in his mid-thirties, lean intelligent face with visible cheekbones, calm sharp inspector eyes, slight sleepless shadows, neat short beard not wild, slender ink-stained fingers holding a red-ink brush, not a warrior build, wearing plain dark-brown Western-Han official deep-robe and simple black cap, standing beside a mountain of bamboo document slips inside Weiyang Palace at night, warm oil-lamp light, dusty paper atmosphere, faint misty memory of common Chang'an streets behind him, expression of auditing reality against empty titles, style: muted warm-gray bureaucratic drama painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man mid-thirties, Western-Han auditing emperor type, lean face, visible cheekbones, sharp inspector eyes, slight sleepless shadows, neat short beard, slender build, COSTUME: black jinxian winged official cap of Western Han, dark brown or sooty deep-robe with tiny dark-red trim, plain white inner collar, leather belt with muted sash cords, modest not gaudy, ACCESSORIES AND PROPS: red-ink brush mid-stroke, mountain of bamboo slips and wooden tablets, oil lamp, rope-bound archives, small seal cord at waist, no weapons, POSE: standing or half-seated at a document table, body lean forward checking slips, BACKGROUND SET: night interior of Weiyang Palace halls, dark pillars, warm lamp pool, faint misty memory of common street life beyond the door, ART DIRECTION: muted warm-gray bureaucratic drama painting, paper dust atmosphere, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "han-wu-di",
@@ -89,15 +103,21 @@
         "汉武帝"
       ],
       "epithet": "封狼居胥",
-      "appearance_level": "C（本纪无细貌；年龄+开边气质重建）",
-      "age_moment_zh": "约五十前后（漠北叙事高峰期）",
-      "appearance_zh": "东亚男性，四十八至五十五；脸阔而有风霜，眉浓，眼深有倦意与豪气并存；须髯较密、略染沙土，非白须老翁；鼻梁端正偏高；体格仍壮，肩背宽；肤色被漠北风吹成偏赭；服：朱红/暗金铠甲外罩披风，武冠或冕式简化，不可欧式板甲。",
+      "appearance_level": "C",
+      "costume_level": "B",
+      "age_moment_zh": "约五十（漠北叙事）",
+      "appearance_zh": "阔脸风霜，浓眉密须染尘，肩宽仍壮，肤赭。",
+      "costume_zh": "【甲】深红/暗金汉式札甲或鱼鳞甲，皮革+金属片；【袍】外罩绛色宽披风猎猎；【冠】武冠或简易兜鍪（可露半额）；【履】战靴缠绑腿。",
+      "accessories_zh": "佩剑（汉式环首刀/剑）；旌旗海；战马在侧；旌节；沙尘中的旄。",
+      "background_zh": "漠北山脊（狼居胥意象），旗海如潮，沙金光，冷蓝天；远处敌阵残影。",
+      "style_faction_zh": "西汉漠北史诗：沙金+朱红，油彩颗粒。",
       "appearance_sources_zh": [
-        "C《汉书·武帝纪》不载具体五官",
-        "B 在位久、开边、封禅——宜盛年转老之雄主，非少年脸",
-        "B 西汉武冠甲胄、绛袍、佩剑传统图像系统（重建须标明）"
+        "C 无细貌；B 久战开边之盛年雄主"
       ],
-      "style_faction_zh": "西汉漠北史诗；沙金+朱红；油彩颗粒风。",
+      "costume_sources_zh": [
+        "B 西汉武备：鱼鳞甲/札甲、武冠或兜鍪、绛袍披风",
+        "B 禁欧式板甲、明清大铠脸谱"
+      ],
       "event_lines": [
         "封狼居胥",
         "漠北勒石"
@@ -110,8 +130,8 @@
         "houxiao": 94,
         "yuedan": 68
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 50, broad weathered face, thick dark brows, deep eyes mixing pride and exhaustion, dense wind-tangled beard with dust, strong wide shoulders still powerful, sun-scorched ruddy skin, Western-Han style layered armor in crimson and dark gold with flowing cloak, Chinese ancient helmet-crown hybrid not European plate, standing on a Mongolian desert ridge against a dark mountain silhouette, tide of Han dynasty banners and cavalry below, sand-gold light, cold blue sky, horsehair and grit in the wind, low heroic camera angle, style: dusty epic oil-paint campaign panorama, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 50, Western-Han campaign emperor, broad weathered face, thick brows, dense dust-tangled beard, strong wide shoulders, sun-scorched ruddy skin, COSTUME: Western-Han style lamellar/scale armor in crimson and dark gold, leather and metal plates, billowing crimson campaign cloak, martial cap or partial helmet, wrapped boots and greaves, NOT European plate armor, ACCESSORIES AND PROPS: Chinese ring-pommel sword, forest of Han banners, warhorse nearby, yak-tail standards, grit in fabric, POSE: low-angle stance on a desert ridge, cloak horizontal in wind, looking over a sea of banners, BACKGROUND SET: Mongolian steppe ridge, dark mountain silhouette (Langjuxu feeling), cavalry tide below, sand-gold light, cold blue sky, ART DIRECTION: dusty epic oil-paint campaign panorama, grain and wind, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "xin-wang-mang",
@@ -124,13 +144,20 @@
       ],
       "epithet": "以儒窃国",
       "appearance_level": "B",
-      "age_moment_zh": "约五十余（始建国元年）",
-      "appearance_zh": "东亚男性，五十出头；脸型中等偏长，五官端正到不自然；微笑固定、眼不笑；须修得很齐，儒生式；肤色略苍；体态不武，肩背端肃；服：仿周礼的过度考究冕服/儒服，圭板在手；可对比脚边混乱刀币——人整齐、制度碎。",
+      "costume_level": "B",
+      "age_moment_zh": "约五十余（始建国）",
+      "appearance_zh": "五官端正过度，假笑眼不笑，齐整儒须，肩不武。",
+      "costume_zh": "【冠】冕板（前後延）或极考究的爵弁式；【衣】玄衣纁裳式仿古礼服，纹样繁而冷；蔽膝、大带齐全；【色】青黑绛搭配，拒绝喜庆金红堆；看似周公，实则新室。",
+      "accessories_zh": "双手捧圭；满堂青铜礼器过亮；脚边错刀、契刀等乱币碎片；佩玉组缓。",
+      "background_zh": "明堂/辟雍式建筑透视，柱列过满，光线惨白偏铜绿。",
+      "style_faction_zh": "伪古典铜绿：礼器过精=政权虚。",
       "appearance_sources_zh": [
-        "B《汉书·王莽传》：折节恭俭，被服如儒生；侍疾时乱首垢面（非常态，见其表演性）",
-        "B 无五官尺寸；性格：外恭内深——外形宜「端正过度」"
+        "B《汉书》被服如儒生；外恭内深"
       ],
-      "style_faction_zh": "伪古典铜绿；礼器过亮；不安的干净。",
+      "costume_sources_zh": [
+        "B 新朝托古：仿《周礼》冕服、韨、佩玉系统（示意级）",
+        "B 对比脚边乱币：服越整齐，制越碎"
+      ],
       "event_lines": [
         "始建国元年",
         "托古改制"
@@ -143,8 +170,8 @@
         "houxiao": 70,
         "yuedan": 22
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man in early fifties, overly correct scholarly face, fixed polite smile that does not reach the eyes, neatly trimmed Confucian beard, pale slightly unhealthy skin, non-martial thin-shouldered posture, wearing hyper-ritual archaic Chinese ceremonial robes imitating Zhou classics, holding a jade tablet (gui), inside a cold bright Mingtang-like hall with too-clean bronze ritual vessels, broken ancient knife-coins scattered at his feet, copper-green and pale light, uncanny classical beauty, style: cold pseudo-antiquity still life of power, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man early fifties, usurper in perfect Confucian ritual dress, overly correct face, fixed smile not reaching eyes, neat Confucian beard, pale skin, thin non-martial shoulders, COSTUME: archaic Zhou-imitating mian crown with flat top board, layered dark ceremonial robes with complex cold-colored patterns, knee-cover apron, large sash, hyper-correct ritual completeness, ACCESSORIES AND PROPS: jade gui tablet held in both hands, too-clean bronze ritual vessels, broken knife-coins and failed currency shards at feet, jade pendants, POSE: frontal formal standing like a ritual statue, slightly too perfect, BACKGROUND SET: cold bright Mingtang-like hall, excessive columns and ritual geometry, copper-green pale light, ART DIRECTION: uncanny pseudo-antiquity still-life of power, beautiful and wrong, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "e-han-guangwu",
@@ -157,12 +184,20 @@
       ],
       "epithet": "昆阳一旅",
       "appearance_level": "A",
-      "age_moment_zh": "约二十八九（昆阳，23年）",
-      "appearance_zh": "东亚青年男性，近三十；身高明显高于常人（七尺三寸量级的挺拔感）；浓密好看的眉与须；嘴巴宽大（大口）；鼻梁高隆（隆准）；额中央骨起如日（日角，前额中央微鼓的贵相结构）；脸被暴雨打湿，英气脏污并存；体格精悍能战；服：早期汉军皮甲/玄甲泥污，非龙袍登基像。",
+      "costume_level": "B",
+      "age_moment_zh": "约二十八九（昆阳）",
+      "appearance_zh": "高大正脸青年，美须眉，大口隆准日角，雨水泥污。",
+      "costume_zh": "【甲】早期东汉皮甲/玄色札甲，泥浆开裂；【袍】甲下赭褐战袍；【冠】兜鍪歪斜或发髻湿乱；【禁】黄袍加身、云台功臣锦衣。",
+      "accessories_zh": "长矛/环首刀；湿旗；缰绳；飞溅泥水。",
+      "background_zh": "昆阳城墙雨幕，敌阵如潮，雷光白，少骑突击楔形。",
+      "style_faction_zh": "中兴雨战脏镜头：水、泥、雷。",
       "appearance_sources_zh": [
-        "A《后汉书·光武帝纪》：身长七尺三寸，美须眉，大口，隆准，日角"
+        "A《后汉书》：身长七尺三寸，美须眉，大口，隆准，日角"
       ],
-      "style_faction_zh": "东汉中兴雨战；雷光写实脏镜头。",
+      "costume_sources_zh": [
+        "B 更始/新汉之际军容：皮甲/札甲、战袍",
+        "B 此帧是战场非登基龙袍"
+      ],
       "event_lines": [
         "昆阳之战",
         "以少击众"
@@ -175,8 +210,8 @@
         "houxiao": 86,
         "yuedan": 90
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a tall East Asian man about 28-29, notably above-average height, handsome thick eyebrows and beard, wide mouth, high prominent nose bridge, forehead with a raised central bone boss (day-horn physiognomy), athletic warrior body, rain-soaked muddy face full of decisive fire, wearing early Eastern-Han leather-and-lamellar armor filthy with mud, not court robes, charging on horseback through torrential rain as a small spearhead against a vast dark enemy army, Kunyang city walls behind, white lightning, flying water and mud, restoration-war grit, style: wet dirty heroic storm painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a tall East Asian man 28-29, Eastern-Han restoration war leader, above-average height, thick handsome brows and beard, wide mouth, high nose, raised central forehead bone boss, athletic body, rain-soaked muddy face, COSTUME: early Eastern-Han leather and dark lamellar armor caked with mud and rain, brown war robe under armor, helmet askew or wet hair bun, battlefield filth, NOT coronation dragon robe, ACCESSORIES AND PROPS: spear or ring-pommel sword, soaked battle flag, reins, flying mud droplets, POSE: horse charge spearhead through rain, body leaning into storm, BACKGROUND SET: Kunyang city walls in torrential rain, vast dark enemy tide, white lightning, small cavalry wedge, ART DIRECTION: wet dirty heroic storm painting, high motion blur on rain, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "h-zhao-shi-le",
@@ -189,13 +224,19 @@
       ],
       "epithet": "奴隶天子",
       "appearance_level": "A/B",
-      "age_moment_zh": "约五十（称赵/称帝前后）",
-      "appearance_zh": "非纯汉外貌的中年男性；深目，颧骨高，鼻梁偏高，唇厚；须虬密、略杂；肤色深于中原儒生，风沙粗砺；体格壮健横阔，臂力感强；曾为奴——腕间可有铁链勒痕；服：胡汉混杂甲袍，襄国夯土殿，粗织物+金属，不精致龙袍。",
+      "costume_level": "B/C",
+      "age_moment_zh": "约五十（称赵/帝）",
+      "appearance_zh": "深目高颧，虬须，肤深，横壮，腕有锁痕。",
+      "costume_zh": "【甲/袍】半甲半袍：铁片甲+粗毛布长袍；【冠】简易帝王冠或皮弁式，不精工；【质】锈、补丁、风沙磨损；【禁】南宋精工龙袍。",
+      "accessories_zh": "腕间断铁链；粗柄剑；赵字军旗；夯土殿粗糙扶手。",
+      "background_zh": "襄国夯土城垒，黄尘，旗升，天空干裂感。",
+      "style_faction_zh": "十六国铁锈风沙：阶级逆袭粗粝。",
       "appearance_sources_zh": [
-        "A/B《晋书·石勒载记》：上党武乡羯人；少时「胡雏」；长而壮健有胆力，雄武好骑射；相者称「胡状貌奇异」",
-        "B 非典型中原儒生脸——深目、高颧、风霜皮的游牧/杂胡感（在「奇异」范围内合理重建）"
+        "A/B《晋书》羯人、胡雏、壮健雄武、状貌奇异"
       ],
-      "style_faction_zh": "十六国粗粝铁锈风；夯土与风沙。",
+      "costume_sources_zh": [
+        "B 十六国胡汉杂糅甲胄；C 夯土宫廷粗服"
+      ],
       "event_lines": [
         "襄国称赵",
         "奴隶天子"
@@ -208,8 +249,8 @@
         "houxiao": 68,
         "yuedan": 72
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a rugged middle-aged man of Jie/Xiongnu-related northern non-Han look about 50, deep-set eyes, high cheekbones, higher nose, thick coarse curly beard, weather-beaten darker skin, broad powerful slave-built body, iron chain scars still visible on wrists, mixed Hu-Han armor and rough imperial cloak, sitting or standing on a crude throne in a rammed-earth fortress, dusty wind, Zhao battle banner rising, rust-iron and bone-white palette, epic class ascent from slavery to throne, style: harsh fortress dust painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a rugged middle-aged Jie-related northern man about 50, deep-set eyes, high cheekbones, higher nose, coarse curly beard, darker weather skin, broad slave-built body, chain scars on wrists, COSTUME: mixed Hu-Han armor: iron plates over coarse wool robe, rough simple crown or leather cap, rust patches and sand wear, not refined southern silk dragon robe, ACCESSORIES AND PROPS: broken iron slave chains on wrists, heavy crude sword, Zhao battle banner, rough rammed-earth throne arms, POSE: seated or rising on crude throne, chains falling, chin high, BACKGROUND SET: rammed-earth fortress of Xiangguo, dusty yellow wind, dry sky, banner rising, ART DIRECTION: harsh rust-and-dust fortress painting, class-ascent epic, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "liang-wu",
@@ -222,13 +263,19 @@
       ],
       "epithet": "同泰天子",
       "appearance_level": "A/B",
-      "age_moment_zh": "约七十余（舍身同泰年段）",
-      "appearance_zh": "东亚老年男性，七十上下；脸清癯，颧骨显，须眉花白下垂；头顶中央骨隆起（顶上隆起）；体态偏瘦（长年佛事）；眼神既慈悲又固执；右手可有旧疤/纹理暗示「武」文（勿写字）；服：梁帝袍外罩袈裟一角，金粉与灰扑同在。",
+      "costume_level": "B",
+      "age_moment_zh": "约七十余（舍身年段）",
+      "appearance_zh": "清癯老脸，白须，顶骨隆，瘦。",
+      "costume_zh": "【外】土黄/藕荷色袈裟斜披；【内】梁代帝袍（绛/紫系可低饱和）仍在；【冠】通天冠或佛事时免冠见白发；金粉沾衣。",
+      "accessories_zh": "念珠；金佛脚前钱山（赎身）；香炉青烟；远处甲骑反光。",
+      "background_zh": "同泰寺大殿金佛巨像；梁柱飞檐南朝细；门外建康天际已有烟尘。",
+      "style_faction_zh": "南朝金粉佛光+腐朽灰边。",
       "appearance_sources_zh": [
-        "A《梁书·武帝纪》：生而有奇异，两胯骈骨，顶上隆起，有文在右手曰武",
-        "B 长寿佞佛、蔬食——晚年宜清瘦、须白、眼神执拗慈悲混杂"
+        "A《梁书》顶上隆起等；B 蔬食佞佛→清癯"
       ],
-      "style_faction_zh": "南朝金粉佛光，底子已腐。",
+      "costume_sources_zh": [
+        "B 梁帝通天冠服+佛事袈裟叠穿（舍身名场面）"
+      ],
       "event_lines": [
         "舍身同泰",
         "侯景将至"
@@ -241,8 +288,8 @@
         "houxiao": 72,
         "yuedan": 50
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 70-75, gaunt devout face, white drooping beard and brows, noticeably raised bony crown of the skull, thin ascetic body from long Buddhist practice, eyes mixing compassion and stubborn delusion, Liang dynasty imperial robe with a Buddhist kasaya draped over it, standing before a colossal golden Buddha in Tongtai Temple, piles of ransom coins, holy gold light on his face, far outside the gate gray smoke of approaching armored cavalry, beauty and doom, style: gilded Buddhist southern-dynasty tragedy, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 70-75, Southern Liang Buddhist emperor, gaunt aged face, white drooping beard, raised bony skull crown, thin ascetic body, COSTUME: Buddhist kasaya in dusty gold-lotus tones draped over Liang imperial robes, tongtian crown or bare gray hair under temple light, gold leaf dust on fabric, ACCESSORIES AND PROPS: prayer beads, mountain of ransom coins before Buddha, incense smoke, distant glint of armor outside, POSE: devout standing before colossal Buddha, hands in dedication gesture, BACKGROUND SET: Tongtai Temple interior, huge golden Buddha, refined Southern-dynasty timber hall, gray cavalry smoke beyond the gate, ART DIRECTION: gilded Buddhist tragedy, gold versus ash, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "xixia-li-yuanhao",
@@ -255,12 +302,19 @@
       ],
       "epithet": "河西称制",
       "appearance_level": "A",
-      "age_moment_zh": "约三十五（1038称帝）",
-      "appearance_zh": "东亚/党项男性，三十五左右；明确偏矮（五尺余，短于中原高个武将）；脸圆；鼻梁很高（高准）；目光鹰隼；须不需很长；体格精悍；服：长袖绯衣、黑冠、佩弓矢（史文明）；背后贺兰山与兴庆城。",
+      "costume_level": "A",
+      "age_moment_zh": "约三十五（1038）",
+      "appearance_zh": "偏矮，圆面高鼻，鹰目，精悍。",
+      "costume_zh": "【衣】长袖绯（大红/朱红）袍，袖肥而长；【冠】黑冠（圆顶/平顶党项式，勿宋进贤）；【腰】革带；【禁】宋朝官服、龙袍满绣。",
+      "accessories_zh": "弓、矢、箭袋；青盖意象可远；西夏文抽象纹样光（不可辨认字形）。",
+      "background_zh": "兴庆城墙+贺兰山硬轮廓；河西硬光；砂金与藏青对比。",
+      "style_faction_zh": "西夏民族国家硬光：砂金藏青。",
       "appearance_sources_zh": [
-        "A《宋史·夏国传》：圆面高准，身长五尺余；少时好衣长袖绯衣，冠黑冠，佩弓矢"
+        "A《宋史·夏国传》圆面高准，身长五尺余；长袖绯衣，冠黑冠，佩弓矢"
       ],
-      "style_faction_zh": "西夏河西硬光；砂金藏青；民族纹样抽象光（勿可辨字）。",
+      "costume_sources_zh": [
+        "A 明文绯衣黑冠；B 党项发式/服饰去宋化（示意）"
+      ],
       "event_lines": [
         "1038称帝",
         "河西立国"
@@ -273,8 +327,8 @@
         "houxiao": 73,
         "yuedan": 55
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a Tangut-looking East Asian man about 35, notably short stature (about five chi, shorter than typical tall generals), round face, high prominent nose bridge, hawk-sharp eyes, compact athletic body, short neat facial hair, wearing long-sleeved bright crimson robe, black crown-cap, bow and arrows at belt as described in Song sources, standing on fortress wall of Xingqing under Helan Mountains, desert hard sunlight, sand-gold and deep blue palette, abstract unreadable glyph-light of a unique script in the air, new frontier empire rising, style: hard-light Hexi national-founding painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a short Tangut East Asian man about 35, short stature, round face, high nose bridge, hawk eyes, compact athletic body, short facial hair, COSTUME: long-sleeved bright crimson robe with long full sleeves, black Tangut-style crown-cap, leather belt, NOT Song Chinese civil official robe, ACCESSORIES AND PROPS: bow, arrows, quiver at belt, distant blue canopy suggestion, abstract unreadable Tangut-glyph light patterns, POSE: standing on fortress battlement facing desert wind, chin set, BACKGROUND SET: Xingqing fortress walls under Helan Mountains, hard desert sunlight, sand-gold and deep navy palette, ART DIRECTION: hard-light Hexi national founding painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "q-qin-fu-jian",
@@ -286,14 +340,20 @@
         "前秦世祖"
       ],
       "epithet": "投鞭断流",
-      "appearance_level": "C（载记缺细貌；氐族君主+治世转冒进重建）",
-      "age_moment_zh": "约四十五（383淝水）",
-      "appearance_zh": "东亚男性，四十五左右；脸堂堂，眉目疏朗，本可称明君相；须中等，修剪齐；此时眼神刚愎、嘴角紧；体格中上，不像石勒粗野；服：前秦金赭甲/冕，披风扬起；手扬马鞭指大江。",
+      "appearance_level": "C",
+      "costume_level": "B/C",
+      "age_moment_zh": "约四十五（383）",
+      "appearance_zh": "堂堂明君骨相转执拗，中须，体中上。",
+      "costume_zh": "【甲】金赭鱼鳞/札甲，精细于石勒；【披】赭金披风；【冠】帝王兜鍪或冠；盛时装，不是败逃破衣（败兆在江水颜色）。",
+      "accessories_zh": "马鞭高扬；佩剑；身后密密兵器林；江面幻觉鞭影。",
+      "background_zh": "大江天堑（淝水/长江意象），金光在甲、冷灰在水；东岸薄雾。",
+      "style_faction_zh": "盛极金光切冷江：悲剧骄兵。",
       "appearance_sources_zh": [
-        "C《晋书》苻坚载记详事功，缺五官尺寸",
-        "B 氐人、长期为北方共主——宜明堂气度+后期刚愎神色"
+        "C 无细貌；B 氐秦共主、盛极转刚愎"
       ],
-      "style_faction_zh": "前秦盛极金光切江水冷灰。",
+      "costume_sources_zh": [
+        "B 十六国帝王甲+披风；C 前秦金赭色系"
+      ],
       "event_lines": [
         "投鞭断流",
         "淝水将败"
@@ -306,8 +366,8 @@
         "houxiao": 66,
         "yuedan": 64
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 45 of Di northern ethnicity, originally handsome open-browed 'good ruler' face turning stubborn, medium well-kept beard, tight mouth, proud rigid eyes, upright noble-warrior build not barbaric, Former Qin ornate ochre-gold armor and cloak, raising a horsewhip toward a vast cold river, illusory countless whip silhouettes over the current, huge army mass behind, warm gold light on armor but icy blue-gray water foreshadowing disaster, style: tragic hubris landscape of north China unifier, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 45, Former Qin Di northern ruler, open-browed once-handsome face turning stubborn, medium neat beard, tight mouth, upright noble build, COSTUME: ornate ochre-gold Former Qin lamellar armor, matching cloak, imperial helmet-crown, polished still-proud metal, ACCESSORIES AND PROPS: raised horsewhip, sword, forest of spears behind, illusory whip silhouettes over the river, POSE: on high riverbank, arm extended whip toward water, tragic pride, BACKGROUND SET: vast cold blue-gray river, gold light only on armor, mist on far bank, huge army mass, ART DIRECTION: tragic hubris landscape, gold cut by cold water, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "n-wei-xiaowen",
@@ -320,13 +380,19 @@
       ],
       "epithet": "胡骑解辫",
       "appearance_level": "A/B",
-      "age_moment_zh": "约二十七（太和迁洛前后）",
-      "appearance_zh": "东亚青年男性，二十七上下；肤色明显白皙（生而洁白）；眉清，骨相端正秀挺，非粗豪武夫；半解的鲜卑辫、发丝散落；一手持汉式冠服；身形修长；服：胡服半卸、汉袍加身的过程态。",
+      "costume_level": "B",
+      "age_moment_zh": "约二十七（太和迁洛）",
+      "appearance_zh": "白皙青年，秀挺骨相，半解辫。",
+      "costume_zh": "【左半/外】鲜卑窄袖褶袴、蹀躞带未尽卸；【右半/内】汉式宽袖朝服、进贤/通天简化冠在手或半戴；色彩从苍褐过渡到绛红礼服。",
+      "accessories_zh": "解下的辫绳；汉冠；南迁车队铃；洛阳城砖。",
+      "background_zh": "洛阳新建宫阙城楼；官道车队向南；北风与礼乐灯同时存在。",
+      "style_faction_zh": "胡汉渐变滤镜：笳→雅乐。",
       "appearance_sources_zh": [
-        "A《魏书·高祖纪》：帝生而洁白，有异姿……绰然有君人之表",
-        "B 鲜卑拓跋系——可保留轻度北族骨相，但太和汉化场景以解辫易服为视觉核"
+        "A《魏书》生而洁白有异姿"
       ],
-      "style_faction_zh": "北风转中原礼；笳声渐隐的渐变滤镜。",
+      "costume_sources_zh": [
+        "B 太和服制改革：禁胡服、着汉衣冠——画面用「换装过程」"
+      ],
       "event_lines": [
         "太和迁都",
         "胡骑解辫"
@@ -339,8 +405,8 @@
         "houxiao": 93,
         "yuedan": 86
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a young East Asian man about 27 of Xianbei-Tabgatch origin, notably fair pale skin, refined elegant bone structure, not a crude warrior face, slender tall body, mid-action of unbraiding northern braid hair, half northern steppe dress half putting on elegant Han-style court robes, standing on Luoyang city tower, migration caravan faint on the southern road below, cold northern wind meeting warm ritual lantern light, identity transformation made visible, style: gradient cultural-reform lyrical historical painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, mid-unbraiding hair, COSTUME: half northern Xianbei narrow-sleeve riding dress with belt hooks still on, half putting on wide-sleeve Han court robe, Han-style cap in hand or half-worn, color shift from earth-brown to ritual crimson, ACCESSORIES AND PROPS: loose braid cords, Han court cap, distant cart bells of southern migration, Luoyang bricks, POSE: on city tower, hands in hair and robe, transformative mid-action, BACKGROUND SET: Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light, ART DIRECTION: gradient cultural-reform lyrical painting, two dress systems in one body, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "sui-wen",
@@ -353,12 +419,19 @@
       ],
       "epithet": "混一戎夏",
       "appearance_level": "A",
+      "costume_level": "B",
       "age_moment_zh": "约五十（开皇九年）",
-      "appearance_zh": "东亚男性，五十左右；「龙颜」威重；额头有明显纵向骨棱感（五柱入顶）；目光极亮、外射有神，令人不敢狎；体型特征：上身偏长、下肢偏短（长上短下）；气质沈深严重；服：开皇间相对清俭的皂/深色帝袍，不走炀帝奢。",
+      "appearance_zh": "威重，额骨棱，目光外射，长上短下。",
+      "costume_zh": "【冠】通天冠；【衣】深色/绛皂帝袍，裁剪合隋，少金玉堆；【带】大型绶；对比炀帝奢：此帧清俭。",
+      "accessories_zh": "圭或无；背后大兴城规划网格光；江上舰队模型感远景。",
+      "background_zh": "半实半图：大兴里坊网格+长江灭陈舰队+建康降帜。",
+      "style_faction_zh": "制度青灰：建筑网格史诗。",
       "appearance_sources_zh": [
-        "A《隋书·高祖纪》：为人龙颜，额上有五柱入顶，目光外射，有文在手曰王。长上短下，沈深严重"
+        "A《隋书》龙颜，五柱入顶，目光外射，长上短下"
       ],
-      "style_faction_zh": "隋文制度青灰；网格都城+江上舰队。",
+      "costume_sources_zh": [
+        "B 开皇制度：通天冠、绛纱袍系统；史载节俭→少珠宝"
+      ],
       "event_lines": [
         "开皇灭陈",
         "混一戎夏"
@@ -371,8 +444,8 @@
         "houxiao": 91,
         "yuedan": 88
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 50, heavy dragon-like authoritative face, forehead with five vertical bone ridges rising into the hairline, extremely piercing outward-shooting eyes, serious deep personality, distinct body proportion: longer upper torso and shorter legs (long-above short-below), frugal dark Sui imperial robe not luxurious, standing above a geometric plan-vision of Daxing city grid while Yangtze war fleet sails toward Jiankang with a falling banner, cool blue-gray institutional light, reunification as system not carnival, style: cold architectural-statecraft painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 50, Sui founding system-builder emperor, heavy authoritative face, five vertical forehead ridges, piercing outward eyes, longer torso shorter legs proportion, COSTUME: tongtian crown, dark frugal Sui imperial robe with limited gold, large sash, modest jewelry, ACCESSORIES AND PROPS: optional gui tablet, glowing city-grid diagram light, distant fleet silhouettes, POSE: standing above geometric city plan, calm command, BACKGROUND SET: Daxing ward grid vision plus Yangtze campaign fleet and falling Jiankang banner, cool blue-gray light, ART DIRECTION: cold architectural statecraft painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "sui-yang",
@@ -385,13 +458,19 @@
       ],
       "epithet": "江东晋王",
       "appearance_level": "A/B",
-      "age_moment_zh": "约四十五至五十（江都终局）",
-      "appearance_zh": "东亚男性，近五十；史称美姿仪——五官端丽，眉目疏秀，曾是美少年帝王；此时眼窝微陷、法令纹深，英俊被疲惫腐蚀；须修整但仍整齐；体态仍修长，不横壮；服：大业极致华服/龙舟常服金碧，与背后夜刃对比。",
+      "costume_level": "B",
+      "age_moment_zh": "约四十八（江都）",
+      "appearance_zh": "曾极俊美，近五十疲态腐蚀英俊，修长。",
+      "costume_zh": "【衣】大业极致：金线龙纹袍、青绿缘；【冠】通天/远游高冠珠翠（可克制但华）；【质】织金、轻纱、反光强；与隋文清俭对打。",
+      "accessories_zh": "龙舟阑干；羽扇或玉笏；背后运河；近景冷刃反光；酒器可有。",
+      "background_zh": "俯瞰运河如玉带+近景龙舟舱；江都宫夜影压过来。",
+      "style_faction_zh": "绮丽切断：金碧→磷火青。",
       "appearance_sources_zh": [
-        "A《隋书·炀帝纪》：上美姿仪，少敏慧……特所钟爱",
-        "B 善文艺骑射传统记载——外形宜俊美而非魁梧莽夫；终局加疲态"
+        "A 美姿仪；B 大业极奢"
       ],
-      "style_faction_zh": "运河绮丽切断为江都磷火。",
+      "costume_sources_zh": [
+        "B 大业行幸：冕服/龙袍金碧、仙幢华饰；龙舟卤簿"
+      ],
       "event_lines": [
         "江都之变",
         "运河如带"
@@ -404,8 +483,8 @@
         "houxiao": 86,
         "yuedan": 18
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 48, historically described as beautiful in appearance: refined handsome features, elegant brows and eyes, once radiant now hollow-eyed and exhausted, neat beard, slender graceful body not a brute, wearing extremely luxurious Sui imperial gold-and-turquoise dragon-boat attire, standing at the prow of a ornate dragon boat on a luminous grand canal like a jade belt from above, yet cold dagger glints and Jiangdu palace night shadows close in, split mood of infrastructure glory and murder doom, style: gorgeous-to-toxic color tragedy painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 48, once-beautiful Sui touring emperor, refined handsome features now hollow-eyed exhausted, neat beard, slender graceful body, COSTUME: extremely luxurious Sui imperial robe with gold dragon embroidery and turquoise trim, tall beaded crown, shimmering brocade, maximum splendor, ACCESSORIES AND PROPS: dragon-boat rail, jade tablet or feather fan, wine vessel, cold dagger glint nearby, POSE: standing at dragon-boat prow, weary upright, BACKGROUND SET: luminous grand canal like jade belt from above, Jiangdu palace night shadows closing in, toxic beauty, ART DIRECTION: gorgeous-to-toxic color tragedy, gold versus murder blue, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "tang-tai-zong",
@@ -417,14 +496,20 @@
         "唐太宗"
       ],
       "epithet": "天可汗令",
-      "appearance_level": "A/B（相学术语入史）",
-      "age_moment_zh": "约三十五至四十（贞观盛时）",
-      "appearance_zh": "东亚男性，三十五至四十；天日之表：天庭饱满、气宇极开；虬须：须卷曲有力、英武；眉目如画而有杀气与英明并存；体格精悍善骑射；肤色健康；服：唐金明光甲可半卸，手持白色谏纸卷，非只亮兵器。",
+      "appearance_level": "A/B",
+      "costume_level": "B",
+      "age_moment_zh": "约三十六至四十（贞观盛）",
+      "appearance_zh": "虬须英武，天庭开，精悍。",
+      "costume_zh": "【甲】唐金/石青明光甲，护心镜可有；【袍】甲上可披白袍或衔白色谏纸；【冠】兜鍪可卸置一旁，露发与虬须；【禁】宋以后补子官服。",
+      "accessories_zh": "展开的白色谏书卷；弓；远处突厥旗倒；凌烟虚影壁。",
+      "background_zh": "长安宫阙晴空；或便桥意象简化；日光硬朗。",
+      "style_faction_zh": "贞观金石青：明朗顶格。",
       "appearance_sources_zh": [
-        "A/B《旧唐书/新唐书》载书生相语：龙凤之姿，天日之表；民间/史传系统有「虬须」英武像",
-        "B 弓马皇帝——体格健，眼神明锐"
+        "A/B 龙凤之姿天日之表；虬须传统"
       ],
-      "style_faction_zh": "贞观明朗金石青；弓马与谏争光。",
+      "costume_sources_zh": [
+        "B 唐初明光甲/山文甲系统；常朝亦可绛袍——本帧甲+谏纸"
+      ],
       "event_lines": [
         "天可汗",
         "贞观纳谏"
@@ -437,8 +522,8 @@
         "houxiao": 97,
         "yuedan": 96
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 36-40, legendary 'dragon-phoenix bearing' and sun-like forehead presence, curly martial coiling beard (qiuxu), brilliant fierce-intelligent eyes, athletic archer-emperor body, healthy color, bright Tang golden armor partially worn, hands holding an open white remonstrance paper scroll instead of only a weapon, behind him collapsed northern steppe banners and faint ghostly meritorious ministers on a wall, clear Zhenguan daylight, balance of conquest and good governance, style: luminous High-Tang heroic-governance painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 36-40, High-Tang archer-emperor, dragon-phoenix bearing, sun-like open forehead, curly coiling martial beard, fierce-intelligent eyes, athletic body, COSTUME: early Tang golden and stone-blue armor with chest mirrors, optional white cloak, helmet set aside, NOT Song rank-badge robes, ACCESSORIES AND PROPS: open white remonstrance paper scroll in hands, bow, collapsed northern banners, faint meritorious-minister wall ghosts, POSE: standing in clear daylight, armor on, paper forward as main prop, BACKGROUND SET: Chang'an palace under bright Zhenguan sun, clean heroic sky, ART DIRECTION: luminous High-Tang heroic-governance painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "zhou-wu-zetian",
@@ -450,15 +535,20 @@
         "武则天"
       ],
       "epithet": "金轮称制",
-      "appearance_level": "C（本纪不细写五官；按年龄+女帝场景重建）",
-      "age_moment_zh": "约六十六（天授元年 690）",
-      "appearance_zh": "东亚女性，六十五上下；脸方圆有权，法令纹与眼袋可见；目光极稳极冷，无娇笑；唇薄；发已非青丝，冠冕下可见斑白；体态端，不纤弱；服：全套帝王冕服/龙袍系统，金轮光在背；严禁暴露宫斗造型。",
+      "appearance_level": "C",
+      "costume_level": "B",
+      "age_moment_zh": "约六十六（690）",
+      "appearance_zh": "六十五+方权脸，斑白，冷目，无媚态。",
+      "costume_zh": "【冠】十二旒冕（女帝仍用皇帝冕）；【衣】深青/绛的衮冕龙纹；【禁】低胸宫装、狐媚披帛当主服。",
+      "accessories_zh": "金轮法器光（背光）；圭；神都紫雾；无铜匦也可远。",
+      "background_zh": "洛阳神都宫阙剪影，紫雾金轮，纪念碑构图。",
+      "style_faction_zh": "神都紫金：女帝纪念碑。",
       "appearance_sources_zh": [
-        "C 两唐书武后纪不载具体眉目尺寸",
-        "B 称帝时高龄——禁止画成年轻狐狸精；宜衰老仍压迫的女主权颜",
-        "B 冕旒、袆衣、金轮象征"
+        "C 无细貌；B 女帝称制用皇帝冠服系统"
       ],
-      "style_faction_zh": "神都紫金；纪念碑女帝。",
+      "costume_sources_zh": [
+        "B 武周皇帝冕服：冕旒、衮服，非后妃袆衣主视觉"
+      ],
       "event_lines": [
         "天授称帝",
         "金轮称制"
@@ -471,8 +561,8 @@
         "houxiao": 88,
         "yuedan": 58
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian woman about 65-67 as sole female sovereign, square-powerful mature face with age lines, cold steady eyes, thin controlled lips, gray-streaked hair under full imperial mianguan crown, dignified heavy body posture not fragile, wearing complete male-style Chinese imperial dragon robes, great golden wheel mandala light behind her in purple mist of Luoyang, palace silhouettes, monumental sacred political power, absolutely not sensual harem beauty, style: purple-gold divine-capital monument portrait, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian woman 65-67 as sole female Chinese emperor, square powerful aged face, age lines, cold steady eyes, gray-streaked hair, dignified heavy posture, COSTUME: full male-style imperial mian crown with hanging jade/pearl strings, dark blue and crimson dragon imperial robes, solemn not sensual, NO harem dress, ACCESSORIES AND PROPS: golden wheel mandala backlight, gui tablet, purple mist, palace silhouettes, POSE: frontal monument stance, absolute sovereignty, BACKGROUND SET: Luoyang divine capital silhouettes in purple fog, sacred political light, ART DIRECTION: purple-gold divine-capital monument portrait, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "tang-xian-zong",
@@ -485,13 +575,19 @@
       ],
       "epithet": "元和鞭藩",
       "appearance_level": "C",
-      "age_moment_zh": "约四十（元和削藩高潮）",
-      "appearance_zh": "东亚男性，四十上下；脸偏瘦长，眉紧，眼有血丝；须短而黑；下颌紧；体型偏文吏而有决断肩背；服：深色常朝服/缋，大明宫夜，无华丽游行感。",
+      "costume_level": "B",
+      "age_moment_zh": "约四十（元和）",
+      "appearance_zh": "瘦长脸，紧眉血丝眼，短黑须。",
+      "costume_zh": "【头】黑色硬脚襆头；【衣】深青/紫圆领缺胯袍；【带】蹀躞带（可挂小囊）；夜殿，无大朝会卤簿。",
+      "accessories_zh": "手指按着藩镇地图钉；烛台；窗外雪；隐约甲士。",
+      "background_zh": "大明宫夜室；地图墙；雪光与烛红对切；可叠蔡州城剪影。",
+      "style_faction_zh": "中晚唐冷硬夜：烛红雪青。",
       "appearance_sources_zh": [
-        "C《旧唐书·宪宗纪》无细貌",
-        "B 中晚唐中兴之主——宜清瘦锐利、有夜谈军国的青影"
+        "C 无细貌"
       ],
-      "style_faction_zh": "中晚唐冷硬夜色；雪青+烛红。",
+      "costume_sources_zh": [
+        "B 中晚唐常朝：襆头、圆领缺胯袍、蹀躞带"
+      ],
       "event_lines": [
         "元和削藩",
         "雪夜蔡州"
@@ -504,8 +600,8 @@
         "houxiao": 78,
         "yuedan": 80
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 40, lean elongated face, tight brows, bloodshot determined eyes, short dark beard, thin intense jaw, civil-military hybrid build, dark late-Tang court robe in Daming Palace night chamber, finger pressing a military map of rebel provinces, candlelight carving his face thin, double-exposure of snowy night assault on a southern city wall, sparse hard atmosphere of mid-Tang restoration, style: cold candlelit strategy painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 40, late-Tang restoration emperor, lean elongated face, tight brows, bloodshot eyes, short dark beard, thin intense jaw, COSTUME: black hard-winged futou headwear, dark blue or purple round-collar Tang robe with side slits, belt with small pouches, ACCESSORIES AND PROPS: finger on military map with pins, candlesticks, snow light at window, faint armored guards, POSE: leaning over map table at night, decisive press of finger, BACKGROUND SET: Daming Palace night chamber, map wall, candle red versus snow cyan, ghost image of snowy city assault, ART DIRECTION: cold candlelit strategy painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "zhou-shi",
@@ -518,13 +614,19 @@
       ],
       "epithet": "显德振旅",
       "appearance_level": "C",
-      "age_moment_zh": "约三十三四（高平 954）",
-      "appearance_zh": "东亚男性，三十三四；脸方而英，眉竖，眼神狠而正；须不长，短髭；满面征尘；体格精悍，行动感强；服：玄黑银边甲，战袍撕裂边缘可有，永不儒服端坐。",
+      "costume_level": "B/C",
+      "age_moment_zh": "约三十三（高平）",
+      "appearance_zh": "方脸青年，竖眉短髭，满面征尘。",
+      "costume_zh": "【甲】玄黑甲，银/铁边；【袍】战袍赤缘可裂；【盔】兜鍪系带；从头到脚可战，无儒服。",
+      "accessories_zh": "马鞭/刀；军旗；禁军阵列；逃将背影。",
+      "background_zh": "高平坡地秋草，烟尘，旗如血。",
+      "style_faction_zh": "五代短燃战绘。",
       "appearance_sources_zh": [
-        "C 正史缺细貌；显德元年三十余，以谨厚被养为子",
-        "B 五代亲征英主——年轻、精悍、风尘仆仆"
+        "C 无细貌；B 五代亲征英主"
       ],
-      "style_faction_zh": "五代短促燃烧；秋草战旗。",
+      "costume_sources_zh": [
+        "B 五代禁军甲：玄甲银缘、战袍"
+      ],
       "event_lines": [
         "高平之战",
         "显德振旅"
@@ -537,8 +639,8 @@
         "houxiao": 85,
         "yuedan": 88
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 33-34, square heroic young face, upright fierce righteous eyes, short stubble beard, dust of battle on skin, compact explosive athletic body always in armor, black-and-silver Chinese Five-Dynasties armor, on Gaoping battlefield slope rallying troops and striking down fleeing cowards, blood-red banners, autumn grass and smoke, short brilliant martial life energy, style: high-action short-burn war painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 33-34, Five Dynasties young martial emperor, square heroic young face, upright fierce eyes, short stubble, battle dust on skin, compact explosive body, COSTUME: black-and-silver Chinese Five-Dynasties full armor, red-trimmed war robe, tied helmet, ready to fight, ACCESSORIES AND PROPS: sword or whip, blood-red banners, imperial guard ranks, fleeing coward silhouettes, POSE: on slope rallying troops, dynamic stride, BACKGROUND SET: Gaoping autumn grass slope, smoke, wind, raw battlefield, ART DIRECTION: high-action short-burn war painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "n-tang-houzhu",
@@ -551,13 +653,19 @@
       ],
       "epithet": "江南残梦",
       "appearance_level": "B/C",
-      "age_moment_zh": "约三十八九（975城破）",
-      "appearance_zh": "东亚男性，三十八九；脸清秀偏软，眉目如画而愁；无须或仅淡髭；肤白；肩窄，指长染墨；体态文弱，站如文人不是将军；服：南唐细布袍、软巾，雨湿贴身。",
+      "costume_level": "B/C",
+      "age_moment_zh": "约三十八九（975）",
+      "appearance_zh": "秀软文士脸，淡髭或无须，肩窄指长。",
+      "costume_zh": "【头】软巾或软脚襆头，雨湿；【衣】月白/黛青细布交领袍，薄；【履】软履；【禁】横刀金甲。",
+      "accessories_zh": "空白纸绢与墨（勿显字）；窗棂；远处火光映水。",
+      "background_zh": "金陵夜雨窗；秦淮水火倒影；水墨空间。",
+      "style_faction_zh": "江南水墨湿冷。",
       "appearance_sources_zh": [
-        "B 史传与文学传统：工书善画、词人皇帝——外形宜秀弱文士",
-        "C 正史缺严格五官尺寸；禁画成横刀武将"
+        "B 词人皇帝传统；C 无严格五官尺寸"
       ],
-      "style_faction_zh": "江南水墨湿冷；月白黛青。",
+      "costume_sources_zh": [
+        "B 南唐文人帝服：软脚襆头/巾，细布袍，非甲"
+      ],
       "event_lines": [
         "975城破",
         "江南残梦"
@@ -570,8 +678,8 @@
         "houxiao": 78,
         "yuedan": 78
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 38-39, soft refined scholar face, painted melancholy brows and eyes, little or no beard, pale skin, narrow literary shoulders, long ink-stained fingers, weak unmilitary posture, Southern Tang fine cloth robe and soft headcloth wet with rain, leaning by a rainy night window in Jinling, blank paper and ink without readable characters, distant city-fall fire reflecting on river water, wet ink-wash blue-gray palette, style: Jiangnan tragic literati watercolor, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 38-39, Southern Tang poet-emperor, soft refined scholar face, melancholy brows, little beard, pale skin, narrow shoulders, long ink-stained fingers, COSTUME: soft rain-wet headcloth or soft futou, moon-white or blue-gray fine cloth cross-collar robe, soft shoes, NO armor, ACCESSORIES AND PROPS: blank paper and ink without characters, window lattice, distant fire on water, POSE: leaning by rainy window, literati posture, BACKGROUND SET: Jinling night rain, Qinhuai reflections of city fire, wet ink-wash space, ART DIRECTION: Jiangnan tragic literati watercolor, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "n-song-tai-zu",
@@ -584,12 +692,19 @@
       ],
       "epithet": "杯酒释兵",
       "appearance_level": "A",
-      "age_moment_zh": "约三十四五（杯酒释兵权传统系年）",
-      "appearance_zh": "东亚男性，三十四上下；高鼻梁（隆准）；龙颜威重，远望即知非常人；脸堂堂，笑时和气但眼底冷静；须中等；体格军人出身仍壮；服：宋初帝常服/绛袍，宴席便装感，不必满身大驾卤簿。",
+      "costume_level": "B",
+      "age_moment_zh": "约三十四（杯酒传统年）",
+      "appearance_zh": "高鼻龙颜，笑里有算，军人肩背。",
+      "costume_zh": "【头】硬脚幞头；【衣】赤/绛圆领袍，织纹克制；【带】金/犀带；不是大朝会冕服满身。",
+      "accessories_zh": "酒盏连连；长案；对面卸甲的宿将；门外黄袍虚影一点。",
+      "background_zh": "宫宴内室烛光；暖金；门缝夜色。",
+      "style_faction_zh": "烛宴室内剧：温柔一刀。",
       "appearance_sources_zh": [
-        "A《宋史·太祖纪》：及长，隆准龙颜，望之知为大人，俨如也"
+        "A《宋史》隆准龙颜"
       ],
-      "style_faction_zh": "烛金酒赤；温柔一刀的室内剧。",
+      "costume_sources_zh": [
+        "B 宋初帝常服：幞头、绛纱/赤袍；宴饮便装感"
+      ],
       "event_lines": [
         "杯酒释兵权",
         "烛宴"
@@ -602,8 +717,8 @@
         "houxiao": 94,
         "yuedan": 90
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 34, high nose bridge, dragon-like imposing face that looks non-ordinary even from afar, friendly smile with cold calculating eyes, medium beard, strong former-general body, early Northern Song imperial banquet dress in deep red and dark silk, smiling while offering wine cups to senior generals at candlelit long table, generals removing armor behind, soft gold candlelight, faint yellow-robe silhouette outside the door, intimate political soft power, style: candlelit interior political still, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 34, early Song general-emperor, high nose, dragon-like imposing face, friendly smile with cold eyes, medium beard, strong general body, COSTUME: hard-winged futou, restrained crimson round-collar early Song imperial robe, ornate belt, banquet dress not full mian ceremonial, ACCESSORIES AND PROPS: wine cups offered, long table, generals removing armor, faint yellow robe silhouette outside door, POSE: smiling toast gesture, soft body language over hard politics, BACKGROUND SET: candlelit palace banquet room, soft gold, dark doorway, ART DIRECTION: candlelit interior political still, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "yuan-shi-zu",
@@ -616,13 +731,19 @@
       ],
       "epithet": "混一车书",
       "appearance_level": "B/C",
-      "age_moment_zh": "约六十四（1279崖山）",
-      "appearance_zh": "蒙古族老年男性，六十中后；脸宽阔，颧高，目较深，唇厚；须花白稀疏；体格厚重；肤色偏红褐风霜；服：蒙古冠帽元素 + 汉地龙袍/织金锦混一，体现「混一车书」。",
+      "costume_level": "B",
+      "age_moment_zh": "约六十四（崖山）",
+      "appearance_zh": "宽脸深目，花白须，体厚，肤红褐。",
+      "costume_zh": "【帽】蒙古式冬帽/宝里冠元素；【衣】织金锦质孙袍 + 汉式龙纹缘；【色】蓝、银、宫红；体现混一，不是纯汉唐帝。",
+      "accessories_zh": "玉带；驿马远影光迹；地图式行省色块可抽象。",
+      "background_zh": "大都中轴建筑+草原云；远南方海浪吞旗（崖山）。",
+      "style_faction_zh": "欧亚帝国全景：蒙古蓝宫红。",
       "appearance_sources_zh": [
-        "B《元史·世祖纪》：及长，仁明英睿……无细五官",
-        "B 蒙古皇族——方阔脸、目深、体硕的北族感 + 汉地帝服元素混搭（重建）"
+        "B 蒙古皇族体貌传统+元帝质孙/汉地龙袍混一"
       ],
-      "style_faction_zh": "欧亚帝国尺度；蒙古蓝+宫红。",
+      "costume_sources_zh": [
+        "B 质孙（只孙）织金锦+汉地龙袍元素混搭；蒙古冠帽"
+      ],
       "event_lines": [
         "1279灭宋",
         "混一车书"
@@ -635,8 +756,8 @@
         "houxiao": 96,
         "yuedan": 52
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an elderly Mongol man about 64, broad square face, high cheekbones, deeper-set eyes, thick lips, sparse graying beard, heavy solid body, weather-reddened skin, mixed regalia: Mongol hat elements plus Chinese imperial dragon-robe gold brocade (unified empire dress), standing where Dadu city axis meets open steppe wind, far southern sea waves swallowing Song banners, relay-horse light trails of empire networks, Mongol blue sky and palace red accents, style: vast Eurasian unification panorama, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an elderly Mongol man about 64, Yuan universal ruler, broad square face, high cheekbones, deeper-set eyes, sparse gray beard, heavy body, weather-reddened skin, COSTUME: Mongol-style hat elements plus gold-woven jisun robe with Chinese dragon-border motifs, blue silver and palace red, hybrid empire dress, ACCESSORIES AND PROPS: jade belt, relay-horse light trails, abstract province color blocks, POSE: standing where city axis meets steppe wind, vast scale, BACKGROUND SET: Dadu central axis architecture, open steppe clouds, far southern sea swallowing banners, ART DIRECTION: vast Eurasian unification panorama, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     },
     {
       "id": "n-wei-taiwu",
@@ -649,13 +770,19 @@
       ],
       "epithet": "真君铁骑",
       "appearance_level": "A/B",
-      "age_moment_zh": "约三十五至四十（灭北凉 439）",
-      "appearance_zh": "东亚/鲜卑男性，三十五至四十；体貌瓌异：骨架大、气势压人；脸方阔，眉浓，眼凶亮；须密；肤色风雪粗；服：北魏重甲、披毛领，马高于画面比例。",
+      "costume_level": "B",
+      "age_moment_zh": "约三十五至四十（439）",
+      "appearance_zh": "魁伟瓌异，方脸凶目，密须，风雪肤。",
+      "costume_zh": "【甲】北魏铁骑重甲，冷青铁色；【领】毛皮领；【盔】高兜鍪；全身可战。",
+      "accessories_zh": "长矛；马；碎佛铃远意象；城破烟。",
+      "background_zh": "雪原/河西城破；铁骑洪流；铁青天空。",
+      "style_faction_zh": "真君铁青雪原武史诗。",
       "appearance_sources_zh": [
-        "A《魏书·世祖纪》：体貌瓌异，太祖奇而悦之",
-        "B 鲜卑铁骑皇帝——魁伟、风霜、杀气"
+        "A 体貌瓌异"
       ],
-      "style_faction_zh": "真君铁青雪原；粗粝武巅峰。",
+      "costume_sources_zh": [
+        "B 北魏重骑兵甲、毛领、马具"
+      ],
       "event_lines": [
         "灭北凉",
         "真君铁骑"
@@ -668,8 +795,8 @@
         "houxiao": 82,
         "yuedan": 48
       },
-      "prompt_en": "16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a Xianbei East Asian man about 36-40, extraordinary huge powerful physique (body described as rare and imposing), broad fierce face, thick brows, bright predatory eyes, dense beard, wind-and-snow rough skin, heavy Northern Wei iron cavalry armor with fur collar, leading iron horsemen flooding a desert fortress gate in winter light, smoke and snow, iron-blue palette, distant cracked temple bells as quiet religious-persecution hint without gore focus, style: raw cold cavalry-unification epic, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece",
-      "negative_en": "text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo"
+      "prompt_en": "16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a huge Xianbei East Asian man 36-40, Northern Wei cavalry emperor, extraordinary imposing physique, broad fierce face, thick brows, predatory eyes, dense beard, snow-rough skin, COSTUME: heavy Northern Wei iron cavalry armor, fur collar, tall helmet, full war kit, ACCESSORIES AND PROPS: lance, warhorse, distant cracked temple bells hint, fortress smoke, POSE: leading charge at fortress gate, horse large in frame, BACKGROUND SET: winter light on northern fortress gate, iron horsemen flood, iron-blue sky, snow and smoke, ART DIRECTION: raw cold cavalry-unification epic, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece",
+      "negative_en": "text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume"
     }
   ]
 }

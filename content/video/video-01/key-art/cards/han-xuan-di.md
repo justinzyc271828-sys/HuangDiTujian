@@ -6,7 +6,7 @@ epithet: "综核名实"
 order: 2
 batch: video-01
 type: key-art-static
-appearance_level: "C（正史无细貌；年龄+吏治气质重建）"
+appearance_level: "C"
 naming: "personal-first then title; no book-title marks on events"
 prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
@@ -52,41 +52,60 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功68 · 文治94 · 韬略90 · 国祚80 · 后效74 · 月旦84`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约三十余（地节亲政前后） |
-| 证据等级 | **C（正史无细貌；年龄+吏治气质重建）** |
-| 一句话场景 | 未央夜，中年清瘦帝王对案牍朱笔，眼神像从街市里活过来的。 |
-| 势力/画风 | 西汉吏治暖灰；案牍美学；少战场红。 |
-| 气质色调 | 暖灰审计 |
-| 关键道具 | 竹简山、朱笔、油灯、未央梁柱 |
+| 定格年龄 | 约三十余（地节） |
+| 外貌证据 | **C** |
+| 冠服证据 | **B** |
+| 一句话场景 | 皂袍进贤冠的清瘦皇帝在竹简山前落朱笔。 |
+| 势力画风 | 西汉吏治暖灰：案牍、朱砂、油灯，办公美学。 |
+| 气质 | 核名实、冷静 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- C《汉书·宣帝纪》详政治、不载五官尺寸
-- B 长于民间、知闾里奸邪——神态宜「市井洞察」而非天生龙颜脸谱
-- B 西汉中后期冠服：进贤冠/介帻、深衣袍、偏务实不奢
+**外貌：**
+- C 本纪无细貌；B 长于民间→神态市井洞察
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 西汉中期冕服/常朝：进贤冠或介帻、深衣袍、佩绶
+- B 宣帝务实形象：冠服整洁但少奢金玉堆砌
 
-东亚男性，三十中后；脸偏清瘦，颧骨略显，不是肥环龙颜脸；眉目沉静锐利，眼袋浅，有熬夜看文书感；须短而整齐，非虬髯武夫；肤色正常偏劳，不涂脂粉；肩窄于武将，手指细长沾朱砂；服：深褐/皂色宽袖袍，冠简洁，腰间绶带不夸张。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+清瘦中年，颧骨显，短须整齐，锐眼熬夜感，非肥环龙颜。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【冠】黑色进贤冠（梁冠），简。【衣】深褐/皂色曲裾或直裾深衣，领袖缘暗红极窄；内中衣本白。【带】革带+绶（青紫系低饱和）；【禁】金光闪闪龙袍满身、明清补服。
+
+### 2.4 饰品与道具
+
+朱笔、满案竹简木牍、油灯、简册绳、铜印绶在腰侧可隐；无长兵器。
+
+### 2.5 背景空间
+
+未央宫夜殿内部：藻井与柱列在暗处；灯火暖而空间冷；远门外隐约长安街市虚影（其出身）。
+
+### 2.6 画风·势力气质
+
+西汉吏治暖灰：案牍、朱砂、油灯，办公美学。 · 核名实、冷静
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man in his mid-thirties, lean intelligent face with visible cheekbones, calm sharp inspector eyes, slight sleepless shadows, neat short beard not wild, slender ink-stained fingers holding a red-ink brush, not a warrior build, wearing plain dark-brown Western-Han official deep-robe and simple black cap, standing beside a mountain of bamboo document slips inside Weiyang Palace at night, warm oil-lamp light, dusty paper atmosphere, faint misty memory of common Chang'an streets behind him, expression of auditing reality against empty titles, style: muted warm-gray bureaucratic drama painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man mid-thirties, Western-Han auditing emperor type, lean face, visible cheekbones, sharp inspector eyes, slight sleepless shadows, neat short beard, slender build, COSTUME: black jinxian winged official cap of Western Han, dark brown or sooty deep-robe with tiny dark-red trim, plain white inner collar, leather belt with muted sash cords, modest not gaudy, ACCESSORIES AND PROPS: red-ink brush mid-stroke, mountain of bamboo slips and wooden tablets, oil lamp, rope-bound archives, small seal cord at waist, no weapons, POSE: standing or half-seated at a document table, body lean forward checking slips, BACKGROUND SET: night interior of Weiyang Palace halls, dark pillars, warm lamp pool, faint misty memory of common street life beyond the door, ART DIRECTION: muted warm-gray bureaucratic drama painting, paper dust atmosphere, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -97,7 +116,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

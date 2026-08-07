@@ -6,7 +6,7 @@ epithet: "金轮称制"
 order: 14
 batch: video-01
 type: key-art-static
-appearance_level: "C（本纪不细写五官；按年龄+女帝场景重建）"
+appearance_level: "C"
 naming: "personal-first then title; no book-title marks on events"
 prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
@@ -52,41 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功68 · 文治88 · 韬略94 · 国祚78 · 后效88 · 月旦58`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约六十六（天授元年 690） |
-| 证据等级 | **C（本纪不细写五官；按年龄+女帝场景重建）** |
-| 一句话场景 | 六十上下女帝冕旒端坐神都雾中，脸是权柄不是媚。 |
-| 势力/画风 | 神都紫金；纪念碑女帝。 |
-| 气质色调 | 紫雾金轮 |
-| 关键道具 | 冕旒、金轮、洛阳紫雾 |
+| 定格年龄 | 约六十六（690） |
+| 外貌证据 | **C** |
+| 冠服证据 | **B** |
+| 一句话场景 | 冕旒衮服的老年女帝立在金轮紫雾中。 |
+| 势力画风 | 神都紫金：女帝纪念碑。 |
+| 气质 | 称制 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- C 两唐书武后纪不载具体眉目尺寸
-- B 称帝时高龄——禁止画成年轻狐狸精；宜衰老仍压迫的女主权颜
-- B 冕旒、袆衣、金轮象征
+**外貌：**
+- C 无细貌；B 女帝称制用皇帝冠服系统
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 武周皇帝冕服：冕旒、衮服，非后妃袆衣主视觉
 
-东亚女性，六十五上下；脸方圆有权，法令纹与眼袋可见；目光极稳极冷，无娇笑；唇薄；发已非青丝，冠冕下可见斑白；体态端，不纤弱；服：全套帝王冕服/龙袍系统，金轮光在背；严禁暴露宫斗造型。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+六十五+方权脸，斑白，冷目，无媚态。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【冠】十二旒冕（女帝仍用皇帝冕）；【衣】深青/绛的衮冕龙纹；【禁】低胸宫装、狐媚披帛当主服。
+
+### 2.4 饰品与道具
+
+金轮法器光（背光）；圭；神都紫雾；无铜匦也可远。
+
+### 2.5 背景空间
+
+洛阳神都宫阙剪影，紫雾金轮，纪念碑构图。
+
+### 2.6 画风·势力气质
+
+神都紫金：女帝纪念碑。 · 称制
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian woman about 65-67 as sole female sovereign, square-powerful mature face with age lines, cold steady eyes, thin controlled lips, gray-streaked hair under full imperial mianguan crown, dignified heavy body posture not fragile, wearing complete male-style Chinese imperial dragon robes, great golden wheel mandala light behind her in purple mist of Luoyang, palace silhouettes, monumental sacred political power, absolutely not sensual harem beauty, style: purple-gold divine-capital monument portrait, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian woman 65-67 as sole female Chinese emperor, square powerful aged face, age lines, cold steady eyes, gray-streaked hair, dignified heavy posture, COSTUME: full male-style imperial mian crown with hanging jade/pearl strings, dark blue and crimson dragon imperial robes, solemn not sensual, NO harem dress, ACCESSORIES AND PROPS: golden wheel mandala backlight, gui tablet, purple mist, palace silhouettes, POSE: frontal monument stance, absolute sovereignty, BACKGROUND SET: Luoyang divine capital silhouettes in purple fog, sacred political light, ART DIRECTION: purple-gold divine-capital monument portrait, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -97,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

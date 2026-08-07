@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功48 · 文治78 · 韬略62 · 国祚55 · 后效72 · 月旦50`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约七十余（舍身同泰年段） |
-| 证据等级 | **A/B** |
-| 一句话场景 | 七十余清癯老帝立于金佛前，顶骨异相，袈裟压帝袍。 |
-| 势力/画风 | 南朝金粉佛光，底子已腐。 |
-| 气质色调 | 前金后灰 |
-| 关键道具 | 金佛、钱山、同泰寺、远处甲骑烟 |
+| 定格年龄 | 约七十余（舍身年段） |
+| 外貌证据 | **A/B** |
+| 冠服证据 | **B** |
+| 一句话场景 | 袈裟压帝袍的清瘦老帝立在金佛与钱山前。 |
+| 势力画风 | 南朝金粉佛光+腐朽灰边。 |
+| 气质 | 舍身与将乱 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《梁书·武帝纪》：生而有奇异，两胯骈骨，顶上隆起，有文在右手曰武
-- B 长寿佞佛、蔬食——晚年宜清瘦、须白、眼神执拗慈悲混杂
+**外貌：**
+- A《梁书》顶上隆起等；B 蔬食佞佛→清癯
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 梁帝通天冠服+佛事袈裟叠穿（舍身名场面）
 
-东亚老年男性，七十上下；脸清癯，颧骨显，须眉花白下垂；头顶中央骨隆起（顶上隆起）；体态偏瘦（长年佛事）；眼神既慈悲又固执；右手可有旧疤/纹理暗示「武」文（勿写字）；服：梁帝袍外罩袈裟一角，金粉与灰扑同在。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+清癯老脸，白须，顶骨隆，瘦。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【外】土黄/藕荷色袈裟斜披；【内】梁代帝袍（绛/紫系可低饱和）仍在；【冠】通天冠或佛事时免冠见白发；金粉沾衣。
+
+### 2.4 饰品与道具
+
+念珠；金佛脚前钱山（赎身）；香炉青烟；远处甲骑反光。
+
+### 2.5 背景空间
+
+同泰寺大殿金佛巨像；梁柱飞檐南朝细；门外建康天际已有烟尘。
+
+### 2.6 画风·势力气质
+
+南朝金粉佛光+腐朽灰边。 · 舍身与将乱
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 70-75, gaunt devout face, white drooping beard and brows, noticeably raised bony crown of the skull, thin ascetic body from long Buddhist practice, eyes mixing compassion and stubborn delusion, Liang dynasty imperial robe with a Buddhist kasaya draped over it, standing before a colossal golden Buddha in Tongtai Temple, piles of ransom coins, holy gold light on his face, far outside the gate gray smoke of approaching armored cavalry, beauty and doom, style: gilded Buddhist southern-dynasty tragedy, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 70-75, Southern Liang Buddhist emperor, gaunt aged face, white drooping beard, raised bony skull crown, thin ascetic body, COSTUME: Buddhist kasaya in dusty gold-lotus tones draped over Liang imperial robes, tongtian crown or bare gray hair under temple light, gold leaf dust on fabric, ACCESSORIES AND PROPS: prayer beads, mountain of ransom coins before Buddha, incense smoke, distant glint of armor outside, POSE: devout standing before colossal Buddha, hands in dedication gesture, BACKGROUND SET: Tongtai Temple interior, huge golden Buddha, refined Southern-dynasty timber hall, gray cavalry smoke beyond the gate, ART DIRECTION: gilded Buddhist tragedy, gold versus ash, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

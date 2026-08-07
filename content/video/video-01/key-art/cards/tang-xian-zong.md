@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功76 · 文治87 · 韬略90 · 国祚48 · 后效78 · 月旦80`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约四十（元和削藩高潮） |
-| 证据等级 | **C** |
-| 一句话场景 | 中年清锐唐帝，指节按在藩镇图上，烛影削薄他的脸。 |
-| 势力/画风 | 中晚唐冷硬夜色；雪青+烛红。 |
-| 气质色调 | 冷硬削藩 |
-| 关键道具 | 藩镇地图、烛、雪夜蔡州叠影 |
+| 定格年龄 | 约四十（元和） |
+| 外貌证据 | **C** |
+| 冠服证据 | **B** |
+| 一句话场景 | 襆头圆领的中年唐帝在烛下按死地图上的藩镇。 |
+| 势力画风 | 中晚唐冷硬夜：烛红雪青。 |
+| 气质 | 鞭藩 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- C《旧唐书·宪宗纪》无细貌
-- B 中晚唐中兴之主——宜清瘦锐利、有夜谈军国的青影
+**外貌：**
+- C 无细貌
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 中晚唐常朝：襆头、圆领缺胯袍、蹀躞带
 
-东亚男性，四十上下；脸偏瘦长，眉紧，眼有血丝；须短而黑；下颌紧；体型偏文吏而有决断肩背；服：深色常朝服/缋，大明宫夜，无华丽游行感。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+瘦长脸，紧眉血丝眼，短黑须。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【头】黑色硬脚襆头；【衣】深青/紫圆领缺胯袍；【带】蹀躞带（可挂小囊）；夜殿，无大朝会卤簿。
+
+### 2.4 饰品与道具
+
+手指按着藩镇地图钉；烛台；窗外雪；隐约甲士。
+
+### 2.5 背景空间
+
+大明宫夜室；地图墙；雪光与烛红对切；可叠蔡州城剪影。
+
+### 2.6 画风·势力气质
+
+中晚唐冷硬夜：烛红雪青。 · 鞭藩
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 40, lean elongated face, tight brows, bloodshot determined eyes, short dark beard, thin intense jaw, civil-military hybrid build, dark late-Tang court robe in Daming Palace night chamber, finger pressing a military map of rebel provinces, candlelight carving his face thin, double-exposure of snowy night assault on a southern city wall, sparse hard atmosphere of mid-Tang restoration, style: cold candlelit strategy painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 40, late-Tang restoration emperor, lean elongated face, tight brows, bloodshot eyes, short dark beard, thin intense jaw, COSTUME: black hard-winged futou headwear, dark blue or purple round-collar Tang robe with side slits, belt with small pouches, ACCESSORIES AND PROPS: finger on military map with pins, candlesticks, snow light at window, faint armored guards, POSE: leaning over map table at night, decisive press of finger, BACKGROUND SET: Daming Palace night chamber, map wall, candle red versus snow cyan, ghost image of snowy city assault, ART DIRECTION: cold candlelit strategy painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

@@ -52,41 +52,62 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功96 · 文治93 · 韬略88 · 国祚18 · 后效99 · 月旦42`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约四十前后（前221称帝时） |
-| 证据等级 | **A/B** |
-| 一句话场景 | 黑旗水德的咸阳高台，中年帝王如度量衡般冷硬站立。 |
-| 势力/画风 | 秦·水德玄黑纪念碑风；对称、冷、制度感；拒绝暖红汉风。 |
-| 气质色调 | 冷硬鎏金+玄黑 |
-| 关键道具 | 黑旗、权量、竹简、咸阳高台、六国地图色块收束 |
+| 定格年龄 | 约四十（前221） |
+| 外貌证据 | **A/B** |
+| 冠服证据 | **A/B** |
+| 一句话场景 | 黑冠玄衣的中年秦王立在咸阳中轴高台，权量竹简在脚边。 |
+| 势力画风 | 秦水德纪念碑：玄黑+冷金+对称；制度感，拒绝暖红热闹。 |
+| 气质 | 冷硬、度量、压迫 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《史记·秦始皇本纪》载尉缭语：秦王为人「蜂准、长目、挚鸟膺、豺声」（敌对侧写，作五官线索，非美化）
+**外貌：**
+- A《史记·秦始皇本纪》尉缭：蜂准、长目、挚鸟膺、豺声
 - B 同纪：水德，衣服旄旌节旗皆上黑；数以六为纪
-- B 冕服制度向：通天冠/玄衣想象，以黑为主
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- A/B 水德尚黑：袍、旗、节以玄黑为主
+- B 秦皇冠服系统：高冠（通天/远游想象）、玄衣纁裳传统向简化为玄衣金缘
+- B 不用汉以后大红龙袍脸谱
 
-东亚中年男性；高而尖的鼻梁（蜂准）；细长而锋利的眼睛（长目）；前胸略佝、肩背有猛禽般前倾感（挚鸟膺）；薄唇，神情少恩、刻薄镇定；无须或仅短髭，下颌线条硬；肤色偏冷白；身体精瘦而非横壮；发型：冠下束发；服：通体玄黑宽袖袍，金线窄缘，黑冠高耸；手不持剑，可近权量竹简。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+蜂准长目，精瘦中年，少恩薄唇，短髭或无须，冷白肤，猛禽般肩背。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【冠】高耸玄黑漆冠，冠梁挺直，无华丽珠旒堆砌（秦冷制）。【衣】通体玄黑宽袖袍，仅极窄鎏金缘；内层深灰中衣隐约可见；腰大带黑色。【履】翘头黑舄。【禁】朱红汉袍、清代朝珠、欧式披风。
+
+### 2.4 饰品与道具
+
+权（青铜权）与方形量器；成捆竹简；黑旌旗（六为纪可暗示旗幅比例）；玉具或素带钩低调；手不持长剑为主——权力在制度器物。
+
+### 2.5 背景空间
+
+咸阳宫高台，中轴对称夯土+木构斗拱剪影；远景六国旧色地图块熄灭收成玄金一统；晨雾冷、地平线干净；地面青石与漆反射。
+
+### 2.6 画风·势力气质
+
+秦水德纪念碑：玄黑+冷金+对称；制度感，拒绝暖红热闹。 · 冷硬、度量、压迫
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a stern East Asian man about 40 years old as a Warring-States-to-Qin unifier king-emperor, distinctive sharp high-bridged nose (beak-like), long narrow piercing eyes, thin hard lips, slightly hunched predatory chest and shoulders like a raptor, lean wiry body not bulky, cold pale skin, short sparse facial hair or clean jaw, emotionless measuring gaze, tall black lacquered ceremonial crown, full black imperial robe with only thin gold trim (water-virtue black system), standing alone on a high symmetrical Xianyang palace terrace at cold dawn, behind him six colored state-map fragments collapsing into one dark-gold unified realm, bronze measuring vessels and bamboo slips at his feet, black banners, monumental symmetry, smoke, limestone and lacquer textures, style: austere black-gold seal-monument painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a stern East Asian man about 40, Qin unifier king-emperor type, sharp high beak-like nose, long narrow piercing eyes, thin hard lips, lean wiry body, slightly raptor-hunched shoulders, cold pale skin, sparse short facial hair, COSTUME: tall rigid black lacquer ceremonial crown without hanging pearl strings, full black wide-sleeve Warring-States/Qin robe with only razor-thin gold edge, dark gray inner layer, black large sash belt, black upturned ceremonial shoes, NO bright red Han dragon robe, NO Qing court beads, ACCESSORIES AND PROPS: bronze weight and measuring vessels, stacked bamboo slips, black ritual banners, simple jade belt-hook, hands empty of sword or near the measuring tools, POSE: standing alone centered on a high terrace as if measuring the world, frontal monumental stance, BACKGROUND SET: symmetrical Xianyang palace terrace of rammed earth and dark timber architecture, cold dawn fog, behind him six colored ancient-state map fragments collapsing into one dark-gold realm, stone floor with lacquer reflections, ART DIRECTION: austere black-and-cold-gold seal-monument painting, extreme symmetry, institutional coldness, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -97,7 +118,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

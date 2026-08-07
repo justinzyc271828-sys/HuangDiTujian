@@ -6,7 +6,7 @@ epithet: "投鞭断流"
 order: 9
 batch: video-01
 type: key-art-static
-appearance_level: "C（载记缺细貌；氐族君主+治世转冒进重建）"
+appearance_level: "C"
 naming: "personal-first then title; no book-title marks on events"
 prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
@@ -52,40 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功84 · 文治81 · 韬略65 · 国祚35 · 后效66 · 月旦64`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约四十五（383淝水） |
-| 证据等级 | **C（载记缺细貌；氐族君主+治世转冒进重建）** |
-| 一句话场景 | 四十上下的氐秦帝王扬鞭指江，明君脸在江风里变成执拗。 |
-| 势力/画风 | 前秦盛极金光切江水冷灰。 |
-| 气质色调 | 金→冷江 |
-| 关键道具 | 马鞭、大江、幻觉鞭影、大军 |
+| 定格年龄 | 约四十五（383） |
+| 外貌证据 | **C** |
+| 冠服证据 | **B/C** |
+| 一句话场景 | 金甲帝王扬鞭指着冷色大江。 |
+| 势力画风 | 盛极金光切冷江：悲剧骄兵。 |
+| 气质 | 投鞭 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- C《晋书》苻坚载记详事功，缺五官尺寸
-- B 氐人、长期为北方共主——宜明堂气度+后期刚愎神色
+**外貌：**
+- C 无细貌；B 氐秦共主、盛极转刚愎
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- B 十六国帝王甲+披风；C 前秦金赭色系
 
-东亚男性，四十五左右；脸堂堂，眉目疏朗，本可称明君相；须中等，修剪齐；此时眼神刚愎、嘴角紧；体格中上，不像石勒粗野；服：前秦金赭甲/冕，披风扬起；手扬马鞭指大江。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+堂堂明君骨相转执拗，中须，体中上。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【甲】金赭鱼鳞/札甲，精细于石勒；【披】赭金披风；【冠】帝王兜鍪或冠；盛时装，不是败逃破衣（败兆在江水颜色）。
+
+### 2.4 饰品与道具
+
+马鞭高扬；佩剑；身后密密兵器林；江面幻觉鞭影。
+
+### 2.5 背景空间
+
+大江天堑（淝水/长江意象），金光在甲、冷灰在水；东岸薄雾。
+
+### 2.6 画风·势力气质
+
+盛极金光切冷江：悲剧骄兵。 · 投鞭
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 45 of Di northern ethnicity, originally handsome open-browed 'good ruler' face turning stubborn, medium well-kept beard, tight mouth, proud rigid eyes, upright noble-warrior build not barbaric, Former Qin ornate ochre-gold armor and cloak, raising a horsewhip toward a vast cold river, illusory countless whip silhouettes over the current, huge army mass behind, warm gold light on armor but icy blue-gray water foreshadowing disaster, style: tragic hubris landscape of north China unifier, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 45, Former Qin Di northern ruler, open-browed once-handsome face turning stubborn, medium neat beard, tight mouth, upright noble build, COSTUME: ornate ochre-gold Former Qin lamellar armor, matching cloak, imperial helmet-crown, polished still-proud metal, ACCESSORIES AND PROPS: raised horsewhip, sword, forest of spears behind, illusory whip silhouettes over the river, POSE: on high riverbank, arm extended whip toward water, tragic pride, BACKGROUND SET: vast cold blue-gray river, gold light only on armor, mist on far bank, huge army mass, ART DIRECTION: tragic hubris landscape, gold cut by cold water, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -96,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

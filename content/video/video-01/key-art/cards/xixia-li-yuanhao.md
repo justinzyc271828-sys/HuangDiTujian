@@ -52,39 +52,59 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `武功88 · 文治80 · 韬略86 · 国祚75 · 后效73 · 月旦55`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约三十五（1038称帝） |
-| 证据等级 | **A** |
-| 一句话场景 | 身量不高的圆面高鼻党项君主立于贺兰山风中，鹰视。 |
-| 势力/画风 | 西夏河西硬光；砂金藏青；民族纹样抽象光（勿可辨字）。 |
-| 气质色调 | 砂金硬光 |
-| 关键道具 | 黑冠、绯衣、弓矢、贺兰山 |
+| 定格年龄 | 约三十五（1038） |
+| 外貌证据 | **A** |
+| 冠服证据 | **A** |
+| 一句话场景 | 黑冠绯袖矮壮君主立在贺兰风里。 |
+| 势力画风 | 西夏民族国家硬光：砂金藏青。 |
+| 气质 | 称制自立 |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
-- A《宋史·夏国传》：圆面高准，身长五尺余；少时好衣长袖绯衣，冠黑冠，佩弓矢
+**外貌：**
+- A《宋史·夏国传》圆面高准，身长五尺余；长袖绯衣，冠黑冠，佩弓矢
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+- A 明文绯衣黑冠；B 党项发式/服饰去宋化（示意）
 
-东亚/党项男性，三十五左右；明确偏矮（五尺余，短于中原高个武将）；脸圆；鼻梁很高（高准）；目光鹰隼；须不需很长；体格精悍；服：长袖绯衣、黑冠、佩弓矢（史文明）；背后贺兰山与兴庆城。
+### 2.2 外貌（脸·体）
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+偏矮，圆面高鼻，鹰目，精悍。
 
-## 3. English image prompt（自足描写，不靠认出人名）
+### 2.3 冠服（必须设计进画面）
+
+【衣】长袖绯（大红/朱红）袍，袖肥而长；【冠】黑冠（圆顶/平顶党项式，勿宋进贤）；【腰】革带；【禁】宋朝官服、龙袍满绣。
+
+### 2.4 饰品与道具
+
+弓、矢、箭袋；青盖意象可远；西夏文抽象纹样光（不可辨认字形）。
+
+### 2.5 背景空间
+
+兴庆城墙+贺兰山硬轮廓；河西硬光；砂金与藏青对比。
+
+### 2.6 画风·势力气质
+
+西夏民族国家硬光：砂金藏青。 · 称制自立
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
 ```
-16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a Tangut-looking East Asian man about 35, notably short stature (about five chi, shorter than typical tall generals), round face, high prominent nose bridge, hawk-sharp eyes, compact athletic body, short neat facial hair, wearing long-sleeved bright crimson robe, black crown-cap, bow and arrows at belt as described in Song sources, standing on fortress wall of Xingqing under Helan Mountains, desert hard sunlight, sand-gold and deep blue palette, abstract unreadable glyph-light of a unique script in the air, new frontier empire rising, style: hard-light Hexi national-founding painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a short Tangut East Asian man about 35, short stature, round face, high nose bridge, hawk eyes, compact athletic body, short facial hair, COSTUME: long-sleeved bright crimson robe with long full sleeves, black Tangut-style crown-cap, leather belt, NOT Song Chinese civil official robe, ACCESSORIES AND PROPS: bow, arrows, quiver at belt, distant blue canopy suggestion, abstract unreadable Tangut-glyph light patterns, POSE: standing on fortress battlement facing desert wind, chin set, BACKGROUND SET: Xingqing fortress walls under Helan Mountains, hard desert sunlight, sand-gold and deep navy palette, ART DIRECTION: hard-light Hexi national founding painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings
@@ -95,7 +115,10 @@ text, letters, Chinese characters, English words, watermark, logo, UI, radar, HU
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  

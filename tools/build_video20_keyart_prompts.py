@@ -55,6 +55,7 @@ def card_md(p: dict, sc: dict) -> str:
     pname = personal_name(p)
     fp = full_prompt(sc["prompt"])
     src_lines = "\n".join(f"- {x}" for x in sc["appearance_sources_zh"])
+    costume_src_lines = "\n".join(f"- {x}" for x in sc.get("costume_sources_zh", []) or ["- （见外貌史源）"])
     return f"""---
 id: "{p['id']}"
 display: "{p['display']}"
@@ -102,28 +103,48 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 `{score_lines}`
 
-## 2. 外貌史证与造型规格（核心）
+## 2. 造型总规格（外貌·冠服·饰品·背景·画风）
 
 | 项 | 内容 |
 |----|------|
 | 定格年龄 | {sc['age_moment_zh']} |
-| 证据等级 | **{sc['appearance_level']}** |
+| 外貌证据 | **{sc['appearance_level']}** |
+| 冠服证据 | **{sc.get('costume_level', sc['appearance_level'])}** |
 | 一句话场景 | {sc['scene_one_liner_zh']} |
-| 势力/画风 | {sc['style_faction_zh']} |
-| 气质色调 | {sc['mood_zh']} |
-| 关键道具 | {sc['props_zh']} |
+| 势力画风 | {sc['style_faction_zh']} |
+| 气质 | {sc['mood_zh']} |
 
-### 2.1 史源（外貌/服饰）
+### 2.1 史源
 
+**外貌：**
 {src_lines}
 
-### 2.2 外貌特征清单（必须写进画面）
+**冠服：**
+{costume_src_lines}
+
+### 2.2 外貌（脸·体）
 
 {sc['appearance_zh']}
 
-> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+### 2.3 冠服（必须设计进画面）
 
-## 3. English image prompt（自足描写，不靠认出人名）
+{sc.get('costume_zh', '（见英文 COSTUME 段）')}
+
+### 2.4 饰品与道具
+
+{sc.get('accessories_zh', sc.get('props_zh', ''))}
+
+### 2.5 背景空间
+
+{sc.get('background_zh', '')}
+
+### 2.6 画风·势力气质
+
+{sc['style_faction_zh']} · {sc['mood_zh']}
+
+> **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
+
+## 3. English image prompt（COSTUME / ACCESSORIES / BACKGROUND / STYLE 分段写死）
 
 ### Positive
 
@@ -145,8 +166,11 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 ## 4. Post checklist
 
-- [ ] 脸与清单一致（鼻/须/体型/年龄）  
-- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 脸：鼻/须/体型/年龄  
+- [ ] 冠服：朝代对、颜色对、有「禁项」没画错  
+- [ ] 饰品道具：与代表事件咬合  
+- [ ] 背景：地点事件可读  
+- [ ] 画风：势力气质（不是统一皮肤）  
 - [ ] 无字无 UI；左下右缘留暗  
 - [ ] 叠字：本名优先 + 代表事无书名号  
 """
@@ -207,10 +231,15 @@ def main():
                 "name_lines": name_title_line(p).split("\n"),
                 "epithet": p["epithet"],
                 "appearance_level": sc["appearance_level"],
+                "costume_level": sc.get("costume_level"),
                 "age_moment_zh": sc["age_moment_zh"],
                 "appearance_zh": sc["appearance_zh"],
-                "appearance_sources_zh": sc["appearance_sources_zh"],
+                "costume_zh": sc.get("costume_zh"),
+                "accessories_zh": sc.get("accessories_zh"),
+                "background_zh": sc.get("background_zh"),
                 "style_faction_zh": sc["style_faction_zh"],
+                "appearance_sources_zh": sc["appearance_sources_zh"],
+                "costume_sources_zh": sc.get("costume_sources_zh"),
                 "event_lines": sc["event_zh"],
                 "scores": p["scores"],
                 "prompt_en": fp,
@@ -232,31 +261,47 @@ def main():
         json.dumps(overlay, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # appearance index
-    app_idx = ["# 外貌史证索引\n", "> 从 `keyart_appearance_data.py` 生成\n"]
+    # appearance + costume index
+    app_idx = [
+        "# 外貌·冠服·背景·画风索引（v3）\n",
+        "> 从 `tools/keyart_appearance_data.py` 生成\n",
+    ]
     for pid, sc in sorted(SCENES.items(), key=lambda x: x[1]["order"]):
         p = profiles.get(pid, {})
         app_idx += [
-            f"## {sc['order']:02d} {personal_name(p)}（{p.get('display','')}）· {sc['appearance_level']}",
+            f"## {sc['order']:02d} {personal_name(p)}（{p.get('display','')}）",
             "",
+            f"- 外貌证据：{sc['appearance_level']} · 冠服证据：{sc.get('costume_level','')}",
+            f"- 年龄定格：{sc['age_moment_zh']}",
+            f"- 画风：{sc['style_faction_zh']}",
+            "",
+            "### 外貌",
             sc["appearance_zh"],
             "",
-            "史源：",
-            *[f"- {x}" for x in sc["appearance_sources_zh"]],
+            "### 冠服",
+            sc.get("costume_zh", ""),
+            "",
+            "### 饰品道具",
+            sc.get("accessories_zh", ""),
+            "",
+            "### 背景",
+            sc.get("background_zh", ""),
+            "",
+            "---",
             "",
         ]
     (OUT / "02-外貌史证索引.md").write_text("\n".join(app_idx), encoding="utf-8")
 
-    readme = f"""# Key Art · 静态主画面文字包 v2
+    readme = f"""# Key Art · 静态主画面文字包 v3
 
-> **v2 重写**：外貌按史书能挖的写清；英文 prompt **自足**，禁止只丢人名。  
+> **v3**：每人强制拆开 **外貌 / 冠服 / 饰品道具 / 背景 / 画风**，史证+人物气质双约束；英文 prompt 分段写死。  
 > 不在此生成图片。
 
 ## 硬规则
 
 1. 叠字：本名在上，称号在下；代表事无 `《》`
-2. 出图：写五官/体型/年龄/服色/场景/画风；**不要**指望 AI「认识秦始皇」
-3. 证据等级 A/B/C 必须在卡上可见；C 是重建不是写真
+2. 出图必须覆盖：脸、冠服、饰品、背景、势力画风——**禁止只喊人名**
+3. 证据 A/B/C 上卡；C=重建
 
 ## 文件
 
@@ -264,10 +309,10 @@ def main():
 |------|------|
 | [`00-版式对照文豪图鉴.md`](00-版式对照文豪图鉴.md) | 构图 |
 | [`01-二十人主画面总表.md`](01-二十人主画面总表.md) | 总表 |
-| [`02-外貌史证索引.md`](02-外貌史证索引.md) | 外貌速查 |
+| [`02-外貌史证索引.md`](02-外貌史证索引.md) | 外貌+冠服+背景速查 |
 | [`cards/`](cards/) | 单人全卡 |
 | [`prompts-en-only.txt`](prompts-en-only.txt) | 批跑 |
-| [`overlay-zh.json`](overlay-zh.json) | 叠字+分数 |
+| [`overlay-zh.json`](overlay-zh.json) | 叠字+造型字段 |
 | 数据源 | `tools/keyart_appearance_data.py` |
 
 ## 完成度
