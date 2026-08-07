@@ -6,14 +6,16 @@ epithet: "投鞭断流"
 order: 9
 batch: video-01
 type: key-art-static
+appearance_level: "C（载记缺细貌；氐族君主+治世转冒进重建）"
 naming: "personal-first then title; no book-title marks on events"
+prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
 
 # Key Art · 09 · 苻坚（前秦世祖）「投鞭断流」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
 
-> **命名规则**：先出**本人姓名**，再出庙号/通行称号；代表事**不加书名号**。
+> **命名**：本名在上，称号在下；代表事**无书名号**。
 
 ### 右上 · 代表事
 
@@ -23,7 +25,7 @@ naming: "personal-first then title; no book-title marks on events"
 淝水将败
 ```
 
-### 右下 · 四字号 + 姓名（本名在上）
+### 右下 · 四字号 + 姓名
 
 ```
 [投鞭断流]
@@ -37,7 +39,7 @@ naming: "personal-first then title; no book-title marks on events"
 皇帝图鉴 · 先导 video-01
 ```
 
-### 左下雷达数字（程序绘）
+### 左下雷达
 
 | 轴 | 分 |
 |----|-----|
@@ -48,46 +50,53 @@ naming: "personal-first then title; no book-title marks on events"
 | 后效 | 66 |
 | 月旦 | 64 |
 
-一行速记：`武功84 · 文治81 · 韬略65 · 国祚35 · 后效66 · 月旦64`
+`武功84 · 文治81 · 韬略65 · 国祚35 · 后效66 · 月旦64`
 
-## 2. 画面设计（中文说明 · 给美术/你自己）
+## 2. 外貌史证与造型规格（核心）
 
 | 项 | 内容 |
 |----|------|
-| 一句话场景 | 江天开阔，苻坚扬鞭指江，幻觉万鞭可断流；江水冷色已埋败兆。 |
-| 代表事件 | 投鞭断流 / 淝水将败 |
-| 关键道具 | 长江天堑、马鞭、密密幻觉鞭影、东岸薄雾 |
-| 气质色调 | 盛世金→江水冷 |
-| 史料钩 | `content/sources/q-qin-fu-jian/` · 分镜 `content/video/video-01/分镜/q-qin-fu-jian.md` |
+| 定格年龄 | 约四十五（383淝水） |
+| 证据等级 | **C（载记缺细貌；氐族君主+治世转冒进重建）** |
+| 一句话场景 | 四十上下的氐秦帝王扬鞭指江，明君脸在江风里变成执拗。 |
+| 势力/画风 | 前秦盛极金光切江水冷灰。 |
+| 气质色调 | 金→冷江 |
+| 关键道具 | 马鞭、大江、幻觉鞭影、大军 |
 
-**综合效果目标（对标文豪图鉴井中贺知章）：**  
-人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。  
-叠字像「贺知章」那样出**人名**，不拿「文豪称号」当主名；四字号只当绰号框。
+### 2.1 史源（外貌/服饰）
 
-## 3. English image prompt（复制给 Image）
+- C《晋书》苻坚载记详事功，缺五官尺寸
+- B 氐人、长期为北方共主——宜明堂气度+后期刚愎神色
+
+### 2.2 外貌特征清单（必须写进画面）
+
+东亚男性，四十五左右；脸堂堂，眉目疏朗，本可称明君相；须中等，修剪齐；此时眼神刚愎、嘴角紧；体格中上，不像石勒粗野；服：前秦金赭甲/冕，披风扬起；手扬马鞭指大江。
+
+> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+
+## 3. English image prompt（自足描写，不靠认出人名）
 
 ### Positive
 
 ```
-Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Fu Jian of Former Qin on a high bank overlooking a wide Yangtze-like river, raising a horsewhip toward the water in the famous 'throwing whips could stop the current' hubris moment, golden late-afternoon light on his armor while the river itself is cold blue-gray foreshadowing Feishui disaster, illusory countless whip silhouettes over the current, vast army suggestion behind him, tragic pride, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 45 of Di northern ethnicity, originally handsome open-browed 'good ruler' face turning stubborn, medium well-kept beard, tight mouth, proud rigid eyes, upright noble-warrior build not barbaric, Former Qin ornate ochre-gold armor and cloak, raising a horsewhip toward a vast cold river, illusory countless whip silhouettes over the current, huge army mass behind, warm gold light on armor but icy blue-gray water foreshadowing disaster, style: tragic hubris landscape of north China unifier, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
 ```
 
-### Settings hint
+### Settings
 
-- Aspect: **16:9**
-- Style strength: high illustration / cinematic
-- Do **not** ask the model to render Chinese text or radar
+- Aspect **16:9**
+- Do **not** only type the historical name and hope the model knows him
+- Face / body / clothes / set / style are all spelled out above
 
 ## 4. Post checklist
 
-- [ ] 底板无字无 UI  
-- [ ] 雷达六维与 video20 一致  
-- [ ] 右上代表事（无书名号）  
-- [ ] 右下：四字号 + **本名在上** + 称号在下  
-- [ ] 暗角与参考帧同级  
+- [ ] 脸与清单一致（鼻/须/体型/年龄）  
+- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 无字无 UI；左下右缘留暗  
+- [ ] 叠字：本名优先 + 代表事无书名号  

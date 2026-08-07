@@ -6,14 +6,16 @@ epithet: "同泰天子"
 order: 7
 batch: video-01
 type: key-art-static
+appearance_level: "A/B"
 naming: "personal-first then title; no book-title marks on events"
+prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
 
 # Key Art · 07 · 萧衍（梁武帝）「同泰天子」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
 
-> **命名规则**：先出**本人姓名**，再出庙号/通行称号；代表事**不加书名号**。
+> **命名**：本名在上，称号在下；代表事**无书名号**。
 
 ### 右上 · 代表事
 
@@ -23,7 +25,7 @@ naming: "personal-first then title; no book-title marks on events"
 侯景将至
 ```
 
-### 右下 · 四字号 + 姓名（本名在上）
+### 右下 · 四字号 + 姓名
 
 ```
 [同泰天子]
@@ -37,7 +39,7 @@ naming: "personal-first then title; no book-title marks on events"
 皇帝图鉴 · 先导 video-01
 ```
 
-### 左下雷达数字（程序绘）
+### 左下雷达
 
 | 轴 | 分 |
 |----|-----|
@@ -48,46 +50,53 @@ naming: "personal-first then title; no book-title marks on events"
 | 后效 | 72 |
 | 月旦 | 50 |
 
-一行速记：`武功48 · 文治78 · 韬略62 · 国祚55 · 后效72 · 月旦50`
+`武功48 · 文治78 · 韬略62 · 国祚55 · 后效72 · 月旦50`
 
-## 2. 画面设计（中文说明 · 给美术/你自己）
+## 2. 外貌史证与造型规格（核心）
 
 | 项 | 内容 |
 |----|------|
-| 一句话场景 | 同泰寺金佛前帝王舍身，赎身钱山堆起；远处建康已有甲骑烟尘。 |
-| 代表事件 | 舍身同泰 / 侯景将至 |
-| 关键道具 | 金佛、袈裟一角、钱山、同泰寺、建康烟 |
+| 定格年龄 | 约七十余（舍身同泰年段） |
+| 证据等级 | **A/B** |
+| 一句话场景 | 七十余清癯老帝立于金佛前，顶骨异相，袈裟压帝袍。 |
+| 势力/画风 | 南朝金粉佛光，底子已腐。 |
 | 气质色调 | 前金后灰 |
-| 史料钩 | `content/sources/liang-wu/` · 分镜 `content/video/video-01/分镜/liang-wu.md` |
+| 关键道具 | 金佛、钱山、同泰寺、远处甲骑烟 |
 
-**综合效果目标（对标文豪图鉴井中贺知章）：**  
-人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。  
-叠字像「贺知章」那样出**人名**，不拿「文豪称号」当主名；四字号只当绰号框。
+### 2.1 史源（外貌/服饰）
 
-## 3. English image prompt（复制给 Image）
+- A《梁书·武帝纪》：生而有奇异，两胯骈骨，顶上隆起，有文在右手曰武
+- B 长寿佞佛、蔬食——晚年宜清瘦、须白、眼神执拗慈悲混杂
+
+### 2.2 外貌特征清单（必须写进画面）
+
+东亚老年男性，七十上下；脸清癯，颧骨显，须眉花白下垂；头顶中央骨隆起（顶上隆起）；体态偏瘦（长年佛事）；眼神既慈悲又固执；右手可有旧疤/纹理暗示「武」文（勿写字）；服：梁帝袍外罩袈裟一角，金粉与灰扑同在。
+
+> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+
+## 3. English image prompt（自足描写，不靠认出人名）
 
 ### Positive
 
 ```
-Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Emperor Liang Wudi before a colossal golden Buddha in Tongtai Temple, Jiankang, wearing imperial robes with a Buddhist kasaya edge, ritual of self-dedication, piles of ransom coins and offerings around him, holy golden light on his face, but far outside the temple gate gray smoke and armored cavalry dust of coming Hou Jing chaos, beauty and doom in one frame, lotus and ash, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, an East Asian man about 70-75, gaunt devout face, white drooping beard and brows, noticeably raised bony crown of the skull, thin ascetic body from long Buddhist practice, eyes mixing compassion and stubborn delusion, Liang dynasty imperial robe with a Buddhist kasaya draped over it, standing before a colossal golden Buddha in Tongtai Temple, piles of ransom coins, holy gold light on his face, far outside the gate gray smoke of approaching armored cavalry, beauty and doom, style: gilded Buddhist southern-dynasty tragedy, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
 ```
 
-### Settings hint
+### Settings
 
-- Aspect: **16:9**
-- Style strength: high illustration / cinematic
-- Do **not** ask the model to render Chinese text or radar
+- Aspect **16:9**
+- Do **not** only type the historical name and hope the model knows him
+- Face / body / clothes / set / style are all spelled out above
 
 ## 4. Post checklist
 
-- [ ] 底板无字无 UI  
-- [ ] 雷达六维与 video20 一致  
-- [ ] 右上代表事（无书名号）  
-- [ ] 右下：四字号 + **本名在上** + 称号在下  
-- [ ] 暗角与参考帧同级  
+- [ ] 脸与清单一致（鼻/须/体型/年龄）  
+- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 无字无 UI；左下右缘留暗  
+- [ ] 叠字：本名优先 + 代表事无书名号  

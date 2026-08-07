@@ -6,14 +6,16 @@ epithet: "奴隶天子"
 order: 6
 batch: video-01
 type: key-art-static
+appearance_level: "A/B"
 naming: "personal-first then title; no book-title marks on events"
+prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
 
 # Key Art · 06 · 石勒（后赵石勒）「奴隶天子」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
 
-> **命名规则**：先出**本人姓名**，再出庙号/通行称号；代表事**不加书名号**。
+> **命名**：本名在上，称号在下；代表事**无书名号**。
 
 ### 右上 · 代表事
 
@@ -23,7 +25,7 @@ naming: "personal-first then title; no book-title marks on events"
 奴隶天子
 ```
 
-### 右下 · 四字号 + 姓名（本名在上）
+### 右下 · 四字号 + 姓名
 
 ```
 [奴隶天子]
@@ -37,7 +39,7 @@ naming: "personal-first then title; no book-title marks on events"
 皇帝图鉴 · 先导 video-01
 ```
 
-### 左下雷达数字（程序绘）
+### 左下雷达
 
 | 轴 | 分 |
 |----|-----|
@@ -48,46 +50,53 @@ naming: "personal-first then title; no book-title marks on events"
 | 后效 | 68 |
 | 月旦 | 72 |
 
-一行速记：`武功93 · 文治76 · 韬略94 · 国祚42 · 后效68 · 月旦72`
+`武功93 · 文治76 · 韬略94 · 国祚42 · 后效68 · 月旦72`
 
-## 2. 画面设计（中文说明 · 给美术/你自己）
+## 2. 外貌史证与造型规格（核心）
 
 | 项 | 内容 |
 |----|------|
-| 一句话场景 | 铁链碎落，夯土襄国城上升起赵字旗，奴隶已登帝座。 |
-| 代表事件 | 襄国称赵 / 奴隶天子 |
-| 关键道具 | 断锁链、帝座、襄国夯土城、风沙、赵旗 |
-| 气质色调 | 铁锈尘黄，阶级逆袭 |
-| 史料钩 | `content/sources/h-zhao-shi-le/` · 分镜 `content/video/video-01/分镜/h-zhao-shi-le.md` |
+| 定格年龄 | 约五十（称赵/称帝前后） |
+| 证据等级 | **A/B** |
+| 一句话场景 | 深目高颧的羯族壮汉登夯土王座，断链犹在腕，风沙扑面。 |
+| 势力/画风 | 十六国粗粝铁锈风；夯土与风沙。 |
+| 气质色调 | 铁锈尘黄 |
+| 关键道具 | 断锁、夯土城、赵旗、风沙 |
 
-**综合效果目标（对标文豪图鉴井中贺知章）：**  
-人物被「钉」在代表事件的空间里；环境与道具替你讲完故事；左下/右侧留给雷达与中文标题。  
-叠字像「贺知章」那样出**人名**，不拿「文豪称号」当主名；四字号只当绰号框。
+### 2.1 史源（外貌/服饰）
 
-## 3. English image prompt（复制给 Image）
+- A/B《晋书·石勒载记》：上党武乡羯人；少时「胡雏」；长而壮健有胆力，雄武好骑射；相者称「胡状貌奇异」
+- B 非典型中原儒生脸——深目、高颧、风霜皮的游牧/杂胡感（在「奇异」范围内合理重建）
+
+### 2.2 外貌特征清单（必须写进画面）
+
+非纯汉外貌的中年男性；深目，颧骨高，鼻梁偏高，唇厚；须虬密、略杂；肤色深于中原儒生，风沙粗砺；体格壮健横阔，臂力感强；曾为奴——腕间可有铁链勒痕；服：胡汉混杂甲袍，襄国夯土殿，粗织物+金属，不精致龙袍。
+
+> **A**=正史明文 · **B**=间接可限定 · **C**=无明文的时代合理重建（卡片已标，出图勿伪称写真）。
+
+## 3. English image prompt（自足描写，不靠认出人名）
 
 ### Positive
 
 ```
-Chinese historical epic character atlas key art, cinematic illustration, semi-realistic anime painterly style, dramatic lighting, rich atmosphere, full scene storytelling composition, one Chinese emperor as the sole main character, signature historical moment frozen in one frame, highly detailed environment that explains the event, 16:9 widescreen, Shi Le of Later Zhao as a rugged non-Han emperor rising from slavery to the throne, broken iron slave chains falling from his wrists as he sits or stands upon a rough imperial seat, rammed-earth fortress of Xiangguo behind him in dusty wind, a Zhao battle banner rising, rust iron and bone-white colors, hard life etched on his face, epic class-ascent atmosphere, leave darker empty space in the lower-left third for a future radar UI overlay, leave clean darker margin on the right side for Chinese title text, no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no photorealistic selfie look, masterpiece composition
+16:9 cinematic character-atlas key art illustration, semi-realistic Chinese historical painterly style with strong stylization, single main male or female protagonist filling the storytelling frame, museum-quality costume research look, dramatic cinematic lighting, environment and props fully explain the historical moment, a rugged middle-aged man of Jie/Xiongnu-related northern non-Han look about 50, deep-set eyes, high cheekbones, higher nose, thick coarse curly beard, weather-beaten darker skin, broad powerful slave-built body, iron chain scars still visible on wrists, mixed Hu-Han armor and rough imperial cloak, sitting or standing on a crude throne in a rammed-earth fortress, dusty wind, Zhao battle banner rising, rust-iron and bone-white palette, epic class ascent from slavery to throne, style: harsh fortress dust painting, composition leaves darker empty space in lower-left third for future radar UI, darker clean margin on the right for later title text, absolutely no readable text, no letters, no Chinese characters, no UI, no watermark, no logo, no modern objects, no smartphone, no photoreal selfie, no celebrity likeness, anatomically careful hands and face, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, English words, watermark, logo, UI, radar chart, HUD, QR code, modern clothing, guns, cars, neon cyberpunk, chibi, deformed hands, extra limbs, duplicate faces, lowres, blurry
+text, letters, Chinese characters, English words, watermark, logo, UI, radar, HUD, modern clothes, suit, jeans, guns, cars, neon, cyberpunk, chibi, cute anime idol face, European medieval plate armor, wrong dynasty costume, extra fingers, deformed face, duplicate person, blurry, lowres, stock photo
 ```
 
-### Settings hint
+### Settings
 
-- Aspect: **16:9**
-- Style strength: high illustration / cinematic
-- Do **not** ask the model to render Chinese text or radar
+- Aspect **16:9**
+- Do **not** only type the historical name and hope the model knows him
+- Face / body / clothes / set / style are all spelled out above
 
 ## 4. Post checklist
 
-- [ ] 底板无字无 UI  
-- [ ] 雷达六维与 video20 一致  
-- [ ] 右上代表事（无书名号）  
-- [ ] 右下：四字号 + **本名在上** + 称号在下  
-- [ ] 暗角与参考帧同级  
+- [ ] 脸与清单一致（鼻/须/体型/年龄）  
+- [ ] 服色合势力（秦黑 / 漠北金红 / 南唐湿墨…）  
+- [ ] 无字无 UI；左下右缘留暗  
+- [ ] 叠字：本名优先 + 代表事无书名号  
