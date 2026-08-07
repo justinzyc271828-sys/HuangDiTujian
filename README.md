@@ -19,7 +19,7 @@
 | 全库索引 | **269** 人 · `data/catalog/emperors_master.*` |
 | video-01 | **20** 人六维/分镜/EN prompt ✅ · 真图/成片 ☐ |
 | 产品 YAML+bio | **5** 人（含始皇、汉武、太宗） |
-| 史料卡 | **269** 人全覆盖：22 complete + 247 scaffold · E 卡 ~3020 |
+| 史料卡 | **269** 人：47 本纪 complete（含两汉）+ 222 scaffold · E ~3000 |
 | 前端 | `apps/web` 可 dev · **奏折专页未落地**（见 07 / FRONTEND-SLOT） |
 | 英文出图固定目录 | `key-art-en-prompts-video01/` |
 
