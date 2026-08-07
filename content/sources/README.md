@@ -1,26 +1,26 @@
 # 史源 / 史料工作区
 
-规范：`docs/05-史源卡工作规范.md`  
-看板：`docs/08-项目进度看板.md`
+规范：docs/05-史源卡工作规范.md  
+看板：docs/08-项目进度看板.md
 
-## 状态总览（master 全量批量后）
+## 状态总览（本纪升格进行中）
 
-| status | 人数 |
-|--------|------|
-| dossier-complete | 22 |
-| dossier-scaffold | 247 |
+| status | 人数 | 含义 |
+|--------|------|------|
+| dossier-complete | 47 | 本纪精读级具体史实卡 |
+| dossier-scaffold | 222 | 全库结构脚手架，待升格 |
+| **合计** | **269** | 与 master 269 对齐 |
+| **E 卡** | **3008** | |
 
-| **合计目录** | **269** |
-| **E 卡合计** | **3020** |
+### 本纪精读已完成批次
 
-### 说明
+- video-01 二十人 + 高祖 + 二世（先导样板）
+- **西汉余部 + 东汉全朝**（	ools/upgrade_benji_dossiers.py，batch: benji-upgrade）
 
-- `dossier-complete`：先导样板（video-01 等），可支撑产品精写  
-- `dossier-scaffold`：**master 全量脚手架**——结构齐、出处锚定本纪入口，摘要待精读升格  
-- 生成脚本：`tools/seed_master_all_sources.py`  
+### 脚本
 
-### 升格命令提示
-
-```bash
-python tools/search_ref.py "帝号或姓名" --book 史记
-```
+`ash
+python tools/upgrade_benji_dossiers.py              # 两汉升格
+python tools/upgrade_benji_dossiers.py --only han-wen-di
+python tools/seed_master_all_sources.py             # 仅补缺目录
+`
