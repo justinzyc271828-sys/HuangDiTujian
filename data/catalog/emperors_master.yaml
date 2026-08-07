@@ -1449,6 +1449,17 @@ emperors:
   tier: quasi
   note: 十六国·北魏先世
   page_status: stub
+- id: xixia-li-yuanhao
+  display: 西夏景宗
+  personal: 李元昊
+  dynasty_id: xixia
+  dynasty: 西夏
+  sequence: 1
+  reign_start: '1038'
+  reign_end: '1048'
+  tier: quasi
+  note: video-01·河西称制
+  page_status: stub
 - id: wu-yang-xingmi
   display: 吴太祖
   personal: 杨行密

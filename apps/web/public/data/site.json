@@ -6936,6 +6936,51 @@
       }
     },
     {
+      "id": "xixia-li-yuanhao",
+      "tier": "quasi",
+      "sort_key": "西夏-001",
+      "names": {
+        "display": "西夏景宗",
+        "personal": "李元昊",
+        "temple": null,
+        "posthumous": null,
+        "aliases": []
+      },
+      "dynasty": {
+        "id": "xixia",
+        "label": "西夏",
+        "sequence": 1
+      },
+      "reign": {
+        "start": "1038",
+        "end": "1048",
+        "eras": []
+      },
+      "summary": "video-01·河西称制",
+      "tags": [],
+      "timeline": [],
+      "relations": [],
+      "routes": [],
+      "sources": [],
+      "bio_md": "",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+        }
+      ],
+      "meta": {
+        "status": "stub",
+        "confidence": "low",
+        "page_status": "stub",
+        "note": "video-01·河西称制"
+      },
+      "page_status": "stub",
+      "portrait": {
+        "disclaimer": "画像暂缓"
+      }
+    },
+    {
       "id": "wu-yang-xingmi",
       "tier": "quasi",
       "sort_key": "杨吴-001",
@@ -13410,10 +13455,10 @@
     "tang-tai-zong"
   ],
   "catalog_stats": {
-    "total": 268,
-    "stub": 263,
+    "total": 269,
+    "stub": 264,
     "draft": 5,
-    "quasi": 52,
+    "quasi": 53,
     "emperor": 216
   }
 }
