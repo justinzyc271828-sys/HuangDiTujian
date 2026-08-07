@@ -8,13 +8,17 @@
 
 ## 当前仓库已提供（可对接）
 
-| 能力 | 位置 |
-|------|------|
-| 人物 YAML / 年表 / 路线 | `data/emperors/` |
-| 全库索引 | `data/catalog/emperors_master.json` |
-| 六维分数（三人演示） | `data/catalog/stand_stats.json` |
-| 构建产物 | `apps/web/public/data/site.json` |
-| 史料卡 | `content/sources/` |
+| 能力 | 位置 | 备注 |
+|------|------|------|
+| 人物 YAML / 年表 / 路线 | `data/emperors/` | 现 **5** 人 |
+| 全库索引 | `data/catalog/emperors_master.json` | **269** |
+| 先导二十六维 | `data/catalog/video20.json` | 20 人完整分数 |
+| 六维轴 / Lab | `data/catalog/stand_stats.json` | 对齐 video20 |
+| 构建产物 | `apps/web/public/data/site.json` | |
+| 史料卡 | `content/sources/` | 20 目录；3 complete |
+| 分镜 / Key Art | `content/video/video-01/` | 文案齐，真图未齐 |
+| 英文出图 prompt | `key-art-en-prompts-video01/` | 20 份 |
+| 进度 | `docs/08-项目进度看板.md` | |
 
 ## 不要做
 

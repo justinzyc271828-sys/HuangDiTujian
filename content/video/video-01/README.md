@@ -61,16 +61,26 @@
 - **地图**：谭图/CHGIS 风格简化；朝代边界示意即可
 - **统一噪点**：宣纸/绢/夯土纹理压在画面 8–12% 透明度，系列辨识度
 
-## 本批完成度
+## 本批完成度（2026-08-06 对齐）
 
 | 项 | 状态 |
 |----|------|
-| video20 数值 | ✅ |
-| 分镜 20 篇 | ✅ 见 `分镜/` |
-| 史料卡（先导） | ✅ 三人 12 条；其余核心 6–8 条 in-progress |
-| 配音成片 | ☐ |
-| 正式画像 | ☐ 暂缓 |
+| video20 六维/四字号 | ✅ `data/catalog/video20.json` |
+| 分镜 20 篇 | ✅ `分镜/` |
+| 史料卡 | ✅ 3×12 complete；17×5–8 in-progress |
+| Key Art 中文规格 v3 | ✅ `key-art/cards/`（外貌/冠服/背景/画风） |
+| **英文出图 prompt 20** | ✅ **`key-art-en-prompts-video01/`**（仓库根固定） |
+| 真图 Image 成片 | ☐ 待你本地生成 |
+| 配音 / 成片视频 | ☐ |
+| 十七人 YAML 产品同步 | ☐ |
+
+**总进度看板：** `docs/08-项目进度看板.md`
 
 ## 文件索引
 
-见 `分镜/README.md`
+| 内容 | 路径 |
+|------|------|
+| 分镜 | [`分镜/README.md`](./分镜/README.md) |
+| Key Art 规格 | [`key-art/README.md`](./key-art/README.md) |
+| 英文 prompt（包内副本） | [`key-art/en-prompts/`](./key-art/en-prompts/) |
+| 英文 prompt（根目录固定） | `/key-art-en-prompts-video01/` |
