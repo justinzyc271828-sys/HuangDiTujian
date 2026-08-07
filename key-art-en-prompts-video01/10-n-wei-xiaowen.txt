@@ -1,0 +1,22 @@
+ID: n-wei-xiaowen
+ORDER: 10
+PERSONAL_NAME_ZH: 元宏
+DISPLAY_ZH: 北魏孝文帝
+EPITHET_ZH: 胡骑解辫
+EVENT_ZH: 太和迁都 / 胡骑解辫
+APPEARANCE_LEVEL: A/B
+COSTUME_LEVEL: B
+STYLE_ZH: 胡汉渐变滤镜：笳→雅乐。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, mid-unbraiding hair, COSTUME: half northern Xianbei narrow-sleeve riding dress with belt hooks still on, half putting on wide-sleeve Han court robe, Han-style cap in hand or half-worn, color shift from earth-brown to ritual crimson, ACCESSORIES AND PROPS: loose braid cords, Han court cap, distant cart bells of southern migration, Luoyang bricks, POSE: on city tower, hands in hair and robe, transformative mid-action, BACKGROUND SET: Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light, ART DIRECTION: gradient cultural-reform lyrical painting, two dress systems in one body, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

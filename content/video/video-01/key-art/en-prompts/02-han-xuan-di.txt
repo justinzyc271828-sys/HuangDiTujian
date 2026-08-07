@@ -1,0 +1,22 @@
+ID: han-xuan-di
+ORDER: 2
+PERSONAL_NAME_ZH: 刘询
+DISPLAY_ZH: 汉宣帝
+EPITHET_ZH: 综核名实
+EVENT_ZH: 地节亲政 / 综核名实
+APPEARANCE_LEVEL: C
+COSTUME_LEVEL: B
+STYLE_ZH: 西汉吏治暖灰：案牍、朱砂、油灯，办公美学。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man mid-thirties, Western-Han auditing emperor type, lean face, visible cheekbones, sharp inspector eyes, slight sleepless shadows, neat short beard, slender build, COSTUME: black jinxian winged official cap of Western Han, dark brown or sooty deep-robe with tiny dark-red trim, plain white inner collar, leather belt with muted sash cords, modest not gaudy, ACCESSORIES AND PROPS: red-ink brush mid-stroke, mountain of bamboo slips and wooden tablets, oil lamp, rope-bound archives, small seal cord at waist, no weapons, POSE: standing or half-seated at a document table, body lean forward checking slips, BACKGROUND SET: night interior of Weiyang Palace halls, dark pillars, warm lamp pool, faint misty memory of common street life beyond the door, ART DIRECTION: muted warm-gray bureaucratic drama painting, paper dust atmosphere, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

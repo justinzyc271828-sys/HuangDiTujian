@@ -1,0 +1,22 @@
+ID: xin-wang-mang
+ORDER: 4
+PERSONAL_NAME_ZH: 王莽
+DISPLAY_ZH: 新帝王莽
+EPITHET_ZH: 以儒窃国
+EVENT_ZH: 始建国元年 / 托古改制
+APPEARANCE_LEVEL: B
+COSTUME_LEVEL: B
+STYLE_ZH: 伪古典铜绿：礼器过精=政权虚。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man early fifties, usurper in perfect Confucian ritual dress, overly correct face, fixed smile not reaching eyes, neat Confucian beard, pale skin, thin non-martial shoulders, COSTUME: archaic Zhou-imitating mian crown with flat top board, layered dark ceremonial robes with complex cold-colored patterns, knee-cover apron, large sash, hyper-correct ritual completeness, ACCESSORIES AND PROPS: jade gui tablet held in both hands, too-clean bronze ritual vessels, broken knife-coins and failed currency shards at feet, jade pendants, POSE: frontal formal standing like a ritual statue, slightly too perfect, BACKGROUND SET: cold bright Mingtang-like hall, excessive columns and ritual geometry, copper-green pale light, ART DIRECTION: uncanny pseudo-antiquity still-life of power, beautiful and wrong, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

@@ -1,0 +1,22 @@
+ID: h-zhao-shi-le
+ORDER: 6
+PERSONAL_NAME_ZH: 石勒
+DISPLAY_ZH: 后赵石勒
+EPITHET_ZH: 奴隶天子
+EVENT_ZH: 襄国称赵 / 奴隶天子
+APPEARANCE_LEVEL: A/B
+COSTUME_LEVEL: B/C
+STYLE_ZH: 十六国铁锈风沙：阶级逆袭粗粝。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a rugged middle-aged Jie-related northern man about 50, deep-set eyes, high cheekbones, higher nose, coarse curly beard, darker weather skin, broad slave-built body, chain scars on wrists, COSTUME: mixed Hu-Han armor: iron plates over coarse wool robe, rough simple crown or leather cap, rust patches and sand wear, not refined southern silk dragon robe, ACCESSORIES AND PROPS: broken iron slave chains on wrists, heavy crude sword, Zhao battle banner, rough rammed-earth throne arms, POSE: seated or rising on crude throne, chains falling, chin high, BACKGROUND SET: rammed-earth fortress of Xiangguo, dusty yellow wind, dry sky, banner rising, ART DIRECTION: harsh rust-and-dust fortress painting, class-ascent epic, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

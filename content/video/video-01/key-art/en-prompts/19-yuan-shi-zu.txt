@@ -1,0 +1,22 @@
+ID: yuan-shi-zu
+ORDER: 19
+PERSONAL_NAME_ZH: 忽必烈
+DISPLAY_ZH: 元世祖
+EPITHET_ZH: 混一车书
+EVENT_ZH: 1279灭宋 / 混一车书
+APPEARANCE_LEVEL: B/C
+COSTUME_LEVEL: B
+STYLE_ZH: 欧亚帝国全景：蒙古蓝宫红。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an elderly Mongol man about 64, Yuan universal ruler, broad square face, high cheekbones, deeper-set eyes, sparse gray beard, heavy body, weather-reddened skin, COSTUME: Mongol-style hat elements plus gold-woven jisun robe with Chinese dragon-border motifs, blue silver and palace red, hybrid empire dress, ACCESSORIES AND PROPS: jade belt, relay-horse light trails, abstract province color blocks, POSE: standing where city axis meets steppe wind, vast scale, BACKGROUND SET: Dadu central axis architecture, open steppe clouds, far southern sea swallowing banners, ART DIRECTION: vast Eurasian unification panorama, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

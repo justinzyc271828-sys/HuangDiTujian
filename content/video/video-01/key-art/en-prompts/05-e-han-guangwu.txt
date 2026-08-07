@@ -1,0 +1,22 @@
+ID: e-han-guangwu
+ORDER: 5
+PERSONAL_NAME_ZH: 刘秀
+DISPLAY_ZH: 汉光武帝
+EPITHET_ZH: 昆阳一旅
+EVENT_ZH: 昆阳之战 / 以少击众
+APPEARANCE_LEVEL: A
+COSTUME_LEVEL: B
+STYLE_ZH: 中兴雨战脏镜头：水、泥、雷。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a tall East Asian man 28-29, Eastern-Han restoration war leader, above-average height, thick handsome brows and beard, wide mouth, high nose, raised central forehead bone boss, athletic body, rain-soaked muddy face, COSTUME: early Eastern-Han leather and dark lamellar armor caked with mud and rain, brown war robe under armor, helmet askew or wet hair bun, battlefield filth, NOT coronation dragon robe, ACCESSORIES AND PROPS: spear or ring-pommel sword, soaked battle flag, reins, flying mud droplets, POSE: horse charge spearhead through rain, body leaning into storm, BACKGROUND SET: Kunyang city walls in torrential rain, vast dark enemy tide, white lightning, small cavalry wedge, ART DIRECTION: wet dirty heroic storm painting, high motion blur on rain, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

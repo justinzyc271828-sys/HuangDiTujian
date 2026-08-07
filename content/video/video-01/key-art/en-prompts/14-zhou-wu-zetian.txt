@@ -1,0 +1,22 @@
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+EPITHET_ZH: 金轮称制
+EVENT_ZH: 天授称帝 / 金轮称制
+APPEARANCE_LEVEL: C
+COSTUME_LEVEL: B
+STYLE_ZH: 神都紫金：女帝纪念碑。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian woman 65-67 as sole female Chinese emperor, square powerful aged face, age lines, cold steady eyes, gray-streaked hair, dignified heavy posture, COSTUME: full male-style imperial mian crown with hanging jade/pearl strings, dark blue and crimson dragon imperial robes, solemn not sensual, NO harem dress, ACCESSORIES AND PROPS: golden wheel mandala backlight, gui tablet, purple mist, palace silhouettes, POSE: frontal monument stance, absolute sovereignty, BACKGROUND SET: Luoyang divine capital silhouettes in purple fog, sacred political light, ART DIRECTION: purple-gold divine-capital monument portrait, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

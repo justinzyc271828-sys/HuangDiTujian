@@ -1,0 +1,22 @@
+ID: sui-wen
+ORDER: 11
+PERSONAL_NAME_ZH: 杨坚
+DISPLAY_ZH: 隋文帝
+EPITHET_ZH: 混一戎夏
+EVENT_ZH: 开皇灭陈 / 混一戎夏
+APPEARANCE_LEVEL: A
+COSTUME_LEVEL: B
+STYLE_ZH: 制度青灰：建筑网格史诗。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 50, Sui founding system-builder emperor, heavy authoritative face, five vertical forehead ridges, piercing outward eyes, longer torso shorter legs proportion, COSTUME: tongtian crown, dark frugal Sui imperial robe with limited gold, large sash, modest jewelry, ACCESSORIES AND PROPS: optional gui tablet, glowing city-grid diagram light, distant fleet silhouettes, POSE: standing above geometric city plan, calm command, BACKGROUND SET: Daxing ward grid vision plus Yangtze campaign fleet and falling Jiankang banner, cool blue-gray light, ART DIRECTION: cold architectural statecraft painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

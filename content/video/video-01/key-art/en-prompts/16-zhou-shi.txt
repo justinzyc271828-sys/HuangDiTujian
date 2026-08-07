@@ -1,0 +1,22 @@
+ID: zhou-shi
+ORDER: 16
+PERSONAL_NAME_ZH: 柴荣
+DISPLAY_ZH: 后周世宗
+EPITHET_ZH: 显德振旅
+EVENT_ZH: 高平之战 / 显德振旅
+APPEARANCE_LEVEL: C
+COSTUME_LEVEL: B/C
+STYLE_ZH: 五代短燃战绘。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 33-34, Five Dynasties young martial emperor, square heroic young face, upright fierce eyes, short stubble, battle dust on skin, compact explosive body, COSTUME: black-and-silver Chinese Five-Dynasties full armor, red-trimmed war robe, tied helmet, ready to fight, ACCESSORIES AND PROPS: sword or whip, blood-red banners, imperial guard ranks, fleeing coward silhouettes, POSE: on slope rallying troops, dynamic stride, BACKGROUND SET: Gaoping autumn grass slope, smoke, wind, raw battlefield, ART DIRECTION: high-action short-burn war painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

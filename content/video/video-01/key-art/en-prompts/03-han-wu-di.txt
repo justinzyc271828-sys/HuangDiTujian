@@ -1,0 +1,22 @@
+ID: han-wu-di
+ORDER: 3
+PERSONAL_NAME_ZH: 刘彻
+DISPLAY_ZH: 汉武帝
+EPITHET_ZH: 封狼居胥
+EVENT_ZH: 封狼居胥 / 漠北勒石
+APPEARANCE_LEVEL: C
+COSTUME_LEVEL: B
+STYLE_ZH: 西汉漠北史诗：沙金+朱红，油彩颗粒。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 50, Western-Han campaign emperor, broad weathered face, thick brows, dense dust-tangled beard, strong wide shoulders, sun-scorched ruddy skin, COSTUME: Western-Han style lamellar/scale armor in crimson and dark gold, leather and metal plates, billowing crimson campaign cloak, martial cap or partial helmet, wrapped boots and greaves, NOT European plate armor, ACCESSORIES AND PROPS: Chinese ring-pommel sword, forest of Han banners, warhorse nearby, yak-tail standards, grit in fabric, POSE: low-angle stance on a desert ridge, cloak horizontal in wind, looking over a sea of banners, BACKGROUND SET: Mongolian steppe ridge, dark mountain silhouette (Langjuxu feeling), cavalry tide below, sand-gold light, cold blue sky, ART DIRECTION: dusty epic oil-paint campaign panorama, grain and wind, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

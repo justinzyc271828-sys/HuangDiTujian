@@ -1,0 +1,22 @@
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+EPITHET_ZH: 江南残梦
+EVENT_ZH: 975城破 / 江南残梦
+APPEARANCE_LEVEL: B/C
+COSTUME_LEVEL: B/C
+STYLE_ZH: 江南水墨湿冷。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 38-39, Southern Tang poet-emperor, soft refined scholar face, melancholy brows, little beard, pale skin, narrow shoulders, long ink-stained fingers, COSTUME: soft rain-wet headcloth or soft futou, moon-white or blue-gray fine cloth cross-collar robe, soft shoes, NO armor, ACCESSORIES AND PROPS: blank paper and ink without characters, window lattice, distant fire on water, POSE: leaning by rainy window, literati posture, BACKGROUND SET: Jinling night rain, Qinhuai reflections of city fire, wet ink-wash space, ART DIRECTION: Jiangnan tragic literati watercolor, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

@@ -1,0 +1,22 @@
+ID: tang-tai-zong
+ORDER: 13
+PERSONAL_NAME_ZH: 李世民
+DISPLAY_ZH: 唐太宗
+EPITHET_ZH: 天可汗令
+EVENT_ZH: 天可汗 / 贞观纳谏
+APPEARANCE_LEVEL: A/B
+COSTUME_LEVEL: B
+STYLE_ZH: 贞观金石青：明朗顶格。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 36-40, High-Tang archer-emperor, dragon-phoenix bearing, sun-like open forehead, curly coiling martial beard, fierce-intelligent eyes, athletic body, COSTUME: early Tang golden and stone-blue armor with chest mirrors, optional white cloak, helmet set aside, NOT Song rank-badge robes, ACCESSORIES AND PROPS: open white remonstrance paper scroll in hands, bow, collapsed northern banners, faint meritorious-minister wall ghosts, POSE: standing in clear daylight, armor on, paper forward as main prop, BACKGROUND SET: Chang'an palace under bright Zhenguan sun, clean heroic sky, ART DIRECTION: luminous High-Tang heroic-governance painting, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events

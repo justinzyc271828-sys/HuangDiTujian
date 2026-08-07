@@ -1,0 +1,22 @@
+ID: liang-wu
+ORDER: 7
+PERSONAL_NAME_ZH: 萧衍
+DISPLAY_ZH: 梁武帝
+EPITHET_ZH: 同泰天子
+EVENT_ZH: 舍身同泰 / 侯景将至
+APPEARANCE_LEVEL: A/B
+COSTUME_LEVEL: B
+STYLE_ZH: 南朝金粉佛光+腐朽灰边。
+
+=== POSITIVE PROMPT (English — copy to Image) ===
+
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man 70-75, Southern Liang Buddhist emperor, gaunt aged face, white drooping beard, raised bony skull crown, thin ascetic body, COSTUME: Buddhist kasaya in dusty gold-lotus tones draped over Liang imperial robes, tongtian crown or bare gray hair under temple light, gold leaf dust on fabric, ACCESSORIES AND PROPS: prayer beads, mountain of ransom coins before Buddha, incense smoke, distant glint of armor outside, POSE: devout standing before colossal Buddha, hands in dedication gesture, BACKGROUND SET: Tongtai Temple interior, huge golden Buddha, refined Southern-dynasty timber hall, gray cavalry smoke beyond the gate, ART DIRECTION: gilded Buddhist tragedy, gold versus ash, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+
+=== NEGATIVE PROMPT (English) ===
+
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+
+=== SETTINGS ===
+aspect_ratio: 16:9
+language: English prompt only for generation
+overlay_later: Chinese personal name first, then title; no book-title marks on events
