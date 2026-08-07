@@ -25,3 +25,8 @@ HuangDiTujian-Ref/**
 !HuangDiTujian-Ref/11-史料卡工作台/**
 apps/web/node_modules/
 apps/web/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+
