@@ -1,0 +1,213 @@
+id: n-wei-xiaowen
+tier: emperor
+sort_key: 北魏-006
+names:
+  display: 孝文帝
+  personal: 元宏
+  temple: 高祖
+  posthumous: 孝文皇帝
+  aliases:
+  - 拓跋宏
+  - 魏高祖
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 6
+reign:
+  start: '471'
+  end: '499'
+  eras:
+  - 延兴
+  - 承明
+  - 太和
+life:
+  birth: null
+  death: '499'
+  birth_place_id: null
+  death_place_id: null
+summary: 幼年即位，承太和新政之基，迁都洛阳、全面推行汉化改制，深刻重塑北魏并影响隋唐制度的皇帝。
+tags:
+- 汉化改革
+- 迁都洛阳
+- 均田制
+- 改制
+portrait:
+  primary: assets/portraits/n-wei-xiaowen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-xiaowen.md
+timeline:
+- year: '471'
+  date_note: 延兴元年
+  title: 即位
+  summary: 幼年即位，冯太后临朝，太和改革铺垫。
+  place_id: ping-cheng
+  related_person_ids: []
+  sources:
+  - 魏书·卷007·高祖纪
+  card_id: E001
+- year: '476'
+  date_note: 承明元年
+  title: 冯太后再临朝
+  summary: 文明太后执政高峰，改革铺垫。
+  place_id: ping-cheng
+  related_person_ids: []
+  sources:
+  - 魏书·卷007
+  - 魏书·皇后传
+  card_id: E002
+- year: '484'
+  date_note: 太和八年
+  title: 班禄制
+  summary: 班禄酬廉，整顿吏治，太和新政重要一步。
+  place_id: ping-cheng
+  related_person_ids: []
+  sources:
+  - 魏书·卷007·高祖纪
+  card_id: E003
+- year: '485'
+  date_note: 太和九年
+  title: 均田制
+  summary: 颁均田，影响隋唐田制讨论。
+  place_id: ping-cheng
+  related_person_ids: []
+  sources:
+  - 魏书·卷007
+  - 魏书·食货志
+  card_id: E004
+- year: '486'
+  date_note: 太和十年
+  title: 三长制
+  summary: 立三长，基层组织改革。
+  place_id: ping-cheng
+  related_person_ids: []
+  sources:
+  - 魏书·卷007
+  card_id: E005
+- year: '493'
+  date_note: 太和十七年
+  title: 迁都洛阳
+  summary: 以南伐为名迁都洛阳，北魏政治中心南移。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下·高祖纪
+  card_id: E006
+- year: '494'
+  date_note: 太和十八年
+  title: 禁胡服胡语
+  summary: 禁鲜卑语、改服饰，推动朝臣汉化。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下·高祖纪
+  card_id: E007
+- year: '495'
+  date_note: 太和十九年
+  title: 定族姓
+  summary: 定门阀族姓，士族化。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下
+  card_id: E008
+- year: '496'
+  date_note: 太和二十年
+  title: 太子恂废
+  summary: 反抗汉化的太子被废，改革代价。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下
+  card_id: E009
+- year: '496'
+  date_note: 太和二十年
+  title: 改姓元
+  summary: 拓跋改姓元，门阀化与汉姓改革。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下·高祖纪
+  card_id: E010
+- year: '497'
+  date_note: 太和二十一年
+  title: 南伐襄阳线
+  summary: 持续南征，消耗国力。
+  place_id: xiang-yang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下
+  card_id: E011
+- year: '499'
+  date_note: 太和二十三年
+  title: 南伐崩于军
+  summary: 南征途中崩，汉化路线由宣武等延续，亦埋六镇隐患。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 魏书·卷007下·高祖纪
+  card_id: E012
+relations:
+- type: related_emperor
+  target_id: n-wei-taiwu
+  note: 先统一后汉化的长线对照
+- type: predecessor
+  target_id: null
+  note: 前任皇帝献文帝（页待建）
+- type: successor
+  target_id: null
+  note: 汉化路线由宣武延续（页待建）
+routes:
+- group: 都城
+  order: 1
+  year: '471'
+  place_id: ping-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '476'
+  place_id: ping-cheng
+  event: 冯太后再临朝
+- group: 迁都
+  order: 3
+  year: '493'
+  place_id: luoyang
+  event: 迁都洛阳
+- group: 都城
+  order: 4
+  year: '496'
+  place_id: luoyang
+  event: 太子恂废
+- group: 亲征
+  order: 5
+  year: '497'
+  place_id: xiang-yang
+  event: 南伐襄阳线
+- group: 亲征
+  order: 6
+  year: '499'
+  place_id: luoyang
+  event: 南伐崩于军，归葬洛阳
+sources:
+- title: 魏书·高祖纪（卷007上下）
+  note: 年表主据
+- title: 魏书·皇后传 / 食货志
+  note: 互见
+- title: 资治通鉴（对应年段）
+  note: 编年对照
+- title: 魏书·卷007·高祖纪
+  note: 史料卡同步
+- title: 魏书·卷007下·高祖纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 北魏汉化改革的关键皇帝，正史立纪，video-01 民族融合主线代表。
+  synced_from_cards: true

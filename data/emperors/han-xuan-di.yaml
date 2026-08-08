@@ -1,0 +1,224 @@
+id: han-xuan-di
+tier: emperor
+sort_key: 汉-010
+names:
+  display: 汉宣帝
+  personal: 刘询
+  temple: null
+  posthumous: null
+  aliases: []
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 10
+reign:
+  start: '-74'
+  end: '-49'
+  eras:
+  - 本始
+  - 地节
+  - 神爵
+  - 五凤
+  - 甘露
+  - 黄龙
+life:
+  birth: '-91'
+  death: '-49'
+  birth_place_id: chang-an
+  death_place_id: chang-an
+summary: 以皇曾孙之身自民间入继大统，亲政后综核名实、信赏必罚，置西域都护并受呼韩邪单于入朝的西汉中兴之主。
+tags:
+- 中兴
+- 吏治
+- 综核名实
+- 西域
+- 匈奴入朝
+portrait:
+  primary: assets/portraits/han-xuan-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    史籍罕及形貌，传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-xuan-di.md
+timeline:
+- year: '-91'
+  date_note: 巫蛊后
+  title: 民间长养
+  summary: 巫蛊之祸后皇曾孙病已养于民间，后入掖庭，经历底层与宫廷边缘。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  card_id: E001
+- year: '-74'
+  date_note: 元平元年
+  title: 霍光迎立
+  summary: 昌邑王废后，霍光等迎立皇曾孙即位，是为宣帝。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  - 汉书·卷068·霍光传
+  card_id: E002
+- year: '-73'
+  date_note: 本始元年
+  title: 本始改元
+  summary: 改元本始，霍氏仍掌权，帝隐忍积蓄。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  card_id: E003
+- year: '-68'
+  date_note: 地节二年
+  title: 霍光薨逝
+  summary: 霍光死，宣帝逐步收回权柄，进入亲政前夜。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷068·霍光传
+  card_id: E004
+- year: '-66'
+  date_note: 地节四年
+  title: 诛霍氏
+  summary: 霍禹等谋反事败，霍氏灭族，宣帝真正亲政，史称综核名实之始。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  - 汉书·卷068·霍光传
+  card_id: E005
+- year: '-61'
+  date_note: 神爵元年
+  title: 赵充国击羌
+  summary: 赵充国屯田破羌，西北边事为宣帝朝武功来源之一。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 汉书·卷069·赵充国传
+  - 汉书·卷008·宣帝纪
+  card_id: E006
+- year: '-60'
+  date_note: 神爵二年
+  title: 西域都护
+  summary: 郑吉并护南北道，号都护，汉在西域制度化驻节。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 汉书·卷070·郑吉传
+  - 汉书·卷096·西域传
+  card_id: E007
+- year: '-54'
+  date_note: 五凤四年
+  title: 匈奴内乱与边策
+  summary: 匈奴内讧，汉廷边策调整，为呼韩邪来朝铺垫。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷094·匈奴传
+  - 汉书·卷008·宣帝纪
+  card_id: E008
+- year: '-51'
+  date_note: 甘露三年
+  title: 呼韩邪朝汉
+  summary: 呼韩邪单于入朝称臣，匈汉关系进入新阶段，边事叙事高峰。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  - 汉书·卷094·匈奴传
+  card_id: E009
+- year: '-49'
+  date_note: 黄龙元年
+  title: 宣帝崩
+  summary: 宣帝崩，元帝即位；昭宣积累的吏治与边防格局转入下一朝。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  card_id: E010
+- year: null
+  date_note: 政风
+  title: 信赏必罚吏治
+  summary: 察吏严明、循名责实，与武帝开边路径对照。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  card_id: E011
+- year: null
+  date_note: 施政总评
+  title: 综核名实
+  summary: 信赏必罚、察吏治、抑虚名，形成与武帝开边不同的收束型中兴路径。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷008·宣帝纪
+  - 资治通鉴·汉纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: null
+  note: 昭帝崩、昌邑王废后迎立（昭帝页待建）
+- type: successor
+  target_id: null
+  note: 元帝（页待建）
+- type: kinship
+  target_id: han-wu-di
+  note: 曾祖；巫蛊之祸后以皇曾孙入继大统
+- type: related_emperor
+  target_id: e-han-guangwu
+  note: 昭宣中兴与光武中兴对读
+routes:
+- group: 流徙
+  order: 1
+  year: '-91'
+  place_id: chang-an
+  event: 民间长养
+- group: 都城
+  order: 2
+  year: '-74'
+  place_id: chang-an
+  event: 霍光迎立
+- group: 都城
+  order: 3
+  year: '-66'
+  place_id: chang-an
+  event: 诛霍氏亲政
+- group: 亲征
+  order: 4
+  year: '-61'
+  place_id: hexi
+  event: 赵充国击羌
+- group: 其他
+  order: 5
+  year: '-60'
+  place_id: hexi
+  event: 西域都护始置
+- group: 都城
+  order: 6
+  year: '-51'
+  place_id: chang-an
+  event: 呼韩邪单于入朝
+sources:
+- title: 汉书·宣帝纪
+  note: 年表主据
+- title: 汉书·霍光传、赵充国传、郑吉传、匈奴传等
+  note: 列传互见
+- title: 资治通鉴·汉纪
+  note: 编年对照
+- title: 汉书·卷008·宣帝纪
+  note: 史料卡同步
+- title: 汉书·卷068·霍光传
+  note: 史料卡同步
+- title: 汉书·卷094·匈奴传
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 西汉中兴之主，正史立纪，video-01 首批二十人之一。
+  synced_from_cards: true

@@ -1,0 +1,234 @@
+id: zhou-wu-zetian
+tier: emperor
+sort_key: 唐-006
+names:
+  display: 武则天
+  personal: 武曌
+  temple: null
+  posthumous: null
+  aliases:
+  - 武后
+  - 天后
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 6
+reign:
+  start: '690'
+  end: '705'
+  eras:
+  - 天授
+  - 神功
+  - 长安
+  - 神龙
+life:
+  birth: null
+  death: null
+  birth_place_id: null
+  death_place_id: null
+summary: 从太宗才人到高宗皇后，临朝称制数十年，690年革唐为周正式称帝，是中国史上唯一正统女皇帝。
+tags:
+- 女帝
+- 武周
+- 临朝称制
+- 科举
+portrait:
+  primary: assets/portraits/zhou-wu-zetian/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '正史着墨于其政治行事，容貌少有实录。MVP 用占位图；定稿前依唐代后妃与帝王冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/zhou-wu-zetian.md
+timeline:
+- year: '637'
+  date_note: 贞观十一年
+  title: 入宫才人
+  summary: 入宫为太宗才人，后有感业寺环节（史传系统）。
+  place_id: chang-an
+  related_person_ids:
+  - tang-tai-zong
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 新唐书·卷004·则天皇后
+  card_id: E001
+- year: '655'
+  date_note: 永徽六年
+  title: 立为皇后
+  summary: 由昭仪立为皇后，进入权力中枢。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  card_id: E002
+- year: '655'
+  date_note: 永徽六年
+  title: 废王立武
+  summary: 后位之争落定，长孙无忌等反对派贬死。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 旧唐书·长孙无忌传
+  card_id: E003
+- year: '660'
+  date_note: 显庆五年后
+  title: 二圣临朝
+  summary: 高宗病，天后参决政务，形成二圣格局。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 新唐书·卷004·则天皇后
+  card_id: E004
+- year: '683'
+  date_note: 弘道元年
+  title: 高宗崩临朝
+  summary: 高宗崩，中宗即位，天后临朝称制。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  card_id: E005
+- year: '684'
+  date_note: 光宅元年
+  title: 废中宗
+  summary: 废中宗为庐陵王，立睿宗，实掌朝政。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  card_id: E006
+- year: '688'
+  date_note: 垂拱四年
+  title: 明堂与告密
+  summary: 洛阳明堂建成，铜匦告密与酷吏政治并行。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 新唐书·卷004·则天皇后
+  card_id: E007
+- year: '690'
+  date_note: 天授元年
+  title: 金轮称帝
+  summary: 加尊号称帝，女主正式称制。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 新唐书·卷004·则天皇后
+  card_id: E008
+- year: '690'
+  date_note: 天授元年
+  title: 改唐为周
+  summary: 改国号为周，定都神都洛阳，祀明堂。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  card_id: E009
+- year: '697'
+  date_note: 神功元年
+  title: 狄仁杰柄用
+  summary: 狄仁杰入相，为武周能吏政治的代表节点。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 旧唐书·狄仁杰传
+  - 旧唐书·卷006·则天皇后
+  card_id: E010
+- year: '705'
+  date_note: 神龙元年
+  title: 神龙政变
+  summary: 张柬之等拥中宗复位，武周结束，则天迁宫。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 旧唐书·中宗纪
+  card_id: E011
+- year: null
+  date_note: 天授–长安
+  title: 科举与能吏
+  summary: 破格用人、发展科举殿试，文治有实绩，与酷吏政治并存。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷006·则天皇后
+  - 新唐书·选举志
+  card_id: E012
+relations:
+- type: related_emperor
+  target_id: tang-tai-zong
+  note: 贞观十一年入宫为太宗才人
+- type: kinship
+  target_id: null
+  note: 夫唐高宗，二圣临朝（页待建）
+- type: predecessor
+  target_id: null
+  note: 唐睿宗（称制时傀儡，页待建）
+- type: successor
+  target_id: null
+  note: 唐中宗（神龙元年复位，页待建）
+- type: related_emperor
+  target_id: tang-xian-zong
+  note: 武周之后李唐重建至宪宗中兴的长线对照
+routes:
+- group: 都城
+  order: 1
+  year: '637'
+  place_id: chang-an
+  event: 入宫为才人
+- group: 都城
+  order: 2
+  year: '655'
+  place_id: chang-an
+  event: 立为皇后（废王立武）
+- group: 都城
+  order: 3
+  year: '683'
+  place_id: luoyang
+  event: 高宗崩，临朝称制
+- group: 都城
+  order: 4
+  year: '684'
+  place_id: luoyang
+  event: 废中宗立睿宗
+- group: 都城
+  order: 5
+  year: '688'
+  place_id: luoyang
+  event: 明堂落成
+- group: 都城
+  order: 6
+  year: '690'
+  place_id: luoyang
+  event: 改唐为周，称帝神都
+- group: 都城
+  order: 7
+  year: '705'
+  place_id: luoyang
+  event: 神龙政变，迁宫
+sources:
+- title: 旧唐书·则天皇后本纪
+  note: 年表主据
+- title: 新唐书·则天皇后本纪
+  note: 互见
+- title: 资治通鉴·唐纪
+  note: 编年对照
+- title: 旧唐书·卷006·则天皇后
+  note: 史料卡同步
+- title: 新唐书·卷004·则天皇后
+  note: 史料卡同步
+- title: 旧唐书·狄仁杰传
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 中国史上唯一正统女皇帝，武周开国，两唐书立纪。
+  synced_from_cards: true

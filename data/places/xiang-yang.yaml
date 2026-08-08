@@ -1,0 +1,11 @@
+id: xiang-yang
+names:
+  historical: 襄阳
+  modern: 湖北省襄阳市
+coords:
+  lng: 112.14
+  lat: 32.04
+  precision: approximate
+map:
+  region: 华中
+notes: 宋元之际与樊城隔汉水相望，合称襄樊，为元灭宋关键节点。

@@ -1,0 +1,11 @@
+id: lv-lin
+names:
+  historical: 绿林
+  modern: 湖北省京山市绿林镇一带（大洪山南麓）
+coords:
+  lng: 113.0
+  lat: 31.3
+  precision: schematic
+map:
+  region: 荆襄
+notes: 地皇三年绿林等兵起之地，绿林军由此得名

@@ -1,0 +1,11 @@
+id: xing-qing-fu
+names:
+  historical: 兴庆府
+  modern: 宁夏回族自治区银川市
+coords:
+  lng: 106.27
+  lat: 38.47
+  precision: approximate
+map:
+  region: 河套
+notes: ""

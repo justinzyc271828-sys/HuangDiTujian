@@ -1,0 +1,187 @@
+id: n-song-tai-zu
+tier: emperor
+sort_key: 北宋-001
+names:
+  display: 宋太祖
+  personal: 赵匡胤
+  temple: 太祖
+  posthumous: null
+  aliases: []
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 1
+reign:
+  start: '960'
+  end: '976'
+  eras:
+  - 建隆
+  - 乾德
+  - 开宝
+life:
+  birth: null
+  death: '976'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 陈桥兵变代周建宋，杯酒释兵权以强干弱枝，先南后北平定诸国的开国之君。
+tags:
+- 陈桥兵变
+- 杯酒释兵权
+- 先南后北
+- 重文抑武
+portrait:
+  primary: assets/portraits/n-song-tai-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-tai-zu.md
+timeline:
+- year: '960'
+  date_note: 建隆元年
+  title: 陈桥兵变
+  summary: 兵变黄袍加身，代周建宋，定都开封。陈桥是否预谋为争议层。
+  place_id: chen-qiao
+  related_person_ids:
+  - zhou-shi
+  sources:
+  - 宋史·卷001·太祖纪
+  card_id: E002
+- year: '960'
+  date_note: 建隆元年
+  title: 定都开封
+  summary: 宋都汴京，五代积习上的新朝。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷001
+  card_id: E001
+- year: '961'
+  date_note: 建隆二年
+  title: 杯酒释兵权
+  summary: 以酒宴方式解除禁军宿将兵权，强干弱枝开端；细节有演绎。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·相关列传/长编系统
+  - 续资治通鉴长编·建隆二年
+  card_id: E003
+- year: '963'
+  date_note: 建隆四年/乾德
+  title: 平荆湖
+  summary: 慕容延钊等平湖南、荆南，先南后北的第一步。
+  place_id: jing-hu
+  related_person_ids: []
+  sources:
+  - 宋史·卷001
+  card_id: E004
+- year: '965'
+  date_note: 乾德三年
+  title: 灭后蜀
+  summary: 王全斌等灭蜀。
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 宋史·卷002
+  card_id: E005
+- year: '971'
+  date_note: 开宝四年
+  title: 灭南汉
+  summary: 潘美等灭南汉，岭南入宋。
+  place_id: pan-yu
+  related_person_ids: []
+  sources:
+  - 宋史·卷002
+  card_id: E006
+- year: '975'
+  date_note: 开宝八年
+  title: 灭南唐
+  summary: 曹彬平江南，李煜降。
+  place_id: jin-ling
+  related_person_ids:
+  - n-tang-houzhu
+  sources:
+  - 宋史·卷003
+  - 宋史·卷478
+  card_id: E007
+- year: '976'
+  date_note: 开宝九年
+  title: 太祖崩
+  summary: 崩于开封，在位结束；「烛影斧声」等为争议层，轻点不坐实。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷003·太祖纪
+  card_id: E009
+- year: '976'
+  date_note: 开宝九年
+  title: 太宗即位
+  summary: 太宗立，朝廷人事与年号随之更始；金匮之盟为争议层。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷003
+  - 宋史·太宗纪
+  card_id: E008
+relations:
+- type: predecessor
+  target_id: zhou-shi
+  note: 后周世宗旧将，陈桥兵变代周建宋
+- type: successor
+  target_id: null
+  note: 弟太宗即位，金匮之盟为争议层（页待建）
+- type: rival
+  target_id: n-tang-houzhu
+  note: 开宝八年灭南唐，李煜降
+routes:
+- group: 都城
+  order: 1
+  year: '960'
+  place_id: chen-qiao
+  event: 陈桥兵变
+- group: 都城
+  order: 2
+  year: '960'
+  place_id: kai-feng
+  event: 定都开封
+- group: 亲征
+  order: 3
+  year: '963'
+  place_id: jing-hu
+  event: 平荆湖
+- group: 亲征
+  order: 4
+  year: '965'
+  place_id: cheng-du
+  event: 灭后蜀
+- group: 亲征
+  order: 5
+  year: '971'
+  place_id: pan-yu
+  event: 灭南汉
+- group: 亲征
+  order: 6
+  year: '975'
+  place_id: jin-ling
+  event: 灭南唐
+sources:
+- title: 宋史·太祖纪（卷001–003）
+  note: 年表主据
+- title: 续资治通鉴长编
+  note: 编年对照
+- title: 宋史·卷001
+  note: 史料卡同步
+- title: 宋史·卷002
+  note: 史料卡同步
+- title: 宋史·卷003
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 北宋开国皇帝，结束五代格局、奠定宋代制度路径。
+  synced_from_cards: true

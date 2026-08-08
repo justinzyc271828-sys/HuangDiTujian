@@ -1,0 +1,11 @@
+id: da-xing
+names:
+  historical: 大兴城
+  modern: 陕西省西安市
+coords:
+  lng: 108.94
+  lat: 34.26
+  precision: approximate
+map:
+  region: 关中
+notes: ""

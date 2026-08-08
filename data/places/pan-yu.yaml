@@ -1,0 +1,11 @@
+id: pan-yu
+names:
+  historical: 番禺
+  modern: 今广东广州
+coords:
+  lng: 113.26
+  lat: 23.13
+  precision: approximate
+map:
+  region: 岭南
+notes: 971年宋灭南汉。

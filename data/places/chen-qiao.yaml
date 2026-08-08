@@ -1,0 +1,11 @@
+id: chen-qiao
+names:
+  historical: 陈桥驿
+  modern: 今河南开封东北
+coords:
+  lng: 114.45
+  lat: 34.90
+  precision: approximate
+map:
+  region: 中原
+notes: 960年陈桥兵变发生地，赵匡胤于此黄袍加身。

@@ -1,0 +1,11 @@
+id: xiang-guo
+names:
+  historical: 襄国
+  modern: 河北省邢台市
+coords:
+  lng: 114.50
+  lat: 37.07
+  precision: approximate
+map:
+  region: 冀南
+notes: ""

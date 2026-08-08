@@ -1,0 +1,11 @@
+id: da-du
+names:
+  historical: 大都
+  modern: 北京市
+coords:
+  lng: 116.40
+  lat: 39.90
+  precision: approximate
+map:
+  region: 华北
+notes: ""

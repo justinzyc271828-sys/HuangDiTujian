@@ -1,0 +1,223 @@
+id: sui-wen
+tier: emperor
+sort_key: 隋-001
+names:
+  display: 隋文帝
+  personal: 杨坚
+  temple: 高祖
+  posthumous: 文皇帝
+  aliases:
+  - 文帝
+dynasty:
+  id: sui
+  label: 隋
+  sequence: 1
+reign:
+  start: '581'
+  end: '604'
+  eras:
+  - 开皇
+  - 仁寿
+life:
+  birth: null
+  death: '604'
+  birth_place_id: null
+  death_place_id: renshou-gong
+summary: 受禅代周、灭陈混一南北，以开皇制度奠定后世政制底盘，却因晚年废立与二世而亡留下争议的开国之主。
+tags:
+- 开国
+- 混一
+- 制度
+- 禅让
+- 废立
+portrait:
+  primary: assets/portraits/sui-wen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/sui-wen.md
+timeline:
+- year: '581'
+  date_note: 开皇元年
+  title: 代周建隋
+  summary: 受北周禅让建隋，改元开皇，北周亡。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 隋书·卷001·高祖纪
+  card_id: E001
+- year: '581'
+  date_note: 开皇元年
+  title: 尽灭北周宗室隐患
+  summary: 开国之初以政治清洗巩固新朝（克制叙述）。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 隋书·卷001·高祖纪
+  card_id: E002
+- year: '583'
+  date_note: 开皇三年
+  title: 迁大兴城
+  summary: 营迁大兴（新长安），都城格局一新。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 隋书·卷001·高祖纪
+  card_id: E003
+- year: '587'
+  date_note: 开皇七年
+  title: 灭后梁
+  summary: 江陵后梁亡，为南进混一的前奏。
+  place_id: jiang-ling
+  related_person_ids: []
+  sources:
+  - 隋书·卷001·高祖纪
+  card_id: E004
+- year: '589'
+  date_note: 开皇九年
+  title: 灭陈混一
+  summary: 平陈，南北再统一，史称混一戎夏。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 隋书·卷002·高祖纪
+  card_id: E005
+- year: '590'
+  date_note: 开皇十年
+  title: 江南反隋平定
+  summary: 灭陈后江南叛乱被平定，统一局面巩固。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 隋书·卷002·高祖纪
+  card_id: E006
+- year: '600'
+  date_note: 开皇二十年
+  title: 废太子勇
+  summary: 废黜太子杨勇，储位动摇。
+  place_id: chang-an
+  related_person_ids:
+  - sui-yang
+  sources:
+  - 隋书·卷045·房陵王勇传
+  - 隋书·卷002·高祖纪
+  card_id: E007
+- year: '600'
+  date_note: 开皇二十年
+  title: 废勇立广
+  summary: 立晋王广为太子，种下国祚风险。
+  place_id: chang-an
+  related_person_ids:
+  - sui-yang
+  sources:
+  - 隋书·卷002·高祖纪
+  - 隋书·卷045·房陵王勇传
+  card_id: E008
+- year: '601'
+  date_note: 仁寿元年
+  title: 改元仁寿
+  summary: 晚年改元，储位已定。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 隋书·卷002·高祖纪
+  card_id: E009
+- year: '604'
+  date_note: 仁寿四年
+  title: 仁寿宫事
+  summary: 卧病仁寿宫，遗命与继位过程史有异说（克制叙述）。
+  place_id: renshou-gong
+  related_person_ids:
+  - sui-yang
+  sources:
+  - 隋书·卷002·高祖纪
+  - 隋书·炀帝纪
+  card_id: E010
+- year: '604'
+  date_note: 仁寿四年
+  title: 文帝崩
+  summary: 崩于仁寿宫，炀帝即位；统一遗产与二世风险同时交接。
+  place_id: renshou-gong
+  related_person_ids:
+  - sui-yang
+  sources:
+  - 隋书·卷002·高祖纪
+  card_id: E011
+- year: 581–600
+  date_note: 开皇间
+  title: 开皇制度
+  summary: 三省六部成型、统一货币度量、检括户口，奠定后世政制底盘。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 隋书·卷001–002·高祖纪
+  - 隋书·志
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: null
+  note: 受北周静帝禅让建隋（页待建）
+- type: successor
+  target_id: sui-yang
+  note: 次子杨广继位，即隋炀帝
+- type: rival
+  target_id: null
+  note: 开皇九年灭陈（陈后主），南北混一（页待建）
+- type: related_emperor
+  target_id: qin-shi-huang
+  note: 长期分裂后混一、却二世而危的长线对照
+routes:
+- group: 都城
+  order: 1
+  year: '581'
+  place_id: chang-an
+  event: 代周建隋
+- group: 迁都
+  order: 2
+  year: '583'
+  place_id: da-xing
+  event: 营迁大兴城
+- group: 亲征
+  order: 3
+  year: '587'
+  place_id: jiang-ling
+  event: 灭后梁
+- group: 亲征
+  order: 4
+  year: '589'
+  place_id: jian-kang
+  event: 灭陈混一
+- group: 都城
+  order: 5
+  year: '600'
+  place_id: chang-an
+  event: 废勇立广
+- group: 都城
+  order: 6
+  year: '604'
+  place_id: renshou-gong
+  event: 崩于仁寿宫
+sources:
+- title: 隋书·高祖纪（卷001–002）
+  note: 年表主据
+- title: 隋书·房陵王勇传（卷045）
+  note: 废立互见
+- title: 隋书·炀帝纪
+  note: 继位对照
+- title: 资治通鉴·隋纪
+  note: 编年对照
+- title: 隋书·卷001·高祖纪
+  note: 史料卡同步
+- title: 隋书·卷002·高祖纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 结束近三百年分裂、混一南北的开国之主，正史立纪。
+  synced_from_cards: true

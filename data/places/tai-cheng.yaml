@@ -1,0 +1,11 @@
+id: tai-cheng
+names:
+  historical: 台城
+  modern: 江苏省南京市（六朝宫城故址）
+coords:
+  lng: 118.80
+  lat: 32.05
+  precision: approximate
+map:
+  region: 江东
+notes: 建康宫城；侯景之乱中梁武帝被困死于此。

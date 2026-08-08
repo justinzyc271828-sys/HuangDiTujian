@@ -1,0 +1,234 @@
+id: liang-wu
+tier: emperor
+sort_key: 梁-001
+names:
+  display: 梁武帝
+  personal: 萧衍
+  temple: null
+  posthumous: null
+  aliases:
+  - 同泰天子
+dynasty:
+  id: liang
+  label: 梁
+  sequence: 1
+reign:
+  start: '502'
+  end: '549'
+  eras:
+  - 天监
+  - 普通
+  - 大通
+  - 中大通
+  - 大同
+  - 中大同
+  - 太清
+life:
+  birth: null
+  death: '549'
+  birth_place_id: null
+  death_place_id: tai-cheng
+summary: 在位近半个世纪，兴文教、崇佛法，成南朝文化高峰，晚年纳侯景而困死台城的梁朝开国皇帝。
+tags:
+- 开国
+- 文治
+- 崇佛
+- 侯景之乱
+portrait:
+  primary: assets/portraits/liang-wu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liang-wu.md
+timeline:
+- year: '501'
+  date_note: 中兴元年
+  title: 起兵建康
+  summary: 自襄阳东下攻入建康，掌控南齐残局。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷001·武帝纪
+  card_id: E001
+- year: '502'
+  date_note: 天监元年
+  title: 受禅建梁
+  summary: 齐禅于梁，萧衍即帝位，梁朝建立。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷001·武帝纪
+  card_id: E002
+- year: '502'
+  date_note: 天监元年
+  title: 置五经博士等
+  summary: 开国文教措置，梁武前半文治基础。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷001–002
+  card_id: E003
+- year: '514'
+  date_note: 天监十三年
+  title: 作浮山堰
+  summary: 堰淮攻魏，工程巨大而争议。
+  place_id: fu-shan-yan
+  related_person_ids: []
+  sources:
+  - 梁书·卷002
+  - 南史·梁本纪
+  card_id: E004
+- year: '527'
+  date_note: 大通元年
+  title: 同泰寺开基叙事
+  summary: 同泰佛事升级，舍身前史。
+  place_id: tong-tai-si
+  related_person_ids: []
+  sources:
+  - 梁书·卷003
+  card_id: E005
+- year: '527'
+  date_note: 大通元年等
+  title: 舍身同泰
+  summary: 数次舍身同泰寺，群臣以钱奉赎，佛事与财政绑定，成史著名场面。
+  place_id: tong-tai-si
+  related_person_ids: []
+  sources:
+  - 梁书·卷003·武帝纪
+  - 南史·梁本纪中
+  card_id: E006
+- year: '547'
+  date_note: 太清元年
+  title: 侯景来降决策
+  summary: 纳降争论，战略误判前奏。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷003
+  - 梁书·侯景传
+  card_id: E007
+- year: '548'
+  date_note: 太清二年
+  title: 台城被围
+  summary: 侯景围台城，梁政崩溃。
+  place_id: tai-cheng
+  related_person_ids: []
+  sources:
+  - 梁书·卷003
+  card_id: E008
+- year: '548'
+  date_note: 太清二年
+  title: 纳侯景
+  summary: 接受侯景，旋即爆发侯景之乱，建康遭灾。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷003·武帝纪
+  - 梁书·卷056·侯景传
+  card_id: E009
+- year: '549'
+  date_note: 太清三年
+  title: 台城饿死
+  summary: 台城陷后，武帝被制，忧愤饥病而崩。
+  place_id: tai-cheng
+  related_person_ids: []
+  sources:
+  - 梁书·卷003·武帝纪
+  - 南史·梁本纪中
+  card_id: E010
+- year: '549'
+  date_note: 太清三年
+  title: 简文继位对照
+  summary: 武帝崩后简文立，侯景仍控建康。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·简文帝纪
+  card_id: E011
+- year: null
+  date_note: 天监–大同
+  title: 文化全盛
+  summary: 长年安定，文学、佛学、礼乐兴盛，南朝文化高峰之一。
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷003·武帝纪
+  - 南史·梁本纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: null
+  note: 齐和帝萧宝融——受其禅让建梁（qi-he，页待建）
+- type: successor
+  target_id: null
+  note: 简文帝萧纲——侯景控制下继位（liang-jianwen，页待建）
+- type: rival
+  target_id: null
+  note: 侯景——纳降致乱，台城之祸（非帝王，不入索引）
+- type: related_emperor
+  target_id: n-wei-xiaowen
+  note: 南北朝文治对读：北魏汉化与梁朝文化高峰
+routes:
+- group: 起兵
+  order: 1
+  year: '501'
+  place_id: jian-kang
+  event: 起兵建康（自襄阳东下）
+- group: 都城
+  order: 2
+  year: '502'
+  place_id: jian-kang
+  event: 受禅建梁
+- group: 其他
+  order: 3
+  year: '514'
+  place_id: fu-shan-yan
+  event: 作浮山堰
+- group: 都城
+  order: 4
+  year: '527'
+  place_id: tong-tai-si
+  event: 同泰寺开基
+- group: 都城
+  order: 5
+  year: '527'
+  place_id: tong-tai-si
+  event: 舍身同泰
+- group: 都城
+  order: 6
+  year: '548'
+  place_id: tai-cheng
+  event: 台城被围
+- group: 都城
+  order: 7
+  year: '548'
+  place_id: jian-kang
+  event: 纳侯景
+- group: 都城
+  order: 8
+  year: '549'
+  place_id: tai-cheng
+  event: 台城饿死
+sources:
+- title: 梁书·武帝纪（卷001–003）
+  note: 年表主据（A 级）
+- title: 南史·梁本纪
+  note: 互见（B 级）
+- title: 资治通鉴·梁纪
+  note: 编年对照
+- title: 梁书·卷001–003·武帝纪
+  note: 史料卡同步
+- title: 梁书·卷056·侯景传
+  note: 史料卡同步
+- title: 南史·梁本纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 南朝梁开国皇帝，正史立纪；前半文治高峰、后半佞佛与侯景之乱，为南朝史转折点。
+  synced_from_cards: true

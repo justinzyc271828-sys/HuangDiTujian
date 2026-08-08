@@ -1,0 +1,11 @@
+id: gao-ping
+names:
+  historical: 高平
+  modern: 山西省晋城市高平市一带
+coords:
+  lng: 112.92
+  lat: 35.80
+  precision: approximate
+map:
+  region: 河东
+notes: 显德元年周世宗亲征败北汉、契丹联军于此。

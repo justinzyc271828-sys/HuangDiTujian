@@ -1,0 +1,11 @@
+id: fei-shui
+names:
+  historical: 淝水
+  modern: 安徽省淮南市寿县一带
+coords:
+  lng: 116.78
+  lat: 32.58
+  precision: approximate
+map:
+  region: 江淮
+notes: 太元八年（383）淝水之战战地

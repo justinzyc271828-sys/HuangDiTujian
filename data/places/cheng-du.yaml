@@ -1,0 +1,11 @@
+id: cheng-du
+names:
+  historical: 成都
+  modern: 今四川成都
+coords:
+  lng: 104.07
+  lat: 30.57
+  precision: approximate
+map:
+  region: 巴蜀
+notes: 965年宋灭后蜀。

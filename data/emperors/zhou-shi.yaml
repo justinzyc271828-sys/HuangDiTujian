@@ -1,0 +1,216 @@
+id: zhou-shi
+tier: emperor
+sort_key: 后周-002
+names:
+  display: 后周世宗
+  personal: 柴荣
+  temple: 世宗
+  posthumous: null
+  aliases:
+  - 周世宗
+dynasty:
+  id: hou-zhou
+  label: 后周
+  sequence: 2
+reign:
+  start: '954'
+  end: '959'
+  eras:
+  - 显德
+life:
+  birth: null
+  death: '959'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 在位六年，高平破敌、三征淮南、北伐收复三关，以整军与改革为北宋统一奠基的英年早逝之主。
+tags:
+- 改革
+- 武功
+- 毁佛铸钱
+- 英年早逝
+portrait:
+  primary: assets/portraits/zhou-shi/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/zhou-shi.md
+timeline:
+- year: '954'
+  date_note: 显德元年
+  title: 即位
+  summary: 郭威崩，柴荣即位，是为世宗。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 旧五代史·周书·世宗纪
+  card_id: E001
+- year: '954'
+  date_note: 显德元年
+  title: 即位改元
+  summary: 即位后改元显德，朝廷人事与年号更始。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  card_id: E002
+- year: '954'
+  date_note: 显德元年
+  title: 高平之战
+  summary: 亲征败北汉、契丹联军于高平，战后整肃禁军，确立权威。
+  place_id: gao-ping
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  - 资治通鉴·后周纪
+  card_id: E003
+- year: '955'
+  date_note: 显德二年
+  title: 毁佛铸钱
+  summary: 限寺减僧，毁铜佛铸钱，以充财政军备。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  - 资治通鉴·后周纪
+  card_id: E004
+- year: null
+  date_note: 显德间
+  title: 整军均田
+  summary: 选练禁军、限制寺院、均定田赋，国力回升。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  - 五代会要
+  card_id: E012
+- year: '956'
+  date_note: 显德三年
+  title: 征淮南
+  summary: 亲征南唐，显德振旅。
+  place_id: huai-nan
+  related_person_ids:
+  - n-tang-houzhu
+  sources:
+  - 旧五代史·世宗纪
+  card_id: E005
+- year: '957'
+  date_note: 显德四–五年
+  title: 经略淮南
+  summary: 多次征南唐，南压强敌，指向江北诸州。
+  place_id: huai-nan
+  related_person_ids:
+  - n-tang-houzhu
+  sources:
+  - 旧五代史·世宗纪
+  - 新五代史·周本纪
+  card_id: E006
+- year: '958'
+  date_note: 显德五年
+  title: 江北十四州
+  summary: 南唐献江北之地，周取十四州。
+  place_id: huai-nan
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  - 新五代史·周本纪
+  card_id: E007
+- year: '959'
+  date_note: 显德六年
+  title: 北伐契丹
+  summary: 亲率北伐，收复关南部分州县，病重回师。
+  place_id: guan-nan
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  card_id: E010
+- year: '959'
+  date_note: 显德六年
+  title: 收复三关
+  summary: 北伐取关南三州，混一之志未竟而病重。
+  place_id: guan-nan
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  card_id: E008
+- year: '959'
+  date_note: 显德六年
+  title: 遗命范质等
+  summary: 病重托孤于范质等，身后旋有陈桥之变。
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 旧五代史·世宗纪
+  - 宋史·太祖纪
+  card_id: E009
+- year: '959'
+  date_note: 显德六年
+  title: 世宗崩
+  summary: 崩于开封，子宗训年幼继位，旋有陈桥兵变，周禅于宋。
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 旧五代史·世宗纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: null
+  note: 养父郭威，周太祖，禅位于荣（页待建）
+- type: successor
+  target_id: null
+  note: 子宗训继位，旋禅于宋（页待建）
+- type: related_emperor
+  target_id: n-song-tai-zu
+  note: 殿前都点检赵匡胤，陈桥兵变承其后局
+- type: rival
+  target_id: n-tang-houzhu
+  note: 三征淮南，南唐献江北十四州
+routes:
+- group: 都城
+  order: 1
+  year: '954'
+  place_id: kai-feng
+  event: 即位改元
+- group: 亲征
+  order: 2
+  year: '954'
+  place_id: gao-ping
+  event: 高平之战
+- group: 亲征
+  order: 3
+  year: '956'
+  place_id: huai-nan
+  event: 三征淮南，取江北十四州
+- group: 亲征
+  order: 4
+  year: '959'
+  place_id: guan-nan
+  event: 北伐契丹，收复三关
+- group: 都城
+  order: 5
+  year: '959'
+  place_id: kai-feng
+  event: 病重托孤，崩于开封
+sources:
+- title: 旧五代史·周书·世宗纪
+  note: 年表主据
+- title: 新五代史·周本纪
+  note: 互见
+- title: 资治通鉴·后周纪
+  note: 编年对照
+- title: 宋史·太祖纪
+  note: 陈桥对照
+- title: 旧五代史·世宗纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 五代末改革与武功并著、为北宋统一奠基的关键皇帝，正史立纪。
+  synced_from_cards: true

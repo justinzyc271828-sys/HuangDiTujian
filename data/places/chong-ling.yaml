@@ -1,0 +1,11 @@
+id: chong-ling
+names:
+  historical: 舂陵
+  modern: 湖北省枣阳市一带
+coords:
+  lng: 112.75
+  lat: 32.13
+  precision: approximate
+map:
+  region: 湖北
+notes: 光武起兵地（史载）

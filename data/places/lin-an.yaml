@@ -1,0 +1,11 @@
+id: lin-an
+names:
+  historical: 临安
+  modern: 浙江省杭州市
+coords:
+  lng: 120.16
+  lat: 30.29
+  precision: approximate
+map:
+  region: 江南
+notes: 南宋都城，1276 年伯颜入城，宋廷降。

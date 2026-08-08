@@ -1,0 +1,11 @@
+id: san-chuan-kou
+names:
+  historical: 三川口
+  modern: 今陕西延安市西北一带（古战场确址有说）
+coords:
+  lng: 109.30
+  lat: 36.75
+  precision: schematic
+map:
+  region: 西北
+notes: 1040 年宋夏三川口之战古战场。

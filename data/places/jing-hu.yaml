@@ -1,0 +1,11 @@
+id: jing-hu
+names:
+  historical: 荆湖
+  modern: 今湖北、湖南一带（示意点取江陵附近）
+coords:
+  lng: 112.24
+  lat: 30.33
+  precision: schematic
+map:
+  region: 长江中游
+notes: 963年宋平荆南、湖南，先南后北第一步；区域地名，坐标为示意。

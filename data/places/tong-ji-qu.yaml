@@ -1,0 +1,11 @@
+id: tong-ji-qu
+names:
+  historical: 通济渠
+  modern: 隋唐大运河通济渠段，今河南至安徽淮北一带（示意）
+coords:
+  lng: 115.6
+  lat: 34.2
+  precision: schematic
+map:
+  region: 中原
+notes: 大业元年开凿，沟通黄河与淮水，南北水运关键段（示意点）

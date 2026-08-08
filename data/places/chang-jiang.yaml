@@ -1,0 +1,11 @@
+id: chang-jiang
+names:
+  historical: 长江
+  modern: 长江下游江段（示意）
+coords:
+  lng: 118.6
+  lat: 32.1
+  precision: schematic
+map:
+  region: 江东
+notes: 宋师南下伐江南示意图段

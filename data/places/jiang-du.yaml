@@ -1,0 +1,11 @@
+id: jiang-du
+names:
+  historical: 江都
+  modern: 江苏省扬州市
+coords:
+  lng: 119.42
+  lat: 32.39
+  precision: approximate
+map:
+  region: 淮南
+notes: ""

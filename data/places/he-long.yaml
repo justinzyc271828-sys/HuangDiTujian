@@ -1,0 +1,11 @@
+id: he-long
+names:
+  historical: 和龙
+  modern: 辽宁省朝阳市
+coords:
+  lng: 120.45
+  lat: 41.57
+  precision: approximate
+map:
+  region: 辽西
+notes: 北燕都城，太延二年灭北燕

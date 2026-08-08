@@ -1,0 +1,189 @@
+id: n-tang-houzhu
+tier: quasi
+sort_key: 南唐-003
+names:
+  display: 南唐后主
+  personal: 李煜
+  temple: null
+  posthumous: null
+  aliases:
+  - 江南国主
+  - 违命侯
+dynasty:
+  id: n-tang
+  label: 南唐
+  sequence: 3
+reign:
+  start: '961'
+  end: '975'
+  eras: []
+life:
+  birth: null
+  death: '978'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 继位于金陵、对宋称臣求存而终至亡国，以词章成就远超君道事功留名后世的南唐末主。
+tags:
+- 亡国
+- 词章
+- 称臣
+- 北迁
+portrait:
+  primary: assets/portraits/n-tang-houzhu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-tang-houzhu.md
+timeline:
+- year: '961'
+  date_note: 宋建隆二年
+  title: 即位金陵
+  summary: 李璟卒，李煜继位，对宋已处劣势。
+  place_id: jin-ling
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E001
+- year: '961'
+  date_note: 建隆二年
+  title: 中主卒继位
+  summary: 中主李璟卒，煜立，朝廷人事与年号随之更始。
+  place_id: jin-ling
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E002
+- year: '971'
+  date_note: 开宝前后
+  title: 贬号称臣
+  summary: 去帝号、称江南国主，对宋称臣以求苟安。
+  place_id: jin-ling
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E003
+- year: '974'
+  date_note: 开宝七年
+  title: 宋师南下
+  summary: 曹彬等伐江南，兵临长江，围城前奏。
+  place_id: chang-jiang
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 宋史·卷478·南唐世家
+  - 宋史·太祖纪
+  card_id: E004
+- year: '975'
+  date_note: 开宝八年
+  title: 拒降与城破
+  summary: 金陵城破，后主出降。
+  place_id: jin-ling
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E005
+- year: '975'
+  date_note: 开宝八年
+  title: 金陵城破
+  summary: 宋军破金陵，后主降，南唐亡。
+  place_id: jin-ling
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 宋史·卷478·南唐世家
+  - 宋史·太祖纪
+  card_id: E006
+- year: '976'
+  date_note: 开宝九年
+  title: 封违命侯
+  summary: 北迁汴京，受封违命侯。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E007
+- year: '976'
+  date_note: 北迁后
+  title: 违命侯
+  summary: 软禁汴京，词多故国之思。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E008
+- year: '978'
+  date_note: 太平兴国三年
+  title: 卒于京师
+  summary: 卒于汴京；赐死说待考。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  card_id: E009
+- year: '978'
+  date_note: 太平兴国三年
+  title: 后主卒
+  summary: 民间有七夕赐牵机药传说，正史记载简略，作待考。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·卷478·南唐世家
+  - 笔记小说·赐死说（待考）
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: null
+  note: 中主李璟卒，煜继位（页待建）
+- type: rival
+  target_id: n-song-tai-zu
+  note: 开宝年间遣曹彬等伐江南，灭南唐
+- type: related_emperor
+  target_id: null
+  note: 太平兴国三年卒于宋太宗朝；赐死传说待考（页待建）
+routes:
+- group: 都城
+  order: 1
+  year: '961'
+  place_id: jin-ling
+  event: 即位于金陵
+- group: 其他
+  order: 2
+  year: '974'
+  place_id: chang-jiang
+  event: 宋师南下伐江南
+- group: 都城
+  order: 3
+  year: '975'
+  place_id: jin-ling
+  event: 金陵城破出降，南唐亡
+- group: 流徙
+  order: 4
+  year: '976'
+  place_id: kai-feng
+  event: 北迁汴京，封违命侯
+- group: 流徙
+  order: 5
+  year: '978'
+  place_id: kai-feng
+  event: 卒于京师
+sources:
+- title: 宋史·南唐世家（卷478）
+  note: 年表主据
+- title: 宋史·太祖纪
+  note: 平江南互见
+- title: 新五代史·南唐世家
+  note: 互见
+- title: 宋史·卷478·南唐世家
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 南唐末主，五代十国收官与宋统一进程的标志性节点，正史立世家。
+  synced_from_cards: true

@@ -1,0 +1,11 @@
+id: kun-yang
+names:
+  historical: 昆阳
+  modern: 河南省叶县一带
+coords:
+  lng: 113.36
+  lat: 33.62
+  precision: approximate
+map:
+  region: 河南
+notes: 昆阳之战发生地（史载）

@@ -1,0 +1,209 @@
+id: q-qin-fu-jian
+tier: quasi
+sort_key: 前秦-002
+names:
+  display: 前秦世祖
+  personal: 苻坚
+  temple: 世祖
+  posthumous: null
+  aliases: []
+dynasty:
+  id: q-qin
+  label: 前秦
+  sequence: 2
+reign:
+  start: '357'
+  end: '385'
+  eras:
+  - 永兴
+life:
+  birth: null
+  death: '385'
+  birth_place_id: null
+  death_place_id: wu-jiang-shan
+summary: 任用王猛治国，灭前燕、前凉而统一北方，终因倾国伐晋败于淝水、国解身死的前秦君主。
+tags:
+- 十六国
+- 王猛
+- 统一北方
+- 淝水之战
+portrait:
+  primary: assets/portraits/q-qin-fu-jian/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-qin-fu-jian.md
+timeline:
+- year: '357'
+  date_note: 永兴元年
+  title: 杀苻生即位
+  summary: 诛暴主苻生，即天王位，前秦进入苻坚时代。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  card_id: E001
+- year: '357'
+  date_note: 永兴
+  title: 改元永兴
+  summary: 即位后改元永兴，前秦新政开场。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  card_id: E002
+- year: undated
+  date_note: 在位前中期
+  title: 委任王猛
+  summary: 委任王猛整肃吏治、打击贵戚，前秦国力急升。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记（王猛附）
+  card_id: E012
+- year: '370'
+  date_note: 太和五年
+  title: 王猛克邺
+  summary: 灭燕关键战役，王猛功高。
+  place_id: ye-cheng
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  - 晋书·王猛传
+  card_id: E003
+- year: '370'
+  date_note: 太和五年
+  title: 灭前燕
+  summary: 灭前燕，北方统一进程加速。
+  place_id: ye-cheng
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  card_id: E004
+- year: '376'
+  date_note: 太元元年
+  title: 统一北方
+  summary: 灭前凉、代等，北方大体统一于前秦，版图臻于巅峰。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  card_id: E005
+- year: '376'
+  date_note: 太元元年
+  title: 灭前凉
+  summary: 灭前凉，河西归前秦。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 晋书·卷113·苻坚载记
+  card_id: E006
+- year: '382'
+  date_note: 太元七年
+  title: 朝议伐晋
+  summary: 淝水前朝议伐晋；王猛已卒，谏阻无力。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记
+  card_id: E007
+- year: '383'
+  date_note: 太元八年
+  title: 投鞭决策
+  summary: 决意南伐东晋，史载「投鞭于江，足断其流」一类豪语，倾国出兵。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记
+  card_id: E008
+- year: '383'
+  date_note: 太元八年
+  title: 淝水之战
+  summary: 淝水大败，前秦崩解，各族复起。
+  place_id: fei-shui
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记
+  - 资治通鉴·晋纪
+  card_id: E009
+- year: '384'
+  date_note: 太元九年
+  title: 慕容垂独立
+  summary: 淝水后慕容垂独立，燕秦瓦解。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记
+  card_id: E010
+- year: '385'
+  date_note: 太元十年
+  title: 苻坚败亡
+  summary: 西奔五将山一带，为姚苌所害，前秦迅速瓦解。
+  place_id: wu-jiang-shan
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: null
+  note: 苻生（坚诛之即位，页待建）
+- type: minister
+  target_id: null
+  note: 王猛（谋臣治世，非帝王不入索引）
+- type: rival
+  target_id: null
+  note: 慕容垂（淝水后独立，页待建）
+- type: rival
+  target_id: null
+  note: 姚苌（苻坚为其所害，页待建）
+routes:
+- group: 都城
+  order: 1
+  year: '357'
+  place_id: chang-an
+  event: 杀苻生即位、改元永兴
+- group: 亲征
+  order: 2
+  year: '370'
+  place_id: ye-cheng
+  event: 王猛克邺、灭前燕
+- group: 亲征
+  order: 3
+  year: '376'
+  place_id: hexi
+  event: 灭前凉、统一北方
+- group: 亲征
+  order: 4
+  year: '383'
+  place_id: fei-shui
+  event: 淝水之战
+- group: 流徙
+  order: 5
+  year: '385'
+  place_id: wu-jiang-shan
+  event: 西奔败亡
+sources:
+- title: 晋书·苻坚载记（卷113–114）
+  note: 年表主据
+- title: 晋书·王猛传
+  note: 治绩互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+- title: 晋书·卷113·苻坚载记
+  note: 史料卡同步
+- title: 晋书·卷114·苻坚载记
+  note: 史料卡同步
+- title: 资治通鉴·晋纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 十六国准帝王，统一北方而败于淝水，正史载记，video-01 首批。
+  synced_from_cards: true

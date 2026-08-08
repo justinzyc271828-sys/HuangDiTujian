@@ -1,0 +1,11 @@
+id: renshou-gong
+names:
+  historical: 仁寿宫
+  modern: 陕西省宝鸡市麟游县一带
+coords:
+  lng: 107.79
+  lat: 34.68
+  precision: approximate
+map:
+  region: 关中
+notes: 仁寿四年隋文帝崩于此宫。

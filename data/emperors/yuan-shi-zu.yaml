@@ -1,0 +1,222 @@
+id: yuan-shi-zu
+tier: emperor
+sort_key: 元-005
+names:
+  display: 元世祖
+  personal: 忽必烈
+  temple: 世祖
+  posthumous: null
+  aliases: []
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 5
+reign:
+  start: '1260'
+  end: '1294'
+  eras:
+  - 中统
+  - 至元
+life:
+  birth: null
+  death: '1294'
+  birth_place_id: null
+  death_place_id: da-du
+summary: 灭宋完成大一统，建国号大元、定都大都，以行省与站赤制度塑造后世格局的征服王朝皇帝。
+tags:
+- 大一统
+- 灭宋
+- 行省
+- 建都
+portrait:
+  primary: assets/portraits/yuan-shi-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-shi-zu.md
+timeline:
+- year: '1260'
+  date_note: 中统元年
+  title: 开平即位
+  summary: 即大汗位，建元中统，朝廷人事与年号随之更始。
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·卷004·世祖纪
+  card_id: E001
+- year: '1260'
+  date_note: 中统元年
+  title: 与阿里不哥争位
+  summary: 汗位内战，忽必烈胜。
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·卷004
+  card_id: E002
+- year: '1264'
+  date_note: 至元元年
+  title: 改元至元
+  summary: 中统改至元，汉地制度推进。
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·卷005
+  card_id: E003
+- year: '1271'
+  date_note: 至元八年
+  title: 建国号元
+  summary: 取《易》「大哉乾元」之义，建国号大元。
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·卷007·世祖纪
+  card_id: E004
+- year: '1272'
+  date_note: 至元九年
+  title: 都于大都
+  summary: 改中都为大都，政治中心落于燕地。
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·卷007
+  card_id: E005
+- year: '1273'
+  date_note: 至元十年
+  title: 襄樊破
+  summary: 襄阳破，灭宋关键节点。
+  place_id: xiang-yang
+  related_person_ids: []
+  sources:
+  - 元史·卷008
+  - 宋史·瀛国公纪（对照）
+  card_id: E006
+- year: '1276'
+  date_note: 至元十三年
+  title: 下临安
+  summary: 伯颜入临安，宋廷降，残部入海。
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 元史·卷009
+  - 宋史·瀛国公纪
+  card_id: E007
+- year: '1276'
+  date_note: 至元十三年
+  title: 伯颜入临安
+  summary: 宋廷降表。
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 元史·卷009
+  card_id: E008
+- year: '1279'
+  date_note: 至元十六年
+  title: 崖山灭宋
+  summary: 崖山之战，宋亡，中国再度大一统于元。
+  place_id: ya-shan
+  related_person_ids: []
+  sources:
+  - 元史·卷010
+  - 宋史·二王本纪
+  card_id: E009
+- year: '1281'
+  date_note: 至元十八年
+  title: 再征日本失败
+  summary: 东征舰队风灾，扩张受挫。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·卷011
+  card_id: E010
+- year: '1294'
+  date_note: 至元三十一年
+  title: 世祖崩
+  summary: 成宗继，混一格局延续。
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·卷017
+  card_id: E011
+- year: undated
+  date_note: 至元间
+  title: 行省与站赤
+  summary: 行省制、驿站网络等，塑造后世行政区与交通遗产。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·百官志/兵志
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: null
+  note: 元宪宗蒙哥（页待建）
+- type: successor
+  target_id: null
+  note: 元成宗铁穆耳（页待建）
+- type: rival
+  target_id: null
+  note: 阿里不哥（汗位战对手，页待建）
+- type: related_emperor
+  target_id: qin-shi-huang
+  note: 两次完成大一统的长线对照
+- type: related_emperor
+  target_id: n-song-tai-zu
+  note: 宋之开国与宋之终结的对读
+routes:
+- group: 都城
+  order: 1
+  year: '1260'
+  place_id: shang-du
+  event: 开平即位
+- group: 亲征
+  order: 2
+  year: '1260'
+  place_id: shang-du
+  event: 与阿里不哥争位（开平/漠北）
+- group: 迁都
+  order: 3
+  year: '1272'
+  place_id: da-du
+  event: 都于大都
+- group: 亲征
+  order: 4
+  year: '1273'
+  place_id: xiang-yang
+  event: 襄樊破
+- group: 亲征
+  order: 5
+  year: '1276'
+  place_id: lin-an
+  event: 下临安
+- group: 亲征
+  order: 6
+  year: '1279'
+  place_id: ya-shan
+  event: 崖山灭宋
+- group: 都城
+  order: 7
+  year: '1294'
+  place_id: da-du
+  event: 世祖崩
+sources:
+- title: 元史·世祖本纪（卷004–017）
+  note: 年表主据
+- title: 宋史·瀛国公纪 / 二王本纪
+  note: 平宋对照
+- title: 资治通鉴
+  note: 书目所列编年参照（通鉴止于五代）
+- title: 元史·卷004·世祖纪
+  note: 史料卡同步
+- title: 元史·百官志/兵志
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 元开国与灭宋完成大一统的关键皇帝，正史立纪。
+  synced_from_cards: true

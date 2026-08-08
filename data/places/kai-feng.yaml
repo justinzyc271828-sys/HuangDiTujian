@@ -1,0 +1,11 @@
+id: kai-feng
+names:
+  historical: 开封（汴京）
+  modern: 河南省开封市
+coords:
+  lng: 114.35
+  lat: 34.79
+  precision: approximate
+map:
+  region: 中原
+notes: ""

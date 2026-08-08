@@ -1,0 +1,220 @@
+id: sui-yang
+tier: emperor
+sort_key: 隋-002
+names:
+  display: 隋炀帝
+  personal: 杨广
+  temple: null
+  posthumous: null
+  aliases:
+  - 晋王
+dynasty:
+  id: sui
+  label: 隋
+  sequence: 2
+reign:
+  start: '604'
+  end: '618'
+  eras:
+  - 大业
+life:
+  birth: null
+  death: '618'
+  birth_place_id: null
+  death_place_id: jiang-du
+summary: 由晋王平陈立功而立为太子，即位后营东都、开运河、西巡张掖、三征高句丽，把大工程与大征伐推向极致并致隋速亡的皇帝。
+tags:
+- 大运河
+- 营东都
+- 三征高句丽
+- 亡国
+portrait:
+  primary: assets/portraits/sui-yang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/sui-yang.md
+timeline:
+- year: '589'
+  date_note: 开皇九年
+  title: 晋王平陈
+  summary: 为晋王时参与灭陈，立功，伏笔「晋王」身份。
+  place_id: jian-kang
+  related_person_ids:
+  - sui-wen
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E001
+- year: '600'
+  date_note: 开皇二十年
+  title: 立为太子
+  summary: 由晋王为太子，大业前夜。
+  place_id: da-xing
+  related_person_ids:
+  - sui-wen
+  sources:
+  - 隋书·卷003·炀帝纪
+  - 隋书·卷002·文帝纪
+  card_id: E002
+- year: '604'
+  date_note: 仁寿四年
+  title: 即位改元
+  summary: 即帝位，后改元大业，展开大工程与扩张。
+  place_id: da-xing
+  related_person_ids: []
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E003
+- year: '605'
+  date_note: 大业元年
+  title: 开通济渠
+  summary: 运河关键段，南北贯通。
+  place_id: tong-ji-qu
+  related_person_ids: []
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E004
+- year: '605'
+  date_note: 大业元年
+  title: 营东都开运河
+  summary: 营建东都洛阳，开凿通济渠等，贯通南北水运。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E005
+- year: '608'
+  date_note: 大业四年
+  title: 开永济渠
+  summary: 北通涿郡，为征辽后勤。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E006
+- year: '609'
+  date_note: 大业五年
+  title: 西巡张掖
+  summary: 西域胡商朝会，盛世表象。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 隋书·卷003·炀帝纪
+  card_id: E007
+- year: '612'
+  date_note: 大业八年
+  title: 一征高句丽
+  summary: 大举征高句丽，丧师费财，国内矛盾激化。
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  card_id: E008
+- year: '613'
+  date_note: 大业九年
+  title: 二征高丽与杨玄感
+  summary: 再征辽东，杨玄感起兵。
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  card_id: E009
+- year: '616'
+  date_note: 大业十二年
+  title: 幸江都
+  summary: 三幸江都，中原失控。
+  place_id: jiang-du
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  card_id: E010
+- year: '617'
+  date_note: 大业十三年
+  title: 天下分崩
+  summary: 群雄并起，炀帝滞留江都，中枢失控。
+  place_id: jiang-du
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  card_id: E011
+- year: '618'
+  date_note: 大业十四年
+  title: 江都之变
+  summary: 宇文化及等发动兵变，炀帝死于江都，隋亡。
+  place_id: jiang-du
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  - 资治通鉴·隋纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: sui-wen
+  note: 父隋文帝，开皇二十年立广为太子，仁寿四年继位
+- type: successor
+  target_id: null
+  note: 隋室后任隋恭帝，见本纪末及后任纪（页待建）
+- type: related_emperor
+  target_id: tang-tai-zong
+  note: 后效承接，唐承隋制的长线对照
+routes:
+- group: 亲征
+  order: 1
+  year: '589'
+  place_id: jian-kang
+  event: 晋王平陈
+- group: 都城
+  order: 2
+  year: '604'
+  place_id: da-xing
+  event: 即位改元
+- group: 都城
+  order: 3
+  year: '605'
+  place_id: luoyang
+  event: 营东都开运河
+- group: 其他
+  order: 4
+  year: '605'
+  place_id: tong-ji-qu
+  event: 开通济渠
+- group: 巡狩
+  order: 5
+  year: '609'
+  place_id: hexi
+  event: 西巡张掖
+- group: 亲征
+  order: 6
+  year: '612'
+  place_id: liaodong
+  event: 一征高句丽
+- group: 流徙
+  order: 7
+  year: '616'
+  place_id: jiang-du
+  event: 幸江都
+- group: 都城
+  order: 8
+  year: '618'
+  place_id: jiang-du
+  event: 江都之变
+sources:
+- title: 隋书·炀帝纪（卷003–004）
+  note: 年表主据
+- title: 资治通鉴·隋纪
+  note: 编年对照
+- title: 隋书·卷003·炀帝纪
+  note: 史料卡同步
+- title: 隋书·卷004·炀帝纪
+  note: 史料卡同步
+- title: 隋书·卷002·文帝纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 隋朝第二代皇帝，正史立纪，大运河与隋亡叙事枢纽。
+  synced_from_cards: true

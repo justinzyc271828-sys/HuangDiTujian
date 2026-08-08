@@ -1,0 +1,227 @@
+id: e-han-guangwu
+tier: emperor
+sort_key: 东汉-001
+names:
+  display: 汉光武帝
+  personal: 刘秀
+  temple: null
+  posthumous: null
+  aliases: []
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 1
+reign:
+  start: '25'
+  end: '57'
+  eras:
+  - 建武
+  - 中元
+life:
+  birth: null
+  death: '57'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 新末起兵、昆阳破新，重建汉室而定都洛阳，以柔道治国、封禅告成的中兴开国皇帝。
+tags:
+- 中兴
+- 起兵
+- 柔道
+- 度田
+- 封禅
+portrait:
+  primary: assets/portraits/e-han-guangwu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-guangwu.md
+timeline:
+- year: '22'
+  date_note: 地皇三年
+  title: 舂陵起兵
+  summary: 与宗室宾客起兵于舂陵，卷入反新浪潮。
+  place_id: chong-ling
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E001
+- year: '23'
+  date_note: 地皇四年
+  title: 昆阳之战
+  summary: 以少击众大破新军于昆阳，奠定刘秀军事声望。
+  place_id: kun-yang
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E002
+- year: '24'
+  date_note: 更始中
+  title: 定河北
+  summary: 渡河经营河北，收揽人才，与更始政权渐行渐远。
+  place_id: handan
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E003
+- year: '25'
+  date_note: 建武元年
+  title: 鄗南称帝
+  summary: 即皇帝位，建元建武，东汉开始。
+  place_id: hao
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E004
+- year: '25'
+  date_note: 建武元年
+  title: 定都洛阳
+  summary: 都洛阳，东汉政治中心确立。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E005
+- year: '26'
+  date_note: 建武二年
+  title: 封功臣
+  summary: 大封功臣，云台班底成形。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001
+  - 后汉书·卷022
+  card_id: E006
+- year: '30'
+  date_note: 建武六年
+  title: 度田令
+  summary: 度田检核田亩户口，引发地方反抗与政策调整。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001
+  card_id: E007
+- year: '36'
+  date_note: 建武十二年
+  title: 统一大致完成
+  summary: 平公孙述等，全国粗定，中兴局面落定。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E008
+- year: '40'
+  date_note: 建武十六年
+  title: 交趾征侧平
+  summary: 马援等平交趾，南疆叙事。
+  place_id: jiao-zhi
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001
+  - 后汉书·马援传
+  card_id: E009
+- year: '56'
+  date_note: 中元元年
+  title: 封禅泰山
+  summary: 中元封禅，中兴礼仪高峰（翌年崩）。
+  place_id: taishan
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001
+  card_id: E010
+- year: '57'
+  date_note: 中元二年
+  title: 光武崩
+  summary: 崩于洛阳，明帝继位，东汉国祚延续。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  card_id: E011
+- year: undated
+  date_note: 建武年间
+  title: 柔道与退功臣
+  summary: 崇尚柔道、退功臣进文吏，云台图像功臣而不使揽政，塑造中兴政风。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001·光武帝纪
+  - 后汉书·卷022
+  card_id: E012
+relations:
+- type: rival
+  target_id: xin-wang-mang
+  note: 新末对手，昆阳大破新军主力
+- type: predecessor
+  target_id: null
+  note: 更始帝（页待建）
+- type: successor
+  target_id: null
+  note: 汉明帝（页待建）
+- type: related_emperor
+  target_id: han-gao-zu
+  note: 开国与中兴，国号续汉的长线对照
+- type: related_emperor
+  target_id: han-wu-di
+  note: 封禅与帝国礼仪的中兴对极盛对照
+routes:
+- group: 亲征
+  order: 1
+  year: '22'
+  place_id: chong-ling
+  event: 舂陵起兵
+- group: 亲征
+  order: 2
+  year: '23'
+  place_id: kun-yang
+  event: 昆阳之战
+- group: 亲征
+  order: 3
+  year: '24'
+  place_id: handan
+  event: 定河北
+- group: 都城
+  order: 4
+  year: '25'
+  place_id: hao
+  event: 鄗南称帝
+- group: 迁都
+  order: 5
+  year: '25'
+  place_id: luoyang
+  event: 定都洛阳
+- group: 亲征
+  order: 6
+  year: '40'
+  place_id: jiao-zhi
+  event: 交趾征侧平
+- group: 巡狩
+  order: 7
+  year: '56'
+  place_id: taishan
+  event: 封禅泰山
+- group: 都城
+  order: 8
+  year: '57'
+  place_id: luoyang
+  event: 光武崩
+sources:
+- title: 后汉书·光武帝纪
+  note: 年表主据
+- title: 后汉书·卷022 / 马援传
+  note: 互见
+- title: 资治通鉴·汉纪
+  note: 编年对照
+- title: 后汉书·卷001·光武帝纪
+  note: 史料卡同步
+- title: 后汉书·卷022 / 马援传
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 东汉开国皇帝，光武中兴，正史立纪。
+  synced_from_cards: true

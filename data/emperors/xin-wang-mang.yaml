@@ -1,0 +1,218 @@
+id: xin-wang-mang
+tier: quasi
+sort_key: 新-001
+names:
+  display: 新朝王莽
+  personal: 王莽
+  temple: null
+  posthumous: null
+  aliases: []
+dynasty:
+  id: xin
+  label: 新
+  sequence: 1
+reign:
+  start: '9'
+  end: '23'
+  eras:
+  - 始建国
+  - 天凤
+  - 地皇
+life:
+  birth: null
+  death: '23'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 以外戚身份与儒学声望居摄代汉，建国号新并力行托古改制，终在边患与民变中迅速崩亡的争议之主。
+tags:
+- 托古改制
+- 符命禅让
+- 新朝
+- 速亡
+portrait:
+  primary: assets/portraits/xin-wang-mang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/xin-wang-mang.md
+timeline:
+- year: '1'
+  date_note: 元始中
+  title: 安汉公
+  summary: 以外戚与儒学声望累迁，受封安汉公，掌控朝政。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E001
+- year: '6'
+  date_note: 居摄元年
+  title: 居摄称制
+  summary: 平帝死后立孺子婴，居摄行周公故事，加号假皇帝。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E002
+- year: '8'
+  date_note: 初始元年
+  title: 符命劝进
+  summary: 符命与禅让舆论密集，为代汉制造合法性。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E003
+- year: '9'
+  date_note: 始建国元年
+  title: 代汉称帝
+  summary: 废孺子婴，建国号新，改元始建国。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E004
+- year: '9'
+  date_note: 始建国年间
+  title: 托古改制
+  summary: 行王田、禁奴婢，屡改货币官名，托《周礼》等经典，社会震荡剧烈。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E005
+- year: '10'
+  date_note: 始建国二年
+  title: 五均六筦
+  summary: 设五均赊贷等，经济管制加深社会震荡。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E006
+- year: '15'
+  date_note: 天凤二年
+  title: 匈奴战事恶化
+  summary: 与匈奴关系破裂，边费与兵祸加剧。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷099
+  - 汉书·卷094
+  card_id: E007
+- year: '17'
+  date_note: 天凤中
+  title: 绿林赤眉
+  summary: 民变蜂起，绿林、赤眉等起兵，新朝控制力崩解。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  - 后汉书·卷011
+  card_id: E008
+- year: '22'
+  date_note: 地皇三年
+  title: 绿林新市兵起
+  summary: 荆州绿林等大起，新朝地方失控。
+  place_id: lv-lin
+  related_person_ids: []
+  sources:
+  - 汉书·卷099
+  - 后汉书·刘玄传
+  card_id: E009
+- year: '23'
+  date_note: 地皇四年
+  title: 昆阳新败
+  summary: 新军大败于昆阳，洛阳等地动摇，新朝军事崩溃。
+  place_id: kun-yang
+  related_person_ids:
+  - e-han-guangwu
+  sources:
+  - 后汉书·卷001·光武帝纪
+  - 汉书·卷099·王莽传
+  card_id: E010
+- year: '23'
+  date_note: 地皇四年
+  title: 更始入关前夜
+  summary: 昆阳败后更始政权进逼，长安将溃。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099
+  - 后汉书·光武纪
+  card_id: E011
+- year: '23'
+  date_note: 地皇四年
+  title: 渐台之死
+  summary: 更始军入长安，王莽死于渐台，新亡。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E012
+relations:
+- type: kinship
+  target_id: null
+  note: 姑母王政君为元帝皇后，外戚路径由此开启（页待建）
+- type: predecessor
+  target_id: null
+  note: 居摄年间所立孺子婴，始建国元年废之代汉（页待建）
+- type: successor
+  target_id: null
+  note: 更始帝刘玄（页待建）
+- type: rival
+  target_id: e-han-guangwu
+  note: 昆阳之败与终局对手，新亡汉兴
+routes:
+- group: 都城
+  order: 1
+  year: '1'
+  place_id: chang-an
+  event: 安汉公
+- group: 都城
+  order: 2
+  year: '6'
+  place_id: chang-an
+  event: 居摄称制
+- group: 都城
+  order: 3
+  year: '9'
+  place_id: chang-an
+  event: 代汉称帝
+- group: 其他
+  order: 4
+  year: '22'
+  place_id: lv-lin
+  event: 绿林新市兵起
+- group: 亲征
+  order: 5
+  year: '23'
+  place_id: kun-yang
+  event: 昆阳新败
+- group: 都城
+  order: 6
+  year: '23'
+  place_id: chang-an
+  event: 渐台之死
+sources:
+- title: 汉书·王莽传
+  note: 年表主据
+- title: 后汉书·光武帝纪
+  note: 昆阳与终局对照
+- title: 资治通鉴·汉纪
+  note: 编年对照
+- title: 汉书·卷099·王莽传
+  note: 史料卡同步
+- title: 后汉书·卷001·光武帝纪
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 两汉之际关键转折人物，新朝建立者，准帝王线收入。
+  synced_from_cards: true

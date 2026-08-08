@@ -1,0 +1,11 @@
+id: guan-nan
+names:
+  historical: 关南
+  modern: 河北省雄县、霸州、任丘一带
+coords:
+  lng: 116.10
+  lat: 38.98
+  precision: schematic
+map:
+  region: 河北
+notes: 显德六年周世宗北伐契丹收复的关南三关、三州之地。

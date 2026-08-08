@@ -1,0 +1,218 @@
+id: tang-xian-zong
+tier: emperor
+sort_key: 唐-015
+names:
+  display: 唐宪宗
+  personal: 李纯
+  temple: 宪宗
+  posthumous: null
+  aliases: []
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 15
+reign:
+  start: '805'
+  end: '820'
+  eras:
+  - 元和
+life:
+  birth: null
+  death: '820'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 在位十五年以削藩为主线，平西川、破淮西、威服河朔，成就"元和中兴"而暴崩于宦官疑云的中唐皇帝。
+tags:
+- 元和中兴
+- 削藩
+- 藩镇
+- 迎佛骨
+- 宦官
+portrait:
+  primary: assets/portraits/tang-xian-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    正史不载容貌细节，传统帝王画像多属后世图绘。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-xian-zong.md
+timeline:
+- year: '805'
+  date_note: 永贞元年
+  title: 即位
+  summary: 顺宗内禅，即帝位；朝廷人事与年号随之更始，明年改元元和。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷014·宪宗纪
+  card_id: E001
+- year: '806'
+  date_note: 元和元年
+  title: 平夏绥杨惠琳
+  summary: 讨平夏绥杨惠琳，削藩早期胜利。
+  place_id: xia-zhou
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷014·宪宗纪
+  card_id: E002
+- year: '806'
+  date_note: 元和元年
+  title: 平西川
+  summary: 讨平西川刘辟，展示削藩决心。
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷014·宪宗纪
+  card_id: E003
+- year: '809'
+  date_note: 元和四年
+  title: 成德王承宗战事
+  summary: 讨成德王承宗，成果有限，显示削藩难度。
+  place_id: cheng-de
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷014·宪宗纪
+  card_id: E004
+- year: '815'
+  date_note: 元和十年
+  title: 李师道刺武元衡
+  summary: 藩镇以恐怖手段刺杀宰相武元衡于长安，朝野震动。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷015·宪宗纪
+  - 旧唐书·武元衡传
+  card_id: E005
+- year: '817'
+  date_note: 元和十二年
+  title: 裴度宣慰淮西
+  summary: 宰相裴度赴淮西督师宣慰，为雪夜入蔡的政治背景。
+  place_id: cai-zhou
+  related_person_ids: []
+  sources:
+  - 旧唐书·裴度传
+  - 旧唐书·卷015·宪宗纪
+  card_id: E006
+- year: '817'
+  date_note: 元和十二年
+  title: 平淮西
+  summary: 李愬雪夜入蔡州，擒吴元济，元和削藩达到高潮。
+  place_id: cai-zhou
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷015·宪宗纪
+  - 旧唐书·李愬传
+  card_id: E007
+- year: '818'
+  date_note: 元和十三年前后
+  title: 成德归朝
+  summary: 成德等河朔藩镇一度听命朝廷，元和中兴气象达到高点。
+  place_id: cheng-de
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷015·宪宗纪
+  card_id: E008
+- year: '819'
+  date_note: 元和十四年
+  title: 迎佛骨
+  summary: 迎法门寺佛骨入长安；韩愈上表极谏，贬逐出京。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷015·宪宗纪
+  - 旧唐书·韩愈传
+  card_id: E009
+- year: '820'
+  date_note: 元和十五年
+  title: 穆宗即位
+  summary: 宪宗崩后穆宗立，朝廷人事与年号更始，削藩回落。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·穆宗纪
+  card_id: E010
+- year: '820'
+  date_note: 元和十五年
+  title: 暴崩
+  summary: 暴崩于长安，史载与宦官相关的疑云，削藩成果随之回落。
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷015·宪宗纪
+  - 新唐书·宪宗纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: null
+  note: 永贞元年顺宗内禅，承其皇位（页待建）
+- type: successor
+  target_id: null
+  note: 暴崩后穆宗即位，削藩随之回落（页待建）
+- type: related_emperor
+  target_id: tang-tai-zong
+  note: 同朝盛世范式，"元和中兴"叙事的长线对照
+- type: related_emperor
+  target_id: zhou-wu-zetian
+  note: 唐朝由盛入中长线上的前段坐标
+routes:
+- group: 都城
+  order: 1
+  year: '805'
+  place_id: chang-an
+  event: 即位
+- group: 亲征
+  order: 2
+  year: '806'
+  place_id: xia-zhou
+  event: 平夏绥杨惠琳
+- group: 亲征
+  order: 3
+  year: '806'
+  place_id: cheng-du
+  event: 平西川
+- group: 亲征
+  order: 4
+  year: '809'
+  place_id: cheng-de
+  event: 成德王承宗战事
+- group: 都城
+  order: 5
+  year: '815'
+  place_id: chang-an
+  event: 李师道刺武元衡
+- group: 其他
+  order: 6
+  year: '817'
+  place_id: cai-zhou
+  event: 裴度宣慰淮西
+- group: 亲征
+  order: 7
+  year: '817'
+  place_id: cai-zhou
+  event: 平淮西
+- group: 都城
+  order: 8
+  year: '819'
+  place_id: chang-an
+  event: 迎佛骨
+sources:
+- title: 旧唐书·宪宗纪（卷014–015）
+  note: 年表主据
+- title: 新唐书·宪宗纪
+  note: 互见对照
+- title: 资治通鉴·唐纪
+  note: 编年对照
+- title: 旧唐书·卷014·宪宗纪
+  note: 史料卡同步
+- title: 旧唐书·卷015·宪宗纪
+  note: 史料卡同步
+- title: 旧唐书·裴度传 / 李愬传
+  note: 史料卡同步（淮西相关列传）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 中唐"元和中兴"之主，削藩主线的代表皇帝，正史立纪。
+  synced_from_cards: true

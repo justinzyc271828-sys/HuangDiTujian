@@ -1,0 +1,222 @@
+id: xixia-li-yuanhao
+tier: quasi
+sort_key: 西夏-001
+names:
+  display: 西夏景宗
+  personal: 李元昊
+  temple: 景宗
+  posthumous: null
+  aliases:
+  - 元昊
+dynasty:
+  id: xixia
+  label: 西夏
+  sequence: 1
+reign:
+  start: '1038'
+  end: '1048'
+  eras:
+  - 天授礼法延祚
+life:
+  birth: null
+  death: '1048'
+  birth_place_id: null
+  death_place_id: xing-qing-fu
+summary: 1038年称帝建大夏，创西夏文、立番汉官制，三败宋军而与宋辽鼎立的西夏开国之主。
+tags:
+- 开国
+- 西夏文
+- 宋夏战争
+- 鼎立
+- 遇弑
+portrait:
+  primary: assets/portraits/xixia-li-yuanhao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: |
+    史源档案未载相貌依据。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/xixia-li-yuanhao.md
+timeline:
+- year: '1032'
+  date_note: 明道元年
+  title: 袭夏王位
+  summary: 李德明卒，元昊嗣位，加速去宋化与民族国家建构。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E001
+- year: '1034'
+  date_note: 约景祐前后
+  title: 创制西夏文
+  summary: 命野利仁荣等造番书（西夏文），改服饰官制，强化主体性。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E002
+- year: '1036'
+  date_note: 约景祐
+  title: 取瓜沙肃
+  summary: 攻取河西走廊要地，奠称帝版图基础。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E003
+- year: '1038'
+  date_note: 天授礼法延祚元年
+  title: 河西称帝
+  summary: 即皇帝位，国号大夏，改元，与宋辽并立。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E004
+- year: '1040'
+  date_note: 康定元年
+  title: 三川口之战
+  summary: 宋夏大战之一，夏军获胜。
+  place_id: san-chuan-kou
+  related_person_ids: []
+  sources:
+  - 宋史·卷485
+  card_id: E005
+- year: '1041'
+  date_note: 康定/庆历
+  title: 好水川大捷
+  summary: 宋夏大战中夏军重创宋军，确立西夏军事地位。
+  place_id: hao-shui-chuan
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  - 宋史·相关列传
+  card_id: E006
+- year: '1042'
+  date_note: 庆历二年
+  title: 定川寨之战
+  summary: 再创宋军，确立军事优势。
+  place_id: ding-chuan-zhai
+  related_person_ids: []
+  sources:
+  - 宋史·卷485
+  card_id: E007
+- year: '1044'
+  date_note: 庆历四年
+  title: 庆历和议
+  summary: 宋夏达成和议，元昊对宋称臣而自帝其国，换岁赐与边境稳定。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E008
+- year: '1044'
+  date_note: 庆历四年
+  title: 辽夏和战
+  summary: 与辽冲突后和，宋辽夏三角外交。
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 宋史·卷485
+  - 辽史·相关纪
+  card_id: E009
+- year: '1048'
+  date_note: 延祚十一年
+  title: 没藏氏与后嗣
+  summary: 遇弑后幼主谅祚继立，外戚没藏氏格局形成。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485
+  card_id: E010
+- year: '1048'
+  date_note: 延祚十一年
+  title: 遇弑
+  summary: 元昊在宫廷斗争中被刺死，西夏转入后续诸帝。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485·夏国传
+  card_id: E011
+- year: null
+  date_note: 制度（系年不明）
+  title: 番汉官制
+  summary: 设中书枢密等，番汉分号。
+  place_id: xing-qing-fu
+  related_person_ids: []
+  sources:
+  - 宋史·卷485
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: null
+  note: 父李德明（页待建），1032 年袭夏王位
+- type: successor
+  target_id: null
+  note: 幼子李谅祚（页待建），遇弑后嗣位
+- type: rival
+  target_id: null
+  note: 宋仁宗（页待建）：三川口、好水川、定川寨三战与庆历和议
+- type: rival
+  target_id: null
+  note: 辽兴宗（页待建）：辽夏和战，宋辽夏三角
+- type: related_emperor
+  target_id: han-wu-di
+  note: 武帝开河西走廊与元昊据河西称帝的长线对照
+routes:
+- group: 都城
+  order: 1
+  year: '1032'
+  place_id: xing-qing-fu
+  event: 袭夏王位
+- group: 亲征
+  order: 2
+  year: '1036'
+  place_id: hexi
+  event: 取瓜沙肃
+- group: 都城
+  order: 3
+  year: '1038'
+  place_id: xing-qing-fu
+  event: 河西称帝
+- group: 亲征
+  order: 4
+  year: '1040'
+  place_id: san-chuan-kou
+  event: 三川口之战
+- group: 亲征
+  order: 5
+  year: '1041'
+  place_id: hao-shui-chuan
+  event: 好水川大捷
+- group: 亲征
+  order: 6
+  year: '1042'
+  place_id: ding-chuan-zhai
+  event: 定川寨之战
+- group: 其他
+  order: 7
+  year: '1044'
+  place_id: hexi
+  event: 辽夏和战
+- group: 都城
+  order: 8
+  year: '1048'
+  place_id: xing-qing-fu
+  event: 遇弑，幼主谅祚继立
+sources:
+- title: 宋史·卷485·夏国传
+  note: 年表主据；史料卡同步
+- title: 宋史·相关列传（任福等）
+  note: 好水川等战役互见
+- title: 辽史·相关纪
+  note: 辽夏和战二手入口
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 西夏实际开国之主，1038 年称帝与宋辽鼎立；传统正统帝系之外的准帝王，正史立传。
+  synced_from_cards: true

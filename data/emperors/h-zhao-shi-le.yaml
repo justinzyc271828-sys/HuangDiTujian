@@ -1,0 +1,205 @@
+id: h-zhao-shi-le
+tier: quasi
+sort_key: 后赵-001
+names:
+  display: 后赵高祖
+  personal: 石勒
+  temple: 高祖
+  posthumous: null
+  aliases: []
+dynasty:
+  id: h-zhao
+  label: 后赵
+  sequence: 1
+reign:
+  start: '319'
+  end: '333'
+  eras: []
+life:
+  birth: null
+  death: '333'
+  birth_place_id: null
+  death_place_id: xiang-guo
+summary: 从被掠卖为奴的羯人少年到开国称帝，都襄国、灭前赵而臣北方，十六国最具戏剧性的创业者。
+tags:
+- 十六国
+- 开国
+- 奴隶天子
+- 胡汉分治
+portrait:
+  primary: assets/portraits/h-zhao-shi-le/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '羯人，史载重其雄略。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/h-zhao-shi-le.md
+timeline:
+- year: '303'
+  date_note: 约永兴前后
+  title: 被掠为奴
+  summary: 羯人石勒少时被掠卖为奴，后聚众起兵，是十六国最戏剧性的社会流动叙事。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷104·石勒载记
+  card_id: E001
+- year: '308'
+  date_note: 永嘉前后
+  title: 依附汉赵
+  summary: 一度归刘渊、刘聪系统，在华北作战中积累实力。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷104·石勒载记
+  card_id: E002
+- year: '311'
+  date_note: 永嘉五年
+  title: 攻陷洛阳相关
+  summary: 参与永嘉之乱后华北混战，军势坐大。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷104·石勒载记
+  card_id: E003
+- year: '319'
+  date_note: 太兴二年
+  title: 襄国称赵
+  summary: 称赵王，都襄国，后赵政权成立，脱离前赵阴影。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷104·石勒载记
+  card_id: E004
+- year: '321'
+  date_note: 太兴四年
+  title: 称大单于赵王进阶
+  summary: 名号与制度升格，后赵雏形稳固。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷104
+  card_id: E005
+- year: '328'
+  date_note: 咸和三年
+  title: 洛阳大战前
+  summary: 与刘曜对峙升级，灭赵前夜。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷105
+  card_id: E006
+- year: '329'
+  date_note: 咸和四年
+  title: 灭前赵
+  summary: 破刘曜，灭前赵，北方大部归后赵。
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷105·石勒载记
+  card_id: E007
+- year: '330'
+  date_note: 咸和五年
+  title: 称帝
+  summary: 称皇帝，后赵帝制完备。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷105·石勒载记
+  card_id: E008
+- year: null
+  date_note: 在位
+  title: 胡汉分治与学校
+  summary: 设君子营、兴学校等，胡汉秩序探索。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷105
+  card_id: E011
+- year: null
+  date_note: 在位间
+  title: 重用张宾
+  summary: 以张宾为谋主，兴学校、定制度，胡汉分治中有秩序建设。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷105·石勒载记
+  card_id: E012
+- year: '333'
+  date_note: 咸和八年
+  title: 遗命与石弘
+  summary: 勒崩前安排继承人，旋被石虎颠覆。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷105
+  card_id: E009
+- year: '333'
+  date_note: 咸和八年
+  title: 石勒崩
+  summary: 勒崩，石弘继而石虎夺位，后赵政治迅速恶化。
+  place_id: xiang-guo
+  related_person_ids: []
+  sources:
+  - 晋书·卷105·石勒载记
+  card_id: E010
+relations:
+- type: successor
+  target_id: null
+  note: 石弘继位，旋为石虎所夺（石虎页待建）
+- type: rival
+  target_id: null
+  note: 刘曜，前赵末主，329年为石勒所灭（页待建）
+- type: related_emperor
+  target_id: null
+  note: 刘渊，石勒早年依附的汉赵开国之主（页待建）
+- type: minister
+  target_id: null
+  note: 张宾，右侯、谋主（页待建）
+- type: related_emperor
+  target_id: q-qin-fu-jian
+  note: 同为十六国时期胡人政权立国者的长线对照
+routes:
+- group: 亲征
+  order: 1
+  year: '311'
+  place_id: luoyang
+  event: 永嘉乱后华北混战，军势坐大
+- group: 都城
+  order: 2
+  year: '319'
+  place_id: xiang-guo
+  event: 称赵王，都襄国
+- group: 亲征
+  order: 3
+  year: '328'
+  place_id: luoyang
+  event: 与刘曜对峙，洛阳决战前夜
+- group: 亲征
+  order: 4
+  year: '329'
+  place_id: luoyang
+  event: 破刘曜，灭前赵
+- group: 都城
+  order: 5
+  year: '330'
+  place_id: xiang-guo
+  event: 称皇帝
+sources:
+- title: 晋书·石勒载记（卷104–105）
+  note: 年表主据
+- title: 资治通鉴·晋纪
+  note: 编年对照
+- title: 晋书·卷104·石勒载记
+  note: 史料卡同步
+- title: 晋书·卷105·石勒载记
+  note: 史料卡同步
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-08'
+  inclusion_reason: 后赵开国之主，奴隶到天子的十六国标志性人物，正史载记。
+  synced_from_cards: true

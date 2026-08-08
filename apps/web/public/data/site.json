@@ -27,6 +27,22 @@
     }
   ],
   "places": {
+    "cai-zhou": {
+      "id": "cai-zhou",
+      "names": {
+        "historical": "蔡州",
+        "modern": "河南省驻马店市汝南县"
+      },
+      "coords": {
+        "lng": 114.35,
+        "lat": 33.0,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "淮西"
+      },
+      "notes": "唐淮西节度使治所；李愬雪夜入蔡州擒吴元济。"
+    },
     "chang-an": {
       "id": "chang-an",
       "names": {
@@ -42,6 +58,134 @@
         "region": "关中"
       },
       "notes": "西汉都城"
+    },
+    "chang-jiang": {
+      "id": "chang-jiang",
+      "names": {
+        "historical": "长江",
+        "modern": "长江下游江段（示意）"
+      },
+      "coords": {
+        "lng": 118.6,
+        "lat": 32.1,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "江东"
+      },
+      "notes": "宋师南下伐江南示意图段"
+    },
+    "chen-qiao": {
+      "id": "chen-qiao",
+      "names": {
+        "historical": "陈桥驿",
+        "modern": "今河南开封东北"
+      },
+      "coords": {
+        "lng": 114.45,
+        "lat": 34.9,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "中原"
+      },
+      "notes": "960年陈桥兵变发生地，赵匡胤于此黄袍加身。"
+    },
+    "cheng-de": {
+      "id": "cheng-de",
+      "names": {
+        "historical": "成德（镇州）",
+        "modern": "河北省石家庄市正定县一带"
+      },
+      "coords": {
+        "lng": 114.57,
+        "lat": 38.15,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河北"
+      },
+      "notes": "唐成德节度使治所镇州；王承宗据此抗命。"
+    },
+    "cheng-du": {
+      "id": "cheng-du",
+      "names": {
+        "historical": "成都",
+        "modern": "今四川成都"
+      },
+      "coords": {
+        "lng": 104.07,
+        "lat": 30.57,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "巴蜀"
+      },
+      "notes": "965年宋灭后蜀。"
+    },
+    "chong-ling": {
+      "id": "chong-ling",
+      "names": {
+        "historical": "舂陵",
+        "modern": "湖北省枣阳市一带"
+      },
+      "coords": {
+        "lng": 112.75,
+        "lat": 32.13,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "湖北"
+      },
+      "notes": "光武起兵地（史载）"
+    },
+    "da-du": {
+      "id": "da-du",
+      "names": {
+        "historical": "大都",
+        "modern": "北京市"
+      },
+      "coords": {
+        "lng": 116.4,
+        "lat": 39.9,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "华北"
+      },
+      "notes": ""
+    },
+    "da-xing": {
+      "id": "da-xing",
+      "names": {
+        "historical": "大兴城",
+        "modern": "陕西省西安市"
+      },
+      "coords": {
+        "lng": 108.94,
+        "lat": 34.26,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "关中"
+      },
+      "notes": ""
+    },
+    "ding-chuan-zhai": {
+      "id": "ding-chuan-zhai",
+      "names": {
+        "historical": "定川寨",
+        "modern": "今宁夏固原市西北一带（古战场确址有说）"
+      },
+      "coords": {
+        "lng": 106.2,
+        "lat": 36.1,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "西北"
+      },
+      "notes": "1042 年宋夏定川寨之战古战场。"
     },
     "dingtao": {
       "id": "dingtao",
@@ -59,6 +203,86 @@
       },
       "notes": "高祖即皇帝位相关地点（示意）"
     },
+    "fei-shui": {
+      "id": "fei-shui",
+      "names": {
+        "historical": "淝水",
+        "modern": "安徽省淮南市寿县一带"
+      },
+      "coords": {
+        "lng": 116.78,
+        "lat": 32.58,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江淮"
+      },
+      "notes": "太元八年（383）淝水之战战地"
+    },
+    "fu-shan-yan": {
+      "id": "fu-shan-yan",
+      "names": {
+        "historical": "浮山堰",
+        "modern": "安徽省明光市北、五河县东淮河河段（约）"
+      },
+      "coords": {
+        "lng": 117.98,
+        "lat": 33.02,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江淮"
+      },
+      "notes": "梁天监年间堰淮水以攻魏的大坝工程，造价巨大而争议。"
+    },
+    "gao-ping": {
+      "id": "gao-ping",
+      "names": {
+        "historical": "高平",
+        "modern": "山西省晋城市高平市一带"
+      },
+      "coords": {
+        "lng": 112.92,
+        "lat": 35.8,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河东"
+      },
+      "notes": "显德元年周世宗亲征败北汉、契丹联军于此。"
+    },
+    "gua-bu": {
+      "id": "gua-bu",
+      "names": {
+        "historical": "瓜步",
+        "modern": "江苏省南京市六合区瓜埠山（长江北岸）"
+      },
+      "coords": {
+        "lng": 118.85,
+        "lat": 32.27,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江淮"
+      },
+      "notes": "太平真君十一年南征刘宋所至"
+    },
+    "guan-nan": {
+      "id": "guan-nan",
+      "names": {
+        "historical": "关南",
+        "modern": "河北省雄县、霸州、任丘一带"
+      },
+      "coords": {
+        "lng": 116.1,
+        "lat": 38.98,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "河北"
+      },
+      "notes": "显德六年周世宗北伐契丹收复的关南三关、三州之地。"
+    },
     "handan": {
       "id": "handan",
       "names": {
@@ -74,6 +298,54 @@
         "region": "河北"
       },
       "notes": "始皇出生地（史载）"
+    },
+    "hao-shui-chuan": {
+      "id": "hao-shui-chuan",
+      "names": {
+        "historical": "好水川",
+        "modern": "今宁夏隆德县一带（古战场确址有说）"
+      },
+      "coords": {
+        "lng": 106.11,
+        "lat": 35.63,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "西北"
+      },
+      "notes": "1041 年宋夏好水川之战古战场。"
+    },
+    "hao": {
+      "id": "hao",
+      "names": {
+        "historical": "鄗",
+        "modern": "河北省柏乡县一带"
+      },
+      "coords": {
+        "lng": 114.69,
+        "lat": 37.48,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河北"
+      },
+      "notes": "光武鄗南称帝地（史载）"
+    },
+    "he-long": {
+      "id": "he-long",
+      "names": {
+        "historical": "和龙",
+        "modern": "辽宁省朝阳市"
+      },
+      "coords": {
+        "lng": 120.45,
+        "lat": 41.57,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "辽西"
+      },
+      "notes": "北燕都城，太延二年灭北燕"
     },
     "hexi": {
       "id": "hexi",
@@ -91,6 +363,118 @@
       },
       "notes": "武帝河西经营示意点"
     },
+    "huai-nan": {
+      "id": "huai-nan",
+      "names": {
+        "historical": "淮南",
+        "modern": "安徽省淮南、寿县一带（江淮之间）"
+      },
+      "coords": {
+        "lng": 117.0,
+        "lat": 32.6,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "江淮"
+      },
+      "notes": "周世宗三征南唐的主战场，江北十四州即在这一方向。"
+    },
+    "jian-kang": {
+      "id": "jian-kang",
+      "names": {
+        "historical": "建康",
+        "modern": "江苏省南京市"
+      },
+      "coords": {
+        "lng": 118.8,
+        "lat": 32.06,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江东"
+      },
+      "notes": ""
+    },
+    "jiang-du": {
+      "id": "jiang-du",
+      "names": {
+        "historical": "江都",
+        "modern": "江苏省扬州市"
+      },
+      "coords": {
+        "lng": 119.42,
+        "lat": 32.39,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "淮南"
+      },
+      "notes": ""
+    },
+    "jiang-ling": {
+      "id": "jiang-ling",
+      "names": {
+        "historical": "江陵",
+        "modern": "湖北省荆州市"
+      },
+      "coords": {
+        "lng": 112.19,
+        "lat": 30.35,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江汉"
+      },
+      "notes": "开皇七年后梁亡于此。"
+    },
+    "jiao-zhi": {
+      "id": "jiao-zhi",
+      "names": {
+        "historical": "交趾",
+        "modern": "越南北部（今河内一带示意）"
+      },
+      "coords": {
+        "lng": 105.85,
+        "lat": 21.03,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "岭南"
+      },
+      "notes": "马援平征侧事（史载）；坐标取交趾郡治附近示意"
+    },
+    "jin-ling": {
+      "id": "jin-ling",
+      "names": {
+        "historical": "金陵",
+        "modern": "江苏省南京市"
+      },
+      "coords": {
+        "lng": 118.8,
+        "lat": 32.06,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江东"
+      },
+      "notes": ""
+    },
+    "jing-hu": {
+      "id": "jing-hu",
+      "names": {
+        "historical": "荆湖",
+        "modern": "今湖北、湖南一带（示意点取江陵附近）"
+      },
+      "coords": {
+        "lng": 112.24,
+        "lat": 30.33,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "长江中游"
+      },
+      "notes": "963年宋平荆南、湖南，先南后北第一步；区域地名，坐标为示意。"
+    },
     "jinyang": {
       "id": "jinyang",
       "names": {
@@ -106,6 +490,38 @@
         "region": "河东"
       },
       "notes": "唐高祖起兵地；太宗相关"
+    },
+    "kai-feng": {
+      "id": "kai-feng",
+      "names": {
+        "historical": "开封（汴京）",
+        "modern": "河南省开封市"
+      },
+      "coords": {
+        "lng": 114.35,
+        "lat": 34.79,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "中原"
+      },
+      "notes": ""
+    },
+    "kun-yang": {
+      "id": "kun-yang",
+      "names": {
+        "historical": "昆阳",
+        "modern": "河南省叶县一带"
+      },
+      "coords": {
+        "lng": 113.36,
+        "lat": 33.62,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河南"
+      },
+      "notes": "昆阳之战发生地（史载）"
     },
     "liaodong": {
       "id": "liaodong",
@@ -123,6 +539,22 @@
       },
       "notes": "太宗东征方向示意"
     },
+    "lin-an": {
+      "id": "lin-an",
+      "names": {
+        "historical": "临安",
+        "modern": "浙江省杭州市"
+      },
+      "coords": {
+        "lng": 120.16,
+        "lat": 30.29,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江南"
+      },
+      "notes": "南宋都城，1276 年伯颜入城，宋廷降。"
+    },
     "luoyang": {
       "id": "luoyang",
       "names": {
@@ -139,6 +571,38 @@
       },
       "notes": "东都相关"
     },
+    "lv-lin": {
+      "id": "lv-lin",
+      "names": {
+        "historical": "绿林",
+        "modern": "湖北省京山市绿林镇一带（大洪山南麓）"
+      },
+      "coords": {
+        "lng": 113.0,
+        "lat": 31.3,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "荆襄"
+      },
+      "notes": "地皇三年绿林等兵起之地，绿林军由此得名"
+    },
+    "pan-yu": {
+      "id": "pan-yu",
+      "names": {
+        "historical": "番禺",
+        "modern": "今广东广州"
+      },
+      "coords": {
+        "lng": 113.26,
+        "lat": 23.13,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "岭南"
+      },
+      "notes": "971年宋灭南汉。"
+    },
     "pei-xian": {
       "id": "pei-xian",
       "names": {
@@ -154,6 +618,70 @@
         "region": "江淮"
       },
       "notes": "刘邦起兵地"
+    },
+    "ping-cheng": {
+      "id": "ping-cheng",
+      "names": {
+        "historical": "平城",
+        "modern": "山西省大同市"
+      },
+      "coords": {
+        "lng": 113.3,
+        "lat": 40.08,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "代北"
+      },
+      "notes": ""
+    },
+    "renshou-gong": {
+      "id": "renshou-gong",
+      "names": {
+        "historical": "仁寿宫",
+        "modern": "陕西省宝鸡市麟游县一带"
+      },
+      "coords": {
+        "lng": 107.79,
+        "lat": 34.68,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "关中"
+      },
+      "notes": "仁寿四年隋文帝崩于此宫。"
+    },
+    "san-chuan-kou": {
+      "id": "san-chuan-kou",
+      "names": {
+        "historical": "三川口",
+        "modern": "今陕西延安市西北一带（古战场确址有说）"
+      },
+      "coords": {
+        "lng": 109.3,
+        "lat": 36.75,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "西北"
+      },
+      "notes": "1040 年宋夏三川口之战古战场。"
+    },
+    "shang-du": {
+      "id": "shang-du",
+      "names": {
+        "historical": "上都",
+        "modern": "内蒙古自治区正蓝旗"
+      },
+      "coords": {
+        "lng": 116.17,
+        "lat": 42.36,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "漠南"
+      },
+      "notes": ""
     },
     "shaqiu": {
       "id": "shaqiu",
@@ -187,6 +715,22 @@
       },
       "notes": "武帝北边用兵示意点"
     },
+    "tai-cheng": {
+      "id": "tai-cheng",
+      "names": {
+        "historical": "台城",
+        "modern": "江苏省南京市（六朝宫城故址）"
+      },
+      "coords": {
+        "lng": 118.8,
+        "lat": 32.05,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江东"
+      },
+      "notes": "建康宫城；侯景之乱中梁武帝被困死于此。"
+    },
     "taishan": {
       "id": "taishan",
       "names": {
@@ -203,6 +747,118 @@
       },
       "notes": "封禅"
     },
+    "tong-ji-qu": {
+      "id": "tong-ji-qu",
+      "names": {
+        "historical": "通济渠",
+        "modern": "隋唐大运河通济渠段，今河南至安徽淮北一带（示意）"
+      },
+      "coords": {
+        "lng": 115.6,
+        "lat": 34.2,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "中原"
+      },
+      "notes": "大业元年开凿，沟通黄河与淮水，南北水运关键段（示意点）"
+    },
+    "tong-tai-si": {
+      "id": "tong-tai-si",
+      "names": {
+        "historical": "同泰寺",
+        "modern": "江苏省南京市（故址多比附今鸡鸣寺一带）"
+      },
+      "coords": {
+        "lng": 118.79,
+        "lat": 32.06,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "江东"
+      },
+      "notes": "梁武帝屡次舍身的寺院，在台城以北。"
+    },
+    "tong-wan": {
+      "id": "tong-wan",
+      "names": {
+        "historical": "统万",
+        "modern": "陕西省榆林市靖边县北（统万城遗址）"
+      },
+      "coords": {
+        "lng": 108.85,
+        "lat": 37.97,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "陕北"
+      },
+      "notes": "胡夏都城，太武帝始光四年攻取"
+    },
+    "wu-jiang-shan": {
+      "id": "wu-jiang-shan",
+      "names": {
+        "historical": "五将山",
+        "modern": "陕西省宝鸡市岐山县东北一带（约）"
+      },
+      "coords": {
+        "lng": 107.62,
+        "lat": 34.45,
+        "precision": "schematic"
+      },
+      "map": {
+        "region": "关中"
+      },
+      "notes": "苻坚败亡处（示意；史载西奔五将山一带，后为姚苌所害）"
+    },
+    "xia-zhou": {
+      "id": "xia-zhou",
+      "names": {
+        "historical": "夏州",
+        "modern": "陕西省榆林市靖边县北（统万城故址一带）"
+      },
+      "coords": {
+        "lng": 108.85,
+        "lat": 37.99,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "陕北"
+      },
+      "notes": "唐夏绥节度使治所；元和元年平杨惠琳。"
+    },
+    "xiang-guo": {
+      "id": "xiang-guo",
+      "names": {
+        "historical": "襄国",
+        "modern": "河北省邢台市"
+      },
+      "coords": {
+        "lng": 114.5,
+        "lat": 37.07,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "冀南"
+      },
+      "notes": ""
+    },
+    "xiang-yang": {
+      "id": "xiang-yang",
+      "names": {
+        "historical": "襄阳",
+        "modern": "湖北省襄阳市"
+      },
+      "coords": {
+        "lng": 112.14,
+        "lat": 32.04,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "华中"
+      },
+      "notes": "宋元之际与樊城隔汉水相望，合称襄樊，为元灭宋关键节点。"
+    },
     "xianyang": {
       "id": "xianyang",
       "names": {
@@ -218,6 +874,22 @@
         "region": "关中"
       },
       "notes": "秦都"
+    },
+    "xing-qing-fu": {
+      "id": "xing-qing-fu",
+      "names": {
+        "historical": "兴庆府",
+        "modern": "宁夏回族自治区银川市"
+      },
+      "coords": {
+        "lng": 106.27,
+        "lat": 38.47,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河套"
+      },
+      "notes": ""
     },
     "xinzheng": {
       "id": "xinzheng",
@@ -250,6 +922,38 @@
         "region": "关中"
       },
       "notes": "玄武门之变"
+    },
+    "ya-shan": {
+      "id": "ya-shan",
+      "names": {
+        "historical": "崖山",
+        "modern": "广东省江门市新会区南"
+      },
+      "coords": {
+        "lng": 113.05,
+        "lat": 22.27,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "岭南"
+      },
+      "notes": "1279 年崖山之战，宋亡。"
+    },
+    "ye-cheng": {
+      "id": "ye-cheng",
+      "names": {
+        "historical": "邺城",
+        "modern": "河北省临漳县"
+      },
+      "coords": {
+        "lng": 114.62,
+        "lat": 36.34,
+        "precision": "approximate"
+      },
+      "map": {
+        "region": "河北"
+      },
+      "notes": ""
     },
     "yinshan": {
       "id": "yinshan",
@@ -1585,7 +2289,7 @@
     {
       "id": "han-xuan-di",
       "tier": "emperor",
-      "sort_key": "西汉-010",
+      "sort_key": "汉-010",
       "names": {
         "display": "汉宣帝",
         "personal": "刘询",
@@ -1601,31 +2305,320 @@
       "reign": {
         "start": "-74",
         "end": "-49",
-        "eras": []
+        "eras": [
+          "本始",
+          "地节",
+          "神爵",
+          "五凤",
+          "甘露",
+          "黄龙"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": "-91",
+        "death": "-49",
+        "birth_place_id": "chang-an",
+        "death_place_id": "chang-an"
+      },
+      "summary": "以皇曾孙之身自民间入继大统，亲政后综核名实、信赏必罚，置西域都护并受呼韩邪单于入朝的西汉中兴之主。",
+      "tags": [
+        "中兴",
+        "吏治",
+        "综核名实",
+        "西域",
+        "匈奴入朝"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/han-xuan-di/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "史籍罕及形貌，传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/han-xuan-di.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "-91",
+          "date_note": "巫蛊后",
+          "title": "民间长养",
+          "summary": "巫蛊之祸后皇曾孙病已养于民间，后入掖庭，经历底层与宫廷边缘。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "-74",
+          "date_note": "元平元年",
+          "title": "霍光迎立",
+          "summary": "昌邑王废后，霍光等迎立皇曾孙即位，是为宣帝。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪",
+            "汉书·卷068·霍光传"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "-73",
+          "date_note": "本始元年",
+          "title": "本始改元",
+          "summary": "改元本始，霍氏仍掌权，帝隐忍积蓄。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "-68",
+          "date_note": "地节二年",
+          "title": "霍光薨逝",
+          "summary": "霍光死，宣帝逐步收回权柄，进入亲政前夜。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷068·霍光传"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "-66",
+          "date_note": "地节四年",
+          "title": "诛霍氏",
+          "summary": "霍禹等谋反事败，霍氏灭族，宣帝真正亲政，史称综核名实之始。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪",
+            "汉书·卷068·霍光传"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "-61",
+          "date_note": "神爵元年",
+          "title": "赵充国击羌",
+          "summary": "赵充国屯田破羌，西北边事为宣帝朝武功来源之一。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷069·赵充国传",
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "-60",
+          "date_note": "神爵二年",
+          "title": "西域都护",
+          "summary": "郑吉并护南北道，号都护，汉在西域制度化驻节。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷070·郑吉传",
+            "汉书·卷096·西域传"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "-54",
+          "date_note": "五凤四年",
+          "title": "匈奴内乱与边策",
+          "summary": "匈奴内讧，汉廷边策调整，为呼韩邪来朝铺垫。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷094·匈奴传",
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "-51",
+          "date_note": "甘露三年",
+          "title": "呼韩邪朝汉",
+          "summary": "呼韩邪单于入朝称臣，匈汉关系进入新阶段，边事叙事高峰。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪",
+            "汉书·卷094·匈奴传"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "-49",
+          "date_note": "黄龙元年",
+          "title": "宣帝崩",
+          "summary": "宣帝崩，元帝即位；昭宣积累的吏治与边防格局转入下一朝。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": null,
+          "date_note": "政风",
+          "title": "信赏必罚吏治",
+          "summary": "察吏严明、循名责实，与武帝开边路径对照。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": null,
+          "date_note": "施政总评",
+          "title": "综核名实",
+          "summary": "信赏必罚、察吏治、抑虚名，形成与武帝开边不同的收束型中兴路径。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷008·宣帝纪",
+            "资治通鉴·汉纪"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "昭帝崩、昌邑王废后迎立（昭帝页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "元帝（页待建）"
+        },
+        {
+          "type": "kinship",
+          "target_id": "han-wu-di",
+          "note": "曾祖；巫蛊之祸后以皇曾孙入继大统"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "e-han-guangwu",
+          "note": "昭宣中兴与光武中兴对读"
+        }
+      ],
+      "routes": [
+        {
+          "group": "流徙",
+          "order": 1,
+          "year": "-91",
+          "place_id": "chang-an",
+          "event": "民间长养"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "-74",
+          "place_id": "chang-an",
+          "event": "霍光迎立"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "-66",
+          "place_id": "chang-an",
+          "event": "诛霍氏亲政"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "-61",
+          "place_id": "hexi",
+          "event": "赵充国击羌"
+        },
+        {
+          "group": "其他",
+          "order": 5,
+          "year": "-60",
+          "place_id": "hexi",
+          "event": "西域都护始置"
+        },
+        {
+          "group": "都城",
+          "order": 6,
+          "year": "-51",
+          "place_id": "chang-an",
+          "event": "呼韩邪单于入朝"
+        }
+      ],
+      "sources": [
+        {
+          "title": "汉书·宣帝纪",
+          "note": "年表主据"
+        },
+        {
+          "title": "汉书·霍光传、赵充国传、郑吉传、匈奴传等",
+          "note": "列传互见"
+        },
+        {
+          "title": "资治通鉴·汉纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "汉书·卷008·宣帝纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "汉书·卷068·霍光传",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "汉书·卷094·匈奴传",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "西汉中兴之主，正史立纪，video-01 首批二十人之一。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 汉宣帝 · 主要事迹\n\n刘询以皇曾孙之身，在武帝末年的巫蛊之祸后养于民间、后入掖庭，从底层与宫廷边缘走入大统。这段早年经历使他「自民间来，知闾里奸邪、吏治得失」，成为理解其日后政风的钥匙。本页以《汉书·宣帝纪》为年表主线，辅以霍光、赵充国、郑吉、匈奴诸传与《资治通鉴》编年（本地参考库已备）。巫蛊之祸正是[[han-wu-di|汉武帝]]晚年宫廷震荡的余波，祖孙两朝可对读。\n\n他的即位本身是权臣政治的峰值：元平元年昭帝崩、昌邑王废后，霍光等迎立皇曾孙。本始改元之初霍氏仍掌权，帝隐忍积蓄；地节二年霍光薨，宣帝逐步收回权柄；地节四年霍禹等谋反事败、霍氏灭族，宣帝方真正亲政。从迎立到族诛，十年之间完成了皇权对权臣的收束。\n\n亲政之后的文治以「综核名实」为纲：信赏必罚、察吏严明、循名责实，形成与武帝开边不同的「收束型」中兴路径。「昭宣中兴」的评价口径历来不一，本图鉴取综核名实为主标签；霍光功过与宣帝权术，亦宜并读。\n\n武功与边事则另有一条线：神爵元年赵充国屯田破羌，神爵二年郑吉并护南北道、号都护，汉廷在西域制度化驻节，是武帝开拓在宣帝朝的制度落点。五凤年间匈奴内讧，汉廷边策随之调整；甘露三年呼韩邪单于入朝称臣，匈汉关系进入新阶段，构成昭宣气象的边事高峰。\n\n黄龙元年宣帝崩，元帝即位，昭宣积累的吏治与边防格局转入下一朝。与[[e-han-guangwu|汉光武帝]]对读：昭宣中兴与光武中兴，是重建帝国秩序的两条不同路径。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n刘询以皇曾孙之身，在武帝末年的巫蛊之祸后养于民间、后入掖庭，从底层与宫廷边缘走入大统。这段早年经历使他「自民间来，知闾里奸邪、吏治得失」，成为理解其日后政风的钥匙。本页以《汉书·宣帝纪》为年表主线，辅以霍光、赵充国、郑吉、匈奴诸传与《资治通鉴》编年（本地参考库已备）。巫蛊之祸正是"
+        },
+        {
+          "type": "link",
+          "id": "han-wu-di",
+          "label": "汉武帝"
+        },
+        {
+          "type": "text",
+          "value": "晚年宫廷震荡的余波，祖孙两朝可对读。\n\n他的即位本身是权臣政治的峰值：元平元年昭帝崩、昌邑王废后，霍光等迎立皇曾孙。本始改元之初霍氏仍掌权，帝隐忍积蓄；地节二年霍光薨，宣帝逐步收回权柄；地节四年霍禹等谋反事败、霍氏灭族，宣帝方真正亲政。从迎立到族诛，十年之间完成了皇权对权臣的收束。\n\n亲政之后的文治以「综核名实」为纲：信赏必罚、察吏严明、循名责实，形成与武帝开边不同的「收束型」中兴路径。「昭宣中兴」的评价口径历来不一，本图鉴取综核名实为主标签；霍光功过与宣帝权术，亦宜并读。\n\n武功与边事则另有一条线：神爵元年赵充国屯田破羌，神爵二年郑吉并护南北道、号都护，汉廷在西域制度化驻节，是武帝开拓在宣帝朝的制度落点。五凤年间匈奴内讧，汉廷边策随之调整；甘露三年呼韩邪单于入朝称臣，匈汉关系进入新阶段，构成昭宣气象的边事高峰。\n\n黄龙元年宣帝崩，元帝即位，昭宣积累的吏治与边防格局转入下一朝。与"
+        },
+        {
+          "type": "link",
+          "id": "e-han-guangwu",
+          "label": "汉光武帝"
+        },
+        {
+          "type": "text",
+          "value": "对读：昭宣中兴与光武中兴，是重建帝国秩序的两条不同路径。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/han-xuan-di.png"
     },
     {
       "id": "han-yuan-di",
@@ -1871,31 +2864,303 @@
       "reign": {
         "start": "9",
         "end": "23",
-        "eras": []
+        "eras": [
+          "始建国",
+          "天凤",
+          "地皇"
+        ]
       },
-      "summary": "新朝；是否入正式线可开关",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "23",
+        "birth_place_id": null,
+        "death_place_id": "chang-an"
+      },
+      "summary": "以外戚身份与儒学声望居摄代汉，建国号新并力行托古改制，终在边患与民变中迅速崩亡的争议之主。",
+      "tags": [
+        "托古改制",
+        "符命禅让",
+        "新朝",
+        "速亡"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/xin-wang-mang/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/xin-wang-mang.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "1",
+          "date_note": "元始中",
+          "title": "安汉公",
+          "summary": "以外戚与儒学声望累迁，受封安汉公，掌控朝政。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "6",
+          "date_note": "居摄元年",
+          "title": "居摄称制",
+          "summary": "平帝死后立孺子婴，居摄行周公故事，加号假皇帝。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "8",
+          "date_note": "初始元年",
+          "title": "符命劝进",
+          "summary": "符命与禅让舆论密集，为代汉制造合法性。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "9",
+          "date_note": "始建国元年",
+          "title": "代汉称帝",
+          "summary": "废孺子婴，建国号新，改元始建国。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "9",
+          "date_note": "始建国年间",
+          "title": "托古改制",
+          "summary": "行王田、禁奴婢，屡改货币官名，托《周礼》等经典，社会震荡剧烈。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "10",
+          "date_note": "始建国二年",
+          "title": "五均六筦",
+          "summary": "设五均赊贷等，经济管制加深社会震荡。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "15",
+          "date_note": "天凤二年",
+          "title": "匈奴战事恶化",
+          "summary": "与匈奴关系破裂，边费与兵祸加剧。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099",
+            "汉书·卷094"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "17",
+          "date_note": "天凤中",
+          "title": "绿林赤眉",
+          "summary": "民变蜂起，绿林、赤眉等起兵，新朝控制力崩解。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传",
+            "后汉书·卷011"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "22",
+          "date_note": "地皇三年",
+          "title": "绿林新市兵起",
+          "summary": "荆州绿林等大起，新朝地方失控。",
+          "place_id": "lv-lin",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099",
+            "后汉书·刘玄传"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "23",
+          "date_note": "地皇四年",
+          "title": "昆阳新败",
+          "summary": "新军大败于昆阳，洛阳等地动摇，新朝军事崩溃。",
+          "place_id": "kun-yang",
+          "related_person_ids": [
+            "e-han-guangwu"
+          ],
+          "sources": [
+            "后汉书·卷001·光武帝纪",
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "23",
+          "date_note": "地皇四年",
+          "title": "更始入关前夜",
+          "summary": "昆阳败后更始政权进逼，长安将溃。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099",
+            "后汉书·光武纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "23",
+          "date_note": "地皇四年",
+          "title": "渐台之死",
+          "summary": "更始军入长安，王莽死于渐台，新亡。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "汉书·卷099·王莽传"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "kinship",
+          "target_id": null,
+          "note": "姑母王政君为元帝皇后，外戚路径由此开启（页待建）"
+        },
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "居摄年间所立孺子婴，始建国元年废之代汉（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "更始帝刘玄（页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": "e-han-guangwu",
+          "note": "昆阳之败与终局对手，新亡汉兴"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "1",
+          "place_id": "chang-an",
+          "event": "安汉公"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "6",
+          "place_id": "chang-an",
+          "event": "居摄称制"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "9",
+          "place_id": "chang-an",
+          "event": "代汉称帝"
+        },
+        {
+          "group": "其他",
+          "order": 4,
+          "year": "22",
+          "place_id": "lv-lin",
+          "event": "绿林新市兵起"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "23",
+          "place_id": "kun-yang",
+          "event": "昆阳新败"
+        },
+        {
+          "group": "都城",
+          "order": 6,
+          "year": "23",
+          "place_id": "chang-an",
+          "event": "渐台之死"
+        }
+      ],
+      "sources": [
+        {
+          "title": "汉书·王莽传",
+          "note": "年表主据"
+        },
+        {
+          "title": "后汉书·光武帝纪",
+          "note": "昆阳与终局对照"
+        },
+        {
+          "title": "资治通鉴·汉纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "汉书·卷099·王莽传",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "后汉书·卷001·光武帝纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "新朝；是否入正式线可开关"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "两汉之际关键转折人物，新朝建立者，准帝王线收入。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 新朝王莽 · 主要事迹\n\n王莽是两汉之际几乎绕不开的枢纽人物：他以外戚身份登上权力顶峰，亲手终结西汉，又以一场托古改制把新朝推向速亡。本页以《汉书·王莽传》为年表主线，辅以《后汉书·光武帝纪》与《资治通鉴》编年（本地参考库已备）。\n\n他的上升路径以儒入局。姑母王政君为汉元帝皇后，王莽凭外戚身份与儒学声望累迁，元始年间受封安汉公、掌控朝政。平帝死后，他立孺子婴而居摄，行周公故事，加号假皇帝；初始元年符命、禅让舆论密集，为代汉铺平合法性。始建国元年（公元9年），他废孺子婴，建国号新。\n\n称帝之后，他托《周礼》等经典力行改制：行王田、禁奴婢，屡改货币与官名，又设五均六筦加深经济管制，社会震荡剧烈；对外与匈奴关系破裂，边费与兵祸并起。制度蓝图的气象与现实承受的代价之间，裂缝迅速扩大。\n\n天凤年间，绿林、赤眉等民变蜂起，新朝控制力崩解；地皇三年荆州绿林大起，地方失控。地皇四年，新军大败于昆阳，更始政权随即进逼，长安陷落，王莽死于渐台，新朝十四年而亡。\n\n与[[e-han-guangwu|汉光武帝]]对读：一人以符命禅让取天下而骤亡，一人于昆阳兴起而重建汉室。王莽的评价长期在「篡贼」与「理想主义改革者」两极之间摆动；本项目月旦取负，但其改制的讨论价值仍留待后效。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n王莽是两汉之际几乎绕不开的枢纽人物：他以外戚身份登上权力顶峰，亲手终结西汉，又以一场托古改制把新朝推向速亡。本页以《汉书·王莽传》为年表主线，辅以《后汉书·光武帝纪》与《资治通鉴》编年（本地参考库已备）。\n\n他的上升路径以儒入局。姑母王政君为汉元帝皇后，王莽凭外戚身份与儒学声望累迁，元始年间受封安汉公、掌控朝政。平帝死后，他立孺子婴而居摄，行周公故事，加号假皇帝；初始元年符命、禅让舆论密集，为代汉铺平合法性。始建国元年（公元9年），他废孺子婴，建国号新。\n\n称帝之后，他托《周礼》等经典力行改制：行王田、禁奴婢，屡改货币与官名，又设五均六筦加深经济管制，社会震荡剧烈；对外与匈奴关系破裂，边费与兵祸并起。制度蓝图的气象与现实承受的代价之间，裂缝迅速扩大。\n\n天凤年间，绿林、赤眉等民变蜂起，新朝控制力崩解；地皇三年荆州绿林大起，地方失控。地皇四年，新军大败于昆阳，更始政权随即进逼，长安陷落，王莽死于渐台，新朝十四年而亡。\n\n与"
+        },
+        {
+          "type": "link",
+          "id": "e-han-guangwu",
+          "label": "汉光武帝"
+        },
+        {
+          "type": "text",
+          "value": "对读：一人以符命禅让取天下而骤亡，一人于昆阳兴起而重建汉室。王莽的评价长期在「篡贼」与「理想主义改革者」两极之间摆动；本项目月旦取负，但其改制的讨论价值仍留待后效。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/xin-wang-mang.png"
     },
     {
       "id": "e-han-guangwu",
@@ -1916,31 +3181,329 @@
       "reign": {
         "start": "25",
         "end": "57",
-        "eras": []
+        "eras": [
+          "建武",
+          "中元"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "57",
+        "birth_place_id": null,
+        "death_place_id": "luoyang"
+      },
+      "summary": "新末起兵、昆阳破新，重建汉室而定都洛阳，以柔道治国、封禅告成的中兴开国皇帝。",
+      "tags": [
+        "中兴",
+        "起兵",
+        "柔道",
+        "度田",
+        "封禅"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/e-han-guangwu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/e-han-guangwu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "22",
+          "date_note": "地皇三年",
+          "title": "舂陵起兵",
+          "summary": "与宗室宾客起兵于舂陵，卷入反新浪潮。",
+          "place_id": "chong-ling",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "23",
+          "date_note": "地皇四年",
+          "title": "昆阳之战",
+          "summary": "以少击众大破新军于昆阳，奠定刘秀军事声望。",
+          "place_id": "kun-yang",
+          "related_person_ids": [
+            "xin-wang-mang"
+          ],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "24",
+          "date_note": "更始中",
+          "title": "定河北",
+          "summary": "渡河经营河北，收揽人才，与更始政权渐行渐远。",
+          "place_id": "handan",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "25",
+          "date_note": "建武元年",
+          "title": "鄗南称帝",
+          "summary": "即皇帝位，建元建武，东汉开始。",
+          "place_id": "hao",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "25",
+          "date_note": "建武元年",
+          "title": "定都洛阳",
+          "summary": "都洛阳，东汉政治中心确立。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "26",
+          "date_note": "建武二年",
+          "title": "封功臣",
+          "summary": "大封功臣，云台班底成形。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001",
+            "后汉书·卷022"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "30",
+          "date_note": "建武六年",
+          "title": "度田令",
+          "summary": "度田检核田亩户口，引发地方反抗与政策调整。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "36",
+          "date_note": "建武十二年",
+          "title": "统一大致完成",
+          "summary": "平公孙述等，全国粗定，中兴局面落定。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "40",
+          "date_note": "建武十六年",
+          "title": "交趾征侧平",
+          "summary": "马援等平交趾，南疆叙事。",
+          "place_id": "jiao-zhi",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001",
+            "后汉书·马援传"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "56",
+          "date_note": "中元元年",
+          "title": "封禅泰山",
+          "summary": "中元封禅，中兴礼仪高峰（翌年崩）。",
+          "place_id": "taishan",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "57",
+          "date_note": "中元二年",
+          "title": "光武崩",
+          "summary": "崩于洛阳，明帝继位，东汉国祚延续。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "undated",
+          "date_note": "建武年间",
+          "title": "柔道与退功臣",
+          "summary": "崇尚柔道、退功臣进文吏，云台图像功臣而不使揽政，塑造中兴政风。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "后汉书·卷001·光武帝纪",
+            "后汉书·卷022"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "rival",
+          "target_id": "xin-wang-mang",
+          "note": "新末对手，昆阳大破新军主力"
+        },
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "更始帝（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "汉明帝（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "han-gao-zu",
+          "note": "开国与中兴，国号续汉的长线对照"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "han-wu-di",
+          "note": "封禅与帝国礼仪的中兴对极盛对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "亲征",
+          "order": 1,
+          "year": "22",
+          "place_id": "chong-ling",
+          "event": "舂陵起兵"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "23",
+          "place_id": "kun-yang",
+          "event": "昆阳之战"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "24",
+          "place_id": "handan",
+          "event": "定河北"
+        },
+        {
+          "group": "都城",
+          "order": 4,
+          "year": "25",
+          "place_id": "hao",
+          "event": "鄗南称帝"
+        },
+        {
+          "group": "迁都",
+          "order": 5,
+          "year": "25",
+          "place_id": "luoyang",
+          "event": "定都洛阳"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "40",
+          "place_id": "jiao-zhi",
+          "event": "交趾征侧平"
+        },
+        {
+          "group": "巡狩",
+          "order": 7,
+          "year": "56",
+          "place_id": "taishan",
+          "event": "封禅泰山"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "57",
+          "place_id": "luoyang",
+          "event": "光武崩"
+        }
+      ],
+      "sources": [
+        {
+          "title": "后汉书·光武帝纪",
+          "note": "年表主据"
+        },
+        {
+          "title": "后汉书·卷022 / 马援传",
+          "note": "互见"
+        },
+        {
+          "title": "资治通鉴·汉纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "后汉书·卷001·光武帝纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "后汉书·卷022 / 马援传",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "东汉开国皇帝，光武中兴，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 汉光武帝 · 主要事迹\n\n刘秀是新末乱世中重建汉室的中兴之主。本页以《后汉书·光武帝纪》为年表主线，辅以云台诸将与马援诸传互见（本地参考库已备）。\n\n新莽地皇三年（22），他随宗室宾客起兵于舂陵，卷入反新浪潮；次年昆阳之战以少击众，大破[[xin-wang-mang|王莽]]新军主力，一举奠定军事声望。更始年间，他渡河经营河北，收揽人才，与更始政权渐行渐远；建武元年（25）于鄗南即皇帝位，建元建武，国号续汉，随即定都洛阳，东汉政治中心由此确立。\n\n建国之后，他一面收束武功，一面塑造政风。建武二年大封功臣，云台班底成形；建武十二年平公孙述等，全国粗定，中兴局面落定；建武十六年，马援等平交趾，武功延伸至南疆。文治一面，他崇尚柔道、退功臣进文吏，云台图像功臣而不使揽政；建武六年推行度田，检核田亩户口，曾引发地方反抗与政策调整，成为其治世中争议最集中的节点。\n\n晚年，他于中元元年（56）封禅泰山，中兴礼仪达于高峰，可与[[han-wu-di|汉武帝]]的封禅对读：一人把统一帝国的武功与礼仪推向极盛，一人在废墟之后以此告成功于天地。翌年（中元二年，57）他崩于洛阳，明帝继位，东汉国祚得以延续。史家评点多聚焦于「柔道」与度田之争，总体月旦正面。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n刘秀是新末乱世中重建汉室的中兴之主。本页以《后汉书·光武帝纪》为年表主线，辅以云台诸将与马援诸传互见（本地参考库已备）。\n\n新莽地皇三年（22），他随宗室宾客起兵于舂陵，卷入反新浪潮；次年昆阳之战以少击众，大破"
+        },
+        {
+          "type": "link",
+          "id": "xin-wang-mang",
+          "label": "王莽"
+        },
+        {
+          "type": "text",
+          "value": "新军主力，一举奠定军事声望。更始年间，他渡河经营河北，收揽人才，与更始政权渐行渐远；建武元年（25）于鄗南即皇帝位，建元建武，国号续汉，随即定都洛阳，东汉政治中心由此确立。\n\n建国之后，他一面收束武功，一面塑造政风。建武二年大封功臣，云台班底成形；建武十二年平公孙述等，全国粗定，中兴局面落定；建武十六年，马援等平交趾，武功延伸至南疆。文治一面，他崇尚柔道、退功臣进文吏，云台图像功臣而不使揽政；建武六年推行度田，检核田亩户口，曾引发地方反抗与政策调整，成为其治世中争议最集中的节点。\n\n晚年，他于中元元年（56）封禅泰山，中兴礼仪达于高峰，可与"
+        },
+        {
+          "type": "link",
+          "id": "han-wu-di",
+          "label": "汉武帝"
+        },
+        {
+          "type": "text",
+          "value": "的封禅对读：一人把统一帝国的武功与礼仪推向极盛，一人在废墟之后以此告成功于天地。翌年（中元二年，57）他崩于洛阳，明帝继位，东汉国祚得以延续。史家评点多聚焦于「柔道」与度田之争，总体月旦正面。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/e-han-guangwu.png"
     },
     {
       "id": "e-han-ming",
@@ -4381,7 +5944,9 @@
         "personal": "萧衍",
         "temple": null,
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "同泰天子"
+        ]
       },
       "dynasty": {
         "id": "liang",
@@ -4391,31 +5956,324 @@
       "reign": {
         "start": "502",
         "end": "549",
-        "eras": []
+        "eras": [
+          "天监",
+          "普通",
+          "大通",
+          "中大通",
+          "大同",
+          "中大同",
+          "太清"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "549",
+        "birth_place_id": null,
+        "death_place_id": "tai-cheng"
+      },
+      "summary": "在位近半个世纪，兴文教、崇佛法，成南朝文化高峰，晚年纳侯景而困死台城的梁朝开国皇帝。",
+      "tags": [
+        "开国",
+        "文治",
+        "崇佛",
+        "侯景之乱"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/liang-wu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/liang-wu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "501",
+          "date_note": "中兴元年",
+          "title": "起兵建康",
+          "summary": "自襄阳东下攻入建康，掌控南齐残局。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷001·武帝纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "502",
+          "date_note": "天监元年",
+          "title": "受禅建梁",
+          "summary": "齐禅于梁，萧衍即帝位，梁朝建立。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷001·武帝纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "502",
+          "date_note": "天监元年",
+          "title": "置五经博士等",
+          "summary": "开国文教措置，梁武前半文治基础。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷001–002"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "514",
+          "date_note": "天监十三年",
+          "title": "作浮山堰",
+          "summary": "堰淮攻魏，工程巨大而争议。",
+          "place_id": "fu-shan-yan",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷002",
+            "南史·梁本纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "527",
+          "date_note": "大通元年",
+          "title": "同泰寺开基叙事",
+          "summary": "同泰佛事升级，舍身前史。",
+          "place_id": "tong-tai-si",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "527",
+          "date_note": "大通元年等",
+          "title": "舍身同泰",
+          "summary": "数次舍身同泰寺，群臣以钱奉赎，佛事与财政绑定，成史著名场面。",
+          "place_id": "tong-tai-si",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003·武帝纪",
+            "南史·梁本纪中"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "547",
+          "date_note": "太清元年",
+          "title": "侯景来降决策",
+          "summary": "纳降争论，战略误判前奏。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003",
+            "梁书·侯景传"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "548",
+          "date_note": "太清二年",
+          "title": "台城被围",
+          "summary": "侯景围台城，梁政崩溃。",
+          "place_id": "tai-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "548",
+          "date_note": "太清二年",
+          "title": "纳侯景",
+          "summary": "接受侯景，旋即爆发侯景之乱，建康遭灾。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003·武帝纪",
+            "梁书·卷056·侯景传"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "549",
+          "date_note": "太清三年",
+          "title": "台城饿死",
+          "summary": "台城陷后，武帝被制，忧愤饥病而崩。",
+          "place_id": "tai-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003·武帝纪",
+            "南史·梁本纪中"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "549",
+          "date_note": "太清三年",
+          "title": "简文继位对照",
+          "summary": "武帝崩后简文立，侯景仍控建康。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·简文帝纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": null,
+          "date_note": "天监–大同",
+          "title": "文化全盛",
+          "summary": "长年安定，文学、佛学、礼乐兴盛，南朝文化高峰之一。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "梁书·卷003·武帝纪",
+            "南史·梁本纪"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "齐和帝萧宝融——受其禅让建梁（qi-he，页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "简文帝萧纲——侯景控制下继位（liang-jianwen，页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "侯景——纳降致乱，台城之祸（非帝王，不入索引）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "n-wei-xiaowen",
+          "note": "南北朝文治对读：北魏汉化与梁朝文化高峰"
+        }
+      ],
+      "routes": [
+        {
+          "group": "起兵",
+          "order": 1,
+          "year": "501",
+          "place_id": "jian-kang",
+          "event": "起兵建康（自襄阳东下）"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "502",
+          "place_id": "jian-kang",
+          "event": "受禅建梁"
+        },
+        {
+          "group": "其他",
+          "order": 3,
+          "year": "514",
+          "place_id": "fu-shan-yan",
+          "event": "作浮山堰"
+        },
+        {
+          "group": "都城",
+          "order": 4,
+          "year": "527",
+          "place_id": "tong-tai-si",
+          "event": "同泰寺开基"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "527",
+          "place_id": "tong-tai-si",
+          "event": "舍身同泰"
+        },
+        {
+          "group": "都城",
+          "order": 6,
+          "year": "548",
+          "place_id": "tai-cheng",
+          "event": "台城被围"
+        },
+        {
+          "group": "都城",
+          "order": 7,
+          "year": "548",
+          "place_id": "jian-kang",
+          "event": "纳侯景"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "549",
+          "place_id": "tai-cheng",
+          "event": "台城饿死"
+        }
+      ],
+      "sources": [
+        {
+          "title": "梁书·武帝纪（卷001–003）",
+          "note": "年表主据（A 级）"
+        },
+        {
+          "title": "南史·梁本纪",
+          "note": "互见（B 级）"
+        },
+        {
+          "title": "资治通鉴·梁纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "梁书·卷001–003·武帝纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "梁书·卷056·侯景传",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "南史·梁本纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "南朝梁开国皇帝，正史立纪；前半文治高峰、后半佞佛与侯景之乱，为南朝史转折点。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 梁武帝 · 主要事迹\n\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定，\"同泰天子\"的称号由此而来。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与[[n-wei-xiaowen|北魏孝文帝]]对读：一北一南，一个以汉化改革重铸北魏，一个以文教与佛事撑起南朝文化高峰；而台城之困，则为南朝由盛转衰写下注脚。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定，\"同泰天子\"的称号由此而来。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与"
+        },
+        {
+          "type": "link",
+          "id": "n-wei-xiaowen",
+          "label": "北魏孝文帝"
+        },
+        {
+          "type": "text",
+          "value": "对读：一北一南，一个以汉化改革重铸北魏，一个以文教与佛事撑起南朝文化高峰；而台城之困，则为南朝由盛转衰写下注脚。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/liang-wu.png"
     },
     {
       "id": "liang-jianwen",
@@ -4919,9 +6777,11 @@
       "names": {
         "display": "太武帝",
         "personal": "拓跋焘",
-        "temple": null,
-        "posthumous": null,
-        "aliases": []
+        "temple": "世祖",
+        "posthumous": "太武皇帝",
+        "aliases": [
+          "魏世祖"
+        ]
       },
       "dynasty": {
         "id": "n-wei",
@@ -4931,31 +6791,309 @@
       "reign": {
         "start": "423",
         "end": "452",
-        "eras": []
+        "eras": [
+          "始光",
+          "神䴥",
+          "太延",
+          "太平真君",
+          "正平"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "452",
+        "birth_place_id": null,
+        "death_place_id": "ping-cheng"
+      },
+      "summary": "以铁骑灭胡夏、北燕、北凉而统一北方，又南征临江、晚年灭佛，武功极盛而终被近侍所弑的北魏皇帝。",
+      "tags": [
+        "统一北方",
+        "亲征",
+        "灭佛",
+        "南北对峙"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/n-wei-taiwu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/n-wei-taiwu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "423",
+          "date_note": "始光元年",
+          "title": "即位",
+          "summary": "明元帝崩，焘即位，北魏进入扩张高峰。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "424",
+          "date_note": "始光元年",
+          "title": "改元与亲征开局",
+          "summary": "即位后改元更始，朝廷人事随新主调整，北魏扩张加速。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "427",
+          "date_note": "始光四年",
+          "title": "取统万",
+          "summary": "攻取胡夏都城统万，灭夏关键一战。",
+          "place_id": "tong-wan",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "431",
+          "date_note": "神䴥四年",
+          "title": "灭胡夏",
+          "summary": "灭赫连夏，取关中。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "436",
+          "date_note": "太延二年",
+          "title": "灭北燕",
+          "summary": "灭冯氏北燕，辽西归魏。",
+          "place_id": "he-long",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "439",
+          "date_note": "太延五年",
+          "title": "凉州平",
+          "summary": "兵至姑臧，凉州平定。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "439",
+          "date_note": "太延五年",
+          "title": "灭北凉",
+          "summary": "灭沮渠北凉，北方统一于北魏，十六国阶段落幕。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "444",
+          "date_note": "太平真君五年起",
+          "title": "真君灭佛",
+          "summary": "太平真君年间禁佛毁寺，宗教政策极端化。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪",
+            "魏书·释老志"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "445",
+          "date_note": "太平真君六年",
+          "title": "盖吴起兵",
+          "summary": "关中盖吴反，魏军镇压。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "446",
+          "date_note": "太平真君七年",
+          "title": "诏诸州坑沙门",
+          "summary": "灭佛政策达于高峰。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·释老志",
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "450",
+          "date_note": "太平真君十一年",
+          "title": "南征瓜步",
+          "summary": "大举南征刘宋，至瓜步，与宋文帝隔江对峙，威震而未能定南。",
+          "place_id": "gua-bu",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪",
+            "宋书·文帝纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "452",
+          "date_note": "正平二年",
+          "title": "被弑",
+          "summary": "为中常侍宗爱所弑，北魏政局动荡。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷004·世祖纪"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "明元帝拓跋嗣，父崩而即位（页待建）"
+        },
+        {
+          "type": "kinship",
+          "target_id": "n-wei-xiaowen",
+          "note": "后辈孝文帝，汉化后续"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "南征刘宋至瓜步，与宋文帝隔江对峙（页待建）"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "423",
+          "place_id": "ping-cheng",
+          "event": "即位"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "427",
+          "place_id": "tong-wan",
+          "event": "取统万"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "431",
+          "place_id": "chang-an",
+          "event": "灭胡夏取关中"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "436",
+          "place_id": "he-long",
+          "event": "灭北燕"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "439",
+          "place_id": "hexi",
+          "event": "凉州平、灭北凉"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "445",
+          "place_id": "chang-an",
+          "event": "镇压盖吴"
+        },
+        {
+          "group": "亲征",
+          "order": 7,
+          "year": "450",
+          "place_id": "gua-bu",
+          "event": "南征至瓜步"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "452",
+          "place_id": "ping-cheng",
+          "event": "被弑"
+        }
+      ],
+      "sources": [
+        {
+          "title": "魏书·世祖纪（卷004）",
+          "note": "年表主据"
+        },
+        {
+          "title": "魏书·释老志",
+          "note": "灭佛互见"
+        },
+        {
+          "title": "宋书·文帝纪",
+          "note": "南伐对照"
+        },
+        {
+          "title": "魏书·卷004·世祖纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "魏书·释老志",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "北魏统一北方、十六国落幕的关键皇帝，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 太武帝 · 主要事迹\n\n拓跋焘是北魏第三位皇帝。始光元年（423）明元帝崩，他即位于平城，在位二十九年，北魏自此进入扩张高峰。本页以《魏书·世祖纪》为年表主线，灭佛诸事互见《魏书·释老志》。\n\n他的武功是本纪最硬的一条线：始光四年（427）攻取胡夏都城统万，神䴥四年（431）灭赫连夏、取关中，太延二年（436）灭冯氏北燕、辽西归魏，太延五年（439）兵至姑臧、灭沮渠北凉。至此北方统一于北魏，十六国阶段落幕。\n\n武功之外，内政与宗教政策同样醒目。太平真君六年（445）关中盖吴起兵，魏军镇压；而自太平真君五年（444）起，朝廷禁佛毁寺，至七年（446）诏诸州坑沙门，灭佛政策达于高峰。档案将崔浩、寇谦之列为其宗教转向的关联人物，这也是后世评价中争议最集中的一面。\n\n太平真君十一年（450），他大举南征刘宋，兵锋直抵长江北岸的瓜步，与宋文帝隔江对峙，威震江淮而终未能定南。正平二年（452），他在平城为中常侍宗爱所弑，北魏政局随之动荡。\n\n对读线索：与身后的[[n-wei-xiaowen|孝文帝]]对读，可见北魏从铁骑扩张到汉化改制的长线转向；武功极盛与灭佛、被弑的终局并置，正是这位皇帝月旦中性偏负的原因。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n拓跋焘是北魏第三位皇帝。始光元年（423）明元帝崩，他即位于平城，在位二十九年，北魏自此进入扩张高峰。本页以《魏书·世祖纪》为年表主线，灭佛诸事互见《魏书·释老志》。\n\n他的武功是本纪最硬的一条线：始光四年（427）攻取胡夏都城统万，神䴥四年（431）灭赫连夏、取关中，太延二年（436）灭冯氏北燕、辽西归魏，太延五年（439）兵至姑臧、灭沮渠北凉。至此北方统一于北魏，十六国阶段落幕。\n\n武功之外，内政与宗教政策同样醒目。太平真君六年（445）关中盖吴起兵，魏军镇压；而自太平真君五年（444）起，朝廷禁佛毁寺，至七年（446）诏诸州坑沙门，灭佛政策达于高峰。档案将崔浩、寇谦之列为其宗教转向的关联人物，这也是后世评价中争议最集中的一面。\n\n太平真君十一年（450），他大举南征刘宋，兵锋直抵长江北岸的瓜步，与宋文帝隔江对峙，威震江淮而终未能定南。正平二年（452），他在平城为中常侍宗爱所弑，北魏政局随之动荡。\n\n对读线索：与身后的"
+        },
+        {
+          "type": "link",
+          "id": "n-wei-xiaowen",
+          "label": "孝文帝"
+        },
+        {
+          "type": "text",
+          "value": "对读，可见北魏从铁骑扩张到汉化改制的长线转向；武功极盛与灭佛、被弑的终局并置，正是这位皇帝月旦中性偏负的原因。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "n-wei-wencheng",
@@ -5054,9 +7192,12 @@
       "names": {
         "display": "孝文帝",
         "personal": "元宏",
-        "temple": null,
-        "posthumous": null,
-        "aliases": []
+        "temple": "高祖",
+        "posthumous": "孝文皇帝",
+        "aliases": [
+          "拓跋宏",
+          "魏高祖"
+        ]
       },
       "dynasty": {
         "id": "n-wei",
@@ -5066,31 +7207,293 @@
       "reign": {
         "start": "471",
         "end": "499",
-        "eras": []
+        "eras": [
+          "延兴",
+          "承明",
+          "太和"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "499",
+        "birth_place_id": null,
+        "death_place_id": null
+      },
+      "summary": "幼年即位，承太和新政之基，迁都洛阳、全面推行汉化改制，深刻重塑北魏并影响隋唐制度的皇帝。",
+      "tags": [
+        "汉化改革",
+        "迁都洛阳",
+        "均田制",
+        "改制"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/n-wei-xiaowen/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/n-wei-xiaowen.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "471",
+          "date_note": "延兴元年",
+          "title": "即位",
+          "summary": "幼年即位，冯太后临朝，太和改革铺垫。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007·高祖纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "476",
+          "date_note": "承明元年",
+          "title": "冯太后再临朝",
+          "summary": "文明太后执政高峰，改革铺垫。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007",
+            "魏书·皇后传"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "484",
+          "date_note": "太和八年",
+          "title": "班禄制",
+          "summary": "班禄酬廉，整顿吏治，太和新政重要一步。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007·高祖纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "485",
+          "date_note": "太和九年",
+          "title": "均田制",
+          "summary": "颁均田，影响隋唐田制讨论。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007",
+            "魏书·食货志"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "486",
+          "date_note": "太和十年",
+          "title": "三长制",
+          "summary": "立三长，基层组织改革。",
+          "place_id": "ping-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "493",
+          "date_note": "太和十七年",
+          "title": "迁都洛阳",
+          "summary": "以南伐为名迁都洛阳，北魏政治中心南移。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下·高祖纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "494",
+          "date_note": "太和十八年",
+          "title": "禁胡服胡语",
+          "summary": "禁鲜卑语、改服饰，推动朝臣汉化。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下·高祖纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "495",
+          "date_note": "太和十九年",
+          "title": "定族姓",
+          "summary": "定门阀族姓，士族化。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "496",
+          "date_note": "太和二十年",
+          "title": "太子恂废",
+          "summary": "反抗汉化的太子被废，改革代价。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "496",
+          "date_note": "太和二十年",
+          "title": "改姓元",
+          "summary": "拓跋改姓元，门阀化与汉姓改革。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下·高祖纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "497",
+          "date_note": "太和二十一年",
+          "title": "南伐襄阳线",
+          "summary": "持续南征，消耗国力。",
+          "place_id": "xiang-yang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "499",
+          "date_note": "太和二十三年",
+          "title": "南伐崩于军",
+          "summary": "南征途中崩，汉化路线由宣武等延续，亦埋六镇隐患。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "魏书·卷007下·高祖纪"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related_emperor",
+          "target_id": "n-wei-taiwu",
+          "note": "先统一后汉化的长线对照"
+        },
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "前任皇帝献文帝（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "汉化路线由宣武延续（页待建）"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "471",
+          "place_id": "ping-cheng",
+          "event": "即位"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "476",
+          "place_id": "ping-cheng",
+          "event": "冯太后再临朝"
+        },
+        {
+          "group": "迁都",
+          "order": 3,
+          "year": "493",
+          "place_id": "luoyang",
+          "event": "迁都洛阳"
+        },
+        {
+          "group": "都城",
+          "order": 4,
+          "year": "496",
+          "place_id": "luoyang",
+          "event": "太子恂废"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "497",
+          "place_id": "xiang-yang",
+          "event": "南伐襄阳线"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "499",
+          "place_id": "luoyang",
+          "event": "南伐崩于军，归葬洛阳"
+        }
+      ],
+      "sources": [
+        {
+          "title": "魏书·高祖纪（卷007上下）",
+          "note": "年表主据"
+        },
+        {
+          "title": "魏书·皇后传 / 食货志",
+          "note": "互见"
+        },
+        {
+          "title": "资治通鉴（对应年段）",
+          "note": "编年对照"
+        },
+        {
+          "title": "魏书·卷007·高祖纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "魏书·卷007下·高祖纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "北魏汉化改革的关键皇帝，正史立纪，video-01 民族融合主线代表。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 孝文帝 · 主要事迹\n\n元宏（本姓拓跋）是读南北朝史绕不开的改制枢纽。延兴元年（471）幼年即位于平城，前期由文明冯太后临朝主政；本页以《魏书·高祖纪》（卷007上下）为年表主线，辅以《魏书》皇后传、食货志互见与《资治通鉴》对应年段编年对照。\n\n太和年间，班禄制（太和八年）以禄酬廉、整顿吏治，均田制（太和九年）颁行并深远影响隋唐田制讨论，三长制（太和十年）重建基层组织——这套太和新政构成改革的制度骨架。\n\n太和十七年（493）以南伐为名迁都洛阳，北魏政治中心南移；随后禁胡服胡语、定门阀族姓、改拓跋为元姓，汉化全面铺开。改革代价同样清晰：太和二十年（496），反抗汉化的太子元恂被废，宫廷震荡。\n\n晚年持续南伐襄阳一线，消耗国力；太和二十三年（499）崩于南征军中，归葬洛阳。汉化路线由宣武延续，而激进改制与六镇矛盾的争议亦由此埋下。与[[n-wei-taiwu|太武帝]]对读：一先以武功完成北方统一，一以改制重塑王朝面貌——北魏的两副面孔在此分合。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n元宏（本姓拓跋）是读南北朝史绕不开的改制枢纽。延兴元年（471）幼年即位于平城，前期由文明冯太后临朝主政；本页以《魏书·高祖纪》（卷007上下）为年表主线，辅以《魏书》皇后传、食货志互见与《资治通鉴》对应年段编年对照。\n\n太和年间，班禄制（太和八年）以禄酬廉、整顿吏治，均田制（太和九年）颁行并深远影响隋唐田制讨论，三长制（太和十年）重建基层组织——这套太和新政构成改革的制度骨架。\n\n太和十七年（493）以南伐为名迁都洛阳，北魏政治中心南移；随后禁胡服胡语、定门阀族姓、改拓跋为元姓，汉化全面铺开。改革代价同样清晰：太和二十年（496），反抗汉化的太子元恂被废，宫廷震荡。\n\n晚年持续南伐襄阳一线，消耗国力；太和二十三年（499）崩于南征军中，归葬洛阳。汉化路线由宣武延续，而激进改制与六镇矛盾的争议亦由此埋下。与"
+        },
+        {
+          "type": "link",
+          "id": "n-wei-taiwu",
+          "label": "太武帝"
+        },
+        {
+          "type": "text",
+          "value": "对读：一先以武功完成北方统一，一以改制重塑王朝面貌——北魏的两副面孔在此分合。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/n-wei-xiaowen.png"
     },
     {
       "id": "n-wei-xuanwu",
@@ -6089,7 +8492,7 @@
       "names": {
         "display": "后赵高祖",
         "personal": "石勒",
-        "temple": null,
+        "temple": "高祖",
         "posthumous": null,
         "aliases": []
       },
@@ -6103,29 +8506,284 @@
         "end": "333",
         "eras": []
       },
-      "summary": "十六国",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "333",
+        "birth_place_id": null,
+        "death_place_id": "xiang-guo"
+      },
+      "summary": "从被掠卖为奴的羯人少年到开国称帝，都襄国、灭前赵而臣北方，十六国最具戏剧性的创业者。",
+      "tags": [
+        "十六国",
+        "开国",
+        "奴隶天子",
+        "胡汉分治"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/h-zhao-shi-le/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "羯人，史载重其雄略。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/h-zhao-shi-le.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "303",
+          "date_note": "约永兴前后",
+          "title": "被掠为奴",
+          "summary": "羯人石勒少时被掠卖为奴，后聚众起兵，是十六国最戏剧性的社会流动叙事。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷104·石勒载记"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "308",
+          "date_note": "永嘉前后",
+          "title": "依附汉赵",
+          "summary": "一度归刘渊、刘聪系统，在华北作战中积累实力。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷104·石勒载记"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "311",
+          "date_note": "永嘉五年",
+          "title": "攻陷洛阳相关",
+          "summary": "参与永嘉之乱后华北混战，军势坐大。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷104·石勒载记"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "319",
+          "date_note": "太兴二年",
+          "title": "襄国称赵",
+          "summary": "称赵王，都襄国，后赵政权成立，脱离前赵阴影。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷104·石勒载记"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "321",
+          "date_note": "太兴四年",
+          "title": "称大单于赵王进阶",
+          "summary": "名号与制度升格，后赵雏形稳固。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷104"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "328",
+          "date_note": "咸和三年",
+          "title": "洛阳大战前",
+          "summary": "与刘曜对峙升级，灭赵前夜。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "329",
+          "date_note": "咸和四年",
+          "title": "灭前赵",
+          "summary": "破刘曜，灭前赵，北方大部归后赵。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105·石勒载记"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "330",
+          "date_note": "咸和五年",
+          "title": "称帝",
+          "summary": "称皇帝，后赵帝制完备。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105·石勒载记"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": null,
+          "date_note": "在位",
+          "title": "胡汉分治与学校",
+          "summary": "设君子营、兴学校等，胡汉秩序探索。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": null,
+          "date_note": "在位间",
+          "title": "重用张宾",
+          "summary": "以张宾为谋主，兴学校、定制度，胡汉分治中有秩序建设。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105·石勒载记"
+          ],
+          "card_id": "E012"
+        },
+        {
+          "year": "333",
+          "date_note": "咸和八年",
+          "title": "遗命与石弘",
+          "summary": "勒崩前安排继承人，旋被石虎颠覆。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "333",
+          "date_note": "咸和八年",
+          "title": "石勒崩",
+          "summary": "勒崩，石弘继而石虎夺位，后赵政治迅速恶化。",
+          "place_id": "xiang-guo",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷105·石勒载记"
+          ],
+          "card_id": "E010"
+        }
+      ],
+      "relations": [
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "石弘继位，旋为石虎所夺（石虎页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "刘曜，前赵末主，329年为石勒所灭（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": null,
+          "note": "刘渊，石勒早年依附的汉赵开国之主（页待建）"
+        },
+        {
+          "type": "minister",
+          "target_id": null,
+          "note": "张宾，右侯、谋主（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "q-qin-fu-jian",
+          "note": "同为十六国时期胡人政权立国者的长线对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "亲征",
+          "order": 1,
+          "year": "311",
+          "place_id": "luoyang",
+          "event": "永嘉乱后华北混战，军势坐大"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "319",
+          "place_id": "xiang-guo",
+          "event": "称赵王，都襄国"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "328",
+          "place_id": "luoyang",
+          "event": "与刘曜对峙，洛阳决战前夜"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "329",
+          "place_id": "luoyang",
+          "event": "破刘曜，灭前赵"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "330",
+          "place_id": "xiang-guo",
+          "event": "称皇帝"
+        }
+      ],
+      "sources": [
+        {
+          "title": "晋书·石勒载记（卷104–105）",
+          "note": "年表主据"
+        },
+        {
+          "title": "资治通鉴·晋纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "晋书·卷104·石勒载记",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "晋书·卷105·石勒载记",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "十六国"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "后赵开国之主，奴隶到天子的十六国标志性人物，正史载记。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 后赵高祖 · 主要事迹\n\n石勒是羯人，少时约当西晋永兴前后被掠卖为奴，后来聚众起兵，最终登上帝位——从奴隶到天子的跨度，使他成为十六国史里最戏剧性的创业者。本页以《晋书》卷一百四至一百五石勒载记为年表主线，辅以《资治通鉴》编年（本地参考库已备）。\n\n创业之初，他一度归入刘渊、刘聪的汉赵系统，借汉赵旗帜在华北作战中积累实力。永嘉五年（311）洛阳陷落前后，他参与永嘉之乱后的华北混战，军势迅速坐大，成为割据一方的主力。\n\n太兴二年（319），石勒称赵王、都襄国，正式脱离前赵阴影，后赵政权由此成立；两年后进称大单于，名号与制度同步升格。咸和三年至四年（328–329），他与前赵末主刘曜在洛阳一线决战，破刘曜、灭前赵，北方大部归入后赵版图。咸和五年（330），他在襄国称皇帝，帝制完备，完成了从奴隶到天子的全过程。\n\n石勒并非只有武功。他以张宾为谋主，兴学校、定制度，设君子营安置士人，在胡汉分治的框架下做秩序建设的探索。需要注意，史籍中后赵的残暴记载多须区分石勒本人与其后继者石虎；对石勒本人，史家仍称其雄略。\n\n咸和八年（333），石勒崩于襄国。他生前安排的继承人石弘旋即为石虎所夺，后赵政治迅速恶化，国祚不长。与[[q-qin-fu-jian|前秦苻坚]]对读：同为十六国胡人政权的立国或中兴之主，一前一后，可见那个时代创业与治乱的不同路径。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n石勒是羯人，少时约当西晋永兴前后被掠卖为奴，后来聚众起兵，最终登上帝位——从奴隶到天子的跨度，使他成为十六国史里最戏剧性的创业者。本页以《晋书》卷一百四至一百五石勒载记为年表主线，辅以《资治通鉴》编年（本地参考库已备）。\n\n创业之初，他一度归入刘渊、刘聪的汉赵系统，借汉赵旗帜在华北作战中积累实力。永嘉五年（311）洛阳陷落前后，他参与永嘉之乱后的华北混战，军势迅速坐大，成为割据一方的主力。\n\n太兴二年（319），石勒称赵王、都襄国，正式脱离前赵阴影，后赵政权由此成立；两年后进称大单于，名号与制度同步升格。咸和三年至四年（328–329），他与前赵末主刘曜在洛阳一线决战，破刘曜、灭前赵，北方大部归入后赵版图。咸和五年（330），他在襄国称皇帝，帝制完备，完成了从奴隶到天子的全过程。\n\n石勒并非只有武功。他以张宾为谋主，兴学校、定制度，设君子营安置士人，在胡汉分治的框架下做秩序建设的探索。需要注意，史籍中后赵的残暴记载多须区分石勒本人与其后继者石虎；对石勒本人，史家仍称其雄略。\n\n咸和八年（333），石勒崩于襄国。他生前安排的继承人石弘旋即为石虎所夺，后赵政治迅速恶化，国祚不长。与"
+        },
+        {
+          "type": "link",
+          "id": "q-qin-fu-jian",
+          "label": "前秦苻坚"
+        },
+        {
+          "type": "text",
+          "value": "对读：同为十六国胡人政权的立国或中兴之主，一前一后，可见那个时代创业与治乱的不同路径。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/h-zhao-shi-le.png"
     },
     {
       "id": "h-zhao-shi-hu",
@@ -6359,7 +9017,7 @@
       "names": {
         "display": "前秦世祖",
         "personal": "苻坚",
-        "temple": null,
+        "temple": "世祖",
         "posthumous": null,
         "aliases": []
       },
@@ -6371,31 +9029,293 @@
       "reign": {
         "start": "357",
         "end": "385",
-        "eras": []
+        "eras": [
+          "永兴"
+        ]
       },
-      "summary": "十六国·淝水",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "385",
+        "birth_place_id": null,
+        "death_place_id": "wu-jiang-shan"
+      },
+      "summary": "任用王猛治国，灭前燕、前凉而统一北方，终因倾国伐晋败于淝水、国解身死的前秦君主。",
+      "tags": [
+        "十六国",
+        "王猛",
+        "统一北方",
+        "淝水之战"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/q-qin-fu-jian/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/q-qin-fu-jian.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "357",
+          "date_note": "永兴元年",
+          "title": "杀苻生即位",
+          "summary": "诛暴主苻生，即天王位，前秦进入苻坚时代。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "357",
+          "date_note": "永兴",
+          "title": "改元永兴",
+          "summary": "即位后改元永兴，前秦新政开场。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "undated",
+          "date_note": "在位前中期",
+          "title": "委任王猛",
+          "summary": "委任王猛整肃吏治、打击贵戚，前秦国力急升。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记（王猛附）"
+          ],
+          "card_id": "E012"
+        },
+        {
+          "year": "370",
+          "date_note": "太和五年",
+          "title": "王猛克邺",
+          "summary": "灭燕关键战役，王猛功高。",
+          "place_id": "ye-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记",
+            "晋书·王猛传"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "370",
+          "date_note": "太和五年",
+          "title": "灭前燕",
+          "summary": "灭前燕，北方统一进程加速。",
+          "place_id": "ye-cheng",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "376",
+          "date_note": "太元元年",
+          "title": "统一北方",
+          "summary": "灭前凉、代等，北方大体统一于前秦，版图臻于巅峰。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "376",
+          "date_note": "太元元年",
+          "title": "灭前凉",
+          "summary": "灭前凉，河西归前秦。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷113·苻坚载记"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "382",
+          "date_note": "太元七年",
+          "title": "朝议伐晋",
+          "summary": "淝水前朝议伐晋；王猛已卒，谏阻无力。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "383",
+          "date_note": "太元八年",
+          "title": "投鞭决策",
+          "summary": "决意南伐东晋，史载「投鞭于江，足断其流」一类豪语，倾国出兵。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "383",
+          "date_note": "太元八年",
+          "title": "淝水之战",
+          "summary": "淝水大败，前秦崩解，各族复起。",
+          "place_id": "fei-shui",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记",
+            "资治通鉴·晋纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "384",
+          "date_note": "太元九年",
+          "title": "慕容垂独立",
+          "summary": "淝水后慕容垂独立，燕秦瓦解。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "385",
+          "date_note": "太元十年",
+          "title": "苻坚败亡",
+          "summary": "西奔五将山一带，为姚苌所害，前秦迅速瓦解。",
+          "place_id": "wu-jiang-shan",
+          "related_person_ids": [],
+          "sources": [
+            "晋书·卷114·苻坚载记"
+          ],
+          "card_id": "E011"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "苻生（坚诛之即位，页待建）"
+        },
+        {
+          "type": "minister",
+          "target_id": null,
+          "note": "王猛（谋臣治世，非帝王不入索引）"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "慕容垂（淝水后独立，页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "姚苌（苻坚为其所害，页待建）"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "357",
+          "place_id": "chang-an",
+          "event": "杀苻生即位、改元永兴"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "370",
+          "place_id": "ye-cheng",
+          "event": "王猛克邺、灭前燕"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "376",
+          "place_id": "hexi",
+          "event": "灭前凉、统一北方"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "383",
+          "place_id": "fei-shui",
+          "event": "淝水之战"
+        },
+        {
+          "group": "流徙",
+          "order": 5,
+          "year": "385",
+          "place_id": "wu-jiang-shan",
+          "event": "西奔败亡"
+        }
+      ],
+      "sources": [
+        {
+          "title": "晋书·苻坚载记（卷113–114）",
+          "note": "年表主据"
+        },
+        {
+          "title": "晋书·王猛传",
+          "note": "治绩互见"
+        },
+        {
+          "title": "资治通鉴·晋纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "晋书·卷113·苻坚载记",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "晋书·卷114·苻坚载记",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "资治通鉴·晋纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "十六国·淝水"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "十六国准帝王，统一北方而败于淝水，正史载记，video-01 首批。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 前秦世祖 · 主要事迹\n\n苻坚（357—385 在位）是十六国时期最接近统一天下的前秦君主。永兴元年（357）他诛暴主苻生，即天王位，改元永兴，前秦由此进入苻坚时代。本页以《晋书·苻坚载记》（卷113–114）为年表主线，辅以《资治通鉴·晋纪》编年对照。\n\n即位之后，他把国政委于王猛。王猛整肃吏治、打击贵戚，前秦国力急升，构成苻坚一朝的文治底色。武功随之而起：太和五年（370）王猛克邺，前燕遂灭，北方统一进程加速；太元元年（376）再灭前凉，兼及代地，河西归于前秦，北方大体统一，版图臻于巅峰。\n\n巅峰之后是急转。太元七年（382）朝议伐晋，其时王猛已卒，谏阻无力；次年苻坚决意南伐，史载有「投鞭于江，足断其流」一类豪语，倾国出兵。太元八年（383）淝水一战大败于东晋谢安、谢玄一系，前秦由此崩解，各族复起。需要说明的是，「投鞭断流」语出记载的文学性颇浓，但南伐的战略责任归于苻坚本人，这一点仍成立。\n\n太元九年（384）慕容垂独立，燕秦瓦解；次年苻坚西奔五将山一带，为姚苌所害，前秦迅速瓦解。读苻坚，可与[[n-wei-taiwu|太武帝]]对读：两者皆以武力整合北方，一败于南征而国解，一再合北方而开启北朝，可见十六国北朝兴亡的节奏。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n苻坚（357—385 在位）是十六国时期最接近统一天下的前秦君主。永兴元年（357）他诛暴主苻生，即天王位，改元永兴，前秦由此进入苻坚时代。本页以《晋书·苻坚载记》（卷113–114）为年表主线，辅以《资治通鉴·晋纪》编年对照。\n\n即位之后，他把国政委于王猛。王猛整肃吏治、打击贵戚，前秦国力急升，构成苻坚一朝的文治底色。武功随之而起：太和五年（370）王猛克邺，前燕遂灭，北方统一进程加速；太元元年（376）再灭前凉，兼及代地，河西归于前秦，北方大体统一，版图臻于巅峰。\n\n巅峰之后是急转。太元七年（382）朝议伐晋，其时王猛已卒，谏阻无力；次年苻坚决意南伐，史载有「投鞭于江，足断其流」一类豪语，倾国出兵。太元八年（383）淝水一战大败于东晋谢安、谢玄一系，前秦由此崩解，各族复起。需要说明的是，「投鞭断流」语出记载的文学性颇浓，但南伐的战略责任归于苻坚本人，这一点仍成立。\n\n太元九年（384）慕容垂独立，燕秦瓦解；次年苻坚西奔五将山一带，为姚苌所害，前秦迅速瓦解。读苻坚，可与"
+        },
+        {
+          "type": "link",
+          "id": "n-wei-taiwu",
+          "label": "太武帝"
+        },
+        {
+          "type": "text",
+          "value": "对读：两者皆以武力整合北方，一败于南征而国解，一再合北方而开启北朝，可见十六国北朝兴亡的节奏。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/q-qin-fu-jian.png"
     },
     {
       "id": "h-qin-yao-chang",
@@ -6944,9 +9864,11 @@
       "names": {
         "display": "西夏景宗",
         "personal": "李元昊",
-        "temple": null,
+        "temple": "景宗",
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "元昊"
+        ]
       },
       "dynasty": {
         "id": "xixia",
@@ -6956,31 +9878,317 @@
       "reign": {
         "start": "1038",
         "end": "1048",
-        "eras": []
+        "eras": [
+          "天授礼法延祚"
+        ]
       },
-      "summary": "video-01·河西称制",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "1048",
+        "birth_place_id": null,
+        "death_place_id": "xing-qing-fu"
+      },
+      "summary": "1038年称帝建大夏，创西夏文、立番汉官制，三败宋军而与宋辽鼎立的西夏开国之主。",
+      "tags": [
+        "开国",
+        "西夏文",
+        "宋夏战争",
+        "鼎立",
+        "遇弑"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/xixia-li-yuanhao/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "史源档案未载相貌依据。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/xixia-li-yuanhao.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "1032",
+          "date_note": "明道元年",
+          "title": "袭夏王位",
+          "summary": "李德明卒，元昊嗣位，加速去宋化与民族国家建构。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "1034",
+          "date_note": "约景祐前后",
+          "title": "创制西夏文",
+          "summary": "命野利仁荣等造番书（西夏文），改服饰官制，强化主体性。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "1036",
+          "date_note": "约景祐",
+          "title": "取瓜沙肃",
+          "summary": "攻取河西走廊要地，奠称帝版图基础。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "1038",
+          "date_note": "天授礼法延祚元年",
+          "title": "河西称帝",
+          "summary": "即皇帝位，国号大夏，改元，与宋辽并立。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "1040",
+          "date_note": "康定元年",
+          "title": "三川口之战",
+          "summary": "宋夏大战之一，夏军获胜。",
+          "place_id": "san-chuan-kou",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "1041",
+          "date_note": "康定/庆历",
+          "title": "好水川大捷",
+          "summary": "宋夏大战中夏军重创宋军，确立西夏军事地位。",
+          "place_id": "hao-shui-chuan",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传",
+            "宋史·相关列传"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "1042",
+          "date_note": "庆历二年",
+          "title": "定川寨之战",
+          "summary": "再创宋军，确立军事优势。",
+          "place_id": "ding-chuan-zhai",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "1044",
+          "date_note": "庆历四年",
+          "title": "庆历和议",
+          "summary": "宋夏达成和议，元昊对宋称臣而自帝其国，换岁赐与边境稳定。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "1044",
+          "date_note": "庆历四年",
+          "title": "辽夏和战",
+          "summary": "与辽冲突后和，宋辽夏三角外交。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485",
+            "辽史·相关纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "1048",
+          "date_note": "延祚十一年",
+          "title": "没藏氏与后嗣",
+          "summary": "遇弑后幼主谅祚继立，外戚没藏氏格局形成。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "1048",
+          "date_note": "延祚十一年",
+          "title": "遇弑",
+          "summary": "元昊在宫廷斗争中被刺死，西夏转入后续诸帝。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485·夏国传"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": null,
+          "date_note": "制度（系年不明）",
+          "title": "番汉官制",
+          "summary": "设中书枢密等，番汉分号。",
+          "place_id": "xing-qing-fu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷485"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "父李德明（页待建），1032 年袭夏王位"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "幼子李谅祚（页待建），遇弑后嗣位"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "宋仁宗（页待建）：三川口、好水川、定川寨三战与庆历和议"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "辽兴宗（页待建）：辽夏和战，宋辽夏三角"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "han-wu-di",
+          "note": "武帝开河西走廊与元昊据河西称帝的长线对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "1032",
+          "place_id": "xing-qing-fu",
+          "event": "袭夏王位"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "1036",
+          "place_id": "hexi",
+          "event": "取瓜沙肃"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "1038",
+          "place_id": "xing-qing-fu",
+          "event": "河西称帝"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "1040",
+          "place_id": "san-chuan-kou",
+          "event": "三川口之战"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "1041",
+          "place_id": "hao-shui-chuan",
+          "event": "好水川大捷"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "1042",
+          "place_id": "ding-chuan-zhai",
+          "event": "定川寨之战"
+        },
+        {
+          "group": "其他",
+          "order": 7,
+          "year": "1044",
+          "place_id": "hexi",
+          "event": "辽夏和战"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "1048",
+          "place_id": "xing-qing-fu",
+          "event": "遇弑，幼主谅祚继立"
+        }
+      ],
+      "sources": [
+        {
+          "title": "宋史·卷485·夏国传",
+          "note": "年表主据；史料卡同步"
+        },
+        {
+          "title": "宋史·相关列传（任福等）",
+          "note": "好水川等战役互见"
+        },
+        {
+          "title": "辽史·相关纪",
+          "note": "辽夏和战二手入口"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "video-01·河西称制"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "西夏实际开国之主，1038 年称帝与宋辽鼎立；传统正统帝系之外的准帝王，正史立传。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 西夏景宗 · 主要事迹\n\n李元昊是西夏实际的开国之主。1032 年父李德明卒，他袭夏王位，随即加速去宋化与民族国家建构；1038 年在兴庆府即皇帝位，国号大夏，改元天授礼法延祚，正式与宋、辽并立。本页以《宋史·卷485·夏国传》为年表主线，《辽史》相关纪为二手入口。\n\n称帝前后，他完成了一整套国族符号与制度建构：命野利仁荣等造番书（西夏文），改服饰官制，又设中书、枢密等机构，番汉分号。这套\"强化主体性\"的路线，与[[n-wei-xiaowen|北魏孝文帝]]的汉化改革恰好方向相反，对读可见中古北方政权处理自身身份的两种极端路径。\n\n武功方面，约 1036 年他攻取瓜、沙、肃等河西走廊要地，奠定称帝版图——这条走廊正是[[han-wu-di|汉武帝]]时代开通的西北命脉，千年之后成为大夏立国的根基。1040 年三川口、1041 年好水川、1042 年定川寨，夏军连续三年重创宋军，确立了西夏的军事地位；好水川一役尤为宋夏战争的名场面（互见《宋史》任福等列传）。\n\n连战之后是外交收尾。1044 年宋夏达成庆历和议：元昊对宋称臣而自帝其国，以名实分离换取岁赐与边境稳定；同年与辽冲突后言和，在宋、辽、夏三角之间周旋得体。文治、武功、韬略三线，至此把一个河西政权立成了鼎立之一极。\n\n1048 年，元昊在宫廷斗争中被刺死，幼主谅祚继立，外戚没藏氏掌权——国祚并未随他个人终结，西夏转入后续诸帝。需要说明的是，宋、辽史书对西夏站位偏贬，本项目月旦取中；西夏文创制等细节仍待专书补证。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n李元昊是西夏实际的开国之主。1032 年父李德明卒，他袭夏王位，随即加速去宋化与民族国家建构；1038 年在兴庆府即皇帝位，国号大夏，改元天授礼法延祚，正式与宋、辽并立。本页以《宋史·卷485·夏国传》为年表主线，《辽史》相关纪为二手入口。\n\n称帝前后，他完成了一整套国族符号与制度建构：命野利仁荣等造番书（西夏文），改服饰官制，又设中书、枢密等机构，番汉分号。这套\"强化主体性\"的路线，与"
+        },
+        {
+          "type": "link",
+          "id": "n-wei-xiaowen",
+          "label": "北魏孝文帝"
+        },
+        {
+          "type": "text",
+          "value": "的汉化改革恰好方向相反，对读可见中古北方政权处理自身身份的两种极端路径。\n\n武功方面，约 1036 年他攻取瓜、沙、肃等河西走廊要地，奠定称帝版图——这条走廊正是"
+        },
+        {
+          "type": "link",
+          "id": "han-wu-di",
+          "label": "汉武帝"
+        },
+        {
+          "type": "text",
+          "value": "时代开通的西北命脉，千年之后成为大夏立国的根基。1040 年三川口、1041 年好水川、1042 年定川寨，夏军连续三年重创宋军，确立了西夏的军事地位；好水川一役尤为宋夏战争的名场面（互见《宋史》任福等列传）。\n\n连战之后是外交收尾。1044 年宋夏达成庆历和议：元昊对宋称臣而自帝其国，以名实分离换取岁赐与边境稳定；同年与辽冲突后言和，在宋、辽、夏三角之间周旋得体。文治、武功、韬略三线，至此把一个河西政权立成了鼎立之一极。\n\n1048 年，元昊在宫廷斗争中被刺死，幼主谅祚继立，外戚没藏氏掌权——国祚并未随他个人终结，西夏转入后续诸帝。需要说明的是，宋、辽史书对西夏站位偏贬，本项目月旦取中；西夏文创制等细节仍待专书补证。"
+        }
+      ],
+      "page_status": "draft",
+      "illustration": "illustrations/xixia-li-yuanhao.png"
     },
     {
       "id": "wu-yang-xingmi",
@@ -7171,7 +10379,10 @@
         "personal": "李煜",
         "temple": null,
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "江南国主",
+          "违命侯"
+        ]
       },
       "dynasty": {
         "id": "n-tang",
@@ -7183,29 +10394,258 @@
         "end": "975",
         "eras": []
       },
-      "summary": "十国",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "978",
+        "birth_place_id": null,
+        "death_place_id": "kai-feng"
+      },
+      "summary": "继位于金陵、对宋称臣求存而终至亡国，以词章成就远超君道事功留名后世的南唐末主。",
+      "tags": [
+        "亡国",
+        "词章",
+        "称臣",
+        "北迁"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/n-tang-houzhu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/n-tang-houzhu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "961",
+          "date_note": "宋建隆二年",
+          "title": "即位金陵",
+          "summary": "李璟卒，李煜继位，对宋已处劣势。",
+          "place_id": "jin-ling",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "961",
+          "date_note": "建隆二年",
+          "title": "中主卒继位",
+          "summary": "中主李璟卒，煜立，朝廷人事与年号随之更始。",
+          "place_id": "jin-ling",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "971",
+          "date_note": "开宝前后",
+          "title": "贬号称臣",
+          "summary": "去帝号、称江南国主，对宋称臣以求苟安。",
+          "place_id": "jin-ling",
+          "related_person_ids": [
+            "n-song-tai-zu"
+          ],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "974",
+          "date_note": "开宝七年",
+          "title": "宋师南下",
+          "summary": "曹彬等伐江南，兵临长江，围城前奏。",
+          "place_id": "chang-jiang",
+          "related_person_ids": [
+            "n-song-tai-zu"
+          ],
+          "sources": [
+            "宋史·卷478·南唐世家",
+            "宋史·太祖纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "975",
+          "date_note": "开宝八年",
+          "title": "拒降与城破",
+          "summary": "金陵城破，后主出降。",
+          "place_id": "jin-ling",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "975",
+          "date_note": "开宝八年",
+          "title": "金陵城破",
+          "summary": "宋军破金陵，后主降，南唐亡。",
+          "place_id": "jin-ling",
+          "related_person_ids": [
+            "n-song-tai-zu"
+          ],
+          "sources": [
+            "宋史·卷478·南唐世家",
+            "宋史·太祖纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "976",
+          "date_note": "开宝九年",
+          "title": "封违命侯",
+          "summary": "北迁汴京，受封违命侯。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "976",
+          "date_note": "北迁后",
+          "title": "违命侯",
+          "summary": "软禁汴京，词多故国之思。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "978",
+          "date_note": "太平兴国三年",
+          "title": "卒于京师",
+          "summary": "卒于汴京；赐死说待考。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "978",
+          "date_note": "太平兴国三年",
+          "title": "后主卒",
+          "summary": "民间有七夕赐牵机药传说，正史记载简略，作待考。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷478·南唐世家",
+            "笔记小说·赐死说（待考）"
+          ],
+          "card_id": "E010"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "中主李璟卒，煜继位（页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": "n-song-tai-zu",
+          "note": "开宝年间遣曹彬等伐江南，灭南唐"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": null,
+          "note": "太平兴国三年卒于宋太宗朝；赐死传说待考（页待建）"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "961",
+          "place_id": "jin-ling",
+          "event": "即位于金陵"
+        },
+        {
+          "group": "其他",
+          "order": 2,
+          "year": "974",
+          "place_id": "chang-jiang",
+          "event": "宋师南下伐江南"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "975",
+          "place_id": "jin-ling",
+          "event": "金陵城破出降，南唐亡"
+        },
+        {
+          "group": "流徙",
+          "order": 4,
+          "year": "976",
+          "place_id": "kai-feng",
+          "event": "北迁汴京，封违命侯"
+        },
+        {
+          "group": "流徙",
+          "order": 5,
+          "year": "978",
+          "place_id": "kai-feng",
+          "event": "卒于京师"
+        }
+      ],
+      "sources": [
+        {
+          "title": "宋史·南唐世家（卷478）",
+          "note": "年表主据"
+        },
+        {
+          "title": "宋史·太祖纪",
+          "note": "平江南互见"
+        },
+        {
+          "title": "新五代史·南唐世家",
+          "note": "互见"
+        },
+        {
+          "title": "宋史·卷478·南唐世家",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "十国"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "南唐末主，五代十国收官与宋统一进程的标志性节点，正史立世家。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 南唐后主 · 主要事迹\n\n李煜是南唐末主。宋建隆二年（961），中主李璟卒，李煜继位于金陵，此时南唐对宋已处劣势。本页以《宋史·卷478·南唐世家》为年表主线，《宋史·太祖纪》编年互见（本地参考库已备）。\n\n开宝前后（971），他去帝号、称江南国主，对宋称臣以求苟安；在位间倾力于书画音律词章，文艺成就远超君道事功。\n\n开宝七年（974），曹彬等率宋师南下伐江南，兵临长江；开宝八年（975）宋军破金陵，后主出降，南唐亡。此役出自[[n-song-tai-zu|宋太祖]]朝平江南的部署，可与宋方本纪对读。\n\n开宝九年（976）他北迁汴京，封违命侯，软禁中词多故国之思。太平兴国三年（978）卒于京师，时宋太宗在位；民间有七夕赐牵机药传说，正史记载简略，此处作待考处理。\n\n他的后效在文学：二主词为词史入口，君道失败与词人成就分离，后世月旦常带同情分。与南唐元宗（中主李璟）对读，可见南唐自中主至后主两代而终的格局。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n李煜是南唐末主。宋建隆二年（961），中主李璟卒，李煜继位于金陵，此时南唐对宋已处劣势。本页以《宋史·卷478·南唐世家》为年表主线，《宋史·太祖纪》编年互见（本地参考库已备）。\n\n开宝前后（971），他去帝号、称江南国主，对宋称臣以求苟安；在位间倾力于书画音律词章，文艺成就远超君道事功。\n\n开宝七年（974），曹彬等率宋师南下伐江南，兵临长江；开宝八年（975）宋军破金陵，后主出降，南唐亡。此役出自"
+        },
+        {
+          "type": "link",
+          "id": "n-song-tai-zu",
+          "label": "宋太祖"
+        },
+        {
+          "type": "text",
+          "value": "朝平江南的部署，可与宋方本纪对读。\n\n开宝九年（976）他北迁汴京，封违命侯，软禁中词多故国之思。太平兴国三年（978）卒于京师，时宋太宗在位；民间有七夕赐牵机药传说，正史记载简略，此处作待考处理。\n\n他的后效在文学：二主词为词史入口，君道失败与词人成就分离，后世月旦常带同情分。与南唐元宗（中主李璟）对读，可见南唐自中主至后主两代而终的格局。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "wuyue-qian-liu",
@@ -7754,9 +11194,11 @@
       "names": {
         "display": "隋文帝",
         "personal": "杨坚",
-        "temple": null,
-        "posthumous": null,
-        "aliases": []
+        "temple": "高祖",
+        "posthumous": "文皇帝",
+        "aliases": [
+          "文帝"
+        ]
       },
       "dynasty": {
         "id": "sui",
@@ -7766,31 +11208,320 @@
       "reign": {
         "start": "581",
         "end": "604",
-        "eras": []
+        "eras": [
+          "开皇",
+          "仁寿"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "604",
+        "birth_place_id": null,
+        "death_place_id": "renshou-gong"
+      },
+      "summary": "受禅代周、灭陈混一南北，以开皇制度奠定后世政制底盘，却因晚年废立与二世而亡留下争议的开国之主。",
+      "tags": [
+        "开国",
+        "混一",
+        "制度",
+        "禅让",
+        "废立"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/sui-wen/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/sui-wen.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "581",
+          "date_note": "开皇元年",
+          "title": "代周建隋",
+          "summary": "受北周禅让建隋，改元开皇，北周亡。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷001·高祖纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "581",
+          "date_note": "开皇元年",
+          "title": "尽灭北周宗室隐患",
+          "summary": "开国之初以政治清洗巩固新朝（克制叙述）。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷001·高祖纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "583",
+          "date_note": "开皇三年",
+          "title": "迁大兴城",
+          "summary": "营迁大兴（新长安），都城格局一新。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷001·高祖纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "587",
+          "date_note": "开皇七年",
+          "title": "灭后梁",
+          "summary": "江陵后梁亡，为南进混一的前奏。",
+          "place_id": "jiang-ling",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷001·高祖纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "589",
+          "date_note": "开皇九年",
+          "title": "灭陈混一",
+          "summary": "平陈，南北再统一，史称混一戎夏。",
+          "place_id": "jian-kang",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷002·高祖纪"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "590",
+          "date_note": "开皇十年",
+          "title": "江南反隋平定",
+          "summary": "灭陈后江南叛乱被平定，统一局面巩固。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷002·高祖纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "600",
+          "date_note": "开皇二十年",
+          "title": "废太子勇",
+          "summary": "废黜太子杨勇，储位动摇。",
+          "place_id": "chang-an",
+          "related_person_ids": [
+            "sui-yang"
+          ],
+          "sources": [
+            "隋书·卷045·房陵王勇传",
+            "隋书·卷002·高祖纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "600",
+          "date_note": "开皇二十年",
+          "title": "废勇立广",
+          "summary": "立晋王广为太子，种下国祚风险。",
+          "place_id": "chang-an",
+          "related_person_ids": [
+            "sui-yang"
+          ],
+          "sources": [
+            "隋书·卷002·高祖纪",
+            "隋书·卷045·房陵王勇传"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "601",
+          "date_note": "仁寿元年",
+          "title": "改元仁寿",
+          "summary": "晚年改元，储位已定。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷002·高祖纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "604",
+          "date_note": "仁寿四年",
+          "title": "仁寿宫事",
+          "summary": "卧病仁寿宫，遗命与继位过程史有异说（克制叙述）。",
+          "place_id": "renshou-gong",
+          "related_person_ids": [
+            "sui-yang"
+          ],
+          "sources": [
+            "隋书·卷002·高祖纪",
+            "隋书·炀帝纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "604",
+          "date_note": "仁寿四年",
+          "title": "文帝崩",
+          "summary": "崩于仁寿宫，炀帝即位；统一遗产与二世风险同时交接。",
+          "place_id": "renshou-gong",
+          "related_person_ids": [
+            "sui-yang"
+          ],
+          "sources": [
+            "隋书·卷002·高祖纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "581–600",
+          "date_note": "开皇间",
+          "title": "开皇制度",
+          "summary": "三省六部成型、统一货币度量、检括户口，奠定后世政制底盘。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷001–002·高祖纪",
+            "隋书·志"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "受北周静帝禅让建隋（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": "sui-yang",
+          "note": "次子杨广继位，即隋炀帝"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "开皇九年灭陈（陈后主），南北混一（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "qin-shi-huang",
+          "note": "长期分裂后混一、却二世而危的长线对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "581",
+          "place_id": "chang-an",
+          "event": "代周建隋"
+        },
+        {
+          "group": "迁都",
+          "order": 2,
+          "year": "583",
+          "place_id": "da-xing",
+          "event": "营迁大兴城"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "587",
+          "place_id": "jiang-ling",
+          "event": "灭后梁"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "589",
+          "place_id": "jian-kang",
+          "event": "灭陈混一"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "600",
+          "place_id": "chang-an",
+          "event": "废勇立广"
+        },
+        {
+          "group": "都城",
+          "order": 6,
+          "year": "604",
+          "place_id": "renshou-gong",
+          "event": "崩于仁寿宫"
+        }
+      ],
+      "sources": [
+        {
+          "title": "隋书·高祖纪（卷001–002）",
+          "note": "年表主据"
+        },
+        {
+          "title": "隋书·房陵王勇传（卷045）",
+          "note": "废立互见"
+        },
+        {
+          "title": "隋书·炀帝纪",
+          "note": "继位对照"
+        },
+        {
+          "title": "资治通鉴·隋纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "隋书·卷001·高祖纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "隋书·卷002·高祖纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "结束近三百年分裂、混一南北的开国之主，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 隋文帝 · 主要事迹\n\n杨坚以受禅方式代北周建隋，改元开皇。新朝初立，一面以政治手段清除北周宗室隐患、稳住局面，一面营迁大兴城，重定都城格局——开国的前几步，走得谨慎而彻底。\n\n开皇七年，江陵后梁亡，南进之门洞开；开皇九年平陈，自东晋以来近三百年的南北分裂宣告结束，史称「混一戎夏」。次年江南反隋势力被平定，统一局面真正巩固。灭陈一役虽由诸将执行，战略决断皆出朝廷。\n\n混一之外，开皇间三省六部成型、统一货币度量、检括户口，奠定此后数百年的政制底盘，后效极高。论文治的制度遗产，隋文帝在历代开国之主中位置很靠前。\n\n晚年却是另一番走向：开皇二十年废太子勇、改立晋王广，储位之争自此埋下国祚风险。仁寿四年，文帝崩于仁寿宫，遗命与继位过程史有异说。其子[[sui-yang|隋炀帝]]即位，统一遗产与二世风险同时交接——废立争议与「二世而亡」的结局，压低了后世对这场开国之局的评价。与[[qin-shi-huang|秦始皇]]对读：二者皆在长期分裂后完成混一，又皆在二代迅速陷入危局，是读统一帝国史绕不开的一对对照。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n杨坚以受禅方式代北周建隋，改元开皇。新朝初立，一面以政治手段清除北周宗室隐患、稳住局面，一面营迁大兴城，重定都城格局——开国的前几步，走得谨慎而彻底。\n\n开皇七年，江陵后梁亡，南进之门洞开；开皇九年平陈，自东晋以来近三百年的南北分裂宣告结束，史称「混一戎夏」。次年江南反隋势力被平定，统一局面真正巩固。灭陈一役虽由诸将执行，战略决断皆出朝廷。\n\n混一之外，开皇间三省六部成型、统一货币度量、检括户口，奠定此后数百年的政制底盘，后效极高。论文治的制度遗产，隋文帝在历代开国之主中位置很靠前。\n\n晚年却是另一番走向：开皇二十年废太子勇、改立晋王广，储位之争自此埋下国祚风险。仁寿四年，文帝崩于仁寿宫，遗命与继位过程史有异说。其子"
+        },
+        {
+          "type": "link",
+          "id": "sui-yang",
+          "label": "隋炀帝"
+        },
+        {
+          "type": "text",
+          "value": "即位，统一遗产与二世风险同时交接——废立争议与「二世而亡」的结局，压低了后世对这场开国之局的评价。与"
+        },
+        {
+          "type": "link",
+          "id": "qin-shi-huang",
+          "label": "秦始皇"
+        },
+        {
+          "type": "text",
+          "value": "对读：二者皆在长期分裂后完成混一，又皆在二代迅速陷入危局，是读统一帝国史绕不开的一对对照。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "sui-yang",
@@ -7801,7 +11532,9 @@
         "personal": "杨广",
         "temple": null,
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "晋王"
+        ]
       },
       "dynasty": {
         "id": "sui",
@@ -7811,31 +11544,317 @@
       "reign": {
         "start": "604",
         "end": "618",
-        "eras": []
+        "eras": [
+          "大业"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "618",
+        "birth_place_id": null,
+        "death_place_id": "jiang-du"
+      },
+      "summary": "由晋王平陈立功而立为太子，即位后营东都、开运河、西巡张掖、三征高句丽，把大工程与大征伐推向极致并致隋速亡的皇帝。",
+      "tags": [
+        "大运河",
+        "营东都",
+        "三征高句丽",
+        "亡国"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/sui-yang/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/sui-yang.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "589",
+          "date_note": "开皇九年",
+          "title": "晋王平陈",
+          "summary": "为晋王时参与灭陈，立功，伏笔「晋王」身份。",
+          "place_id": "jian-kang",
+          "related_person_ids": [
+            "sui-wen"
+          ],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "600",
+          "date_note": "开皇二十年",
+          "title": "立为太子",
+          "summary": "由晋王为太子，大业前夜。",
+          "place_id": "da-xing",
+          "related_person_ids": [
+            "sui-wen"
+          ],
+          "sources": [
+            "隋书·卷003·炀帝纪",
+            "隋书·卷002·文帝纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "604",
+          "date_note": "仁寿四年",
+          "title": "即位改元",
+          "summary": "即帝位，后改元大业，展开大工程与扩张。",
+          "place_id": "da-xing",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "605",
+          "date_note": "大业元年",
+          "title": "开通济渠",
+          "summary": "运河关键段，南北贯通。",
+          "place_id": "tong-ji-qu",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "605",
+          "date_note": "大业元年",
+          "title": "营东都开运河",
+          "summary": "营建东都洛阳，开凿通济渠等，贯通南北水运。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "608",
+          "date_note": "大业四年",
+          "title": "开永济渠",
+          "summary": "北通涿郡，为征辽后勤。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "609",
+          "date_note": "大业五年",
+          "title": "西巡张掖",
+          "summary": "西域胡商朝会，盛世表象。",
+          "place_id": "hexi",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷003·炀帝纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "612",
+          "date_note": "大业八年",
+          "title": "一征高句丽",
+          "summary": "大举征高句丽，丧师费财，国内矛盾激化。",
+          "place_id": "liaodong",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "613",
+          "date_note": "大业九年",
+          "title": "二征高丽与杨玄感",
+          "summary": "再征辽东，杨玄感起兵。",
+          "place_id": "liaodong",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "616",
+          "date_note": "大业十二年",
+          "title": "幸江都",
+          "summary": "三幸江都，中原失控。",
+          "place_id": "jiang-du",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "617",
+          "date_note": "大业十三年",
+          "title": "天下分崩",
+          "summary": "群雄并起，炀帝滞留江都，中枢失控。",
+          "place_id": "jiang-du",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "618",
+          "date_note": "大业十四年",
+          "title": "江都之变",
+          "summary": "宇文化及等发动兵变，炀帝死于江都，隋亡。",
+          "place_id": "jiang-du",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪",
+            "资治通鉴·隋纪"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": "sui-wen",
+          "note": "父隋文帝，开皇二十年立广为太子，仁寿四年继位"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "隋室后任隋恭帝，见本纪末及后任纪（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "tang-tai-zong",
+          "note": "后效承接，唐承隋制的长线对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "亲征",
+          "order": 1,
+          "year": "589",
+          "place_id": "jian-kang",
+          "event": "晋王平陈"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "604",
+          "place_id": "da-xing",
+          "event": "即位改元"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "605",
+          "place_id": "luoyang",
+          "event": "营东都开运河"
+        },
+        {
+          "group": "其他",
+          "order": 4,
+          "year": "605",
+          "place_id": "tong-ji-qu",
+          "event": "开通济渠"
+        },
+        {
+          "group": "巡狩",
+          "order": 5,
+          "year": "609",
+          "place_id": "hexi",
+          "event": "西巡张掖"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "612",
+          "place_id": "liaodong",
+          "event": "一征高句丽"
+        },
+        {
+          "group": "流徙",
+          "order": 7,
+          "year": "616",
+          "place_id": "jiang-du",
+          "event": "幸江都"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "618",
+          "place_id": "jiang-du",
+          "event": "江都之变"
+        }
+      ],
+      "sources": [
+        {
+          "title": "隋书·炀帝纪（卷003–004）",
+          "note": "年表主据"
+        },
+        {
+          "title": "资治通鉴·隋纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "隋书·卷003·炀帝纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "隋书·卷004·炀帝纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "隋书·卷002·文帝纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "隋朝第二代皇帝，正史立纪，大运河与隋亡叙事枢纽。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 隋炀帝 · 主要事迹\n\n杨广本为晋王，开皇九年（589）参与平陈立功，开皇二十年（600）被立为太子，仁寿四年（604）即帝位，后改元大业。本页以《隋书·炀帝纪》为年表主线，辅以《资治通鉴·隋纪》编年对照。\n\n大业年间他接连启动超大规模的工程与行动：大业元年（605）营建东都洛阳，开通济渠等运河段，贯通南北水运；大业四年（608）又开永济渠北通涿郡；大业五年（609）西巡张掖，西域胡商前来朝会，一时呈现盛世表象。东都与运河构成他最重要的后效遗产，但征发之巨也同步消耗着帝国的根本。\n\n转折出现在大业八年（612）一征高句丽：大举东征，丧师费财，国内矛盾激化。次年（613）再征辽东，杨玄感起兵，崩坏加速。大业十二年（616）他三幸江都，中原随之失控；大业十三年（617）群雄并起，中枢名存实亡；大业十四年（618），宇文化及等发动江都之变，炀帝身死，隋亡。\n\n后世对他月旦极低，而运河、东都与沟通南北的后效深远。与[[sui-wen|隋文帝]]对读，可见开皇一朝的积累如何在大业年间被推向极致并耗尽；与[[tang-tai-zong|唐太宗]]对读，可见唐承隋制的承接与反拨。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n杨广本为晋王，开皇九年（589）参与平陈立功，开皇二十年（600）被立为太子，仁寿四年（604）即帝位，后改元大业。本页以《隋书·炀帝纪》为年表主线，辅以《资治通鉴·隋纪》编年对照。\n\n大业年间他接连启动超大规模的工程与行动：大业元年（605）营建东都洛阳，开通济渠等运河段，贯通南北水运；大业四年（608）又开永济渠北通涿郡；大业五年（609）西巡张掖，西域胡商前来朝会，一时呈现盛世表象。东都与运河构成他最重要的后效遗产，但征发之巨也同步消耗着帝国的根本。\n\n转折出现在大业八年（612）一征高句丽：大举东征，丧师费财，国内矛盾激化。次年（613）再征辽东，杨玄感起兵，崩坏加速。大业十二年（616）他三幸江都，中原随之失控；大业十三年（617）群雄并起，中枢名存实亡；大业十四年（618），宇文化及等发动江都之变，炀帝身死，隋亡。\n\n后世对他月旦极低，而运河、东都与沟通南北的后效深远。与"
+        },
+        {
+          "type": "link",
+          "id": "sui-wen",
+          "label": "隋文帝"
+        },
+        {
+          "type": "text",
+          "value": "对读，可见开皇一朝的积累如何在大业年间被推向极致并耗尽；与"
+        },
+        {
+          "type": "link",
+          "id": "tang-tai-zong",
+          "label": "唐太宗"
+        },
+        {
+          "type": "text",
+          "value": "对读，可见唐承隋制的承接与反拨。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "sui-gong",
@@ -8419,7 +12438,10 @@
         "personal": "武曌",
         "temple": null,
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "武后",
+          "天后"
+        ]
       },
       "dynasty": {
         "id": "tang",
@@ -8429,31 +12451,331 @@
       "reign": {
         "start": "690",
         "end": "705",
-        "eras": []
+        "eras": [
+          "天授",
+          "神功",
+          "长安",
+          "神龙"
+        ]
       },
-      "summary": "武周皇帝；女帝",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": null,
+        "birth_place_id": null,
+        "death_place_id": null
+      },
+      "summary": "从太宗才人到高宗皇后，临朝称制数十年，690年革唐为周正式称帝，是中国史上唯一正统女皇帝。",
+      "tags": [
+        "女帝",
+        "武周",
+        "临朝称制",
+        "科举"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/zhou-wu-zetian/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "正史着墨于其政治行事，容貌少有实录。MVP 用占位图；定稿前依唐代后妃与帝王冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/zhou-wu-zetian.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "637",
+          "date_note": "贞观十一年",
+          "title": "入宫才人",
+          "summary": "入宫为太宗才人，后有感业寺环节（史传系统）。",
+          "place_id": "chang-an",
+          "related_person_ids": [
+            "tang-tai-zong"
+          ],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "新唐书·卷004·则天皇后"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "655",
+          "date_note": "永徽六年",
+          "title": "立为皇后",
+          "summary": "由昭仪立为皇后，进入权力中枢。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "655",
+          "date_note": "永徽六年",
+          "title": "废王立武",
+          "summary": "后位之争落定，长孙无忌等反对派贬死。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "旧唐书·长孙无忌传"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "660",
+          "date_note": "显庆五年后",
+          "title": "二圣临朝",
+          "summary": "高宗病，天后参决政务，形成二圣格局。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "新唐书·卷004·则天皇后"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "683",
+          "date_note": "弘道元年",
+          "title": "高宗崩临朝",
+          "summary": "高宗崩，中宗即位，天后临朝称制。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "684",
+          "date_note": "光宅元年",
+          "title": "废中宗",
+          "summary": "废中宗为庐陵王，立睿宗，实掌朝政。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "688",
+          "date_note": "垂拱四年",
+          "title": "明堂与告密",
+          "summary": "洛阳明堂建成，铜匦告密与酷吏政治并行。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "新唐书·卷004·则天皇后"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "690",
+          "date_note": "天授元年",
+          "title": "金轮称帝",
+          "summary": "加尊号称帝，女主正式称制。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "新唐书·卷004·则天皇后"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "690",
+          "date_note": "天授元年",
+          "title": "改唐为周",
+          "summary": "改国号为周，定都神都洛阳，祀明堂。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "697",
+          "date_note": "神功元年",
+          "title": "狄仁杰柄用",
+          "summary": "狄仁杰入相，为武周能吏政治的代表节点。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·狄仁杰传",
+            "旧唐书·卷006·则天皇后"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "705",
+          "date_note": "神龙元年",
+          "title": "神龙政变",
+          "summary": "张柬之等拥中宗复位，武周结束，则天迁宫。",
+          "place_id": "luoyang",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "旧唐书·中宗纪"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": null,
+          "date_note": "天授–长安",
+          "title": "科举与能吏",
+          "summary": "破格用人、发展科举殿试，文治有实绩，与酷吏政治并存。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷006·则天皇后",
+            "新唐书·选举志"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "related_emperor",
+          "target_id": "tang-tai-zong",
+          "note": "贞观十一年入宫为太宗才人"
+        },
+        {
+          "type": "kinship",
+          "target_id": null,
+          "note": "夫唐高宗，二圣临朝（页待建）"
+        },
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "唐睿宗（称制时傀儡，页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "唐中宗（神龙元年复位，页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "tang-xian-zong",
+          "note": "武周之后李唐重建至宪宗中兴的长线对照"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "637",
+          "place_id": "chang-an",
+          "event": "入宫为才人"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "655",
+          "place_id": "chang-an",
+          "event": "立为皇后（废王立武）"
+        },
+        {
+          "group": "都城",
+          "order": 3,
+          "year": "683",
+          "place_id": "luoyang",
+          "event": "高宗崩，临朝称制"
+        },
+        {
+          "group": "都城",
+          "order": 4,
+          "year": "684",
+          "place_id": "luoyang",
+          "event": "废中宗立睿宗"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "688",
+          "place_id": "luoyang",
+          "event": "明堂落成"
+        },
+        {
+          "group": "都城",
+          "order": 6,
+          "year": "690",
+          "place_id": "luoyang",
+          "event": "改唐为周，称帝神都"
+        },
+        {
+          "group": "都城",
+          "order": 7,
+          "year": "705",
+          "place_id": "luoyang",
+          "event": "神龙政变，迁宫"
+        }
+      ],
+      "sources": [
+        {
+          "title": "旧唐书·则天皇后本纪",
+          "note": "年表主据"
+        },
+        {
+          "title": "新唐书·则天皇后本纪",
+          "note": "互见"
+        },
+        {
+          "title": "资治通鉴·唐纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "旧唐书·卷006·则天皇后",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "新唐书·卷004·则天皇后",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "旧唐书·狄仁杰传",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "武周皇帝；女帝"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "中国史上唯一正统女皇帝，武周开国，两唐书立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 武则天 · 主要事迹\n\n武则天是中国史上唯一正式称帝的女皇帝。本页以《旧唐书·则天皇后本纪》为年表主线，辅以《新唐书》与《资治通鉴·唐纪》编年（本地参考库已备）。她贞观十一年入宫为[[tang-tai-zong|唐太宗]]才人，历感业寺环节后重返宫廷，永徽六年由昭仪立为皇后——废王立武之争中，长孙无忌等元老反对派相继贬死，她由此进入权力中枢。\n\n显庆五年后高宗多病，天后参决政务，朝中形成\"二圣\"格局。弘道元年高宗崩于洛阳，中宗即位，她临朝称制；次年即废中宗为庐陵王，改立睿宗而实掌朝政。垂拱四年洛阳明堂建成，铜匦告密与酷吏政治并行，恩威双轨的统治术于此成型。\n\n天授元年，她在神都洛阳加尊号、改国号为周，正式称帝，女主称制由事实变为名分。在位期间破格用人、发展科举殿试，神功元年狄仁杰入相成为能吏政治的代表节点；文治实绩与酷吏之治始终并存，构成武周的一体两面。\n\n神龙元年，张柬之等发动政变拥中宗复位，武周终结，则天迁宫。旧史多以\"女祸\"叙事贬抑，今人则更重估其制度与人事遗产——本图鉴月旦中性偏下，留给读者对读：从入宫才人到革唐为周，再到还政李唐，与[[tang-xian-zong|唐宪宗]]的中兴对照，可见唐室中衰与重建的完整弧线。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n武则天是中国史上唯一正式称帝的女皇帝。本页以《旧唐书·则天皇后本纪》为年表主线，辅以《新唐书》与《资治通鉴·唐纪》编年（本地参考库已备）。她贞观十一年入宫为"
+        },
+        {
+          "type": "link",
+          "id": "tang-tai-zong",
+          "label": "唐太宗"
+        },
+        {
+          "type": "text",
+          "value": "才人，历感业寺环节后重返宫廷，永徽六年由昭仪立为皇后——废王立武之争中，长孙无忌等元老反对派相继贬死，她由此进入权力中枢。\n\n显庆五年后高宗多病，天后参决政务，朝中形成\"二圣\"格局。弘道元年高宗崩于洛阳，中宗即位，她临朝称制；次年即废中宗为庐陵王，改立睿宗而实掌朝政。垂拱四年洛阳明堂建成，铜匦告密与酷吏政治并行，恩威双轨的统治术于此成型。\n\n天授元年，她在神都洛阳加尊号、改国号为周，正式称帝，女主称制由事实变为名分。在位期间破格用人、发展科举殿试，神功元年狄仁杰入相成为能吏政治的代表节点；文治实绩与酷吏之治始终并存，构成武周的一体两面。\n\n神龙元年，张柬之等发动政变拥中宗复位，武周终结，则天迁宫。旧史多以\"女祸\"叙事贬抑，今人则更重估其制度与人事遗产——本图鉴月旦中性偏下，留给读者对读：从入宫才人到革唐为周，再到还政李唐，与"
+        },
+        {
+          "type": "link",
+          "id": "tang-xian-zong",
+          "label": "唐宪宗"
+        },
+        {
+          "type": "text",
+          "value": "的中兴对照，可见唐室中衰与重建的完整弧线。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "tang-zhong-zong-b",
@@ -8822,7 +13144,7 @@
       "names": {
         "display": "唐宪宗",
         "personal": "李纯",
-        "temple": null,
+        "temple": "宪宗",
         "posthumous": null,
         "aliases": []
       },
@@ -8834,31 +13156,305 @@
       "reign": {
         "start": "805",
         "end": "820",
-        "eras": []
+        "eras": [
+          "元和"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "820",
+        "birth_place_id": null,
+        "death_place_id": "chang-an"
+      },
+      "summary": "在位十五年以削藩为主线，平西川、破淮西、威服河朔，成就\"元和中兴\"而暴崩于宦官疑云的中唐皇帝。",
+      "tags": [
+        "元和中兴",
+        "削藩",
+        "藩镇",
+        "迎佛骨",
+        "宦官"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/tang-xian-zong/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "正史不载容貌细节，传统帝王画像多属后世图绘。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/tang-xian-zong.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "805",
+          "date_note": "永贞元年",
+          "title": "即位",
+          "summary": "顺宗内禅，即帝位；朝廷人事与年号随之更始，明年改元元和。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷014·宪宗纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "806",
+          "date_note": "元和元年",
+          "title": "平夏绥杨惠琳",
+          "summary": "讨平夏绥杨惠琳，削藩早期胜利。",
+          "place_id": "xia-zhou",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷014·宪宗纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "806",
+          "date_note": "元和元年",
+          "title": "平西川",
+          "summary": "讨平西川刘辟，展示削藩决心。",
+          "place_id": "cheng-du",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷014·宪宗纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "809",
+          "date_note": "元和四年",
+          "title": "成德王承宗战事",
+          "summary": "讨成德王承宗，成果有限，显示削藩难度。",
+          "place_id": "cheng-de",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷014·宪宗纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "815",
+          "date_note": "元和十年",
+          "title": "李师道刺武元衡",
+          "summary": "藩镇以恐怖手段刺杀宰相武元衡于长安，朝野震动。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷015·宪宗纪",
+            "旧唐书·武元衡传"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "817",
+          "date_note": "元和十二年",
+          "title": "裴度宣慰淮西",
+          "summary": "宰相裴度赴淮西督师宣慰，为雪夜入蔡的政治背景。",
+          "place_id": "cai-zhou",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·裴度传",
+            "旧唐书·卷015·宪宗纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "817",
+          "date_note": "元和十二年",
+          "title": "平淮西",
+          "summary": "李愬雪夜入蔡州，擒吴元济，元和削藩达到高潮。",
+          "place_id": "cai-zhou",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷015·宪宗纪",
+            "旧唐书·李愬传"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "818",
+          "date_note": "元和十三年前后",
+          "title": "成德归朝",
+          "summary": "成德等河朔藩镇一度听命朝廷，元和中兴气象达到高点。",
+          "place_id": "cheng-de",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷015·宪宗纪"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "819",
+          "date_note": "元和十四年",
+          "title": "迎佛骨",
+          "summary": "迎法门寺佛骨入长安；韩愈上表极谏，贬逐出京。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷015·宪宗纪",
+            "旧唐书·韩愈传"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "820",
+          "date_note": "元和十五年",
+          "title": "穆宗即位",
+          "summary": "宪宗崩后穆宗立，朝廷人事与年号更始，削藩回落。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·穆宗纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "820",
+          "date_note": "元和十五年",
+          "title": "暴崩",
+          "summary": "暴崩于长安，史载与宦官相关的疑云，削藩成果随之回落。",
+          "place_id": "chang-an",
+          "related_person_ids": [],
+          "sources": [
+            "旧唐书·卷015·宪宗纪",
+            "新唐书·宪宗纪"
+          ],
+          "card_id": "E011"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "永贞元年顺宗内禅，承其皇位（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "暴崩后穆宗即位，削藩随之回落（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "tang-tai-zong",
+          "note": "同朝盛世范式，\"元和中兴\"叙事的长线对照"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "zhou-wu-zetian",
+          "note": "唐朝由盛入中长线上的前段坐标"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "805",
+          "place_id": "chang-an",
+          "event": "即位"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "806",
+          "place_id": "xia-zhou",
+          "event": "平夏绥杨惠琳"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "806",
+          "place_id": "cheng-du",
+          "event": "平西川"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "809",
+          "place_id": "cheng-de",
+          "event": "成德王承宗战事"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "815",
+          "place_id": "chang-an",
+          "event": "李师道刺武元衡"
+        },
+        {
+          "group": "其他",
+          "order": 6,
+          "year": "817",
+          "place_id": "cai-zhou",
+          "event": "裴度宣慰淮西"
+        },
+        {
+          "group": "亲征",
+          "order": 7,
+          "year": "817",
+          "place_id": "cai-zhou",
+          "event": "平淮西"
+        },
+        {
+          "group": "都城",
+          "order": 8,
+          "year": "819",
+          "place_id": "chang-an",
+          "event": "迎佛骨"
+        }
+      ],
+      "sources": [
+        {
+          "title": "旧唐书·宪宗纪（卷014–015）",
+          "note": "年表主据"
+        },
+        {
+          "title": "新唐书·宪宗纪",
+          "note": "互见对照"
+        },
+        {
+          "title": "资治通鉴·唐纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "旧唐书·卷014·宪宗纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "旧唐书·卷015·宪宗纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "旧唐书·裴度传 / 李愬传",
+          "note": "史料卡同步（淮西相关列传）"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "中唐\"元和中兴\"之主，削藩主线的代表皇帝，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 唐宪宗 · 主要事迹\n\n李纯在位十五年（805—820），年号元和，是安史之乱后唐朝最有振作气象的皇帝。本页以《旧唐书·宪宗纪》为年表主线，辅以《新唐书·宪宗纪》与《资治通鉴》编年对照（本地参考库已备）。他的一生主线只有两个字：削藩。\n\n元和元年（806）是他开局的手笔：先是讨平夏绥杨惠琳，继而讨平西川刘辟——两战皆捷，向天下藩镇展示了朝廷不再姑息的决心。但元和四年（809）讨伐成德王承宗一役成果有限，也让他看清河朔藩镇根深蒂固、硬啃不易的现实。\n\n真正的考验在淮西。元和十年（815），平卢李师道竟遣刺客在长安街头杀死主战宰相武元衡，朝野震动，而朝廷用兵之志未移。元和十二年（817），宰相裴度亲赴淮西宣慰督师，名将李愬雪夜奇袭入蔡州，生擒吴元济——这是元和削藩的高潮，也是中唐最著名的一场奇袭。次年（818）前后，成德等河朔强藩一度听命于朝，史称\"元和中兴\"。\n\n晚年他迎法门寺佛骨入长安，韩愈上表极谏而被贬，留下君臣关系与信仰政策的另一面相。元和十五年（820），他在长安暴崩，史载此事笼罩着与宦官相关的疑云；唐穆宗即位后，削藩成果迅速回落，河朔此后复叛。从唐顺宗的永贞内禅开局，到暴崩落幕，\"元和中兴\"是否可持续，正是读宪宗一朝最值得停下来的问题；与[[tang-tai-zong|唐太宗]]的贞观范式对读，也可见盛唐与中唐之间帝国处境的巨大落差。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n李纯在位十五年（805—820），年号元和，是安史之乱后唐朝最有振作气象的皇帝。本页以《旧唐书·宪宗纪》为年表主线，辅以《新唐书·宪宗纪》与《资治通鉴》编年对照（本地参考库已备）。他的一生主线只有两个字：削藩。\n\n元和元年（806）是他开局的手笔：先是讨平夏绥杨惠琳，继而讨平西川刘辟——两战皆捷，向天下藩镇展示了朝廷不再姑息的决心。但元和四年（809）讨伐成德王承宗一役成果有限，也让他看清河朔藩镇根深蒂固、硬啃不易的现实。\n\n真正的考验在淮西。元和十年（815），平卢李师道竟遣刺客在长安街头杀死主战宰相武元衡，朝野震动，而朝廷用兵之志未移。元和十二年（817），宰相裴度亲赴淮西宣慰督师，名将李愬雪夜奇袭入蔡州，生擒吴元济——这是元和削藩的高潮，也是中唐最著名的一场奇袭。次年（818）前后，成德等河朔强藩一度听命于朝，史称\"元和中兴\"。\n\n晚年他迎法门寺佛骨入长安，韩愈上表极谏而被贬，留下君臣关系与信仰政策的另一面相。元和十五年（820），他在长安暴崩，史载此事笼罩着与宦官相关的疑云；唐穆宗即位后，削藩成果迅速回落，河朔此后复叛。从唐顺宗的永贞内禅开局，到暴崩落幕，\"元和中兴\"是否可持续，正是读宪宗一朝最值得停下来的问题；与"
+        },
+        {
+          "type": "link",
+          "id": "tang-tai-zong",
+          "label": "唐太宗"
+        },
+        {
+          "type": "text",
+          "value": "的贞观范式对读，也可见盛唐与中唐之间帝国处境的巨大落差。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "tang-mu-zong",
@@ -9767,9 +14363,11 @@
       "names": {
         "display": "后周世宗",
         "personal": "柴荣",
-        "temple": null,
+        "temple": "世宗",
         "posthumous": null,
-        "aliases": []
+        "aliases": [
+          "周世宗"
+        ]
       },
       "dynasty": {
         "id": "hou-zhou",
@@ -9779,31 +14377,309 @@
       "reign": {
         "start": "954",
         "end": "959",
-        "eras": []
+        "eras": [
+          "显德"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "959",
+        "birth_place_id": null,
+        "death_place_id": "kai-feng"
+      },
+      "summary": "在位六年，高平破敌、三征淮南、北伐收复三关，以整军与改革为北宋统一奠基的英年早逝之主。",
+      "tags": [
+        "改革",
+        "武功",
+        "毁佛铸钱",
+        "英年早逝"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/zhou-shi/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/zhou-shi.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "954",
+          "date_note": "显德元年",
+          "title": "即位",
+          "summary": "郭威崩，柴荣即位，是为世宗。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·周书·世宗纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "954",
+          "date_note": "显德元年",
+          "title": "即位改元",
+          "summary": "即位后改元显德，朝廷人事与年号更始。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "954",
+          "date_note": "显德元年",
+          "title": "高平之战",
+          "summary": "亲征败北汉、契丹联军于高平，战后整肃禁军，确立权威。",
+          "place_id": "gao-ping",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪",
+            "资治通鉴·后周纪"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "955",
+          "date_note": "显德二年",
+          "title": "毁佛铸钱",
+          "summary": "限寺减僧，毁铜佛铸钱，以充财政军备。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪",
+            "资治通鉴·后周纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": null,
+          "date_note": "显德间",
+          "title": "整军均田",
+          "summary": "选练禁军、限制寺院、均定田赋，国力回升。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪",
+            "五代会要"
+          ],
+          "card_id": "E012"
+        },
+        {
+          "year": "956",
+          "date_note": "显德三年",
+          "title": "征淮南",
+          "summary": "亲征南唐，显德振旅。",
+          "place_id": "huai-nan",
+          "related_person_ids": [
+            "n-tang-houzhu"
+          ],
+          "sources": [
+            "旧五代史·世宗纪"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "957",
+          "date_note": "显德四–五年",
+          "title": "经略淮南",
+          "summary": "多次征南唐，南压强敌，指向江北诸州。",
+          "place_id": "huai-nan",
+          "related_person_ids": [
+            "n-tang-houzhu"
+          ],
+          "sources": [
+            "旧五代史·世宗纪",
+            "新五代史·周本纪"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "958",
+          "date_note": "显德五年",
+          "title": "江北十四州",
+          "summary": "南唐献江北之地，周取十四州。",
+          "place_id": "huai-nan",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪",
+            "新五代史·周本纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "959",
+          "date_note": "显德六年",
+          "title": "北伐契丹",
+          "summary": "亲率北伐，收复关南部分州县，病重回师。",
+          "place_id": "guan-nan",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "959",
+          "date_note": "显德六年",
+          "title": "收复三关",
+          "summary": "北伐取关南三州，混一之志未竟而病重。",
+          "place_id": "guan-nan",
+          "related_person_ids": [],
+          "sources": [
+            "旧五代史·世宗纪"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "959",
+          "date_note": "显德六年",
+          "title": "遗命范质等",
+          "summary": "病重托孤于范质等，身后旋有陈桥之变。",
+          "place_id": "kai-feng",
+          "related_person_ids": [
+            "n-song-tai-zu"
+          ],
+          "sources": [
+            "旧五代史·世宗纪",
+            "宋史·太祖纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "959",
+          "date_note": "显德六年",
+          "title": "世宗崩",
+          "summary": "崩于开封，子宗训年幼继位，旋有陈桥兵变，周禅于宋。",
+          "place_id": "kai-feng",
+          "related_person_ids": [
+            "n-song-tai-zu"
+          ],
+          "sources": [
+            "旧五代史·世宗纪"
+          ],
+          "card_id": "E011"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "养父郭威，周太祖，禅位于荣（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "子宗训继位，旋禅于宋（页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "n-song-tai-zu",
+          "note": "殿前都点检赵匡胤，陈桥兵变承其后局"
+        },
+        {
+          "type": "rival",
+          "target_id": "n-tang-houzhu",
+          "note": "三征淮南，南唐献江北十四州"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "954",
+          "place_id": "kai-feng",
+          "event": "即位改元"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "954",
+          "place_id": "gao-ping",
+          "event": "高平之战"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "956",
+          "place_id": "huai-nan",
+          "event": "三征淮南，取江北十四州"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "959",
+          "place_id": "guan-nan",
+          "event": "北伐契丹，收复三关"
+        },
+        {
+          "group": "都城",
+          "order": 5,
+          "year": "959",
+          "place_id": "kai-feng",
+          "event": "病重托孤，崩于开封"
+        }
+      ],
+      "sources": [
+        {
+          "title": "旧五代史·周书·世宗纪",
+          "note": "年表主据"
+        },
+        {
+          "title": "新五代史·周本纪",
+          "note": "互见"
+        },
+        {
+          "title": "资治通鉴·后周纪",
+          "note": "编年对照"
+        },
+        {
+          "title": "宋史·太祖纪",
+          "note": "陈桥对照"
+        },
+        {
+          "title": "旧五代史·世宗纪",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "五代末改革与武功并著、为北宋统一奠基的关键皇帝，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 后周世宗 · 主要事迹\n\n柴荣在位不过六年，却是五代末局里承前启后的枢纽：上接养父后周太祖郭威的草创之业，下开[[n-song-tai-zu|宋太祖]]赵匡胤的统一之局。本页以《旧五代史·周书·世宗纪》为年表主线，辅以《新五代史·周本纪》与《资治通鉴》编年（本地参考库已备）。\n\n显德元年，郭威崩，柴荣即位改元。北汉与契丹联军压境，他亲征迎战，败之于高平，战后整肃禁军，一战确立新君权威。内政上同样果决：显德二年限寺减僧、毁铜佛铸钱以充财政军备；显德间又选练禁军、均定田赋，使国力回升。\n\n南方，他连年亲征南唐，显德三年起兵，四至五年间反复经略淮南，至显德五年南唐献出江北之地，周取十四州，把疆界推到长江北岸——这正是后来[[n-tang-houzhu|南唐后主]]一系被动局面的先声。显德六年，他转而北伐契丹，收复关南三关州县，兵锋直指幽州方向，却于军中病重，只得回师。\n\n回到开封后，他托孤于范质等，旋即驾崩，子宗训年幼继位。次年陈桥兵变，周禅于宋，他未竟的混一之志由宋人接手完成。史家每论其英年早逝：若得永年，宋史的开局或许改写——这桩假设，正是读五代末史时最耐人寻味的关节。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n柴荣在位不过六年，却是五代末局里承前启后的枢纽：上接养父后周太祖郭威的草创之业，下开"
+        },
+        {
+          "type": "link",
+          "id": "n-song-tai-zu",
+          "label": "宋太祖"
+        },
+        {
+          "type": "text",
+          "value": "赵匡胤的统一之局。本页以《旧五代史·周书·世宗纪》为年表主线，辅以《新五代史·周本纪》与《资治通鉴》编年（本地参考库已备）。\n\n显德元年，郭威崩，柴荣即位改元。北汉与契丹联军压境，他亲征迎战，败之于高平，战后整肃禁军，一战确立新君权威。内政上同样果决：显德二年限寺减僧、毁铜佛铸钱以充财政军备；显德间又选练禁军、均定田赋，使国力回升。\n\n南方，他连年亲征南唐，显德三年起兵，四至五年间反复经略淮南，至显德五年南唐献出江北之地，周取十四州，把疆界推到长江北岸——这正是后来"
+        },
+        {
+          "type": "link",
+          "id": "n-tang-houzhu",
+          "label": "南唐后主"
+        },
+        {
+          "type": "text",
+          "value": "一系被动局面的先声。显德六年，他转而北伐契丹，收复关南三关州县，兵锋直指幽州方向，却于军中病重，只得回师。\n\n回到开封后，他托孤于范质等，旋即驾崩，子宗训年幼继位。次年陈桥兵变，周禅于宋，他未竟的混一之志由宋人接手完成。史家每论其英年早逝：若得永年，宋史的开局或许改写——这桩假设，正是读五代末史时最耐人寻味的关节。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "zhou-gong",
@@ -9857,7 +14733,7 @@
       "names": {
         "display": "宋太祖",
         "personal": "赵匡胤",
-        "temple": null,
+        "temple": "太祖",
         "posthumous": null,
         "aliases": []
       },
@@ -9869,31 +14745,270 @@
       "reign": {
         "start": "960",
         "end": "976",
-        "eras": []
+        "eras": [
+          "建隆",
+          "乾德",
+          "开宝"
+        ]
       },
-      "summary": "索引占位：尚无人物专页，史料卡与正文待补。",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "976",
+        "birth_place_id": null,
+        "death_place_id": "kai-feng"
+      },
+      "summary": "陈桥兵变代周建宋，杯酒释兵权以强干弱枝，先南后北平定诸国的开国之君。",
+      "tags": [
+        "陈桥兵变",
+        "杯酒释兵权",
+        "先南后北",
+        "重文抑武"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/n-song-tai-zu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/n-song-tai-zu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "960",
+          "date_note": "建隆元年",
+          "title": "陈桥兵变",
+          "summary": "兵变黄袍加身，代周建宋，定都开封。陈桥是否预谋为争议层。",
+          "place_id": "chen-qiao",
+          "related_person_ids": [
+            "zhou-shi"
+          ],
+          "sources": [
+            "宋史·卷001·太祖纪"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "960",
+          "date_note": "建隆元年",
+          "title": "定都开封",
+          "summary": "宋都汴京，五代积习上的新朝。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷001"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "961",
+          "date_note": "建隆二年",
+          "title": "杯酒释兵权",
+          "summary": "以酒宴方式解除禁军宿将兵权，强干弱枝开端；细节有演绎。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·相关列传/长编系统",
+            "续资治通鉴长编·建隆二年"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "963",
+          "date_note": "建隆四年/乾德",
+          "title": "平荆湖",
+          "summary": "慕容延钊等平湖南、荆南，先南后北的第一步。",
+          "place_id": "jing-hu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷001"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "965",
+          "date_note": "乾德三年",
+          "title": "灭后蜀",
+          "summary": "王全斌等灭蜀。",
+          "place_id": "cheng-du",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷002"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "971",
+          "date_note": "开宝四年",
+          "title": "灭南汉",
+          "summary": "潘美等灭南汉，岭南入宋。",
+          "place_id": "pan-yu",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷002"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "975",
+          "date_note": "开宝八年",
+          "title": "灭南唐",
+          "summary": "曹彬平江南，李煜降。",
+          "place_id": "jin-ling",
+          "related_person_ids": [
+            "n-tang-houzhu"
+          ],
+          "sources": [
+            "宋史·卷003",
+            "宋史·卷478"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "976",
+          "date_note": "开宝九年",
+          "title": "太祖崩",
+          "summary": "崩于开封，在位结束；「烛影斧声」等为争议层，轻点不坐实。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷003·太祖纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "976",
+          "date_note": "开宝九年",
+          "title": "太宗即位",
+          "summary": "太宗立，朝廷人事与年号随之更始；金匮之盟为争议层。",
+          "place_id": "kai-feng",
+          "related_person_ids": [],
+          "sources": [
+            "宋史·卷003",
+            "宋史·太宗纪"
+          ],
+          "card_id": "E008"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": "zhou-shi",
+          "note": "后周世宗旧将，陈桥兵变代周建宋"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "弟太宗即位，金匮之盟为争议层（页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": "n-tang-houzhu",
+          "note": "开宝八年灭南唐，李煜降"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "960",
+          "place_id": "chen-qiao",
+          "event": "陈桥兵变"
+        },
+        {
+          "group": "都城",
+          "order": 2,
+          "year": "960",
+          "place_id": "kai-feng",
+          "event": "定都开封"
+        },
+        {
+          "group": "亲征",
+          "order": 3,
+          "year": "963",
+          "place_id": "jing-hu",
+          "event": "平荆湖"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "965",
+          "place_id": "cheng-du",
+          "event": "灭后蜀"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "971",
+          "place_id": "pan-yu",
+          "event": "灭南汉"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "975",
+          "place_id": "jin-ling",
+          "event": "灭南唐"
+        }
+      ],
+      "sources": [
+        {
+          "title": "宋史·太祖纪（卷001–003）",
+          "note": "年表主据"
+        },
+        {
+          "title": "续资治通鉴长编",
+          "note": "编年对照"
+        },
+        {
+          "title": "宋史·卷001",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "宋史·卷002",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "宋史·卷003",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": ""
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "北宋开国皇帝，结束五代格局、奠定宋代制度路径。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 宋太祖 · 主要事迹\n\n赵匡胤本是后周禁军将领，为[[zhou-shi|后周世宗]]旧部。建隆元年（960），陈桥驿兵变黄袍加身，代周建宋，定都开封——一个立在五代积习之上的新朝，就此登场。兵变是否预谋，史有争议，此处只作悬置。\n\n开国之后的第一道难题是兵权。建隆二年（961），以酒宴方式解除禁军宿将兵权，即所谓「杯酒释兵权」；其细节后世多有演绎，但收精兵、分事权的方向由此确定。配合抬高文官、分化兵权的安排，「强干弱枝」「重文抑武」成为宋代国势的长期路径，影响远超太祖一朝。\n\n统一战争取「先南后北」之策：建隆四年（963）慕容延钊等平荆湖，乾德三年（965）王全斌等灭后蜀，开宝四年（971）潘美等灭南汉，开宝八年（975）曹彬平江南，[[n-tang-houzhu|南唐后主李煜]]降。南方诸国次第入宋，五代以来的分裂格局大体收束。\n\n开宝九年（976），太祖崩于开封，其弟宋太宗即位。「烛影斧声」「金匮之盟」历来是这一交接的争议层，本页只点到，不作坐实。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n赵匡胤本是后周禁军将领，为"
+        },
+        {
+          "type": "link",
+          "id": "zhou-shi",
+          "label": "后周世宗"
+        },
+        {
+          "type": "text",
+          "value": "旧部。建隆元年（960），陈桥驿兵变黄袍加身，代周建宋，定都开封——一个立在五代积习之上的新朝，就此登场。兵变是否预谋，史有争议，此处只作悬置。\n\n开国之后的第一道难题是兵权。建隆二年（961），以酒宴方式解除禁军宿将兵权，即所谓「杯酒释兵权」；其细节后世多有演绎，但收精兵、分事权的方向由此确定。配合抬高文官、分化兵权的安排，「强干弱枝」「重文抑武」成为宋代国势的长期路径，影响远超太祖一朝。\n\n统一战争取「先南后北」之策：建隆四年（963）慕容延钊等平荆湖，乾德三年（965）王全斌等灭后蜀，开宝四年（971）潘美等灭南汉，开宝八年（975）曹彬平江南，"
+        },
+        {
+          "type": "link",
+          "id": "n-tang-houzhu",
+          "label": "南唐后主李煜"
+        },
+        {
+          "type": "text",
+          "value": "降。南方诸国次第入宋，五代以来的分裂格局大体收束。\n\n开宝九年（976），太祖崩于开封，其弟宋太宗即位。「烛影斧声」「金匮之盟」历来是这一交接的争议层，本页只点到，不作坐实。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "n-song-tai-zong",
@@ -11657,7 +16772,7 @@
       "names": {
         "display": "元世祖",
         "personal": "忽必烈",
-        "temple": null,
+        "temple": "世祖",
         "posthumous": null,
         "aliases": []
       },
@@ -11669,31 +16784,318 @@
       "reign": {
         "start": "1260",
         "end": "1294",
-        "eras": []
+        "eras": [
+          "中统",
+          "至元"
+        ]
       },
-      "summary": "至元八年建国号大元",
-      "tags": [],
-      "timeline": [],
-      "relations": [],
-      "routes": [],
-      "sources": [],
-      "bio_md": "",
-      "bio_parts": [
+      "life": {
+        "birth": null,
+        "death": "1294",
+        "birth_place_id": null,
+        "death_place_id": "da-du"
+      },
+      "summary": "灭宋完成大一统，建国号大元、定都大都，以行省与站赤制度塑造后世格局的征服王朝皇帝。",
+      "tags": [
+        "大一统",
+        "灭宋",
+        "行省",
+        "建都"
+      ],
+      "portrait": {
+        "primary": "assets/portraits/yuan-shi-zu/primary.png",
+        "variants": [],
+        "style_version": "v1",
+        "appearance_basis": "传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "prompt_ref": "tools/prompts/portrait-v1.md",
+        "disclaimer": "艺术想象，非考古复原"
+      },
+      "bio": {
+        "file": "content/bios/yuan-shi-zu.md"
+      },
+      "timeline": [
         {
-          "type": "text",
-          "value": "本页为索引灰卡（stub）。已收录身份与在位年，完整事迹、年表与地图路线待撰写。"
+          "year": "1260",
+          "date_note": "中统元年",
+          "title": "开平即位",
+          "summary": "即大汗位，建元中统，朝廷人事与年号随之更始。",
+          "place_id": "shang-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷004·世祖纪"
+          ],
+          "card_id": "E001"
+        },
+        {
+          "year": "1260",
+          "date_note": "中统元年",
+          "title": "与阿里不哥争位",
+          "summary": "汗位内战，忽必烈胜。",
+          "place_id": "shang-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷004"
+          ],
+          "card_id": "E002"
+        },
+        {
+          "year": "1264",
+          "date_note": "至元元年",
+          "title": "改元至元",
+          "summary": "中统改至元，汉地制度推进。",
+          "place_id": "da-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷005"
+          ],
+          "card_id": "E003"
+        },
+        {
+          "year": "1271",
+          "date_note": "至元八年",
+          "title": "建国号元",
+          "summary": "取《易》「大哉乾元」之义，建国号大元。",
+          "place_id": "da-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷007·世祖纪"
+          ],
+          "card_id": "E004"
+        },
+        {
+          "year": "1272",
+          "date_note": "至元九年",
+          "title": "都于大都",
+          "summary": "改中都为大都，政治中心落于燕地。",
+          "place_id": "da-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷007"
+          ],
+          "card_id": "E005"
+        },
+        {
+          "year": "1273",
+          "date_note": "至元十年",
+          "title": "襄樊破",
+          "summary": "襄阳破，灭宋关键节点。",
+          "place_id": "xiang-yang",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷008",
+            "宋史·瀛国公纪（对照）"
+          ],
+          "card_id": "E006"
+        },
+        {
+          "year": "1276",
+          "date_note": "至元十三年",
+          "title": "下临安",
+          "summary": "伯颜入临安，宋廷降，残部入海。",
+          "place_id": "lin-an",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷009",
+            "宋史·瀛国公纪"
+          ],
+          "card_id": "E007"
+        },
+        {
+          "year": "1276",
+          "date_note": "至元十三年",
+          "title": "伯颜入临安",
+          "summary": "宋廷降表。",
+          "place_id": "lin-an",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷009"
+          ],
+          "card_id": "E008"
+        },
+        {
+          "year": "1279",
+          "date_note": "至元十六年",
+          "title": "崖山灭宋",
+          "summary": "崖山之战，宋亡，中国再度大一统于元。",
+          "place_id": "ya-shan",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷010",
+            "宋史·二王本纪"
+          ],
+          "card_id": "E009"
+        },
+        {
+          "year": "1281",
+          "date_note": "至元十八年",
+          "title": "再征日本失败",
+          "summary": "东征舰队风灾，扩张受挫。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷011"
+          ],
+          "card_id": "E010"
+        },
+        {
+          "year": "1294",
+          "date_note": "至元三十一年",
+          "title": "世祖崩",
+          "summary": "成宗继，混一格局延续。",
+          "place_id": "da-du",
+          "related_person_ids": [],
+          "sources": [
+            "元史·卷017"
+          ],
+          "card_id": "E011"
+        },
+        {
+          "year": "undated",
+          "date_note": "至元间",
+          "title": "行省与站赤",
+          "summary": "行省制、驿站网络等，塑造后世行政区与交通遗产。",
+          "place_id": null,
+          "related_person_ids": [],
+          "sources": [
+            "元史·百官志/兵志"
+          ],
+          "card_id": "E012"
+        }
+      ],
+      "relations": [
+        {
+          "type": "predecessor",
+          "target_id": null,
+          "note": "元宪宗蒙哥（页待建）"
+        },
+        {
+          "type": "successor",
+          "target_id": null,
+          "note": "元成宗铁穆耳（页待建）"
+        },
+        {
+          "type": "rival",
+          "target_id": null,
+          "note": "阿里不哥（汗位战对手，页待建）"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "qin-shi-huang",
+          "note": "两次完成大一统的长线对照"
+        },
+        {
+          "type": "related_emperor",
+          "target_id": "n-song-tai-zu",
+          "note": "宋之开国与宋之终结的对读"
+        }
+      ],
+      "routes": [
+        {
+          "group": "都城",
+          "order": 1,
+          "year": "1260",
+          "place_id": "shang-du",
+          "event": "开平即位"
+        },
+        {
+          "group": "亲征",
+          "order": 2,
+          "year": "1260",
+          "place_id": "shang-du",
+          "event": "与阿里不哥争位（开平/漠北）"
+        },
+        {
+          "group": "迁都",
+          "order": 3,
+          "year": "1272",
+          "place_id": "da-du",
+          "event": "都于大都"
+        },
+        {
+          "group": "亲征",
+          "order": 4,
+          "year": "1273",
+          "place_id": "xiang-yang",
+          "event": "襄樊破"
+        },
+        {
+          "group": "亲征",
+          "order": 5,
+          "year": "1276",
+          "place_id": "lin-an",
+          "event": "下临安"
+        },
+        {
+          "group": "亲征",
+          "order": 6,
+          "year": "1279",
+          "place_id": "ya-shan",
+          "event": "崖山灭宋"
+        },
+        {
+          "group": "都城",
+          "order": 7,
+          "year": "1294",
+          "place_id": "da-du",
+          "event": "世祖崩"
+        }
+      ],
+      "sources": [
+        {
+          "title": "元史·世祖本纪（卷004–017）",
+          "note": "年表主据"
+        },
+        {
+          "title": "宋史·瀛国公纪 / 二王本纪",
+          "note": "平宋对照"
+        },
+        {
+          "title": "资治通鉴",
+          "note": "书目所列编年参照（通鉴止于五代）"
+        },
+        {
+          "title": "元史·卷004·世祖纪",
+          "note": "史料卡同步"
+        },
+        {
+          "title": "元史·百官志/兵志",
+          "note": "史料卡同步"
         }
       ],
       "meta": {
-        "status": "stub",
-        "confidence": "low",
-        "page_status": "stub",
-        "note": "至元八年建国号大元"
+        "status": "draft",
+        "confidence": "medium",
+        "last_reviewed": "2026-08-08",
+        "inclusion_reason": "元开国与灭宋完成大一统的关键皇帝，正史立纪。",
+        "synced_from_cards": true,
+        "page_status": "draft"
       },
-      "page_status": "stub",
-      "portrait": {
-        "disclaimer": "画像暂缓"
-      }
+      "bio_md": "# 元世祖 · 主要事迹\n\n忽必烈是把蒙古汗国改写为中原式王朝、并完成唐亡以来再度大一统的皇帝。本页以《元史·世祖本纪》（卷004–017）为年表主线，平宋一段辅以《宋史·瀛国公纪》《二王本纪》对照（本地参考库已备）。\n\n他的开局是一场汗位内战：中统元年（1260）即大汗位于开平，建元中统，随即与阿里不哥争位并胜出。此后汉地制度逐步推进：至元元年（1264）改元，至元八年（1271）取《易》「大哉乾元」之义建国号大元，至元九年（1272）改中都为大都，政治中心落定燕地。\n\n灭宋是其在位中段的主线：至元十年（1273）襄阳破，打开南下关键节点；至元十三年（1276）伯颜入临安，宋廷降，残部入海；至元十六年（1279）崖山之战，宋亡，中国再度大一统于元。与[[qin-shi-huang|秦始皇]]对读，可见两次大一统之间的长线呼应；与[[n-song-tai-zu|宋太祖]]对读，则见赵宋开国与终结的首尾。\n\n他的武功也有边界：至元十八年（1281）再征日本，东征舰队遇风灾而败，扩张受挫。真正影响后世更深的是制度遗产——行省制与站赤驿站网络塑造了后世的行政区划与交通格局。至元三十一年（1294）世祖崩于大都，成宗继立，混一格局延续。对这位征服王朝皇帝，正统与汉地治理的评价历来撕裂，本页取中性叙述，其历史后效则无可争议。\n",
+      "bio_parts": [
+        {
+          "type": "text",
+          "value": "\n忽必烈是把蒙古汗国改写为中原式王朝、并完成唐亡以来再度大一统的皇帝。本页以《元史·世祖本纪》（卷004–017）为年表主线，平宋一段辅以《宋史·瀛国公纪》《二王本纪》对照（本地参考库已备）。\n\n他的开局是一场汗位内战：中统元年（1260）即大汗位于开平，建元中统，随即与阿里不哥争位并胜出。此后汉地制度逐步推进：至元元年（1264）改元，至元八年（1271）取《易》「大哉乾元」之义建国号大元，至元九年（1272）改中都为大都，政治中心落定燕地。\n\n灭宋是其在位中段的主线：至元十年（1273）襄阳破，打开南下关键节点；至元十三年（1276）伯颜入临安，宋廷降，残部入海；至元十六年（1279）崖山之战，宋亡，中国再度大一统于元。与"
+        },
+        {
+          "type": "link",
+          "id": "qin-shi-huang",
+          "label": "秦始皇"
+        },
+        {
+          "type": "text",
+          "value": "对读，可见两次大一统之间的长线呼应；与"
+        },
+        {
+          "type": "link",
+          "id": "n-song-tai-zu",
+          "label": "宋太祖"
+        },
+        {
+          "type": "text",
+          "value": "对读，则见赵宋开国与终结的首尾。\n\n他的武功也有边界：至元十八年（1281）再征日本，东征舰队遇风灾而败，扩张受挫。真正影响后世更深的是制度遗产——行省制与站赤驿站网络塑造了后世的行政区划与交通格局。至元三十一年（1294）世祖崩于大都，成宗继立，混一格局延续。对这位征服王朝皇帝，正统与汉地治理的评价历来撕裂，本页取中性叙述，其历史后效则无可争议。"
+        }
+      ],
+      "page_status": "draft"
     },
     {
       "id": "yuan-cheng-zong",
@@ -13458,8 +18860,8 @@
   ],
   "catalog_stats": {
     "total": 269,
-    "stub": 264,
-    "draft": 5,
+    "stub": 247,
+    "draft": 22,
     "quasi": 53,
     "emperor": 216
   }
