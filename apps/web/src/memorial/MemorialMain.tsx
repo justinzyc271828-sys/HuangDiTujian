@@ -49,7 +49,6 @@ export default function MemorialMain({
         {emperor.illustration ? (
           <figure className="hero-illu">
             <img src={`/${emperor.illustration}`} alt={`${emperor.names.display}插画（AI 艺术想象）`} />
-            <figcaption>AI 史书想象插画 · 岩彩裂壁 · 非考古复原</figcaption>
           </figure>
         ) : (
           <div className="hero-illu hero-illu-empty">
@@ -187,10 +186,6 @@ export default function MemorialMain({
             ))}
           </ul>
         )}
-        <p className="m-disclaimer">
-          {emperor.portrait?.disclaimer || "画像为艺术想象，非考古复原。"}
-          文稿 status={emperor.meta?.status || "draft"}。
-        </p>
       </section>
     </main>
   );

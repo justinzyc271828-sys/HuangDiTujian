@@ -36,7 +36,7 @@
 /* ---------------- 主题 token ---------------- */
 
 /* 绫裱：浅文深框（推荐） */
-.memorial-root[data-theme="frame"] {
+.memorial-root {
   --page-bg: #161210;
   --noise-opacity: 0.10;
   --noise-blend: screen;
@@ -54,81 +54,6 @@
   --cover-ink: #e6d9bd;
   --cover-ink-dim: #a3906c;
   --door-bg: #251c13;
-}
-
-/* 岩彩：全深 */
-.memorial-root[data-theme="ink"] {
-  --page-bg: #100d0b;
-  --noise-opacity: 0.14;
-  --noise-blend: screen;
-  --paper-bg: #1e1813;
-  --paper-bg-2: #262019;
-  --ink: #e6d9bd;
-  --ink-soft: #a8977a;
-  --panel-line: #4a3f2e;
-  --toc-bg: #171310;
-  --toc-ink: #d8c9a8;
-  --toc-ink-dim: #8f8064;
-  --map-bg: #241d15;
-  --edge-gold: #8a6d36;
-  --cover-bg: #1c1611;
-  --cover-ink: #e6d9bd;
-  --cover-ink-dim: #a3906c;
-  --door-bg: #221a12;
-}
-
-/* 宣纸：全浅雅 */
-.memorial-root[data-theme="paper"] {
-  --page-bg: #e7dfca;
-  --noise-opacity: 0.08;
-  --noise-blend: multiply;
-  --paper-bg: #faf5e8;
-  --paper-bg-2: #f0e8d4;
-  --ink: #2a241c;
-  --ink-soft: #5c5346;
-  --panel-line: #c9b99a;
-  --toc-bg: #efe7d2;
-  --toc-ink: #3a3226;
-  --toc-ink-dim: #7a6f5c;
-  --map-bg: #fbf8f0;
-  --edge-gold: #a98b52;
-  --cover-bg: #f6efdd;
-  --cover-ink: #2a241c;
-  --cover-ink-dim: #7a6f5c;
-  --door-bg: #ddd1b4;
-}
-
-/* ---------------- 主题切换器 ---------------- */
-
-.theme-switch {
-  position: fixed;
-  top: 0.9rem;
-  right: 0.9rem;
-  z-index: 60;
-  display: flex;
-  gap: 0.3rem;
-  background: rgba(16, 13, 11, 0.72);
-  border: 1px solid rgba(212, 175, 106, 0.4);
-  border-radius: 999px;
-  padding: 0.25rem;
-  backdrop-filter: blur(6px);
-}
-
-.theme-switch button {
-  border: none;
-  background: transparent;
-  color: #cbbd9a;
-  font-size: 0.78rem;
-  padding: 0.3rem 0.7rem;
-  border-radius: 999px;
-  cursor: pointer;
-  letter-spacing: 0.06em;
-}
-
-.theme-switch button.on {
-  background: var(--gold);
-  color: #161210;
-  font-weight: 700;
 }
 
 /* ---------------- 封面（合页态） ---------------- */
@@ -662,13 +587,6 @@
   height: auto;
 }
 
-.hero-illu figcaption {
-  font-size: 0.74rem;
-  color: var(--ink-soft);
-  padding: 0.4rem 0.6rem;
-  background: var(--paper-bg-2);
-}
-
 .hero-illu-empty {
   display: grid;
   place-items: center;
@@ -751,13 +669,6 @@
   font-size: 0.92rem;
   font-family: var(--serif);
   letter-spacing: 0.06em;
-}
-
-.stat-label em {
-  font-style: normal;
-  font-size: 0.72rem;
-  color: #a8977a;
-  margin-left: 0.4rem;
 }
 
 .stat-grade {
@@ -897,12 +808,6 @@
   margin-bottom: 0.3rem;
 }
 
-.m-disclaimer {
-  margin-top: 0.9rem;
-  font-size: 0.78rem;
-  color: var(--ink-soft);
-}
-
 /* ---------------- 右栏地图 ---------------- */
 
 .spread-right {
@@ -942,6 +847,88 @@
   display: block;
   width: 100%;
   height: auto;
+}
+
+/* —— 朝代疆域示意色块（垫最底层） —— */
+.map-territory .territory-core {
+  fill: var(--edge-gold);
+  fill-opacity: 0.09;
+  stroke: var(--edge-gold);
+  stroke-width: 1;
+  stroke-opacity: 0.4;
+  stroke-linejoin: round;
+}
+
+.map-territory .territory-loose {
+  fill: var(--edge-gold);
+  fill-opacity: 0.045;
+  stroke: var(--edge-gold);
+  stroke-width: 0.9;
+  stroke-opacity: 0.32;
+  stroke-dasharray: 4 3;
+  stroke-linejoin: round;
+}
+
+/* —— 示意底图（海岸线 / 河岳 / 参照城），墨色淡显不抢路线 —— */
+.map-base .base-coast {
+  stroke: var(--ink);
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+  opacity: 0.22;
+}
+
+.map-base .base-river {
+  stroke: #3d6e6e;
+  stroke-width: 1.5;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  opacity: 0.38;
+}
+
+.map-base .base-range path {
+  fill: var(--ink);
+  opacity: 0.18;
+}
+
+.map-base .base-range > path:first-child {
+  fill: none;
+  stroke: none;
+}
+
+.map-base .base-range text {
+  font-size: 7.5px;
+  fill: var(--ink-soft);
+  opacity: 0.6;
+  letter-spacing: 0.08em;
+}
+
+.map-base .base-terrain {
+  font-size: 8.5px;
+  fill: var(--ink-soft);
+  opacity: 0.38;
+  letter-spacing: 0.25em;
+}
+
+.map-base .base-mtn path {
+  fill: var(--ink);
+  opacity: 0.32;
+}
+
+.map-base .base-mtn text {
+  font-size: 8px;
+  fill: var(--ink-soft);
+  opacity: 0.85;
+}
+
+.map-base .base-city circle {
+  fill: var(--ink);
+  opacity: 0.35;
+}
+
+.map-base .base-city text {
+  font-size: 8px;
+  fill: var(--ink-soft);
+  opacity: 0.75;
 }
 
 .map-legend {

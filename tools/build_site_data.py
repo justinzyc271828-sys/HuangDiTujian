@@ -27,6 +27,8 @@ def load_yaml(path: Path):
 
 
 def parse_bio(md: str) -> list[dict]:
+    # 奏折页自绘「主要事迹」标题，bio 里的 ATX 标题行不再透出
+    md = "\n".join(line for line in md.splitlines() if not line.lstrip().startswith("#"))
     parts: list[dict] = []
     last = 0
     for m in LINK_RE.finditer(md):

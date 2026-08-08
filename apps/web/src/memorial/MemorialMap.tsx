@@ -1,5 +1,7 @@
 import { useMemo } from "react";
 import type { Emperor, Place, RoutePoint } from "../types";
+import { BASE_CITIES, COAST, ISLANDS, MOUNTAINS, RANGES, RIVERS, TERRAIN } from "./chinaBase";
+import { TERRITORY } from "./territory";
 
 const GROUP_COLOR: Record<string, string> = {
   都城: "#6b5c42",
@@ -88,11 +90,67 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
       })
     : [];
 
+  /* 地图标记：同一地点多次到访只画一个点、只标一次名（事件列表仍逐条） */
+  const markers = useMemo(() => {
+    const seen = new Set<string>();
+    return pts.filter((p) => {
+      if (seen.has(p.r.place_id)) return false;
+      seen.add(p.r.place_id);
+      return true;
+    });
+  }, [pts]);
+
+  /* 连线路径：仅去掉连续重复的同地点段，保留 A→B→A 往返弧 */
+  const seq = useMemo(
+    () => pts.filter((p, i) => i === 0 || p.r.place_id !== pts[i - 1].r.place_id),
+    [pts]
+  );
+
+  /* 示意底图（海岸线/河岳/参照城）与路线共用同一投影与视野；
+     与路线点贴近的山岳/城市标注隐藏，避免叠字 */
+  const base = useMemo(() => {
+    if (!bounds) return null;
+    const toPath = (coords: [number, number][]) =>
+      coords
+        .map(([lng, lat], i) => {
+          const { x, y } = project(lng, lat, bounds, w, h);
+          return `${i === 0 ? "M" : "L"} ${x.toFixed(1)} ${y.toFixed(1)}`;
+        })
+        .join(" ");
+    const nearMarker = (x: number, y: number, r: number) =>
+      markers.some((p) => Math.abs(p.x - x) < r && Math.abs(p.y - y) < r);
+    const territory = TERRITORY[emperor.dynasty.id] ?? null;
+    return {
+      territory: territory
+        ? {
+            label: territory.label,
+            year: territory.year,
+            parts: territory.parts.map((p) => ({ kind: p.kind, d: `${toPath(p.ring)} Z` })),
+          }
+        : null,
+      coast: toPath(COAST),
+      islands: ISLANDS.map((ring) => `${toPath(ring)} Z`),
+      ranges: RANGES.map((r) => ({
+        name: r.name,
+        d: toPath(r.pts),
+        verts: r.pts.map(([lng, lat]) => project(lng, lat, bounds, w, h)),
+      })),
+      rivers: RIVERS.map((r) => ({ id: r.id, d: toPath(r.pts) })),
+      terrain: TERRAIN.map((t) => ({ ...t, ...project(t.lng, t.lat, bounds, w, h) })),
+      mountains: MOUNTAINS.map((m) => ({ ...m, ...project(m.lng, m.lat, bounds, w, h) })).filter(
+        (m) => !nearMarker(m.x, m.y, 34)
+      ),
+      cities: BASE_CITIES.map((c) => ({ ...c, ...project(c.lng, c.lat, bounds, w, h) })).filter(
+        (c) => !nearMarker(c.x, c.y, 46)
+      ),
+    };
+  }, [bounds, markers, emperor.dynasty.id]);
+
   /* 标签避让：按 y 升序逐个放置，重叠时下移或再推 */
   const labelY = useMemo(() => {
     const pos = new Map<number, number>();
     const placed: { x: number; y: number }[] = [];
-    const sorted = pts.map((p, i) => ({ ...p, i })).sort((a, b) => a.y - b.y);
+    const sorted = markers.map((p, i) => ({ ...p, i })).sort((a, b) => a.y - b.y);
     for (const p of sorted) {
       let ly = p.y - 8;
       for (const q of placed) {
@@ -105,7 +163,7 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
       pos.set(p.i, ly);
     }
     return pos;
-  }, [pts]);
+  }, [markers]);
 
   const groups = [...new Set(pts.map((p) => p.r.group))];
 
@@ -121,7 +179,6 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
   return (
     <aside className="memorial-map">
       <h2 className="map-title">一生地图</h2>
-      <p className="map-hint">示意底图（非严肃 GIS）。点击事件与年表联动。</p>
       <div className="map-frame">
         <svg
           className="map-svg"
@@ -141,8 +198,63 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
             rx={6}
           />
 
-          {pts.slice(0, -1).map((p, i) => {
-            const np = pts[i + 1];
+          {base?.territory && (
+            <g className="map-territory" aria-hidden="true">
+              {base.territory.parts.map((p, i) => (
+                <path key={i} className={`territory-${p.kind}`} d={p.d} />
+              ))}
+            </g>
+          )}
+
+          {base && (
+            <g className="map-base" aria-hidden="true">
+              <path className="base-coast" d={base.coast} fill="none" />
+              {base.islands.map((d, i) => (
+                <path key={i} className="base-coast" d={d} fill="none" />
+              ))}
+              {base.ranges.map((r) => (
+                <g key={r.name} className="base-range">
+                  <path d={r.d} fill="none" />
+                  {r.verts.map((v, i) => (
+                    <path
+                      key={i}
+                      d={`M ${v.x - 3} ${v.y + 2} L ${v.x} ${v.y - 3} L ${v.x + 3} ${v.y + 2} Z`}
+                    />
+                  ))}
+                  <text x={r.verts[Math.floor(r.verts.length / 2)].x + 6} y={r.verts[Math.floor(r.verts.length / 2)].y - 4}>
+                    {r.name}
+                  </text>
+                </g>
+              ))}
+              {base.rivers.map((r) => (
+                <path key={r.id} className="base-river" d={r.d} fill="none" />
+              ))}
+              {base.terrain.map((t) => (
+                <text key={t.name} className="base-terrain" x={t.x} y={t.y} textAnchor="middle">
+                  {t.name}
+                </text>
+              ))}
+              {base.mountains.map((m) => (
+                <g key={m.name} className="base-mtn">
+                  <path d={`M ${m.x - 4} ${m.y + 3} L ${m.x} ${m.y - 4} L ${m.x + 4} ${m.y + 3} Z`} />
+                  <text x={m.x + 6} y={m.y + 3}>
+                    {m.name}
+                  </text>
+                </g>
+              ))}
+              {base.cities.map((c) => (
+                <g key={c.name} className="base-city">
+                  <circle cx={c.x} cy={c.y} r={1.8} />
+                  <text x={c.x + 5} y={c.y + 3}>
+                    {c.name}
+                  </text>
+                </g>
+              ))}
+            </g>
+          )}
+
+          {seq.slice(0, -1).map((p, i) => {
+            const np = seq[i + 1];
             const color = GROUP_COLOR[p.r.group] || GROUP_COLOR.其他;
             return (
               <path
@@ -156,7 +268,7 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
             );
           })}
 
-          {pts.map((p, i) => {
+          {markers.map((p, i) => {
             const color = GROUP_COLOR[p.r.group] || GROUP_COLOR.其他;
             const isActive = p.r.place_id === activePlaceId;
             return (

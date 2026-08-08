@@ -117,10 +117,7 @@ export default function StandPlate({ axes, profile }: Props) {
         <ul className="plate-stats">
           {axes.map((ax) => (
             <li key={ax.key}>
-              <span className="stat-label">
-                {ax.label}
-                <em>{ax.jojo}</em>
-              </span>
+              <span className="stat-label">{ax.label}</span>
               <b className="stat-grade">{gradeOfScore(profile.scores[ax.key] ?? 0)}</b>
             </li>
           ))}

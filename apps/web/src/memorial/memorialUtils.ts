@@ -1,12 +1,3 @@
-export type MemorialTheme = "frame" | "ink" | "paper";
-
-export const THEMES: { id: MemorialTheme; label: string }[] = [
-  { id: "frame", label: "绫裱" },
-  { id: "ink", label: "岩彩" },
-  { id: "paper", label: "宣纸" },
-];
-
-export const THEME_KEY = "hdtj-memorial-theme";
 export const DIRECT_KEY = "hdtj-memorial-direct";
 
 /** 百分制评分 → 品第（stand_stats.json 为 0–100） */
