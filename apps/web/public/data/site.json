@@ -616,7 +616,8 @@
           "value": "的封禅与开边，亦可与此页长线对读。\n\n> 本地参考：点校本《史记》、谭图第 2 册、纪年表（见 `HuangDiTujian-Ref`）。MVP 文稿供闭环演示，精修见史源卡。\n"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/qin-shi-huang.png"
     },
     {
       "id": "qin-er-shi",
@@ -1488,7 +1489,8 @@
           "value": "对读：可见汉家从草创到极盛的跨度。\n\n> MVP 文稿为演示闭环，细节与争议以史源卡后续精修为准。\n"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/han-wu-di.png"
     },
     {
       "id": "han-zhao-di",

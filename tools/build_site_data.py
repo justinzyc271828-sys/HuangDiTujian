@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import sys
 from pathlib import Path
 
@@ -16,6 +17,7 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "apps" / "web" / "public" / "data" / "site.json"
 MASTER = ROOT / "data" / "catalog" / "emperors_master.json"
+ILLU_DIR = ROOT / "assets" / "video-01" / "emperor-illustrations" / "outputs"
 LINK_RE = re.compile(r"\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]")
 
 
@@ -114,6 +116,24 @@ def main() -> int:
         meta["page_status"] = "draft"
         d["meta"] = meta
         full[d["id"]] = d
+
+    # video-01 已批准插画：拷贝到 public/illustrations/ 并写入 illustration 字段
+    illu_copied: dict[str, str] = {}
+    if ILLU_DIR.is_dir():
+        illu_out = OUT.parent.parent / "illustrations"
+        illu_out.mkdir(parents=True, exist_ok=True)
+        for png in sorted(ILLU_DIR.glob("*.png")):
+            m = re.fullmatch(r"\d+-(.+)\.png", png.name)
+            if not m:
+                continue
+            eid = m.group(1)
+            shutil.copy2(png, illu_out / f"{eid}.png")
+            illu_copied[eid] = f"illustrations/{eid}.png"
+    for eid, rel in illu_copied.items():
+        if eid in full:
+            full[eid]["illustration"] = rel
+    if illu_copied:
+        print(f"OK -> illustrations copied: {len(illu_copied)}")
 
     master_list: list[dict] = []
     if MASTER.is_file():

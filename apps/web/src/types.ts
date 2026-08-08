@@ -69,6 +69,7 @@ export type Emperor = {
   };
   bio_parts?: BioPart[];
   bio_md?: string;
+  illustration?: string | null;
   portrait?: { disclaimer?: string };
 };
 
