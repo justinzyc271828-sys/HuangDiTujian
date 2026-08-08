@@ -59,7 +59,7 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 | 定格年龄 | 约二十七（太和迁洛） |
 | 外貌证据 | **A/B** |
 | 冠服证据 | **B** |
-| 一句话场景 | 白皙青年在洛阳城楼一边解辫一边披汉袍。 |
+| 一句话场景 | 白皙青年已着完整汉服立于洛阳城楼，手中握着解下的辫绳。 |
 | 势力画风 | 胡汉渐变滤镜：笳→雅乐。 |
 | 气质 | 解辫更张 |
 
@@ -73,15 +73,15 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 ### 2.2 外貌（脸·体）
 
-白皙青年，秀挺骨相，半解辫。
+白皙青年，秀挺骨相，发式已整为汉式高髻，神情坚决。
 
 ### 2.3 冠服（必须设计进画面）
 
-【左半/外】鲜卑窄袖褶袴、蹀躞带未尽卸；【右半/内】汉式宽袖朝服、进贤/通天简化冠在手或半戴；色彩从苍褐过渡到绛红礼服。
+【身上】完整连贯的绛红汉式宽袖朝服与简化进贤冠；【旧服】鲜卑窄袖骑装与蹀躞带折叠搭在城楼栏杆，不与身上服装拼接；色彩从背景苍褐过渡到人物绛红。
 
 ### 2.4 饰品与道具
 
-解下的辫绳；汉冠；南迁车队铃；洛阳城砖。
+解下的辫绳置于手中；折叠胡服；南迁车队铃；洛阳城砖。
 
 ### 2.5 背景空间
 
@@ -98,13 +98,13 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 ### Positive
 
 ```
-16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, mid-unbraiding hair, COSTUME: half northern Xianbei narrow-sleeve riding dress with belt hooks still on, half putting on wide-sleeve Han court robe, Han-style cap in hand or half-worn, color shift from earth-brown to ritual crimson, ACCESSORIES AND PROPS: loose braid cords, Han court cap, distant cart bells of southern migration, Luoyang bricks, POSE: on city tower, hands in hair and robe, transformative mid-action, BACKGROUND SET: Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light, ART DIRECTION: gradient cultural-reform lyrical painting, two dress systems in one body, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly editorial illustration (not photo), cohesive hand-painted historical graphic-novel rendering across the series, one clearly dominant emperor with at most indistinct contextual figures, historically grounded costume construction, one readable action, one dominant background motif, controlled depth, dramatic cinematic light, medium-wide hero framing, a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, hair already arranged in a coherent Han-style topknot, COSTUME: one fully coherent ritual-crimson Han-style wide-sleeve court robe and a simplified jinxian cap, an old northern Xianbei narrow-sleeve riding coat and belt folded over the stone parapet, never split across his body, ACCESSORIES AND PROPS: removed braid cord held in one hand, folded riding coat, distant cart bells of southern migration, Luoyang bricks, POSE: standing on a city tower in completed new court dress, looking south while holding the removed braid cord, BACKGROUND SET: Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light, ART DIRECTION: gradient cultural-reform lyrical painting, old and new dress separated cleanly between figure and prop, the protagonist occupies 45 to 60 percent of frame height and the face stays in the central picture area, keep the lower-left 30 by 38 percent visually quiet and dark with no face hands or weapons for a radar overlay, keep the upper-right 25 percent clean and darker for Chinese titles, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, crowded composition, multiple focal characters, cropped head, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings

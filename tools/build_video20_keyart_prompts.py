@@ -182,9 +182,9 @@ def main():
     CARDS.mkdir(parents=True, exist_ok=True)
 
     overlay = {
-        "version": "2.0",
+        "version": "2.1",
         "batch": "video-01",
-        "prompt_rule": "appearance-grounded self-contained EN; no name-only prompts",
+        "prompt_rule": "appearance-grounded composition-safe EN; no name-only prompts",
         "axes": [zh for _, zh in AXIS_LABELS],
         "cards": [],
     }
@@ -193,7 +193,7 @@ def main():
         "|---|-----|-----------|----------|----------|----------|-----|",
     ]
     en_only = [
-        "# video-01 key-art EN prompts v2 — appearance-grounded, self-contained",
+        "# video-01 key-art EN prompts v4 — appearance-grounded, composition-safe",
         "# Do not rely on the model recognizing historical names",
         "",
     ]
@@ -292,9 +292,9 @@ def main():
         ]
     (OUT / "02-外貌史证索引.md").write_text("\n".join(app_idx), encoding="utf-8")
 
-    readme = f"""# Key Art · 静态主画面文字包 v3
+    readme = f"""# Key Art · 静态主画面文字包 v4
 
-> **v3**：每人强制拆开 **外貌 / 冠服 / 饰品道具 / 背景 / 画风**，史证+人物气质双约束；英文 prompt 分段写死。  
+> **v4**：保留外貌与冠服史证，统一人物尺度、雷达/标题安全区，并修正事件归属与易漂移服制。
 > 不在此生成图片。
 
 ## 硬规则
@@ -317,8 +317,8 @@ def main():
 
 ## 完成度
 
-- 卡片：{len(overlay['cards'])} / 20  
-- 缺：{missing or '无'}  
+- 卡片：{len(overlay['cards'])} / 20
+- 缺：{missing or '无'}
 """
     (OUT / "README.md").write_text(readme, encoding="utf-8")
 

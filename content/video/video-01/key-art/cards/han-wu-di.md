@@ -21,8 +21,8 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 ```
 [代表事]
-封狼居胥
-漠北勒石
+漠北决战
+霍去病封狼居胥
 ```
 
 ### 右下 · 四字号 + 姓名
@@ -56,41 +56,42 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 
 | 项 | 内容 |
 |----|------|
-| 定格年龄 | 约五十（漠北叙事） |
+| 定格年龄 | 约三十八（元狩四年/前119） |
 | 外貌证据 | **C** |
 | 冠服证据 | **B** |
-| 一句话场景 | 绛披风金甲的五十雄主立在漠北风口。 |
+| 一句话场景 | 盛年汉武帝在军案前下令，远景霍去病铁骑奔向狼居胥。 |
 | 势力画风 | 西汉漠北史诗：沙金+朱红，油彩颗粒。 |
-| 气质 | 雄开而疲 |
+| 气质 | 雄开、决断 |
 
 ### 2.1 史源
 
 **外貌：**
-- C 无细貌；B 久战开边之盛年雄主
+- C 本纪无细貌；按前119年年龄作盛年雄主重建
+- A/B 漠北主帅为卫青、霍去病；汉武帝未亲临狼居胥
 
 **冠服：**
-- B 西汉武备：鱼鳞甲/札甲、武冠或兜鍪、绛袍披风
+- B 西汉皇帝军议可用绛袍、武冠与轻甲元素，不作前线骑将装扮
 - B 禁欧式板甲、明清大铠脸谱
 
 ### 2.2 外貌（脸·体）
 
-阔脸风霜，浓眉密须染尘，肩宽仍壮，肤赭。
+三十八岁盛年，阔脸浓眉，短须整齐，肩宽，神情进取而强硬。
 
 ### 2.3 冠服（必须设计进画面）
 
-【甲】深红/暗金汉式札甲或鱼鳞甲，皮革+金属片；【袍】外罩绛色宽披风猎猎；【冠】武冠或简易兜鍪（可露半额）；【履】战靴缠绑腿。
+【衣】深绛色西汉宽袖袍，玄缘，外加克制的轻札甲肩护；【冠】黑色武冠，不戴前线兜鍪；【带】革带与低饱和绶；【禁】把皇帝画成亲临狼居胥的骑将。
 
 ### 2.4 饰品与道具
 
-佩剑（汉式环首刀/剑）；旌旗海；战马在侧；旌节；沙尘中的旄。
+漠北军图、虎符、印玺、搁置的环首刀；远景汉旌与骑兵仅作战略意象。
 
 ### 2.5 背景空间
 
-漠北山脊（狼居胥意象），旗海如潮，沙金光，冷蓝天；远处敌阵残影。
+帝国军议高台或行殿；远处以象征性画面呈现卫青、霍去病铁骑进入漠北与狼居胥山影。
 
 ### 2.6 画风·势力气质
 
-西汉漠北史诗：沙金+朱红，油彩颗粒。 · 雄开而疲
+西汉漠北史诗：沙金+朱红，油彩颗粒。 · 雄开、决断
 
 > **A**=正史明文 · **B**=制度/族属/纪年可限定 · **C**=时代合理重建（勿伪称写真）
 
@@ -99,13 +100,13 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 ### Positive
 
 ```
-16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly illustration (not photo), one sole protagonist, museum-level costume research, every clothing layer accessories and background object clearly readable, dramatic cinematic light, an East Asian man about 50, Western-Han campaign emperor, broad weathered face, thick brows, dense dust-tangled beard, strong wide shoulders, sun-scorched ruddy skin, COSTUME: Western-Han style lamellar/scale armor in crimson and dark gold, leather and metal plates, billowing crimson campaign cloak, martial cap or partial helmet, wrapped boots and greaves, NOT European plate armor, ACCESSORIES AND PROPS: Chinese ring-pommel sword, forest of Han banners, warhorse nearby, yak-tail standards, grit in fabric, POSE: low-angle stance on a desert ridge, cloak horizontal in wind, looking over a sea of banners, BACKGROUND SET: Mongolian steppe ridge, dark mountain silhouette (Langjuxu feeling), cavalry tide below, sand-gold light, cold blue sky, ART DIRECTION: dusty epic oil-paint campaign panorama, grain and wind, leave darker empty space lower-left third for radar UI later, darker clean right margin for Chinese titles later, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
+16:9 cinematic Chinese historical character-atlas key art, highly stylized semi-realistic painterly editorial illustration (not photo), cohesive hand-painted historical graphic-novel rendering across the series, one clearly dominant emperor with at most indistinct contextual figures, historically grounded costume construction, one readable action, one dominant background motif, controlled depth, dramatic cinematic light, medium-wide hero framing, an East Asian man about 38, Western-Han emperor directing the Mobei campaign from an imperial war council, broad mature face, thick brows, neat short beard, strong wide shoulders, alert forceful eyes, COSTUME: deep crimson Western-Han wide-sleeve court robe with black trim, restrained dark lamellar shoulder guards, black martial cap, leather belt and muted sash cords, NOT dressed as a frontline cavalry general, ACCESSORIES AND PROPS: Mobei campaign map, tiger tally, imperial seal, resting Chinese ring-pommel sword, Han standards, POSE: standing at a campaign table, one hand pressing the northern route on the map, the other holding a tiger tally, BACKGROUND SET: imperial campaign pavilion opening onto a clearly symbolic distant vision of Han cavalry led by generals, a dark Langjuxu mountain silhouette far beyond, sand-gold light under a cold blue sky, ART DIRECTION: dusty epic strategic panorama, crimson and sand-gold oil-paint grain, the protagonist occupies 45 to 60 percent of frame height and the face stays in the central picture area, keep the lower-left 30 by 38 percent visually quiet and dark with no face hands or weapons for a radar overlay, keep the upper-right 25 percent clean and darker for Chinese titles, no readable text no letters no Chinese characters no UI no watermark no logo, no modern objects, no European plate armor, no celebrity face, accurate ancient East Asian tailoring, masterpiece
 ```
 
 ### Negative
 
 ```
-text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
+text, letters, Chinese characters, watermark, logo, UI, radar, modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, European medieval plate armor, Roman toga, Japanese samurai armor, chibi, idol face, crowded composition, multiple focal characters, cropped head, extra fingers, deformed anatomy, blurry, lowres, wrong dynasty bright plastic costume
 ```
 
 ### Settings

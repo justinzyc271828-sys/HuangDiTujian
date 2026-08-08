@@ -1,0 +1,71 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: n-wei-xiaowen
+ORDER: 10
+PERSONAL_NAME_ZH: 元宏
+DISPLAY_ZH: 北魏孝文帝
+STATUS: PENDING GENERATION
+SHOT_CODE: S10-EYE-OTS-REAR3Q-MS-AWAY
+COLOR_CODE: C10-PALESTONE-INDIGO-CELADON-HANRED-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\10-n-wei-xiaowen.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, hair already arranged in a coherent Han-style topknot, COSTUME: one fully coherent ritual-crimson Han-style wide-sleeve court robe and a simplified jinxian cap, an old northern Xianbei narrow-sleeve riding coat and belt folded over the stone parapet, never split across his body, ACCESSORIES AND PROPS: removed braid cord held in one hand, folded riding coat, distant cart bells of southern migration, Luoyang bricks.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the scene as he completes the public break with the old court dress during the move to Luoyang.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S10-EYE-OTS-REAR3Q-MS-AWAY
+- Elevation and pitch: eye level inside the Luoyang gate.
+- Subject azimuth and orientation: over the shoulder of an old Xianbei guard; the emperor is rear three-quarter walking away, turning his face back to the left.
+- Shot scale and lens behavior: 35 mm medium-wide shot that keeps the reforming ruler large while opening the migration road.
+- Camera roll: level architectural frame.
+
+
+AUDIENCE PARTICIPATION MODE:
+the viewer shares the resisting guard's viewpoint as the old order is left behind.
+
+EVENT MOTION THROUGH THE FRAME:
+the discarded riding coat and braid cord fly sideways across the threshold while the ruler's new sleeve moves away into the city.
+
+EXTREME FOREGROUND DESIGN:
+guard shoulder, old fur collar and gate shadow create an over-the-shoulder frame.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C10-PALESTONE-INDIGO-CELADON-HANRED-G0
+- Dominant palette: pale Luoyang stone, deep indigo, muted celadon and restrained Han red.
+- Gold allocation: G0 no gold leaf; use pale stone cracks and cloth contrast instead.
+- Lighting logic: clear soft city-gate daylight.
+- Surface rhythm: architectural plaster planes, streaming migration dust and long folded-cloth strokes.
+
+HISTORICAL EVENT ENVIRONMENT:
+Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light.
+
+CHARACTER-SPECIFIC ACCENT:
+Use only the emotional implication of "gradient cultural-reform lyrical painting, old and new dress separated cleanly between figure and prop" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\10-n-wei-xiaowen.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

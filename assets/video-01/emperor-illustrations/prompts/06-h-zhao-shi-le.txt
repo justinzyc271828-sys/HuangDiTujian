@@ -1,0 +1,43 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: h-zhao-shi-le
+ORDER: 06
+PERSONAL_NAME_ZH: 石勒
+DISPLAY_ZH: 后赵石勒
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S06-HIGH-DOWNSTAIR-FRONT3Q-ASCENT
+COLOR_CODE: C06-EARTH-RUST-LINEN-INK-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\06-h-zhao-shi-le.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Create one 16:9 Chinese historical action illustration with no text or interface.
+
+SERIES STYLE: adult non-photoreal Chinese historical manga fused with an aged mineral-pigment mural. Use rough rammed-earth plaster, coarse paper grain, scraped mineral color, flaking edges, dry-brush abrasion, flying-white ink and forceful diagonal strokes. Keep the protagonist mature, anatomically believable and visually dominant. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for mineral-mural material, adult graphic-novel rendering and strong character presence; do not copy its Qin map, seal impact, frontal pose or black-and-gold density. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for expressive ink force. Use the rejected Shi Le image (D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\rejected\v2.3-shi-le-banner-pose\06-h-zhao-shi-le.png) only as a reference for his rugged mature facial identity, rough Hu-Han costume material, rammed-earth Xiangguo setting and rust-ochre palette. Do not preserve its low camera, wide-legged flag-bearer pose, giant banner, cheering rally crowd or foreground shackle composition.
+
+HISTORICAL SUBJECT: Shi Le in his mid-to-late forties at Xiangguo in 319, the formerly enslaved northern frontier man who has just founded the Later Zhao regime as King of Zhao. This is a historically grounded reconstruction, not a claim of photographic likeness. Give him deep-set alert eyes, high cheekbones, a prominent nose, a coarse curly moustache and short beard, dark weathered skin, a broad labor-built torso and pale old shackle scars around both wrists. His expression is cold, watchful and self-possessed: a survivor reading the new court above him, not a soldier enjoying applause. He must read as the "slave who became ruler," not as a generic frontier general and not as an exotic caricature.
+
+COSTUME: a rough Hu-Han frontier synthesis appropriate to the Sixteen Kingdoms: dark iron lamellar and plate sections over a coarse charcoal wool-and-linen long robe, restrained rust-red inner layers, a broad worn leather belt, patched edges, dust abrasion and a simple dark leather cap with one narrow iron band. A heavy ring-pommel sword remains fully sheathed at his left hip. His clothing is powerful but still bears the material memory of hardship. No refined southern silk dragon robe, no Ming or Qing court costume, no elaborate bead crown, no bright gold armor and no fantasy fur barbarian costume.
+
+SIGNATURE MOMENT: freeze Shi Le halfway through the final upward stride onto the rough Xiangguo audience platform. The viewer occupies the position of the newly assembled court at the top. Shi Le climbs alone toward the viewer and raises his eyes directly to meet the viewer's gaze at the instant his leading foot takes the last step. The social ascent must be communicated by real height, distance and eyeline, not by him holding a symbolic prop.
+
+NATURAL BODY MECHANICS: his right boot is planted flat and weight-bearing on the final visible stair; his left boot pushes naturally from the stair immediately below. His pelvis, knees and feet all align with the same upward direction. His torso inclines forward only eight degrees from the hips and remains stable. His left hand stabilizes the sheathed sword scabbard at his left hip, with the cuff pulled back just enough to reveal an old wrist scar; his right arm makes a small natural counter-swing with a relaxed open hand close to the body. Both shoulders remain connected, elbows and wrists natural, and neither hand reaches toward the lens. No wide-legged stance, no torso twisting and no ceremonial pose.
+
+CAMERA AND COMPOSITION: high viewpoint from the upper-right edge of the top platform, approximately 35 mm, looking down the staircase at about thirty-eight degrees. The long earthen stair descends diagonally from the near upper-right platform toward the distant lower-left landing. Show Shi Le in a front-left three-quarter view, climbing diagonally upward through the frame toward the viewer. Both eyes and at least seventy percent of his face remain readable. His complete figure occupies about fifty-eight percent of the visual mass; he is large and dominant, not a small figure lost in architecture. Use one strict stair vanishing system, a level camera and no wide-angle stretching. Only the rough lip of the top platform may enter the nearest edge; no foreground person, hand or weapon blocks him.
+
+DISTANT EVIDENCE OF HIS PAST: far behind Shi Le on the lowest landing, small in scale and separated from him by many steps, one old open iron shackle with a short grounded chain rests in dust beside a rough wooden slave-market post. It is background evidence, never a foreground icon. Every link lies flat with contact shadow. Nothing is attached to Shi Le, airborne, breaking, falling or exploding. The long physical distance between the shackle and his present position is the visual story.
+
+EVENT ENVIRONMENT AND PARTICIPATION: Xiangguo is a raw northern power base, not a polished imperial palace: worn rammed-earth stairs, rough timber parapets, leather shields, unfinished towers and wind-cut walls. At the distant lower landing, two irregular banks of former dependents and soldiers have silently parted to leave the stair open. They look upward without raised fists, celebration gestures or cloned faces. At the top-right parapet, a black-and-rust-red Zhao banner is fixed to the architecture rather than held by Shi Le; show only a restrained edge of the cloth. Its long diagonal shadow crosses the steps behind him without covering his face or body. The audience feels that he is climbing into their space and taking power.
+
+COLOR, LIGHT AND SURFACE: rammed-earth ochre, iron rust, charcoal black, coarse linen gray, bone-white dust and restrained dark blood-red. A narrow hard side light from the top platform catches Shi Le's eyes, cheekbone, wrist scar and worn armor edges, while the lower landing remains dusty and subdued. G0 gold budget: absolutely no gold leaf, gilding, golden sparks or black-and-gold speckle overlay. Use scraped earth plates, worn stair edges, iron abrasion, dry dust veils and one diagonal ink-shadow stroke. Dust stays low, sparse and physically directional.
+
+HARD EXCLUSIONS: no flag in Shi Le's hands, no flag-bearer pose, no giant banner covering half the frame, no cheering rally, no raised fists, no victory celebration, no wide-legged stance, no twisted torso, no unstable center of gravity, no seated throne portrait, no coronation ceremony, no generic frontier general, no handsome young prince, no ethnic caricature, no fantasy barbarian, no frontal symmetrical pose, no hidden face, no foreground shackle, no oversized chain, no chain attached to his wrist, no airborne link, no floating prop, no impossible staircase, no mismatched vanishing points, no hovering foot, no stretched limb, no weapon toward the camera, no readable banner glyph, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, Ming or Qing costume, European armor, samurai armor, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\06-h-zhao-shi-le.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

@@ -1,0 +1,39 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: han-wu-di
+ORDER: 03
+PERSONAL_NAME_ZH: 刘彻
+DISPLAY_ZH: 汉武帝
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S03-EYE-BESIDEOTS-3Q-MS-TWINDIVERGE
+COLOR_CODE: C03-CRIMSON-IRON-SAND-COBALT-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\03-han-wu-di.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Create one 16:9 Chinese historical action illustration with no text or interface.
+
+SERIES STYLE: adult non-photoreal Chinese historical manga fused with an aged mineral-pigment mural. Use coarse plaster and paper grain, dry-brush edges, flaking mineral pigment, flying-white ink and long directional brush strokes. Keep the protagonist bold, mature and anatomically believable. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for the mineral-mural material, adult graphic-novel rendering and strong character presence; do not copy its Qin props, camera angle, map impact or black-and-gold density. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for expressive ink flow.
+
+HISTORICAL SUBJECT: Emperor Liu Che, Han Wudi, reconstructed at about age 38 during the Western Han Mobei campaign decision. He is the sovereign authorizing the expedition, not a general physically fighting at Langjuxu. Give him a broad rectangular mature face, strong jaw, thick straight eyebrows, deep-set forceful eyes, high straight nose, neat short moustache and compact chin beard, wide shoulders and calm, relentless strategic authority. His expression is controlled and decisive, not shouting.
+
+COSTUME: a deep crimson Western-Han wide-sleeve imperial court robe with sober ink-black edging, a black martial court cap, a broad dark leather belt and muted sash cords. No helmet, no exposed lamellar cuirass, no cavalry armor. A Chinese ring-pommel sword rests horizontally on a stand behind him; he does not wear or brandish it.
+
+SIGNATURE MOMENT AND NATURAL POSE: freeze the instant when the two matching halves of a small palm-length dark-patinated bronze tiger tally align at his sternum to authenticate the Mobei order. The tally is a flat elongated split-tiger military token, not a sculpture or decorative figurine. He stands completely upright with squared shoulders and a stable vertical spine. Both elbows remain naturally bent close to his torso. Both hands meet comfortably at chest height below the chin, so the face is fully visible. Both forearms remain inside his body silhouette. No pointing, no reaching across the table, no hunched back, no twisted wrist.
+
+CAMERA AND COMPOSITION: eye-level 45 mm waist-up medium shot, natural proportions, level horizon. View him from beside a kneeling general, not directly behind the general. Place the emperor slightly left of center in a strong right-facing three-quarter view; both eyes and most facial planes must remain readable. He occupies about 58 percent of frame height and is unquestionably the largest focal figure. The general is represented only by a narrow blurred dark sleeve edge and the corner of a blank wooden command tablet in the lower-left, less than 10 percent of the image. No foreground head or helmet.
+
+EVENT ENVIRONMENT: an imperial campaign pavilion opens onto a symbolic cold northern horizon. A large unfolded campaign map lies below the emperor without readable writing. From the map, two long crimson-and-black ink routes diverge away into the distance and become two small Han cavalry columns led by generals, moving toward a dark Langjuxu mountain silhouette. The emperor remains clearly inside the pavilion; the distant cavalry is the consequence of his decision, not his physical location. Keep all secondary riders small and low-detail.
+
+COLOR AND SURFACE: deep campaign crimson and iron-black against pale desert sand and a cold cobalt-blue sky. Cold high-altitude daylight, broad crimson cloth planes, pale wind-scoured sand abrasion and long horizontal ink streaks. G0 gold budget: absolutely no gold leaf, no gilding, no floating gold dust and no black-and-gold speckle overlay. The tiger tally, seal and belt hardware are dark oxidized bronze, never bright yellow or shiny gold.
+
+HARD EXCLUSIONS: no generic throne portrait, no frontline warrior pose, no mounted emperor, no full battle armor, no emperor leading the distant cavalry, no hidden side-back face, no oversized foreground officer, no stretched or elongated arm, no overextended elbow, no pointing finger, no hand pressing an object into the map, no golden tiger statue, no shiny tiger figurine, no oversized tiger object, no readable letters or Chinese characters, no logo, watermark, UI, radar chart, photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, European armor, samurai armor, extra fingers, deformed hands, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\03-han-wu-di.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

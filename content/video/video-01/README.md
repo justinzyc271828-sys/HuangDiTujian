@@ -1,6 +1,6 @@
 # video-01 · 皇帝图鉴先导二十 · 视频包
 
-> 更新：2026-08-06  
+> 更新：2026-08-08  
 > 数据：`data/catalog/video20.json`  
 > 史料：`content/sources/{id}/`  
 > 分镜：`content/video/video-01/分镜/{id}.md`  
@@ -61,16 +61,18 @@
 - **地图**：谭图/CHGIS 风格简化；朝代边界示意即可
 - **统一噪点**：宣纸/绢/夯土纹理压在画面 8–12% 透明度，系列辨识度
 
-## 本批完成度（2026-08-06 对齐）
+## 本批完成度（2026-08-08 对齐）
 
 | 项 | 状态 |
 |----|------|
 | video20 六维/四字号 | ✅ `data/catalog/video20.json` |
 | 分镜 20 篇 | ✅ `分镜/` |
-| 史料卡 | ✅ 3×12 complete；17×5–8 in-progress |
+| 史料卡 | ✅ 20 人全 dossier-complete（全库 269 亦全 complete） |
 | Key Art 中文规格 v3 | ✅ `key-art/cards/`（外貌/冠服/背景/画风） |
-| **英文出图 prompt 20** | ✅ **`key-art-en-prompts-video01/`**（仓库根固定） |
-| 真图 Image 成片 | ☐ 待你本地生成 |
+| 风格圣经 | ✅ v1 锁定 `assets/style-bible/v1/`（岩彩裂壁 · 墨势入场） |
+| 英文出图 prompt | ✅ **现行 v2.3** `assets/video-01/emperor-illustrations/prompts/`（根目录旧版已废止） |
+| 真图 Image | ◐ **6/20 approved**（01 始皇–06 石勒 `outputs/`；退稿 6 张 `rejected/`） |
+| 配乐 | ✅ `Music/The Last Emperor's March.wav` |
 | 配音 / 成片视频 | ☐ |
 | 十七人 YAML 产品同步 | ☐ |
 

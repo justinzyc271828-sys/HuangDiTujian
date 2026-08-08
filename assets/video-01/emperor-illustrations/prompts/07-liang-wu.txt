@@ -1,0 +1,71 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: liang-wu
+ORDER: 07
+PERSONAL_NAME_ZH: 萧衍
+DISPLAY_ZH: 梁武帝
+STATUS: PENDING GENERATION
+SHOT_CODE: S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD
+COLOR_CODE: C07-IVORY-VERMILION-CELADON-BRONZE-G1
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\07-liang-wu.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+an East Asian man 70-75, Southern Liang Buddhist emperor, gaunt aged face, white drooping beard, raised bony skull crown, thin ascetic body, COSTUME: Buddhist kasaya in dusty gold-lotus tones draped over Liang imperial robes, tongtian crown or bare gray hair under temple light, gold leaf dust on fabric, ACCESSORIES AND PROPS: prayer beads, mountain of ransom coins before Buddha, incense smoke, distant glint of armor outside.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the scene as he removes the final imperial object before offering himself to Tongtai Temple while distant military danger first appears through the gate.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD
+- Elevation and pitch: high 40-degree view from just behind the temple altar.
+- Subject azimuth and orientation: left three-quarter view of the aged emperor below, lifting his eyes and hands toward the altar.
+- Shot scale and lens behavior: 35 mm medium shot with crown, prayer beads and hands forming a triangular rise.
+- Camera roll: level and solemn.
+
+
+AUDIENCE PARTICIPATION MODE:
+the viewer occupies the monk's position above the offered imperial objects.
+
+EVENT MOTION THROUGH THE FRAME:
+incense and falling coins drift downward while a cold military reflection enters laterally through the gate.
+
+EXTREME FOREGROUND DESIGN:
+cropped altar cloth, incense burner rim and prayer beads frame the lower edge.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C07-IVORY-VERMILION-CELADON-BRONZE-G1
+- Dominant palette: incense ivory, temple vermilion, faded celadon green and muted bronze.
+- Gold allocation: G1 maximum 4 percent, localized to worn Buddha-halo remnants and the surrendered crown; no frame-wide speckles.
+- Lighting logic: warm incense haze cut by one cold steel-blue reflection from the gate.
+- Surface rhythm: soft ash bloom, worn devotional pigment and thin vertical incense currents.
+
+HISTORICAL EVENT ENVIRONMENT:
+Tongtai Temple interior, huge golden Buddha, refined Southern-dynasty timber hall, gray cavalry smoke beyond the gate.
+
+CHARACTER-SPECIFIC ACCENT:
+Use only the emotional implication of "gilded Buddhist tragedy, gold versus ash" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\07-liang-wu.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

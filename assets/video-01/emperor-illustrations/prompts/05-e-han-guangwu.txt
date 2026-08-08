@@ -1,0 +1,41 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: e-han-guangwu
+ORDER: 05
+PERSONAL_NAME_ZH: 刘秀
+DISPLAY_ZH: 汉光武帝
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S05-LOW-SIDE-TRACK-WIDE-LATERAL
+COLOR_CODE: C05-STORMBLUE-MUD-SILVER-RED-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\05-e-han-guangwu.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Create one 16:9 Chinese historical action illustration with no text or interface.
+
+SERIES STYLE: adult non-photoreal Chinese historical manga fused with an aged mineral-pigment mural. Use coarse wet plaster and paper grain, rain-dissolved mineral pigment, flaking edges, flying-white ink, dry-brush breaks and strong horizontal storm strokes. Keep the protagonist mature, anatomically believable and visually dominant. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for mineral-mural material, adult graphic-novel rendering and strong character presence; do not copy its Qin props, frontal pose, map composition or black-and-gold density. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for expressive ink force. This frame must look wet, cold, muddy and kinetic, completely different from Wang Mang's pale ritual corridor.
+
+HISTORICAL SUBJECT: Liu Xiu, the future Emperor Guangwu, at age 28 or 29 during the Battle of Kunyang, before he became emperor. He is the young restoration commander personally leading a small cavalry wedge against an overwhelmingly larger Xin army. Use the recorded physical traits as the facial anchor: a tall East Asian man, strong handsome eyebrows and beard, a broad mouth, high prominent nose and a clearly raised central upper forehead. Give him an athletic but not bulky build, clear intelligent eyes and calm tactical concentration inside extreme danger. His wet face and beard are streaked with rain and mud. He is not wearing imperial coronation dress and must not look like a generic later emperor.
+
+COSTUME: historically grounded late-Xin or early-Eastern-Han battlefield equipment: dark leather and restrained black-brown lamellar armor over an ochre-brown war robe, all soaked, scratched and caked with wet mud; a dark cloth neck guard, practical leather belt and a simple iron helmet sitting slightly askew, with damp hair visible at the edges. No yellow dragon robe, no imperial crown, no ornate golden armor and no later medieval Chinese armor.
+
+SIGNATURE MOMENT AND NATURAL RIDING POSE: freeze the instant when Liu Xiu's small cavalry wedge finds a narrow break in the giant enemy line during a white lightning flash. He rides a dark chestnut warhorse from left to right in a clean side-on three-quarter view. He sits deep and balanced in the saddle, pelvis aligned with the horse, knees naturally following the horse's body and spine inclined only slightly forward from the hips. His left hand holds wet leather reins low above the horse's withers. His right hand holds a long early-Han spear diagonally forward and upward in the direction of travel, parallel to the charge, never pointed at the camera and never crossing his face. Both shoulders remain anatomically connected and both wrists are natural. His head turns slightly toward the opening so that both eyes and most of his face remain readable.
+
+CAMERA AND COMPOSITION: ground-level tracking camera riding abreast of the charge, approximately 24 mm wide-angle, looking upward about 12 degrees with a subtle 4-degree counterclockwise kinetic tilt. Liu Xiu and the horse's head, neck and front shoulder form the dominant central-left silhouette and occupy about 62 percent of the visual mass. The horse travels across the frame, never directly toward the lens and never rears. A cropped wet horse ear at the extreme lower-left establishes the viewer as a neighboring rider, but it must remain small and out of focus. Keep Liu Xiu's face sharp; motion belongs to rain, mud, flags and the distant battle, not to the face.
+
+EVENT SCALE AND PARTICIPATION: immediately behind Liu Xiu is one visibly small wedge of fewer than twenty low-detail Han riders following the same left-to-right axis. Farther ahead, an enormous dark Xin formation fills the rain beyond the narrow opening near Kunyang's wall, making the numerical imbalance instantly readable without turning background soldiers into individual focal figures. One soaked muted-red banner bends horizontally in the storm. White lightning reveals the breach for a single instant. No meteor, supernatural fireball or divine beam.
+
+PHYSICS AND MOTION: rain, mane, robe edges, banner and mud all travel consistently from upper-left toward lower-right under the same crosswind. Mud leaves the hooves in low backward arcs and falls under gravity; it does not float or form a wall. Horse tack remains attached and taut. All riders, weapons and horses follow one coherent ground plane and motion direction. The foreground and distant formations use consistent scale, overlap and contact with the muddy earth.
+
+COLOR AND SURFACE: storm blue, charcoal black, wet earth brown, iron gray, lightning white and one muted-red banner. G0 gold budget: no gold leaf, no gilding, no golden sparks and no black-and-gold speckle overlay. Use wet pigment runs, dark mud splashes, silver rain scratches and broad cobalt storm fields. The only bright region is the white lightning opening behind the rider's silhouette.
+
+HARD EXCLUSIONS: no crowned emperor, no throne, no palace, no yellow robe, no polished ceremonial armor, no generic fantasy general, no old man, no giant muscular body, no frontal horse charge, no rearing horse, no horse facing camera, no spear aimed at lens, no spear crossing the face, no impossible riding posture, no detached shoulder, no stretched arm, no twisted wrist, no floating mud, no rain frozen as beads everywhere, no extra horse legs, no merged horse-and-rider anatomy, no cloned cavalry, no impossible perspective, no multiple motion directions, no meteor, no magic lightning striking the rider, no readable text, Chinese characters, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, European plate armor, samurai armor, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\05-e-han-guangwu.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

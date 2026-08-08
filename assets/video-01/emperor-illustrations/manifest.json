@@ -1,0 +1,571 @@
+{
+  "version": "2.3-camera-palette-identity-physics",
+  "style": "岩彩裂壁 · 墨势入场",
+  "package_root": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations",
+  "output_directory": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs",
+  "primary_anchor": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\style-bible\\v1\\approved\\01-qin-shi-huang-final-v1.png",
+  "secondary_anchor": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\style-bible\\v1\\references\\emperor-series-ink-motion-v1.png",
+  "items": [
+    {
+      "order": 1,
+      "id": "qin-shi-huang",
+      "personal": "嬴政",
+      "display": "秦始皇",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\01-qin-shi-huang.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\01-qin-shi-huang.png",
+      "shot_code": "S01-HIGH-FRONT3Q-MWS-RADIAL",
+      "shot_plan": {
+        "code": "S01-HIGH-FRONT3Q-MWS-RADIAL",
+        "elevation": "slightly high, looking down about 12 degrees from the envoy's side of the map",
+        "azimuth": "near-frontal three-quarter view; the torso faces the map while the eyes cut toward the viewer",
+        "scale": "28 mm wide medium-wide composition; the foreshortened arm and map create depth without hiding the face",
+        "roll": "level horizon",
+        "interaction": "the viewer is the envoy on the opposite edge of the map and witnesses the irreversible seal impact",
+        "motion": "radial impact travels from the seal across the six-state map toward the frame edges",
+        "foreground": "cracked mineral map, seal impact and scattered bamboo slips"
+      },
+      "color_code": "C01-BLACK-OCHRE-STONEBLUE-G3",
+      "palette_plan": {
+        "code": "C01-BLACK-OCHRE-STONEBLUE-G3",
+        "dominant": "ink-black robes, earthen ochre wall, broken stone-blue and muted six-state mineral colors",
+        "gold": "G3 approved-anchor density, roughly 8–12 percent, concentrated in map fissures, robe trim and impact fragments",
+        "light": "dry neutral daylight with a severe bronze warmth at the seal impact",
+        "surface": "large cracked mural plates and sharp radial gold fractures"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 2,
+      "id": "han-xuan-di",
+      "personal": "刘询",
+      "display": "汉宣帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\02-han-xuan-di.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\02-han-xuan-di.png",
+      "shot_code": "S02-BIRDSEYE-LEFT3Q-MS-LATERAL",
+      "shot_plan": {
+        "code": "S02-BIRDSEYE-LEFT3Q-MS-LATERAL",
+        "elevation": "strong 50-degree bird's-eye view from above the archive shelves",
+        "azimuth": "the emperor sits in the upper-left of frame in left three-quarter orientation and looks diagonally across the desk, never frontally down the lens",
+        "scale": "35 mm medium shot with a broad diagonal field of dossiers; no oversized hand",
+        "roll": "level frame organized by slanting bamboo-slip rows",
+        "interaction": "the viewer is the audited official below the desk edge, trapped by the geometry of evidence rather than physically grabbed",
+        "motion": "the red brush stroke and released document cords sweep left-to-right across the frame",
+        "foreground": "overlapping blank bamboo slips and one cropped official sleeve form a lower diagonal frame"
+      },
+      "color_code": "C02-SOOT-BAMBOO-VERMILION-G2",
+      "palette_plan": {
+        "code": "C02-SOOT-BAMBOO-VERMILION-G2",
+        "dominant": "soot black, bamboo ochre, dusty umber and one decisive vermilion brush stroke",
+        "gold": "G2 approved-image density, roughly 5–8 percent; preserve the accepted image but do not use it as the default for later emperors",
+        "light": "small warm oil-lamp pools inside a cool gray archive",
+        "surface": "dense narrow bamboo-slip rhythm, dry paper dust and diagonal red ink"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 3,
+      "id": "han-wu-di",
+      "personal": "刘彻",
+      "display": "汉武帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\03-han-wu-di.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\03-han-wu-di.png",
+      "shot_code": "S03-EYE-BESIDEOTS-3Q-MS-TWINDIVERGE",
+      "shot_plan": {
+        "code": "S03-EYE-BESIDEOTS-3Q-MS-TWINDIVERGE",
+        "elevation": "eye level inside an imperial campaign pavilion, with no low-angle hero distortion",
+        "azimuth": "viewed from beside, not directly behind, a kneeling general; the emperor stands left of center in a strong right-facing three-quarter view so both eyes and most facial planes remain readable",
+        "scale": "45 mm waist-up medium shot with natural proportions; the emperor occupies about 58 percent of frame height and the foreground figure occupies less than 10 percent",
+        "roll": "level horizon",
+        "interaction": "the viewer stands beside the general receiving the authenticated imperial order, close enough to witness the tally but never blocking the ruler",
+        "motion": "two long crimson-and-black ink routes diverge from the campaign map and travel away toward two distant Han cavalry columns on the Mobei horizon",
+        "foreground": "only a narrow blurred sleeve edge and the corner of a blank wooden command tablet enter the lower-left; no foreground head, helmet or large hand",
+        "pose": "stand fully upright with squared shoulders and a stable vertical spine; both elbows stay naturally bent close to the torso while both hands meet at chest height to align the two small halves of the bronze tiger tally, below the chin so the face remains unobstructed; keep both forearms inside the body silhouette; no pointing finger, no long reach, no leaning across the table and no twisting wrist"
+      },
+      "color_code": "C03-CRIMSON-IRON-SAND-COBALT-G0",
+      "palette_plan": {
+        "code": "C03-CRIMSON-IRON-SAND-COBALT-G0",
+        "dominant": "deep campaign crimson and iron-black against pale desert sand and a cold cobalt northern sky",
+        "gold": "G0 no gold leaf, no gilding and no floating gold dust; the tiger tally and belt hardware are dark patinated bronze, never bright yellow or shiny gold",
+        "light": "cold high-altitude daylight with a hard sand-colored horizon",
+        "surface": "long horizontal wind-scoured ink streaks, broad crimson cloth planes and pale sand abrasion, not map-like cracking or black-gold speckling"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 4,
+      "id": "xin-wang-mang",
+      "personal": "王莽",
+      "display": "新帝王莽",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\04-xin-wang-mang.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\04-xin-wang-mang.png",
+      "shot_code": "S04-EYE-LEFT3Q-MS-DUTCH-GROUNDED",
+      "shot_plan": {
+        "code": "S04-EYE-LEFT3Q-MS-DUTCH-GROUNDED",
+        "elevation": "eye level in a long ritual corridor, not from below",
+        "azimuth": "left-facing three-quarter view with roughly seventy percent of the face readable; his body remains ritually aligned while his eyes glance sideways",
+        "scale": "50 mm medium shot with the figure off-center on the right third and no lens distortion",
+        "roll": "8-degree clockwise Dutch tilt that destabilizes the otherwise perfect ritual order",
+        "interaction": "the viewer watches from between court ranks as the public image of a perfect Confucian restorer separates from the shadow of the usurping emperor",
+        "motion": "a single coherent cast shadow travels diagonally across the Duke-of-Zhou mural while one grounded floor crack leads toward resting failed currencies; nothing is airborne",
+        "foreground": "only two thin cropped court-robe edges frame the lower corners; every coin and measure rests on the floor with contact shadows"
+      },
+      "color_code": "C04-VERDIGRIS-CHALK-CYAN-BRONZE-G0",
+      "palette_plan": {
+        "code": "C04-VERDIGRIS-CHALK-CYAN-BRONZE-G0",
+        "dominant": "oxidized verdigris, chalk white, cold cyan-gray and dull brown bronze",
+        "gold": "G0 near-absent, maximum 1 percent, only a dead tarnished line on ritual hardware; absolutely no floating gold dust",
+        "light": "flat cold ritual light with a faint sickly green cast",
+        "surface": "rigid geometric plaster seams interrupted by vertical bronze and currency fragments"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 5,
+      "id": "e-han-guangwu",
+      "personal": "刘秀",
+      "display": "汉光武帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\05-e-han-guangwu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\05-e-han-guangwu.png",
+      "shot_code": "S05-LOW-SIDE-TRACK-WIDE-LATERAL",
+      "shot_plan": {
+        "code": "S05-LOW-SIDE-TRACK-WIDE-LATERAL",
+        "elevation": "ground-level tracking height beside the charging horse, looking up about 12 degrees",
+        "azimuth": "clean side-on three-quarter view as horse and rider race from left to right",
+        "scale": "24 mm dynamic wide shot; the full horse neck, rider torso and breach remain legible",
+        "roll": "4-degree counterclockwise kinetic tilt",
+        "interaction": "the viewer rides abreast inside the small Kunyang cavalry wedge",
+        "motion": "rain, mane, mud and spear shafts slash laterally left-to-right past the viewer",
+        "foreground": "a cropped wet horse ear and flying mud establish the neighboring rider's position"
+      },
+      "color_code": "C05-STORMBLUE-MUD-SILVER-RED-G0",
+      "palette_plan": {
+        "code": "C05-STORMBLUE-MUD-SILVER-RED-G0",
+        "dominant": "storm blue, charcoal rain, wet earth brown, lightning silver and one torn muted-red banner",
+        "gold": "G0 no gold leaf; metallic accents are wet iron and lightning silver",
+        "light": "blue-black thunderstorm split by a single white lightning flash",
+        "surface": "wet pigment runs, mud splashes and rain-cut ink diagonals"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 6,
+      "id": "h-zhao-shi-le",
+      "personal": "石勒",
+      "display": "后赵石勒",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\06-h-zhao-shi-le.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\06-h-zhao-shi-le.png",
+      "shot_code": "S06-HIGH-DOWNSTAIR-FRONT3Q-ASCENT",
+      "shot_plan": {
+        "code": "S06-HIGH-DOWNSTAIR-FRONT3Q-ASCENT",
+        "elevation": "from the top platform, looking down the rammed-earth stair at about 38 degrees",
+        "azimuth": "front-left three-quarter view as he climbs directly toward the viewer and raises his eyes",
+        "scale": "35 mm medium-wide full-body shot; he occupies about 58 percent of the visual mass",
+        "roll": "level horizon and one strict stair vanishing system",
+        "interaction": "the viewer stands where Xiangguo's new court would receive him at the top of the final step",
+        "motion": "his upward stride opposes the downward receding stair lines while one off-axis banner shadow cuts diagonally across the earth",
+        "foreground": "only the rough lip of the top step frames the bottom edge; the old shackle remains small on the distant lowest landing"
+      },
+      "color_code": "C06-EARTH-RUST-LINEN-INK-G0",
+      "palette_plan": {
+        "code": "C06-EARTH-RUST-LINEN-INK-G0",
+        "dominant": "rammed-earth ochre, iron rust, coarse linen gray and heavy ink-black",
+        "gold": "G0 no gold leaf or gilding",
+        "light": "low dusty side light with ember-red rust highlights",
+        "surface": "coarse scraped earth, worn stair edges, iron abrasion and one diagonal banner-shadow brush stroke"
+      },
+      "status": "approved"
+    },
+    {
+      "order": 7,
+      "id": "liang-wu",
+      "personal": "萧衍",
+      "display": "梁武帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\07-liang-wu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\07-liang-wu.png",
+      "shot_code": "S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD",
+      "shot_plan": {
+        "code": "S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD",
+        "elevation": "high 40-degree view from just behind the temple altar",
+        "azimuth": "left three-quarter view of the aged emperor below, lifting his eyes and hands toward the altar",
+        "scale": "35 mm medium shot with crown, prayer beads and hands forming a triangular rise",
+        "roll": "level and solemn",
+        "interaction": "the viewer occupies the monk's position above the offered imperial objects",
+        "motion": "incense and falling coins drift downward while a cold military reflection enters laterally through the gate",
+        "foreground": "cropped altar cloth, incense burner rim and prayer beads frame the lower edge"
+      },
+      "color_code": "C07-IVORY-VERMILION-CELADON-BRONZE-G1",
+      "palette_plan": {
+        "code": "C07-IVORY-VERMILION-CELADON-BRONZE-G1",
+        "dominant": "incense ivory, temple vermilion, faded celadon green and muted bronze",
+        "gold": "G1 maximum 4 percent, localized to worn Buddha-halo remnants and the surrendered crown; no frame-wide speckles",
+        "light": "warm incense haze cut by one cold steel-blue reflection from the gate",
+        "surface": "soft ash bloom, worn devotional pigment and thin vertical incense currents"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 8,
+      "id": "xixia-li-yuanhao",
+      "personal": "李元昊",
+      "display": "西夏景宗",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\08-xixia-li-yuanhao.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\08-xixia-li-yuanhao.png",
+      "shot_code": "S08-EYE-PROFILE-TELE-LATERAL",
+      "shot_plan": {
+        "code": "S08-EYE-PROFILE-TELE-LATERAL",
+        "elevation": "eye level on the Xingqing rampart",
+        "azimuth": "exact right-facing profile silhouette, bow fully drawn across the width of the image",
+        "scale": "70 mm telephoto medium-wide shot that compresses ruler, banners and Helan Mountains",
+        "roll": "level horizon",
+        "interaction": "the viewer stands beside an envoy close enough to feel the bowstring tension but outside its path",
+        "motion": "the released signal arrow, sleeve and sand-laden banner wind travel right-to-left across the frame",
+        "foreground": "a soft-focus battlement notch and envoy shoulder crop the near left edge"
+      },
+      "color_code": "C08-BONE-BLACK-BLOODRED-TURQUOISE-G1",
+      "palette_plan": {
+        "code": "C08-BONE-BLACK-BLOODRED-TURQUOISE-G1",
+        "dominant": "desert bone, soot black, blood-red cloth and small weathered turquoise accents",
+        "gold": "G1 maximum 2 percent, only on bow fittings and crown details",
+        "light": "hard pale Hexi sun with black banner shadows",
+        "surface": "sand abrasion, angular dry-brush gusts and taut horizontal bow rhythm"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 9,
+      "id": "q-qin-fu-jian",
+      "personal": "苻坚",
+      "display": "前秦世祖",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\09-q-qin-fu-jian.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\09-q-qin-fu-jian.png",
+      "shot_code": "S09-WATERLOW-FRONT3Q-WIDE-ARC",
+      "shot_plan": {
+        "code": "S09-WATERLOW-FRONT3Q-WIDE-ARC",
+        "elevation": "camera almost at river-surface height, looking up about 15 degrees",
+        "azimuth": "front-left three-quarter figure on horseback, placed in the upper-right rather than centered",
+        "scale": "28 mm wide shot with cold water occupying the lower half and the army compressed behind",
+        "roll": "level waterline",
+        "interaction": "the viewer stands ankle-deep among front-rank officers at the river edge",
+        "motion": "the whip makes a broad black-gold arc across the sky and exits sideways; spear reflections fracture downward in the water",
+        "foreground": "rippling black water and one reflected spear point, not a hand reaching at the viewer"
+      },
+      "color_code": "C09-RIVERBLUE-PURPLE-SILVER-INK-G1",
+      "palette_plan": {
+        "code": "C09-RIVERBLUE-PURPLE-SILVER-INK-G1",
+        "dominant": "cold river blue, imperial purple, spear silver and deep black ink",
+        "gold": "G1 maximum 2 percent, one thin aged-gold edge on the whip arc only",
+        "light": "cold reflected river light under a bruised gray sky",
+        "surface": "watery mineral blooms, downward spear reflections and broad liquid ink arcs"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 10,
+      "id": "n-wei-xiaowen",
+      "personal": "元宏",
+      "display": "北魏孝文帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\10-n-wei-xiaowen.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\10-n-wei-xiaowen.png",
+      "shot_code": "S10-EYE-OTS-REAR3Q-MS-AWAY",
+      "shot_plan": {
+        "code": "S10-EYE-OTS-REAR3Q-MS-AWAY",
+        "elevation": "eye level inside the Luoyang gate",
+        "azimuth": "over the shoulder of an old Xianbei guard; the emperor is rear three-quarter walking away, turning his face back to the left",
+        "scale": "35 mm medium-wide shot that keeps the reforming ruler large while opening the migration road",
+        "roll": "level architectural frame",
+        "interaction": "the viewer shares the resisting guard's viewpoint as the old order is left behind",
+        "motion": "the discarded riding coat and braid cord fly sideways across the threshold while the ruler's new sleeve moves away into the city",
+        "foreground": "guard shoulder, old fur collar and gate shadow create an over-the-shoulder frame"
+      },
+      "color_code": "C10-PALESTONE-INDIGO-CELADON-HANRED-G0",
+      "palette_plan": {
+        "code": "C10-PALESTONE-INDIGO-CELADON-HANRED-G0",
+        "dominant": "pale Luoyang stone, deep indigo, muted celadon and restrained Han red",
+        "gold": "G0 no gold leaf; use pale stone cracks and cloth contrast instead",
+        "light": "clear soft city-gate daylight",
+        "surface": "architectural plaster planes, streaming migration dust and long folded-cloth strokes"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 11,
+      "id": "sui-wen",
+      "personal": "杨坚",
+      "display": "隋文帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\11-sui-wen.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\11-sui-wen.png",
+      "shot_code": "S11-TOPDOWN-OBLIQUE-MWS-CONVERGENT",
+      "shot_plan": {
+        "code": "S11-TOPDOWN-OBLIQUE-MWS-CONVERGENT",
+        "elevation": "near top-down 45-degree planning view",
+        "azimuth": "the emperor's head and shoulders enter from the upper edge in oblique three-quarter, not facing the viewer",
+        "scale": "35 mm medium-wide tableau; hands and transport grid share focus but the face remains readable",
+        "roll": "level geometric plan",
+        "interaction": "the viewer leans over the same planning surface as a minister witnessing reunification",
+        "motion": "river wakes, city-grid lines and mineral cracks converge inward on the final southern marker",
+        "foreground": "large abstract planning grid and fleet wakes, with no single object protruding at the lens"
+      },
+      "color_code": "C11-SLATE-TEAL-CLAY-CINNABAR-G1",
+      "palette_plan": {
+        "code": "C11-SLATE-TEAL-CLAY-CINNABAR-G1",
+        "dominant": "slate blue, river teal, clay brown and one muted cinnabar southern marker",
+        "gold": "G1 maximum 2 percent, thin transport-grid joins only; no airborne gold particles",
+        "light": "cool even planning-room light with a quiet river sheen",
+        "surface": "topographic mineral washes, fine converging grid incisions and compact map texture"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 12,
+      "id": "sui-yang",
+      "personal": "杨广",
+      "display": "隋炀帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\12-sui-yang.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\12-sui-yang.png",
+      "shot_code": "S12-EYE-RIGHTPROFILE-CLOSE-LATERAL",
+      "shot_plan": {
+        "code": "S12-EYE-RIGHTPROFILE-CLOSE-LATERAL",
+        "elevation": "intimate seated eye level inside the Jiangdu boat cabin",
+        "azimuth": "tight right profile and partial rear three-quarter as he turns toward a blade reflection behind him",
+        "scale": "50 mm close shot with face, wet hair, cup and reflection compressed into a narrow cabin corridor",
+        "roll": "3-degree Dutch tilt",
+        "interaction": "the viewer is trapped at the cabin's side, close enough to hear the overturned cup but not directly confronted",
+        "motion": "wine, sleeve and blade reflection sweep horizontally across the image behind the face",
+        "foreground": "soft-focus wine cup rim and curtain edge obscure part of the lower frame"
+      },
+      "color_code": "C12-WINE-JADE-INDIGO-STEEL-G1",
+      "palette_plan": {
+        "code": "C12-WINE-JADE-INDIGO-STEEL-G1",
+        "dominant": "wine crimson, dark jade green, night indigo and cold blade steel",
+        "gold": "G1 maximum 3 percent, confined to jewelry and cup rim",
+        "light": "humid lantern red opposed by a cold steel reflection",
+        "surface": "glossy wine arcs, damp silk folds and narrow cabin shadows over dry mural grain"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 13,
+      "id": "tang-tai-zong",
+      "personal": "李世民",
+      "display": "唐太宗",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\13-tang-tai-zong.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\13-tang-tai-zong.png",
+      "shot_code": "S13-EYE-MINISTERPOV-LEFT3Q-MS-CROSSFRAME",
+      "shot_plan": {
+        "code": "S13-EYE-MINISTERPOV-LEFT3Q-MS-CROSSFRAME",
+        "elevation": "seated eye level in court",
+        "azimuth": "left three-quarter view, emperor off-center and leaning across the composition toward a minister outside frame",
+        "scale": "35 mm medium shot; the paper plane forms a diagonal foreground without enlarging the imperial hand",
+        "roll": "level horizon",
+        "interaction": "the viewer stands just behind the minister who offers the remonstrance, sharing the risk of the exchange",
+        "motion": "the blank sheet passes across the frame from lower-left to upper-right while helmet and bow are pushed away in the opposite direction",
+        "foreground": "the minister's sleeve and broad blank paper edge frame the bottom-left"
+      },
+      "color_code": "C13-IRONBLUE-PAPERIVORY-VERMILION-ASH-G0",
+      "palette_plan": {
+        "code": "C13-IRONBLUE-PAPERIVORY-VERMILION-ASH-G0",
+        "dominant": "iron blue, paper ivory, restrained Tang vermilion and court ash-gray",
+        "gold": "G0 functional hardware only, maximum 1 percent; no decorative gold leaf",
+        "light": "balanced court daylight concentrated on the blank remonstrance sheet",
+        "surface": "broad paper planes, disciplined armor lines and opposing cross-frame brush currents"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 14,
+      "id": "zhou-wu-zetian",
+      "personal": "武曌",
+      "display": "武则天",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\14-zhou-wu-zetian.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\14-zhou-wu-zetian.png",
+      "shot_code": "S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD",
+      "shot_plan": {
+        "code": "S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD",
+        "elevation": "extreme low view from the base of the Luoyang audience steps, looking up about 28 degrees",
+        "azimuth": "left-facing three-quarter sovereign high in the frame, with crown-bead lines breaking the sky",
+        "scale": "24 mm wide medium-full view using monumental steps rather than a frontal close-up",
+        "roll": "level axial architecture",
+        "interaction": "the viewer is one official within the kneeling ranks and experiences the decree descending through space",
+        "motion": "the sealed blank decree and purple-gold wheel rays descend diagonally from upper-right to lower-left, not straight at camera",
+        "foreground": "blurred shoulders of two kneeling officials create a low human frame"
+      },
+      "color_code": "C14-PURPLE-CINNABAR-IVORY-GOLD-G3",
+      "palette_plan": {
+        "code": "C14-PURPLE-CINNABAR-IVORY-GOLD-G3",
+        "dominant": "imperial purple, dark cinnabar, ivory and deep ink-black",
+        "gold": "G3 deliberate 8–10 percent, reserved for the geometric wheel, crown beads and decree seal; large controlled shapes, never random speckles",
+        "light": "monumental purple-gold backlight descending along the steps",
+        "surface": "rotating geometric rays, broad purple mineral fields and clean monumental breaks"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 15,
+      "id": "tang-xian-zong",
+      "personal": "李纯",
+      "display": "唐宪宗",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\15-tang-xian-zong.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\15-tang-xian-zong.png",
+      "shot_code": "S15-EYE-PROFILE-TELE-CLOSE-DEPTH",
+      "shot_plan": {
+        "code": "S15-EYE-PROFILE-TELE-CLOSE-DEPTH",
+        "elevation": "eye level beside a candle in the strategy room",
+        "azimuth": "strong right profile seen through the candle flame, with the ruler on the left third looking toward the snowy window",
+        "scale": "85 mm compressed close shot; shallow depth separates flame, profile, marker hand and messenger",
+        "roll": "level intimate frame",
+        "interaction": "the viewer is the newly arrived messenger watching the decision crystallize across the room",
+        "motion": "snow-charged ink lines travel from the distant window toward the map while wax sparks rise vertically between viewer and face",
+        "foreground": "large out-of-focus candle flame and wax rim partially veil the profile"
+      },
+      "color_code": "C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0",
+      "palette_plan": {
+        "code": "C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0",
+        "dominant": "snow cyan, candle amber, charcoal and a small oxide-red map marker",
+        "gold": "G0 no gold leaf; warmth comes entirely from flame and wax",
+        "light": "single amber candle against cold blue snow light",
+        "surface": "frosted dry pigment, shallow-focus wax haze and fine wind-driven snow ink"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 16,
+      "id": "zhou-shi",
+      "personal": "柴荣",
+      "display": "后周世宗",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\16-zhou-shi.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\16-zhou-shi.png",
+      "shot_code": "S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION",
+      "shot_plan": {
+        "code": "S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION",
+        "elevation": "ground-level battlefield camera looking up about 10 degrees",
+        "azimuth": "front diagonal three-quarter as the emperor lunges from upper-right toward a fleeing soldier at lower-left",
+        "scale": "28 mm dynamic wide shot with both action vectors visible but the emperor dominant",
+        "roll": "12-degree counterclockwise Dutch tilt",
+        "interaction": "the viewer occupies the wavering soldier's unstable position and is physically pulled back toward the battle",
+        "motion": "the grab closes across the frame from right to left while whip and banners point back toward the battlefield depth",
+        "foreground": "the fleeing soldier's cropped forearm and shield edge enter from the lower-left"
+      },
+      "color_code": "C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0",
+      "palette_plan": {
+        "code": "C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0",
+        "dominant": "battle dust ochre, iron blue, torn banner red and black-brown leather",
+        "gold": "G0 no gold leaf or gilded atmosphere",
+        "light": "hard autumn side light filtered through dust",
+        "surface": "impact scuffs, ripped-banner strokes and diagonal dust sheets"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 17,
+      "id": "n-tang-houzhu",
+      "personal": "李煜",
+      "display": "南唐后主",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\17-n-tang-houzhu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\17-n-tang-houzhu.png",
+      "shot_code": "S17-OUTSIDE-LATTICE-REARPROFILE-MS-LATERAL",
+      "shot_plan": {
+        "code": "S17-OUTSIDE-LATTICE-REARPROFILE-MS-LATERAL",
+        "elevation": "eye level outside the rain-dark lattice window",
+        "azimuth": "rear-left profile inside the room, face turned only partly toward the escaping paper",
+        "scale": "50 mm medium shot through the window grid, with the figure large but interrupted by architecture and rain",
+        "roll": "level melancholic frame",
+        "interaction": "the viewer is outside in the storm where the lost poem sheet is about to pass, separated from the ruler by lattice and rain",
+        "motion": "paper, torn silk, ink and fire-reflected rain stream sideways from the room into the night",
+        "foreground": "wet lattice bars, rain beads and the blurred edge of the flying blank sheet"
+      },
+      "color_code": "C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0",
+      "palette_plan": {
+        "code": "C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0",
+        "dominant": "rain blue, pooled ink-black, wet silk white and distant fire orange",
+        "gold": "G0 no gold leaf; distant fire supplies the only warm sparkle",
+        "light": "cold rain foreground with unstable orange reflections from Jinling's fall",
+        "surface": "wet paper feathering, rain beads, torn silk and diluted ink blooms"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 18,
+      "id": "n-song-tai-zu",
+      "personal": "赵匡胤",
+      "display": "宋太祖",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\18-n-song-tai-zu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\18-n-song-tai-zu.png",
+      "shot_code": "S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR",
+      "shot_plan": {
+        "code": "S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR",
+        "elevation": "seated guest eye level at the banquet",
+        "azimuth": "relaxed right three-quarter view with the emperor on the far-left third, turning across a circular table rather than facing front",
+        "scale": "40 mm medium-wide composition that includes neighboring generals as cropped edge silhouettes",
+        "roll": "level and deceptively calm",
+        "interaction": "the viewer is one armed founding general inside the friendly circle and senses the trap closing socially rather than physically",
+        "motion": "cups pass around the circle while swords and loosened armor slide away laterally under the table edge",
+        "foreground": "the viewer's cup and armored wrist remain low and off-center, never blocking the emperor's face"
+      },
+      "color_code": "C18-AMBER-LACQUERRED-UMBER-STEEL-G1",
+      "palette_plan": {
+        "code": "C18-AMBER-LACQUERRED-UMBER-STEEL-G1",
+        "dominant": "candle amber, lacquer red, deep umber and quiet sword steel",
+        "gold": "G1 maximum 2 percent, limited to cup rim and belt fittings",
+        "light": "warm circular banquet candlelight with a cool shadow under the table",
+        "surface": "smoky circular brush currents, dark lacquer planes and restrained metallic edges"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 19,
+      "id": "yuan-shi-zu",
+      "personal": "忽必烈",
+      "display": "元世祖",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\19-yuan-shi-zu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\19-yuan-shi-zu.png",
+      "shot_code": "S19-HIGH-REAR3Q-WIDE-OUTWARD",
+      "shot_plan": {
+        "code": "S19-HIGH-REAR3Q-WIDE-OUTWARD",
+        "elevation": "slightly high 20-degree view from behind the map platform",
+        "azimuth": "broad rear three-quarter silhouette with the elderly face turning over the right shoulder toward the linked horizons",
+        "scale": "28 mm wide environmental composition; the ruler remains the largest single form while Dadu, steppe and sea unfold beyond",
+        "roll": "level panoramic horizon",
+        "interaction": "the viewer stands beside an envoy at the map edge and looks outward along the imperial network",
+        "motion": "the relay paiza skids laterally across the map as horse-light trails radiate away toward distant roads and sea",
+        "foreground": "map edge, saddle leather and a cropped envoy hand at rest, with no object thrown at camera"
+      },
+      "color_code": "C19-STEPPEGREEN-COBALT-SEA-LEATHER-G1",
+      "palette_plan": {
+        "code": "C19-STEPPEGREEN-COBALT-SEA-LEATHER-G1",
+        "dominant": "steppe green, sky cobalt, sea turquoise and saddle-leather brown",
+        "gold": "G1 maximum 3 percent, aged bronze on the paiza and harness only",
+        "light": "open panoramic daylight shifting from dry steppe to maritime haze",
+        "surface": "wind-combed grass strokes, salt spray and long network trails across broad color fields"
+      },
+      "status": "pending"
+    },
+    {
+      "order": 20,
+      "id": "n-wei-taiwu",
+      "personal": "拓跋焘",
+      "display": "北魏太武帝",
+      "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\20-n-wei-taiwu.txt",
+      "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\20-n-wei-taiwu.png",
+      "shot_code": "S20-SADDLELOW-PASSING-WIDE-DUTCH-THROUGH",
+      "shot_plan": {
+        "code": "S20-SADDLELOW-PASSING-WIDE-DUTCH-THROUGH",
+        "elevation": "saddle-level low camera just inside the broken Hexi gate, looking up about 18 degrees",
+        "azimuth": "front-side passing angle: horse and emperor enter from center-right and sweep past toward the left background instead of charging straight at camera",
+        "scale": "20 mm extreme wide action shot with gate splinters, horse body and rider face all readable",
+        "roll": "9-degree clockwise Dutch tilt",
+        "interaction": "the viewer crouches inside the breached gate as the first cavalry rank rushes past into the fortress",
+        "motion": "horse, lance, snow, smoke and shattered timber cut diagonally through and away from the camera position",
+        "foreground": "broken gate beam and iron-blue snow streak across the near right edge"
+      },
+      "color_code": "C20-SNOWBLUE-SMOKEBLACK-HORSEBROWN-RUST-G0",
+      "palette_plan": {
+        "code": "C20-SNOWBLUE-SMOKEBLACK-HORSEBROWN-RUST-G0",
+        "dominant": "iron snow blue, smoke black, horse brown and gate-timber rust red",
+        "gold": "G0 no gold leaf; all glints are cold iron and ice",
+        "light": "violent blue-white snow light cut by black smoke",
+        "surface": "splintered wood grain, ice scratches, smoke drag and diagonal cavalry impact"
+      },
+      "status": "pending"
+    }
+  ]
+}

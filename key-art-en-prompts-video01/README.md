@@ -1,5 +1,8 @@
 # English Image Prompts — video-01 (20 emperors)
 
+> **⚠ 已废止（2026-08-08 标注）：** 本套为旧版存档，**勿再用于出图**。  
+> 现行生产包：`assets/video-01/emperor-illustrations/`（prompt **v2.3** + `manifest.json`），真图 6/20 已出于 `outputs/`。
+
 Prompts are **English-only** for your image model.
 Chinese fields in each `.txt` are metadata for later overlay only.
 

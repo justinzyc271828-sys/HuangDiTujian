@@ -8,15 +8,17 @@ video-01 Key Art 造型总表 v3
 
 PREFIX = (
     "16:9 cinematic Chinese historical character-atlas key art, "
-    "highly stylized semi-realistic painterly illustration (not photo), "
-    "one sole protagonist, museum-level costume research, "
-    "every clothing layer accessories and background object clearly readable, "
-    "dramatic cinematic light, "
+    "highly stylized semi-realistic painterly editorial illustration (not photo), "
+    "cohesive hand-painted historical graphic-novel rendering across the series, "
+    "one clearly dominant emperor with at most indistinct contextual figures, "
+    "historically grounded costume construction, one readable action, one dominant background motif, "
+    "controlled depth, dramatic cinematic light, medium-wide hero framing, "
 )
 
 SUFFIX = (
-    "leave darker empty space lower-left third for radar UI later, "
-    "darker clean right margin for Chinese titles later, "
+    "the protagonist occupies 45 to 60 percent of frame height and the face stays in the central picture area, "
+    "keep the lower-left 30 by 38 percent visually quiet and dark with no face hands or weapons for a radar overlay, "
+    "keep the upper-right 25 percent clean and darker for Chinese titles, "
     "no readable text no letters no Chinese characters no UI no watermark no logo, "
     "no modern objects, no European plate armor, no celebrity face, "
     "accurate ancient East Asian tailoring, masterpiece"
@@ -26,7 +28,8 @@ NEGATIVE = (
     "text, letters, Chinese characters, watermark, logo, UI, radar, "
     "modern clothes, suit, jeans, sneakers, glasses, guns, cars, neon, cyberpunk, "
     "European medieval plate armor, Roman toga, Japanese samurai armor, "
-    "chibi, idol face, extra fingers, deformed anatomy, blurry, lowres, "
+    "chibi, idol face, crowded composition, multiple focal characters, cropped head, "
+    "extra fingers, deformed anatomy, blurry, lowres, "
     "wrong dynasty bright plastic costume"
 )
 
@@ -170,7 +173,7 @@ SCENES = {
         en_who="an East Asian man mid-thirties, Western-Han auditing emperor type",
         en_face_body="lean face, visible cheekbones, sharp inspector eyes, slight sleepless shadows, neat short beard, slender build",
         en_costume=(
-            "black jinxian winged official cap of Western Han, "
+            "black Western-Han jinxian guan, a tall narrow ribbed cloth-and-lacquer cap with no long horizontal wings, "
             "dark brown or sooty deep-robe with tiny dark-red trim, plain white inner collar, "
             "leather belt with muted sash cords, modest not gaudy"
         ),
@@ -182,38 +185,43 @@ SCENES = {
     # ------------------------------------------------------------------
     "han-wu-di": P(
         order=3,
-        event_zh=["封狼居胥", "漠北勒石"],
-        age_moment_zh="约五十（漠北叙事）",
+        event_zh=["漠北决战", "霍去病封狼居胥"],
+        age_moment_zh="约三十八（元狩四年/前119）",
         appearance_level="C",
-        appearance_sources_zh=["C 无细貌；B 久战开边之盛年雄主"],
-        appearance_zh="阔脸风霜，浓眉密须染尘，肩宽仍壮，肤赭。",
+        appearance_sources_zh=[
+            "C 本纪无细貌；按前119年年龄作盛年雄主重建",
+            "A/B 漠北主帅为卫青、霍去病；汉武帝未亲临狼居胥",
+        ],
+        appearance_zh="三十八岁盛年，阔脸浓眉，短须整齐，肩宽，神情进取而强硬。",
         costume_level="B",
         costume_sources_zh=[
-            "B 西汉武备：鱼鳞甲/札甲、武冠或兜鍪、绛袍披风",
+            "B 西汉皇帝军议可用绛袍、武冠与轻甲元素，不作前线骑将装扮",
             "B 禁欧式板甲、明清大铠脸谱",
         ],
         costume_zh=(
-            "【甲】深红/暗金汉式札甲或鱼鳞甲，皮革+金属片；"
-            "【袍】外罩绛色宽披风猎猎；"
-            "【冠】武冠或简易兜鍪（可露半额）；"
-            "【履】战靴缠绑腿。"
+            "【衣】深绛色西汉宽袖袍，玄缘，外加克制的轻札甲肩护；"
+            "【冠】黑色武冠，不戴前线兜鍪；"
+            "【带】革带与低饱和绶；"
+            "【禁】把皇帝画成亲临狼居胥的骑将。"
         ),
-        accessories_zh="佩剑（汉式环首刀/剑）；旌旗海；战马在侧；旌节；沙尘中的旄。",
-        background_zh="漠北山脊（狼居胥意象），旗海如潮，沙金光，冷蓝天；远处敌阵残影。",
+        accessories_zh="漠北军图、虎符、印玺、搁置的环首刀；远景汉旌与骑兵仅作战略意象。",
+        background_zh="帝国军议高台或行殿；远处以象征性画面呈现卫青、霍去病铁骑进入漠北与狼居胥山影。",
         style_faction_zh="西汉漠北史诗：沙金+朱红，油彩颗粒。",
-        mood_zh="雄开而疲",
-        scene_one_liner_zh="绛披风金甲的五十雄主立在漠北风口。",
-        en_who="an East Asian man about 50, Western-Han campaign emperor",
-        en_face_body="broad weathered face, thick brows, dense dust-tangled beard, strong wide shoulders, sun-scorched ruddy skin",
+        mood_zh="雄开、决断",
+        scene_one_liner_zh="盛年汉武帝在军案前下令，远景霍去病铁骑奔向狼居胥。",
+        en_who="an East Asian man about 38, Western-Han emperor directing the Mobei campaign from an imperial war council",
+        en_face_body="broad mature face, thick brows, neat short beard, strong wide shoulders, alert forceful eyes",
         en_costume=(
-            "Western-Han style lamellar/scale armor in crimson and dark gold, leather and metal plates, "
-            "billowing crimson campaign cloak, martial cap or partial helmet, wrapped boots and greaves, "
-            "NOT European plate armor"
+            "deep crimson Western-Han wide-sleeve court robe with black trim, restrained dark lamellar shoulder guards, "
+            "black martial cap, leather belt and muted sash cords, NOT dressed as a frontline cavalry general"
         ),
-        en_accessories="Chinese ring-pommel sword, forest of Han banners, warhorse nearby, yak-tail standards, grit in fabric",
-        en_pose="low-angle stance on a desert ridge, cloak horizontal in wind, looking over a sea of banners",
-        en_background="Mongolian steppe ridge, dark mountain silhouette (Langjuxu feeling), cavalry tide below, sand-gold light, cold blue sky",
-        en_style="dusty epic oil-paint campaign panorama, grain and wind",
+        en_accessories="Mobei campaign map, tiger tally, imperial seal, resting Chinese ring-pommel sword, Han standards",
+        en_pose="standing at a campaign table, one hand pressing the northern route on the map, the other holding a tiger tally",
+        en_background=(
+            "imperial campaign pavilion opening onto a clearly symbolic distant vision of Han cavalry led by generals, "
+            "a dark Langjuxu mountain silhouette far beyond, sand-gold light under a cold blue sky"
+        ),
+        en_style="dusty epic strategic panorama, crimson and sand-gold oil-paint grain",
     ),
     # ------------------------------------------------------------------
     "xin-wang-mang": P(
@@ -419,30 +427,29 @@ SCENES = {
         age_moment_zh="约二十七（太和迁洛）",
         appearance_level="A/B",
         appearance_sources_zh=["A《魏书》生而洁白有异姿"],
-        appearance_zh="白皙青年，秀挺骨相，半解辫。",
+        appearance_zh="白皙青年，秀挺骨相，发式已整为汉式高髻，神情坚决。",
         costume_level="B",
         costume_sources_zh=["B 太和服制改革：禁胡服、着汉衣冠——画面用「换装过程」"],
         costume_zh=(
-            "【左半/外】鲜卑窄袖褶袴、蹀躞带未尽卸；"
-            "【右半/内】汉式宽袖朝服、进贤/通天简化冠在手或半戴；"
-            "色彩从苍褐过渡到绛红礼服。"
+            "【身上】完整连贯的绛红汉式宽袖朝服与简化进贤冠；"
+            "【旧服】鲜卑窄袖骑装与蹀躞带折叠搭在城楼栏杆，不与身上服装拼接；"
+            "色彩从背景苍褐过渡到人物绛红。"
         ),
-        accessories_zh="解下的辫绳；汉冠；南迁车队铃；洛阳城砖。",
+        accessories_zh="解下的辫绳置于手中；折叠胡服；南迁车队铃；洛阳城砖。",
         background_zh="洛阳新建宫阙城楼；官道车队向南；北风与礼乐灯同时存在。",
         style_faction_zh="胡汉渐变滤镜：笳→雅乐。",
         mood_zh="解辫更张",
-        scene_one_liner_zh="白皙青年在洛阳城楼一边解辫一边披汉袍。",
+        scene_one_liner_zh="白皙青年已着完整汉服立于洛阳城楼，手中握着解下的辫绳。",
         en_who="a fair young Xianbei East Asian man about 27",
-        en_face_body="notably pale fair skin, refined elegant bones, slender tall body, mid-unbraiding hair",
+        en_face_body="notably pale fair skin, refined elegant bones, slender tall body, hair already arranged in a coherent Han-style topknot",
         en_costume=(
-            "half northern Xianbei narrow-sleeve riding dress with belt hooks still on, "
-            "half putting on wide-sleeve Han court robe, Han-style cap in hand or half-worn, "
-            "color shift from earth-brown to ritual crimson"
+            "one fully coherent ritual-crimson Han-style wide-sleeve court robe and a simplified jinxian cap, "
+            "an old northern Xianbei narrow-sleeve riding coat and belt folded over the stone parapet, never split across his body"
         ),
-        en_accessories="loose braid cords, Han court cap, distant cart bells of southern migration, Luoyang bricks",
-        en_pose="on city tower, hands in hair and robe, transformative mid-action",
+        en_accessories="removed braid cord held in one hand, folded riding coat, distant cart bells of southern migration, Luoyang bricks",
+        en_pose="standing on a city tower in completed new court dress, looking south while holding the removed braid cord",
         en_background="Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light",
-        en_style="gradient cultural-reform lyrical painting, two dress systems in one body",
+        en_style="gradient cultural-reform lyrical painting, old and new dress separated cleanly between figure and prop",
     ),
     # ------------------------------------------------------------------
     "sui-wen": P(
@@ -526,7 +533,7 @@ SCENES = {
         style_faction_zh="贞观金石青：明朗顶格。",
         mood_zh="武与谏同光",
         scene_one_liner_zh="虬须金甲帝王手握谏纸立于晴光。",
-        en_who="an East Asian man 36-40, High-Tang archer-emperor",
+        en_who="an East Asian man 36-40, early-Tang Zhenguan-era archer-emperor",
         en_face_body="dragon-phoenix bearing, sun-like open forehead, curly coiling martial beard, fierce-intelligent eyes, athletic body",
         en_costume=(
             "early Tang golden and stone-blue armor with chest mirrors, "
@@ -535,7 +542,7 @@ SCENES = {
         en_accessories="open white remonstrance paper scroll in hands, bow, collapsed northern banners, faint meritorious-minister wall ghosts",
         en_pose="standing in clear daylight, armor on, paper forward as main prop",
         en_background="Chang'an palace under bright Zhenguan sun, clean heroic sky",
-        en_style="luminous High-Tang heroic-governance painting",
+        en_style="luminous early-Tang Zhenguan heroic-governance painting",
     ),
     # ------------------------------------------------------------------
     "zhou-wu-zetian": P(

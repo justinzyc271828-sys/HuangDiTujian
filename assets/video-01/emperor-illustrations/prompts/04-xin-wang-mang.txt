@@ -1,0 +1,41 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: xin-wang-mang
+ORDER: 04
+PERSONAL_NAME_ZH: 王莽
+DISPLAY_ZH: 新帝王莽
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S04-EYE-LEFT3Q-MS-DUTCH-GROUNDED
+COLOR_CODE: C04-VERDIGRIS-CHALK-CYAN-BRONZE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\04-xin-wang-mang.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Create one 16:9 Chinese historical action illustration with no text or interface.
+
+SERIES STYLE: adult non-photoreal Chinese historical manga fused with an aged mineral-pigment mural. Use cold plaster grain, flaking pigment, dry-brush edges, restrained flying-white ink and precisely controlled geometric cracks. Keep the protagonist mature, anatomically believable and visually dominant. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for mineral-mural material, adult graphic-novel rendering and strong character presence; do not copy its Qin props, frontal camera, map impact or black-and-gold density. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for directional ink force. This image must feel colder, more rigid and more artificially perfect than the first three approved images.
+
+HISTORICAL SUBJECT: Wang Mang in his early fifties at the beginning of the Xin dynasty, deliberately presenting himself as a new Duke of Zhou and an impeccably orthodox Confucian restorer while using that image to legitimize usurpation. He is not a generic emperor. Give him an excessively regular pale face, narrow non-martial shoulders, a carefully trimmed Confucian moustache and beard, composed lips forming a polite mask-like smile that does not reach the eyes, faint tension at the jaw, and a calculating sideways gaze directed toward the watching court. The contrast between public humility and private control must be visible in his face.
+
+COSTUME: hyper-correct archaizing ritual dress inspired by an imagined Zhou order: a dark blue-black ceremonial upper robe over a dull dark-red lower garment, cold intricate woven borders, complete knee-cover apron, broad sash, restrained jade pendants and a formal flat-board ceremonial crown with sparse hanging bead strings. The clothing must look over-designed and doctrinally perfect rather than luxurious. No dragon robe, no golden crown, no military armor, no weapon and no bright celebratory red-and-gold palette.
+
+SIGNATURE MOMENT AND NATURAL POSE: freeze the instant when Wang Mang completes a perfectly measured ritual bow and straightens again. He stands fully upright, shoulders level and chin slightly lowered in performed humility. Both elbows stay close to the torso. Both hands hold one narrow pale gray-green jade gui vertically against the sternum, fingers naturally stacked around its lower third, gripping slightly too tightly so the knuckles become pale. The gui is a plain flat ceremonial tablet, not a large carved sculpture. His body remains ceremonially obedient, but his eyes cut sideways toward the court and the fixed smile remains unchanged.
+
+CAMERA AND COMPOSITION: eye-level 50 mm medium shot in a long ritual corridor, with an 8-degree clockwise Dutch tilt that makes the perfect architecture subtly unstable. Place Wang Mang off-center on the right third in a left-facing three-quarter view, not a strict profile; approximately seventy percent of his face, both eyes and the mask-like smile must remain readable. He occupies about 58 percent of frame height and remains the largest focal subject. Receding columns and court ranks use one coherent vanishing point toward the left. The viewer stands between two court ranks; use only thin cropped dark robe edges at the extreme lower corners. No large foreground head, viewer hand or object aimed at the lens.
+
+WANG-MANG-SPECIFIC SYMBOLISM: on the plaster wall behind him is one faded, textless archaic mural silhouette of the idealized Duke of Zhou holding a ritual tablet. Wang Mang's single anatomically plausible cast shadow crosses and partially overlaps that mural, but the shoulder line and crown do not align, exposing the gap between borrowed virtue and imperial ambition. The shadow must remain a normal human shadow cast by one cold side light, not a monster, ghost or separate person.
+
+GROUNDED EVIDENCE OF FAILED REFORM: absolutely nothing is falling or suspended in the air. On the stone floor, one narrow crack follows the corridor's single vanishing point from Wang Mang's feet toward a small group of failed reform objects: several ancient knife-shaped bronze coins, several spade-shaped bronze coins, a few broken fragments and one toppled cracked bronze measuring vessel. Every object lies flat or rests naturally on the floor, scales down correctly with distance and has a clear contact shadow. Keep the objects sparse and clustered, not scattered everywhere. At most six distant court officials react subtly; no repeated cloned crowd.
+
+COLOR AND SURFACE: oxidized verdigris, chalk white, cold cyan-gray, dull dark bronze, blue-black and a restrained bruised purple. One cold side light must generate the coherent cast shadow and a faint sickly green atmosphere. G0 gold budget: no gold leaf, no gilding and no floating gold dust. Use rigid plaster seams, tarnished bronze patina, one grounded floor fracture and the misaligned mural-shadow overlap instead of black-and-gold speckling. One small over-saturated cinnabar seal may provide the only warm accent.
+
+HARD EXCLUSIONS: no strict side profile hiding the eyes, no frontal emperor portrait, no heroic low angle, no throne, no generic palace grandeur, no genuinely warm benevolent sage, no handsome warrior king, no dramatic weapon, no giant jade object, no irregular fantasy jade slab, no object thrust toward camera, no airborne object, no levitating coin, no debris shower, no exploding vessel, no falling fragments, no floating icon pattern, no impossible perspective, no multiple vanishing points, no objects without contact shadows, no repeated cloned officials, no modern round currency, no readable inscriptions or pseudo-writing, no golden ornament storm, no black-and-gold overlay, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, European armor, samurai armor, extra fingers, deformed hands, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\04-xin-wang-mang.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
