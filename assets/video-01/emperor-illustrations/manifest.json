@@ -182,26 +182,26 @@
       "display": "梁武帝",
       "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\07-liang-wu.txt",
       "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\07-liang-wu.png",
-      "shot_code": "S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD",
+      "shot_code": "S07-EYE-ATTENDANT-TIGHT3Q-EMPTY-BOWL",
       "shot_plan": {
-        "code": "S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD",
-        "elevation": "high 40-degree view from just behind the temple altar",
-        "azimuth": "left three-quarter view of the aged emperor below, lifting his eyes and hands toward the altar",
-        "scale": "35 mm medium shot with crown, prayer beads and hands forming a triangular rise",
-        "roll": "level and solemn",
-        "interaction": "the viewer occupies the monk's position above the offered imperial objects",
-        "motion": "incense and falling coins drift downward while a cold military reflection enters laterally through the gate",
-        "foreground": "cropped altar cloth, incense burner rim and prayer beads frame the lower edge"
+        "code": "S07-EYE-ATTENDANT-TIGHT3Q-EMPTY-BOWL",
+        "elevation": "eye level at arm's length inside the besieged Taicheng shrine chamber",
+        "azimuth": "front-left three-quarter view as the aged emperor raises his eyes directly toward the last attendant",
+        "scale": "55 mm tight medium shot from waist to head; the emperor occupies about 70 percent of the visual mass",
+        "roll": "level and compressed, with one narrow lattice perspective behind him",
+        "interaction": "the viewer is the attendant who has just handed him the final empty food bowl",
+        "motion": "cold siege light cuts right-to-left across his face while beard tips, ash and a torn kasaya edge move in the same weak draft",
+        "foreground": "no foreground hand or tray; the small empty bowl remains close to his chest inside his silhouette"
       },
-      "color_code": "C07-IVORY-VERMILION-CELADON-BRONZE-G1",
+      "color_code": "C07-ASHCELADON-BONE-OXBLOOD-STEEL-G1",
       "palette_plan": {
-        "code": "C07-IVORY-VERMILION-CELADON-BRONZE-G1",
-        "dominant": "incense ivory, temple vermilion, faded celadon green and muted bronze",
-        "gold": "G1 maximum 4 percent, localized to worn Buddha-halo remnants and the surrendered crown; no frame-wide speckles",
-        "light": "warm incense haze cut by one cold steel-blue reflection from the gate",
-        "surface": "soft ash bloom, worn devotional pigment and thin vertical incense currents"
+        "code": "C07-ASHCELADON-BONE-OXBLOOD-STEEL-G1",
+        "dominant": "cold ash-celadon, bone white, carbon black, dead oxblood red and narrow steel-blue",
+        "gold": "G1 maximum 1 percent, only a sick tarnished remnant in the cracked Buddha halo; no gold on the emperor and no speckles",
+        "light": "cold steel-blue siege daylight isolates the face against a charcoal shrine interior, with one dying oxblood lamp accent",
+        "surface": "large matte chalk-mineral planes, carbon-ink fractures, dry ash and sparse scraped vermilion; no sepia wash or micro-speckle texture"
       },
-      "status": "pending"
+      "status": "approved"
     },
     {
       "order": 8,

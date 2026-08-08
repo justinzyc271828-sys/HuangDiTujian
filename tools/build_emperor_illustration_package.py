@@ -36,6 +36,7 @@ APPROVED_IDS = {
     "xin-wang-mang",
     "e-han-guangwu",
     "h-zhao-shi-le",
+    "liang-wu",
 }
 
 
@@ -65,7 +66,7 @@ MOMENTS = {
         "moment": "he climbs the final Xiangguo steps toward the viewer while the grounded slave shackle he has left behind recedes far below",
     },
     "liang-wu": {
-        "moment": "he removes the final imperial object before offering himself to Tongtai Temple while distant military danger first appears through the gate",
+        "moment": "during the Taicheng siege, the starving eighty-five-year-old emperor receives an empty lacquer bowl from the viewer-attendant and lifts his eyes as cold siege light cuts across a ruined Buddhist shrine",
     },
     "xixia-li-yuanhao": {
         "moment": "the new ruler of Hexi releases a signal arrow from the Xingqing rampart as the Helan wind catches every banner",
@@ -172,14 +173,14 @@ SHOT_PLANS = {
         "foreground": "only the rough lip of the top step frames the bottom edge; the old shackle remains small on the distant lowest landing",
     },
     "liang-wu": {
-        "code": "S07-HIGH-ALTAR-LEFT3Q-MS-DOWNWARD",
-        "elevation": "high 40-degree view from just behind the temple altar",
-        "azimuth": "left three-quarter view of the aged emperor below, lifting his eyes and hands toward the altar",
-        "scale": "35 mm medium shot with crown, prayer beads and hands forming a triangular rise",
-        "roll": "level and solemn",
-        "interaction": "the viewer occupies the monk's position above the offered imperial objects",
-        "motion": "incense and falling coins drift downward while a cold military reflection enters laterally through the gate",
-        "foreground": "cropped altar cloth, incense burner rim and prayer beads frame the lower edge",
+        "code": "S07-EYE-ATTENDANT-TIGHT3Q-EMPTY-BOWL",
+        "elevation": "eye level at arm's length inside the besieged Taicheng shrine chamber",
+        "azimuth": "front-left three-quarter view as the aged emperor raises his eyes directly toward the last attendant",
+        "scale": "55 mm tight medium shot from waist to head; the emperor occupies about 70 percent of the visual mass",
+        "roll": "level and compressed, with one narrow lattice perspective behind him",
+        "interaction": "the viewer is the attendant who has just handed him the final empty food bowl",
+        "motion": "cold siege light cuts right-to-left across his face while beard tips, ash and a torn kasaya edge move in the same weak draft",
+        "foreground": "no foreground hand or tray; the small empty bowl remains close to his chest inside his silhouette",
     },
     "xixia-li-yuanhao": {
         "code": "S08-EYE-PROFILE-TELE-LATERAL",
@@ -358,11 +359,11 @@ PALETTE_PLANS = {
         "surface": "coarse scraped earth, worn stair edges, iron abrasion and one diagonal banner-shadow brush stroke",
     },
     "liang-wu": {
-        "code": "C07-IVORY-VERMILION-CELADON-BRONZE-G1",
-        "dominant": "incense ivory, temple vermilion, faded celadon green and muted bronze",
-        "gold": "G1 maximum 4 percent, localized to worn Buddha-halo remnants and the surrendered crown; no frame-wide speckles",
-        "light": "warm incense haze cut by one cold steel-blue reflection from the gate",
-        "surface": "soft ash bloom, worn devotional pigment and thin vertical incense currents",
+        "code": "C07-ASHCELADON-BONE-OXBLOOD-STEEL-G1",
+        "dominant": "cold ash-celadon, bone white, carbon black, dead oxblood red and narrow steel-blue",
+        "gold": "G1 maximum 1 percent, only a sick tarnished remnant in the cracked Buddha halo; no gold on the emperor and no speckles",
+        "light": "cold steel-blue siege daylight isolates the face against a charcoal shrine interior, with one dying oxblood lamp accent",
+        "surface": "large matte chalk-mineral planes, carbon-ink fractures, dry ash and sparse scraped vermilion; no sepia wash or micro-speckle texture",
     },
     "xixia-li-yuanhao": {
         "code": "C08-BONE-BLACK-BLOODRED-TURQUOISE-G1",
@@ -545,6 +546,31 @@ EVENT ENVIRONMENT AND PARTICIPATION: Xiangguo is a raw northern power base, not 
 COLOR, LIGHT AND SURFACE: rammed-earth ochre, iron rust, charcoal black, coarse linen gray, bone-white dust and restrained dark blood-red. A narrow hard side light from the top platform catches Shi Le's eyes, cheekbone, wrist scar and worn armor edges, while the lower landing remains dusty and subdued. G0 gold budget: absolutely no gold leaf, gilding, golden sparks or black-and-gold speckle overlay. Use scraped earth plates, worn stair edges, iron abrasion, dry dust veils and one diagonal ink-shadow stroke. Dust stays low, sparse and physically directional.
 
 HARD EXCLUSIONS: no flag in Shi Le's hands, no flag-bearer pose, no giant banner covering half the frame, no cheering rally, no raised fists, no victory celebration, no wide-legged stance, no twisted torso, no unstable center of gravity, no seated throne portrait, no coronation ceremony, no generic frontier general, no handsome young prince, no ethnic caricature, no fantasy barbarian, no frontal symmetrical pose, no hidden face, no foreground shackle, no oversized chain, no chain attached to his wrist, no airborne link, no floating prop, no impossible staircase, no mismatched vanishing points, no hovering foot, no stretched limb, no weapon toward the camera, no readable banner glyph, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, Ming or Qing costume, European armor, samurai armor, blood or gore.""",
+    "liang-wu": f"""Create one 16:9 Chinese historical action illustration with no text or interface.
+
+USE CASE AND REFERENCE ROLES: historical-scene key art for a fast emperor montage. Use reference image 1 ({PRIMARY_ANCHOR}) only for the adult historical manga anatomy, strong protagonist presence, aged mineral-mural material and forceful large shapes. Do not copy its Qin map, seal impact, frontal pose, warm ochre cast, black-gold density or scattered gold flakes. Use reference image 2 ({SECONDARY_ANCHOR}) only for carbon-ink force and flying-white brush rhythm. Create a completely new camera, palette and event composition.
+
+CORE HISTORICAL IDEA: show Xiao Yan, Emperor Wu of Southern Liang, at age eighty-five during the 549 siege and collapse of Taicheng. He is confined, starving, sick and furious, after decades in which sincere Buddhist devotion and repeated self-dedication at Tongtai Temple became entangled with imperial rule. This is a deliberate symbolic composite: the besieged Taicheng chamber contains the visual memory of his Buddhist obsession, but it is not claiming that the final confinement literally occurred inside Tongtai Temple.
+
+CHARACTER IDENTITY — THE FACE MUST DOMINATE: Xiao Yan is not a generic old monk. Make him unmistakably an aged sovereign: an extremely gaunt narrow face, high exposed cheekbones, a distinctly raised bony crown of the skull beneath sparse disordered white hair, deep-set sharp intelligent eyes, heavy lower eyelids, a long thin nose, hollow temples, a sparse drooping white moustache and a long divided white beard. His body is thin from age and hunger, but his gaze still carries pride, command and offended imperial will. He looks directly at the viewer with exhausted anger and lucid disbelief, not kindness, vacancy or pious serenity. The face is the highest-contrast and most detailed region in the image.
+
+COSTUME AND IDENTITY CONTRADICTION: a faded dead-oxblood Southern Liang imperial robe with dark plum-black borders remains visible at the collar and sleeves. Over one shoulder lies a worn ash-celadon Buddhist kasaya strip, faded almost gray, not yellow and not gold. A narrow imperial sash survives at the waist, but no crown is worn. Sparse white hair is tied badly after confinement. The costume must communicate emperor plus Buddhist devotee plus prisoner at the same time. No luxurious dragon robe, no bright monk robe, no Qing court costume and no generic fantasy sage clothing.
+
+SIGNATURE FREEZE MOMENT AND VIEWER PARTICIPATION: the viewer is the last palace attendant standing at arm's length inside the stripped Taicheng shrine chamber. Freeze the instant after the attendant has handed Xiao Yan a small black-lacquer food bowl and the emperor realizes it is empty. Xiao Yan holds the bowl close to the center of his chest, then lifts his eyes directly into the viewer's eyes. His lips are slightly parted as if a final demand has stopped before becoming words. This single exchange must feel intimate, accusatory and dangerous: the audience is personally confronted by the ruler's hunger and the collapse outside.
+
+NATURAL HANDS AND BOWL PHYSICS: both elbows stay close to his ribs. His left palm supports the bowl from below; the fingers of his right hand rest naturally around the near rim. The small bowl remains horizontal, fully supported by both hands and entirely inside his torso silhouette. Its dark empty interior is visible but it is never thrust toward the lens. Keep both wrists straight, all fingers anatomically distinct, and the bowl smaller than the width of his chest. No reaching pose, no giant hand, no floating bowl, no tilting spill gesture and no prayer gesture.
+
+CAMERA AND COMPOSITION: eye-level 55 mm tight medium shot from the waist upward, at arm's length. Use a front-left three-quarter view with both eyes and at least eighty percent of the face readable. Xiao Yan occupies about seventy percent of the visual mass; his face alone occupies roughly one quarter of the frame height. Place him slightly right of center so the battered Buddhist shrine remains legible behind his left shoulder. No full-body view, no doorway portrait and no high-angle camera. Compress the background with a narrow depth of field while preserving the mural silhouette and siege opening.
+
+BUDDHIST SHRINE AND SIEGE ENVIRONMENT: inside Taicheng, a once-refined private Buddhist shrine has been stripped and damaged by the siege. Behind Xiao Yan's left shoulder, show only a large faded ash-celadon mural fragment: part of a Buddha halo and one lowered stone hand, cracked and flaking, with no bright face and no gold statue. Behind his right shoulder, one narrow broken wooden lattice reveals cold steel-blue smoke, a section of the besieging palisade and three very small armored silhouettes outside. One arrow shaft is embedded firmly in the lattice at a physically correct angle; it is not flying. A nearly extinguished oxblood-red oil lamp rests on a wall shelf. No mountain, open courtyard, money chests or ransom scene.
+
+LIGHTING AND EMOTIONAL CONTRAST: one hard strip of cold steel-blue siege daylight enters through the broken lattice and cuts across Xiao Yan's eyes, cheekbone and empty bowl. The shrine behind him remains deep charcoal and ash-celadon. The dying lamp provides only a tiny dull oxblood accent. The cold light must isolate the emperor's face instead of filling the entire room. Keep smoke and ash sparse; never hide his eyes.
+
+COLOR SYSTEM — DO NOT RETURN TO WARM BROWN: use approximately forty-five percent cold ash-celadon gray, twenty-five percent carbon black, fifteen percent bone white, ten percent dead oxblood red and a narrow steel-blue light accent. G1 gold budget is below one percent: only one sick tarnished trace may remain in the cracked Buddha halo. There is no gold on the emperor, bowl, robe or frame. Absolutely no warm ochre wash, beige monochrome, sepia grading, yellow kasaya, orange temple glow, gold dust, gold speckles or black-and-gold overlay.
+
+MATERIAL AND MARK-MAKING: matte chalky mineral pigment, coarse plaster, visible paper fiber, broad dry-gouache blocks, decisive carbon-ink fractures and a few flying-white brush cuts driven from the siege opening toward the emperor. Use large designed color masses and sharp value separation around the face. Avoid uniform micro-detail, photographic rendering, muddy brown blending, metallic gloss, excessive granular noise and decorative texture pasted equally over every surface.
+
+HARD EXCLUSIONS: no generic benevolent old monk, no ordinary sage portrait, no smiling or tranquil expression, no young emperor, no plump face, no crown, no throne, no praying, no kneeling, no raised hands, no reaching hand, no giant hand, no giant bowl, no foreground tray, no full-body doorway scene, no temple-entry scene, no surrendering crown, no ransom chests, no loose coins, no mounted army inside the room, no giant Buddha statue, no bright golden Buddha, no halo centered behind the emperor's head, no warm brown palette, no ochre-dominant image, no sepia, no pervasive gold, no gold flecks, no floating ash storm, no arrow in flight, no blood or gore, no readable inscriptions, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D, smooth generic anime, chibi, idol face, Ming or Qing costume, European armor or samurai armor.""",
 }
 
 
@@ -775,8 +801,8 @@ def readme() -> str:
 
 ## 生产顺序
 
-1. `01-qin-shi-huang.png` 至 `06-h-zhao-shi-le.png` 已批准，**禁止重生成或覆盖**。
-2. 从 `prompts/07-liang-wu.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
+1. `01-qin-shi-huang.png` 至 `07-liang-wu.png` 已批准，**禁止重生成或覆盖**。
+2. 从 `prompts/08-xixia-li-yuanhao.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
 3. 每次必须重新打开单人提示词，确认顶部是 `PROMPT_VERSION: 2.3-camera-palette-identity-physics`，再复制 `POSITIVE PROMPT`。
 4. 同时加载主锚点和辅助锚点；只继承材质、笔触和成年漫画造型，不复制秦始皇机位或黑金密度。
 5. 生成前同时核对 `SHOT_CODE`、`COLOR_CODE` 及两张矩阵的相邻行；生成 16:9 PNG。
