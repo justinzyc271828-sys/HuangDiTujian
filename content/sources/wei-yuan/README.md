@@ -1,3 +1,3 @@
 # 魏元帝 / `wei-yuan`
 
-- status: **dossier-complete**（benji-upgrade，6 条）
+- status: **dossier-complete**（qa-fix，6 条）

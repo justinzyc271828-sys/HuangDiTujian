@@ -1,4 +1,3 @@
 # 北魏孝文帝 / `n-wei-xiaowen`
 
-- status: **dossier-complete**
-- 证据：12 条
+- status: **dossier-complete**（qa-fix，12 条）

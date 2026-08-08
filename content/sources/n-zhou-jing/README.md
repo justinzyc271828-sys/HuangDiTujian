@@ -1,4 +1,3 @@
-# 静帝 / `n-zhou-jing`
+# 周静帝 / `n-zhou-jing`
 
-- status: **dossier-scaffold**（12 条骨架史料卡）
-- 升格后改 `00-史源卡.md` status → dossier-complete
+- status: **dossier-complete**（qa-fix，6 条）

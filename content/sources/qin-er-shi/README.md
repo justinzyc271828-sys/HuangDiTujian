@@ -1,4 +1,3 @@
 # 秦二世 / `qin-er-shi`
 
-- status: **dossier-complete**
-- 证据：8 条
+- status: **dossier-complete**（qa-fix，8 条）

@@ -1,3 +1,3 @@
 # 蜀后主 / `shu-houzhu`
 
-- status: **dossier-complete**（benji-upgrade，12 条）
+- status: **dossier-complete**（qa-fix，12 条）
