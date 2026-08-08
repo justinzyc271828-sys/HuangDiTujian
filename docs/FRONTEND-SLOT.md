@@ -15,9 +15,9 @@
 | 先导二十六维 | `data/catalog/video20.json` | 20 人完整分数 |
 | 六维轴 / Lab | `data/catalog/stand_stats.json` | 对齐 video20 |
 | 构建产物 | `apps/web/public/data/site.json` | |
-| 史料卡 | `content/sources/` | 20 目录；3 complete |
-| 分镜 / Key Art | `content/video/video-01/` | 文案齐，真图未齐 |
-| 英文出图 prompt | `key-art-en-prompts-video01/` | 20 份 |
+| 史料卡 | `content/sources/` | 269 目录全 complete |
+| 分镜 / Key Art | `content/video/video-01/` | 文案齐；真图 6/20（`assets/video-01/emperor-illustrations/outputs/`） |
+| 英文出图 prompt | `assets/video-01/emperor-illustrations/prompts/` | 20 份 v2.3（根目录旧版已废止） |
 | 进度 | `docs/08-项目进度看板.md` | |
 
 ## 不要做

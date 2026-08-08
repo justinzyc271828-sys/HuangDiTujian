@@ -2,7 +2,7 @@
 
 把中国历史上的**正式帝王**与后期扩展的**准帝王**，做成一本可交互的「收集图鉴」：
 
-- AI 史书想象画像（先导二十：英文 prompt 已备）  
+- AI 史书想象画像（先导二十：已出 6/20，岩彩裂壁风格）  
 - 主要事迹 + 年表大事表 + 关联表  
 - `[[其他皇帝]]` 交叉跳转  
 - 侧栏古地图：一生主要地点与路线  
@@ -12,16 +12,16 @@
 > → [`docs/08-项目进度看板.md`](docs/08-项目进度看板.md)  
 > **工作区边界：** 仅本仓库；见 [docs/06-工作区边界.md](docs/06-工作区边界.md)。
 
-### 当前快照（2026-08-06）
+### 当前快照（2026-08-08）
 
 | 项 | 状态 |
 |----|------|
 | 全库索引 | **269** 人 · `data/catalog/emperors_master.*` |
-| video-01 | **20** 人六维/分镜/EN prompt ✅ · 真图/成片 ☐ |
+| video-01 | **20** 人六维/分镜/prompt ✅ · 真图 **6/20** 出图中 · 成片 ☐ |
 | 产品 YAML+bio | **5** 人（含始皇、汉武、太宗） |
-| 史料卡 | **269** 人：73 本纪 complete（两汉+三国两晋+样板）+ 196 scaffold |
+| 史料卡 | **269** 人全 dossier-complete · 0 scaffold · E 卡 1950 |
 | 前端 | `apps/web` 可 dev · **奏折专页未落地**（见 07 / FRONTEND-SLOT） |
-| 英文出图固定目录 | `key-art-en-prompts-video01/` |
+| 现行出图生产包 | `assets/video-01/emperor-illustrations/`（prompt v2.3 + manifest） |
 
 ---
 
@@ -49,8 +49,13 @@ HuangDiTujian/
 │   ├── bios/                     # 现 5
 │   ├── sources/                  # video-01 二十人史源/史料
 │   └── video/video-01/           # 分镜 · key-art 规格
-├── key-art-en-prompts-video01/   # ★ 英文出图 prompt 固定目录（20）
-├── assets/portraits/             # 画像（待生成）
+├── key-art-en-prompts-video01/   # 英文 prompt 旧版存档（已废止，勿用于出图）
+├── assets/
+│   ├── style-bible/v1/             # 插画风格圣经（岩彩裂壁 · 墨势入场，已锁定）
+│   ├── video-01/emperor-illustrations/  # ★ 现行出图生产包 v2.3（prompts + manifest + outputs 6/20）
+│   ├── portraits/                  # 正式画像（待生成）
+│   └── maps/                       # 古地图素材（空）
+├── Music/                          # 配乐（The Last Emperor's March.wav）
 ├── HuangDiTujian-Ref/            # 二十四史/通鉴等参考全文
 ├── tools/                        # 构建与导出脚本
 └── apps/web/                     # Vite+React 预览
@@ -87,9 +92,9 @@ video-01 其余 17 人：**有史料/分镜/prompt，尚无 `data/emperors` YAML
 | [奏折布局](docs/07-专页奏折布局设计.md) | 正式 UI |
 | [FRONTEND-SLOT](docs/FRONTEND-SLOT.md) | 前端实现槽 |
 | [先导二十人](docs/references/catalogs/先导二十人.md) | 六维总表 |
-| [史源工作区](content/sources/README.md) | 二十人史料状态 |
+| [史源工作区](content/sources/README.md) | 全库 269 史料状态 |
 | [视频包](content/video/video-01/README.md) | 分镜 + Key Art |
-| [英文 prompt](key-art-en-prompts-video01/README.md) | Image 用 |
+| [英文 prompt](key-art-en-prompts-video01/README.md) | 旧版存档（已废止）；现行用 `assets/video-01/emperor-illustrations/` |
 
 ---
 

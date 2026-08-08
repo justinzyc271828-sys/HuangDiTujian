@@ -29,5 +29,6 @@ python tools/build_emperors_master_index.py
 | 产出 | 路径 |
 |------|------|
 | 分镜 | `content/video/video-01/分镜/` |
-| 英文出图 | `key-art-en-prompts-video01/` |
+| 出图生产包（v2.3，真图 6/20） | `assets/video-01/emperor-illustrations/` |
+| 英文出图（旧版存档，已废止） | `key-art-en-prompts-video01/` |
 | 史料 | `content/sources/` |
