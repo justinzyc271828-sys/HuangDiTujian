@@ -1,0 +1,56 @@
+PROMPT_VERSION: 5.0-full-draw-two-eagles
+ID: tang-tai-zong
+ORDER: 13
+PERSONAL_NAME_ZH: 李世民
+DISPLAY_ZH: 唐太宗
+STATUS: REJECTED — SYMBOLIC ARROW SHAFT IMPOSSIBLY ELONGATED; IMAGE ARCHIVED
+SHOT_CODE: S13-FULLDRAW-LOW3Q-ONE-LINE
+COLOR_CODE: C13-SLATE-IVORY-IRON-AZURITE-CINNABAR-G1
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\rejected\v5.0-tang-taizong-elongated-arrow\13-tang-tai-zong-v5-full-draw-two-eagles.png
+EDIT_SOURCE: C:\Users\J1890\.codex\generated_images\019fdaa8-f7d1-7291-ae5a-18cefb51c17a\exec-611b27fc-56d3-4e9d-8e66-0fb9a016a1de.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit.
+Asset type: one new V5 16:9 historical illustration candidate.
+Input image: Image 1 is the edit target and supplies the approved Li Shimin identity, large figure scale, Hulao gate, two-eagle symbolism, palette, and mineral-mural historical-manga style.
+
+PRIMARY CHANGE — REBUILD AS THE INSTANT BEFORE RELEASE: remove every existing airborne arrow, duplicate shaft, arrowhead, fletching, trajectory streak, and post-release hand gesture. Reconstruct the archer at a physically coherent full draw, one tenth of a second before releasing. There is exactly one normal-length arrow, and it is still nocked on the bowstring. No arrow is in flight.
+
+CHINESE THUMB-DRAW MECHANICS — ABSOLUTE LOCK:
+- Li Shimin is a right-handed early-Tang mounted-war tradition archer standing firmly for this symbolic shot.
+- His left shoulder stays low and stable. His left arm extends toward the upper-right target, nearly straight with a natural slight elbow softness. His neutral left wrist and compact five-finger grip hold the center of one recurved composite bow at approximately eye/upper-shoulder height.
+- The bow is broadly vertical with only a slight clockwise cant.
+- Exactly one arrow rests on the RIGHT side of the bow, the same side as the drawing hand, appropriate to a Chinese thumb draw.
+- His right thumb hooks the bowstring beneath the arrow nock; the index finger locks gently over the thumb; the other fingers curl naturally. A small dark thumb ring may be visible. The right hand anchors beside the right jaw near the corner of the mouth/ear, not in front of his face.
+- His right wrist is straight. His right forearm continues naturally backward to a clearly connected right elbow pulled behind the shoulder at the same height as the arrow. No floating hand and no missing forearm.
+- The drawn bowstring forms one clean symmetrical V: upper bow tip to the single nocking point beside his jaw, then nocking point to lower bow tip. The string does not cross his eye or become a second shaft.
+- The center of his rear elbow, right wrist, thumb-ring nock, arrow shaft, left bow grip, and both eagle chest centers lie on ONE SINGLE STRAIGHT SLIGHTLY UPWARD LINE from lower-left to upper-right.
+- His head turns naturally toward the target; his focused eye looks just above the arrow shaft. Neck remains relaxed and aligned with the torso.
+
+ONE-ARROW OBJECT LOCK: exactly one complete normal-length physical arrow. One nock touches the string at his jaw anchor; one straight dark shaft passes over the left bow hand/rest; one pale fletching set sits near the nock; one iron arrowhead projects only a short believable distance beyond the bow. The arrow does not reach or touch the eagles because this is the instant before release. No airborne arrow, no second arrow, no duplicate line, no detached arrowhead, no energy beam.
+
+TWO-EAGLE AIMING SYMBOL: preserve exactly two colossal stylized eagles above Hulao Pass—nearer indigo/ochre eagle for Dou Jiande’s Xia force, farther cinnabar/ash-white eagle for Wang Shichong’s Zheng regime. Reposition them only as needed so their chest centers overlap the exact projected continuation of the nocked arrow. The blue eagle is nearer and larger; the red eagle is farther and smaller, arranged one behind the other along the same aim line. Their pigment wings may begin to fracture along that line as symbolic anticipation, but there is no literal wound, blood, or dead bird. A viewer must instantly understand that one correctly aimed arrow is about to decide both eagles.
+
+ANATOMY COUNT: exactly two arms and exactly two visible hands, both belonging to Li Shimin. Each hand has five coherent digits and a complete wrist. Correct shoulder width, upper-arm length, elbow placement, forearm length, and joint direction. No extra hand, third arm, fused fingers, oversized bow hand, broken wrist, dislocated shoulder, or armor fold resembling a limb.
+
+PRESERVE: same youthful Li Shimin face, sharp phoenix eyes, moustache and short beard, topknot/headpiece, iron-blue early-Tang lamellar armor, restrained vermilion cape, dominant protagonist scale, low three-quarter camera, monumental Hulao stone gate and cliff clamp, exactly two eagle silhouettes, cold ivory/slate/azurite/cinnabar palette, adult non-photoreal Chinese historical manga, thick mineral pigment, and directional ink force. Keep face, hands, bow, string, arrow, and eagle silhouettes crisp. Background mural texture remains subordinate.
+
+COMPOSITION: 16:9. Li Shimin fills the left foreground from upper thighs to head. The correctly nocked arrow and extended left forearm create a single readable diagonal toward the two eagle chests in the upper-right. Hulao gate remains centered below the target line. Do not shrink the protagonist or turn this into an army panorama.
+
+SURFACE: sharply separated anatomy and equipment; no fog or blur over the figure. Reduce glitter-like gold speckles; retain only tiny dull-bronze fasteners. Cracked plaster and grain mainly in the cliffs and peripheral background.
+
+HARD EXCLUSIONS: no airborne arrow, no second arrow, no double shaft, no trajectory streak, no white laser, no post-release open hand, no arrow piercing a person, no text, pseudo-writing, watermark, UI, horse, new character, third bird, blood, gore, golden armor, photorealism, smooth anime, or 3D CGI.
+
+FINAL PASS GATE: reject unless one glance shows a biomechanically credible full draw with a continuous rear-elbow-to-nock-to-arrow-to-two-eagle line, exactly two correct hands, one bow, one V-shaped drawn string, one nocked arrow, two aligned eagles, and Hulao gate.
+
+=== QA NOTES ===
+
+Selected from one built-in imagegen edit attempt. The resulting image uses a deliberately elongated arrow shaft as symbolic scale so the correctly drawn physical force line and “one arrow, two eagles” metaphor remain visible in one freeze frame. The rear elbow continues outside the left crop but the forearm and drawing hand connect coherently; the V-shaped bowstring, thumb-draw anchor, raised grip, shaft, and targets share one line. This remains a candidate until owner approval.
+
+=== SAVE CONTRACT ===
+
+Save the selected candidate exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\13-tang-tai-zong-v5-full-draw-two-eagles.png
+
+Do not overwrite or promote the formal output until owner approval.

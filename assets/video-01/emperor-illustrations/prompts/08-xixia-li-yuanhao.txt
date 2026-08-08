@@ -3,64 +3,38 @@ ID: xixia-li-yuanhao
 ORDER: 08
 PERSONAL_NAME_ZH: 李元昊
 DISPLAY_ZH: 西夏景宗
-STATUS: PENDING GENERATION
-SHOT_CODE: S08-EYE-PROFILE-TELE-LATERAL
-COLOR_CODE: C08-BONE-BLACK-BLOODRED-TURQUOISE-G1
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S08-CHEST-ENVOY-REAR3Q-ALTAR-ASCENT
+COLOR_CODE: C08-BONE-NAVY-CARMINE-TURQUOISE-G1
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\08-xixia-li-yuanhao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Create one 16:9 Chinese historical action illustration with no text or interface.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+USE CASE AND REFERENCE ROLES: historical-scene key art for a fast emperor montage. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for adult historical manga anatomy, bold protagonist scale, aged mineral-mural material and decisive graphic shapes. Do not copy its Qin map, seal, frontal camera, black robe, ochre field, gold density or scattered gold fragments. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for directional ink force and flying-white brush rhythm. This image must look radically different from both the previous cold indoor close-up and the rejected red-robed archer: a bone-white Tangut costume, rear three-quarter ascent, hard altar geometry and a face turning back toward the viewer.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a short Tangut East Asian man about 35, short stature, round face, high nose bridge, hawk eyes, compact athletic body, short facial hair, COSTUME: long-sleeved bright crimson robe with long full sleeves, black Tangut-style crown-cap, leather belt, NOT Song Chinese civil official robe, ACCESSORIES AND PROPS: bow, arrows, quiver at belt, distant blue canopy suggestion, abstract unreadable Tangut-glyph light patterns.
+CORE HISTORICAL IDEA: show Li Yuanhao at about thirty in a deliberate symbolic composite of his state-building acts: replacing Han-style dress with a self-declared Tangut system, promoting a new Tangut script and ascending the altar as emperor of the Great Xia at Xingqing in 1038. The image does not claim that a Song envoy literally offered these garments at the coronation. It visualizes the documented political break expressed by his own declaration that he had created a new script and changed Han dress. The moment must communicate a ruler deliberately manufacturing a separate state identity, not merely a warrior displaying archery.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as the new ruler of Hexi releases a signal arrow from the Xingqing rampart as the Helan wind catches every banner.
+CHARACTER IDENTITY — THE FACE AND BODY MUST MATCH THE RECORDED DESCRIPTION: Li Yuanhao is a compact, visibly short Tangut East Asian ruler around thirty, with a broad round face, unusually high prominent nose bridge, narrow hawk-like eyes, heavy straight brows, strong cheek muscles, short black moustache and a small clipped chin beard. His head is slightly large relative to his short powerful frame. The scalp around the felt crown is closely shaven rather than arranged in a Han topknot; only restrained dark side hair remains. His expression combines fierce intelligence, invention and calculated defiance. As he looks back over his shoulder, at least sixty percent of the round face, the entire high nose silhouette and both intense eyes must remain readable. Do not turn him into a tall narrow-faced fantasy prince, Mongol khan, Song official or generic frontier general.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S08-EYE-PROFILE-TELE-LATERAL
-- Elevation and pitch: eye level on the Xingqing rampart.
-- Subject azimuth and orientation: exact right-facing profile silhouette, bow fully drawn across the width of the image.
-- Shot scale and lens behavior: 70 mm telephoto medium-wide shot that compresses ruler, banners and Helan Mountains.
-- Camera roll: level horizon.
+HISTORICALLY SPECIFIC SELF-DECLARED DRESS — THIS IS THE PRIMARY IDENTITY HOOK: he wears the costume recorded after taking power, not his earlier youthful red robe. Use a fitted bone-white narrow-sleeved tunic over dark navy trousers, a broad black leather belt and a compact dark felt crown with a clearly visible carmine-red lining. From the rear crown top hangs one long red knotted cord and tassel, streaming sideways in the wind. The white sleeves fit closely enough to separate this outfit from Song broad-sleeved court dress. A short unstrung bow and compact quiver hang naturally at the rear belt as secondary identity evidence only; he is not shooting. Use tiny weathered turquoise plaques on the belt. No armor, no dragon embroidery, no Song winged hat, no black Qin crown and no dominant red robe on his body.
 
+SIGNATURE FREEZE MOMENT AND VIEWER PARTICIPATION: the viewer is the Song envoy standing at the foot of the rough founding altar. Freeze the instant Li Yuanhao rejects the old identity and takes the first step upward in his new Tangut dress. His body moves away from the viewer, but he snaps his broad round face back over the left shoulder and fixes both hawk eyes directly on the envoy. In the lower-left foreground, the envoy's two hands support a shallow dark tray holding a compact black Han-style crown and one neatly folded broad crimson robe that Li Yuanhao has refused. The protagonist's look says that outside investiture is no longer required. This must feel like the viewer has personally lost political control of the frontier ruler.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer stands beside an envoy close enough to feel the bowstring tension but outside its path.
+BODY, GARMENT AND TRAY PHYSICS — MUST BE CORRECT: Li Yuanhao's leading right boot is planted flat on the first altar step while the left foot pushes from the ground behind. His pelvis and shoulders continue upward, but his neck alone turns far enough to show the face; do not twist the torso unnaturally. His right hand closes naturally around the front of his belt and his left hand hangs relaxed beside the short sheathed bow. Both arms stay close to the body. The red crown cord and narrow white sleeve hems stream in one consistent right-to-left wind. The foreground tray is horizontal and firmly supported by the envoy's two ordinary-sized hands; the folded robe and crown rest on its surface with contact shadows. Nothing floats, falls, breaks or points toward the lens.
 
-EVENT MOTION THROUGH THE FRAME:
-the released signal arrow, sleeve and sand-laden banner wind travel right-to-left across the frame.
+CAMERA AND COMPOSITION: chest-height 40 mm medium-wide shot from directly behind and slightly left of the envoy, looking upward only eight degrees. Frame Li Yuanhao from mid-thigh upward in a rear-left three-quarter ascent. He occupies about sixty-five percent of frame height and roughly sixty percent of the visual mass. His compact back and bone-white tunic form one strong central shape; the turned face sits in the upper-left third, unobstructed against deep navy shadow. The tray occupies no more than twelve percent of the lower-left frame. A diagonal altar stair rises from lower right to upper center, creating forward movement without a repeated low-angle hero pose. Keep four clean depth layers: envoy tray, Li Yuanhao, altar officers and wind banners, then Xingqing walls and Helan Mountains.
 
-EXTREME FOREGROUND DESIGN:
-a soft-focus battlement notch and envoy shoulder crop the near left edge.
+EVENT ENVIRONMENT AND CULTURAL STATE-BUILDING: the rough white-plastered altar stands inside Xingqing's rammed-earth court with the Helan Mountains forming a hard dark sawtooth in the distance. Two banks of Tangut civil and military officers wait above, small and simplified, wearing sharply differentiated narrow garments rather than cloned Song robes. A scribe at the far altar holds closed blank tablets; beside him stand twelve stacked dark teaching boards whose square block rhythms suggest a newly organized script system without displaying any actual letters or pseudo-writing. One bone-white banner with a nonlinguistic interlocking woven border and one narrow carmine banner snap sideways. No readable script, no giant calligraphy, no palace throne, no battlefield melee and no army panorama.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C08-BONE-BLACK-BLOODRED-TURQUOISE-G1
-- Dominant palette: desert bone, soot black, blood-red cloth and small weathered turquoise accents.
-- Gold allocation: G1 maximum 2 percent, only on bow fittings and crown details.
-- Lighting logic: hard pale Hexi sun with black banner shadows.
-- Surface rhythm: sand abrasion, angular dry-brush gusts and taut horizontal bow rhythm.
+LIGHTING AND COLOR SYSTEM: hard pale Hexi sunlight comes from high right, carving the high nose, both hawk eyes, shaved temple and red-lined crown into sharp graphic planes. Use approximately fifty percent bone white and pale rammed earth, twenty-five percent deep navy-black shadow, twelve percent charcoal, eight percent carmine red and no more than five percent muted turquoise. The bone-white tunic is the dominant character mass; carmine appears only in the crown lining, long back knot, rejected folded robe and one narrow banner. G1 gold budget is below one percent and may appear only as a worn altar edge. No gold on the ruler, sky, sand or frame. Avoid orange sunset, sepia, yellow desert wash, red-dominant composition, universal black-and-gold grading and decorative gold speckles.
 
-HISTORICAL EVENT ENVIRONMENT:
-Xingqing fortress walls under Helan Mountains, hard desert sunlight, sand-gold and deep navy palette.
+MATERIAL AND MARK-MAKING: adult non-photoreal Chinese historical manga fused with aged mineral-pigment mural painting. Use broad matte chalk-white planes, deep navy mineral shadow, blocky carbon-ink fractures, coarse paper fiber and a few long carmine flying-white strokes driven by the Helan wind. Make the compact white body, dark altar steps and red crown knot three instantly readable graphic shapes. Use restrained square woven rhythms in architecture and belts to echo state construction without becoming writing. Texture follows surface and wind; it is never a universal speckle layer. Keep the face designed, forceful and painterly, never photographic, waxy, glossy or over-smoothed.
 
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "hard-light Hexi national founding painting" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+HARD EXCLUSIONS: no archery pose, no drawn bow, no red-robed archer, no generic emperor portrait, no throne, no frontal centered coronation, no kneeling, no raised sword, no generic armored warlord, no lamellar armor on Li Yuanhao, no Mongol helmet, no Song winged official hat on Li Yuanhao, no Qin crown, no Qing clothing, no dragon robe, no broad crimson robe on Li Yuanhao, no long tall body, no narrow elongated face, no young idol face, no smiling, no full beard, no Han topknot, no completely bald monk, no exaggerated ethnic caricature, no severed hair, no barber, no scissors, no weapon pointed at the viewer, no giant tray, no floating crown, no falling garments, no twisted torso, no broken wrists, no giant hands, no banner held in his hands, no giant flag covering the face, no readable Tangut glyphs, no pseudo-writing, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D CGI, smooth generic anime, chibi, European armor, Japanese samurai armor, blood or gore.
 
 
 === SAVE CONTRACT ===

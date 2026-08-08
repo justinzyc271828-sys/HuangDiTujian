@@ -1,0 +1,58 @@
+PROMPT_VERSION: 2.0-curtain-to-throne
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW40-CURTAIN-CROSS
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-BRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v2-curtain-to-throne.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Create one 16:9 key illustration of Wu Zetian at the decisive instant when she stops ruling from behind a curtain and physically enters the emperor's central axis. This is not a generic female-emperor portrait: it is the transformation of Empress Dowager Wu into the sole emperor Wu Zhao, Luoyang, 690 CE, changing Tang to Zhou.
+
+PROTAGONIST AND IDENTITY:
+- Wu Zhao is about 66 years old, unmistakably mature and formidable: a broad square authority face, visible age lines, grey-streaked hair, cold observant eyes, and controlled resolve.
+- Do not beautify her into a young court lady. No seduction, no delicate princess face, no harem styling.
+- She wears a historically inspired sovereign's dark blue-violet ceremonial robe with restrained cinnabar structure and an emperor-style crown. Her authority comes from posture, age, intelligence, and control rather than oversized fantasy ornaments.
+- The figure occupies roughly 72% of image height and remains human-scale, never a giant.
+
+DECISIVE ACTION — FREEZE THE CROSSING:
+- Wu Zhao advances directly toward the viewer with one deliberate forward step across a visible floor seam: the space behind her retains old Tang cinnabar tones while the space she enters shifts toward Wu-Zhou violet and cold ivory.
+- Exactly ONE clearly visible hand grips and pulls aside a heavy cinnabar-purple regency curtain at shoulder height. The other hand remains fully concealed inside the robe; do not invent a second gesture.
+- Her curtain-pulling arm, forward foot, robe weight, and torso must form one credible physical action. She is actively opening the political space and crossing into it, not posing beside fabric.
+- The viewer occupies the place of a kneeling court official being confronted by the transfer of power; show only two soft, dark, out-of-focus shoulders at the lower corners.
+
+UNIQUE POLITICAL SYMBOL:
+- Behind her, integrate ONE broad eight-spoke bronze-gold architectural wheel into the Mingtang interior. It represents her Jinlun title and the new Zhou order.
+- The wheel must be partly occluded by her body and fixed to the architecture, never floating, never a Buddhist halo, never a magical aura.
+- Use no decree as the main prop and no conventional throne pose.
+
+CAMERA AND COMPOSITION:
+- A 40 mm lens feeling, low but restrained camera elevation of roughly 12–14 degrees, centered central-axis composition with slight asymmetry created by the curtain.
+- Keep believable human perspective and full-body proportions. The forward foot may be closer but cannot become oversized.
+- Mingtang timber architecture and the floor axis converge behind and beneath her. The curtain fills much of the left side, while the architectural wheel anchors the right background.
+- Keep face, visible hand, forward foot, curtain edge, and wheel silhouette crisp. Secondary officials and architecture remain subordinate.
+
+SERIES VISUAL LANGUAGE:
+- Adult non-photoreal Chinese historical manga, thick mineral-pigment mural painting, expressive ink contours, dry-brush abrasion, layered matte color, sharp facial construction, and controlled cinematic depth.
+- Preserve tactile brushwork and dramatic directional folds without becoming photorealistic, smooth anime, 3D CGI, or a static encyclopedia plate.
+- Palette: deep violet, aged cinnabar, cold ivory, soot black, muted teal-grey, and restrained object-bound bronze gold. Gold may occupy at most 6% of the frame and must stay on the wheel, crown hardware, or small robe details. No decorative gold dust.
+
+HARD EXCLUSIONS:
+- no young beauty, seductive empress, concubine styling, generic queen portrait, goddess, saint, halo, floating wheel, magical light, throne pose, seated pose, static atlas pose, ceremonial decree presentation, court-beauty cosmetics, giant body, extreme fisheye, tiny protagonist, multiple visible hands, extra fingers, malformed feet, incoherent curtain grip, duplicate crown ornaments, text, pseudo-writing, watermark, UI, photorealism, glossy 3D, smooth anime, or uniform black-and-gold treatment.
+
+FINAL PASS:
+Reject unless the result immediately reads as an aged female sovereign actively pulling away the last regency curtain and stepping into the emperor's position, with one coherent visible hand, one forward step, one architectural gold wheel, a large human-scale protagonist, and a clear viewer-as-court-official point of view.
+
+=== QA NOTES ===
+
+Generated in one built-in imagegen attempt using the approved Qin-series mineral-mural reference and ink-motion reference. Face, age, sovereign costume, single visible hand, curtain grip, forward step, kneeling-viewer framing, Mingtang setting, and architectural wheel all read clearly. Gold abrasion is slightly more visible than the written 6% budget, and the Tang-to-Zhou floor-color seam remains intentionally subtle; both are refinement-level observations rather than anatomy or concept failures. Awaiting owner approval before promotion to formal output.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v2-curtain-to-throne.png
+
+Candidate only — do not overwrite or promote without owner approval.

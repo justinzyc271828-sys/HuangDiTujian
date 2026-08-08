@@ -4,8 +4,8 @@ sort_key: 东汉-001
 names:
   display: 汉光武帝
   personal: 刘秀
-  temple: null
-  posthumous: null
+  temple: 世祖
+  posthumous: 光武皇帝
   aliases: []
 dynasty:
   id: e-han
@@ -18,7 +18,7 @@ reign:
   - 建武
   - 中元
 life:
-  birth: null
+  birth: '-5'
   death: '57'
   birth_place_id: null
   death_place_id: luoyang
@@ -95,15 +95,6 @@ timeline:
   - 后汉书·卷001
   - 后汉书·卷022
   card_id: E006
-- year: '30'
-  date_note: 建武六年
-  title: 度田令
-  summary: 度田检核田亩户口，引发地方反抗与政策调整。
-  place_id: null
-  related_person_ids: []
-  sources:
-  - 后汉书·卷001
-  card_id: E007
 - year: '36'
   date_note: 建武十二年
   title: 统一大致完成
@@ -113,8 +104,17 @@ timeline:
   sources:
   - 后汉书·卷001·光武帝纪
   card_id: E008
-- year: '40'
-  date_note: 建武十六年
+- year: '39'
+  date_note: 建武十五年
+  title: 度田令
+  summary: 度田检核田亩户口，引发地方反抗与政策调整。
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷001
+  card_id: E007
+- year: '43'
+  date_note: 建武十九年
   title: 交趾征侧平
   summary: 马援等平交趾，南疆叙事。
   place_id: jiao-zhi
@@ -144,7 +144,7 @@ timeline:
 - year: undated
   date_note: 建武年间
   title: 柔道与退功臣
-  summary: 崇尚柔道、退功臣进文吏，云台图像功臣而不使揽政，塑造中兴政风。
+  summary: 崇尚柔道、退功臣进文吏，不使功臣揽政，塑造中兴政风。
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -195,7 +195,7 @@ routes:
   event: 定都洛阳
 - group: 亲征
   order: 6
-  year: '40'
+  year: '43'
   place_id: jiao-zhi
   event: 交趾征侧平
 - group: 巡狩

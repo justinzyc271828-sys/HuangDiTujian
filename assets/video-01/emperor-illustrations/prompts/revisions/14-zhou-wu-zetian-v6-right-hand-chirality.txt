@@ -1,0 +1,48 @@
+PROMPT_VERSION: 6.0-right-hand-chirality
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN-RIGHTHAND
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v6-right-hand-chirality.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v5-open-palm-curtain-sweep.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit. Correct only the chirality of Wu Zhao's visible curtain-opening hand. The visible arm is on viewer-left and is anatomically Wu Zhao's RIGHT arm. Replace the left-hand-like endpoint with an unmistakably correct adult RIGHT hand while preserving the exact arm position, curtain-opening direction, hand scale, and all other pixels as closely as possible.
+
+RIGHT-HAND ORIENTATION — ABSOLUTE LOCK:
+- The back/dorsal side of the anatomically correct right hand faces the viewer.
+- The right thumb is on the medial side toward Wu Zhao's torso: the viewer-right side of the visible hand.
+- The little-finger edge is on the outer side toward the curtain and viewer-left.
+- Four fingers extend diagonally upward-left along the broad curtain surface. The right thumb alone wraps behind the inner curtain edge on viewer-right, opposing the four fingers.
+- Show exactly five digits: four fingers plus one thumb, with correct right-hand knuckles, tendons, finger order, proportions, and wrist transition.
+- Do not mirror the whole arm or image and do not place a left hand on the right forearm.
+
+GESTURE TO PRESERVE:
+- Preserve the V5 open-palm sweeping action: the right hand guides the broad flat curtain edge outward toward Wu Zhao's own right/viewer-left, opening the central axis on viewer-right.
+- Do not turn it into a fist, cloth bundle, knot, or grabbing action.
+- Keep the hand at the same shoulder height and normal scale; wrist neutral, elbow bent, shoulder low, sleeve coherent, and curtain broad rather than rope-like.
+- Modify only the hand, wrist junction, and a minimal adjacent curtain patch required for integration.
+
+PRESERVATION LOCK:
+Keep unchanged Wu Zhao's aged face, crown, expression, torso, right-arm placement, sleeve outside the wrist patch, hidden opposite hand, stride, feet, robes, bronze threshold, cinnabar/violet transition, eight-spoke Jinlun emblem, Mingtang architecture, kneeling officials, crop, camera, palette, lighting, texture, and all background elements.
+
+HARD EXCLUSIONS:
+No left hand on the visible right arm, reversed thumb, thumb on viewer-left, mirrored image, moved arm, fist, fabric knot, oversized hand, six fingers, extra finger, doubled thumb, missing digit, fused fingers, deformed wrist, extra hand, visible opposite hand, changed curtain direction, changed face, changed wheel, changed threshold, text, watermark, or UI.
+
+FINAL QA:
+Identify the arm as Wu Zhao's right arm. With the back of the hand facing the viewer, verify the thumb is on viewer-right toward her torso and the little-finger edge is on viewer-left toward the curtain. Count exactly four fingers plus one thumb.
+
+=== QA NOTES ===
+
+V6 corrects the hand chirality without mirroring the arm or changing the curtain-sweep direction. The thumb now occupies the medial, body-facing/viewer-right side of the right hand, with the little-finger edge on viewer-left. All major composition anchors remain stable. Awaiting owner review.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v6-right-hand-chirality.png
+
+Candidate only — do not overwrite or promote without owner approval.

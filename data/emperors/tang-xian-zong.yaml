@@ -172,28 +172,23 @@ routes:
   year: '806'
   place_id: cheng-du
   event: 平西川
-- group: 亲征
-  order: 4
-  year: '809'
-  place_id: cheng-de
-  event: 成德王承宗战事
 - group: 都城
-  order: 5
+  order: 4
   year: '815'
   place_id: chang-an
   event: 李师道刺武元衡
 - group: 其他
-  order: 6
+  order: 5
   year: '817'
   place_id: cai-zhou
   event: 裴度宣慰淮西
 - group: 亲征
-  order: 7
+  order: 6
   year: '817'
   place_id: cai-zhou
   event: 平淮西
 - group: 都城
-  order: 8
+  order: 7
   year: '819'
   place_id: chang-an
   event: 迎佛骨

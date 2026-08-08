@@ -127,6 +127,36 @@ timeline:
   - 宋史·卷003
   - 宋史·太宗纪
   card_id: E008
+- year: undated
+  date_note: 开宝前
+  title: 先南后北
+  summary: 平荆湖、后蜀、南汉、南唐等，统一南方战略。
+  place_id: null
+  related_person_ids:
+  - n-tang-houzhu
+  sources:
+  - 宋史·卷001–002·太祖纪
+  card_id: E010
+- year: undated
+  date_note: 制度
+  title: 强干弱枝
+  summary: 收精兵、分事权，宋代国势路径。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·兵志/职官志
+  - 宋史·太祖纪
+  card_id: E011
+- year: undated
+  date_note: 在位间
+  title: 重文抑武
+  summary: 抬高文官、分化兵权，奠定宋代国势路径。
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 宋史·太祖纪/职官志
+  - 宋史·选举志
+  card_id: E012
 relations:
 - type: predecessor
   target_id: zhou-shi

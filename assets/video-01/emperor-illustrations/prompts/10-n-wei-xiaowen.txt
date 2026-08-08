@@ -3,8 +3,8 @@ ID: n-wei-xiaowen
 ORDER: 10
 PERSONAL_NAME_ZH: 元宏
 DISPLAY_ZH: 北魏孝文帝
-STATUS: PENDING GENERATION
-SHOT_CODE: S10-EYE-OTS-REAR3Q-MS-AWAY
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S10-WAIST-SIDE-TRACK-THRESHOLD-CROSS
 COLOR_CODE: C10-PALESTONE-INDIGO-CELADON-HANRED-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\10-n-wei-xiaowen.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -12,55 +12,31 @@ SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Create one 16:9 Chinese historical action illustration with no text or interface.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+USE CASE AND REFERENCE ROLES: historical-scene key art for a fast emperor montage. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for adult historical manga anatomy, dominant protagonist scale, aged mineral-mural material and decisive graphic shapes. Do not copy its Qin map, seal, frontal camera, black robe, warm ochre field, gold density or scattered gold fragments. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for directional ink force and flying-white cloth motion. This image must be a visual reset after the dark Fei River scene: clear pale architecture, a strict side-tracking stride, one deep restrained cinnabar robe and a sharp gate-shadow threshold.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a fair young Xianbei East Asian man about 27, notably pale fair skin, refined elegant bones, slender tall body, hair already arranged in a coherent Han-style topknot, COSTUME: one fully coherent ritual-crimson Han-style wide-sleeve court robe and a simplified jinxian cap, an old northern Xianbei narrow-sleeve riding coat and belt folded over the stone parapet, never split across his body, ACCESSORIES AND PROPS: removed braid cord held in one hand, folded riding coat, distant cart bells of southern migration, Luoyang bricks.
+CORE HISTORICAL IDEA: show Yuan Hong, Emperor Xiaowen of Northern Wei, at about twenty-seven in a deliberate symbolic fusion of the 493 move of the capital to Luoyang and the 494 reform of court language and dress. The image does not claim that he changed clothes while literally crossing this gate. It visualizes his political decision to move an entire ruling culture across a threshold. The moment must communicate active reform, personal conviction and the cost of leaving the old Xianbei order behind—not a passive costume portrait and not a simplistic claim that one culture merely replaced another.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as he completes the public break with the old court dress during the move to Luoyang.
+CHARACTER IDENTITY — PALE, REFINED AND RESOLUTE: Yuan Hong is a young Xianbei East Asian ruler around twenty-seven, notably pale-skinned as described in the historical record, with refined high cheekbones, a straight narrow nose, long dark almond eyes, fine but decisive brows, a clear jaw and a slender tall body. His face is elegant but not pretty, fragile, soft or idol-like. Use no heavy beard; at most a faint disciplined moustache shadow. His expression is calm, intellectually severe and final. As he strides rightward, he turns only his eyes and pale face slightly toward the old guard-viewer, making the viewer feel the reform is also a direct command.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S10-EYE-OTS-REAR3Q-MS-AWAY
-- Elevation and pitch: eye level inside the Luoyang gate.
-- Subject azimuth and orientation: over the shoulder of an old Xianbei guard; the emperor is rear three-quarter walking away, turning his face back to the left.
-- Shot scale and lens behavior: 35 mm medium-wide shot that keeps the reforming ruler large while opening the migration road.
-- Camera roll: level architectural frame.
+COMPLETE REFORMED COURT DRESS — NEVER A SPLIT COSTUME: Yuan Hong wears one fully coherent Northern Wei adaptation of Han-style court clothing: a muted deep-cinnabar crossed-collar robe with broad but weighty sleeves, a pale stone inner collar, a dark indigo lower panel, a broad black belt and a compact simplified black court cap with no long horizontal wings. The tailoring should feel fifth-century and transitional, not Ming, Tang or Song. His hair is completely gathered beneath the court cap in a coherent high arrangement; no visible long Xianbei braid remains on him. The body is never divided into half riding coat and half court robe. No armor, dragon embroidery, imperial yellow, dangling jade curtain or fantasy crown.
 
+SIGNATURE FREEZE MOMENT AND VIEWER PARTICIPATION: the viewer is an elderly Xianbei palace guard standing just inside the Luoyang gate. Freeze the instant Yuan Hong's leading boot crosses the hard gate-shadow line from the cold migration road into the ordered city. His body remains in a clean left-to-right side stride, but his face turns slightly back toward the viewer with quiet expectation: follow, change and enter. Only a very narrow blurred edge of the guard's indigo fur collar and intact old braid enters the extreme right foreground. The emperor is not leaving the audience behind as decoration; he is making the audience decide whether to cross.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer shares the resisting guard's viewpoint as the old order is left behind.
+NATURAL WALKING AND CLOTH PHYSICS: Yuan Hong's right boot is planted flat just beyond the stone threshold while the left heel lifts naturally behind. Hips, knees, shoulders and head share the same rightward travel. His front arm makes a small natural counter-swing inside the broad sleeve; the rear hand gathers no object and remains relaxed near the belt. The heavy cinnabar sleeve and lower robe trail leftward with gravity and one consistent gate wind, never floating like flags. Keep both hands ordinary-sized and mostly contained within the sleeves. No reaching, pointing, ceremonial presentation or impossible twisting.
 
-EVENT MOTION THROUGH THE FRAME:
-the discarded riding coat and braid cord fly sideways across the threshold while the ruler's new sleeve moves away into the city.
+OLD ORDER AS GROUNDED BACKGROUND EVIDENCE: behind Yuan Hong on the cold outer road, one old Xianbei narrow-sleeved indigo riding coat is tightly rolled and physically strapped to the side of a southbound pack cart. A dark braid cord is wrapped around that rolled coat as a practical tie; it lies against the fabric with contact shadow. Nothing is held up for display, severed, flying or thrown away. A few migration carts and mounted escorts move toward the gate in a long shallow diagonal, small and low-detail. This evidence must remain secondary to the emperor's face and stride.
 
-EXTREME FOREGROUND DESIGN:
-guard shoulder, old fur collar and gate shadow create an over-the-shoulder frame.
+CAMERA AND COMPOSITION: waist-height 45 mm side-tracking shot parallel to the threshold, with a level architectural frame and no heroic low angle. Show Yuan Hong from boots to crown in clean left-facing-to-right motion, occupying about sixty-seven percent of frame height and fifty-eight percent of the visual mass. Place his pale turned face near the upper-center and keep it unobstructed against deep indigo gate shadow. A single vertical gate-shadow band divides the frame near the left third, while the road and new Luoyang avenue continue horizontally through it. Build four parallax layers: the narrow old-guard edge, Yuan Hong, the migrating cart line, then pale Luoyang towers and distant road.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C10-PALESTONE-INDIGO-CELADON-HANRED-G0
-- Dominant palette: pale Luoyang stone, deep indigo, muted celadon and restrained Han red.
-- Gold allocation: G0 no gold leaf; use pale stone cracks and cloth contrast instead.
-- Lighting logic: clear soft city-gate daylight.
-- Surface rhythm: architectural plaster planes, streaming migration dust and long folded-cloth strokes.
+ENVIRONMENT AND CULTURAL TRANSITION: the outer left side of the Luoyang gate carries cold blue-brown migration dust, rough timber, horse tack and the last muted northern wind. The inner right side opens into newly ordered pale-stone avenues, low early-medieval tiled towers, measured colonnades and a few restrained celadon ritual banners with no writing. Do not create a magical before-and-after split screen; this is one continuous physical gate and one consistent daylight. Use architecture, clothing and movement to show transition. No Dragon Gate grottoes as a personal portrait, no giant palace, no cheering crowd and no modern boulevard.
 
-HISTORICAL EVENT ENVIRONMENT:
-Luoyang palace towers, official road with migration caravan southward, cold wind meets lantern ritual light.
+LIGHTING AND COLOR SYSTEM: clear soft daylight enters from inside Luoyang and catches Yuan Hong's pale face, inner collar and front sleeve, while the old guard and migration road remain in cool indigo shadow. Use approximately forty percent pale Luoyang stone, twenty-five percent deep indigo, fifteen percent muted celadon, fifteen percent restrained deep cinnabar and five percent charcoal black. G0 gold budget: absolutely no gold leaf, gilded sparks, golden costume trim or black-and-gold speckle overlay. The pale face and cinnabar robe must separate cleanly without glowing. Avoid sepia, orange sunset, imperial yellow and pervasive red.
 
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "gradient cultural-reform lyrical painting, old and new dress separated cleanly between figure and prop" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
+MATERIAL AND MARK-MAKING: adult non-photoreal Chinese historical manga fused with aged mineral-pigment mural painting. Use broad pale plaster planes, matte cinnabar mineral cloth, deep indigo gate shadow, soft celadon dust, coarse paper fiber, straight architectural cracks and long horizontal flying-white strokes carried by the migration road. The hard threshold line, the flowing robe and the departing carts form three distinct graphic rhythms. Texture follows stone, cloth and dust separately; never paste uniform flecks over the entire frame. Keep the face elegant, graphic and painterly rather than photographic, glossy or over-smoothed.
 
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+HARD EXCLUSIONS: no static city-tower portrait, no standing-and-holding-braid pose, no rear-three-quarter altar ascent, no repeated tray, no frontal centered emperor, no throne, no ceremonial hand aimed at the viewer, no split old-and-new costume on the body, no half-Xianbei half-Han robe, no flying coat, no floating braid cord, no severed hair, no barber, no scissors, no discarded garments in midair, no kneeling guard, no generic migration crowd, no armor on Yuan Hong, no dragon robe, no imperial yellow, no Ming winged hat, no tall Qin crown, no Tang imperial cap, no Qing clothing, no heavy beard, no idol face, no ghostly cultural transformation, no magical color division, no readable banners, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D CGI, smooth generic anime, chibi, European armor, Japanese samurai armor, blood or gore.
 
 
 === SAVE CONTRACT ===

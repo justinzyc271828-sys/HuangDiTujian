@@ -51,6 +51,126 @@
       "scores": { "wugong": 15, "wenzhi": 35, "taolue": 30, "guozuo": 20, "houxiao": 78, "yuedan": 78 },
       "ability": "亡国之音开辟词史路径。",
       "weakness": "君道失败。"
+    },
+    "han-xuan-di": {
+      "stand_name": "【综核名实】",
+      "stand_type": "中兴实操",
+      "cry": "汉家自有制度，本以霸王道杂之。",
+      "scores": { "wugong": 68, "wenzhi": 94, "taolue": 90, "guozuo": 80, "houxiao": 74, "yuedan": 84 },
+      "ability": "名实核验与吏治节律。",
+      "weakness": "霍氏阴影；嗣君柔仁。"
+    },
+    "xin-wang-mang": {
+      "stand_name": "【以儒窃国】",
+      "stand_type": "托古改制",
+      "cry": "周公恐惧流言日。",
+      "scores": { "wugong": 35, "wenzhi": 55, "taolue": 72, "guozuo": 12, "houxiao": 70, "yuedan": 22 },
+      "ability": "符命与改制的概念操纵。",
+      "weakness": "名实脱节，天下溃于屡改。"
+    },
+    "e-han-guangwu": {
+      "stand_name": "【昆阳一旅】",
+      "stand_type": "中兴令主",
+      "cry": "仕宦当作执金吾，娶妻当得阴丽华。",
+      "scores": { "wugong": 91, "wenzhi": 90, "taolue": 90, "guozuo": 84, "houxiao": 86, "yuedan": 90 },
+      "ability": "昆阳破局与柔道收束功臣。",
+      "weakness": "度田之扰与谶纬偏好。"
+    },
+    "h-zhao-shi-le": {
+      "stand_name": "【奴隶天子】",
+      "stand_type": "羯胡雄略",
+      "cry": "大丈夫行事当礌礌落落，如日月皎然。",
+      "scores": { "wugong": 93, "wenzhi": 76, "taolue": 94, "guozuo": 42, "houxiao": 68, "yuedan": 72 },
+      "ability": "野战决胜与军府速成。",
+      "weakness": "身后石虎，国随暴亡。"
+    },
+    "liang-wu": {
+      "stand_name": "【同泰天子】",
+      "stand_type": "佛国文治",
+      "cry": "自我得之，自我失之，亦复何恨。",
+      "scores": { "wugong": 48, "wenzhi": 78, "taolue": 62, "guozuo": 55, "houxiao": 72, "yuedan": 50 },
+      "ability": "长运文治与佛教秩序营造。",
+      "weakness": "侯景一念，台城饿殍。"
+    },
+    "xixia-li-yuanhao": {
+      "stand_name": "【河西称制】",
+      "stand_type": "蕃汉抗衡",
+      "cry": "蕃汉并立，自为一国。",
+      "scores": { "wugong": 88, "wenzhi": 80, "taolue": 86, "guozuo": 75, "houxiao": 73, "yuedan": 55 },
+      "ability": "河西军镇与文字立国。",
+      "weakness": "宫闱遇弑；战和两难。"
+    },
+    "q-qin-fu-jian": {
+      "stand_name": "【投鞭断流】",
+      "stand_type": "混一北方",
+      "cry": "以吾之众旅，投鞭于江，足断其流。",
+      "scores": { "wugong": 84, "wenzhi": 81, "taolue": 65, "guozuo": 35, "houxiao": 66, "yuedan": 64 },
+      "ability": "杂胡整合与北方速统。",
+      "weakness": "淝水一溃，众羌咸叛。"
+    },
+    "n-wei-xiaowen": {
+      "stand_name": "【胡骑解辫】",
+      "stand_type": "汉化更张",
+      "cry": "国家兴自北土，文轨未一，此用武之地，非可文治。",
+      "scores": { "wugong": 65, "wenzhi": 96, "taolue": 84, "guozuo": 70, "houxiao": 93, "yuedan": 86 },
+      "ability": "迁都与制度汉化的路径改写。",
+      "weakness": "南征耗竭；身后六镇暗火。"
+    },
+    "sui-wen": {
+      "stand_name": "【混一戎夏】",
+      "stand_type": "开皇建制",
+      "cry": "混一戎夏，方为天子之事。",
+      "scores": { "wugong": 85, "wenzhi": 95, "taolue": 88, "guozuo": 55, "houxiao": 91, "yuedan": 88 },
+      "ability": "再统一与制度模板复制。",
+      "weakness": "猜忌苛察，择嗣一错。"
+    },
+    "zhou-wu-zetian": {
+      "stand_name": "【金轮称制】",
+      "stand_type": "女主革命",
+      "cry": "日月当空，是为曌。",
+      "scores": { "wugong": 68, "wenzhi": 88, "taolue": 94, "guozuo": 78, "houxiao": 88, "yuedan": 58 },
+      "ability": "破格用人的政治机器。",
+      "weakness": "酷吏阴影与正统之争。"
+    },
+    "tang-xian-zong": {
+      "stand_name": "【元和鞭藩】",
+      "stand_type": "中唐回光",
+      "cry": "淮西既平，藩镇稍知朝廷。",
+      "scores": { "wugong": 76, "wenzhi": 87, "taolue": 90, "guozuo": 48, "houxiao": 78, "yuedan": 80 },
+      "ability": "削藩的财政与时机调度。",
+      "weakness": "服饵暴崩，中兴随人息。"
+    },
+    "zhou-shi": {
+      "stand_name": "【显德振旅】",
+      "stand_type": "五代英主",
+      "cry": "十年开拓天下，十年养百姓，十年致太平。",
+      "scores": { "wugong": 92, "wenzhi": 89, "taolue": 88, "guozuo": 28, "houxiao": 85, "yuedan": 88 },
+      "ability": "整军与节奏极快的征伐。",
+      "weakness": "英年早逝，基业易姓。"
+    },
+    "n-song-tai-zu": {
+      "stand_name": "【杯酒释兵】",
+      "stand_type": "强干弱枝",
+      "cry": "卧榻之侧，岂容他人鼾睡。",
+      "scores": { "wugong": 80, "wenzhi": 93, "taolue": 95, "guozuo": 78, "houxiao": 94, "yuedan": 90 },
+      "ability": "兵权与财政的制度性收束。",
+      "weakness": "燕云未复；斧声烛影。"
+    },
+    "yuan-shi-zu": {
+      "stand_name": "【混一车书】",
+      "stand_type": "至元混一",
+      "cry": "车书混同，方见大一统。",
+      "scores": { "wugong": 91, "wenzhi": 86, "taolue": 87, "guozuo": 86, "houxiao": 96, "yuedan": 52 },
+      "ability": "跨族帝国组织与行省站赤。",
+      "weakness": "征伐无度；汉法两元撕裂。"
+    },
+    "n-wei-taiwu": {
+      "stand_name": "【真君铁骑】",
+      "stand_type": "北方铁蹄",
+      "cry": "扫统万，平秦陇，翦辽海，荡河源。",
+      "scores": { "wugong": 96, "wenzhi": 62, "taolue": 86, "guozuo": 74, "houxiao": 82, "yuedan": 48 },
+      "ability": "骑兵决胜与北方一统。",
+      "weakness": "灭佛与暴虐，身死阉寺。"
     }
   }
 }

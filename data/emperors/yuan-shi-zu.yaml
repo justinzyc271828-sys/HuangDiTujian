@@ -93,7 +93,7 @@ timeline:
   related_person_ids: []
   sources:
   - 元史·卷008
-  - 宋史·瀛国公纪（对照）
+  - 宋史·度宗纪/瀛国公纪（对照）
   card_id: E006
 - year: '1276'
   date_note: 至元十三年
@@ -208,8 +208,6 @@ sources:
   note: 年表主据
 - title: 宋史·瀛国公纪 / 二王本纪
   note: 平宋对照
-- title: 资治通鉴
-  note: 书目所列编年参照（通鉴止于五代）
 - title: 元史·卷004·世祖纪
   note: 史料卡同步
 - title: 元史·百官志/兵志

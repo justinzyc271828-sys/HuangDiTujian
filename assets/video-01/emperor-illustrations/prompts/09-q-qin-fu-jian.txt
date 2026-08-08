@@ -3,7 +3,7 @@ ID: q-qin-fu-jian
 ORDER: 09
 PERSONAL_NAME_ZH: 苻坚
 DISPLAY_ZH: 前秦世祖
-STATUS: PENDING GENERATION
+STATUS: APPROVED — DO NOT REGENERATE
 SHOT_CODE: S09-WATERLOW-FRONT3Q-WIDE-ARC
 COLOR_CODE: C09-RIVERBLUE-PURPLE-SILVER-INK-G1
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\09-q-qin-fu-jian.png
@@ -12,55 +12,29 @@ SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Create one 16:9 Chinese historical action illustration with no text or interface.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+USE CASE AND REFERENCE ROLES: historical-scene key art for a fast emperor montage. Use reference image 1 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png) only for adult historical manga anatomy, dominant protagonist scale, aged mineral-mural material and decisive large shapes. Do not copy its Qin seal, map, frontal camera, black robe, warm ochre field, gold density or scattered gold fragments. Use reference image 2 (D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png) only for liquid ink force and flying-white motion. This image must immediately differ from the previous bone-white mountain altar: cold river blue-gray fills nearly half the frame, the emperor is a dark purple-and-iron figure on the bank, and the visual drama lives in one black whip arc plus a collapsing reflection.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man about 45, Former Qin Di northern ruler, open-browed once-handsome face turning stubborn, medium neat beard, tight mouth, upright noble build, COSTUME: ornate ochre-gold Former Qin lamellar armor, matching cloak, imperial helmet-crown, polished still-proud metal, ACCESSORIES AND PROPS: raised horsewhip, sword, forest of spears behind, illusory whip silhouettes over the river.
+CORE HISTORICAL IDEA: show Fu Jian, ruler of Former Qin, at about forty-five in a deliberate symbolic fusion of two documented 383 moments: his boast during the decision to invade Eastern Jin that the army's whips could stop the river, and the catastrophic defeat at the Fei River that followed. Do not claim the boast was literally spoken at this riverbank. The editorial image freezes the instant supreme confidence first contains its own omen. It must portray the tragedy of an able unifier who trusted scale more than judgment, not a simple foolish villain and not a generic battle commander.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as his raised whip begins the boast that the army could dam the river, one instant before the water image turns ominous.
+CHARACTER IDENTITY AND EMOTIONAL SPLIT: Fu Jian is a mature northern East Asian ruler of upright medium-tall build, around forty-five, with a broad open forehead, straight heavy brows, deep intelligent almond eyes, a strong nose, firm square jaw, neat medium moustache and a short pointed beard. His reconstructed face should look like a once-open, capable and commanding ruler whose certainty has hardened into stubbornness. Keep the mouth tight with absolute confidence while a very small tension enters the eyes as he notices the water. He is not shouting, laughing or raging. Make his face the sharpest warm-value region against the cold river and keep both eyes readable in front-left three-quarter view.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S09-WATERLOW-FRONT3Q-WIDE-ARC
-- Elevation and pitch: camera almost at river-surface height, looking up about 15 degrees.
-- Subject azimuth and orientation: front-left three-quarter figure on horseback, placed in the upper-right rather than centered.
-- Shot scale and lens behavior: 28 mm wide shot with cold water occupying the lower half and the army compressed behind.
-- Camera roll: level waterline.
+PERIOD COSTUME — PROUD BUT NOT GOLDEN FANTASY ARMOR: use historically plausible late-fourth-century northern Chinese lamellar armor in oxidized charcoal iron and muted brown-bronze, constructed from many small overlapping plates with real cords and weight. Over it lies a restrained bruised-imperial-purple cloak, heavy and wind-pulled toward the left. Use a compact dark imperial helmet-crown without wings, horns or fantasy ornaments. A straight period sword remains fully sheathed at the left hip. Metal highlights are cold iron-silver, not polished yellow gold. No dragon robe, no giant shoulder armor, no European plate construction and no generic barbarian fur costume.
 
+SIGNATURE FREEZE MOMENT AND VIEWER PARTICIPATION: the viewer is a skeptical front-rank officer standing ankle-deep at the Fei River edge. Fu Jian has dismounted and stepped onto a low dark bank stone directly ahead. Freeze the end of one proud lateral sweep of his riding whip as if demonstrating that the massed army could overwhelm the river. His body faces diagonally left toward the water, but he turns his face toward the viewer-officer with a controlled challenging gaze. The audience must feel personally addressed by the boast while being close enough to see that the river reflection below him has already begun to contradict it.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer stands ankle-deep among front-rank officers at the river edge.
+WHIP, HAND AND BODY PHYSICS — MUST BE CORRECT: Fu Jian grips one short wooden whip handle in his right hand at shoulder height. A single continuous black leather lash curves in a broad sideways arc from upper right toward upper left, remaining above the water and outside the viewer's path. The wrist stays straight, elbow naturally bent and shoulder connected. His left hand rests open near the sheathed sword belt without gripping another prop. The leading boot is planted flat on the bank stone and the rear foot bears weight on compact earth; hips, knees and shoulders share one stable direction. The cloak, beard tips and whip tassel all move in the same right-to-left wind. No thrown whip, no floating handle, no duplicate lash, no giant hand, no extreme torso twist and no rearing horse.
 
-EVENT MOTION THROUGH THE FRAME:
-the whip makes a broad black-gold arc across the sky and exits sideways; spear reflections fracture downward in the water.
+CAMERA AND COMPOSITION: 28 mm waterline-height wide medium shot with a level horizon, looking upward only twelve degrees. Place Fu Jian in the upper-right third, occupying about fifty-eight percent of frame height and roughly fifty-two percent of the visual mass. Cold rippling water fills the lower forty-five percent. His readable face sits close to the center, while the whip arc crosses the upper third without covering it. Two very small soft-focus officer silhouettes crop the extreme lower edges to establish the viewer's place but never compete. Build four clean parallax layers: near ripples, Fu Jian on the bank, the dense but low-detail Qin spear formation, then the misty far bank.
 
-EXTREME FOREGROUND DESIGN:
-rippling black water and one reflected spear point, not a hand reaching at the viewer.
+THE REFLECTION IS THE STORY — ONE WORLD, NOT A FANTASY SPLIT SCREEN: above the waterline the real Former Qin ranks remain disciplined, dense and still, a forest of spears behind Fu Jian. Below the waterline, their physically aligned silver reflections begin as straight vertical lines near the bank, then break downstream into widening black-blue zigzags and chaotic brush streaks. Fu Jian has only one distorted reflection; do not create a second emperor. On the far bank, natural reeds, trees and distant birds create an ambiguous pattern that can momentarily resemble enemy ranks, but they remain real landscape elements, never ghosts or supernatural soldiers. The omen is carried by water distortion, value and shape—not literal prophecy, floating weapons or a battle already in progress.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C09-RIVERBLUE-PURPLE-SILVER-INK-G1
-- Dominant palette: cold river blue, imperial purple, spear silver and deep black ink.
-- Gold allocation: G1 maximum 2 percent, one thin aged-gold edge on the whip arc only.
-- Lighting logic: cold reflected river light under a bruised gray sky.
-- Surface rhythm: watery mineral blooms, downward spear reflections and broad liquid ink arcs.
+LIGHTING AND COLOR SYSTEM: cold reflected river light rises into Fu Jian's face and lower armor beneath a bruised gray sky. Use approximately forty-five percent cold river blue-gray, twenty-five percent carbon and liquid ink black, fifteen percent muted imperial purple, ten percent oxidized iron silver and five percent dry earthen brown. G1 gold budget is below one percent: at most one worn dull line on a belt fitting, never on the whip, armor, sky or water. The only slightly warm area is the face. No golden hero glow, no ochre-dominant wash, no sepia, no bright red banner and no universal black-and-gold treatment.
 
-HISTORICAL EVENT ENVIRONMENT:
-vast cold blue-gray river, gold light only on armor, mist on far bank, huge army mass.
+MATERIAL AND MARK-MAKING: adult non-photoreal Chinese historical manga fused with an aged mineral-pigment mural. Use broad watery azurite-gray mineral blooms, coarse plaster grain, matte oxidized armor plates, heavy purple mineral cloth, carbon-black ink fractures and downward spear reflections that dissolve into liquid flying-white strokes. Keep the real army above crisp and rhythmically ordered while the reflection below becomes increasingly broken and empty. Texture follows water, metal and cloth separately; never paste one speckle layer over everything. The result must feel painterly, graphic and tragic rather than photographic or cinematic live action.
 
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "tragic hubris landscape, gold cut by cold water" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+HARD EXCLUSIONS: no generic mounted emperor, no horse as a major subject, no rearing horse, no throne, no frontal centered hero pose, no triumphant smile, no open-mouth shouting, no cartoon villain, no elderly frail ruler, no young idol face, no massive gold armor, no yellow-gold cloak, no fantasy helmet, no horned crown, no European plate armor, no Japanese samurai armor, no whip thrown into the river, no multiple whips, no floating whips, no literal dam of whips, no lash aimed toward the camera, no broken whip geometry, no giant hand, no raised sword, no battle melee, no corpses, no panic in the real army above the water, no duplicate emperor except one physically distorted reflection, no mirror-perfect reflection, no supernatural ghosts, no phantom soldiers, no readable banner marks, no Chinese characters, text, logo, watermark, UI or radar chart, no photoreal skin, live-action realism, glossy 3D CGI, smooth generic anime, chibi, blood or gore.
 
 
 === SAVE CONTRACT ===

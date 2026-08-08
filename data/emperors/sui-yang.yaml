@@ -57,7 +57,7 @@ timeline:
   - sui-wen
   sources:
   - 隋书·卷003·炀帝纪
-  - 隋书·卷002·文帝纪
+  - 隋书·卷002·高祖纪
   card_id: E002
 - year: '604'
   date_note: 仁寿四年
@@ -85,6 +85,7 @@ timeline:
   related_person_ids: []
   sources:
   - 隋书·卷003·炀帝纪
+  - 隋书·食货/地理相关
   card_id: E005
 - year: '608'
   date_note: 大业四年
@@ -210,7 +211,9 @@ sources:
   note: 史料卡同步
 - title: 隋书·卷004·炀帝纪
   note: 史料卡同步
-- title: 隋书·卷002·文帝纪
+- title: 隋书·卷002·高祖纪
+  note: 史料卡同步
+- title: 隋书·食货/地理相关
   note: 史料卡同步
 meta:
   status: draft

@@ -117,7 +117,7 @@ timeline:
   date_note: 庆历四年
   title: 辽夏和战
   summary: 与辽冲突后和，宋辽夏三角外交。
-  place_id: hexi
+  place_id: null
   related_person_ids: []
   sources:
   - 宋史·卷485
@@ -197,13 +197,8 @@ routes:
   year: '1042'
   place_id: ding-chuan-zhai
   event: 定川寨之战
-- group: 其他
-  order: 7
-  year: '1044'
-  place_id: hexi
-  event: 辽夏和战
 - group: 都城
-  order: 8
+  order: 7
   year: '1048'
   place_id: xing-qing-fu
   event: 遇弑，幼主谅祚继立

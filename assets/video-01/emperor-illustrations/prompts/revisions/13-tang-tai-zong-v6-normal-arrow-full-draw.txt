@@ -1,0 +1,54 @@
+PROMPT_VERSION: 6.0-normal-arrow-full-draw
+ID: tang-tai-zong
+ORDER: 13
+PERSONAL_NAME_ZH: 李世民
+DISPLAY_ZH: 唐太宗
+STATUS: APPROVED — PROMOTED TO FORMAL OUTPUT, DO NOT REGENERATE
+SHOT_CODE: S13-FULLDRAW-LOW3Q-NORMAL-ARROW
+COLOR_CODE: C13-SLATE-IVORY-IRON-AZURITE-CINNABAR-G1
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\13-tang-tai-zong.png
+CANDIDATE_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\13-tang-tai-zong-v6-normal-arrow-full-draw.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\rejected\v5.0-tang-taizong-elongated-arrow\13-tang-tai-zong-v5-full-draw-two-eagles.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit.
+Asset type: one new V6 16:9 historical illustration candidate.
+Input image: Image 1 is the edit target. Preserve its Li Shimin identity, full-draw body mechanics, two hands, armor, bow, Hulao gate, two eagles, camera, palette, and historical-manga mineral-mural style.
+
+PRIMARY CHANGE: replace the impossibly elongated arrow with ONE normal-length nocked arrow. Keep the instant at full draw immediately before release. Do not show an arrow in flight and do not show either eagle being struck.
+
+NORMAL ARROW GEOMETRY — ABSOLUTE LOCK:
+- Exactly one arrow is nocked at Li Shimin’s right-jaw thumb-draw anchor.
+- The arrow has one nock, one small pale fletching set beside his drawing hand, one straight dark wooden shaft, and one iron arrowhead.
+- The physical arrow extends only from his jaw anchor to a short believable distance beyond the bow: the iron arrowhead projects about one forearm-length, roughly 20–30 visual centimeters, beyond the right side of the bow.
+- The entire arrow ends well BEFORE the nearer blue eagle. Leave a large, unmistakable empty background gap between the arrowhead and the blue eagle’s body.
+- Completely erase the old shaft segment that crossed the blue eagle and red eagle. No physical line, streak, ray, or arrow touches either eagle.
+- The arrow, left forearm, bow grip, and Li Shimin’s sightline point along one straight slightly upward direction toward the two eagle chest centers. The eagles are targets only on the projected visual continuation of the arrow; there is no drawn trajectory line beyond the arrowhead.
+
+FULL-DRAW MECHANICS TO PRESERVE:
+- Low stable left shoulder, left arm nearly straight with natural elbow softness, neutral wrist, compact bow grip at eye/upper-shoulder height.
+- Right hand anchors beside the jaw with a coherent Chinese thumb draw: thumb hooks string, index locks thumb, other fingers curl naturally; wrist straight; forearm connects to rear elbow pulled behind shoulder at arrow height.
+- One clean V-shaped bowstring from upper tip to the nocking point at his jaw and down to the lower tip.
+- Exactly two arms and exactly two visible hands, both anatomically coherent with five fingers each.
+
+TWO EAGLES: preserve exactly two giant pigment eagles—near indigo/ochre and far cinnabar/ash-white—aligned one behind the other above Hulao Pass. They must remain completely untouched by the short physical arrow. Their opposing colors and shared aim line imply the coming defeat of the two rival powers without literal impact.
+
+PRESERVE: the youthful Li Shimin face, topknot/headpiece, iron-blue early-Tang lamellar armor, vermilion cape, dominant figure scale, monumental Hulao gate between cliffs, cold ivory/slate/azurite/cinnabar palette, crisp focal anatomy, adult non-photoreal Chinese historical manga, thick mineral pigment, directional ink force, and controlled mural texture.
+
+CLARITY: make the normal arrowhead and the empty gap after it immediately readable. Keep face, drawing hand, nock, bow hand, bowstring, arrow, and bow sharp. Reduce gold glitter; retain only dull-bronze hardware.
+
+HARD EXCLUSIONS: no elongated arrow, no arrow reaching an eagle, no arrow through an eagle, no second arrow, no airborne arrow, no trajectory streak, no laser or energy beam, no extra bowstring, no third hand, no extra fingers, no new bird, no blood, no gore, no text, pseudo-writing, watermark, UI, horse, photorealism, smooth anime, or 3D CGI.
+
+FINAL PASS: reject unless the result shows one biomechanically credible full draw, one normal-length arrow ending just beyond the bow, a clear empty gap before two aligned eagles, exactly two hands, one bow, one V-shaped string, and Hulao gate.
+
+=== QA NOTES ===
+
+Selected from one built-in imagegen edit attempt. The physical arrow ends just beyond the bow and before the indigo eagle, leaving a clear empty gap. The eagles remain symbolic targets on the projected aim line rather than literal impact objects. Full-draw force line and hand count pass visual review. Approved by the owner and promoted byte-for-byte to the formal output.
+
+=== SAVE CONTRACT ===
+
+Formal output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\13-tang-tai-zong.png
+
+Approved — do not regenerate or overwrite.

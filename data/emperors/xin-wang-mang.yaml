@@ -181,21 +181,31 @@ routes:
   event: 居摄称制
 - group: 都城
   order: 3
+  year: '8'
+  place_id: chang-an
+  event: 符命劝进
+- group: 都城
+  order: 4
   year: '9'
   place_id: chang-an
   event: 代汉称帝
 - group: 其他
-  order: 4
+  order: 5
   year: '22'
   place_id: lv-lin
   event: 绿林新市兵起
 - group: 亲征
-  order: 5
+  order: 6
   year: '23'
   place_id: kun-yang
   event: 昆阳新败
 - group: 都城
-  order: 6
+  order: 7
+  year: '23'
+  place_id: chang-an
+  event: 更始入关前夜
+- group: 都城
+  order: 8
   year: '23'
   place_id: chang-an
   event: 渐台之死
@@ -208,7 +218,11 @@ sources:
   note: 编年对照
 - title: 汉书·卷099·王莽传
   note: 史料卡同步
+- title: 汉书·卷094·匈奴传
+  note: 史料卡同步
 - title: 后汉书·卷001·光武帝纪
+  note: 史料卡同步
+- title: 后汉书·卷011·刘玄传
   note: 史料卡同步
 meta:
   status: draft

@@ -1,0 +1,40 @@
+PROMPT_VERSION: 2.4-subtle-symbol-edit
+ID: han-xuan-di
+ORDER: 02
+PERSONAL_NAME_ZH: 刘询
+DISPLAY_ZH: 汉宣帝
+STATUS: TARGETED EDIT CANDIDATE — PRESERVE V2, REFINE SYMBOLISM ONLY
+EDIT_TARGET: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\02-han-xuan-di-v2.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\02-han-xuan-di-v3.png
+
+=== EDIT PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: targeted refinement of an existing 16:9 emperor montage illustration
+Input image 1: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\02-han-xuan-di-v2.png — EDIT TARGET. Preserve its established Liu Xun identity, Western-Han costume, rainy Weiyang threshold, camera position, human proportions, mineral-mural manga rendering and overall cold rain-blue / soot-brown palette.
+
+PRIMARY REQUEST: refine the existing image without redesigning it. Keep the central idea that Liu Xun has lived beneath Huo Guang's authority and is now moving beyond it, but make the political metaphor quieter, less theatrical and discoverable only on a second look. Preserve roughly eighty-five percent of the image. Change only the shadow legibility, Liu Xun's curtain gesture, the melodramatic street vignette and the degree of warm-cold contrast.
+
+PRESERVE EXACTLY: keep Liu Xun as the same mid-thirties lean East Asian man with sharp watchful eyes, visible cheekbones, short moustache and compact chin beard; keep the same modest black Western-Han jinxian guan; keep the soot-brown deep robe, narrow dark-vermilion trim, pale inner collar, blue-green sash cord and mud-stained blank wooden tablet; keep the same 16:9 framing, eye-level corridor viewpoint, overall body scale, rainy stone street, palace posts, cloth material, aged cracked mineral pigment, adult historical manga anatomy and absence of gold. Do not beautify, age, enlarge or replace his face. Do not turn this into a new composition.
+
+REFINE LIU XUN'S ACTION: he has already crossed the political threshold rather than dramatically forcing it open. Relax the wide lunging stance into one controlled forward step: the leading foot is fully planted inside the corridor, the rear heel is only slightly lifted, the torso upright and balanced. Move his left hand a little lower and closer to his shoulder. The fingers are beginning to release the heavy curtain edge instead of gripping and dragging it with visible force; use an ordinary loose five-finger contact and a relaxed wrist. The curtain is settling behind him under its own weight. Keep the blank wooden tablet low beside his right hip, secondary and not displayed toward the viewer. His gaze remains calm, direct and difficult to evade, without anger or triumph.
+
+MAKE HUO GUANG'S PRESENCE SUBTLE: remove the current complete, crisp, full upper-body shadow portrait. Replace it with a low-contrast partial shadow broken across several deep curtain folds. Only three ambiguous fragments should survive: the top corner of a tall old court cap near the upper-left, one sloping shoulder line, and a short vertical darkness that might also be a palace post. Do not show a complete head, face, neck, torso or sleeve silhouette. Reduce the shadow opacity and edge sharpness by roughly half. Let the curtain's weave, folds and occlusion interrupt it so that at first glance it reads as ordinary uneven lamplight; only after looking longer should the viewer infer an older regent's outline. The shadow stays entirely behind Liu Xun and never touches his body. No ghost, aura, halo or supernatural separation.
+
+UNDERSTATE THE TRANSFER OF POWER: the small oil lamp at lower left remains physically responsible for the broken shadow, but dim it slightly and reduce the amber glow area. Allow a narrow neutral-gray strip of indoor light to fall on the wet floor just ahead of Liu Xun; this is enough to separate his living figure from the fading shadow. Do not add a second symbolic shadow, broken chains, severed cords, crowns, seals, arrows, explanatory props or explicit imagery of overthrow. The meaning must come from spatial relation: an incomplete old shadow behind, a living ruler already in front, and a curtain quietly falling closed between them.
+
+SIMPLIFY THE OUTSIDE STREET: remove the clearly posed mother-and-child vignette. Preserve the same rain-wet Chang'an lane, timber façades and cart location, but show only one low-detail grain cart with shallow sacks beneath an eave, one indistinct porter turned away from the camera and two converging wet wheel tracks. No visible suffering face, pleading gesture, kneeling commoner or sentimental tableau. The street should suggest the ordinary world Liu Xun once knew, not explain it. Keep all outside figures small, faceless and subordinate.
+
+COMPOSITION AND LIGHT: retain the current corridor-versus-rain spatial structure, but reduce the binary split. Narrow the curtain opening slightly and soften the hard triangular boundary between warm interior and cold exterior. Liu Xun remains the clearest shape, occupying approximately the same frame area as V2. Let rain-blue light model his eyes, cheekbones, collar and one robe edge; keep the interior soot-brown rather than orange. Preserve G0: no gold leaf, gold dust, gilded trim or golden costume. Keep the lower-left lamp, curtain and shadow low-detail enough that they support rather than compete with the face.
+
+MATERIAL AND STYLE: preserve the existing adult non-photoreal Chinese historical manga fused with aged mineral-pigment mural painting. Maintain coarse plaster grain, matte cloth, damp timber, wet stone reflections, restrained oxidized blue-green and long rain strokes. Make the curtain folds more materially convincing where the shadow breaks across them. Do not apply one uniform pebbled texture over every surface; retain separate skin, cloth, wood and rain textures. The result should feel historically suggestive, psychologically controlled and painterly, never like an infographic or a literal allegory poster.
+
+HARD EXCLUSIONS: no complete Huo Guang silhouette, no clearly readable second person in shadow, no giant shadow portrait, no ghost, no supernatural glow, no shadow touching Liu Xun, no broken chains, no obvious liberation symbolism, no triumph pose, no wide theatrical lunge, no violently pulled curtain, no outstretched arm dominating the frame, no posed suffering mother and child, no pleading crowd, no sentimental poverty scene, no new table, archive pile, throne, seal, sword or battlefield, no gold leaf, no gold dust, no text, Chinese characters, pseudo-writing, logo, watermark, UI or radar chart, no altered face, no later-dynasty clothing, no photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic anime, chibi, blood or gore.
+
+
+=== SAVE CONTRACT ===
+
+Save the edited 16:9 PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\02-han-xuan-di-v3.png
+
+Do not overwrite or modify the V2 edit target. Generate only one edited candidate. First compare it side by side with V2: if the Huo Guang reference is immediately readable as a full human shadow, the edit is still too obvious; if no trace of an old cap and shoulder can be discovered on a second look, it is too weak. The desired result lies between those two failure states.

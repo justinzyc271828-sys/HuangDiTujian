@@ -4,8 +4,8 @@ ORDER: 02
 PERSONAL_NAME_ZH: 刘询
 DISPLAY_ZH: 汉宣帝
 STATUS: APPROVED — DO NOT REGENERATE
-SHOT_CODE: S02-BIRDSEYE-LEFT3Q-MS-LATERAL
-COLOR_CODE: C02-SOOT-BAMBOO-VERMILION-G2
+SHOT_CODE: S02-EYE-CORRIDOR-FRONT3Q-CURTAIN-RELEASE
+COLOR_CODE: C02-RAINBLUE-SOOT-LINEN-BRONZE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\02-han-xuan-di.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -13,54 +13,26 @@ SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v
 === POSITIVE PROMPT (copy verbatim) ===
 
 Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Asset type: targeted refinement of an existing 16:9 emperor montage illustration
+Input image 1: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\02-han-xuan-di-v2.png — EDIT TARGET. Preserve its established Liu Xun identity, Western-Han costume, rainy Weiyang threshold, camera position, human proportions, mineral-mural manga rendering and overall cold rain-blue / soot-brown palette.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+PRIMARY REQUEST: refine the existing image without redesigning it. Keep the central idea that Liu Xun has lived beneath Huo Guang's authority and is now moving beyond it, but make the political metaphor quieter, less theatrical and discoverable only on a second look. Preserve roughly eighty-five percent of the image. Change only the shadow legibility, Liu Xun's curtain gesture, the melodramatic street vignette and the degree of warm-cold contrast.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man mid-thirties, Western-Han auditing emperor type, lean face, visible cheekbones, sharp inspector eyes, slight sleepless shadows, neat short beard, slender build, COSTUME: black Western-Han jinxian guan, a tall narrow ribbed cloth-and-lacquer cap with no long horizontal wings, dark brown or sooty deep-robe with tiny dark-red trim, plain white inner collar, leather belt with muted sash cords, modest not gaudy, ACCESSORIES AND PROPS: red-ink brush mid-stroke, mountain of bamboo slips and wooden tablets, oil lamp, rope-bound archives, small seal cord at waist, no weapons.
+PRESERVE EXACTLY: keep Liu Xun as the same mid-thirties lean East Asian man with sharp watchful eyes, visible cheekbones, short moustache and compact chin beard; keep the same modest black Western-Han jinxian guan; keep the soot-brown deep robe, narrow dark-vermilion trim, pale inner collar, blue-green sash cord and mud-stained blank wooden tablet; keep the same 16:9 framing, eye-level corridor viewpoint, overall body scale, rainy stone street, palace posts, cloth material, aged cracked mineral pigment, adult historical manga anatomy and absence of gold. Do not beautify, age, enlarge or replace his face. Do not turn this into a new composition.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as he has just pulled one falsified bamboo dossier from a mountain of memorials and is about to expose the official responsible.
+REFINE LIU XUN'S ACTION: he has already crossed the political threshold rather than dramatically forcing it open. Relax the wide lunging stance into one controlled forward step: the leading foot is fully planted inside the corridor, the rear heel is only slightly lifted, the torso upright and balanced. Move his left hand a little lower and closer to his shoulder. The fingers are beginning to release the heavy curtain edge instead of gripping and dragging it with visible force; use an ordinary loose five-finger contact and a relaxed wrist. The curtain is settling behind him under its own weight. Keep the blank wooden tablet low beside his right hip, secondary and not displayed toward the viewer. His gaze remains calm, direct and difficult to evade, without anger or triumph.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S02-BIRDSEYE-LEFT3Q-MS-LATERAL
-- Elevation and pitch: strong 50-degree bird's-eye view from above the archive shelves.
-- Subject azimuth and orientation: the emperor sits in the upper-left of frame in left three-quarter orientation and looks diagonally across the desk, never frontally down the lens.
-- Shot scale and lens behavior: 35 mm medium shot with a broad diagonal field of dossiers; no oversized hand.
-- Camera roll: level frame organized by slanting bamboo-slip rows.
+MAKE HUO GUANG'S PRESENCE SUBTLE: remove the current complete, crisp, full upper-body shadow portrait. Replace it with a low-contrast partial shadow broken across several deep curtain folds. Only three ambiguous fragments should survive: the top corner of a tall old court cap near the upper-left, one sloping shoulder line, and a short vertical darkness that might also be a palace post. Do not show a complete head, face, neck, torso or sleeve silhouette. Reduce the shadow opacity and edge sharpness by roughly half. Let the curtain's weave, folds and occlusion interrupt it so that at first glance it reads as ordinary uneven lamplight; only after looking longer should the viewer infer an older regent's outline. The shadow stays entirely behind Liu Xun and never touches his body. No ghost, aura, halo or supernatural separation.
 
+UNDERSTATE THE TRANSFER OF POWER: the small oil lamp at lower left remains physically responsible for the broken shadow, but dim it slightly and reduce the amber glow area. Allow a narrow neutral-gray strip of indoor light to fall on the wet floor just ahead of Liu Xun; this is enough to separate his living figure from the fading shadow. Do not add a second symbolic shadow, broken chains, severed cords, crowns, seals, arrows, explanatory props or explicit imagery of overthrow. The meaning must come from spatial relation: an incomplete old shadow behind, a living ruler already in front, and a curtain quietly falling closed between them.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer is the audited official below the desk edge, trapped by the geometry of evidence rather than physically grabbed.
+SIMPLIFY THE OUTSIDE STREET: remove the clearly posed mother-and-child vignette. Preserve the same rain-wet Chang'an lane, timber façades and cart location, but show only one low-detail grain cart with shallow sacks beneath an eave, one indistinct porter turned away from the camera and two converging wet wheel tracks. No visible suffering face, pleading gesture, kneeling commoner or sentimental tableau. The street should suggest the ordinary world Liu Xun once knew, not explain it. Keep all outside figures small, faceless and subordinate.
 
-EVENT MOTION THROUGH THE FRAME:
-the red brush stroke and released document cords sweep left-to-right across the frame.
+COMPOSITION AND LIGHT: retain the current corridor-versus-rain spatial structure, but reduce the binary split. Narrow the curtain opening slightly and soften the hard triangular boundary between warm interior and cold exterior. Liu Xun remains the clearest shape, occupying approximately the same frame area as V2. Let rain-blue light model his eyes, cheekbones, collar and one robe edge; keep the interior soot-brown rather than orange. Preserve G0: no gold leaf, gold dust, gilded trim or golden costume. Keep the lower-left lamp, curtain and shadow low-detail enough that they support rather than compete with the face.
 
-EXTREME FOREGROUND DESIGN:
-overlapping blank bamboo slips and one cropped official sleeve form a lower diagonal frame.
+MATERIAL AND STYLE: preserve the existing adult non-photoreal Chinese historical manga fused with aged mineral-pigment mural painting. Maintain coarse plaster grain, matte cloth, damp timber, wet stone reflections, restrained oxidized blue-green and long rain strokes. Make the curtain folds more materially convincing where the shadow breaks across them. Do not apply one uniform pebbled texture over every surface; retain separate skin, cloth, wood and rain textures. The result should feel historically suggestive, psychologically controlled and painterly, never like an infographic or a literal allegory poster.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C02-SOOT-BAMBOO-VERMILION-G2
-- Dominant palette: soot black, bamboo ochre, dusty umber and one decisive vermilion brush stroke.
-- Gold allocation: G2 approved-image density, roughly 5–8 percent; preserve the accepted image but do not use it as the default for later emperors.
-- Lighting logic: small warm oil-lamp pools inside a cool gray archive.
-- Surface rhythm: dense narrow bamboo-slip rhythm, dry paper dust and diagonal red ink.
-
-HISTORICAL EVENT ENVIRONMENT:
-night interior of Weiyang Palace halls, dark pillars, warm lamp pool, faint misty memory of common street life beyond the door.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "muted warm-gray bureaucratic drama painting, paper dust atmosphere" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+HARD EXCLUSIONS: no complete Huo Guang silhouette, no clearly readable second person in shadow, no giant shadow portrait, no ghost, no supernatural glow, no shadow touching Liu Xun, no broken chains, no obvious liberation symbolism, no triumph pose, no wide theatrical lunge, no violently pulled curtain, no outstretched arm dominating the frame, no posed suffering mother and child, no pleading crowd, no sentimental poverty scene, no new table, archive pile, throne, seal, sword or battlefield, no gold leaf, no gold dust, no text, Chinese characters, pseudo-writing, logo, watermark, UI or radar chart, no altered face, no later-dynasty clothing, no photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic anime, chibi, blood or gore.
 
 
 === SAVE CONTRACT ===

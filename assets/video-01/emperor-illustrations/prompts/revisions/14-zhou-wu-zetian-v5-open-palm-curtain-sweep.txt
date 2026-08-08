@@ -1,0 +1,64 @@
+PROMPT_VERSION: 5.0-open-palm-curtain-sweep
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN-SWEEP
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v5-open-palm-curtain-sweep.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v4-five-finger-curtain-grip.png
+GESTURE_REFERENCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v2-curtain-to-throne.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Create one precise V5 anatomical and gesture edit. Image 1 is the base image: preserve its face, crown, body, stride, robe, bronze threshold, red-old-space versus violet-new-axis transition, complete clean eight-spoke Jinlun emblem, kneeling viewer, Mingtang architecture, crop, camera, palette, lighting, and mineral-mural historical-manga style. Image 2 is gesture-direction reference only: recover its readable action of lifting and sweeping the curtain aside, but do not copy its oversized hand, stiff foreshortening, worn wheel, old floor design, or any other rejected element.
+
+EDIT ONLY Wu Zhao's visible RIGHT hand and arm on the viewer's LEFT side, plus the immediately adjacent inner curtain edge.
+
+CORRECT ACTION — PUSH/LIFT THE CURTAIN ASIDE:
+- Wu Zhao uses her right hand to push and lift the inner edge of the curtain toward her right side, which is viewer-left, opening the central axis to viewer-right.
+- This is a sweeping curtain-opening gesture, not clutching, bunching, tying, squeezing, or holding a compact fabric knot.
+- Her palm meets the broad inner edge of the curtain; the thumb hooks lightly behind the edge while four fingers lie naturally along the visible front surface, guiding the fabric outward and slightly upward.
+- Keep the curtain edge broad and flat where it passes through the hand. Do not compress it into a rope or ball.
+- The curtain forms one clear lifted diagonal arc from the hand upward-left to its hanging attachment, while the lower fabric flows back toward viewer-left. The opening beside her becomes visibly wider.
+- The gesture reads as: contact the curtain edge, sweep outward toward viewer-left, and lift just enough to clear the imperial path.
+
+NATURAL ARM GEOMETRY:
+- Right shoulder stays low and relaxed.
+- Upper arm angles about 30–40 degrees away from the torso toward viewer-left, never horizontal.
+- Elbow bends naturally about 115–125 degrees and remains lower than the hand.
+- Forearm rises diagonally toward the curtain edge; wrist stays neutral.
+- Hand remains near shoulder height and no farther than one forearm-length from the torso.
+- Avoid extreme foreshortening. The hand and forearm lie mostly across the picture plane, making their scale easy to read.
+- The push/lift is supported by slight torso rotation toward viewer-left while the forward walking weight and gaze remain unchanged.
+
+HAND SCALE AND DIGIT LOCK:
+- Make the visible right hand 85–90% of the hand size in the gesture reference and proportional to her face; palm length roughly from chin to eyebrow, never larger.
+- Exactly FIVE digits total: one thumb and four fingers.
+- Show a clear open guiding grip: four fingers together but individually readable on the curtain front, thumb alone behind the curtain edge.
+- Correct knuckles, normal palm width, normal finger lengths, no duplicated fingertip, no finger-like cloth fold, and no extra hand.
+- Her opposite hand remains completely hidden inside the robe.
+
+PRESERVATION LOCK:
+Do not change Wu Zhao's facial identity or age, crown, expression, body size, leading foot, trailing foot, robe silhouette, threshold, red/violet transition, Jinlun emblem, architecture, officials, frame, or colors. Do not move or resize the gold wheel. Do not introduce a new prop or second hand.
+
+STYLE MATCH:
+The repaired hand, sleeve, and curtain must match the base image's crisp adult Chinese historical manga anatomy, matte mineral pigment, dry-brush abrasion, ink contours, and heavy cloth weight. No blurred patch, glossy CGI skin, or photoreal insertion.
+
+HARD EXCLUSIONS:
+No fist gripping a fabric bundle, tied curtain knot in the hand, rope-like curtain, straight locked arm, horizontal arm, giant hand, severe foreshortening, six fingers, extra finger, doubled thumb, missing digit, fused fingers, deformed wrist, raised shoulder, extra hand, visible opposite hand, closing gesture toward viewer-right, changed face, changed stride, changed threshold, changed wheel, text, watermark, or UI.
+
+FINAL QA:
+Confirm the action opens the curtain toward Wu Zhao's own right/viewer-left and reveals the central path on viewer-right. Confirm the hand guides a broad flat curtain edge instead of clutching a knot. Count exactly four fingers plus one thumb. Confirm normal hand-to-face scale, bent elbow, neutral wrist, and preserved base composition.
+
+=== QA NOTES ===
+
+The action now reads as an open guiding hand sweeping a broad curtain edge toward Wu Zhao's own right/viewer-left. The compact cloth bundle from V4 is gone. Hand size is materially smaller than the first concept, five digits read cleanly, the wrist and forearm lie mostly across the picture plane, and the central axis opens toward the Jinlun side. Awaiting owner approval before promotion.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v5-open-palm-curtain-sweep.png
+
+Candidate only — do not overwrite or promote without owner approval.

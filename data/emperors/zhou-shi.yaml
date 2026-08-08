@@ -51,8 +51,8 @@ timeline:
   card_id: E001
 - year: '954'
   date_note: 显德元年
-  title: 即位改元
-  summary: 即位后改元显德，朝廷人事与年号更始。
+  title: 沿用显德年号
+  summary: 郭威正月改广顺四年为显德元年；荣即位后沿用，朝廷人事更始。
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -93,8 +93,7 @@ timeline:
   title: 征淮南
   summary: 亲征南唐，显德振旅。
   place_id: huai-nan
-  related_person_ids:
-  - n-tang-houzhu
+  related_person_ids: []
   sources:
   - 旧五代史·世宗纪
   card_id: E005
@@ -103,8 +102,7 @@ timeline:
   title: 经略淮南
   summary: 多次征南唐，南压强敌，指向江北诸州。
   place_id: huai-nan
-  related_person_ids:
-  - n-tang-houzhu
+  related_person_ids: []
   sources:
   - 旧五代史·世宗纪
   - 新五代史·周本纪
@@ -161,7 +159,7 @@ timeline:
 relations:
 - type: predecessor
   target_id: null
-  note: 养父郭威，周太祖，禅位于荣（页待建）
+  note: 养父郭威，周太祖，遗制传位于荣（页待建）
 - type: successor
   target_id: null
   note: 子宗训继位，旋禅于宋（页待建）
@@ -169,8 +167,8 @@ relations:
   target_id: n-song-tai-zu
   note: 殿前都点检赵匡胤，陈桥兵变承其后局
 - type: rival
-  target_id: n-tang-houzhu
-  note: 三征淮南，南唐献江北十四州
+  target_id: null
+  note: 南唐中主李璟，三征淮南、献江北十四州（页待建）
 routes:
 - group: 都城
   order: 1

@@ -16,6 +16,8 @@ reign:
   end: '385'
   eras:
   - 永兴
+  - 甘露
+  - 建元
 life:
   birth: null
   death: '385'
@@ -177,7 +179,7 @@ routes:
   order: 3
   year: '376'
   place_id: hexi
-  event: 灭前凉、统一北方
+  event: 灭前凉
 - group: 亲征
   order: 4
   year: '383'
@@ -198,8 +200,6 @@ sources:
 - title: 晋书·卷113·苻坚载记
   note: 史料卡同步
 - title: 晋书·卷114·苻坚载记
-  note: 史料卡同步
-- title: 资治通鉴·晋纪
   note: 史料卡同步
 meta:
   status: draft

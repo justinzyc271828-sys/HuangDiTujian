@@ -173,21 +173,36 @@ routes:
   year: '319'
   place_id: xiang-guo
   event: 称赵王，都襄国
-- group: 亲征
+- group: 都城
   order: 3
+  year: '321'
+  place_id: xiang-guo
+  event: 进称大单于，制度升格
+- group: 亲征
+  order: 4
   year: '328'
   place_id: luoyang
   event: 与刘曜对峙，洛阳决战前夜
 - group: 亲征
-  order: 4
+  order: 5
   year: '329'
   place_id: luoyang
   event: 破刘曜，灭前赵
 - group: 都城
-  order: 5
+  order: 6
   year: '330'
   place_id: xiang-guo
   event: 称皇帝
+- group: 都城
+  order: 7
+  year: '333'
+  place_id: xiang-guo
+  event: 遗命与石弘
+- group: 都城
+  order: 8
+  year: '333'
+  place_id: xiang-guo
+  event: 石勒崩
 sources:
 - title: 晋书·石勒载记（卷104–105）
   note: 年表主据

@@ -3,64 +3,44 @@ ID: tang-tai-zong
 ORDER: 13
 PERSONAL_NAME_ZH: 李世民
 DISPLAY_ZH: 唐太宗
-STATUS: PENDING GENERATION
-SHOT_CODE: S13-EYE-MINISTERPOV-LEFT3Q-MS-CROSSFRAME
-COLOR_CODE: C13-IRONBLUE-PAPERIVORY-VERMILION-ASH-G0
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S13-FULLDRAW-EYE-LEFT3Q-NORMALARROW
+COLOR_CODE: C13-SLATE-IVORY-IRON-AZURITE-CINNABAR-G1
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\13-tang-tai-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: precise-object-edit.
+Asset type: one new V6 16:9 historical illustration candidate.
+Input image: Image 1 is the edit target. Preserve its Li Shimin identity, full-draw body mechanics, two hands, armor, bow, Hulao gate, two eagles, camera, palette, and historical-manga mineral-mural style.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+PRIMARY CHANGE: replace the impossibly elongated arrow with ONE normal-length nocked arrow. Keep the instant at full draw immediately before release. Do not show an arrow in flight and do not show either eagle being struck.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man 36-40, early-Tang Zhenguan-era archer-emperor, dragon-phoenix bearing, sun-like open forehead, curly coiling martial beard, fierce-intelligent eyes, athletic body, COSTUME: early Tang golden and stone-blue armor with chest mirrors, optional white cloak, helmet set aside, NOT Song rank-badge robes, ACCESSORIES AND PROPS: open white remonstrance paper scroll in hands, bow, collapsed northern banners, faint meritorious-minister wall ghosts.
+NORMAL ARROW GEOMETRY — ABSOLUTE LOCK:
+- Exactly one arrow is nocked at Li Shimin’s right-jaw thumb-draw anchor.
+- The arrow has one nock, one small pale fletching set beside his drawing hand, one straight dark wooden shaft, and one iron arrowhead.
+- The physical arrow extends only from his jaw anchor to a short believable distance beyond the bow: the iron arrowhead projects about one forearm-length, roughly 20–30 visual centimeters, beyond the right side of the bow.
+- The entire arrow ends well BEFORE the nearer blue eagle. Leave a large, unmistakable empty background gap between the arrowhead and the blue eagle’s body.
+- Completely erase the old shaft segment that crossed the blue eagle and red eagle. No physical line, streak, ray, or arrow touches either eagle.
+- The arrow, left forearm, bow grip, and Li Shimin’s sightline point along one straight slightly upward direction toward the two eagle chest centers. The eagles are targets only on the projected visual continuation of the arrow; there is no drawn trajectory line beyond the arrowhead.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as the warrior-emperor sets aside martial pride and takes a sharply worded remonstrance before the court can fall silent.
+FULL-DRAW MECHANICS TO PRESERVE:
+- Low stable left shoulder, left arm nearly straight with natural elbow softness, neutral wrist, compact bow grip at eye/upper-shoulder height.
+- Right hand anchors beside the jaw with a coherent Chinese thumb draw: thumb hooks string, index locks thumb, other fingers curl naturally; wrist straight; forearm connects to rear elbow pulled behind shoulder at arrow height.
+- One clean V-shaped bowstring from upper tip to the nocking point at his jaw and down to the lower tip.
+- Exactly two arms and exactly two visible hands, both anatomically coherent with five fingers each.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S13-EYE-MINISTERPOV-LEFT3Q-MS-CROSSFRAME
-- Elevation and pitch: seated eye level in court.
-- Subject azimuth and orientation: left three-quarter view, emperor off-center and leaning across the composition toward a minister outside frame.
-- Shot scale and lens behavior: 35 mm medium shot; the paper plane forms a diagonal foreground without enlarging the imperial hand.
-- Camera roll: level horizon.
+TWO EAGLES: preserve exactly two giant pigment eagles—near indigo/ochre and far cinnabar/ash-white—aligned one behind the other above Hulao Pass. They must remain completely untouched by the short physical arrow. Their opposing colors and shared aim line imply the coming defeat of the two rival powers without literal impact.
 
+PRESERVE: the youthful Li Shimin face, topknot/headpiece, iron-blue early-Tang lamellar armor, vermilion cape, dominant figure scale, monumental Hulao gate between cliffs, cold ivory/slate/azurite/cinnabar palette, crisp focal anatomy, adult non-photoreal Chinese historical manga, thick mineral pigment, directional ink force, and controlled mural texture.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer stands just behind the minister who offers the remonstrance, sharing the risk of the exchange.
+CLARITY: make the normal arrowhead and the empty gap after it immediately readable. Keep face, drawing hand, nock, bow hand, bowstring, arrow, and bow sharp. Reduce gold glitter; retain only dull-bronze hardware.
 
-EVENT MOTION THROUGH THE FRAME:
-the blank sheet passes across the frame from lower-left to upper-right while helmet and bow are pushed away in the opposite direction.
+HARD EXCLUSIONS: no elongated arrow, no arrow reaching an eagle, no arrow through an eagle, no second arrow, no airborne arrow, no trajectory streak, no laser or energy beam, no extra bowstring, no third hand, no extra fingers, no new bird, no blood, no gore, no text, pseudo-writing, watermark, UI, horse, photorealism, smooth anime, or 3D CGI.
 
-EXTREME FOREGROUND DESIGN:
-the minister's sleeve and broad blank paper edge frame the bottom-left.
-
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C13-IRONBLUE-PAPERIVORY-VERMILION-ASH-G0
-- Dominant palette: iron blue, paper ivory, restrained Tang vermilion and court ash-gray.
-- Gold allocation: G0 functional hardware only, maximum 1 percent; no decorative gold leaf.
-- Lighting logic: balanced court daylight concentrated on the blank remonstrance sheet.
-- Surface rhythm: broad paper planes, disciplined armor lines and opposing cross-frame brush currents.
-
-HISTORICAL EVENT ENVIRONMENT:
-Chang'an palace under bright Zhenguan sun, clean heroic sky.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "luminous early-Tang Zhenguan heroic-governance painting" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL PASS: reject unless the result shows one biomechanically credible full draw, one normal-length arrow ending just beyond the bow, a clear empty gap before two aligned eagles, exactly two hands, one bow, one V-shaped string, and Hulao gate.
 
 
 === SAVE CONTRACT ===

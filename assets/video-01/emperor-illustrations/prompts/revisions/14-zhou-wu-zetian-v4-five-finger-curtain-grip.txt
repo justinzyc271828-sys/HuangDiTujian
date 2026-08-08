@@ -1,0 +1,55 @@
+PROMPT_VERSION: 4.0-five-finger-curtain-grip
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN-GRIPFIX
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v4-five-finger-curtain-grip.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v3-threshold-jinlun.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Precise anatomical edit of the V3 candidate. Preserve the entire accepted image wherever possible: Wu Zhao's aged face and identity, crown, gaze, body scale, walking legs and feet, violet/cinnabar robes, bronze threshold, old-red versus new-violet spatial transition, kneeling viewer shoulders, Mingtang architecture, complete clean eight-spoke Jinlun state emblem, palette, crop, camera, lighting, and mineral-mural historical-manga texture. Do not redesign or move any of those elements.
+
+EDIT ONLY the single visible curtain-gripping arm, hand, and the immediately connected curtain folds.
+
+ANATOMY CORRECTION — ABSOLUTE:
+- Show exactly ONE visible hand in the entire image.
+- That hand has exactly FIVE anatomically coherent digits: one thumb and four fingers. No sixth finger, doubled fingertip, finger-like fabric fold, fused digit, or hidden extra hand.
+- Use a natural power grip around one compact gathered bundle of heavy curtain: four fingers wrap visibly around the front/outside of the fabric bundle in a clear descending stack; the thumb crosses and locks the bundle from the opposite side.
+- Separate every fingertip cleanly from the curtain with readable contour and subtle shadow. No curtain fold may emerge between the fingers in a way that resembles an extra digit.
+- Keep natural adult hand size, correct knuckle count, correct palm width, and a straight wrist aligned with the forearm.
+
+NATURAL PULLING ACTION:
+- Bring the gripping hand closer to Wu Zhao's upper-left torso, approximately 20–25 cm from the shoulder rather than at full arm extension.
+- Lower it slightly to upper-chest/shoulder height.
+- Bend the visible elbow clearly; keep it below shoulder level and pointing diagonally down-left.
+- The upper arm stays closer to the ribcage; the forearm angles diagonally outward toward the gathered curtain. The shoulder remains down and back.
+- The action is a short, powerful backward-and-downward pull driven by bent elbow, upper back, and body rotation—not presenting, pointing, saluting, holding a flag, or stiffly extending an arm.
+- Rebuild the sleeve to follow the elbow. Rebuild only the nearby curtain so a thick gathered knot sits inside the fist and taut tension folds radiate upward-left toward the curtain attachment.
+- Preserve the impression that she is simultaneously pulling the curtain open and stepping across the threshold.
+
+HIDDEN ARM LOCK:
+Her opposite arm and hand remain completely concealed inside the long robe sleeve. No fingertips or hand-shaped bulges appear elsewhere.
+
+STYLE MATCH:
+Match the original crisp adult Chinese historical manga anatomy, mineral pigment, dry-brush abrasion, ink contour, and cloth weight. The repaired area must look native to the painting, with no blur, patch seam, smooth CGI surface, or photoreal skin.
+
+HARD EXCLUSIONS:
+No six fingers, extra finger, doubled thumb, merged fingers, missing finger, malformed hand, giant hand, tiny hand, extra hand, visible opposite hand, straight locked elbow, horizontal arm, raised shoulder, broken wrist, floating hand, ambiguous grip, finger-shaped fabric fold, new prop, changed face, changed crown, changed stride, changed threshold, changed wheel, changed floor colors, changed architecture, changed composition, text, watermark, or UI.
+
+FINAL QA GATE:
+Count the visible digits one by one: exactly four fingers plus one thumb. Confirm one visible hand total, a clearly bent elbow, hand close to the torso, wrist aligned to forearm, fist compressing a single curtain bundle, and tension folds proving a backward-downward pull.
+
+=== QA NOTES ===
+
+The revised visible hand reads as one closed five-digit power grip around a single compact curtain bundle. The previous extra-finger ambiguity has been removed, the gripping point is closer to the shoulder, and the curtain tension now supports a short backward pull. Face, threshold transition, Jinlun emblem, stride, camera, and palette remain stable. Awaiting owner approval before promotion.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v4-five-finger-curtain-grip.png
+
+Candidate only — do not overwrite or promote without owner approval.

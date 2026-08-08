@@ -1,0 +1,68 @@
+PROMPT_VERSION: 3.0-threshold-jinlun
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v3-threshold-jinlun.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v2-curtain-to-throne.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Create a new V3 16:9 historical key illustration based on the V2 candidate. Preserve only the successful identity and visual language: the same formidable 66-year-old Wu Zhao, broad square aged face, grey-streaked hair, cold intelligent eyes, emperor-style crown and dark violet/cinnabar sovereign robes; adult non-photoreal Chinese historical manga, thick mineral-pigment mural texture, expressive ink contours, crisp face, and cinematic Mingtang architecture. Rebuild the composition, threshold symbolism, gold-wheel emblem, and body mechanics.
+
+NARRATIVE MUST READ IN ONE SECOND: Wu Zhao has just pulled open the final regency curtain and is physically crossing from the old Tang court into the new Wu-Zhou emperor's central axis. This must look like a decisive transfer of political position, not a ceremonial entrance.
+
+MAKE THE TRANSITION UNMISTAKABLE:
+- Divide the space with one real bronze threshold running horizontally beneath her feet.
+- Behind the threshold: a compressed, dim old Tang space dominated by a folded-back worn cinnabar ceremonial carpet and dark red curtain.
+- Ahead of the threshold, toward the viewer: a newly revealed broad central aisle of deep imperial violet and cold ivory, clean and strongly directional.
+- Her leading foot is already planted naturally on the new violet aisle; her trailing foot remains behind the bronze threshold on the old cinnabar side. The crossing is physical, legible, and central.
+- The pulled curtain edge and the bronze threshold meet near her body, making a clear before/after boundary without any text.
+
+GOLD WHEEL AS CLEAR POLITICAL EMBLEM:
+- Replace the worn background wheel with ONE complete, clean, unmistakable eight-spoke bronze-gold wheel emblem.
+- Mount it as a polished low-relief state insignia on a dark lacquer architectural screen directly on the new Zhou side, behind and slightly to her right.
+- The full circle and all eight broad spokes must be clearly readable; no missing segments, no heavy abrasion, no speckled erosion.
+- It represents the Jinlun title and Wu-Zhou political order. It must read as an official state emblem, not a cart wheel, mill wheel, Buddhist halo, sun, magical portal, or random decor.
+- Keep a visible architectural gap between her crown/head and the wheel so it never becomes a halo.
+- Bronze gold is clean and restrained, limited to the wheel, crown hardware, threshold, and tiny costume details. No gold dust or gold paint splashes.
+
+NATURAL BODY MECHANICS — REBUILD COMPLETELY:
+- Use a believable three-quarter frontal walking pose at human scale, seen from a restrained low camera.
+- Weight sequence: the front foot is flat and bearing weight on the new side; the rear heel is just lifting behind the threshold; hips move forward naturally.
+- Torso rotates only about 10 degrees toward the curtain while the face turns back toward the viewer/court, creating controlled counter-rotation through shoulders and hips.
+- Exactly ONE clearly visible hand grips the curtain edge close to her body at lower-chest height, elbow naturally bent about 90–110 degrees. She pulls the heavy fabric backward and slightly downward, using shoulder and back rather than extending a stiff straight arm.
+- The curtain visibly bunches inside her fist and forms tension folds running back toward its upper attachment.
+- Her other arm and hand stay fully concealed inside the opposite long sleeve, which rests close to the torso. Do not show fingertips.
+- Keep normal shoulder width, arm length, wrist alignment, hand size, leg length, ankle angle, and foot size. The robe follows the stride and does not hide impossible joints.
+
+COMPOSITION AND VIEWER PARTICIPATION:
+- 40–50 mm lens feeling, restrained low angle around 8–10 degrees, no fisheye.
+- Wu Zhao occupies about 68–72% of image height, large but human-scale.
+- The viewer is a kneeling court official on the new central axis; retain only two dark, soft, out-of-focus shoulders in the lower corners.
+- Place Wu slightly left of center so the clean wheel emblem remains readable on the right; her gaze confronts the viewer.
+- Keep face, gripping hand, front foot, bronze threshold, curtain tension, and wheel emblem sharply readable.
+- Mingtang timber geometry should reinforce the new central axis rather than clutter it.
+
+PALETTE AND SURFACE:
+Deep imperial violet, aged cinnabar, cold ivory, soot black, muted teal-grey, and restrained clean bronze. Preserve mineral pigment and dry-brush mural character on fabric and architecture, but keep the gold wheel surface coherent and legible. Do not cover the entire image with uniform crackle or glitter.
+
+HARD EXCLUSIONS:
+No static portrait, throne pose, runway pose, stiff horizontal arm, straight locked elbow, unnatural stride, twisted pelvis, giant foreground boot, floating foot, extra hand, visible hidden-hand fingers, malformed hand, fused fingers, young beauty, concubine styling, generic queen, religious goddess, halo, floating wheel, cart wheel, incomplete wheel, eroded wheel, gold dust, magical glow, text, pseudo-writing, watermark, UI, photorealism, smooth anime, or glossy 3D CGI.
+
+FINAL QA GATE:
+Reject unless all five read immediately: (1) aged Wu Zhao, (2) one natural curtain-pulling action with exactly one visible hand, (3) front foot and rear foot clearly straddling a bronze threshold, (4) old cinnabar space behind versus new violet central aisle ahead, and (5) one complete clean eight-spoke Jinlun state emblem separated from her head.
+
+=== QA NOTES ===
+
+Second generated attempt for this output. The bronze threshold, cinnabar old side, violet new axis, complete clean eight-spoke wheel, and one visible curtain-gripping hand are all materially clearer than V2. Human scale and foot placement pass. The visible elbow is more extended than the requested 90–110 degrees, but the hand now grips a gathered curtain bundle and the shoulder–arm–fabric force line is coherent rather than anatomically broken. Awaiting owner review before promotion.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v3-threshold-jinlun.png
+
+Candidate only — do not overwrite or promote without owner approval.

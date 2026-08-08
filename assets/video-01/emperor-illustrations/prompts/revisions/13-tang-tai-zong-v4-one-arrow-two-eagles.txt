@@ -1,0 +1,53 @@
+PROMPT_VERSION: 4.0-one-arrow-two-eagles
+ID: tang-tai-zong
+ORDER: 13
+PERSONAL_NAME_ZH: 李世民
+DISPLAY_ZH: 唐太宗
+STATUS: REJECTED — ARCHERY FORCE LINE MISALIGNED; IMAGE ARCHIVED
+SHOT_CODE: S13-LOW3Q-50MM-ARROW-DIAGONAL
+COLOR_CODE: C13-SLATE-IVORY-IRON-AZURITE-CINNABAR-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\rejected\v4.0-tang-taizong-misaligned-arrow\13-tang-tai-zong-v4-one-arrow-two-eagles.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene.
+Asset type: one new 16:9 narrative illustration for a Chinese-emperor video series.
+
+PRIMARY REQUEST — COMPLETE RECONCEPTION: Create a highly symbolic, instantly legible image of the twenty-three-year-old Li Shimin, Prince of Qin, at Hulao Pass in 621. The visual thesis is “one arrow decides two rival powers.” Do not reuse the previous mounted-cavalry composition, flags, horse, camera, dust field, or generic victory scene.
+
+REFERENCE ROLES: Image 1 is only the series anchor for a large dominant protagonist, mature non-photoreal Chinese historical-manga anatomy, strong facial planes, mineral mural pigment, and materially differentiated surfaces. Image 2 is only for sweeping ink momentum and flying-white brush force. Do not copy Qin Shi Huang’s seal, map, black-gold density, frontal table pose, crown, costume, or exact composition.
+
+FREEZE MOMENT AND SYMBOL: Li Shimin has just released one arrow. His left hand still holds one compact early-Tang composite bow; his right hand has just opened beside his cheek after releasing the string. The bowstring visibly vibrates. One and only one arrow flies on a clean, unbroken diagonal from lower left toward upper right. Above the Hulao gate, exactly two colossal stylized war eagles are aligned one behind the other on that same arrow axis. The single arrow visibly passes through both eagle silhouettes. The nearer eagle is dark indigo and earthy ochre, symbolizing Dou Jiande’s Xia army; the farther eagle is faded cinnabar and ash-white, symbolizing Wang Shichong’s Zheng regime. Their wings break into broad mineral-pigment feathers and two collapsing banner-like color currents, never gore or literal dead birds. The two eagles must be clearly separate, different colors and depth, yet both unmistakably struck by the same single arrow. This is deliberate historical symbolism, not a claim that Li Shimin literally shot eagles.
+
+LI SHIMIN — ABSOLUTELY SPECIFIC: one young East Asian man around twenty-three, the Prince of Qin before becoming emperor, portrayed as the brilliant cavalry commander who broke two rival powers in the Hulao campaign. Large open forehead, sharply focused phoenix-shaped eyes following the arrow, straight broad nose bridge, lean young cheek planes, compact athletic jaw, short curling martial moustache and a very short gathered chin beard. Cold tactical concentration, closed mouth, no generic regal serenity, no shouting. Hair in a tight high warrior topknot with a restrained black early-Tang military headpiece, never an emperor crown. Practical deep iron-blue and matte-black early-Tang lamellar armor over an azurite under-robe, one restrained weathered vermilion shoulder cape. No gold armor, dragon robe, fantasy plate, European armor, samurai armor, middle-aged emperor, or generic barbarian warrior.
+
+ANATOMY LOCK: show exactly two human hands, both belonging to Li Shimin. Left hand naturally grips the bow; right hand is open near his cheek after release. Each hand has five coherent fingers, correct wrists, natural scale, and anatomically possible archery mechanics. No other clear human hands anywhere. Exactly one bow and exactly one arrow. The arrow is already airborne and is not still nocked. No extra arm, third hand, fused fingers, double bowstring, duplicate arrow, broken bow, or arrow passing through Li Shimin.
+
+HULAO PASS AS MONUMENTAL ABSTRACT FORCE: frame a massive early-medieval Chinese stone pass below the eagles, recognizable as a narrow gate between steep rock walls. The two cliff faces close inward like a giant stone clamp around the conflict, while the arrow alone escapes through the upper opening. Keep architecture simplified and subordinate. At the very bottom, show only small abstract streams of opposing troops and broken standards dissolving into the two eagle color fields—no individual faces, no prisoners, no corpse field. Hulao must read as the decisive chokepoint, not a generic city wall.
+
+COMPOSITION: 16:9 landscape. Dramatic low three-quarter battlefield viewpoint, approximately 50mm feeling with minimal distortion. Li Shimin fills the left and central foreground, shown from upper thighs to head, occupying about 60 percent of the frame height and at least 50 percent of visual mass. His face, bow, two hands, bowstring, the single arrow, both eagles, and the stone gate are all immediately readable. His torso twists upward with controlled athletic tension; the arrow diagonal organizes the entire frame. The two eagles occupy the upper-right quadrant and never become tiny decorative birds. The gate sits beneath them in the center-right. The viewer stands beside the Qin prince at the instant of release, close enough to feel the bowstring snap, but no weapon points toward the lens. Strong asymmetry, no centered portrait, no army panorama, no horse.
+
+CLARITY — NON-NEGOTIABLE: sharp, clean focal rendering on Li Shimin’s face, eyes, hands, bow, arrow, and both eagle silhouettes. Use broad decisive value shapes and clearly separated edges. Keep cracked plaster, paper fibers, grain, flaking pigment, dust, and speckles mainly in the peripheral background. Do not place heavy mural crack texture, fog, sand, bloom, film grain, or gold particles across the face, hands, bow, arrow, or eagles. The image must not look blurry, muddy, smoky, low-contrast, oversharpened, or uniformly distressed.
+
+STYLE: adult non-photoreal Chinese historical manga fused with bold two-dimensional thick-painted mineral pigment and directional carbon-ink force. Mature graphic facial planes, designed anatomy, dry-brush movement, controlled flying-white marks, aged wall-painting patina only where it supports the composition. Not photorealistic, not live-action, not glossy CGI, not smooth generic anime. Symbolic scale and visual metaphor are welcome, but anatomy and the bow action remain coherent.
+
+COLOR: cold dawn ivory and slate-gray background; matte iron black and deep blue armor; concentrated azurite; restrained cinnabar cape; the first eagle indigo/ochre and the second eagle cinnabar/ash-white. Gold budget below one percent, only tiny dull bronze hardware. No black-and-gold filter, no gold leaf spray, no uniform bronze haze.
+
+HARD EXCLUSIONS: no text, Chinese characters, pseudo-writing, labels, title card, logo, watermark, UI, infographic, seal, map, throne, court ministers, remonstrance paper, emperor crown, horse, generic mounted portrait, many clear soldiers, prisoners, kneeling kings, blood, gore, literal hunting scene, dead birds falling realistically, three hands, extra fingers, duplicate arrows, two arrows, oversized bow, blurred face, muddy global texture, thick fog, excessive dust, golden armor, gold speckles, photorealism, cinematic live action, 3D render, or copied Qin composition.
+
+FINAL PASS: reject unless a viewer can summarize it in one glance as: “young Li Shimin at Hulao, one arrow strikes two rival eagles.” The figure must be large and crisp; exactly two correct hands, one bow, one airborne arrow, two distinct eagles on one trajectory, and one monumental Hulao gate must all be visible.
+
+=== SAVE CONTRACT ===
+
+Save the selected candidate exactly to:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\13-tang-tai-zong-v4-one-arrow-two-eagles.png
+
+Do not overwrite any formal output. This remains a candidate until owner approval.
+
+=== QA RECORD ===
+
+Built-in generation attempt 1 produced the saved V4 candidate and is the selected review image. A single targeted refinement was attempted to reduce metallic speckles and clarify the arrowhead, but it introduced two airborne arrows and therefore failed the central “one arrow, two eagles” gate. That refinement was rejected and was not copied into the repository.
+
+Owner subsequently approved the overall “one arrow, two eagles” concept but identified a mechanical failure: the jaw release anchor, bow grip, and outbound arrow direction do not share one force line. Two built-in edit attempts were made. Attempt 1 corrected the shoulder, elbow, and raised bow-hand posture but produced two arrows. Attempt 2 reduced the count to one arrow but detached it from the anchor-to-grip continuation, making it appear to originate beside the indigo eagle. Both edits failed QA and were not copied into the repository. The saved V4 remains a concept candidate only and must not be promoted until the archery mechanics are rebuilt.
