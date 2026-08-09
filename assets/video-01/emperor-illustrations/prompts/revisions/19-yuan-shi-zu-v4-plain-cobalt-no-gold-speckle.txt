@@ -1,16 +1,13 @@
-PROMPT_VERSION: 2.3-camera-palette-identity-physics
+PROMPT_VERSION: 4-plain-cobalt-no-gold-speckle-controlled-edit
 ID: yuan-shi-zu
 ORDER: 19
 PERSONAL_NAME_ZH: 忽必烈
 DISPLAY_ZH: 元世祖
 STATUS: APPROVED — DO NOT REGENERATE
-SHOT_CODE: S19-GATETOWER-EYE-REAR3Q-DEEPAXIS
-COLOR_CODE: C19-DADURED-STEPPEGREEN-COBALT-SILVER-LEATHER-G1
-OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\19-yuan-shi-zu.png
-PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
-SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v3-dadu-gate-vast-road.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v4-plain-cobalt-no-gold-speckle.png
 
-=== POSITIVE PROMPT (copy verbatim) ===
+=== FINAL ENGLISH GENERATION PROMPT ===
 
 Use case: precise-object-edit
 Asset type: controlled costume-surface correction of one 16:9 historical-scene emperor-series key illustration
@@ -51,10 +48,24 @@ back roundel, circular robe emblem, dragon medallion, seal motif, ring of marks,
 FINAL QA TARGET:
 The output must read as the identical successful v3 scene at first glance. Only the robe and metal surface treatment change: Kublai's back is now plain deep cobalt woven cloth with the same folds and volume; the oversized circular roundel and every symbolic or pseudo-written mark are completely gone; all scattered yellow-gold flecks are replaced by local matte mineral color; belt and cap fittings are dark aged bronze within a G1 ceiling under two percent; the jade hook remains pale stone; and no identity, anatomy, camera, architecture, rider, horse, road, caravan, landscape, lighting, depth or physical-space relationship changes.
 
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool as a controlled edit of the loaded v3 candidate. Copied without modification into the repository candidate path as a 1672x941 PNG, 2,757,352 bytes. SHA256: 239FEC921FDBF8FD62C8E49B86C6B846646108E9E8D99777A3D60C008114D8E5.
+
+The controlled surface correction succeeds. The oversized circular back roundel, central creature, ring marks and pseudo-ornament are completely absent. Kublai's back is now one continuous deep-cobalt woven fabric surface with the same broad shoulder volume, sleeve connection, wind direction and believable robe folds. The scattered yellow-gold flecks across robe, sky and architecture have been removed; remaining metal is physically attached dark aged bronze at the cap finial, belt and small fittings, while the jade hook remains pale stone. No text, pseudo-writing, gold dust, gold leaf or universal black-gold speckle overlay remains.
+
+The v3 physical-space solution is preserved. A dark gate-tower doorway and cropped travel sleeve place the viewer inside architecture. The terrace slabs and red parapet form a hard constructed foreground boundary. The real wall, roof and two open gate leaves sit below; three full-scale couriers diminish successively down one packed-earth road; carts, camel caravan, relay buildings, steppe, mountains and one horizon obey continuous recession and atmospheric depth. There is no map, table, diorama, miniature terrain, sea splice, glowing network or surface transformation. The high camera is fully explained by the visible terrace.
+
+Kublai remains the unmistakable protagonist at roughly fifty-five percent frame height. His complete elderly Mongol face, broad nose, deep eyes, divided gray beard, side braids, low felt-and-leather cap, heavy torso and calm far-seeing expression remain clear. One small anatomically plausible hand rests partly occluded behind the parapet and does not carry the narrative or approach the lens; the other hand remains hidden. The nearest riders and horses face away down the road with coherent bodies, legs and ground shadows. Open gate, rider spacing and road dust preserve the unfinished dispatch moment.
+
+The long road, repeated traffic and single horizon now communicate governed distance through real physical scale rather than trying to show every climate and coast at once. Dadu red, steppe olive-green, cobalt, silver gray, leather brown and restricted aged bronze remain distinct from images 18 and 20. Adult historical-manga facial planes, matte mineral granulation, worn lacquer, dry road abrasion and wind-shaped cloud strokes remain visible without becoming photoreal, smooth anime or glossy CGI. Keep as review candidate only; do not create the formal output without explicit owner approval.
 
 === SAVE CONTRACT ===
 
-Save one final PNG exactly to:
+Approved candidate source retained at:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v4-plain-cobalt-no-gold-speckle.png
+
+Formal byte-identical output:
 D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\19-yuan-shi-zu.png
 
-Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
+Owner approved this image. Do not regenerate, modify or overwrite either the formal output or its approved candidate source.

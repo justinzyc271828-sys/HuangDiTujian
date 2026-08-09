@@ -4,7 +4,7 @@
 
 把中国历史上的**正式帝王**与后期扩展的**准帝王**，做成一本可交互的「收集图鉴」：
 
-- AI 史书想象画像（先导二十：已出 6/20，岩彩裂壁风格）  
+- AI 史书想象画像（先导二十：**20/20 定稿**，岩彩裂壁风格）  
 - 主要事迹 + 年表大事表 + 关联表  
 - `[[其他皇帝]]` 交叉跳转  
 - 侧栏古地图：一生主要地点与路线  
@@ -19,7 +19,7 @@
 | 项 | 状态 |
 |----|------|
 | 全库索引 | **269** 人 · `data/catalog/emperors_master.*` |
-| video-01 | **20** 人六维/分镜/prompt ✅ · 真图 **6/20** 出图中 · 成片 ☐ |
+| video-01 | **20** 人六维/分镜/prompt ✅ · 真图 **20/20** 定稿 · 成片 ☐ |
 | 产品 YAML+bio | **5** 人（含始皇、汉武、太宗） |
 | 史料卡 | **269** 人全 dossier-complete · 0 scaffold · E 卡 1950 |
 | 前端 | `apps/web` 可 dev · **奏折专页未落地**（见 07 / FRONTEND-SLOT） |
@@ -54,7 +54,7 @@ HuangDiTujian/
 ├── key-art-en-prompts-video01/   # 英文 prompt 旧版存档（已废止，勿用于出图）
 ├── assets/
 │   ├── style-bible/v1/             # 插画风格圣经（岩彩裂壁 · 墨势入场，已锁定）
-│   ├── video-01/emperor-illustrations/  # ★ 现行出图生产包 v2.3（prompts + manifest + outputs 6/20）
+│   ├── video-01/emperor-illustrations/  # ★ 现行出图生产包 v2.3（prompts + manifest + outputs 20/20）
 │   ├── portraits/                  # 正式画像（待生成）
 │   └── maps/                       # 古地图素材（空）
 ├── Music/                          # 配乐（The Last Emperor's March.wav）

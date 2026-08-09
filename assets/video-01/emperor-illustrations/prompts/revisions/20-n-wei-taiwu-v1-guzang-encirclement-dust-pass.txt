@@ -1,0 +1,102 @@
+PROMPT_VERSION: 1-guzang-encirclement-dust-pass-historical-correction
+ID: n-wei-taiwu
+ORDER: 20
+PERSONAL_NAME_ZH: 拓跋焘
+DISPLAY_ZH: 北魏太武帝
+STATUS: SELF-REJECTED — HORSE AND CAVALRY MOVE RIGHT INSTEAD OF LEFTWARD DEPTH
+HISTORICAL_LAYER: the 439 western campaign, Northern Liang retreat south of Guzang, Tuoba Tao's arrival and division of the army to surround the city, and Mujian's subsequent surrender are historical; the close mounted pass over a shattered outer field barricade is a controlled action reconstruction, while the previously drafted snowstorm and breached city gate are explicitly rejected as unsupported
+SHOT_CODE: S20-V1-SADDLELOW-SOUTHAPPROACH-PASSING-DUTCH
+COLOR_CODE: C20-V1-IRONBLUE-SMOKEBLACK-HORSEBROWN-LIMEDUST-RUST-G0
+RESEARCH_BASIS: Wei Shu juan 4 states that the campaign began in the sixth month, the Northern Liang force fled at the sight of dust south of Guzang, the emperor arrived in the eighth month and divided the army to surround the city, and Mujian surrendered in the ninth month; National Museum of China research and a Northern Wei cavalry figurine support armored Xianbei cavalry and horse barding
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\20-n-wei-taiwu-v1-guzang-encirclement-dust-pass.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 emperor-series key illustration
+
+Create a completely new image. Depict the Northern Wei emperor Tuoba Tao during the 439 western campaign against Northern Liang at Guzang. The historical sequence is a summer-to-early-autumn campaign: a Northern Liang field force fled at the sight of Wei dust south of the city; the emperor then arrived, divided his army to surround Guzang, and the ruler Mujian later surrendered. Do not depict a winter snowstorm or a breached city gate. The close pass over a shattered outer field barricade is a controlled dramatic reconstruction of the approach and unfinished encirclement, not a claim of a documented gate assault.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga language, decisive facial planes, protagonist dominance and heavy matte mineral-pigment mural grain. Do not copy Qin costume, seal, frontal pose, black-gold density, map motif or gold distribution.
+- Reference image 2 controls only explosive diagonal ink force, flying-white edges and motion passing through the viewer's space. Do not copy its person, palette or composition.
+
+DECISIVE FIRST READ — THE ENCIRCLEMENT IS STILL CLOSING:
+At saddle-low height just south of Guzang, the viewer crouches behind a splintered temporary field barricade abandoned by retreating Northern Liang troops. A gigantic dark-bay armored horse and the thirty-one-year-old Northern Wei cavalry emperor Tuoba Tao sweep past from center-right toward the left background, crossing the viewer's field rather than charging into the lens. The horse's near forehoof has just cleared one broken barricade pole while the far hind hoof has not yet landed. Tuoba Tao twists in the saddle and drives his long lance diagonally leftward, directing the first Wei cavalry wedge around the intact city wall. A second wedge is only beginning to curve around the opposite side; the encirclement has not closed. Small Northern Liang figures retreat toward the complete closed gate in the distance. The emotional sentence is “the iron cavalry's arrival decides the field before the city itself is taken.”
+
+CAMERA AND VIEWER POSITION — LOCKED:
+- Saddle-level low camera on the southern approach outside Guzang, looking upward approximately eighteen degrees from behind a shattered outer field barricade.
+- Use an extreme-wide 20 mm action view with a nine-degree clockwise Dutch tilt. The tilt follows horse, lance, dust and timber; it must not feel like an accidental crooked horizon.
+- Front-side passing angle: horse and emperor enter from center-right and sweep across and away toward the left background. Never make them charge straight at the viewer.
+- The combined emperor-and-horse silhouette occupies approximately sixty-two to sixty-eight percent of visual mass and remains the largest, sharpest and darkest single form. Tuoba Tao's complete face, helmet and upper torso remain readable despite the speed.
+- Place the intact Guzang gate and retreating defenders in the left-to-center background. Keep the emperor separated from the gate silhouette and do not let the lance cross his face.
+- Use five depth layers: extreme foreground broken barricade beam and pale dust streak; passing horse legs and barding; emperor and horse torso; two curving Wei cavalry wedges; intact earthen wall, closed gate tower, retreating defenders, smoke and high Hexi sky.
+- The viewer is a Northern Liang sentry who has dropped low behind the abandoned outerwork. Show no viewer face or hand; participation comes from proximity, occlusion, flying debris and the horse passing dangerously close.
+
+TUOBA TAO — AGE, IDENTITY AND BATTLEFIELD CHARACTER:
+- East Asian Xianbei man approximately thirty-one, unusually large and imposing in body as suggested by the historical phrase describing his extraordinary physique. Broad square face, strong high cheekbones, wide jaw, heavy straight brows, deep intense dark eyes, broad nose, wind-darkened northern complexion and dense powerful neck and shoulders.
+- He is young but fully mature: compact black moustache and a short close beard along chin and jaw, not an elderly long beard or clean-shaven youth. Wind and alkaline dust roughen the skin without making it photoreal.
+- His expression is fiercely concentrated and commanding, looking along the leftward encirclement line. Mouth closed, teeth hidden, brow focused rather than theatrically enraged. No villain sneer, berserker scream, bloodlust, fear or blank portrait stare.
+- His torso turns left with the lance while his hips stay anchored squarely in the saddle. The spine, shoulders and helmet follow one credible riding axis; no twisted waist, broken back or floating body.
+
+NORTHERN WEI XIANBEI ARMOR — FIFTH-CENTURY CONSTRUCTION:
+- A close-fitting high-domed iron helmet made from dark segmented plates, with a small plain top finial, narrow brow band, articulated cheek guards and a short lamellar neck curtain. No horns, antlers, wings, face mask, later Tang plume or Japanese kabuto shape.
+- Iron-blue to charcoal lamellar rider armor over a narrow-sleeved dark wool and leather under-tunic. Use small horizontal lames tied in orderly rows, a reinforced shoulder mantle, compact upper-arm guards, broad leather waist belt and divided armored skirt panels that clear the saddle.
+- A restrained dark wool or padded neck guard protects the throat. No winter fur collar, white snow fur, bright imperial robe, flowing cape, dragon embroidery or Western plate cuirass.
+- Cold iron and leather only. No gold, gilding, bright bronze, decorative crown or ceremonial jewelry.
+
+LANCE, HANDS AND RIDING PHYSICS:
+- One long dark-shafted cavalry lance runs diagonally from Tuoba Tao's right side toward the upper-left depth, clearly pointing past the viewer and around the city wall. Its iron spearhead remains inside the frame and is smaller than his face.
+- His visible anatomical right hand, protected by a dark leather glove or partial lamellar gauntlet, grips the lance near waist height with exactly five coherent fingers. Wrist, elbow and shoulder align naturally; the hand is not enlarged and the shaft does not pierce the palm.
+- His left hand remains mostly hidden behind the horse's armored neck, with only a sleeve-supported grip on two short leather reins if necessary. No loose reins, extra hand, duplicated fingers or rider detached from control of the horse.
+- The lance never points toward the lens, crosses the face, strikes a person or exits from an impossible angle.
+
+THE IMPERIAL HORSE — ANATOMY AND BARDING ARE HARD GATES:
+- One massive dark-bay steppe warhorse, powerful but not fantasy-sized, passes side-front across the frame. One alert eye, two ears, complete muzzle, connected jaw and neck, broad chest, barrel torso, croup, tail and all four distinct legs must be anatomically coherent.
+- Freeze a believable obstacle-clearing stride: near foreleg extending down beyond the broken pole, far foreleg beginning to fold; near hind leg driving off compacted earth, far hind leg still gathering beneath the body. No duplicated leg, fused hoof, missing joint, impossible gallop cycle or hoof intersecting timber.
+- Period-plausible Northern Wei cataphract barding: dark iron or hardened-leather face guard, articulated neck defense, chest defense, layered body panels and croup cover, leaving eyes, nostrils, lower legs and tail free. Every panel straps securely to bridle, saddle or harness and follows the horse's volume.
+- Saddle, girth and bridle obey gravity and anatomy. The emperor's thighs grip the saddle; both boots remain associated with stirrup positions without being enlarged or floating.
+- Barding is matte iron-blue and black-brown leather, not European caparison, Japanese horse armor, fantasy spikes or a smooth metal shell.
+
+THE HISTORICAL ACTION AROUND HIM:
+- One splintered temporary field barricade occupies the extreme near-right and lower edge. It is an outer defensive obstacle or abandoned wooden screen on the southern approach, never part of the city gate itself.
+- Two or three rust-red wood shards and one pale dust sheet cut diagonally away from the hoof. Shards obey the horse's direction and remain under four percent of the frame; none crosses the face or becomes a spear at the viewer.
+- Show six to ten subordinate Wei cavalry silhouettes dividing into two curving wedges around the city approach. Keep them smaller, partly obscured by dust and never equal to the emperor. A few horses may have simpler partial barding.
+- Show only three to five tiny Northern Liang defenders retreating toward the intact gate, backs turned or side-on, with lowered spears and one collapsing dark banner. No kneeling surrender line, bound captives, slaughter, gore or bodies under hooves.
+- The tall rust-red timber gate tower, packed-earth walls and closed wooden gate remain structurally complete. The event is approach and encirclement, not a fabricated breach.
+- Black-gray smoke comes from two small abandoned signal braziers or burned brush outside the wall, not from a burning city or temple.
+
+SEASON, WEATHER AND HISTORICAL CORRECTION:
+- Late-summer or early-autumn Hexi corridor: hard high-altitude blue-white daylight, dry cold-looking iron-blue sky, pale alkaline soil, chalky lime dust and strong crosswind.
+- The white moving material is dry mineral dust and flying-white ink, never snow, ice, hail, frost or winter breath.
+- No snow-covered ground, falling flakes, frozen armor, winter fur or blizzard. The cold visual temperature comes from iron-blue light and black smoke, not the wrong season.
+- No Buddhist temple, statue, bell or destruction motif. Those belong to later religious policy and must not be mixed into the 439 Guzang campaign.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Locked corrected palette: iron-blue sky and armor, smoke black, dark-bay horse brown, black-brown leather, pale lime and alkaline dust, packed-earth ochre and restrained gate-timber rust red.
+- G0: absolutely no gold leaf, gold dust, gilding, yellow-metal trim, scattered gold flecks or black-gold overlay. Every glint is cold iron, pale mineral grit or hard white daylight.
+- Violent blue-white side light from upper-left cuts the face, helmet, horse eye and armor edges; smoke shadow remains coherent on the opposite side. Dust is brightest only where this same light strikes it.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural grain and forceful expressive ink motion. Use decisive facial planes, mature anatomy, coarse iron-blue pigment, flaking wall texture, dry-brush lime dust, splintered wood grain, smoke drag, hoof impact and diagonal flying-white force.
+- Mural cracks and abrasion follow the leftward cavalry sweep and nine-degree tilt. They are medium texture, not literal broken city walls.
+- No photoreal skin, live-action film still, smooth anime, glossy fantasy concept art or 3D CGI.
+
+HARD AVOIDS:
+winter, snow, blizzard, ice, frost, broken city gate, cavalry bursting through a gate, burning city, temple destruction, Buddhist statue, cracked temple bell, static mounted portrait, frontal horse charge, horse or lance aimed at camera, centered low-angle hero, generic Mongol warrior, middle-aged or elderly emperor, long gray beard, villain sneer, screaming berserker, bare head, horned helmet, Japanese kabuto, Tang armor, European plate armor, fantasy spikes, smooth metal horse shell, flowing superhero cape, yellow imperial robe, dragon embroidery, giant lance head, lance across face, two lances, extra hand, extra fingers, loose impossible reins, detached rider, malformed horse head, duplicated legs, fused hooves, missing joints, horse intersecting timber, floating tack, equal-sized cavalrymen, crushed bodies, gore, gold leaf, gold dust, gold flecks, black-gold overlay, text, pseudo-writing, Chinese characters, letters, UI, radar chart, logo, watermark, photorealism, smooth anime or glossy CGI.
+
+FINAL QA TARGET:
+Reject unless the first read is a thirty-one-year-old Northern Wei Xianbei cavalry emperor directing an unfinished encirclement outside intact Guzang rather than fabricating a snowy gate breach; the viewer crouches behind a shattered outer field barricade at saddle-low height; horse and rider pass front-side from center-right toward left depth with a clear nine-degree clockwise tilt; emperor plus horse dominate sixty-two to sixty-eight percent of visual mass while Tuoba Tao's complete focused face remains readable; one correct lance hand and controlled reins obey anatomy; the complete dark-bay horse has one head, one body, four distinct plausible legs, grounded tack and period-plausible barding; the near hoof has just cleared the outer pole and the two cavalry wedges have not yet completed the encirclement; the distant gate remains closed and structurally intact; all white motion is alkaline dust rather than snow; the palette is iron blue, smoke black, horse brown, pale lime and rust red with G0; and there is no text, pseudo-writing, gold, floating object, malformed horse, wrong-season fur, temple motif or live-action realism.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor and fixed expressive-ink anchor. Copied without modification into the repository candidate path as a 1672x941 PNG, 3,310,434 bytes. SHA256: AA0F39F4D1678EFDC8D6C99ADB5179F7544AC24D85A3109FA728CF78096A371C.
+
+The historical correction, protagonist identity and physical construction succeeded: Tuoba Tao reads as a young, exceptionally imposing Northern Wei Xianbei cavalry emperor; his face remains clear; the rider, lance hand, reins, saddle and armored dark-bay horse are anatomically coherent; fifth-century lamellar armor and horse barding are materially convincing; the low viewer position behind the broken outer barricade is legible; the distant Guzang gate remains closed and intact; and the iron-blue, smoke-black, horse-brown, lime-dust and rust palette contains no gold, text, pseudo-writing, temple motif or live-action realism.
+
+Reject this version because the generated horse's muzzle, torso and entire passage read toward the right side of the frame. This reverses the locked center-right-to-left-depth axis and repeats the outward rightward expansion already used in image 19. The main cavalry flow also follows the horse toward the right, weakening the designed contrast between the final two images. Some bright mineral dust near the legs is sufficiently white and frothy that it can be mistaken for snow despite the dry ground. Keep only as a construction and anatomy reference for one final directional rebuild; do not promote.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\20-n-wei-taiwu-v1-guzang-encirclement-dust-pass.png
+
+Do not create or overwrite the formal output and do not update approved package state without explicit owner approval.

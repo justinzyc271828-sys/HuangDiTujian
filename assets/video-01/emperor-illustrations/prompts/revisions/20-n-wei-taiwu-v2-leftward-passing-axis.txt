@@ -1,16 +1,13 @@
-PROMPT_VERSION: 2.3-camera-palette-identity-physics
+PROMPT_VERSION: 2-leftward-passing-axis-directional-rebuild
 ID: n-wei-taiwu
 ORDER: 20
 PERSONAL_NAME_ZH: 拓跋焘
 DISPLAY_ZH: 北魏太武帝
 STATUS: APPROVED — DO NOT REGENERATE
-SHOT_CODE: S20-SADDLELOW-SOUTHAPPROACH-LEFTPASS-DUTCH
-COLOR_CODE: C20-IRONBLUE-SMOKEBLACK-HORSEBROWN-LIMEDUST-RUST-G0
-OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\20-n-wei-taiwu.png
-PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
-SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+REFERENCE_BUILD: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\20-n-wei-taiwu-v1-guzang-encirclement-dust-pass.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\20-n-wei-taiwu-v2-leftward-passing-axis.png
 
-=== POSITIVE PROMPT (copy verbatim) ===
+=== FINAL ENGLISH GENERATION PROMPT ===
 
 Use case: historical-scene
 Asset type: one new 16:9 emperor-series key illustration, rebuilt around a mandatory leftward passing axis
@@ -90,10 +87,26 @@ horse facing right, horse muzzle pointing right, rightward travel, rightward cav
 FINAL QA TARGET:
 Reject unless the first read is a thirty-one-year-old Northern Wei Xianbei cavalry emperor directing an unfinished encirclement outside intact Guzang; the dominant dark-bay horse's muzzle points unmistakably LEFT, its croup stays RIGHT, and horse plus rider pass from RIGHT FOREGROUND toward LEFT MID-BACKGROUND; dust and splinters trail to the RIGHT; the lance points only toward UPPER-LEFT DEPTH; the viewer crouches behind the lower-right outer barricade; Tuoba Tao's complete focused face remains readable; one correct lance hand, hidden rein hand, saddle and tack obey anatomy; the complete horse has one head, one body and four plausible legs consistent with leftward travel; the city gate remains closed and structurally intact; all pale motion is beige-gray alkaline dust rather than snow; the palette is iron blue, smoke black, horse brown, pale lime, ochre and rust red with G0; and there is no text, pseudo-writing, gold, floating object, malformed horse, wrong-season fur, temple motif or live-action realism.
 
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor, the fixed expressive-ink anchor and rejected v1 as a bounded construction reference. Copied without modification into the repository candidate path as a 1672x941 PNG, 3,299,222 bytes. SHA256: 6440606E41CD68A4A1ADD752030BA26D1FC8DFD43F2B730E7556F93F8C164B43.
+
+Directional reconstruction succeeds. The dominant horse's complete muzzle and alert visible eye face unmistakably left, its croup and tail remain right, its forequarters advance left and its hindquarters drive from the right. Tuoba Tao's spear travels to the upper-left depth and never points at the lens. The right-background riders turn into the same leftward flow while smaller riders continue around the city on the opposite route, giving the action an encircling rather than gate-assault structure. Pale earth and splinters stream from the right foreground barricade behind the horse's leftward movement. This creates a clear directional break from image 19's outward rightward network expansion.
+
+The protagonist remains the largest, sharpest subject. Tuoba Tao reads as a powerful young-mature Xianbei cavalry emperor rather than an elderly generic warlord: broad face, compact dark beard, dense shoulders, controlled leftward gaze and an authoritative closed-mouth expression. His torso stays anchored to the saddle. The lance hand is proportional and coherent; the rein hand remains naturally connected, and the reins join the bridle without crossing the face. The spearhead is complete and smaller than the face.
+
+Horse construction passes review at the full-resolution original: one coherent head and neck, one torso and croup, two ears, one readable eye, a connected muzzle, four plausible legs with the far limbs partly occluded by barding and motion, distinct hooves, continuous shoulder and hindquarter mass, grounded saddle, girth, bridle and armored panels. The near foreleg reaches left over the low debris while the hind leg extends from the right. No hoof intersects the barricade, and there is no duplicated head, fused limb, detached rider or floating tack. The large lower-left hoof is strongly foreshortened but remains connected to the correct foreleg; this is an intentional extreme-wide proximity effect rather than an anatomical break.
+
+The lower-right splintered barricade gives the viewer a clear endangered sentry position. The packed-earth wall and rust-red gate tower remain structurally intact, and the visible gate doors remain closed behind the small retreating figures. Background riders, smoke and wall stay subordinate to the emperor-horse silhouette. Five depth layers are readable from barricade through horse, rider, cavalry arcs and city wall.
+
+The cold iron-blue, smoke-black, dark-bay brown, alkaline beige-gray, ochre and restrained rust-red palette is distinct from image 19. Dust is very pale in the hard side light, but dark soil grains, dry streak direction, bare ground and the absence of falling flakes make it read as alkaline mineral spray rather than snow. No winter fur, blizzard, breached gate, burning city, temple motif, text, pseudo-writing, UI, gold leaf, gold dust, black-gold overlay, gore, photoreal film lighting, smooth anime or glossy CGI is visible. Mineral granulation, mural abrasion and expressive diagonal ink force remain strong. Keep as the second and final review candidate only; do not create the formal output without explicit owner approval.
 
 === SAVE CONTRACT ===
 
-Save one final PNG exactly to:
+Approved candidate source retained at:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\20-n-wei-taiwu-v2-leftward-passing-axis.png
+
+Formal byte-identical output:
 D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\20-n-wei-taiwu.png
 
-Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
+Owner approved this image. Do not regenerate, modify or overwrite either the formal output or its approved candidate source.

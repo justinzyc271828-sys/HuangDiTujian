@@ -1,0 +1,92 @@
+PROMPT_VERSION: 1-paiza-network-horizon
+ID: yuan-shi-zu
+ORDER: 19
+PERSONAL_NAME_ZH: 忽必烈
+DISPLAY_ZH: 元世祖
+STATUS: SELF-REJECTED — PAIZA HOVERS TOO HIGH AND RELEASE HAND IS OVERSCALED
+HISTORICAL_LAYER: Kublai's establishment of Dadu, Yuan administrative synthesis and the station-relay network are historical; the single act of sliding a paiza across one map that visually unfolds into steppe, capital and maritime routes is an explicit poetic compression rather than a documented literal ceremony
+SHOT_CODE: S19-HIGH-REAR3Q-WIDE-OUTWARD
+COLOR_CODE: C19-STEPPEGREEN-COBALT-SEA-LEATHER-G1
+RESEARCH_BASIS: Yuan Shi juan 101 on zhanchi; Palace Museum Beijing biography; National Palace Museum Southern Branch exhibition on Kublai's portrait, Mongol nuqula hairstyle, leather cap and cultural synthesis; Metropolitan Museum exhibition on Yuan men's dress, Dadu and travel passes
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v1-paiza-network-horizon.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 emperor-series key illustration
+
+Create a completely new image. Depict Kublai Khan at approximately sixty-four years old in a historically grounded but openly poetic compression of Yuan imperial integration. The station-relay network, Dadu and the empire's land-and-sea connections are historical; the single gesture of sliding a paiza across a map that unfolds into multiple horizons is a symbolic visual construction, not a claim that one literal ceremony occurred.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga language, decisive facial planes, protagonist dominance and heavy matte mineral-pigment mural grain. Do not copy Qin costume, seal, map-impact composition, frontal pose, black-gold density or gold distribution.
+- Reference image 2 controls only forceful directional ink, flying-white edges and the transformation of one movement into broad environmental currents. Do not copy its person, camera or palette.
+
+DECISIVE FIRST READ — AN EMPIRE BECOMES A NETWORK:
+From behind a broad map platform, the viewer sees the elderly Mongol khan-emperor Kublai as the largest single figure in a powerful rear three-quarter silhouette. He has just released one small aged-bronze relay pass from his right hand. The paiza skids laterally across a physical relief map, one lower edge still touching the surface while a thin scrape of mineral dust marks its unfinished motion. Incised roads and leather route cords on the map align outward into real relay riders crossing green steppe, the ordered red-brown central axis of Dadu and a turquoise southern maritime horizon. Kublai turns his weathered face over his right shoulder toward the linked horizons, not toward the camera. Freeze before the paiza stops. The emotional sentence is “the conqueror's vast territory is being converted into routes, institutions and exchange.”
+
+CAMERA AND VIEWER POSITION — LOCKED:
+- Slightly high twenty-degree view from behind and just left of the map platform, using a natural 28 mm wide environmental composition.
+- The viewer stands beside one Yuan envoy at the near map edge and looks outward along the same routes. The viewer is inside the administrative act, not looking at a staged portrait.
+- Kublai occupies the central-left field in a broad rear three-quarter orientation. His back and shoulders form the largest designed silhouette, while his head turns over the right shoulder enough to reveal approximately fifty-five to sixty-five percent of his face, both eyes and his complete cap.
+- Kublai occupies approximately fifty-two to fifty-eight percent of visual mass. The panorama remains extensive, but no city, rider, ship or envoy competes with him.
+- Maintain a level panoramic horizon. No low-angle hero shot, frontal throne symmetry, centered standing portrait, overhead atlas view or table-edge repetition of image 18.
+- Use five clear depth layers: extreme foreground map edge and saddle leather; one cropped envoy sleeve; Kublai; the skidding paiza and map routes; the transformed Dadu-steppe-sea horizon.
+- The envoy's wide sleeve appears only at the extreme lower-left and occupies under four percent. The resting hand is almost entirely hidden inside the sleeve; no fingers point or reach.
+
+KUBLAI KHAN — IDENTITY, AGE AND PRESENCE:
+- Elderly East Asian Mongol man approximately sixty-four, thick-bodied and broad-backed, with a large square-round face, high wide cheekbones, deep-set slightly hooded dark eyes, broad nose, weather-reddened reddish-brown complexion and dense powerful shoulders.
+- Use the calm authority of the traditional imperial portrait: a straight restrained moustache, sparse graying side whiskers and a long but thin pointed gray chin beard divided into natural strands. No enormous fantasy beard, curled villain moustache or clean-shaven generic warrior.
+- His expression is sober, capacious and far-seeing. The eyes follow the route horizon with composed strategic attention; the mouth is closed and calm. No shouting, sneer, rage, drunkenness, cruelty or blank museum stare.
+- Show the traditional Mongol male nuqula-style side hair beneath a low practical leather cap. The cap has a dark brown-black leather band, an off-white felt crown and a narrow muted palace-red lining. It is compact and close to the head, not a tall fur cone, European crown, Chinese mian or fantasy horned helmet.
+- Give him a deep cobalt-blue jisun-style court robe with a cummerbund-like waist, broad wrapped construction, restrained silver-gray woven bands at collar and cuffs and a muted palace-red inner lining. Add only a very subtle Chinese cloud-and-wave border near one robe edge to express Yuan court synthesis. No bright dragon field, yellow imperial robe, Han-Tang round-collar costume, Central Asian fantasy armor or modern coat.
+- A dark saddle-leather belt with one pale jade hook crosses his heavy waist. Metallic ornament remains small and subordinate.
+
+THE RELEASE HAND AND PAIZA — ONE PHYSICALLY CLEAR ACTION:
+- Show only Kublai's anatomical right hand, low over the map just after release. It emerges naturally from the cobalt sleeve, palm angled down and inward, wrist straight, with five coherent relaxed fingers opening in the direction of travel. The hand remains smaller than his face and is not aimed toward the lens.
+- His left hand stays completely concealed inside the opposite wide sleeve near his belt. No second visible imperial hand or ambiguous hand-shaped fold.
+- The paiza is one small, heavy, worn aged-bronze travel pass: a narrow rectangular plaque with softly rounded shoulders and one plain suspension hole. It has no readable inscription, pseudo-writing, decorative letters or symbol field.
+- The plaque travels left-to-right across the map, never toward the viewer. One lower edge maintains visible contact with the map and casts a tight contact shadow; the opposite edge lifts no more than two centimeters. A short mineral-dust scrape and one slight curl in a nearby leather cord show speed without levitation or magic.
+- The paiza occupies under two percent of the frame. It is a practical relay credential, not a giant tablet, coin, seal, sword, glowing talisman or flying weapon.
+
+THE PHYSICAL MAP AND THE OUTWARD NETWORK:
+- Build a large, low, period-plausible relief map from layered leather, wood and mineral-painted paper, secured to a saddle-brown platform. Mountains rise as low textured forms; rivers are shallow blue-green channels; route lines are thin dark leather cords fixed to the surface.
+- No labels, borders made of text, calligraphy, pseudo-writing, compass rose, legend, colored infographic blocks, UI nodes or modern political map styling.
+- The paiza's unfinished skid crosses one major route junction. From that junction, the physical leather cords visually continue into broad flying-white road strokes beyond the platform.
+- Show three to five tiny relay riders at different depths, each anatomically simple and subordinate, changing horses at two small timber station compounds. Their horses run parallel to the roads, never toward the camera. Pale dust and grass strokes, not neon light, create the sense of rapid transmission.
+- The network must feel materially connected: map cords become wagon ruts, horse tracks, bridge lines and maritime wakes through painterly continuity rather than literal glowing beams.
+
+ONE CONTINUOUS PANORAMA — NOT A SPLIT SCREEN:
+- Left horizon: open wind-combed steppe under a high cobalt sky, with low yurts and one distant relay station, never a generic battle camp.
+- Center horizon: the ordered north-south axis of Dadu emerging from the map, with red-brown Chinese-planned gates, broad avenues, gray tiled roofs and restrained Central Asian floral geometry on one architectural band. No giant fantasy palace, throne hall or modern Beijing skyline.
+- Right horizon: the land route softens into river channels and a far turquoise southern sea with two tiny low-detail sail or grain-transport vessels. White salt-spray ink and wakes continue the same route rhythm. No naval battle, drowning figures, burning ships or Japanese-invasion storm.
+- Join steppe, Dadu and sea through one continuous mineral-mural spatial fold. Do not use panels, triptych borders, collage cutouts, floating globes or a literal impossible photographic vista.
+- Kublai looks along this transformation toward the right horizon. The panorama carries achievement and scale while leaving room for historical ambiguity; no triumphalist halo or moralizing darkness.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Locked palette: steppe green, clear sky cobalt, sea turquoise, saddle-leather brown, muted palace red, silver-gray felt and deep cobalt robe.
+- Open panoramic daylight travels from dry clear steppe light on the left to cooler maritime haze on the right. A warm reflected strip from the map models Kublai's turned face so both eyes remain readable.
+- G1 maximum three percent: aged-bronze only on the paiza and tiny harness fittings. The jade belt hook is pale stone, not gold. No gold thread field, gold crown, gold sky, gold dust, scattered flecks or universal black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with a heavy matte mineral-pigment mural and forceful expressive ink motion. Use decisive drawn facial planes, mature anatomy, coarse mineral granules, flaking painted-paper edges, wind-combed dry brush, flying-white road dust, salt-spray ink and long network strokes across broad color fields.
+- Cracks and abrasions follow the paiza's lateral motion and the roads' outward direction. They are part of the painted medium, not literal ruined architecture.
+- No photoreal skin, live-action film still, smooth anime, glossy fantasy concept art or 3D CGI.
+
+HARD AVOIDS:
+static atlas portrait, emperor posing over a world map, frontal throne shot, centered hero, low-angle hero shot, cropped cap, face hidden completely from rear view, young Kublai, generic Genghis Khan, Western barbarian caricature, sinister conqueror, screaming warlord, giant beard, horned helmet, fur fantasy king, Chinese mian crown, Han or Tang costume, yellow dragon robe, European armor, Japanese armor, battlefield, charging army, giant palace, modern Beijing, globe, satellite map, infographic, province color blocks, UI network nodes, neon route lines, magical beams, floating map, floating paiza, paiza aimed at camera, giant paiza, readable inscription, pseudo-writing, calligraphy, map labels, compass rose, second imperial hand, extra fingers, malformed hand, multiple focal faces, crowded riders, ships competing with Kublai, naval battle, burning ship, gold dust, gold flecks, black-gold overlay, text, Chinese characters, letters, logo, watermark, radar chart, blood or gore.
+
+FINAL QA TARGET:
+Reject unless the first read is an elderly Mongol khan-emperor converting an immense domain into a working relay and administrative network; Kublai remains the largest single figure in a high rear three-quarter view with a clearly readable turned face, low leather cap, nuqula-style hair, broad heavy body and cobalt Yuan court robe; the viewer stands beside an envoy at the map edge; exactly one correct imperial hand has just released a small blank aged-bronze paiza laterally; the paiza still contacts the physical map and has not completed its skid; map cords transform materially into relay roads, Dadu's central axis and southern maritime wakes without becoming an infographic or impossible photoreal vista; at least four depth layers remain clear; the palette is steppe green, cobalt, turquoise and leather brown with G1 under three percent; and there is no readable text, pseudo-writing, floating object, generic throne, gold overlay, anatomy defect or live-action realism.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor and fixed expressive-ink anchor. Copied without modification into the repository candidate path as a 1672x941 PNG, 3,080,049 bytes. SHA256: 32FB23ADDDE93B138B338B2E82FB9113D66E47887213068B658736AADED412C0.
+
+Visual QA: The macro composition succeeds unusually well. Kublai is immediately dominant in a high rear three-quarter view, his turned elderly face, low leather-and-felt cap, nuqula-style braids, cobalt robe, heavy torso and jade belt remain readable. The viewer stands at the map edge beside a cropped sleeve. The foreground relief map, middle-distance relay riders, Dadu axis, steppe stations and turquoise maritime route create five clean layers and communicate administrative integration rather than a generic emperor portrait. The panorama is continuous rather than split into panels; no readable text, pseudo-writing, UI, modern map symbols, throne, battlefield or black-gold overlay appears. The palette, matte mineral grain, flying-white sky and road dust strongly distinguish the scene from images 18 and 20.
+
+Self-rejection reason: The paiza is rendered several centimeters above the map with a bright vapor-like wake, so it reads as magically hovering instead of skidding with one edge in contact. Kublai's releasing hand is anatomically coherent with five digits but is approximately twelve to fifteen percent too large and too splayed for the assigned wide-lens perspective. Both defects concern the same release-gesture physics and justify one controlled second attempt. Preserve every successful identity, environmental and compositional element while grounding the plaque and reducing the hand scale.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v1-paiza-network-horizon.png
+
+Do not create or overwrite the formal output and do not update approved package state without explicit owner approval.

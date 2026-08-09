@@ -12,8 +12,8 @@ D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs
 
 ## 生产顺序
 
-1. `01-qin-shi-huang.png` 至 `16-zhou-shi.png` 已批准，**禁止重生成或覆盖**。
-2. 从 `prompts/17-n-tang-houzhu.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
+1. `01-qin-shi-huang.png` 至 `20-n-wei-taiwu.png` 已全部批准，**禁止重生成、修改或覆盖**。
+2. 本批次二十张正式输出已经完成；任何返修都必须先创建新版候选，并重新取得明确批准。
 3. 每次必须重新打开单人提示词，确认顶部是 `PROMPT_VERSION: 2.3-camera-palette-identity-physics`，再复制 `POSITIVE PROMPT`。
 4. 同时加载主锚点和辅助锚点；只继承材质、笔触和成年漫画造型，不复制秦始皇机位或黑金密度。
 5. 生成前同时核对 `SHOT_CODE`、`COLOR_CODE` 及两张矩阵的相邻行；生成 16:9 PNG。
@@ -26,7 +26,7 @@ D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs
 
 - `01-qin-shi-huang.png`
 - `02-han-xuan-di.png`
-- `17-n-tang-houzhu.png`
+- `18-n-song-tai-zu.png`
 
 不得在正式输出中使用 `final-final`、日期、随机串或中文文件名。
 

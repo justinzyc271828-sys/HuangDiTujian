@@ -1,16 +1,16 @@
-PROMPT_VERSION: 2.3-camera-palette-identity-physics
+PROMPT_VERSION: 7-prone-fire-city-flames
 ID: n-tang-houzhu
 ORDER: 17
 PERSONAL_NAME_ZH: 李煜
 DISPLAY_ZH: 南唐后主
-STATUS: APPROVED — DO NOT REGENERATE
+STATUS: APPROVED — PROMOTED TO FORMAL OUTPUT, DO NOT REGENERATE
+HISTORICAL_LAYER: Li Yu's death in Bianjing is historical; poisoning comes from a later Song anecdotal tradition; the deathbed burning of his own manuscripts and Jinling formed by flames are explicit poetic reconstruction
 SHOT_CODE: S17-V7-OUTSIDEWINDOW-LOWDOWN-PRONECRAWL-FLAMECITY
 COLOR_CODE: C17-V7-RAINBLUE-LACQUERBLACK-PAPERIVORY-FIREORANGE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\17-n-tang-houzhu.png
-PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
-SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+CANDIDATE_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v7-prone-fire-city-flames.png
 
-=== POSITIVE PROMPT (copy verbatim) ===
+=== FINAL ENGLISH GENERATION PROMPT ===
 
 Use case: precise-object-edit
 Asset type: one revised 16:9 historical-scene key illustration for a unified Chinese-emperor series
@@ -80,10 +80,15 @@ seated Li Yu, reclining portrait, raised sitting hips, kneeling pose, calm schol
 FINAL QA TARGET:
 Reject unless the viewer is clearly outside the rainy window; Li Yu is fully prone from chest through pelvis and legs and visibly struggles forward in severe despair; his left hand correctly clutches the abdomen and his right hand reaches low toward the brazier with plausible five-finger anatomy; the larger fire remains contained; Jinling and Qinhuai are formed only by dancing flame contours above the brazier with no city image anywhere on the wall; the confined residence is intact, orderly and dignified; Li Yu remains dominant and recognizable; and the result preserves strict G0 adult mineral-mural historical manga with no text.
 
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool as a non-destructive revision of v6, with the two fixed series anchors and the v4 Li Yu identity reference. Copied without modification into the repository candidate path as a 1672x941 PNG. SHA256: A541928B93D4A627DDD1553DF0F856E46F8182DDA6EEDBB4A5884653FD234569.
+
+Visual QA: All four owner-directed changes are present. Li Yu's chest, abdomen, pelvis and legs are fully down on the floor, giving a much clearer prone crawl and a more desperate unfinished struggle than v6. One hand presses the lower abdomen while the opposite arm reaches low toward the brazier; shoulders, elbows and wrists connect plausibly, the visible reaching hand has five natural fingers, and both legs and shoes connect through one grounded pelvis. The flame is much larger but remains rooted in one brazier without igniting the room. Jinling roofs, gate and Qinhuai bridge appear only within the tall dancing flame column; no city, reflection or fire projection remains on the wall or exterior. The city silhouettes are somewhat more concrete and legible than a purely abstract flame contour, but they are surrounded by and visually built from flame rather than presented as a separate wall mural. The residence is intact, orderly and dignified, with smooth walls, complete timber, clean floor and restrained furnishings; mineral craquelure reads mainly as the illustration medium rather than literal ruin. Li Yu remains dominant and recognizable. The fire is intentionally stronger and now occupies close to the upper end of the requested secondary visual mass. Manuscript sheets contain faint non-legible guide-grid marks, but no readable characters, logo, watermark or UI. Owner approved this candidate on 2026-08-08. Formal output and candidate source are byte-identical: 1672x941 PNG, SHA256 A541928B93D4A627DDD1553DF0F856E46F8182DDA6EEDBB4A5884653FD234569.
 
 === SAVE CONTRACT ===
 
-Save one final PNG exactly to:
+Approved formal output:
 D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\17-n-tang-houzhu.png
 
-Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
+Approved and locked — do not regenerate or overwrite.

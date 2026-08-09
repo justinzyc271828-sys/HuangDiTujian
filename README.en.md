@@ -17,7 +17,7 @@
 |------|--------|
 | Master index | **269** rulers (`data/catalog/emperors_master.*`) |
 | Source dossiers | 269 dossiers, ~1,950 evidence cards, scaffold-free |
-| Video-01 pilot | 20 emperors: stats / storyboards / prompts done; illustrations in progress |
+| Video-01 pilot | 20 emperors: stats / storyboards / prompts done; illustrations **20/20 finalized** |
 | Product pages (YAML + bio) | Growing curated set, incl. Qin Shi Huang, Han Wudi, Tang Taizong |
 | Front end | Gallery index + memorial-style emperor pages, running dev-previewable |
 

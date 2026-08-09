@@ -46,6 +46,10 @@ APPROVED_IDS = {
     "zhou-wu-zetian",
     "tang-xian-zong",
     "zhou-shi",
+    "n-tang-houzhu",
+    "n-song-tai-zu",
+    "yuan-shi-zu",
+    "n-wei-taiwu",
 }
 
 
@@ -105,16 +109,16 @@ MOMENTS = {
         "moment": "at Gaoping the young emperor and his central standard stop the collapsing line while a much smaller Zhao Kuangyin leads the first countercharge from the lower-left",
     },
     "n-tang-houzhu": {
-        "moment": "during Jinling's fall, a rain-soaked blank poem sheet tears from his fingers and is about to vanish into fire-reflected river wind",
+        "moment": "in an explicitly poetic reconstruction of his final Bianjing night, the poisoned captive poet-emperor struggles fully prone toward his burning manuscripts while the dancing flames themselves briefly form lost Jinling and Qinhuai",
     },
     "n-song-tai-zu": {
-        "moment": "the smiling toast reaches the generals at the instant the friendly banquet becomes an irreversible surrender of military command",
+        "moment": "the broad-shouldered soldier-emperor raises an openhearted toast to upright old comrades at the instant carefully laid-aside command weapons make their peaceful retirement irreversible",
     },
     "yuan-shi-zu": {
-        "moment": "the elderly khan-emperor casts a relay paiza onto the new provincial map as steppe roads, the Dadu axis and the southern sea connect",
+        "moment": "the elderly khan-emperor stands on a real Dadu gate-tower terrace at the instant three relay couriers burst through the open gate onto a road whose stations, caravans and traffic recede beyond sight across the steppe",
     },
     "n-wei-taiwu": {
-        "moment": "the Northern Wei cavalry breaks through the Hexi fortress gate during a snow-and-smoke impact",
+        "moment": "the thirty-one-year-old Northern Wei cavalry emperor sweeps leftward past an abandoned outer barricade south of intact Guzang, directing two cavalry wedges into an unfinished encirclement after the Northern Liang field force retreats",
     },
 }
 
@@ -282,44 +286,44 @@ SHOT_PLANS = {
         "foreground": "one blurred dark shield rim at the extreme lower-right, with no visible foreground face or hand",
     },
     "n-tang-houzhu": {
-        "code": "S17-OUTSIDE-LATTICE-REARPROFILE-MS-LATERAL",
-        "elevation": "eye level outside the rain-dark lattice window",
-        "azimuth": "rear-left profile inside the room, face turned only partly toward the escaping paper",
-        "scale": "50 mm medium shot through the window grid, with the figure large but interrupted by architecture and rain",
-        "roll": "level melancholic frame",
-        "interaction": "the viewer is outside in the storm where the lost poem sheet is about to pass, separated from the ruler by lattice and rain",
-        "motion": "paper, torn silk, ink and fire-reflected rain stream sideways from the room into the night",
-        "foreground": "wet lattice bars, rain beads and the blurred edge of the flying blank sheet",
+        "code": "S17-V7-OUTSIDEWINDOW-LOWDOWN-PRONECRAWL-FLAMECITY",
+        "elevation": "low exterior chest height outside the rain-wet window, looking downward about twelve degrees",
+        "azimuth": "front-right three-quarter view into the room, with the full prone body running diagonally from trailing feet at interior-left to the reaching arm and brazier at lower-right",
+        "scale": "50–60 mm medium-wide view through one clean window opening; Li Yu remains dominant while his grounded full body, both narrative hands and the complete brazier stay readable",
+        "roll": "level frame under restrained social surveillance",
+        "interaction": "the viewer is an unseen Song watchman outside under the eaves, separated from the dying captive ruler by the wet sill and dark side post",
+        "motion": "Li Yu drags forward along the floor while the larger contained fire climbs upward and its flame tongues momentarily form Jinling roofs, gate and Qinhuai bridge",
+        "foreground": "one rain-wet sill and restrained dark edge post, with no visible guard body and no bar crossing the face or hands",
     },
     "n-song-tai-zu": {
         "code": "S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR",
         "elevation": "seated guest eye level at the banquet",
-        "azimuth": "relaxed right three-quarter view with the emperor on the far-left third, turning across a circular table rather than facing front",
-        "scale": "40 mm medium-wide composition that includes neighboring generals as cropped edge silhouettes",
-        "roll": "level and deceptively calm",
-        "interaction": "the viewer is one armed founding general inside the friendly circle and senses the trap closing socially rather than physically",
-        "motion": "cups pass around the circle while swords and loosened armor slide away laterally under the table edge",
-        "foreground": "the viewer's cup and armored wrist remain low and off-center, never blocking the emperor's face",
+        "azimuth": "relaxed right three-quarter view with the broad-shouldered emperor on the far-left third, leaning across an open arc of low banquet tables rather than facing front",
+        "scale": "40 mm medium-wide composition that includes two upright veteran generals and the viewer's cropped cup",
+        "roll": "level, warm and calmly candid",
+        "interaction": "the viewer is one trusted founding general inside the open friendly arc, raising a cup among old comrades rather than facing interrogation",
+        "motion": "Zhao's cup and the viewer's cup approach an unfinished toast while sheathed command weapons and loosened armor rest carefully beside the seats",
+        "foreground": "the viewer's cup and broad sleeve remain low and off-center, never blocking the emperor's face",
     },
     "yuan-shi-zu": {
-        "code": "S19-HIGH-REAR3Q-WIDE-OUTWARD",
-        "elevation": "slightly high 20-degree view from behind the map platform",
-        "azimuth": "broad rear three-quarter silhouette with the elderly face turning over the right shoulder toward the linked horizons",
-        "scale": "28 mm wide environmental composition; the ruler remains the largest single form while Dadu, steppe and sea unfold beyond",
-        "roll": "level panoramic horizon",
-        "interaction": "the viewer stands beside an envoy at the map edge and looks outward along the imperial network",
-        "motion": "the relay paiza skids laterally across the map as horse-light trails radiate away toward distant roads and sea",
-        "foreground": "map edge, saddle leather and a cropped envoy hand at rest, with no object thrown at camera",
+        "code": "S19-GATETOWER-EYE-REAR3Q-DEEPAXIS",
+        "elevation": "standing-envoy eye level from inside a shadowed Dadu gate-tower doorway, looking outward and downward about 8 degrees",
+        "azimuth": "Kublai fills the right foreground in a broad left-facing rear three-quarter stance with his complete face turned toward the departing road; the single axis recedes center-left",
+        "scale": "26 mm wide environmental composition; the emperor occupies roughly 55 percent of frame height while the real gate, road, riders and steppe remain legible",
+        "roll": "level with one continuous horizon and one central road vanishing point",
+        "interaction": "the viewer is a travel-worn envoy standing inside the dark doorway, framed only by one cropped muted-red sleeve and the terrace threshold",
+        "motion": "three relay couriers depart in successive depths through the open gate while carts and a camel caravan extend the real packed-earth road toward the horizon",
+        "foreground": "dark doorway, cropped envoy sleeve, real terrace slabs and a red-lacquer parapet establish a hard architectural boundary with no map or table",
     },
     "n-wei-taiwu": {
-        "code": "S20-SADDLELOW-PASSING-WIDE-DUTCH-THROUGH",
-        "elevation": "saddle-level low camera just inside the broken Hexi gate, looking up about 18 degrees",
-        "azimuth": "front-side passing angle: horse and emperor enter from center-right and sweep past toward the left background instead of charging straight at camera",
-        "scale": "20 mm extreme wide action shot with gate splinters, horse body and rider face all readable",
+        "code": "S20-SADDLELOW-SOUTHAPPROACH-LEFTPASS-DUTCH",
+        "elevation": "saddle-level low camera behind a shattered temporary field barricade south of intact Guzang, looking up about 18 degrees",
+        "azimuth": "front-side passing angle: the horse's muzzle points left as horse and emperor enter from the right foreground and sweep toward left mid-background along the outside of the wall",
+        "scale": "20 mm extreme-wide action shot; emperor and armored horse form the dominant near silhouette while the closed gate and two cavalry wedges remain readable",
         "roll": "9-degree clockwise Dutch tilt",
-        "interaction": "the viewer crouches inside the breached gate as the first cavalry rank rushes past into the fortress",
-        "motion": "horse, lance, snow, smoke and shattered timber cut diagonally through and away from the camera position",
-        "foreground": "broken gate beam and iron-blue snow streak across the near right edge",
+        "interaction": "the viewer is a Northern Liang sentry crouching behind the abandoned lower-right outer barricade as the imperial horse passes dangerously close",
+        "motion": "horse, lance and cavalry drive from right foreground toward left depth while dry alkaline dust and wood splinters trail back toward the right",
+        "foreground": "splintered outer-barricade timber and beige-gray mineral dust occupy the lower-right edge without implying a breached city gate",
     },
 }
 
@@ -438,32 +442,32 @@ PALETTE_PLANS = {
         "surface": "matte iron lamellae, cracked mineral dust, weathered black-vermilion command textiles and flying-white countercharge strokes",
     },
     "n-tang-houzhu": {
-        "code": "C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0",
-        "dominant": "rain blue, pooled ink-black, wet silk white and distant fire orange",
-        "gold": "G0 no gold leaf; distant fire supplies the only warm sparkle",
-        "light": "cold rain foreground with unstable orange reflections from Jinling's fall",
-        "surface": "wet paper feathering, rain beads, torn silk and diluted ink blooms",
+        "code": "C17-V7-RAINBLUE-LACQUERBLACK-PAPERIVORY-FIREORANGE-G0",
+        "dominant": "blue-black rain, muted blue-gray robe, dark lacquer, warm-gray intact plaster, paper ivory and concentrated fire orange",
+        "gold": "G0 no gold leaf, gilded trim, gold dust, gold flecks or black-gold overlay",
+        "light": "cold rainy exterior opposed by one larger contained brazier whose orange light models Li Yu and the flame-built memory of Jinling",
+        "surface": "matte mineral granulation and subtle medium craquelure over intact plaster and timber, wet sill, absorbent paper fibers, ember edges and forceful flame tongues",
     },
     "n-song-tai-zu": {
         "code": "C18-AMBER-LACQUERRED-UMBER-STEEL-G1",
-        "dominant": "candle amber, lacquer red, deep umber and quiet sword steel",
+        "dominant": "clear candle amber, luminous lacquer red, warm umber, pale plaster, muted iron blue-green and quiet sword steel",
         "gold": "G1 maximum 2 percent, limited to cup rim and belt fittings",
-        "light": "warm circular banquet candlelight with a cool shadow under the table",
-        "surface": "smoky circular brush currents, dark lacquer planes and restrained metallic edges",
+        "light": "abundant warm candlelight fully illuminates every face while cool moonlight opens onto the courtyard beyond",
+        "surface": "matte mineral granulation, warm lacquer planes, painted-screen grain, restrained dry-brush atmosphere and quiet metallic edges",
     },
     "yuan-shi-zu": {
-        "code": "C19-STEPPEGREEN-COBALT-SEA-LEATHER-G1",
-        "dominant": "steppe green, sky cobalt, sea turquoise and saddle-leather brown",
-        "gold": "G1 maximum 3 percent, aged bronze on the paiza and harness only",
-        "light": "open panoramic daylight shifting from dry steppe to maritime haze",
-        "surface": "wind-combed grass strokes, salt spray and long network trails across broad color fields",
+        "code": "C19-DADURED-STEPPEGREEN-COBALT-SILVER-LEATHER-G1",
+        "dominant": "deep Dadu palace red, steppe olive-green, clear cobalt, silver-gray felt and stone, deep cobalt robe and saddle-leather brown",
+        "gold": "G1 maximum 2 percent, limited to physically attached dark aged-bronze cap, belt, harness and tiny courier-paiza fittings",
+        "light": "clear late-morning upper-left daylight models Kublai and travels down the road while the gate-tower doorway remains cool and dark",
+        "surface": "plain cobalt woven cloth, matte mineral granulation, flaking palace red, worn stone, wind-combed grass and dry perspective-aligned road dust",
     },
     "n-wei-taiwu": {
-        "code": "C20-SNOWBLUE-SMOKEBLACK-HORSEBROWN-RUST-G0",
-        "dominant": "iron snow blue, smoke black, horse brown and gate-timber rust red",
-        "gold": "G0 no gold leaf; all glints are cold iron and ice",
-        "light": "violent blue-white snow light cut by black smoke",
-        "surface": "splintered wood grain, ice scratches, smoke drag and diagonal cavalry impact",
+        "code": "C20-IRONBLUE-SMOKEBLACK-HORSEBROWN-LIMEDUST-RUST-G0",
+        "dominant": "iron blue, smoke black, dark-bay horse brown, pale beige-gray alkaline dust, packed-earth ochre and restrained gate-timber rust red",
+        "gold": "G0 no gold leaf; all glints are cold iron or hard blue-white daylight",
+        "light": "violent upper-left blue-white side light cut by black-gray signal smoke over dry late-summer ground",
+        "surface": "lamellar iron grain, splintered wood, dry lime-dust abrasion, hoof impact and leftward diagonal ink force",
     },
 }
 
@@ -525,6 +529,34 @@ DIRECT_PROMPT_OVERRIDES = {
         (PACKAGE / "prompts" / "revisions" / "16-zhou-shi-v4-neutral-command-banners.txt")
         .read_text(encoding="utf-8")
         .split("=== FINAL ENGLISH EDIT PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "n-tang-houzhu": (
+        (PACKAGE / "prompts" / "revisions" / "17-n-tang-houzhu-v7-prone-fire-city-flames.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "n-song-tai-zu": (
+        (PACKAGE / "prompts" / "revisions" / "18-n-song-tai-zu-v4-broader-soldier-build.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "yuan-shi-zu": (
+        (PACKAGE / "prompts" / "revisions" / "19-yuan-shi-zu-v4-plain-cobalt-no-gold-speckle.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "n-wei-taiwu": (
+        (PACKAGE / "prompts" / "revisions" / "20-n-wei-taiwu-v2-leftward-passing-axis.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
         .split("=== QA NOTES ===", 1)[0]
         .strip()
     ),
@@ -913,7 +945,7 @@ def palette_matrix_doc() -> str:
     rows = [
         "# 二十帝王色彩与金色额度矩阵",
         "",
-        "版本：`v2.3 camera-palette-identity-physics`。岩彩媒介保持统一，但主色、光线、表面节奏和金色密度按人物分配。01–16 已批准，不作为后续模板。",
+        "版本：`v2.3 camera-palette-identity-physics`。岩彩媒介保持统一，但主色、光线、表面节奏和金色密度按人物分配。01–20 已全部批准，不再作为重生成模板。",
         "",
         "| # | ID | Color code | Dominant palette | Gold budget | Lighting | Surface rhythm |",
         "|---:|---|---|---|---|---|---|",
@@ -953,8 +985,8 @@ def readme() -> str:
 
 ## 生产顺序
 
-1. `01-qin-shi-huang.png` 至 `16-zhou-shi.png` 已批准，**禁止重生成或覆盖**。
-2. 从 `prompts/17-n-tang-houzhu.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
+1. `01-qin-shi-huang.png` 至 `20-n-wei-taiwu.png` 已全部批准，**禁止重生成、修改或覆盖**。
+2. 本批次二十张正式输出已经完成；任何返修都必须先创建新版候选，并重新取得明确批准。
 3. 每次必须重新打开单人提示词，确认顶部是 `PROMPT_VERSION: 2.3-camera-palette-identity-physics`，再复制 `POSITIVE PROMPT`。
 4. 同时加载主锚点和辅助锚点；只继承材质、笔触和成年漫画造型，不复制秦始皇机位或黑金密度。
 5. 生成前同时核对 `SHOT_CODE`、`COLOR_CODE` 及两张矩阵的相邻行；生成 16:9 PNG。
@@ -967,7 +999,7 @@ def readme() -> str:
 
 - `01-qin-shi-huang.png`
 - `02-han-xuan-di.png`
-- `17-n-tang-houzhu.png`
+- `18-n-song-tai-zu.png`
 
 不得在正式输出中使用 `final-final`、日期、随机串或中文文件名。
 

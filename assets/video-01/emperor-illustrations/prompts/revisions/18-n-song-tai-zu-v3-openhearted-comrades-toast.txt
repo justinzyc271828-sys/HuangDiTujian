@@ -1,0 +1,109 @@
+PROMPT_VERSION: 3-openhearted-comrades-toast-zhao-continuity
+ID: n-song-tai-zu
+ORDER: 18
+PERSONAL_NAME_ZH: 赵匡胤
+DISPLAY_ZH: 宋太祖
+STATUS: SUPERSEDED — OWNER ACCEPTED ATMOSPHERE BUT REQUESTED A SLIGHTLY STRONGER PHYSIQUE
+HISTORICAL_LAYER: the early-Song removal of senior commanders is historical; the complete cup-wine dialogue and simultaneous visible laying-down of command objects are treated as a controlled traditional dramatization rather than a documentary reconstruction
+SHOT_CODE: S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR
+COLOR_CODE: C18-AMBER-LACQUERRED-UMBER-STEEL-G1
+CONTINUITY_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png — age forward only the young Zhao Kuangyin in the lower-left mounted countercharge by about seven years; do not copy Chai Rong or the battlefield
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v3-openhearted-comrades-toast.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 emperor-series key illustration
+
+Create a completely new image, not an edit of any rejected banquet image. Reconstruct the traditional early-Song “cup of wine releases military command” banquet as a candid, humane agreement among old soldiers who founded a dynasty together. The removal of senior commanders' military power is historical; the complete banquet dialogue and simultaneous visible laying-down of command objects are a controlled visual dramatization rather than literal documentary reconstruction.
+
+CHARACTER THESIS — ABSOLUTE PRIORITY:
+Zhao Kuangyin is an openhearted, broad-spirited soldier-emperor speaking a difficult political truth plainly to trusted old comrades. He is not a sinister court plotter, cruel tyrant or cold manipulator. The veterans are not terrified subjects. They understand that their old commander is asking them to exchange dangerous military command for peace, wealth, family security and lifelong honor. The first emotional read must be warmth, candor, mutual history and heavy but unbroken trust.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga language, decisive facial planes, strong protagonist dominance and heavy matte mineral-pigment mural grain. Do not copy Qin costume, objects, frontal pose, black-gold density or gold distribution.
+- Reference image 2 controls only expressive ink force, flying-white edges and broad atmospheric movement. Do not copy its person or composition, and do not form a dark ring or noose around the banquet.
+- Reference image 3 is a close crop derived from the lower-left young Zhao Kuangyin in approved image 16. Age that same young cavalry officer forward by approximately seven years into the thirty-four-year-old founding emperor. Preserve his high strong nose, angular military jaw, straight dark brows and broad soldier shoulders. Do not copy his helmet, armor, horse, spear, battlefield, dust, flags or charging pose. Do not use the dominant Chai Rong from image 16 as the identity.
+
+DECISIVE FIRST READ — THE UNFINISHED TOAST:
+Inside a handsome, intact early-Song palace banquet room, Zhao Kuangyin sits at the far-left side of an open arc of low lacquer tables. He leans slightly forward toward the viewer and his fellow veterans with relaxed, unguarded shoulders, a broad sincere comrade's smile, warm eyes and open brows. His small wine cup is raised laterally at chest height in an invitation to meet as equals. The viewer's own cup has only begun to rise from the extreme lower-right, still several inches away: freeze before the cups touch. Two or three founding generals sit upright around the arc, meeting Zhao's gaze rather than bowing. One answers with a faint rueful smile, another listens gravely but without fear. Beside a veteran's seat, a fully sheathed sword belt has just been laid carefully and horizontally across a low lacquer stand; a loosened lamellar shoulder guard rests neatly below it. The political decision is irreversible, but nobody is humiliated. The emotional sentence is “old comrades accept peace from the man they still trust.”
+
+CAMERA AND VIEWER PARTICIPATION — LOCKED:
+- Seated guest eye level from inside the friendly banquet circle. The viewer is one Later Zhou veteran and founding Song general, not an outside observer, captive or hidden spy.
+- Use a natural level 40 mm medium-wide view. No low-angle hero shot, overhead view, frontal throne symmetry or surveillance angle.
+- Place Zhao on the far-left third in a relaxed right-facing three-quarter pose, turning across the open table arc. His face is fully readable, with both eyes visible and no shadow cutting across them.
+- Zhao occupies approximately fifty-six to sixty-two percent of visual mass. He is the largest, sharpest and warmest figure, but he remains physically present at the same banquet level as his comrades rather than elevated on a throne.
+- Arrange two or three low period-appropriate lacquer tables in a broad broken arc with a generous opening toward the calm courtyard. Never use a modern restaurant round table, a closing horseshoe trap or bars made from furniture.
+- Use four readable depth layers: one very low cropped viewer-side cup and wide sleeve; warm lacquer table edges and settled command objects; dominant Zhao and seated veterans; pale intact plaster, open wood lattice and a moonlit courtyard.
+- Keep the viewer's forearm under five percent at the extreme lower-right. The viewer's fingers stay completely hidden inside a broad sleeve; only the small cup rim and sleeve-supported base are visible. The foreground never blocks Zhao or aims a vessel at his face.
+
+ZHAO KUANGYIN — CONTINUITY, AGE AND IDENTITY:
+- East Asian man about thirty-four, visibly the same person as the young lower-left cavalry officer in approved image 16, naturally aged from hard-fighting Later Zhou commander into the founding Song emperor.
+- Tall high-bridged nose, angular broad jaw, straight heavy dark brows, clear warm dark eyes, compact trimmed moustache, very short chin beard, sun-warmed medium complexion and broad military shoulders. He must read as a powerful veteran commander, not a soft scholar, generic bearded monarch or copy of Chai Rong.
+- His expression is generous and direct: an easy broad smile with subtle laugh lines, slightly parted lips as if speaking frankly, relaxed cheeks, open eyelids and warm steady eyes. His chin is level or slightly lifted. No narrowed eyes, lowered predatory brow, one-sided smirk, secretive sideways glance, cynical amusement or villain expression.
+- His torso leans a little toward the company, not back into guarded authority. His shoulder line is open and expansive; no looming, cornering or interrogating posture.
+- Complete black hard-winged futou, fully visible and historically restrained. Deep but luminous lacquer-red to oxblood early-Song round-collar robe with wide controlled sleeves, dark umber belt and only tiny dull metal fittings. No mian crown, dragon robe, yellow costume, full ceremonial regalia, armor or sword on Zhao.
+- The robe retains the powerful shoulder line of the young officer in image 16, creating an appearance echo without repeating a battlefield.
+
+THE IMPERIAL CUP AND HAND — ONE NATURAL GESTURE:
+- Show only Zhao's anatomical right hand. It emerges naturally from the wide sleeve and holds one small shallow dark-lacquer or muted metal wine cup by the lower bowl and base.
+- The hand and cup move laterally toward the center-right, not toward the lens. The elbow remains comfortably near his torso, the wrist is straight and the cup stays upright.
+- The hand is normal-sized with exactly five coherent fingers wrapped naturally around the lower cup. No pointing finger, palm at camera, foreshortened giant hand or cup obscuring the face.
+- Zhao's other hand remains completely concealed in the resting wide sleeve near his lap. No second visible imperial hand and no hand-shaped cloth fold.
+- The cup occupies under three percent of the frame. It is a shared toast, not a weapon, command token or giant prop.
+
+THE OLD COMRADES — TRUST WITHOUT SUBMISSION:
+- Include only two or three veteran generals, physically strong men in their thirties and forties, as smaller seated figures around the middle and right side. Their faces are readable enough to show individual reactions but never compete with Zhao.
+- They wear dark blue-green, muted iron-blue or warm charcoal formal military robes with restrained remnants of command dress. No battlefield helmets on heads and no drawn weapons.
+- Every veteran sits upright at the same eye level. At least one meets Zhao's gaze directly with a restrained, understanding half-smile; another looks serious and reflective. Nobody lowers his head in fear, hunches, kneels, recoils, sweats, trembles or shields himself.
+- A fully sheathed sword and its unfastened belt lie horizontally and carefully across a low stand beside one seat. A loosened lamellar shoulder guard rests neatly against the stand. These are voluntarily relinquished command objects, not discarded wreckage, falling weapons or evidence of arrest.
+- Keep generals' hands inside sleeves, behind cups or below table edges. Use posture, level eyelines and the carefully settled objects to convey consent and gravity without risky hand clutter.
+
+BANQUET ACTION AND PHYSICAL LOGIC:
+- Three or four small cups sit at believable places on the open table arc. Zhao's raised cup and the mostly cropped viewer cup are the only cups in motion. No floating, tipping, duplicated or oversized vessels.
+- Add sparse grounded dishes and one restrained wine ewer, subordinate to faces and gesture. No crowded feast, banquet excess, modern place settings or chopstick errors.
+- Above the table, broad translucent amber smoke and expressive dry-brush currents travel openly from Zhao through the comrades and out toward the courtyard, like one continuous breath. Do not enclose anyone with black ink, form a circle of confinement or suggest a tightening trap.
+- Below table height, the sheathed sword belt and armor rest in cool but fully readable blue-gray shadow. Nothing drops, slides toward a foot or points at a person.
+- Freeze the cups just before contact. The not-yet-completed toast is the unfinished key moment.
+
+ENVIRONMENT — OPEN, INTACT AND WELCOMING:
+- An elegant, well-maintained early-Song palace banquet chamber in Kaifeng: warm pale plaster, clean dark timber, red-brown lacquer, one restrained painted folding screen with no symbols or writing, and two simple candle stands.
+- Open wood-lattice doors reveal a calm moonlit courtyard, clipped pines and a clean stone terrace. The opening gives the room air and dignity; it is not a threatening dark exit or guarded doorway.
+- The chamber is private and handsome, suitable for a founding emperor honoring old comrades. No ruin, prison, dungeon, damaged wall, soot-black chamber, oppressive vault, looming guards or closed trap.
+- No throne, grand audience hall, yellow-robed apparition, Chenqiao flashback or Gaoping battlefield. This image is entirely the cup-wine banquet.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Locked palette: clear candle amber, luminous lacquer red, warm umber, muted iron blue-green, pale warm plaster and quiet sword steel. Use deep umber as readable warm wood, not crushed blackness.
+- Abundant soft candlelight illuminates Zhao's complete face and reaches every veteran. Cool moonlight at the open lattice gently separates the background. The room is warm and open, never nocturnally sinister.
+- G1 maximum two percent: only tiny dull highlights on cup rims, sword-belt buckle and Zhao's belt fittings. No gold-leaf fields, gold dust, scattered gold flecks or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural painting and strong expressive ink motion. Use decisive drawn facial planes, mature anatomy, coarse mineral granules, broad translucent ink atmosphere, dry-brush edges and restrained metallic marks.
+- Subtle craquelure belongs only to the painted medium. All plaster, timber, lacquer furniture and architecture remain physically intact and clean.
+- No photoreal skin, live-action film still, smooth anime, glossy fantasy concept art or 3D CGI.
+
+HARD CHARACTER AVOIDS:
+sinister emperor, scheming court villain, manipulative puppet master, Cao Cao caricature, cruel tyrant, cold eyes, narrowed predatory eyes, lowered brow, one-sided smirk, secretive grin, menacing stare, shadow across eyes, face emerging from darkness, chin tucked in threat, pointed cup, interrogation pose, lonely ruler above subjects, frightened generals, bowed heads, hunched shoulders, kneeling, submission line, coercive arrest, guards surrounding table, social trap, black ink noose, enclosing smoke ring, claustrophobic room, dungeon, ruined palace, soot-black walls.
+
+HARD VISUAL AVOIDS:
+static emperor portrait, museum pose, frontal throne shot, centered hero, generic red-robed emperor, copy of Chai Rong, battlefield, horse, charge, armor on Zhao, yellow robe coup, Chenqiao flashback, generic drunken feast, roaring comedy, excessive laughter, drawn sword, fighting, falling weapon, cup aimed at camera, giant cup, giant hand, pointing finger, two visible imperial hands, malformed hand, extra fingers, modern restaurant table, modern dishes, excessive food, floating cup, floating weapon, vertical sword aimed at face, equal-sized generals, crowded faces, guard crowd, throne, dragon robe, mian crown, yellow costume, gold palace, gold dust, gold flecks, readable writing, pseudo-writing, Chinese characters, seals, symbols, diagram, UI, logo, watermark, photorealism, live-action still, smooth anime, glossy CGI, blood or gore.
+
+FINAL QA TARGET:
+Reject unless Zhao Kuangyin is immediately dominant and visibly echoes the young lower-left officer in approved image 16 while aged forward about seven years; his broad sincere smile, warm open eyes, level chin and expansive soldierly posture read as generous candor rather than calculation; the veterans sit upright at equal eye level and answer him with trust rather than fear; the scene is unmistakably a dignified cup-wine relinquishment of military command rather than a generic feast; the viewer participates inside an open friendly arc; exactly one correct imperial hand holds a small cup laterally; the viewer's cup is still several inches away so the toast remains unfinished; one sheathed sword belt and loosened armor are placed carefully and voluntarily beside a seat; the intact palace is bright, handsome and open to a moonlit courtyard; the palette is amber, lacquer red, warm umber and quiet steel with G1 under two percent; and there is no text, battlefield repetition, sinister expression, oppressive darkness or anatomy error.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor, the fixed expressive-ink anchor and the close crop derived from the lower-left young Zhao Kuangyin in approved image 16. Copied without modification into the repository candidate path as a 1672x941 PNG, 2,542,211 bytes. SHA256: 21928365950BCA18888754280B05B9BEDCA3AEB6976F90C4A961E850F6BE6780.
+
+Visual QA: The owner-rejected sinister v2 characterization is materially corrected. Zhao is the dominant far-left figure at the same seated level as his veterans, leaning openly into the company rather than looming over it. His complete face is warmly lit; the broad two-sided smile, visible laugh lines, level chin, relaxed cheeks and direct but un-narrowed eyes read as confident candor and old-comrade familiarity rather than a predatory smirk. A small residual of politically knowing confidence remains in the brow and gaze, but there is no cold eye line, facial shadow, one-sided grin or villain posture. His high nose, angular jaw, compact moustache and short beard, broad shoulders and red robe plausibly age forward the young lower-left mounted officer from image 16 without copying the battlefield. The tall black futou is complete and physically coherent, although its central crown reads more vertically box-like than the simplest hard-winged silhouette.
+
+The two visible veteran generals sit upright, make level eye contact and answer with restrained friendly expressions; nobody bows, hunches, kneels, recoils or appears detained. The viewer participates from the lower-right with a raised cup supported by a broad sleeve, while fingers remain concealed. Zhao's single visible cup hand is anatomically coherent with five plausible digits, a straight wrist and an upright cup. The cup gesture is diagonal-lateral and stops short of the foreground cup; mild perspective enlargement is present but does not become a giant hand or lens-pointing threat. A fully sheathed paired weapon or sword-belt assembly rests horizontally across a low stand with a lamellar armor section below it. The objects read as carefully set aside rather than dropped, though the belt buckle itself is not separately obvious at first glance.
+
+The palace is handsome, intact and substantially brighter than v2. Warm plaster, candlelit painted screens, clean lacquer furniture and the wide-open lattice framing a moonlit pine courtyard create dignity and breathing room rather than confinement. Sparse cups, dishes and one ewer are physically grounded. The warm amber, lacquer-red, umber, iron blue-green and quiet metal palette remains distinct from images 16 and 17; metallic highlights are restrained and there is no scattered gold field. The surface retains matte mineral granulation, drawn historical-manga facial planes and dry mural texture, although the image is calmer and less visibly swept by large ink currents than the series' most kinetic battle scenes, which suits this intimate political event. No readable text, pseudo-writing, logo, watermark, UI, ruin, battlefield repetition, floating object or obvious anatomy error. Keep as review candidate only; do not promote without explicit owner approval.
+
+Owner follow-up: The overall atmosphere and character relationship are accepted in direction, but Zhao Kuangyin reads slightly too lean for a lifelong cavalry commander. Preserve v3 as the atmosphere reference and use v4 for the controlled broader-physique revision.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v3-openhearted-comrades-toast.png
+
+Do not promote or update approved package state without explicit owner approval.

@@ -1,16 +1,13 @@
-PROMPT_VERSION: 2.3-camera-palette-identity-physics
+PROMPT_VERSION: 4-broader-soldier-build-controlled-edit
 ID: n-song-tai-zu
 ORDER: 18
 PERSONAL_NAME_ZH: 赵匡胤
 DISPLAY_ZH: 宋太祖
 STATUS: APPROVED — DO NOT REGENERATE
-SHOT_CODE: S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR
-COLOR_CODE: C18-AMBER-LACQUERRED-UMBER-STEEL-G1
-OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\18-n-song-tai-zu.png
-PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
-SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v3-openhearted-comrades-toast.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v4-broader-soldier-build.png
 
-=== POSITIVE PROMPT (copy verbatim) ===
+=== FINAL ENGLISH GENERATION PROMPT ===
 
 Use case: identity-preserve
 Asset type: controlled edit of one 16:9 historical-scene emperor-series key illustration
@@ -44,10 +41,26 @@ thin scholar build, narrow shoulders, frail neck, delicate courtier, obesity, po
 FINAL QA TARGET:
 The output must read as the same approved-direction v3 scene at first glance, with no perceptible change to mood, face, gesture, camera, supporting figures, props, architecture, lighting, color or medium. On closer comparison, Zhao alone must have shoulders, upper torso, neck and upper arms approximately ten to twelve percent broader and denser, making him convincingly a powerful former cavalry commander without becoming fat, exaggerated or visually larger than the existing composition can support.
 
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool as a controlled edit of the local v3 candidate after loading that target into the conversation context. Copied without modification into the repository candidate path as a 1672x941 PNG, 2,485,003 bytes. SHA256: D6E84F4579E0C71FBD87FBE7063F78CC5D768CE396E0C41512A8414003EA5C04.
+
+Visual QA: The requested single-variable change is successful. Zhao's left-to-right shoulder span, upper torso, neck base and upper arms are visibly denser than v3, and the red robe now falls over a broader chest and more substantial back. He reads as a powerful former cavalry commander seated in court dress rather than a narrow scholar, while remaining athletic, proportional and approximately thirty-four; there is no pot belly, obesity, exposed musculature, giant-body distortion or oversized head. His visual mass increases modestly without crowding the two veterans or changing the established far-left composition.
+
+The identity and emotional direction remain stable: the same high nose, angular jaw, compact moustache and short beard, warm open eyes, level chin and sincere two-sided smile are retained. There is no return to the cold narrowed gaze or sinister half-smile rejected in v2. The futou, robe color, belt and seated cup gesture remain coherent. The single visible cup hand connects plausibly to the fuller sleeve, the wrist remains straight, the cup stays upright, and five plausible digits are present without an extra hand or lens-pointing gesture.
+
+The two veterans remain upright, attentive and unafraid at the same eye level. Their expressions, robes and positions are preserved. The foreground viewer cup and sleeve, low lacquer tables, wine ewer, dishes, horizontally placed sheathed command weapons, lamellar section, candles, painted screens, open lattice, moonlit pine courtyard and full moon all retain the v3 spatial logic. Minor generative redrawing exists in surface details and folds, but no narrative object has been added, removed or materially displaced. The warm amber and lacquer-red chamber remains handsome, intact and open, with cool blue moonlight beyond; there is no darker or more oppressive mood shift.
+
+No readable text, pseudo-writing, logo, watermark, UI, floating vessel, malformed limb, battlefield repetition, ruined architecture or obvious perspective error.
+
+Owner approval: Explicitly approved and locked on 2026-08-08. Promoted by byte-identical copy from the v4 candidate to the formal output. Formal SHA256 remains D6E84F4579E0C71FBD87FBE7063F78CC5D768CE396E0C41512A8414003EA5C04.
 
 === SAVE CONTRACT ===
 
-Save one final PNG exactly to:
+Approved source candidate:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v4-broader-soldier-build.png
+
+Approved formal output:
 D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\18-n-song-tai-zu.png
 
-Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
+Do not regenerate, modify or overwrite either the approved candidate or the formal output.

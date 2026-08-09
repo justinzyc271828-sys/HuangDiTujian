@@ -1,0 +1,88 @@
+PROMPT_VERSION: 6-window-poison-reaching-fire-homeland
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: SUPERSEDED — OWNER REQUESTED FULL PRONE STRUGGLE, LARGER FIRE, FLAME-ONLY CITY AND INTACT RESIDENCE
+HISTORICAL_LAYER: Li Yu's death in Bianjing is historical; poisoning comes from a later Song anecdotal tradition; the deathbed burning of his own manuscripts and Jinling appearing in firelight are explicit poetic reconstruction
+SHOT_CODE: S17-V6-OUTSIDEWINDOW-DOWN15-COLLAPSE-REACH-FIREMEMORY
+COLOR_CODE: C17-V6-RAINBLUE-SOOT-PAPERIVORY-FIREORANGE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v6-window-poison-reaching-fire-homeland.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 exploratory key illustration for a unified Chinese-emperor series
+
+Create a completely new image, not an edit. This is an explicitly poetic historical reconstruction: Li Yu's death in Bianjing in 978 is historical; poisoning is drawn from a later Song anecdotal tradition; his deliberate deathbed burning of his own manuscripts and the lost Southern Tang capital appearing in firelight are imaginative symbolism.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga language, bold readable facial planes, heavy matte mineral-pigment mural grain and cracked pigment. Do not copy Qin costume, objects, pose, black-gold density or any gold.
+- Reference image 2 controls only expressive wet-ink motion, rain energy, smoke and flying-white edges. Do not copy its person or composition.
+- Reference image 3 controls Li Yu's mature facial identity, soft black futou, refined narrow-shouldered silhouette and restrained blue-gray captive-ruler clothing. Do not copy its surrender gate, standing pose, soldiers or architecture.
+- Reference image 4 is only a cautionary framing and atmosphere reference for looking through a rain-wet window at Li Yu. Do not copy its seated pose, hidden hands, table arrangement, exterior burning city or literal Qinhuai scenery outside the window. In the new image, the real exterior beyond the window is only rain-darkness; Jinling must exist solely inside the brazier's firelight and its projected memory on the interior wall.
+
+DECISIVE FIRST READ:
+The viewer stands outside a rain-wet window of Li Yu's confined Bianjing residence and peers inward. On the floor inside, the poisoned captive poet-emperor has just collapsed in violent abdominal pain. His anatomical left hand visibly clamps his lower abdomen; his anatomical right arm reaches forward along the floor toward a small brazier where his blank poem manuscripts are burning. The same orange firelight expands across smoke and a cracked interior wall into a spectral memory of Jinling and Qinhuai. The emotional sentence is: the dying poet-emperor reaches toward his burning words while his lost country burns only inside their light.
+
+CAMERA, WINDOW AND VIEWER POSITION:
+- The viewer is an unseen Song watchman standing outside under the eaves, not a visible character. No helmet, shoulder, hand or human silhouette in the foreground.
+- Look inward through one large open bay of a rain-wet wooden casement window. Use a 55–65 mm compressed perspective at approximately kneeling-to-lower-chest height, looking downward only 12–18 degrees so the prone body and both hands remain readable without becoming a flat overhead crime-scene view.
+- Wet wooden sill, one vertical side post and one upper crosspiece create a dark foreground frame occupying approximately twelve to sixteen percent of the image. No lattice bar crosses Li Yu's face, abdomen, either arm or either hand. The window must unmistakably separate the cold rainy exterior from the warm interior event.
+- The exterior visible around the opening contains only rain, black-blue night and a narrow eave edge. Absolutely no real city, bridge, palace, flames or Qinhuai landscape outside.
+- Inside, Li Yu occupies approximately fifty-eight to sixty-five percent of visual mass and is the largest, sharpest, highest-contrast single subject. His face is clearly readable inside the open window bay. The brazier occupies no more than twelve to fifteen percent and never blocks his face or reaching arm.
+- Arrange a strong diagonal: Li Yu's head and shoulders near upper center-left, torso and hips across center, legs trailing toward frame left; his right arm reaches laterally toward the brazier at lower right. The arm travels mostly parallel to the picture plane, not toward the camera, preventing extreme foreshortening.
+
+LI YU: IDENTITY, POISON PAIN AND COLLAPSED BODY:
+- Li Yu is an East Asian man aged forty-one or forty-two, refined and slightly gaunt, with melancholy arched brows, intelligent deep-set eyes, a straight narrow nose, thin moustache and tiny chin beard. Preserve the recognizable mature face from reference image 3. He remains visibly a fallen ruler and great poet, not an anonymous sick scholar.
+- He wears a complete soft black futou and a plain formal blue-gray wide-sleeved robe with a moon-white collar and only a faint faded-rose lining, plus dark soft shoes. The robe is dignified but captive and worn, with no crown, no dragon robe, no yellow, no armor and no gold.
+- Freeze the exact unfinished instant after he has fallen from a low writing place and before his reaching hand arrives. He lies partly on his left hip and side, chest turned enough toward the window for the face to be readable. His shoulders, ribcage and pelvis form one continuous natural twist.
+- One knee is pulled underneath and inward by the abdominal contraction; the other leg trails diagonally behind with a grounded soft shoe. Both legs connect clearly to one pelvis. No folded head-to-feet pose, no crawling-monster posture, no broken spine, no floating shoe and no impossible joint.
+- Pain is severe and immediate but dignified: clenched jaw, sharply knitted brows, sweat, tightened neck, arrested breath and contracted torso. No blood, gore, vomit, foam, horror scream or grotesque contortion.
+
+THE TWO NARRATIVE HANDS — NON-NEGOTIABLE:
+- His anatomical LEFT hand, seen near the center of his body, presses firmly over his lower abdomen through the robe. The forearm emerges naturally from the left sleeve. Show one anatomically correct hand with exactly five natural fingers held close together, not splayed; the palm conforms to the curved abdomen, the wrist remains straight, and the sleeve partly frames the wrist without swallowing the hand. If he faces generally toward the viewer, this anatomical left hand will appear on the viewer's right side of his torso.
+- His anatomical RIGHT arm extends from the right shoulder laterally across the floor toward the small brazier at frame right. The elbow remains slightly bent. Show the right hand in a low side-on or palm-down profile, reaching toward the last unburned sheet but not touching the flame. Exactly five natural fingers, relaxed but urgent, aligned with the forearm; no finger points directly at the lens. The wrist is not twisted, the hand is not oversized, and the arm never comes toward the camera.
+- Both hands must be clearly assigned to the correct shoulders and serve the user's action: left hand clutching the abdomen, right hand reaching forward. No extra hands, fused fingers, duplicated thumbs, missing digits, backwards palms, broken wrists or sleeve-shaped fake hands.
+
+BRAZIER, BURNING POEM MANUSCRIPTS AND PHYSICAL CAUSALITY:
+- Place one small low bronze brazier on the interior floor at lower right, close enough for the reaching gesture to make sense but far enough that his fingers are not inside the fire. It is the only real fire source in the entire image. The room itself is not burning.
+- Several fine ivory manuscript sheets are physically inside the brazier. The nearest paper edges are blackened, curled and actively burning; middle sheets are browning; one last pale sheet lies partly across the rim and points toward Li Yu's reaching hand. The sequence must read as deliberate manuscript burning, not random room fire.
+- All manuscript surfaces are blank or carry only broad non-symbolic diluted ink washes. Absolutely no readable Chinese characters, calligraphy, pseudo-writing, letters, seals, page borders, magical symbols or diagrams. Establish his poet identity through paper bundles, one grounded brush, one inkstone and the careful quality of the sheets, not through visible writing.
+- One air current governs the physics: fire and smoke lean gently upward-left, a few ash fragments follow that same flow, robe hems remain heavy on the floor. Do not create chaotic flying papers.
+
+THE LOST HOMELAND INSIDE THE FIRELIGHT:
+- The brazier's orange flame and smoke cast one enlarged, soft-edged pool of light onto the cracked rear interior wall behind Li Yu. Within that single pool of firelight, flame shapes, translucent smoke and existing mineral-pigment cracks gradually resolve into the memory of the fallen Southern Tang capital: a Jinling city gate silhouette, layered palace and riverside rooflines, one low Qinhuai bridge and a narrow strip of reflected water.
+- This city is not a literal miniature, not a portal and not a second physical location. It must share the wall's cracks and matte pigment texture, fade at the edges into smoke, remain partially incomplete, and read as a dying memory projected by fire. The real wall remains visible through it.
+- Only portions of Jinling are warm orange; the memory dissolves into soot-black and faded blue mineral pigment. There is no independent city fire and no second light source. The flame in the brazier, the orange highlights on Li Yu's face and reaching hand, and the wall-memory all share one consistent direction and one color.
+- Make the symbolism immediately legible without becoming fantasy spectacle: his words burn physically in the brazier; his country burns metaphorically inside their light.
+
+ENVIRONMENT AND STATUS:
+- A sparse Bianjing granted residence at night in 978: cracked plaster and mineral-pigment wall, dark floorboards or stone floor, low writing seat tipped behind him, one rolled porcelain medicine cup on the floor, restrained Song-period architecture. The tipped cup is small evidence, not a second focal point.
+- The rain-wet exterior window, confined interior, fallen formal clothing and fire-memory of Jinling together identify a watched captive former ruler. Do not rely on generic melancholy or imperial props.
+- Keep the room spare. No bed, throne, luxury palace hall, crowds, guards inside, servants, weapons or decorative clutter.
+
+COLOR AND UNIFIED SERIES MEDIUM:
+- Dominant palette: rain blue, soot black, muted blue-gray, paper ivory and restrained fire orange. Cold color remains approximately eighty-five to ninety percent; warm orange remains approximately eight to twelve percent and is concentrated in the brazier, Li Yu's firelit edges and the incomplete wall-memory.
+- Strict G0: no gold leaf, gilded trim, gold dust, gold flecks, metallic gold highlights or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural painting and strong expressive ink motion. Use decisive drawn facial planes, controlled adult anatomy, coarse mineral granules, cracked and flaking wall pigment, absorbent paper fibers, wet wooden window texture, rain beads, diluted ink smoke and flying-white rain strokes.
+- Preserve illustrated line and pigment structure. No photoreal skin, live-action cinematic still, smooth anime finish, glossy fantasy concept art or 3D CGI.
+
+HARD AVOIDS:
+static scholar portrait, calm writing scene, ordinary sickbed, seated man, standing man, hands hidden in both sleeves, left hand reaching while right hand clutches abdomen, hand reaching toward the camera, extreme hand foreshortening, giant foreground hand, malformed fingers, extra fingers, missing fingers, duplicated hands, disconnected arms, impossible prone anatomy, crawling horror creature, head touching feet, broken spine, floating legs, blood, gore, foam, screaming horror, visible real city outside the window, literal burning Jinling beyond the window, miniature city inside the brazier, magical portal, hologram, multiple fire sources, entire room burning, giant bonfire, paper not touching flame, readable writing, pseudo-writing, calligraphy, symbols, seals, crown, throne, dragon robe, yellow imperial costume, armor, sword, guards or servants inside, gold, gold flecks, photorealism, live-action film still, glossy CGI, smooth anime, modern objects, logo, watermark, caption, border or UI.
+
+FINAL QA TARGET:
+Reject unless the first read is unmistakably from outside a rainy window into the room; Li Yu is physically collapsed on the floor and remains the dominant recognizable protagonist; his anatomical left hand visibly and correctly clutches his abdomen; his anatomical right hand visibly and correctly reaches laterally toward the brazier; both hands have plausible wrists and exactly five natural fingers; his hips, knees, feet and torso form one coherent collapse; blank poem manuscripts physically burn in one small brazier; the lost Jinling and Qinhuai exist only as an incomplete firelight-smoke projection on the interior cracked wall; the real exterior contains only rain-darkness; and the rendering remains strict G0 mineral-mural historical manga with no text.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the two fixed series anchors, the v4 Li Yu identity reference and the v5c rain-window composition reference. Copied without modification into the repository candidate path as a 1672x941 PNG. SHA256: D54740D57465C656FE8211509FBEF7CBDCA626FED16E371F46DD1603E8C91606.
+
+Visual QA: The required narrative is immediately readable. The camera is outside a rain-wet wooden window; no guard body competes with Li Yu. Li Yu is the dominant subject, collapsed coherently on the floor with a clear pained face, one hand pressed into the lower abdomen and the opposite arm reaching toward the brazier. Both visible hands have plausible wrist connections and five natural digits; the reaching hand is slightly large and more open than the ideal low side-on profile, but it is not malformed and does not point directly into the lens. Hips, bent knee, trailing leg and grounded shoe remain connected under the robe. One small brazier physically burns the manuscript bundle, and the room is not on fire. The Jinling gate, roofs, Qinhuai bridge and water appear entirely on the cracked interior wall within the warm firelit area; there is no city outside the window. The wall-memory is more detailed and mural-like than the intended incomplete smoke projection, but it still shares the cracked wall texture and reads as a projected lost country rather than a second physical exterior. The papers contain faint ruled or ink guide lines rather than readable characters; no legible text, logo, watermark or UI is present. Color remains rain blue, soot black, blue-gray, paper ivory and restrained fire orange with no deliberate gold. Keep as a review candidate; do not promote without owner approval.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v6-window-poison-reaching-fire-homeland.png
+
+Do not promote or update approved package state without explicit owner approval.

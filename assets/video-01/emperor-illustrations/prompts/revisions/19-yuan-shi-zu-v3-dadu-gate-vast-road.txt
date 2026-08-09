@@ -1,0 +1,107 @@
+PROMPT_VERSION: 3-dadu-gate-vast-road-single-real-space
+ID: yuan-shi-zu
+ORDER: 19
+PERSONAL_NAME_ZH: 忽必烈
+DISPLAY_ZH: 元世祖
+STATUS: SELF-REJECTED — OVERSIZED BACK ROUNDEL, PSEUDO-ORNAMENT AND SCATTERED GOLD FLECKS
+HISTORICAL_LAYER: Kublai's establishment of Dadu and the Yuan relay system are historical; the exact gate-tower dispatch moment is a controlled visual reconstruction designed to express administrative reach in one physically coherent location
+SHOT_CODE: S19-GATETOWER-EYE-REAR3Q-DEEPAXIS
+COLOR_CODE: C19-DADURED-STEPPEGREEN-COBALT-SILVER-LEATHER-G1
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v3-dadu-gate-vast-road.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 emperor-series key illustration
+
+Create a completely new composition for Kublai Khan, Yuan Shizu, expressing the immense reach of his empire through one physically continuous real place. Depict a controlled reconstruction of an imperial relay dispatch from a high gate-tower terrace on the central axis of Dadu. The Yuan capital and the relay system are historical; the exact instant is an artistic reconstruction. Do not reuse, edit, imitate or spatially continue the rejected relief-map scene.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga anatomy, decisive facial planes, dominant protagonist scale and heavy matte mineral-pigment mural grain. Do not copy Qin clothing, seal, map, desk, frontal stamping pose, ochre-black-gold density or exact composition.
+- Reference image 2 controls only forceful expressive ink direction, flying-white edges and motion carried through real space. Do not copy its person, palette, props or exact composition.
+
+DECISIVE FIRST READ — ONE REAL TERRACE, ONE REAL ROAD, ONE HORIZON:
+The viewer stands inside the shadowed doorway of a real Dadu gate tower and looks outward across its high timber-and-stone terrace. Elderly Kublai Khan stands in the right foreground beside a clearly built red-lacquer parapet, his broad heavy body turned three-quarter toward the open country and his complete face turning left toward the departing riders. Below the terrace, enormous real city gates have just opened. Three relay couriers burst away in successive depth down one broad straight avenue that passes through a second gate, leaves the capital and continues across the actual steppe toward a vast single horizon. A camel caravan and two wagon groups move on distant parallel tracks, while small relay compounds repeat at believable intervals. The emotional sentence is: from one capital gate, his orders can travel farther than the eye can follow.
+
+ABSOLUTE PHYSICAL-SPACE RULE:
+Everything beyond Kublai is full-scale real architecture and full-scale real landscape viewed from a high terrace. The foreground is a real floor, a real parapet and a real doorway. The middle distance is a real gate complex, avenue, riders, carts and city wall. The background is a real steppe and one atmospheric horizon. No surface changes identity. No terrace floor becomes terrain. No map becomes grass. No tabletop becomes a city. No rider is a model piece. Do not show any map, relief map, sand table, command table, desk, diorama, miniature city, miniature mountain, province block, globe, split screen, layered geographic collage, sea splice or magical transition.
+
+CAMERA AND COMPOSITION — LOCKED:
+- Standing-envoy eye level from just inside the shadowed gate-tower doorway, looking outward and downward approximately eight degrees.
+- Use a 26 mm wide environmental lens with a level horizon and strong but credible central-axis perspective.
+- Kublai occupies the right-center foreground and approximately fifty-two to fifty-eight percent of frame height, remaining the largest, sharpest and darkest single subject.
+- Show his body in a broad left-facing rear three-quarter stance, but turn his head enough toward the left-front for both eyes, nose, moustache and beard structure to remain readable. His face must never be hidden in pure back view or reduced to a tiny profile.
+- The central avenue begins below and slightly left of Kublai, runs through one complete open gate and one smaller successive gate, then narrows continuously toward the center-left horizon. It does not originate under his body and does not cross his face.
+- A thick red-lacquer parapet with a stone base must make an unmistakable hard architectural boundary across the lower-right middle foreground. Show visible terrace planks or stone slabs between the doorway and parapet. These surfaces remain flat constructed architecture and never resemble a painted map.
+- Use six depth layers: cropped dark doorway and arriving envoy sleeve; terrace floor and parapet; Kublai; gate roof and first relay riders below; second gate, city-edge buildings, caravan and relay compounds; continuous steppe road, low mountains, sky and single horizon.
+- Reserve approximately forty-five percent of the frame for open cobalt sky, atmospheric distance and receding land so the empire feels immense without shrinking Kublai below protagonist scale.
+- Do not use a bird's-eye god view. The high view is fully explained by the visible gate-tower terrace beneath the viewer and Kublai.
+
+VIEWER PARTICIPATION:
+- The viewer is a travel-worn envoy who has just reached the gate-tower audience point from a far province. Place only one cropped dark muted-red travel sleeve at the extreme lower-left edge, with no visible hand, face or body.
+- The open doorway casts a dark vertical edge at far left and a shallow shadow across the terrace floor, so the viewer unmistakably stands inside built architecture rather than in open grass.
+- One nearest courier passes below the parapet and away from the viewer, pulling the gaze into the avenue. Nothing charges the lens or floats toward the viewer.
+
+THE UNFINISHED EVENT:
+- Freeze the instant after Kublai has released the relay riders but before the last courier clears the first gate shadow.
+- Kublai's broad right sleeve is still lowering from a compact dispatch signal. Keep the right hand completely hidden inside the heavy sleeve; express motion through the sleeve arc, shoulder and robe folds, not exposed fingers.
+- His left hand remains hidden at his belt beneath the overlapping robe. No visible imperial hand is required.
+- The nearest relay courier is entering sunlight below, the second crosses the first gate threshold, and the third is only beginning to accelerate farther down the avenue. Their increasing distance and diminishing scale must be exact and readable.
+- A small blank aged-bronze paiza hangs securely from the nearest courier's belt on a short dark cord. It is a minor historically specific object under one percent of the image, never a focal object, never airborne and never readable.
+- Long horse shadows, road dust and flying-white ink extend away along the avenue. Motion comes from real hooves, wheels, wind and perspective, not glowing lines or infographic routes.
+
+KUBLAI KHAN — DISTINCT ELDERLY KHAN-EMPEROR:
+- East Asian Mongol man approximately sixty-four, broad square weathered face, high cheekbones, deep-set dark eyes, broad nose, weather-reddened tan complexion, heavy powerful body, thick neck and large rounded shoulders.
+- Sparse gray moustache, divided gray chin beard and restrained gray side braids in a historically grounded nuqula-associated Mongol hairstyle. Do not give him an enormous fantasy beard, smooth young face or generic Han scholar appearance.
+- Calm, far-seeing administrative authority. His narrowed gaze follows the departing road with contained satisfaction and burden, not menace. Closed mouth, no teeth, no villain sneer, no shouting conqueror expression and no sentimental smile.
+- The face receives clear open daylight and remains the highest-detail human face. Background riders and envoys have no competing facial detail.
+
+KUBLAI'S COSTUME:
+- Low off-white felt-and-dark-leather Mongol court cap with a restrained rounded crown, dark band and practical side construction. No Chinese mian crown, tall winged official hat, fur fantasy crown, helmet or excessive jewel ornament.
+- Deep cobalt-blue Yuan court robe with a crossed or wrapped Mongol front, broad sleeves, heavy woven fabric, muted silver-gray edging and very restrained dark palace-red accents. The robe combines Mongol court construction with refined Yuan imperial textile quality without becoming a bright yellow Chinese dragon robe.
+- Broad dark leather belt with one pale jade hook and small oxidized bronze fittings. No giant buckle, gold field, decorative armor, sword display or ceremonial throne.
+- Robe hem, sleeve and side braids move in the same outward steppe wind. The body remains weighty and grounded on the terrace.
+
+DADU GATE-TOWER TERRACE — REAL ARCHITECTURE:
+- Use a substantial Yuan-period timber gate tower: deep muted palace-red columns and parapet, dark gray-green tiled eaves, heavy wood brackets, pale stone terrace base and broad open gate below.
+- Architecture follows one consistent perspective. Columns are vertical, parapet rails converge toward the avenue's vanishing point, and roof scale decreases naturally with depth.
+- The first gate doors are enormous red-brown timber leaves opened inward below the terrace. The second gate is smaller only because it is farther away.
+- Show a restrained band of real city-edge roofs between the gates and the outer wall, then let the main avenue pass into open steppe. Do not create modern Beijing, Forbidden City architecture, Ming-Qing yellow roofs or fantasy megacity density.
+- No furniture stands on the terrace: no throne, stool, campaign table, writing desk, map platform, brazier or freestanding display.
+
+THE VAST IMPERIAL ROAD — SCALE THROUGH RECESSION:
+- One broad packed-earth avenue is physically connected from the gate below to the far horizon. Wheel ruts, hoof tracks, drainage edges and road dust all obey one vanishing point.
+- Three relay couriers and their horses diminish in exact proportion with distance. The nearest is still subordinate to Kublai and seen mostly from above and behind; the farthest is a small silhouette, never a toy on a map.
+- Place two or three full-scale relay station compounds at progressively greater distances beside the road: timber gates, low stables, tether rails and small flags with no writing. Each compound sits on the ground with contact shadows.
+- A small camel caravan enters from a distant side track, while two ox or horse carts move on another branch. They suggest different regions and long-distance exchange without costumes becoming caricatures.
+- Low blue-gray mountains and an immense wind-combed steppe form one continuous horizon. Atmospheric haze softens distant structures and proves real scale.
+- Do not show an ocean, ships, maritime wake, all of Eurasia, multiple climates or separate geographic zones. Vastness comes from believable depth, traffic and the road beyond sight, not from cramming every territory into one panorama.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Locked palette: deep Dadu palace red, steppe green and dry olive, clear cobalt sky, silver-gray felt and stone, cobalt robe, saddle-leather brown and small oxidized bronze accents.
+- G1 maximum two percent. Aged bronze appears only on the courier's tiny paiza, harness fittings and Kublai's small belt fittings. No gold leaf, gold dust, scattered gold flecks, gilded roofs or black-gold overlay.
+- Clear late-morning daylight enters from upper-left. It lights Kublai's complete face, cap edge and robe shoulder, then travels down the real avenue. The doorway and interior foreground remain cool and dark; all outdoor shadows agree with the same sun.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural grain and forceful expressive ink movement. Use decisive mature facial planes, coarse cobalt and malachite granulation, flaking palace red, dry-brush road dust, wind-combed grass, worn timber, stone abrasion and long perspective-aligned flying-white strokes.
+- Mural cracks and dry brush follow the road's recession and steppe wind but remain surface texture, never literal cracks splitting the landscape into panels.
+- No photoreal skin, live-action film still, smooth anime, glossy fantasy concept art or 3D CGI.
+
+HARD AVOIDS:
+map, relief map, map table, campaign table, command desk, desk in grass, table outdoors, sand table, terrain model, diorama, miniature city, miniature mountains, toy riders, province blocks, colored political map, map becoming grass, tabletop becoming landscape, surreal scale transition, split screen, triptych, geographic collage, steppe and sea splice, ocean, ships, glowing routes, neon network, magical beams, floating paiza, giant paiza, readable inscription, pseudo-writing, emperor posing over a world map, generic throne portrait, seated portrait, frontal low-angle hero, hidden face, tiny emperor, young Kublai, generic Genghis Khan, sinister conqueror, screaming warlord, enormous beard, Chinese mian crown, Ming-Qing court hat, yellow dragon robe, European armor, Japanese armor, modern Beijing, Forbidden City copy, yellow glazed palace roofs everywhere, floating architecture, crooked parapet perspective, road with multiple vanishing points, riders without ground shadows, horses facing random directions, courier charging the camera, exposed malformed hand, extra fingers, extra imperial hand, gold dust, gold flecks, black-gold overlay, text, pseudo-writing, Chinese characters, letters, UI, radar chart, logo, watermark, blood, gore, photorealism, smooth anime, glossy CGI.
+
+FINAL QA TARGET:
+Reject unless the first read is an elderly, heavy-bodied Kublai Khan standing on a visibly real high Dadu gate-tower terrace as relay couriers depart below into an immense real landscape; the doorway, terrace floor, parapet, gate, avenue, relay compounds, caravans, steppe and single horizon all occupy one continuous perspective and one coherent scale; there is absolutely no map, table, diorama, miniature terrain, sea splice or surface transformation; Kublai remains the largest subject at fifty-two to fifty-eight percent frame height with a clear complete face, Mongol cap, gray beard and cobalt Yuan robe; both imperial hands remain safely hidden; the nearest courier's tiny blank paiza hangs from a belt rather than flying; the road and riders diminish naturally toward one vanishing point; the viewer stands inside the shadowed doorway as an arriving envoy; Dadu red, steppe green, cobalt, silver gray and leather brown form a bright open G1 palette; and there is no text, pseudo-writing, gold overlay, floating object, malformed horse, broken perspective or live-action realism.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor and fixed expressive-ink anchor. Copied without modification into the repository candidate path as a 1672x941 PNG, 3,085,924 bytes. SHA256: 057617526491D2D588D056BA9603F26C63E85820C9E22BB9AD22A182B2931383.
+
+The complete spatial reconstruction succeeds. The dark doorway, terrace slabs, red parapet, open real gate, full-scale road, three receding couriers, station buildings, carts, camel caravan, steppe, mountains and one horizon all obey one continuous perspective. Nothing transforms from a map into landscape, no table stands in grass, and no rider reads as a model piece. The visible terrace architecture fully explains the high view. Kublai remains the largest subject with a clear elderly Mongol face, heavy body, low felt-and-leather cap, side braids and cobalt robe. The open gates and riders at three depths freeze an unfinished dispatch, while the long road and atmospheric horizon communicate territorial reach through real recession rather than geographic collage.
+
+Self-reject only for a bounded costume-surface violation. The generator added one oversized circular embroidered roundel across the back of the robe, including small ring marks that resemble pseudo-writing or a symbolic seal, although the design asked for plain restrained Yuan court cloth. It also scattered many warm yellow-gold flecks across the robe, sky and architecture and rendered the belt trim too bright, recreating a series-wide gold-speckle treatment above the G1 ceiling. These are localized surface defects. Preserve the composition, physical space, identity, pose, gate, couriers, road, caravan, landscape, lighting and all perspective exactly; remove only the back roundel, pseudo-ornament and scattered gold treatment in the second and final attempt.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v3-dadu-gate-vast-road.png
+
+Do not create or overwrite the formal output and do not update approved package state without explicit owner approval.

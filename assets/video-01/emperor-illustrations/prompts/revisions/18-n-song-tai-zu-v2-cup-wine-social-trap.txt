@@ -1,0 +1,94 @@
+PROMPT_VERSION: 2-cup-wine-social-trap-zhao-continuity
+ID: n-song-tai-zu
+ORDER: 18
+PERSONAL_NAME_ZH: 赵匡胤
+DISPLAY_ZH: 宋太祖
+STATUS: REJECTED — OWNER REJECTED SINISTER AND OPPRESSIVE CHARACTERIZATION
+HISTORICAL_LAYER: the early-Song removal of senior commanders is historical; the complete cup-wine dialogue and simultaneous visible laying-down of armor are treated as a controlled traditional dramatization rather than a documentary reconstruction
+SHOT_CODE: S18-EYE-SEATEDPOV-OFFCENTER-MS-CIRCULAR
+COLOR_CODE: C18-AMBER-LACQUERRED-UMBER-STEEL-G1
+CONTINUITY_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png — age forward the young Zhao Kuangyin in the lower-left mounted countercharge by about seven years; do not copy Chai Rong or the battlefield
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v2-cup-wine-social-trap.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one new 16:9 emperor-series key illustration
+
+Create a completely new image, not an edit. Reconstruct the traditional early-Song “cup of wine releases military command” banquet as a restrained political action scene. The reduction of senior commanders' military power is historical; the complete banquet dialogue and the simultaneous visible laying-down of armor are a controlled visual dramatization rather than literal documentary reconstruction.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult non-photoreal Chinese historical-manga language, bold protagonist dominance, decisive facial planes and heavy matte mineral-pigment mural grain. Do not copy Qin costume, objects, frontal seal-impact pose, black-gold density or gold distribution.
+- Reference image 2 controls only expressive ink force, smoky circular motion and flying-white edges. Do not copy its person or composition.
+- Reference image 3 is a close crop derived from the lower-left young Zhao Kuangyin in the approved image 16. Age that same young cavalry officer forward by approximately seven years into the thirty-four-year-old founding emperor: preserve the high strong nose, angular military jaw, straight dark brows, deep watchful eyes and broad soldier shoulders. Do not copy his helmet, armor, horse, spear, battlefield, dust, flags or charging pose. Do not use the dominant Chai Rong from image 16 as the identity.
+
+DECISIVE FIRST READ:
+At an intimate night banquet in the early Song palace, the thirty-four-year-old general-emperor Zhao Kuangyin sits on the far-left side of a curved dark-lacquer banquet circle. He turns rightward across the table with an easy, almost brotherly smile, but his eyes stay cold, alert and fixed on the viewer. One small wine cup remains suspended in his visible hand, moving laterally across the circle rather than toward the lens. Around the viewer and table edge, veteran founding generals have just understood the unspoken threat: one sword belt is sliding from a lap into the cool shadow beneath the table, and loosened armor is being set aside. Freeze before the cup is accepted and before the sword belt touches the floor. The emotional sentence is “a warm toast becomes an irreversible transfer of military power.”
+
+CAMERA AND VIEWER PARTICIPATION — LOCKED:
+- Seated guest eye level from inside the banquet circle. The viewer is one armed founding general being addressed, not an outside observer.
+- Use a natural 40 mm medium-wide view, level and deceptively calm. No low-angle hero view, no overhead view and no frontal throne symmetry.
+- Place Zhao Kuangyin on the far-left third in a relaxed right-facing three-quarter pose. His torso remains clearly angled across the table; only his eyes meet the viewer. Approximately seventy percent of his face and both eyes remain readable.
+- Zhao occupies approximately fifty-eight to sixty-four percent of visual mass and is the largest, sharpest and warmest single figure. His head and torso fill the left-to-center field without cropping the complete hard-winged futou.
+- A broad period-appropriate arrangement of low dark-lacquer banquet tables forms a shallow arc or broken circle through the lower half of the frame, never a modern restaurant table. The curve encloses the viewer socially and guides the eye from the foreground cup to Zhao's face.
+- Use four depth layers: a very low cropped viewer-side cup and armored wrist; curving table rim and unsettled weapons; dominant Zhao; dim palace wall, candle stands and closed night doorway.
+- The viewer's forearm occupies under six percent at the extreme lower-right. Hide all viewer fingers behind a broad dark sleeve or cropped wrist guard. The viewer's cup rests low beside the forearm and never blocks Zhao.
+
+ZHAO KUANGYIN — CONTINUITY, AGE AND IDENTITY:
+- East Asian man about thirty-four, the same person as the young lower-left cavalry officer in approved image 16, aged forward naturally from hard-fighting Later Zhou commander to founding Song emperor.
+- Preserve a tall high-bridged nose, angular broad jaw, straight heavy brows, deep-set dark eyes, a compact trimmed moustache and very short chin beard, sun-warmed medium complexion and broad military shoulders. The face is strong and recognizably soldierly, not a soft court scholar, generic bearded emperor or copy of Chai Rong.
+- His mouth gives a small genuine-looking comrade's smile; his eyes do not smile. Avoid a theatrical villain smirk, rage, drunken laughter or blank ceremonial stare. He looks relaxed because he controls the room.
+- Complete black hard-winged futou, fully visible and historically restrained. Deep lacquer-red to oxblood early-Song round-collar imperial robe with wide controlled sleeves, dark umber leather belt and only tiny dull metal belt fittings. No mian crown, dragon robe, yellow imperial costume, full ceremonial regalia, armor or sword on Zhao.
+- The formal robe follows the same powerful shoulder line seen beneath the young officer's armor in image 16, creating the visual echo without repeating a battle scene.
+
+THE IMPERIAL CUP AND HAND — ONE CLEAR GESTURE:
+- Show only Zhao's anatomical right hand. It emerges naturally from the sleeve and holds one small shallow metal or dark lacquer wine cup by the lower bowl and base at chest-to-table height. The cup travels laterally toward the center-right general, not forward toward the camera.
+- The wrist stays straight, the cup remains upright, and the hand is normal-sized with exactly five coherent fingers wrapped naturally around the lower cup. No pointing finger, no palm aimed at the lens and no extreme foreshortening.
+- Zhao's other hand remains completely concealed inside the resting wide sleeve near his waist. No second visible imperial hand or ambiguous hand-shaped cloth fold.
+- The cup is a political instrument, not a giant prop. It occupies under three percent of the frame and does not cross Zhao's face.
+
+THE GENERALS AND THE UNFINISHED TRANSFER OF POWER:
+- Include only two or three veteran generals as subordinate cropped edge figures and dark partial silhouettes around the near and right side of the banquet circle. They are physically strong men in their thirties and forties, but their faces remain smaller, partly turned away or partly shadowed. None competes with Zhao.
+- They wear dark blue-green or charcoal formal military robes with restrained remnants of command dress: one loosened lamellar shoulder guard, one unfastened sword belt and one dark scabbard. No full battlefield helmets on heads and no active combat posture.
+- Freeze one sword belt halfway down from the nearest general's lap, its buckle and attached scabbard descending into the cool blue-black under-table shadow before touching the floor. A removed shoulder guard rests against a table leg. Another sheathed sword lies horizontally and safely away from all feet.
+- Generals' hands remain hidden by table edges, broad sleeves or crop. The surrender is conveyed through downward objects, tense shoulders, interrupted cups and eyelines, not a forest of risky hands.
+- No one kneels, fights, draws a sword or is physically arrested. The pressure is social, intimate and inescapable.
+
+BANQUET ACTION, TABLE PHYSICS AND SYMBOLIC MOTION:
+- Three or four small cups sit at believable positions on the curved table; one nearest cup has just been set down and its wine surface still ripples. No cup floats, tips impossibly or duplicates.
+- Sparse food dishes and one wine ewer remain subordinate and physically grounded. No feast clutter, modern round-table spread, chopstick errors or overflowing luxury.
+- Candle smoke and broad dark ink currents form one subtle clockwise circular flow around the banquet group, tightening toward Zhao's suspended cup. This is painterly motion, not a literal magical ring, rope, aura or diagram.
+- Above the table, cups circulate laterally in warm amber light. Below the table, sword belts, scabbards and armor descend laterally into cold shadow. These opposite layers visualize “wine above, military power below.”
+
+ENVIRONMENT AND HISTORICAL MOOD:
+- Intimate, intact early-Song palace banquet chamber in Kaifeng at night: dark lacquer beams, muted warm plaster, one restrained painted screen with no symbols or writing, two simple candle stands, a closed or nearly closed doorway showing only blue-black night.
+- No throne, grand audience hall, giant columns, gold palace spectacle, guards crowding the room, yellow robe apparition or Chenqiao flashback. This image is entirely the cup-wine banquet and must not repeat the Gaoping battlefield or the yellow-robe coup.
+- The room feels private enough for old comrades and controlled enough that no refusal is possible.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Locked palette: candle amber, deep lacquer red, dark umber, charcoal blue-green and quiet sword steel. Warm circular candlelight shapes Zhao's face and red robe; a distinct cool blue-black shadow under the table receives the relinquished weapons.
+- G1 maximum two percent: only tiny dull highlights on the cup rim, sword-belt buckle and Zhao's belt fittings. No gold leaf fields, gold dust, scattered gold flecks or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural painting and expressive ink motion. Use decisive drawn facial planes, controlled mature anatomy, coarse mineral granules, smoky circular brush currents, dark lacquer planes, dry-brush edges and restrained metallic marks.
+- The depicted palace remains intact; subtle craquelure belongs to the painted medium rather than literal structural ruin.
+- No photoreal skin, live-action film still, smooth anime, glossy fantasy concept art or 3D CGI.
+
+HARD AVOIDS:
+static emperor portrait, museum pose, frontal throne shot, centered hero, generic red-robed emperor, copy of Chai Rong, battlefield, horse, charge, armor on Zhao, yellow robe coup, Chenqiao flashback, happy drinking party, boisterous feast, drunken laughter, villain smirk, overt menace, arrest, kneeling generals, drawn sword, fighting, cup aimed at camera, giant cup, giant hand, pointing finger, two visible imperial hands, malformed hand, extra fingers, modern restaurant round table, modern dishes, excessive food, floating cups, floating weapons, vertical sword aimed at face, equal-sized generals, crowded faces, guard crowd, throne, dragon robe, mian crown, yellow costume, gold palace, gold dust, gold flecks, readable writing, pseudo-writing, Chinese characters, seals, symbols, diagram, UI, logo, watermark, photorealism, live-action still, smooth anime, glossy CGI, blood or gore.
+
+FINAL QA TARGET:
+Reject unless Zhao Kuangyin is immediately dominant and visibly echoes the young lower-left officer in approved image 16 while aged forward about seven years; the scene is unmistakably the cup-wine transfer of military power rather than a generic banquet; the viewer sits inside the circle as one addressed general; Zhao remains far-left in a readable right three-quarter pose with a warm smile and cold eyes; exactly one correct imperial hand holds a small cup laterally rather than toward the lens; generals remain subordinate while one sword belt and loosened armor descend plausibly into the cool under-table shadow; the palace is intact; the palette is amber, lacquer red, umber and steel with G1 under two percent; and there is no text, battlefield repetition or anatomy error.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the fixed primary style anchor, the fixed expressive-ink anchor and a close crop derived from the lower-left young Zhao Kuangyin in approved image 16. Copied without modification into the repository candidate path as a 1672x941 PNG. SHA256: 357C9ECC39F4B1F62AE694BE5342E5D6E23D2E7CD06B80E724063530F6E926D7.
+
+Visual QA: The scene reads immediately as a political banquet rather than a battlefield or generic emperor portrait. The viewer sits inside the horseshoe-shaped banquet circle behind one cropped dark general, while Zhao dominates the far-left field in a right-facing three-quarter seated pose. His high nose, angular jaw, compact moustache and beard, dark watchful eyes and broad military shoulders plausibly age forward the young lower-left cavalry officer from image 16 without copying Chai Rong, armor, horse, flags or Gaoping. The small smile and direct cold gaze carry the intended “warm toast, hard politics” contrast. One visible imperial hand connects naturally to the sleeve, has five coherent digits and holds one small upright cup; the hand and cup are slightly more foreground-prominent than the ideal strictly lateral gesture but are not distorted and do not block the face. The black hard-winged futou is complete, though its crown is somewhat taller and more architectonic than the simplest early-Song silhouette. Zhao's red banquet robe is restrained and soldierly; its dark neckline reads more as layered collar construction than a perfectly explicit round collar. Three generals remain subordinate, partly shadowed or turned away. The hanging sword belt, lowered scabbard and detached lamellar pieces occupy the cool under-table shadow with plausible gravity and make the transfer of command visible, even though the hanging belt reads symbolically rather than as a hand-observed unbuckling action. The intact chamber, candle amber, lacquer red, umber and steel palette, clockwise smoky brush arc and blue-black doorway distinguish this strongly from images 16 and 17. Gold remains limited to dull cup, belt and armor edges without a scattered gold-leaf field. No readable text, pseudo-writing, logo, watermark or UI. Keep as a review candidate; do not promote without owner approval.
+
+Owner rejection: The cold narrowed gaze, closed dark room, half-smile and bowed generals collectively mischaracterize Zhao Kuangyin as a sinister coercive schemer. This contradicts the required openhearted, generous, soldierly image and the unusually trusting treatment of his Later Zhou comrades. Preserve the file only as a rejected diagnostic; do not promote or reuse its facial expression, oppressive lighting or submission dynamics.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\18-n-song-tai-zu-v2-cup-wine-social-trap.png
+
+Do not promote or update approved package state without explicit owner approval.

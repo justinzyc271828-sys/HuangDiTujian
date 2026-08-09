@@ -1,0 +1,71 @@
+PROMPT_VERSION: 2-grounded-paiza-hand-scale-controlled-edit
+ID: yuan-shi-zu
+ORDER: 19
+PERSONAL_NAME_ZH: 忽必烈
+DISPLAY_ZH: 元世祖
+STATUS: OWNER REJECTED — MAP, GRASSLAND AND CITY COLLAPSE INTO ONE UNREADABLE PHYSICAL SCALE
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v1-paiza-network-horizon.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v2-grounded-paiza-hand-scale.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit
+Asset type: controlled physics correction of one 16:9 historical-scene emperor-series key illustration
+
+INPUT IMAGE ROLE:
+Image 1 is the complete edit target. Preserve it aggressively. This is not a redesign, restaging, reframing, costume change, identity change or atmosphere change.
+
+PRIMARY REQUEST — CORRECT ONLY THE RELEASE-GESTURE PHYSICS:
+Keep the entire source image unchanged except for Kublai Khan's visible releasing hand and the small bronze paiza on the foreground relief map. Make the hand approximately twelve percent smaller and lower it slightly so it remains naturally connected to the same cobalt sleeve. Ground the paiza onto the map surface so it is physically skidding rather than hovering.
+
+HAND CORRECTION:
+- Preserve the same anatomical right hand, same palm-down release gesture, same skin tone, same sleeve connection and same five coherent fingers.
+- Reduce the hand's total scale by approximately twelve percent relative to Kublai's face and forearm.
+- Keep the wrist straight and the fingers relaxed, slightly closer together and less dramatically splayed.
+- Lower the hand only enough to clarify a low lateral release. It must remain behind the paiza in the direction of travel and must not touch the plaque again.
+- Do not add another hand, change the hidden left hand, point at the lens, crop fingers or alter Kublai's pose.
+
+PAIZA CORRECTION:
+- Preserve the same single small worn aged-bronze rectangular travel pass with rounded shoulders, suspension hole and completely blank surface.
+- Lower it onto the relief map. Its entire long lower edge, or at minimum one long edge and one corner, must visibly scrape the physical map surface.
+- Add a tight dark contact shadow directly beneath the touching edge and a very short dry mineral-dust scrape behind it. The plaque remains in unfinished left-to-right motion but never levitates.
+- Remove the bright white vapor, magical glow and open air gap beneath the plaque. Motion comes only from the contact scrape, one displaced grain line and the existing road direction.
+- Keep the paiza under two percent of the frame. Do not enlarge it, duplicate it, turn it into a seal, coin, weapon or glowing talisman, and do not add writing or pseudo-writing.
+
+ABSOLUTE INVARIANTS — DO NOT CHANGE:
+- Preserve the exact 16:9 crop, high twenty-degree rear three-quarter camera, level horizon, lens behavior and all perspective lines.
+- Preserve Kublai's identity pixel-faithfully in spirit: elderly turned face, calm stern gaze, broad nose, cheekbones, moustache, thin gray beard, nuqula-style braids, low off-white felt and dark leather cap, heavy body, cobalt robe, belt and jade hook.
+- Preserve his facial expression, head angle, shoulder silhouette, body scale, hidden left hand and every robe fold outside the small wrist connection area.
+- Preserve the cropped envoy sleeve at lower-left, saddle leather at lower-right, the complete relief map, every route cord and pin, mountain, river and map edge.
+- Preserve every relay rider, horse, station tower, yurt, road, fence, Dadu wall, gate, avenue, roof, vessel, coastline, mountain, cloud and sky stroke in the same position and scale.
+- Preserve the steppe-green, cobalt, turquoise, saddle-brown, muted-red and silver-gray palette; the open daylight; G1 aged bronze budget; matte mineral-mural grain; adult historical-manga face; and flying-white sky and road dust.
+- Preserve the absence of readable text, pseudo-writing, UI, map labels, gold dust, black-gold overlay, modern objects, battle and gore.
+
+AVOID:
+hovering paiza, airborne paiza, glowing paiza, magical vapor, white aura, floating object, plaque with no contact shadow, giant plaque, duplicate plaque, readable inscription, pseudo-writing, oversized hand, splayed giant fingers, extra finger, missing finger, malformed wrist, hand aimed at camera, second imperial hand, changed face, changed cap, changed costume, changed body, changed riders, changed city, changed sea, changed map, different composition, darker mood, photorealism, smooth anime, glossy CGI, text, logo or watermark.
+
+FINAL QA TARGET:
+The output must read as the same successful v1 scene at first glance. Only on close comparison should the visible right hand be approximately twelve percent smaller and more proportional, with five coherent relaxed fingers, while the single blank bronze paiza is unmistakably in physical contact with the relief map through one scraping edge and a tight contact shadow. There must be no bright vapor, magical glow or air gap below the plaque, and no other identity, composition, object, color, lighting or medium change.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool as a controlled edit of the local v1 candidate after loading that target into the conversation context. Copied without modification into the repository candidate path as a 1672x941 PNG, 2,931,395 bytes. SHA256: 4C81DA78CEE504F3209F3D1CFAA16BE5C87D26A5B10169FBC51D3583A7A288B4.
+
+Thirteen-point visual QA: Kublai remains the unmistakable largest single subject at roughly fifty-five percent of visual mass. His turned face is clear, mature and recognizably Mongol-Yuan through the low leather-and-felt cap, nuqula-style side braids, broad weathered face, sparse gray beard, heavy back, cobalt jisun-style robe and jade belt hook. The scene reads as an elderly conqueror converting a vast realm into an administrative and relay network rather than a static portrait or generic throne image. The viewer's position is unambiguous beside the cropped envoy sleeve at the near relief-map edge. Participation comes from sharing the map and outward route view, not from a hand or object thrust at the lens.
+
+The controlled object correction succeeds in isolation. Kublai's one visible right hand is smaller and proportionate to his face and forearm, remains naturally attached to the same sleeve, has five coherent relaxed fingers and stays behind the plaque in its lateral direction of travel. His left hand remains hidden. The single blank bronze paiza now lies physically against the map with a clear near-edge contact shadow and no air gap, glow, vapor or duplication.
+
+Owner rejection overrides the earlier favorable macro assessment. The image combines three incompatible physical scales without an architectural frame or explicit transition: a real elderly ruler at a foreground campaign-style table, a miniature relief map under his hand, and a supposedly full-scale grassland, Dadu and maritime horizon that appear to grow directly out of the same tabletop. The map edge does not resolve into a window, balcony, terrace or separate depicted panel. Consequently the viewer cannot determine whether the riders and city are model pieces or real landscape, and Kublai's command table appears inexplicably placed in open grass. The intended administrative network reads as a surreal diorama rather than immense governed territory. This is a structural composition failure, not an object-physics defect and not a viewer-comprehension problem.
+
+Do not edit or salvage this composition. The next attempt must remove the map table, relief terrain, paiza skid, sea splice and all miniature-model ambiguity. Use one physically continuous real space with a visible high terrace or gate-tower floor, a clear parapet edge, a real Dadu gate and avenue below, and a single distant steppe horizon. Vastness must come from real scale recession, atmospheric depth, diminishing couriers, caravans, relay posts, walls and sky rather than a map-to-landscape transformation.
+
+Five separable depth layers remain: near sleeve and saddle leather; relief map and cords; Kublai; relay riders and station towers; Dadu, steppe, coast, vessels and sky. The relief map has no labels, pseudo-writing, legend, compass, modern border colors or UI nodes. Fixed cords and pins obey one perspective and contact the map. Riders, horses, towers, roads, walls and vessels remain subordinate and physically grounded. Dadu's central avenue, grassland tracks and maritime channels flow continuously rather than as a triptych or literal glowing network.
+
+The assigned steppe green, cobalt sky and robe, sea turquoise, saddle brown, muted red and silver-gray palette is clear and unlike images 18 and 20. Aged bronze remains limited to the paiza, small route pins and harness or belt fittings, within the G1 ceiling; there is no gold field, dust or universal black-gold overlay. Mineral granulation, mural abrasion, flying-white cloud and dust strokes carry the outward network motion. No readable text, pseudo-writing, logo, watermark, radar, live-action realism, smooth anime, glossy CGI, floating object, malformed anatomy, modern object, battle, blood or gore. Keep as review candidate only; do not create the formal output without explicit owner approval.
+
+=== SAVE CONTRACT ===
+
+Candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\19-yuan-shi-zu-v2-grounded-paiza-hand-scale.png
+
+Do not overwrite v1 or v2, do not create the formal output and do not update approved package state. Owner rejected this composition on physical-space grounds.
