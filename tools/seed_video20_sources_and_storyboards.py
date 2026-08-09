@@ -4,9 +4,14 @@
 为 video-01 先导二十人：
 1) 补建 content/sources/{id}/ 史源卡 + 核心史料卡（已有 dossier-complete 的三人跳过证据写入）
 2) 写入 content/video/video-01/ 系列规范 + 二十人分镜文稿
+
+安全保险（2026-08-09 事故后加装）：默认 dry-run 只打印不写盘；
+--apply 才写入，且跳过任何已存在的文件（种子脚本绝不允许覆盖已策展内容）；
+--force 才允许覆盖。曾一次性把 17 人本纪级 dossier 盖成 6 条薄模板。
 """
 from __future__ import annotations
 
+import argparse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,6 +21,35 @@ REF_WB = ROOT / "HuangDiTujian-Ref" / "11-史料卡工作台"
 
 # 已有完整 12 条证据的三人
 ALREADY_COMPLETE = {"qin-shi-huang", "han-wu-di", "tang-tai-zong"}
+
+
+def _install_write_guard(apply: bool, force: bool) -> dict:
+    """给本脚本所有 Path.write_text 加保险。
+
+    - 默认（无参数）:dry-run,只打印计划写入的路径，一个字节都不落盘;
+    - --apply:真正写入，但目标文件已存在则跳过（种子只补缺失，绝不覆盖已策展内容）;
+    - --force:允许覆盖已存在文件（仅在确知后果时使用）。
+
+    通过包装 Path.write_text 实现，覆盖脚本内现有及未来新增的全部写入点。
+    返回统计 dict,运行结束可打印汇总。
+    """
+    original_write_text = Path.write_text
+    stats = {"written": 0, "skipped": 0, "planned": 0}
+
+    def guarded_write_text(self: Path, data, *args, **kwargs):
+        if not apply:
+            stats["planned"] += 1
+            print(f"[dry-run] would write {self}")
+            return len(data)
+        if not force and self.exists():
+            stats["skipped"] += 1
+            print(f"[skip] already exists (use --force to overwrite): {self}")
+            return len(data)
+        stats["written"] += 1
+        return original_write_text(self, data, *args, **kwargs)
+
+    Path.write_text = guarded_write_text
+    return stats
 
 
 def card_md(
@@ -2740,4 +2774,16 @@ def main():
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="video-01 先导二十人史源卡/分镜种子脚本。默认 dry-run;--apply 写入;--force 允许覆盖。"
+    )
+    parser.add_argument("--apply", action="store_true", help="真正写入文件（默认仅 dry-run 打印计划）")
+    parser.add_argument("--force", action="store_true", help="允许覆盖已存在文件（危险，慎用）")
+    cli = parser.parse_args()
+    guard_stats = _install_write_guard(cli.apply, cli.force)
     main()
+    print(
+        "write-guard: planned={planned} written={written} skipped={skipped}".format(
+            **guard_stats
+        )
+    )
