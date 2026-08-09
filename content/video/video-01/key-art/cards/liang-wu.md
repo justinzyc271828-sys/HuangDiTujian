@@ -2,7 +2,7 @@
 id: "liang-wu"
 display: "梁武帝"
 personal: "萧衍"
-epithet: "同泰天子"
+epithet: "皇帝菩萨"
 order: 7
 batch: video-01
 type: key-art-static
@@ -11,7 +11,7 @@ naming: "personal-first then title; no book-title marks on events"
 prompt_rule: "self-contained description; do not rely on model recognizing the name"
 ---
 
-# Key Art · 07 · 萧衍（梁武帝）「同泰天子」
+# Key Art · 07 · 萧衍（梁武帝）「皇帝菩萨」
 
 ## 1. 中文叠字（后期 UI，勿写入 Image）
 
@@ -28,7 +28,7 @@ prompt_rule: "self-contained description; do not rely on model recognizing the n
 ### 右下 · 四字号 + 姓名
 
 ```
-[同泰天子]
+[皇帝菩萨]
 萧衍
 梁武帝
 ```

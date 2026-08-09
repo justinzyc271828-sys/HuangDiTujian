@@ -8,7 +8,7 @@
 | 4 | `xin-wang-mang` | 新帝王莽 | 以儒窃国 | [xin-wang-mang.md](./xin-wang-mang.md) | `content/sources/xin-wang-mang/` |
 | 5 | `e-han-guangwu` | 汉光武帝 | 昆阳一旅 | [e-han-guangwu.md](./e-han-guangwu.md) | `content/sources/e-han-guangwu/` |
 | 6 | `h-zhao-shi-le` | 后赵石勒 | 奴隶天子 | [h-zhao-shi-le.md](./h-zhao-shi-le.md) | `content/sources/h-zhao-shi-le/` |
-| 7 | `liang-wu` | 梁武帝 | 同泰天子 | [liang-wu.md](./liang-wu.md) | `content/sources/liang-wu/` |
+| 7 | `liang-wu` | 梁武帝 | 皇帝菩萨 | [liang-wu.md](./liang-wu.md) | `content/sources/liang-wu/` |
 | 8 | `xixia-li-yuanhao` | 西夏景宗 | 河西称制 | [xixia-li-yuanhao.md](./xixia-li-yuanhao.md) | `content/sources/xixia-li-yuanhao/` |
 | 9 | `q-qin-fu-jian` | 前秦世祖 | 投鞭断流 | [q-qin-fu-jian.md](./q-qin-fu-jian.md) | `content/sources/q-qin-fu-jian/` |
 | 10 | `n-wei-xiaowen` | 北魏孝文帝 | 胡骑解辫 | [n-wei-xiaowen.md](./n-wei-xiaowen.md) | `content/sources/n-wei-xiaowen/` |
