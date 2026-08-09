@@ -5,7 +5,7 @@ names:
   display: 元世祖
   personal: 忽必烈
   temple: 世祖
-  posthumous: null
+  posthumous: 圣德神功文武皇帝
   aliases: []
 dynasty:
   id: yuan
@@ -18,7 +18,7 @@ reign:
   - 中统
   - 至元
 life:
-  birth: null
+  birth: '1215'
   death: '1294'
   birth_place_id: null
   death_place_id: da-du
@@ -105,15 +105,6 @@ timeline:
   - 元史·卷009
   - 宋史·瀛国公纪
   card_id: E007
-- year: '1276'
-  date_note: 至元十三年
-  title: 伯颜入临安
-  summary: 宋廷降表。
-  place_id: lin-an
-  related_person_ids: []
-  sources:
-  - 元史·卷009
-  card_id: E008
 - year: '1279'
   date_note: 至元十六年
   title: 崖山灭宋

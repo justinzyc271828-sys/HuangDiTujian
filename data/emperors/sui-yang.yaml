@@ -5,7 +5,7 @@ names:
   display: 隋炀帝
   personal: 杨广
   temple: null
-  posthumous: null
+  posthumous: 炀皇帝
   aliases:
   - 晋王
 dynasty:
@@ -18,7 +18,7 @@ reign:
   eras:
   - 大业
 life:
-  birth: null
+  birth: '569'
   death: '618'
   birth_place_id: null
   death_place_id: jiang-du
@@ -123,6 +123,15 @@ timeline:
   sources:
   - 隋书·卷004·炀帝纪
   card_id: E009
+- year: '614'
+  date_note: 大业十年
+  title: 三征高句丽
+  summary: 三幸涿郡亲征，高丽遣使请降，八月班师，三征收场。
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 隋书·卷004·炀帝纪
+  card_id: E013
 - year: '616'
   date_note: 大业十二年
   title: 幸江都
@@ -197,7 +206,7 @@ routes:
   year: '616'
   place_id: jiang-du
   event: 幸江都
-- group: 都城
+- group: 流徙
   order: 8
   year: '618'
   place_id: jiang-du

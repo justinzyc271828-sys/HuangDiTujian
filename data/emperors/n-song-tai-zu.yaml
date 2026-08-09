@@ -5,7 +5,7 @@ names:
   display: 宋太祖
   personal: 赵匡胤
   temple: 太祖
-  posthumous: null
+  posthumous: 英武圣文神德皇帝
   aliases: []
 dynasty:
   id: n-song
@@ -19,7 +19,7 @@ reign:
   - 乾德
   - 开宝
 life:
-  birth: null
+  birth: '927'
   death: '976'
   birth_place_id: null
   death_place_id: kai-feng

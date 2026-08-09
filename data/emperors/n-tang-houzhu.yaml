@@ -18,7 +18,7 @@ reign:
   end: '975'
   eras: []
 life:
-  birth: null
+  birth: '937'
   death: '978'
   birth_place_id: null
   death_place_id: kai-feng
@@ -49,15 +49,6 @@ timeline:
   sources:
   - 宋史·卷478·南唐世家
   card_id: E001
-- year: '961'
-  date_note: 建隆二年
-  title: 中主卒继位
-  summary: 中主李璟卒，煜立，朝廷人事与年号随之更始。
-  place_id: jin-ling
-  related_person_ids: []
-  sources:
-  - 宋史·卷478·南唐世家
-  card_id: E002
 - year: '971'
   date_note: 开宝前后
   title: 贬号称臣
@@ -81,15 +72,6 @@ timeline:
   card_id: E004
 - year: '975'
   date_note: 开宝八年
-  title: 拒降与城破
-  summary: 金陵城破，后主出降。
-  place_id: jin-ling
-  related_person_ids: []
-  sources:
-  - 宋史·卷478·南唐世家
-  card_id: E005
-- year: '975'
-  date_note: 开宝八年
   title: 金陵城破
   summary: 宋军破金陵，后主降，南唐亡。
   place_id: jin-ling
@@ -108,15 +90,6 @@ timeline:
   sources:
   - 宋史·卷478·南唐世家
   card_id: E007
-- year: '976'
-  date_note: 北迁后
-  title: 违命侯
-  summary: 软禁汴京，词多故国之思。
-  place_id: kai-feng
-  related_person_ids: []
-  sources:
-  - 宋史·卷478·南唐世家
-  card_id: E008
 - year: '978'
   date_note: 太平兴国三年
   title: 卒于京师
@@ -126,16 +99,6 @@ timeline:
   sources:
   - 宋史·卷478·南唐世家
   card_id: E009
-- year: '978'
-  date_note: 太平兴国三年
-  title: 后主卒
-  summary: 民间有七夕赐牵机药传说，正史记载简略，作待考。
-  place_id: kai-feng
-  related_person_ids: []
-  sources:
-  - 宋史·卷478·南唐世家
-  - 笔记小说·赐死说（待考）
-  card_id: E010
 relations:
 - type: predecessor
   target_id: null

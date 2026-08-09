@@ -4,10 +4,9 @@ sort_key: 梁-001
 names:
   display: 梁武帝
   personal: 萧衍
-  temple: null
-  posthumous: null
-  aliases:
-  - 同泰天子
+  temple: 高祖
+  posthumous: 武皇帝
+  aliases: []
 dynasty:
   id: liang
   label: 梁
@@ -24,7 +23,7 @@ reign:
   - 中大同
   - 太清
 life:
-  birth: null
+  birth: '464'
   death: '549'
   birth_place_id: null
   death_place_id: tai-cheng

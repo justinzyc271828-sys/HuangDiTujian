@@ -5,7 +5,7 @@ names:
   display: 唐宪宗
   personal: 李纯
   temple: 宪宗
-  posthumous: null
+  posthumous: 圣神章武孝皇帝
   aliases: []
 dynasty:
   id: tang
@@ -17,7 +17,7 @@ reign:
   eras:
   - 元和
 life:
-  birth: null
+  birth: '778'
   death: '820'
   birth_place_id: null
   death_place_id: chang-an

@@ -5,7 +5,7 @@ names:
   display: 前秦世祖
   personal: 苻坚
   temple: 世祖
-  posthumous: null
+  posthumous: 宣昭
   aliases: []
 dynasty:
   id: q-qin
@@ -19,7 +19,7 @@ reign:
   - 甘露
   - 建元
 life:
-  birth: null
+  birth: '338'
   death: '385'
   birth_place_id: null
   death_place_id: wu-jiang-shan

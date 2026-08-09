@@ -5,7 +5,7 @@ names:
   display: 后赵高祖
   personal: 石勒
   temple: 高祖
-  posthumous: null
+  posthumous: 明皇帝
   aliases: []
 dynasty:
   id: h-zhao
@@ -16,7 +16,7 @@ reign:
   end: '333'
   eras: []
 life:
-  birth: null
+  birth: '274'
   death: '333'
   birth_place_id: null
   death_place_id: xiang-guo
@@ -74,8 +74,8 @@ timeline:
   sources:
   - 晋书·卷104·石勒载记
   card_id: E004
-- year: '321'
-  date_note: 太兴四年
+- year: '319'
+  date_note: 太兴二年
   title: 称大单于赵王进阶
   summary: 名号与制度升格，后赵雏形稳固。
   place_id: xiang-guo
@@ -175,9 +175,9 @@ routes:
   event: 称赵王，都襄国
 - group: 都城
   order: 3
-  year: '321'
+  year: '319'
   place_id: xiang-guo
-  event: 进称大单于，制度升格
+  event: 兼称大单于，制度升格
 - group: 亲征
   order: 4
   year: '328'
@@ -215,6 +215,6 @@ sources:
 meta:
   status: draft
   confidence: medium
-  last_reviewed: '2026-08-08'
+  last_reviewed: '2026-08-09'
   inclusion_reason: 后赵开国之主，奴隶到天子的十六国标志性人物，正史载记。
   synced_from_cards: true

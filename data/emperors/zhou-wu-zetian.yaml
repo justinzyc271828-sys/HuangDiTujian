@@ -5,7 +5,7 @@ names:
   display: 武则天
   personal: 武曌
   temple: null
-  posthumous: null
+  posthumous: 则天大圣皇后
   aliases:
   - 武后
   - 天后
@@ -17,12 +17,26 @@ reign:
   start: '690'
   end: '705'
   eras:
+  - 光宅
+  - 垂拱
+  - 永昌
+  - 载初
   - 天授
+  - 如意
+  - 长寿
+  - 延载
+  - 证圣
+  - 天册万岁
+  - 万岁登封
+  - 万岁通天
   - 神功
+  - 圣历
+  - 久视
+  - 大足
   - 长安
   - 神龙
 life:
-  birth: null
+  birth: '623'
   death: null
   birth_place_id: null
   death_place_id: null
@@ -114,8 +128,8 @@ timeline:
   card_id: E007
 - year: '690'
   date_note: 天授元年
-  title: 金轮称帝
-  summary: 加尊号称帝，女主正式称制。
+  title: 加尊号称帝
+  summary: 加尊号曰圣神皇帝，降皇帝为皇嗣，女主正式称帝。
   place_id: luoyang
   related_person_ids: []
   sources:

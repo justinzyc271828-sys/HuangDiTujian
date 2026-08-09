@@ -19,7 +19,7 @@ reign:
   - 开皇
   - 仁寿
 life:
-  birth: null
+  birth: '541'
   death: '604'
   birth_place_id: null
   death_place_id: renshou-gong

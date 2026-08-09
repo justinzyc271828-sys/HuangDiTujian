@@ -2293,8 +2293,8 @@
       "names": {
         "display": "汉宣帝",
         "personal": "刘询",
-        "temple": null,
-        "posthumous": null,
+        "temple": "中宗",
+        "posthumous": "孝宣皇帝",
         "aliases": []
       },
       "dynasty": {
@@ -2885,7 +2885,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "-45",
         "death": "23",
         "birth_place_id": null,
         "death_place_id": "chang-an"
@@ -5978,11 +5978,9 @@
       "names": {
         "display": "梁武帝",
         "personal": "萧衍",
-        "temple": null,
-        "posthumous": null,
-        "aliases": [
-          "同泰天子"
-        ]
+        "temple": "高祖",
+        "posthumous": "武皇帝",
+        "aliases": []
       },
       "dynasty": {
         "id": "liang",
@@ -6003,7 +6001,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "464",
         "death": "549",
         "birth_place_id": null,
         "death_place_id": "tai-cheng"
@@ -6292,11 +6290,11 @@
         "synced_from_cards": true,
         "page_status": "draft"
       },
-      "bio_md": "# 梁武帝 · 主要事迹\n\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定，\"同泰天子\"的称号由此而来。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与[[n-wei-xiaowen|北魏孝文帝]]对读：一北一南，一个以汉化改革重铸北魏，一个以文教与佛事撑起南朝文化高峰；而台城之困，则为南朝由盛转衰写下注脚。\n",
+      "bio_md": "# 梁武帝 · 主要事迹\n\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与[[n-wei-xiaowen|北魏孝文帝]]对读：一北一南，一个以汉化改革重铸北魏，一个以文教与佛事撑起南朝文化高峰；而台城之困，则为南朝由盛转衰写下注脚。\n",
       "bio_parts": [
         {
           "type": "text",
-          "value": "\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定，\"同泰天子\"的称号由此而来。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与"
+          "value": "\n萧衍是梁朝的开国之君。中兴元年（501），他自襄阳东下攻入建康，掌控南齐残局；次年受齐禅即帝位，梁朝由此建立，仍都建康。此后在位近半个世纪，是本图鉴中治世最长的皇帝之一。\n\n开国之初，他置五经博士、振兴文教；天监至大同间长年安定，文学、佛学、礼乐并盛，被推为南朝文化的高峰之一。对外则有天监十三年（514）的浮山堰工程，堰淮水以攻魏，规模巨大而备受争议。\n\n他的另一面是佞佛。大通元年（527）起，同泰寺佛事不断升级，他屡次舍身入寺，由群臣以钱奉赎，佛事与国家财政就此绑定。\n\n晚年的转折在太清元年（547）：侯景来降，纳降之议争论激烈，他最终决定接受。次年侯景之乱爆发，建康遭灾，台城被围；太清三年（549）台城陷落，武帝为侯景所制，忧愤饥病而崩。简文帝随后继位，侯景仍控建康。前半英主、后半困于佛与侯景，正是本朝月旦的两面。\n\n与"
         },
         {
           "type": "link",
@@ -6836,7 +6834,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "408",
         "death": "452",
         "birth_place_id": null,
         "death_place_id": "ping-cheng"
@@ -7048,7 +7046,7 @@
           "event": "灭胡夏取关中"
         },
         {
-          "group": "亲征",
+          "group": "其他",
           "order": 4,
           "year": "436",
           "place_id": "he-long",
@@ -7062,7 +7060,7 @@
           "event": "凉州平、灭北凉"
         },
         {
-          "group": "亲征",
+          "group": "其他",
           "order": 6,
           "year": "445",
           "place_id": "chang-an",
@@ -7250,7 +7248,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "467",
         "death": "499",
         "birth_place_id": null,
         "death_place_id": null
@@ -8529,7 +8527,7 @@
         "display": "后赵高祖",
         "personal": "石勒",
         "temple": "高祖",
-        "posthumous": null,
+        "posthumous": "明皇帝",
         "aliases": []
       },
       "dynasty": {
@@ -8543,7 +8541,7 @@
         "eras": []
       },
       "life": {
-        "birth": null,
+        "birth": "274",
         "death": "333",
         "birth_place_id": null,
         "death_place_id": "xiang-guo"
@@ -8616,8 +8614,8 @@
           "card_id": "E004"
         },
         {
-          "year": "321",
-          "date_note": "太兴四年",
+          "year": "319",
+          "date_note": "太兴二年",
           "title": "称大单于赵王进阶",
           "summary": "名号与制度升格，后赵雏形稳固。",
           "place_id": "xiang-guo",
@@ -8757,9 +8755,9 @@
         {
           "group": "都城",
           "order": 3,
-          "year": "321",
+          "year": "319",
           "place_id": "xiang-guo",
-          "event": "进称大单于，制度升格"
+          "event": "兼称大单于，制度升格"
         },
         {
           "group": "亲征",
@@ -8818,7 +8816,7 @@
       "meta": {
         "status": "draft",
         "confidence": "medium",
-        "last_reviewed": "2026-08-08",
+        "last_reviewed": "2026-08-09",
         "inclusion_reason": "后赵开国之主，奴隶到天子的十六国标志性人物，正史载记。",
         "synced_from_cards": true,
         "page_status": "draft"
@@ -9075,7 +9073,7 @@
         "display": "前秦世祖",
         "personal": "苻坚",
         "temple": "世祖",
-        "posthumous": null,
+        "posthumous": "宣昭",
         "aliases": []
       },
       "dynasty": {
@@ -9093,7 +9091,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "338",
         "death": "385",
         "birth_place_id": null,
         "death_place_id": "wu-jiang-shan"
@@ -9920,7 +9918,7 @@
         "display": "西夏景宗",
         "personal": "李元昊",
         "temple": "景宗",
-        "posthumous": null,
+        "posthumous": "武烈皇帝",
         "aliases": [
           "元昊"
         ]
@@ -9938,7 +9936,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "1003",
         "death": "1048",
         "birth_place_id": null,
         "death_place_id": "xing-qing-fu"
@@ -9955,7 +9953,7 @@
         "primary": "assets/portraits/xixia-li-yuanhao/primary.png",
         "variants": [],
         "style_version": "v1",
-        "appearance_basis": "史源档案未载相貌依据。MVP 用占位图；定稿前依时代冠服作艺术想象。\n",
+        "appearance_basis": "《宋史》卷485夏国传：「性雄毅，多大略，善绘画……圆面高准，身长五尺余。少时好衣长袖绯衣，冠黑冠，佩弓矢。」定稿前依此容貌与冠服描写作艺术想象。\n",
         "prompt_ref": "tools/prompts/portrait-v1.md",
         "disclaimer": "艺术想象，非考古复原"
       },
@@ -10443,7 +10441,7 @@
         "eras": []
       },
       "life": {
-        "birth": null,
+        "birth": "937",
         "death": "978",
         "birth_place_id": null,
         "death_place_id": "kai-feng"
@@ -10480,18 +10478,6 @@
           "card_id": "E001"
         },
         {
-          "year": "961",
-          "date_note": "建隆二年",
-          "title": "中主卒继位",
-          "summary": "中主李璟卒，煜立，朝廷人事与年号随之更始。",
-          "place_id": "jin-ling",
-          "related_person_ids": [],
-          "sources": [
-            "宋史·卷478·南唐世家"
-          ],
-          "card_id": "E002"
-        },
-        {
           "year": "971",
           "date_note": "开宝前后",
           "title": "贬号称臣",
@@ -10523,18 +10509,6 @@
         {
           "year": "975",
           "date_note": "开宝八年",
-          "title": "拒降与城破",
-          "summary": "金陵城破，后主出降。",
-          "place_id": "jin-ling",
-          "related_person_ids": [],
-          "sources": [
-            "宋史·卷478·南唐世家"
-          ],
-          "card_id": "E005"
-        },
-        {
-          "year": "975",
-          "date_note": "开宝八年",
           "title": "金陵城破",
           "summary": "宋军破金陵，后主降，南唐亡。",
           "place_id": "jin-ling",
@@ -10560,18 +10534,6 @@
           "card_id": "E007"
         },
         {
-          "year": "976",
-          "date_note": "北迁后",
-          "title": "违命侯",
-          "summary": "软禁汴京，词多故国之思。",
-          "place_id": "kai-feng",
-          "related_person_ids": [],
-          "sources": [
-            "宋史·卷478·南唐世家"
-          ],
-          "card_id": "E008"
-        },
-        {
           "year": "978",
           "date_note": "太平兴国三年",
           "title": "卒于京师",
@@ -10582,19 +10544,6 @@
             "宋史·卷478·南唐世家"
           ],
           "card_id": "E009"
-        },
-        {
-          "year": "978",
-          "date_note": "太平兴国三年",
-          "title": "后主卒",
-          "summary": "民间有七夕赐牵机药传说，正史记载简略，作待考。",
-          "place_id": "kai-feng",
-          "related_person_ids": [],
-          "sources": [
-            "宋史·卷478·南唐世家",
-            "笔记小说·赐死说（待考）"
-          ],
-          "card_id": "E010"
         }
       ],
       "relations": [
@@ -11262,7 +11211,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "541",
         "death": "604",
         "birth_place_id": null,
         "death_place_id": "renshou-gong"
@@ -11580,7 +11529,7 @@
         "display": "隋炀帝",
         "personal": "杨广",
         "temple": null,
-        "posthumous": null,
+        "posthumous": "炀皇帝",
         "aliases": [
           "晋王"
         ]
@@ -11598,7 +11547,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "569",
         "death": "618",
         "birth_place_id": null,
         "death_place_id": "jiang-du"
@@ -11737,6 +11686,18 @@
           "card_id": "E009"
         },
         {
+          "year": "614",
+          "date_note": "大业十年",
+          "title": "三征高句丽",
+          "summary": "三幸涿郡亲征，高丽遣使请降，八月班师，三征收场。",
+          "place_id": "liaodong",
+          "related_person_ids": [],
+          "sources": [
+            "隋书·卷004·炀帝纪"
+          ],
+          "card_id": "E013"
+        },
+        {
           "year": "616",
           "date_note": "大业十二年",
           "title": "幸江都",
@@ -11842,7 +11803,7 @@
           "event": "幸江都"
         },
         {
-          "group": "都城",
+          "group": "流徙",
           "order": 8,
           "year": "618",
           "place_id": "jiang-du",
@@ -11908,7 +11869,8 @@
           "value": "对读，可见唐承隋制的承接与反拨。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/sui-yang.png"
     },
     {
       "id": "sui-gong",
@@ -12346,7 +12308,8 @@
           "value": "对读，可看统一帝国传统下治理风格的差异。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/tang-tai-zong.png"
     },
     {
       "id": "tang-gao-zong",
@@ -12491,7 +12454,7 @@
         "display": "武则天",
         "personal": "武曌",
         "temple": null,
-        "posthumous": null,
+        "posthumous": "则天大圣皇后",
         "aliases": [
           "武后",
           "天后"
@@ -12506,14 +12469,28 @@
         "start": "690",
         "end": "705",
         "eras": [
+          "光宅",
+          "垂拱",
+          "永昌",
+          "载初",
           "天授",
+          "如意",
+          "长寿",
+          "延载",
+          "证圣",
+          "天册万岁",
+          "万岁登封",
+          "万岁通天",
           "神功",
+          "圣历",
+          "久视",
+          "大足",
           "长安",
           "神龙"
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "623",
         "death": null,
         "birth_place_id": null,
         "death_place_id": null
@@ -12630,8 +12607,8 @@
         {
           "year": "690",
           "date_note": "天授元年",
-          "title": "金轮称帝",
-          "summary": "加尊号称帝，女主正式称制。",
+          "title": "加尊号称帝",
+          "summary": "加尊号曰圣神皇帝，降皇帝为皇嗣，女主正式称帝。",
           "place_id": "luoyang",
           "related_person_ids": [],
           "sources": [
@@ -12829,7 +12806,8 @@
           "value": "的中兴对照，可见唐室中衰与重建的完整弧线。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/zhou-wu-zetian.png"
     },
     {
       "id": "tang-zhong-zong-b",
@@ -13199,7 +13177,7 @@
         "display": "唐宪宗",
         "personal": "李纯",
         "temple": "宪宗",
-        "posthumous": null,
+        "posthumous": "圣神章武孝皇帝",
         "aliases": []
       },
       "dynasty": {
@@ -13215,7 +13193,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "778",
         "death": "820",
         "birth_place_id": null,
         "death_place_id": "chang-an"
@@ -13501,7 +13479,8 @@
           "value": "的贞观范式对读，也可见盛唐与中唐之间帝国处境的巨大落差。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/tang-xian-zong.png"
     },
     {
       "id": "tang-mu-zong",
@@ -14411,7 +14390,7 @@
         "display": "后周世宗",
         "personal": "柴荣",
         "temple": "世宗",
-        "posthumous": null,
+        "posthumous": "睿武孝文皇帝",
         "aliases": [
           "周世宗"
         ]
@@ -14429,7 +14408,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "921",
         "death": "959",
         "birth_place_id": null,
         "death_place_id": "kai-feng"
@@ -14777,7 +14756,7 @@
         "display": "宋太祖",
         "personal": "赵匡胤",
         "temple": "太祖",
-        "posthumous": null,
+        "posthumous": "英武圣文神德皇帝",
         "aliases": []
       },
       "dynasty": {
@@ -14795,7 +14774,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "927",
         "death": "976",
         "birth_place_id": null,
         "death_place_id": "kai-feng"
@@ -16856,7 +16835,7 @@
         "display": "元世祖",
         "personal": "忽必烈",
         "temple": "世祖",
-        "posthumous": null,
+        "posthumous": "圣德神功文武皇帝",
         "aliases": []
       },
       "dynasty": {
@@ -16873,7 +16852,7 @@
         ]
       },
       "life": {
-        "birth": null,
+        "birth": "1215",
         "death": "1294",
         "birth_place_id": null,
         "death_place_id": "da-du"
@@ -16982,18 +16961,6 @@
             "宋史·瀛国公纪"
           ],
           "card_id": "E007"
-        },
-        {
-          "year": "1276",
-          "date_note": "至元十三年",
-          "title": "伯颜入临安",
-          "summary": "宋廷降表。",
-          "place_id": "lin-an",
-          "related_person_ids": [],
-          "sources": [
-            "元史·卷009"
-          ],
-          "card_id": "E008"
         },
         {
           "year": "1279",

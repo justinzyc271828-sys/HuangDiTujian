@@ -19,7 +19,7 @@ reign:
   - 天凤
   - 地皇
 life:
-  birth: null
+  birth: '-45'
   death: '23'
   birth_place_id: null
   death_place_id: chang-an

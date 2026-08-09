@@ -22,7 +22,7 @@ reign:
   - 太平真君
   - 正平
 life:
-  birth: null
+  birth: '408'
   death: '452'
   birth_place_id: null
   death_place_id: ping-cheng
@@ -181,7 +181,7 @@ routes:
   year: '431'
   place_id: chang-an
   event: 灭胡夏取关中
-- group: 亲征
+- group: 其他
   order: 4
   year: '436'
   place_id: he-long
@@ -191,7 +191,7 @@ routes:
   year: '439'
   place_id: hexi
   event: 凉州平、灭北凉
-- group: 亲征
+- group: 其他
   order: 6
   year: '445'
   place_id: chang-an

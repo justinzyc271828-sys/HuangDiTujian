@@ -5,7 +5,7 @@ names:
   display: 西夏景宗
   personal: 李元昊
   temple: 景宗
-  posthumous: null
+  posthumous: 武烈皇帝
   aliases:
   - 元昊
 dynasty:
@@ -18,7 +18,7 @@ reign:
   eras:
   - 天授礼法延祚
 life:
-  birth: null
+  birth: '1003'
   death: '1048'
   birth_place_id: null
   death_place_id: xing-qing-fu
@@ -34,7 +34,7 @@ portrait:
   variants: []
   style_version: v1
   appearance_basis: |
-    史源档案未载相貌依据。MVP 用占位图；定稿前依时代冠服作艺术想象。
+    《宋史》卷485夏国传：「性雄毅，多大略，善绘画……圆面高准，身长五尺余。少时好衣长袖绯衣，冠黑冠，佩弓矢。」定稿前依此容貌与冠服描写作艺术想象。
   prompt_ref: tools/prompts/portrait-v1.md
   disclaimer: 艺术想象，非考古复原
 bio:

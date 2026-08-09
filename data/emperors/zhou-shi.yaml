@@ -5,7 +5,7 @@ names:
   display: 后周世宗
   personal: 柴荣
   temple: 世宗
-  posthumous: null
+  posthumous: 睿武孝文皇帝
   aliases:
   - 周世宗
 dynasty:
@@ -18,7 +18,7 @@ reign:
   eras:
   - 显德
 life:
-  birth: null
+  birth: '921'
   death: '959'
   birth_place_id: null
   death_place_id: kai-feng
