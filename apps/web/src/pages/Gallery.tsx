@@ -5,18 +5,11 @@ import { useCollection } from "../hooks/useCollection";
 import "./gallery.css";
 
 type Props = { site: SiteData };
-type Filter =
-  | "featured"
-  | "all"
-  | "draft"
-  | "stub"
-  | "quasi"
-  | "emperor"
-  | "read";
+type Filter = "all" | "quasi" | "emperor" | "read";
 
 export default function Gallery({ site }: Props) {
   const { read, starred } = useCollection();
-  const [filter, setFilter] = useState<Filter>("featured");
+  const [filter, setFilter] = useState<Filter>("all");
   const [q, setQ] = useState("");
 
   const featured = useMemo(
@@ -34,13 +27,7 @@ export default function Gallery({ site }: Props) {
 
   const list = useMemo(() => {
     let xs: Emperor[] = site.emperors;
-    if (filter === "featured") {
-      xs = xs.filter((e) => featured.has(e.id));
-    } else if (filter === "draft") {
-      xs = xs.filter((e) => e.page_status === "draft" || e.page_status === "ready");
-    } else if (filter === "stub") {
-      xs = xs.filter((e) => e.page_status === "stub" || !e.page_status);
-    } else if (filter === "quasi") {
+    if (filter === "quasi") {
       xs = xs.filter((e) => e.tier === "quasi");
     } else if (filter === "emperor") {
       xs = xs.filter((e) => e.tier === "emperor");
@@ -60,16 +47,10 @@ export default function Gallery({ site }: Props) {
     return xs;
   }, [site.emperors, filter, read, featured, q]);
 
-  const totalFeatured = site.featured_ids.length;
-  const readFeatured = site.featured_ids.filter((id) => read.includes(id)).length;
-
   const chips: { id: Filter; label: string }[] = [
-    { id: "featured", label: "首批三人" },
-    { id: "draft", label: "已有专页" },
     { id: "all", label: `全部 ${stats.total}` },
     { id: "emperor", label: `正式 ${stats.emperor}` },
     { id: "quasi", label: `准 ${stats.quasi}` },
-    { id: "stub", label: `灰卡 ${stats.stub}` },
     { id: "read", label: "已读" },
   ];
 
@@ -85,10 +66,6 @@ export default function Gallery({ site }: Props) {
             奏折三栏专页 · 点卡即入（专页草稿 {stats.draft} · 灰卡 stub {stats.stub} · 准{" "}
             {stats.quasi}）
           </p>
-          <div className="g-progress">
-            首批 {readFeatured}/{totalFeatured} 已读 · 收藏 {starred.length} · 当前列表{" "}
-            {list.length} 人
-          </div>
         </header>
 
         <div className="g-controls">
