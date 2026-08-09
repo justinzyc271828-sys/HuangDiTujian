@@ -1,3 +1,5 @@
 # 北魏孝文帝 / `n-wei-xiaowen`
 
-- status: **dossier-complete**（qa-fix，12 条）
+- status: **in-progress**（video-01 核心 6 条）
+- 史源卡：`00-史源卡.md`
+- 分镜：`../../video/video-01/分镜/n-wei-xiaowen.md`

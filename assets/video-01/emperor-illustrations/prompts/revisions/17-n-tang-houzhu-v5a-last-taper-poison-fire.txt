@@ -1,0 +1,76 @@
+PROMPT_VERSION: 5A-last-taper-poison-fire-exploration
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: EXPLORATION CANDIDATE — AWAITING OWNER FEEL REVIEW
+HISTORICAL_LAYER: later poison legend plus explicit poetic dramatization
+SHOT_CODE: S17A-FLOOR35-FIREEDGE-FALLING3Q-LASTTAPER
+COLOR_CODE: C17A-POISONCELADON-INK-PAPERIVORY-EMBER-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5a-last-taper-poison-fire.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one 16:9 exploratory emperor-series key illustration
+
+Create a new image, not an edit. This is an explicitly poetic historical reconstruction: Li Yu's death in Bianjing is certain, but the poison episode comes from a later Song miscellany and his deliberate burning of manuscripts is imaginative visual drama. The image must feel emotionally true without pretending to be a documentary reconstruction.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the series medium: adult non-photoreal Chinese historical-manga anatomy, bold facial planes, protagonist dominance, matte granular mineral pigments, cracked plaster and graphic mural construction. Do not copy Qin costume, seal, map, frontal stamping pose, ochre-black-gold balance or gold density.
+- Reference image 2 controls only forceful expressive ink motion, flying-white edges and directional brush energy. Do not copy its person, props, palette or composition.
+- Reference image 3 controls only Li Yu's mature identity: a refined slightly gaunt East Asian man around forty, narrow shoulders, melancholy brows, thin moustache, tiny chin beard, soft black futou and restrained blue-gray robe. Do not copy its palace-gate surrender scene, soldiers, ministers, steps or camera.
+
+DECISIVE FIRST READ:
+Li Yu, the captive former ruler and poet of Southern Tang, uses his final lucid movement to ignite his own gathered manuscripts as a violent poison spasm begins to pull his body off balance. The small paper fire becomes the visual seed of his remembered homeland burning in ink and smoke. This must not read as a generic scholar beside a fireplace, a calm suicide portrait or an accidental room fire.
+
+SETTING AND FREEZE MOMENT:
+Bianjing, 978, a sparse granted residence under night confinement. A cold rain-blue doorway and one narrow barred window establish that he is watched by the Song court. Li Yu has already gathered several bundles of fine manuscript paper beside one low bronze brazier. Freeze the exact instant when a short wooden taper in his left hand has just touched the corner of the first sheet: one small flame has appeared, but the taper has not yet fallen. At the same instant the first severe muscle spasm contracts his abdomen and pulls his kneeling body sideways. He is still choosing the fire even as control leaves him.
+
+LI YU — PRIMARY SUBJECT:
+- East Asian man about forty-one or forty-two; refined but exhausted captive ruler, narrow shoulders, pale face, long gentle jaw, melancholy brows, deep-set intelligent eyes, straight narrow nose, thin moustache and a tiny neat chin beard.
+- His expression combines sudden physical agony, clarity and resolve: jaw clenched, breath arrested, neck tendons taut, eyes fixed on the ignition point. No screaming mouth, gore, foam, blood, horror-monster face or romantic swoon.
+- Soft black futou with short drooping tails, complete and uncropped. Plain but formal blue-gray wide-sleeved robe over a moon-white cross collar, faint faded-rose lining, no crown, no dragon pattern, no yellow, no armor and no luxury gold.
+- Li Yu occupies about sixty-two to sixty-eight percent of the visual mass. His face is large, sharp and unmistakably primary. The fire occupies no more than ten percent.
+
+CAMERA AND VIEWER POSITION:
+- Ground-level 35 mm three-quarter view from the far side of the brazier, looking upward only six degrees. The viewer is a Song guard who has just entered after the medicine was delivered and has dropped into a crouch beyond the fire.
+- Li Yu's body forms a strong diagonal from upper-left face to lower-right grounded knee and shoe. The small brazier remains low at the bottom edge and never blocks his face or torso.
+- A tiny cropped dark boot or doorframe edge may mark the guard's position, together under five percent of the frame. No large foreground soldier.
+- Four depth layers: minimal viewer-side door edge; small ignition and paper; dominant Li Yu; barred rain window and smoke-memory mural.
+
+BODY AND HAND PHYSICS:
+- One knee remains planted and weight-bearing on the floor; the other leg is beginning to slide outward but the soft shoe remains flat and grounded. Hips, knee and ankle follow one plausible body axis.
+- The torso contracts toward the abdomen and tilts sideways, but does not fold head-to-feet or become grotesquely contorted. This suggests the later qianji-poison legend without claiming medical certainty.
+- The right forearm presses the abdomen entirely inside a broad sleeve; the right hand and all fingers are hidden.
+- The left hand alone performs the narrative action. Show it in clean side view close to the body, never thrust toward the lens: exactly five natural fingers close around one short wooden taper, thumb opposing the fingers, wrist straight, no extra digits and no fused grip. The taper tip physically touches one paper corner.
+
+MANUSCRIPT FIRE AND HOMELAND MEMORY:
+- One real fire source only: the taper ignites the first sheet at one contact point. The paper edge blackens, curls and glows before the flame spreads. Nearby pages remain pale and unburned. Smoke, ash and flame all follow the same draft.
+- Manuscripts are recognized through gathered fine paper, a brush rest, one grounded inkstone and several bound paper bundles, never through readable writing. All visible pages are blank or carry only non-symbolic diluted ink stains. No letters, Chinese characters, pseudo-writing, seals or borders.
+- The fire remains small and physical. Above it, smoke and diluted ink merge with cracked mural pigment on the rear wall to suggest a memory of Qinhuai water, a low bridge and Southern Tang roofs burning at night. The remembered Jinling is made of smoke, negative space and flaking pigment; it is not a literal miniature city in the room and does not create a second light source.
+- One plain overturned porcelain cup with a small dark wet ring may sit near the doorway as secondary evidence of the poison legend. No label, emblem or dramatic skull motif.
+
+COLOR, LIGHT AND SERIES MEDIUM:
+- Dominant palette: poison-celadon moonlight, rain blue, blue-gray robe, ink black and paper ivory. Ember orange is restricted to the small ignition, one cheek edge and the smoke-memory city, no more than ten percent.
+- Strict G0: no gold leaf, gilded trim, gold dust, gold flecks or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural painting and forceful expressive wet ink. Use decisive drawn facial planes, controlled anatomical exaggeration, coarse mineral grain, cracked plaster plates, flaking pigment, dry-brush edges, diluted ink smoke and flying-white motion. Make the ink force travel in one line from body spasm to taper to paper flame to remembered homeland.
+
+HARD AVOIDS:
+generic scholar portrait, calm man by a brazier, ordinary fireplace, accidental house fire, full room engulfed in flames, panoramic real Jinling outside a Bianjing window, ordinary sickbed, static deathbed, horror contortion, head touching feet, broken spine, crawling monster, screaming gore, blood, vomit, foam, visible right hand, extra fingers, hand aimed at camera, floating taper, fire not touching paper, several unrelated fire sources, magical portal, literal miniature city, readable text, calligraphy, pseudo-writing, symbols, seals, gold, crown, dragon robe, armor, sword, modern object, photoreal skin, live-action movie still, glossy CGI, smooth anime, logo, watermark or UI.
+
+FINAL QA TARGET:
+Reject unless the first read is “captive poet-ruler Li Yu deliberately ignites his manuscripts during the first poison spasm”; he remains dominant; the single visible hand has correct five-finger side-view anatomy; the kneeling collapse is painful but physically plausible; the fire starts at one paper contact point; the homeland appears only through smoke, ink and mural memory; the viewer is positioned as the entering Song guard; and the image remains G0 mineral-mural manga rather than cinematic realism.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the two fixed series anchors plus the v4 Li Yu identity reference. Saved in the repository as a 1672x941 PNG. SHA256: 2898066FAE4028F441E8F5263227554C868A2D4EB0C8A480D52B7940CB6FBAD1.
+
+Visual QA: This is the clearest narrative match to the owner's new direction. Li Yu is the dominant first read, grounded on one knee and one hip, visibly pressing his abdomen while a clean side-view five-finger hand deliberately touches one short taper to the first manuscript sheet. The taper contacts the paper and the fire remains small; the tipped cup, inkstone, paper bundles and guarded rain window share one room. His anatomy and visible hand are coherent, and the viewer reads as an entering Song guard through the dark left door edge. The rear mural-memory of Jinling grows from smoke and cracked pigment, but it remains slightly too literal and detailed; the poison contraction is readable as pain yet less violent than the owner's phrase “痛苦挣扎”; the left foreground guard edge is heavier than planned. No promotion. Keep as the action-led exploration reference.
+
+=== SAVE CONTRACT ===
+
+Exploration candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5a-last-taper-poison-fire.png
+
+Do not promote or update approved package state without explicit owner approval.

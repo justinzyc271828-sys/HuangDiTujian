@@ -3,64 +3,67 @@ ID: zhou-wu-zetian
 ORDER: 14
 PERSONAL_NAME_ZH: 武曌
 DISPLAY_ZH: 武则天
-STATUS: PENDING GENERATION
-SHOT_CODE: S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD
-COLOR_CODE: C14-PURPLE-CINNABAR-IVORY-GOLD-G3
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\14-zhou-wu-zetian.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: historical-scene. Create one completely redrawn 16:9 emperor-series key illustration. The input is a structural, palette, identity, and style reference only; do not edit or copy its curtain-gripping pose. Rebuild the scene from scratch with a hand-free action.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+CORE CONCEPT:
+Wu Zhao crosses the final bronze threshold from the old Tang court into the new Wu-Zhou emperor's central axis. The political transition—not a hand gesture—is the decisive action. Preserve the successful aged Wu Zhao identity, monumental viewer confrontation, cinnabar-to-violet transition, clean eight-spoke Jinlun state emblem, Mingtang architecture, and mineral-mural historical-manga style.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian woman 65-67 as sole female Chinese emperor, square powerful aged face, age lines, cold steady eyes, gray-streaked hair, dignified heavy posture, COSTUME: full male-style imperial mian crown with hanging jade/pearl strings, dark blue and crimson dragon imperial robes, solemn not sensual, NO harem dress, ACCESSORIES AND PROPS: golden wheel mandala backlight, gui tablet, purple mist, palace silhouettes.
+PROTAGONIST:
+- Wu Zhao is about 66 years old: broad square authority face, visible age lines, grey-streaked hair, cold intelligent eyes, and controlled resolve.
+- Emperor-style crown and dark imperial-violet robes with aged-cinnabar inner panels and restrained bronze hardware.
+- Large but human-scale, occupying about 68–72% of image height.
+- Three-quarter frontal stride toward the viewer; chin slightly lowered and gaze meeting the kneeling court.
+- Front foot planted on the new violet central aisle; rear foot remains on the old cinnabar side behind the bronze threshold. Hips, knees, shoulders, and robe weight follow a natural walk.
+- Robe hems and sleeves trail slightly backward from forward momentum, creating force without an arm gesture.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as the elderly sovereign extends the first decree of her new imperial order as the golden wheel turns behind the crown beads.
+NO VISIBLE HANDS — ABSOLUTE:
+- Both forearms are folded calmly across the lower torso in a formal sovereign posture, completely concealed inside two broad overlapping long sleeves.
+- The sleeve ends overlap at the abdomen as one clean layered fabric shape.
+- Show no hands, fingers, fingertips, knuckles, hand-shaped bulges, or exposed wrists anywhere.
+- Neither arm approaches the curtain. Authority comes from stride, posture, gaze, and spatial transition.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD
-- Elevation and pitch: extreme low view from the base of the Luoyang audience steps, looking up about 28 degrees.
-- Subject azimuth and orientation: left-facing three-quarter sovereign high in the frame, with crown-bead lines breaking the sky.
-- Shot scale and lens behavior: 24 mm wide medium-full view using monumental steps rather than a frontal close-up.
-- Camera roll: level axial architecture.
+CURTAIN WITHOUT HUMAN CONTACT:
+- Heavy aged-cinnabar regency curtains are already fully drawn back to both sides by fixed bronze wall hooks and short architectural tiebacks attached to the columns.
+- No person touches them; no attendant or floating force opens them.
+- The panels frame the old Tang space and create a broad V-shaped opening into the new axis.
+- A slight backward sweep in curtain edges and robe hems suggests forward passage, while the curtains remain securely fixed.
 
+POLITICAL TRANSITION:
+- One real bronze threshold runs horizontally beneath her stride.
+- Behind it: compressed, dim, cinnabar-dominant old Tang court space.
+- Ahead toward the viewer: a broad imperial-violet and cold-ivory aisle reading as a newly opened political order.
+- Her leading foot is beyond the threshold and trailing foot behind it.
+- Floor lines converge toward the viewer, placing the audience on the receiving court's central axis.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer is one official within the kneeling ranks and experiences the decree descending through space.
+JINLUN EMBLEM:
+- One complete, clean, polished eight-spoke bronze-gold Jinlun state emblem is mounted as low relief on a dark lacquer screen behind and slightly to viewer-right.
+- All eight spokes and the full circle are readable, with a clear gap from her head so it never becomes a halo.
+- It reads as official state insignia, not a cart wheel, Buddhist aura, portal, or random ornament.
+- Bronze gold remains object-bound to the wheel, threshold, crown hardware, curtain hooks, and minimal costume detail. No gold dust.
 
-EVENT MOTION THROUGH THE FRAME:
-the sealed blank decree and purple-gold wheel rays descend diagonally from upper-right to lower-left, not straight at camera.
+VIEWER AND COMPOSITION:
+- The viewer is a kneeling senior court official on the new axis; show only two dark, soft, out-of-focus shoulders at the lower corners.
+- 45–50 mm lens feeling and restrained low camera around 8 degrees, with no fisheye.
+- Place Wu slightly left of center and keep the emblem readable on viewer-right.
+- Face, forward foot, threshold, overlapping sleeve mass, and wheel must read instantly.
 
-EXTREME FOREGROUND DESIGN:
-blurred shoulders of two kneeling officials create a low human frame.
+STYLE:
+Adult non-photoreal Chinese historical manga; thick matte mineral pigment; expressive ink contours; layered mural abrasion; crisp facial planes; dry-brush cloth edges; controlled cinematic depth. Palette: imperial violet, aged cinnabar, cold ivory, soot black, muted teal-grey, restrained clean bronze.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C14-PURPLE-CINNABAR-IVORY-GOLD-G3
-- Dominant palette: imperial purple, dark cinnabar, ivory and deep ink-black.
-- Gold allocation: G3 deliberate 8–10 percent, reserved for the geometric wheel, crown beads and decree seal; large controlled shapes, never random speckles.
-- Lighting logic: monumental purple-gold backlight descending along the steps.
-- Surface rhythm: rotating geometric rays, broad purple mineral fields and clean monumental breaks.
+HARD EXCLUSIONS:
+No curtain-lifting action, hand touching curtain, visible hand, visible finger, exposed wrist, hand-shaped sleeve bulge, extra limb, staff, decree, sword, fan, throne, seated pose, static atlas pose, young beauty, concubine styling, giant body, tiny protagonist, giant foreground foot, warped legs, floating curtains, magical wind, halo, incomplete wheel, eroded wheel, gold glitter, text, pseudo-writing, watermark, or UI.
 
-HISTORICAL EVENT ENVIRONMENT:
-Luoyang divine capital silhouettes in purple fog, sacred political light.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "purple-gold divine-capital monument portrait" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL QA:
+Reject unless the image reads as aged Wu Zhao striding across a bronze threshold from cinnabar old Tang into violet Wu-Zhou, both hands completely concealed inside overlapping sleeves, curtains already fixed open, one complete eight-spoke Jinlun emblem, and the kneeling viewer directly confronted by her sovereign position.
 
 
 === SAVE CONTRACT ===

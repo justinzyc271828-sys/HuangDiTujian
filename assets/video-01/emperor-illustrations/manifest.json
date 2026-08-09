@@ -378,26 +378,26 @@
       "display": "武则天",
       "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\14-zhou-wu-zetian.txt",
       "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\14-zhou-wu-zetian.png",
-      "shot_code": "S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD",
+      "shot_code": "S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS",
       "shot_plan": {
-        "code": "S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD",
-        "elevation": "extreme low view from the base of the Luoyang audience steps, looking up about 28 degrees",
-        "azimuth": "left-facing three-quarter sovereign high in the frame, with crown-bead lines breaking the sky",
-        "scale": "24 mm wide medium-full view using monumental steps rather than a frontal close-up",
-        "roll": "level axial architecture",
-        "interaction": "the viewer is one official within the kneeling ranks and experiences the decree descending through space",
-        "motion": "the sealed blank decree and purple-gold wheel rays descend diagonally from upper-right to lower-left, not straight at camera",
-        "foreground": "blurred shoulders of two kneeling officials create a low human frame"
+        "code": "S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS",
+        "elevation": "restrained low view from the kneeling court axis, looking upward about eight degrees",
+        "azimuth": "near-frontal three-quarter stride with the sovereign slightly left of center and the Jinlun state emblem separated on the right",
+        "scale": "45–50 mm full environmental figure; the ruler occupies about seventy percent of frame height without wide-angle distortion",
+        "roll": "level axial architecture and one horizontal bronze threshold",
+        "interaction": "the viewer is a kneeling senior official directly confronted as the new sovereign crosses into the receiving court",
+        "motion": "the leading foot crosses from cinnabar shadow into the violet aisle while robe hems trail backward and the fixed-open curtains frame the passage",
+        "foreground": "two soft dark shoulders of kneeling officials frame the lower corners; no hand, decree or table enters the lens"
       },
-      "color_code": "C14-PURPLE-CINNABAR-IVORY-GOLD-G3",
+      "color_code": "C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2",
       "palette_plan": {
-        "code": "C14-PURPLE-CINNABAR-IVORY-GOLD-G3",
-        "dominant": "imperial purple, dark cinnabar, ivory and deep ink-black",
-        "gold": "G3 deliberate 8–10 percent, reserved for the geometric wheel, crown beads and decree seal; large controlled shapes, never random speckles",
-        "light": "monumental purple-gold backlight descending along the steps",
-        "surface": "rotating geometric rays, broad purple mineral fields and clean monumental breaks"
+        "code": "C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2",
+        "dominant": "deep imperial violet, aged cinnabar, cold ivory, soot black and muted teal-gray",
+        "gold": "G2 restrained clean bronze reserved for the complete eight-spoke state emblem, threshold, crown hardware and curtain hooks; no random gold dust",
+        "light": "dim cinnabar old-court shadow behind against a clearer cold-ivory and violet receiving axis ahead",
+        "surface": "heavy tied-back curtain fields, overlapping mineral-cloth sleeves, one clean bronze threshold and a coherent polished wheel relief"
       },
-      "status": "pending"
+      "status": "approved"
     },
     {
       "order": 15,
@@ -406,26 +406,26 @@
       "display": "唐宪宗",
       "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\15-tang-xian-zong.txt",
       "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\15-tang-xian-zong.png",
-      "shot_code": "S15-EYE-PROFILE-TELE-CLOSE-DEPTH",
+      "shot_code": "S15-EYE85-PROFILE-TURN-MESSENGER",
       "shot_plan": {
-        "code": "S15-EYE-PROFILE-TELE-CLOSE-DEPTH",
-        "elevation": "eye level beside a candle in the strategy room",
-        "azimuth": "strong right profile seen through the candle flame, with the ruler on the left third looking toward the snowy window",
-        "scale": "85 mm compressed close shot; shallow depth separates flame, profile, marker hand and messenger",
-        "roll": "level intimate frame",
-        "interaction": "the viewer is the newly arrived messenger watching the decision crystallize across the room",
-        "motion": "snow-charged ink lines travel from the distant window toward the map while wax sparks rise vertically between viewer and face",
-        "foreground": "large out-of-focus candle flame and wax rim partially veil the profile"
+        "code": "S15-EYE85-PROFILE-TURN-MESSENGER",
+        "elevation": "eye level from the kneeling messenger's position just inside the palace doorway",
+        "azimuth": "right-facing body profile on the left third, with the emperor's head turned sharply three-quarter toward the viewer",
+        "scale": "70–85 mm compressed medium-close shot separating candle, ruler, chain-bound map and snowy doorway",
+        "roll": "subtle three-degree clockwise tension tilt",
+        "interaction": "the viewer is the snow-covered Caizhou messenger whose arrival interrupts the ruler's sleepless watch",
+        "motion": "snow ink travels from the distant gate through the doorway toward the released map clamp and across the robe edge",
+        "foreground": "one soft snow-caked messenger shoulder at viewer-right and one out-of-focus iron candle cup at viewer-left"
       },
-      "color_code": "C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0",
+      "color_code": "C15-SNOWCYAN-AMBER-CHARCOAL-PURPLE-G0",
       "palette_plan": {
-        "code": "C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0",
-        "dominant": "snow cyan, candle amber, charcoal and a small oxide-red map marker",
-        "gold": "G0 no gold leaf; warmth comes entirely from flame and wax",
-        "light": "single amber candle against cold blue snow light",
-        "surface": "frosted dry pigment, shallow-focus wax haze and fine wind-driven snow ink"
+        "code": "C15-SNOWCYAN-AMBER-CHARCOAL-PURPLE-G0",
+        "dominant": "cold snow cyan, charcoal-black, deep blue-purple, candle amber and one tiny oxide-red seal-cord accent",
+        "gold": "G0 no gold leaf, gold glitter or scattered gold flecks",
+        "light": "cold doorway light and one amber candle split the emperor's turned face",
+        "surface": "dry-brush frost, flaking charcoal pigment, restrained flying-white snow ink and matte iron clamps"
       },
-      "status": "pending"
+      "status": "approved"
     },
     {
       "order": 16,
@@ -434,26 +434,26 @@
       "display": "后周世宗",
       "prompt": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\prompts\\16-zhou-shi.txt",
       "output": "D:\\Workspaces\\Github\\HuangDiTujian\\assets\\video-01\\emperor-illustrations\\outputs\\16-zhou-shi.png",
-      "shot_code": "S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION",
+      "shot_code": "S16-EYE50-EMPERORAXIS-ZHAOCORNER",
       "shot_plan": {
-        "code": "S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION",
-        "elevation": "ground-level battlefield camera looking up about 10 degrees",
-        "azimuth": "front diagonal three-quarter as the emperor lunges from upper-right toward a fleeing soldier at lower-left",
-        "scale": "28 mm dynamic wide shot with both action vectors visible but the emperor dominant",
-        "roll": "12-degree counterclockwise Dutch tilt",
-        "interaction": "the viewer occupies the wavering soldier's unstable position and is physically pulled back toward the battle",
-        "motion": "the grab closes across the frame from right to left while whip and banners point back toward the battlefield depth",
-        "foreground": "the fleeing soldier's cropped forearm and shield edge enter from the lower-left"
+        "code": "S16-EYE50-EMPERORAXIS-ZHAOCORNER",
+        "elevation": "eye height from one Later Zhou soldier halted inside the retreat",
+        "azimuth": "Chai Rong and black horse dominate the central-right foreground while Zhao Kuangyin remains a small mounted subordinate in the lower-left",
+        "scale": "50 mm medium-wide view; the emperor occupies roughly two-thirds frame height without wide-angle distortion",
+        "roll": "nearly level with only a two-degree clockwise tension tilt",
+        "interaction": "the viewer is a wavering Later Zhou soldier whose retreat is stopped by the emperor's horse, gaze and central command standard",
+        "motion": "pale dust and fleeing bodies move downhill while Chai Rong interrupts the current and Zhao's smaller cavalry wedge echoes the uphill countercharge",
+        "foreground": "one blurred dark shield rim at the extreme lower-right, with no visible foreground face or hand"
       },
-      "color_code": "C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0",
+      "color_code": "C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0",
       "palette_plan": {
-        "code": "C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0",
-        "dominant": "battle dust ochre, iron blue, torn banner red and black-brown leather",
-        "gold": "G0 no gold leaf or gilded atmosphere",
-        "light": "hard autumn side light filtered through dust",
-        "surface": "impact scuffs, ripped-banner strokes and diagonal dust sheets"
+        "code": "C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0",
+        "dominant": "dust ochre, iron blue-gray, soot charcoal, black-brown leather and disciplined deep vermilion",
+        "gold": "G0 no gold leaf, glitter, gold dust or black-gold overlay",
+        "light": "hard autumn side light filtered through Gaoping dust",
+        "surface": "matte iron lamellae, cracked mineral dust, weathered black-vermilion command textiles and flying-white countercharge strokes"
       },
-      "status": "pending"
+      "status": "approved"
     },
     {
       "order": 17,

@@ -1,0 +1,77 @@
+PROMPT_VERSION: 9.0-hidden-hands-threshold-stride
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: APPROVED — PROMOTED TO FORMAL OUTPUT, DO NOT REGENERATE
+SHOT_CODE: S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\14-zhou-wu-zetian.png
+OWNER_CONFIRMED_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v9-owner-confirmed.png
+STRUCTURAL_REFERENCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v8-base-reset-hand-refine.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene. Create one completely redrawn 16:9 emperor-series key illustration. The input is a structural, palette, identity, and style reference only; do not edit or copy its curtain-gripping pose. Rebuild the scene from scratch with a hand-free action.
+
+CORE CONCEPT:
+Wu Zhao crosses the final bronze threshold from the old Tang court into the new Wu-Zhou emperor's central axis. The political transition—not a hand gesture—is the decisive action. Preserve the successful aged Wu Zhao identity, monumental viewer confrontation, cinnabar-to-violet transition, clean eight-spoke Jinlun state emblem, Mingtang architecture, and mineral-mural historical-manga style.
+
+PROTAGONIST:
+- Wu Zhao is about 66 years old: broad square authority face, visible age lines, grey-streaked hair, cold intelligent eyes, and controlled resolve.
+- Emperor-style crown and dark imperial-violet robes with aged-cinnabar inner panels and restrained bronze hardware.
+- Large but human-scale, occupying about 68–72% of image height.
+- Three-quarter frontal stride toward the viewer; chin slightly lowered and gaze meeting the kneeling court.
+- Front foot planted on the new violet central aisle; rear foot remains on the old cinnabar side behind the bronze threshold. Hips, knees, shoulders, and robe weight follow a natural walk.
+- Robe hems and sleeves trail slightly backward from forward momentum, creating force without an arm gesture.
+
+NO VISIBLE HANDS — ABSOLUTE:
+- Both forearms are folded calmly across the lower torso in a formal sovereign posture, completely concealed inside two broad overlapping long sleeves.
+- The sleeve ends overlap at the abdomen as one clean layered fabric shape.
+- Show no hands, fingers, fingertips, knuckles, hand-shaped bulges, or exposed wrists anywhere.
+- Neither arm approaches the curtain. Authority comes from stride, posture, gaze, and spatial transition.
+
+CURTAIN WITHOUT HUMAN CONTACT:
+- Heavy aged-cinnabar regency curtains are already fully drawn back to both sides by fixed bronze wall hooks and short architectural tiebacks attached to the columns.
+- No person touches them; no attendant or floating force opens them.
+- The panels frame the old Tang space and create a broad V-shaped opening into the new axis.
+- A slight backward sweep in curtain edges and robe hems suggests forward passage, while the curtains remain securely fixed.
+
+POLITICAL TRANSITION:
+- One real bronze threshold runs horizontally beneath her stride.
+- Behind it: compressed, dim, cinnabar-dominant old Tang court space.
+- Ahead toward the viewer: a broad imperial-violet and cold-ivory aisle reading as a newly opened political order.
+- Her leading foot is beyond the threshold and trailing foot behind it.
+- Floor lines converge toward the viewer, placing the audience on the receiving court's central axis.
+
+JINLUN EMBLEM:
+- One complete, clean, polished eight-spoke bronze-gold Jinlun state emblem is mounted as low relief on a dark lacquer screen behind and slightly to viewer-right.
+- All eight spokes and the full circle are readable, with a clear gap from her head so it never becomes a halo.
+- It reads as official state insignia, not a cart wheel, Buddhist aura, portal, or random ornament.
+- Bronze gold remains object-bound to the wheel, threshold, crown hardware, curtain hooks, and minimal costume detail. No gold dust.
+
+VIEWER AND COMPOSITION:
+- The viewer is a kneeling senior court official on the new axis; show only two dark, soft, out-of-focus shoulders at the lower corners.
+- 45–50 mm lens feeling and restrained low camera around 8 degrees, with no fisheye.
+- Place Wu slightly left of center and keep the emblem readable on viewer-right.
+- Face, forward foot, threshold, overlapping sleeve mass, and wheel must read instantly.
+
+STYLE:
+Adult non-photoreal Chinese historical manga; thick matte mineral pigment; expressive ink contours; layered mural abrasion; crisp facial planes; dry-brush cloth edges; controlled cinematic depth. Palette: imperial violet, aged cinnabar, cold ivory, soot black, muted teal-grey, restrained clean bronze.
+
+HARD EXCLUSIONS:
+No curtain-lifting action, hand touching curtain, visible hand, visible finger, exposed wrist, hand-shaped sleeve bulge, extra limb, staff, decree, sword, fan, throne, seated pose, static atlas pose, young beauty, concubine styling, giant body, tiny protagonist, giant foreground foot, warped legs, floating curtains, magical wind, halo, incomplete wheel, eroded wheel, gold glitter, text, pseudo-writing, watermark, or UI.
+
+FINAL QA:
+Reject unless the image reads as aged Wu Zhao striding across a bronze threshold from cinnabar old Tang into violet Wu-Zhou, both hands completely concealed inside overlapping sleeves, curtains already fixed open, one complete eight-spoke Jinlun emblem, and the kneeling viewer directly confronted by her sovereign position.
+
+=== QA NOTES ===
+
+V9 is a full redraw rather than another hand patch. The curtain is fixed open by architectural hooks, both hands and wrists are fully concealed, and the decisive action is the threshold stride. The old-red/new-violet transition, Jinlun emblem, aged face, human scale, and kneeling-viewer perspective remain clear. Approved by the owner. The owner-confirmed candidate and formal output are byte-identical with SHA256 7549C84A0ECE66E010DF102ECB0792E45C3E5C1923293574E3644F0CD1827CC3.
+
+=== SAVE CONTRACT ===
+
+Formal output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\14-zhou-wu-zetian.png
+
+Approved — do not regenerate or overwrite.

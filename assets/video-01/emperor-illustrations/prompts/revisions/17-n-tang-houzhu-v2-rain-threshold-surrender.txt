@@ -1,0 +1,81 @@
+PROMPT_VERSION: 2.0-rain-threshold-surrender
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: REJECTED — OWNER REVIEW
+SHOT_CODE: S17-EYE55-THRESHOLD-DESCENT-REARTURN
+COLOR_CODE: C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v2-rain-threshold-surrender.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene. Create one new 16:9 emperor-series key illustration for Li Yu, the last ruler of Southern Tang, during the fall of Jinling in 975.
+
+REFERENCE ROLES:
+Reference image 1 supplies only the series grammar: adult Chinese historical-manga character design, dominant protagonist scale, matte granular mineral-pigment mural surface, aged cracked plaster and strong graphic silhouettes. Do not copy Qin costume, seal, map table, frontal stamping pose, ochre state map or black-gold density. Reference image 2 supplies only expressive ink force, flying-white edges and directional motion. Do not copy its person, props, composition or palette.
+
+CORE HISTORICAL IDENTITY:
+Li Yu must read simultaneously as a failed ruler at the instant his state ends and as the poet-musician whose literary afterlife outlives that failure. Do not make a generic melancholy scholar portrait. Freeze one irreversible public action: the thirty-eight-year-old former sovereign crosses the last palace threshold and descends toward the viewer's position among the waiting Song soldiers, while the cultural world behind him is torn open by the rain and the fall of Jinling.
+
+SIGNATURE FREEZE MOMENT:
+Li Yu has just placed one soft shoe onto the first rain-flooded outer step. His body moves toward the viewer, but his head turns back over his left shoulder toward the ruined inner hall and the orange reflections of burning Jinling. The turn is unfinished: his robe hem still trails inside, and a gust has just pulled a long blank sheet of Chengxintang-style fine paper from beside a broken guqin. The blank sheet skims over black ink, crosses the wet threshold and streams toward the viewer like a pale river wake. No one holds the paper. This is the instant a kingdom becomes memory and blank poetic space, not a posed farewell.
+
+LI YU — PRIMARY PROTAGONIST:
+- East Asian man about thirty-eight or thirty-nine, slender narrow-shouldered adult with a refined slightly gaunt scholar's face, long gentle jaw, pale rain-cooled skin, melancholy arched brows, sensitive deep-set eyes, straight narrow nose, thin dark moustache and a very small neat chin beard.
+- Expression: stunned self-awareness and contained shame, not crying, smiling, shouting, romantic swooning or youthful idol beauty. His eyes glance back into the lost hall while the viewer sees a clear three-quarter face.
+- Soft rain-darkened black futou or headcloth with short drooping tails, complete and uncropped. Thin moon-white cross-collar inner robe beneath a blue-gray fine-cloth outer robe with very muted faded-rose lining. Weighted wet fabric, plain soft shoes. No armor, sword, crown, bead curtain, dragon robe, imperial yellow or luxury gold embroidery.
+- Li Yu occupies about 64–68% of frame height and remains the unmistakable focal figure.
+
+HANDS AND BODY PHYSICS:
+- Both forearms fold naturally inside the broad overlapping sleeves at lower chest level; both hands, fingers, palms and wrists are completely concealed.
+- The sleeve overlap must read as ordinary formal restraint, with no hand-shaped bulges, fused limbs or impossible elbow directions.
+- One leading foot lands firmly on the first exterior step while the rear foot remains just behind the threshold. Natural walking balance, no giant stride, floating body or twisted hips.
+
+CAMERA AND VIEWER PARTICIPATION:
+- Eye-level 55 mm medium-full shot from the base of the palace steps, where a Song guard or envoy waits in the rain.
+- Place Li Yu slightly left of center, descending diagonally from upper-left interior toward lower-right viewer space. His turned face remains near the central upper third and is fully readable.
+- Extreme lower-right foreground: only one soft, dark, rain-beaded Song helmet rim and shoulder edge. No face, hand, weapon or oversized body blocks Li Yu.
+- Keep the camera level. The architecture supplies stable verticals while paper, robe and rain create lateral movement.
+- Four depth layers: blurred waiting guard; Li Yu on the threshold; broken guqin and flooded inner hall; distant Qinhuai roofs and fire reflected through the torn rain screen.
+
+POET–KING EVIDENCE, CONTROLLED AND PHYSICAL:
+- Inside the hall at viewer-left, one low lacquer platform holds a historically plausible Chinese guqin with one visibly snapped string still attached at both ends and recoiling above the soundboard. The instrument is secondary, never giant and never broken into impossible pieces.
+- Beside it, one plain inkstone has tipped naturally, creating a shallow grounded pool of black ink. Exactly one long blank fine-paper sheet touches the ink edge, then is pulled by wind across the wet stone threshold toward the viewer. The sheet remains physically continuous and has no writing, pseudo-writing, symbols or printed border.
+- The diluted ink bloom on the blank paper gradually aligns with the real dark Qinhuai water visible outside, visually joining poetry and lost territory without magical glow or hologram effects.
+
+FALL OF JINLING — BACKGROUND EVIDENCE:
+- Through a broken side lattice and rain curtain behind Li Yu, show only a compressed secondary glimpse of Jinling: dark Southern Tang rooflines, a city gate silhouette, distant Song torches and unstable orange fire reflections moving across the Qinhuai water.
+- No close combat, gore, crowd spectacle or giant armies. The danger is spatial pressure and irreversible surrender.
+- One interior hanging landscape silk has been torn loose at a corner and whips in the same wind direction as the paper, but contains only abstract mountains and water with no text or seals.
+
+MOTION DESIGN:
+- Cold rain falls diagonally from upper-right to lower-left. The pale blank sheet moves from upper-left interior across the threshold toward lower-right viewer, crossing the rain at a readable angle.
+- Li Yu moves toward the viewer while looking back; robe hems and soft futou tails lag toward the lost hall, making the body split between surrender and memory.
+- Diluted ink and distant fire reflections feather sideways through the mineral texture. Freeze before the paper passes the viewer and before his rear foot leaves the palace.
+
+COLOR AND LIGHT:
+- Dominant palette: rain blue, blue-gray, pooled ink-black, wet silk white, faded rose and distant fire orange.
+- G0: absolutely no gold leaf, gold glitter, gold dust or black-gold overlay.
+- Cold rain light defines the face, wet futou and moon-white collar; distant orange fire brushes only one cheek edge, the wet threshold and Qinhuai reflections.
+- Keep the orange secondary and unstable. The image must feel like wet Jiangnan ink inside the established mineral-mural series, not a warm palace drama.
+
+SERIES VISUAL LANGUAGE:
+Adult non-photoreal Chinese historical manga fused with matte mineral-pigment mural painting and expressive wet ink: decisive adult facial planes, aged plaster, coarse paper grain, cracked and flaking pigments, diluted ink blooms, rain beads, wet silk feathering and controlled flying-white motion. Painterly and graphic, not photoreal, live-action, glossy 3D or smooth generic anime.
+
+HARD EXCLUSIONS:
+static window portrait, man merely leaning and looking sad, generic scholar, romantic idol, beautiful androgynous youth, crying melodrama, emperor still on throne, armor, sword, crown, dragon robe, imperial yellow, golden palace, hand holding paper, visible fingers, calligraphy, readable poem, Chinese characters, pseudo-writing, multiple sheets flying chaotically, giant guqin, impossible broken instrument, magical ink spirits, hologram, close battle, gore, modern object, Japanese costume, European armor, text, logo, watermark, UI, radar chart, gold flecks, photoreal skin, glossy CGI, extra limbs or malformed anatomy.
+
+FINAL QA:
+Reject unless the first read is “Li Yu crosses out of fallen Jinling while his artistic world is pulled into the rain”; he is large and unmistakably primary; his refined adult poet-emperor identity, surrender movement and backward gaze all read together; both hands are fully concealed; the blank sheet, inkstone and snapped guqin are physically coherent and secondary; the viewer feels positioned among the waiting conquerors; no writing appears; and rain blue, ink black, silk white and distant fire orange remain G0 with no gold.
+
+=== QA NOTES ===
+
+Generated in one built-in imagegen attempt using the two fixed series anchors. Candidate saved at 1672x941 PNG. SHA256 2A6178E7BD3A1D4C0FC2BD763B7803FB00E299249F768515E9A94B8BE3DD15E2. Rejected by the owner on 2026-08-08. Independent rejection diagnosis: the first read is a generic melancholy scholar leaving a rain-soaked room, not the defeated Southern Tang ruler formally crossing into Song custody; Li Yu is too small in total visual mass; the panoramic burning city and oversized foreground helmet compete with him; the guqin shows several loose wire-like loops instead of one physically credible snapped string; scattered warm/gilded surface flecks violate the strict G0 intent; and the rendering leans toward live-action historical concept art rather than decisive adult manga planes, mineral mural blocks and expressive ink force.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v2-rain-threshold-surrender.png
+
+Candidate only — do not overwrite or promote without owner approval.

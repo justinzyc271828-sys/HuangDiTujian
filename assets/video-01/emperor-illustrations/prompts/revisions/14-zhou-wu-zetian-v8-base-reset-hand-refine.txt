@@ -1,0 +1,56 @@
+PROMPT_VERSION: 8.0-base-reset-hand-refine
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN-BASE-RESET
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v8-base-reset-hand-refine.png
+EDIT_SOURCE: C:\Users\J1890\AppData\Local\Temp\codex-clipboard-79be6ea3-07f5-47b7-99be-15f6d3298ee7.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit. Image 1 is the only edit target and authoritative base. Ignore every later variation. Preserve Image 1 completely except for Wu Zhao's visible right hand, wrist, and a very small adjacent curtain patch. Replace the awkward hand with one simple, anatomically correct, normal-sized right hand performing a believable heavy-curtain opening action. Do not redesign the arm or scene.
+
+ACTION:
+- The visible arm on viewer-left is Wu Zhao's right arm.
+- She opens the curtain toward her own right/viewer-left while stepping through the threshold.
+- Preserve the shoulder, upper arm, elbow, sleeve silhouette, hand location, and overall pull/lift direction.
+- Use a simple overhand curtain-edge hold that assists a rightward push/lift. It is not an open display gesture and not a tight fist squeezing a ball.
+- Keep the curtain a broad heavy sheet. At the hand, form only two or three broad compression folds—no compact rope, tied knot, or round bundle.
+
+SIMPLE RIGHT-HAND DESIGN:
+- Show the right hand in a three-quarter side/back view, attached naturally to the existing right wrist.
+- The back of the hand faces mostly toward the viewer; the palm faces the curtain.
+- Four fingers curl naturally around and behind the broad curtain edge. Most distal finger segments remain hidden by the curtain; show four coherent knuckle ridges rather than a confusing fan of exposed fingers.
+- One single thumb crosses the lower front of the curtain edge to oppose the hidden four fingers. The thumb is the lowest visible digit and lies on the body-facing side.
+- Exactly one right hand and exactly five digits anatomically implied: four curled fingers plus one opposing thumb. No extra fingertip may emerge from cloth folds.
+- Correct metacarpals, knuckle arc, wrist crease, tendon direction, and forearm continuity.
+- Reduce the source hand by about 12–15%. Palm width should be no wider than roughly half the width of Wu Zhao's face.
+- Keep a straight wrist aligned with the forearm and avoid severe foreshortening.
+
+FORCE AND CLOTH:
+- The curtain edge presses into the palm and wraps slightly around the curled fingers.
+- Broad tension folds travel from the hand upward-left while the lower curtain sweeps leftward, proving the curtain is being opened rather than merely held.
+- Preserve the body stride and threshold crossing. The hand remains a supporting action, not the primary focal object.
+
+ABSOLUTE PRESERVATION:
+Do not change Wu Zhao's aged face, hair, crown, expression, body proportions, shoulder, elbow, arm placement, robe design, hidden opposite hand, forward foot, rear foot, bronze threshold, cinnabar old side, violet new aisle, complete eight-spoke Jinlun emblem, Mingtang screen and columns, kneeling foreground officials, framing, camera, palette, lighting, brush texture, or any background object.
+
+HARD EXCLUSIONS:
+No open splayed hand, finger fan, reversed left hand, thumb at the top, five long fingers plus thumb, six fingers, extra fingertip, duplicated thumb, missing hand, deformed wrist, giant hand, tiny doll hand, clenched round fist, curtain knot, rope-like fabric, extra arm, visible opposite hand, moved elbow, changed stride, changed face, changed wheel, changed threshold, text, watermark, or UI.
+
+FINAL QA:
+Confirm a correct right hand on the existing right forearm; one thumb visible at the lower body-facing side; four fingers curling behind the broad curtain edge; hand 12–15% smaller than the source; wrist naturally aligned; and the rest of Image 1 preserved.
+
+=== QA NOTES ===
+
+V8 resets to the owner's supplied base instead of inheriting V5–V7. The hand is smaller and structurally simpler: four curled fingers are mostly occluded by the curtain edge, with one opposing thumb and a coherent wrist. The body, stride, threshold, wheel, palette, and framing remain stable. Awaiting owner review.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v8-base-reset-hand-refine.png
+
+Candidate only — do not overwrite or promote without owner approval.

@@ -3,64 +3,33 @@ ID: zhou-shi
 ORDER: 16
 PERSONAL_NAME_ZH: 柴荣
 DISPLAY_ZH: 后周世宗
-STATUS: PENDING GENERATION
-SHOT_CODE: S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION
-COLOR_CODE: C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S16-EYE50-EMPERORAXIS-ZHAOCORNER
+COLOR_CODE: C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: precise-object-edit. Edit the supplied Chai Rong Battle of Gaoping illustration. Preserve the entire image exactly except for the banner designs described below.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+LOCKED INVARIANTS — DO NOT CHANGE:
+- Preserve Chai Rong's face, age, expression, white helmet plume, armor, mantle, body, hidden hands, black horse, saddle, anatomy, scale and central-right position exactly.
+- Preserve the smaller young Zhao Kuangyin at the lower-left, his chestnut horse, spear, crimson sash, scale, direction and cavalry wedge exactly.
+- Preserve every other soldier, horse, spear, shield, ridge, ground mark, dust current, composition, crop, perspective, lighting, color balance, mineral-mural texture and expressive ink motion.
+- Do not add, remove, enlarge, shrink, move or redesign any person, limb, horse or weapon.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man 33-34, Five Dynasties young martial emperor, square heroic young face, upright fierce eyes, short stubble, battle dust on skin, compact explosive body, COSTUME: black-and-silver Chinese Five-Dynasties full armor, red-trimmed war robe, tied helmet, ready to fight, ACCESSORIES AND PROPS: sword or whip, blood-red banners, imperial guard ranks, fleeing coward silhouettes.
+CHANGE ONLY THE BANNERS:
+1. Replace the large black banner directly behind Chai Rong that currently contains a red circular sun and radial bars. Make it a historically neutral Five Dynasties imperial field command banner: one weathered deep-vermilion rectangular silk field with a broad soot-black border, three restrained horizontal black fabric bands, ragged wind-torn outer edge, no central disc, no rays, no sun, no emblem, no animal, no writing and no pseudo-writing. Add a small cluster of three short off-white yak-tail command tassels securely tied immediately below the existing pole finial; they must remain secondary and physically attached.
+2. Replace every smaller background banner that contains a red circular disc or radial pattern. Use simple weathered black-and-deep-vermilion split fields or narrow vertical bands only, with varied damage but no symbols.
+3. Keep the banner poles, locations, scale, wind direction, folds, silhouettes and motion exactly as in the source image.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as at Gaoping he physically turns the first fleeing guard back toward the battle before the formation recovers.
+HARD EXCLUSIONS:
+No red sun, no circular disc, no rays, no rising-sun pattern, no Japanese flag association, no readable text, no Chinese characters, no pseudo-writing, no dragon, no phoenix, no modern emblem, no gold, no new figures, no face changes, no hand changes, no horse changes, no camera changes and no global repaint.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION
-- Elevation and pitch: ground-level battlefield camera looking up about 10 degrees.
-- Subject azimuth and orientation: front diagonal three-quarter as the emperor lunges from upper-right toward a fleeing soldier at lower-left.
-- Shot scale and lens behavior: 28 mm dynamic wide shot with both action vectors visible but the emperor dominant.
-- Camera roll: 12-degree counterclockwise Dutch tilt.
-
-
-AUDIENCE PARTICIPATION MODE:
-the viewer occupies the wavering soldier's unstable position and is physically pulled back toward the battle.
-
-EVENT MOTION THROUGH THE FRAME:
-the grab closes across the frame from right to left while whip and banners point back toward the battlefield depth.
-
-EXTREME FOREGROUND DESIGN:
-the fleeing soldier's cropped forearm and shield edge enter from the lower-left.
-
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0
-- Dominant palette: battle dust ochre, iron blue, torn banner red and black-brown leather.
-- Gold allocation: G0 no gold leaf or gilded atmosphere.
-- Lighting logic: hard autumn side light filtered through dust.
-- Surface rhythm: impact scuffs, ripped-banner strokes and diagonal dust sheets.
-
-HISTORICAL EVENT ENVIRONMENT:
-Gaoping autumn grass slope, smoke, wind, raw battlefield.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "high-action short-burn war painting" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL QA:
+Reject unless the result is visually the same successful Chai Rong–Zhao Kuangyin composition, with only the large and small banners converted to neutral black-and-vermilion Five Dynasties command textiles; no disc or ray motif remains anywhere.
 
 
 === SAVE CONTRACT ===

@@ -1,0 +1,71 @@
+PROMPT_VERSION: 5B-overhead-paper-river-exploration
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: EXPLORATION ONLY — SELF-REJECTED FOR PRODUCTION
+HISTORICAL_LAYER: later poison legend plus explicit poetic dramatization
+SHOT_CODE: S17B-DOORHIGH45-OBLIQUE-FALLEN-PAPERRIVER
+COLOR_CODE: C17B-NIGHTINDIGO-ASHWHITE-EMBERRED-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5b-overhead-paper-river.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one 16:9 exploratory emperor-series key illustration
+
+Create a new image, not an edit. This is an explicitly poetic reconstruction of Li Yu's death in Bianjing: the poison spasm derives from a later Song legend, while deliberate manuscript burning and the homeland-in-fire transformation are imaginative visual symbolism.
+
+REFERENCE ROLES:
+- Reference image 1 controls only adult Chinese historical-manga rendering, protagonist dominance, matte mineral-pigment mural texture, cracked plaster and bold graphic planes. Do not copy Qin objects, camera, pose, black-gold balance or gold.
+- Reference image 2 controls only directional expressive ink, flying-white edges and motion energy. Do not copy its character or composition.
+- Reference image 3 controls only Li Yu's mature face, narrow shoulders, restrained soft futou and blue-gray captive-ruler identity. Do not copy the surrender scene, soldiers, ministers, palace gate or steps.
+
+DECISIVE FIRST READ:
+Seen from the high doorway of his confined Bianjing residence, Li Yu has just been twisted to the floor by a poison spasm after deliberately lighting a small manuscript fire. His body and the unfinished river of paper dominate the room; ink, burned edges and cracked mineral pigment transform the floor into a memory of Jiangnan being consumed. The image must not look like a crime-scene photograph, occult ritual circle, map or generic collapsed scholar.
+
+FREEZE MOMENT:
+The ignition has already been completed. A short glowing taper has just fallen beside one low bronze brazier. One neatly gathered end of a continuous path of fine blank manuscript sheets has begun to burn; the other end still slips from a low writing platform. The first strong contraction has pulled Li Yu diagonally onto one hip. His face lifts toward the viewer at the doorway before the next spasm closes his posture. Freeze before the fire reaches the remaining paper bundles and before his body fully collapses.
+
+CAMERA AND VIEWER POSITION:
+- High oblique 45 mm view from the inner side of the guarded doorway, looking downward about thirty-four degrees. The viewer occupies the position of the Song court attendant who delivered the cup and has returned to inspect the room.
+- A narrow dark door lintel or sleeve edge may frame the top-left, under seven percent of the image. No readable foreground person.
+- Li Yu lies diagonally across the central composition and occupies fifty-five to sixty-two percent of visual mass. His upturned face remains large and clear despite the high angle.
+- The paper path forms an open, incomplete S-shaped movement across the floor, never a closed ring. It guides the eye from low desk to Li Yu to the small brazier.
+
+LI YU AND ANATOMY:
+- East Asian man around forty-one or forty-two, refined but exhausted, slightly gaunt face, melancholy brows, deep-set intelligent eyes, thin moustache and tiny chin beard. Soft black futou intact. Plain formal blue-gray wide-sleeved robe, moon-white collar, faint faded-rose lining, soft shoes.
+- Pain reads through a contracted abdomen, one raised shoulder, tight jaw, strained neck and loss of balance, not through blood, foam, screaming or grotesque folding.
+- One hip and one forearm make clear contact with the floor. Both knees draw inward but remain below the pelvis; feet stay separated from the head. Spine, shoulders, pelvis, knees and ankles remain anatomically explainable.
+- Both hands are completely concealed: one forearm presses the abdomen inside a sleeve, the other sleeve is pinned beneath the torso. No fingers, palms or wrists visible.
+
+PAPER, FIRE, INK AND MEMORY PHYSICS:
+- One real fire source only: the low bronze brazier and the freshly fallen taper at its edge. Flame begins on one paper corner in physical contact with the heat. The nearest fibers char and curl; the paper farther away remains pale.
+- Exactly one visually continuous sequence of blank fine-paper sheets travels from the low desk across the floor to the brazier. The path may overlap naturally but never forms a complete circle, symbol, spell, map boundary or calligraphic character.
+- A grounded inkstone has tipped near the middle of the path. One shallow ink spill follows floor gravity and wets paper edges. The ink spill, paper path and cracked floor pigment gradually suggest the S-curve of Qinhuai water without becoming a literal drawn map.
+- At the far end, smoke and flaking mural pigment imply low Jinling roofs, one bridge and water reflections. These are abstract memory forms inside the room's mineral surface, not a real city, hologram or portal. The small physical fire remains the only true light source.
+- Manuscripts contain no readable text, pseudo-writing, characters, seals or decorative borders. Identity comes from paper bundles, brush, inkstone and the poet-ruler's action.
+
+COLOR AND SERIES MEDIUM:
+- Dominant palette: night indigo, blue-black, ash white, paper ivory, muted blue-gray and a small ember-red fire. Warm color stays under nine percent.
+- Strict G0: no gold leaf, gilding, gold speckles or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with a heavy matte mineral-pigment mural and forceful expressive ink. Strong designed silhouette, decisive facial planes, coarse paper and stone grain, cracked plaster, flaking indigo pigment, diluted ink blooms, charred fiber and flying-white ash. Let all motion travel from his contracted body through the falling taper, along the paper river and into the smoke-memory city.
+
+HARD AVOIDS:
+crime-scene realism, overhead tiny figure, generic dead body, ordinary sickbed, occult ritual, closed paper circle, magic sigil, compass, map, written poem, calligraphy, pseudo-writing, multiple paper swarms, enormous fire, room engulfed, real city inside room, literal Qinhuai outside Bianjing, magical portal, gore, blood, vomit, foam, head touching feet, impossible spine, extra limb, visible fingers, floating body, fire without paper contact, multiple light sources, gold, crown, dragon robe, armor, sword, photoreal skin, live-action still, glossy CGI, smooth anime, modern objects, logo, watermark or UI.
+
+FINAL QA TARGET:
+Reject unless Li Yu's face and diagonal body remain the first read; the high doorway makes the viewer complicit as the returning Song attendant; both hands are safely hidden; the collapse is agonized but anatomically coherent; the open paper path is physical and not a symbol; one small fire consumes it from one end; ink and cracked pigment imply Qinhuai and Jinling without literal magic; and the image remains G0 mineral-mural manga.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the two fixed series anchors plus the v4 Li Yu identity reference. Saved in the repository as a 1672x941 PNG. SHA256: 60A12F4E2997D5412042BC8830A475016D973109A359169F4393345C8A1D9443.
+
+Visual QA: The high doorway viewpoint, hidden hands, continuous paper movement, grounded ink spill and small single brazier create the strongest mural-like graphic design of the three. However, the paper path closes into an almost complete oval and reads too much like a ritual boundary; Li Yu's body appears posed and sorrowful rather than seized by a painful poison spasm; the city-memory wall becomes highly literal; and warm mineral/gold-like speckling drifts toward a black-gold treatment despite the G0 instruction. Self-rejected for production, but retained as a useful symbolic-composition exploration for the owner's feel review.
+
+=== SAVE CONTRACT ===
+
+Exploration candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5b-overhead-paper-river.png
+
+Do not promote or update approved package state without explicit owner approval.

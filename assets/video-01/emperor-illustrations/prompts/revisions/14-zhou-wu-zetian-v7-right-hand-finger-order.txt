@@ -1,0 +1,54 @@
+PROMPT_VERSION: 7.0-right-hand-finger-order
+ID: zhou-wu-zetian
+ORDER: 14
+PERSONAL_NAME_ZH: 武曌
+DISPLAY_ZH: 武则天
+STATUS: CANDIDATE — AWAITING OWNER REVIEW
+SHOT_CODE: S14-LOW45-THRESHOLD-JINLUN-RIGHTHAND-VERTICALORDER
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v7-right-hand-finger-order.png
+EDIT_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v6-right-hand-chirality.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit. Correct only Wu Zhao's visible right hand and the minimal wrist/curtain contact patch. The previous edit still used the wrong visible vertical finger order. Do not reinterpret the hand orientation; follow the exact screen map.
+
+EXACT RIGHT-HAND SCREEN MAP — NON-NEGOTIABLE:
+- The visible arm on the left side of the image is Wu Zhao's right arm.
+- Her right hand is rotated into a three-quarter dorsal/ulnar view while pushing the curtain toward viewer-left.
+- Along the visible hand silhouette, the digits appear in this exact TOP-TO-BOTTOM order: little finger, ring finger, middle finger, index finger, thumb.
+- The little finger is the highest visible digit nearest the upper curtain arc.
+- The thumb is the lowest visible digit, at the lower-right/base of the hand, closest to Wu Zhao's torso and wrist.
+- The little-finger/ulnar edge is upper-left; the thumb/radial edge is lower-right toward her body.
+- Exactly five digits total: four long fingers in a descending fan and one clearly shorter opposable thumb below them.
+- The thumb visibly originates from the lower-right side of the palm, not from between the four fingers.
+- Show correct right-hand knuckles, metacarpal slope, tendon direction, finger joints, and wrist continuity. No mirrored left hand.
+
+GESTURE:
+- Preserve the open push-and-lift action, not a grip: the broad curtain edge rests against the palm and fingers while the hand sweeps it toward viewer-left.
+- Four fingers touch the visible curtain surface lightly; the low thumb supports/hooks the lower inner edge.
+- Keep the hand open, not clenched, not holding a knot, and not pinching.
+- Maintain normal hand size relative to the face, neutral wrist, bent elbow, low shoulder, and the existing curtain arc.
+
+MINIMAL EDIT:
+Change only the hand from wrist crease to fingertips and, if needed, a narrow strip of curtain directly beneath those fingers. Preserve the forearm, sleeve, shoulder, body, and all other content.
+
+ABSOLUTE PRESERVATION:
+Keep unchanged Wu Zhao's aged face, crown, expression, right-arm position, sleeve silhouette, hidden opposite arm, stride, feet, violet/cinnabar robes, bronze threshold, old-red/new-violet transition, complete eight-spoke Jinlun emblem, Mingtang architecture, kneeling officials, crop, perspective, palette, lighting, and mineral-mural historical-manga texture.
+
+HARD EXCLUSIONS:
+No little finger at the bottom, index finger at the top, thumb at the top, left-hand anatomy, reversed thumb, mirrored arm, fist, cloth bundle, pinching, oversized hand, six fingers, extra fingertip, missing digit, fused fingers, duplicated thumb, extra hand, moved arm, changed curtain direction, changed face, changed wheel, changed threshold, text, watermark, or UI.
+
+FINAL QA:
+Trace the visible hand from top to bottom and verify: little, ring, middle, index, thumb. The thumb is the lowest digit and closest to Wu Zhao's body. Verify exactly five digits and a correct right hand attached to the existing right forearm.
+
+=== QA NOTES ===
+
+V7 explicitly locks the on-canvas vertical digit order instead of relying only on medial/lateral terminology. The hand reads as a right hand with the little-finger edge uppermost along the curtain and the thumb lowest near the body. Other composition anchors remain unchanged. Awaiting owner review.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\14-zhou-wu-zetian-v7-right-hand-finger-order.png
+
+Candidate only — do not overwrite or promote without owner approval.

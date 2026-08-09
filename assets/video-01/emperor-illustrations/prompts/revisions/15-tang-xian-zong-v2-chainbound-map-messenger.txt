@@ -1,0 +1,79 @@
+PROMPT_VERSION: 2.0-chainbound-map-messenger
+ID: tang-xian-zong
+ORDER: 15
+PERSONAL_NAME_ZH: 李纯
+DISPLAY_ZH: 唐宪宗
+STATUS: APPROVED — PROMOTED TO FORMAL OUTPUT, DO NOT REGENERATE
+SHOT_CODE: S15-EYE85-PROFILE-TURN-MESSENGER
+COLOR_CODE: C15-SNOWCYAN-AMBER-CHARCOAL-PURPLE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\15-tang-xian-zong.png
+CANDIDATE_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\15-tang-xian-zong-v2-chainbound-map-messenger.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene. Create one new 16:9 emperor-series key illustration for Tang Xianzong. Reference image 1 is the series anchor only for adult historical-manga anatomy, bold protagonist scale, matte mineral-mural surface, and designed graphic shapes; do not copy Qin costume, map table, seal, frontal pose, warm ochre field, or black-gold density. Reference image 2 is secondary only for expressive ink motion, flying-white edges, and directional marks; do not copy its emperor, props, palette, or composition.
+
+CORE HISTORICAL IDEA:
+Show Emperor Li Chun, Tang Xianzong, around age forty at the political climax of the Yuanhe campaigns. The viewer is the snow-covered messenger who has just reached the Daming Palace with news that Li Su entered Caizhou at night and captured Wu Yuanji in 817. Li Chun was not physically at Caizhou: keep him in the palace as the relentless sovereign who sustained the campaign. His defining identity is the late-Tang emperor briefly breaking the military-governor system—the last hard stroke of imperial restoration after the An Lushan catastrophe.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant Li Chun turns away from a chain-bound relief map toward the kneeling messenger-viewer. He has heard the decisive news but has not yet spoken. His body remains in severe right-facing profile toward the map; only his head and bloodshot eyes turn sharply three-quarter toward the viewer. One cold snow gust crosses the threshold and bends the nearby candle flame. On the map behind him, one black iron clamp has just sprung open over the Huai-Xi/Caizhou sector while the other clamps remain shut. The released clamp and snow route are symbolic editorial devices for the Yuanhe reduction of the military governors, not literal palace equipment.
+
+PROTAGONIST IDENTITY:
+- East Asian man about forty, lean and tense rather than broad heroic.
+- Long narrow mature face, thin hard jaw, high cheekbones, tight straight brows, visibly tired bloodshot eyes, high narrow nose, compressed lips, short neat dark moustache and compact beard.
+- Expression: sleepless concentration, contained vindication, and suspicion that victory may not last. No smile, shouting, or generic benevolent emperor.
+- Historically grounded late-Tang black hard-winged futou headwear, complete and uncropped.
+- Dark charcoal-blue round-collar Tang robe with restrained deep-purple folds, side slits, black leather belt and a few small belt pouches. No armor, dragon robe, yellow costume, bead crown, or luxurious gold embroidery.
+- He occupies about 62–68% of frame height and is unquestionably dominant.
+
+NO HAND-DEPENDENT ACTION:
+- Crop from mid-thigh upward. Both arms rest naturally behind his lower back; both hands are entirely outside the visible silhouette and below/behind the crop.
+- Show no hands, fingers, exposed wrists, or hand-shaped sleeve bulges, and no emperor touching the map.
+- His decisive action is the sharp head turn and fixed gaze toward the messenger, supported by shoulder torque and robe movement.
+
+CAMERA AND VIEWER PARTICIPATION:
+- Eye-level 70–85 mm compressed medium-close shot from the kneeling messenger's position just inside the open palace doorway.
+- Li Chun stands on the left third in a strong right-facing body profile; his turned face remains fully readable in three-quarter view.
+- Viewer-right foreground: only one soft out-of-focus snow-caked shoulder and the top edge of a blank sealed courier satchel, no visible hand and no readable markings.
+- Viewer-left foreground: one large out-of-focus iron candle cup and a single amber flame, below the emperor's chin and never covering his face.
+- Keep a subtle three-degree clockwise tension tilt.
+- Build four depth layers: candle rim, Li Chun, chain-bound relief map, open snowy doorway with distant Caizhou assault silhouettes.
+
+CHAIN-BOUND MAP:
+- Behind Li Chun is one large dark mineral-pigment relief map of the Tang realm fixed vertically to a plaster wall, with no text or labels.
+- Five heavy matte-black iron bands/clamps visibly pin rebellious outer regions toward the wall. They are architectural-symbolic coherent objects with rivets and contact shadows, not floating chains.
+- Exactly one clamp at the lower-right Huai-Xi/Caizhou sector hangs physically open from one hinge; a narrow cold snow-cyan route reaches it from the doorway.
+- The other four clamps remain closed and under tension, showing that one victory is real but the empire is not permanently healed.
+- No gold on the map, readable geography, Chinese characters, or hologram.
+
+SNOW-NIGHT CAIZHOU EVIDENCE:
+- Through the open doorway on viewer-right, show a compressed snowy night glimpse: distant dark city gate, tiny Tang soldiers already inside, one lowered rebel banner and wind-driven snow.
+- This remains secondary. Do not place Li Chun physically on the battlefield.
+- Snow ink travels from the gate through the doorway toward the released clamp and across the robe edge, linking battlefield result to palace decision.
+
+LIGHTING AND COLOR:
+- Dominant palette: cold snow cyan, charcoal-black, deep blue-purple, candle amber, and a tiny oxide-red accent on one blank seal cord.
+- G0: no gold leaf, gold glitter, scattered gold flecks, or black-gold overlay.
+- Cold cyan doorway light strikes the turned cheek, futou edge, and map clamp; one amber candle grazes the opposite cheek and robe collar.
+- Keep the cyan-versus-amber split clean and unlike the preceding violet/cinnabar Wu Zetian image.
+
+SERIES VISUAL LANGUAGE:
+Adult non-photoreal Chinese historical manga fused with thick matte mineral pigment and aged mural plaster; crisp facial planes, dry-brush frost, flaking charcoal pigment, restrained flying-white snow ink, weighted fabric, and controlled depth. Painterly and graphic, not photoreal, live-action, smooth anime, or glossy 3D.
+
+HARD EXCLUSIONS:
+No generic emperor portrait, map-table pointing pose, visible emperor hand, finger pressing marker, emperor at Caizhou battlefield, armor, weapon, horse, throne, dragon, bead crown, imperial yellow, heroic smile, young idol face, broad muscular general body, static front-facing atlas pose, giant messenger, messenger face, multiple focal people, floating chains, magical energy, broken clamp flying at camera, readable text, pseudo-writing, Chinese characters, watermark, logo, UI, radar chart, photoreal skin, smooth anime, glossy CGI, extra limbs, deformed anatomy, blood, or gore.
+
+FINAL QA:
+Reject unless the image reads as a sleepless late-Tang emperor in Daming Palace turning toward the snow-covered Caizhou messenger; his long tense face and hard-winged futou are clear; both hands are absent; one of the map clamps is physically open while others remain shut; cold snow cyan and candle amber split the frame; and Li Chun remains dominant.
+
+=== QA NOTES ===
+
+Generated in one built-in imagegen attempt using the two fixed series anchors. The emperor remains in the palace, the snowy Caizhou gate is secondary, both hands are absent, and the face/futou/robe read clearly. The chain-bound relief map is visually strong, though the exact clamp count is less important and less immediately countable than the broader idea of one released sector among several still-bound sectors. The snow-caked messenger shoulder creates participation but occupies substantial lower-right foreground. Owner approved this candidate on 2026-08-08. Formal output and candidate source are byte-identical: SHA256 E3609805DB5D9D28363F42E9B0E48EA742DB104F0E7EFFF8653D032A02109165.
+
+=== SAVE CONTRACT ===
+
+Approved formal output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\15-tang-xian-zong.png
+
+Approved and locked — do not regenerate or overwrite.

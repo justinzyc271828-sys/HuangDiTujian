@@ -1,0 +1,76 @@
+PROMPT_VERSION: 3.0-gaoping-emperor-zhao-echo
+ID: zhou-shi
+ORDER: 16
+PERSONAL_NAME_ZH: 柴荣
+DISPLAY_ZH: 后周世宗
+STATUS: REJECTED BY INTERNAL QA — PRIMARY IDENTITY FIX WORKED, BUT SUN-RAY BANNERS ARE ANACHRONISTICALLY AMBIGUOUS
+SHOT_CODE: S16-EYE50-EMPERORAXIS-ZHAOCORNER
+COLOR_CODE: C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v3-gaoping-emperor-zhao-echo.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene. Create one entirely new 16:9 emperor-series key illustration for Chai Rong, Emperor Shizong of Later Zhou, at the Battle of Gaoping in 954. Do not edit or imitate the rejected mounted-general composition.
+
+REFERENCE ROLES:
+Reference image 1 supplies only the established series grammar: adult Chinese historical-manga character design, dominant protagonist scale, thick matte mineral pigments, cracked aged mural surface and strong designed silhouettes. Do not copy Qin costume, seal, map table, frontal stamping pose, ochre state map or black-gold density. Reference image 2 supplies only expressive ink force, flying-white edges and directional motion. Do not copy its person, props, palette or camera.
+
+CORE IDENTITY — THIS MUST BE CHAI RONG, NOT A GENERIC GENERAL:
+Chai Rong is the thirty-three-year-old new sovereign who personally stabilizes a collapsing army at Gaoping, then reforms that army into the force that opens the road toward reunification. He is the hinge between Guo Wei's Later Zhou and Zhao Kuangyin's later Song. Make him visually read as the emperor commanding the entire battle direction, while the younger Zhao Kuangyin appears only in one corner as his subordinate already charging into combat.
+
+SIGNATURE FREEZE MOMENT:
+The Later Zhou right wing has just begun to break. Chai Rong has ridden directly into the torn center line and turned his black horse broadside across the retreat current. He is not merely charging with everyone else: his body, gaze, imperial standard and horse form one immovable vertical command axis that stops the army's collapse. He faces three-quarter toward the viewer-soldier, shoulders square, mouth slightly open in a clipped order, while the horse pivots its head uphill toward the enemy. Behind and below him, scattered soldiers begin re-forming into ordered ranks. At the lower-left corner, a much smaller twenty-seven-year-old Zhao Kuangyin, still only a Later Zhou guard officer, spurs a chestnut horse uphill with a compact cavalry wedge; his movement echoes Chai Rong's direction but he never rivals the emperor's scale.
+
+CHAI RONG — PRIMARY PROTAGONIST, 65–70% OF FRAME HEIGHT:
+- East Asian man about thirty-three, compact military build, square broad face, high cheekbones, thick upright brows, fierce deep-set eyes, strong straight nose, short dark moustache and close beard, dust and fatigue on adult skin.
+- No surviving detailed portrait is claimed; this is a restrained Five Dynasties reconstruction. Avoid an idol face, generic anime youth, elderly warlord or long-bearded fantasy general.
+- Five Dynasties imperial field armor: black iron Chinese lamellar plates with dull silver edging, layered shoulder guards, dark tied battle helmet with one short white horsehair plume, torn deep-vermilion robe edges and a broad sober imperial command mantle. No dragon robe, crown, yellow costume, glossy gold or foreign armor.
+- His saddle cloth is deep vermilion with a plain black border. Directly behind him rises one large, physically mounted imperial field standard: black outer field, broad deep-vermilion central disc and six short radial tears, purely geometric and without text or emblem. The standard is upright and complete enough to mark the sovereign's command position, while its ragged edge shows the battle crisis.
+- A ring of four smaller guard standards angles inward toward his central standard, making him the unmistakable command center. No other figure receives an imperial standard, white plume or broad mantle.
+
+ZHAO KUANGYIN — SECONDARY HISTORICAL ECHO, LOWER-LEFT CORNER ONLY:
+- About twenty-seven, tall-shouldered young East Asian cavalry officer with a high prominent nose, strong jaw, focused eyes and very short moustache; no emperor costume, crown, hard-winged futou or yellow robe.
+- Dark iron guard armor with one narrow muted-crimson sash, tied helmet without plume, riding a chestnut horse. He occupies only 16–20% of frame height and is partly screened by dust and spear lines.
+- He leads a small cavalry wedge uphill from lower-left toward center-left. His narrow crimson sash repeats the direction of Chai Rong's much larger vermilion mantle, visually showing inheritance of military momentum without predicting or glorifying his future usurpation.
+- Keep Zhao readable as a specific energetic subordinate but never a second focal portrait. No spotlight, halo, throne symbol or future Song insignia.
+
+CAMERA AND PARTICIPATION:
+- Eye-height 50 mm medium-wide view from one Later Zhou soldier halted in the retreat, with only a blurred dark shield rim at the extreme lower-right. No visible foreground face or hand.
+- Chai Rong and black horse occupy the central-right foreground. The emperor's face sits near the upper central third, large, sharp and unobstructed.
+- Zhao and his cavalry wedge occupy the lower-left corner as a small counter-diagonal. The enemy ridge remains upper-left background.
+- Use a nearly level camera with only a two-degree clockwise tension tilt; avoid heroic ground-level worship and avoid extreme wide-angle distortion.
+- Four depth layers: viewer's shield rim; Chai Rong and horse; Zhao with the first re-forming Later Zhou wedge; distant North Han and Khitan allied cavalry.
+
+DIRECTIONAL STORYTELLING:
+- Pale dust and fleeing bodies originally move downhill from upper-left to lower-right.
+- Chai Rong's broad horse and central standard interrupt this current like a gate. His vermilion mantle sweeps back uphill.
+- Zhao's smaller cavalry wedge repeats the uphill direction from lower-left, and the ranks between them begin aligning their spearpoints into one disciplined diagonal.
+- The image must show a transformation from broken formation to restored formation occurring around Chai Rong, not simply two men riding in the same battle.
+
+HANDS, RIDING AND PHYSICS:
+- Chai Rong has exactly two arms. Both hands remain entirely hidden: the rein-side forearm ends behind the horse's neck and mane; the other arm remains under the broad mantle. No exposed fingers, wrists or hand-shaped cloth lumps.
+- Zhao is small enough that his hands are not anatomically featured; reins and weapon stay visually simple and do not point at the camera.
+- Both horses have coherent normal anatomy, exactly four legs each, grounded saddles and consistent tack. Neither horse rears, jumps at the lens or overlaps into an impossible fused body.
+
+ENVIRONMENT, COLOR AND LIGHT:
+Gaoping autumn slope, trampled yellow grass, churned earth, smoke sheets and hard side light through dust. Dominant palette: dust ochre, iron blue-gray, soot charcoal, black-brown leather and disciplined deep vermilion. G0: no gold leaf, gold glitter, gold dust or black-gold overlay. Reserve the strongest vermilion for Chai Rong's mantle and imperial standard; Zhao receives only a narrow muted echo. Keep all surfaces matte, granular and weathered.
+
+SERIES STYLE:
+Adult non-photoreal Chinese historical manga fused with thick mineral-pigment mural painting and forceful expressive ink: decisive facial planes, coarse paper and aged plaster, cracked pigment, dry-brush dust, flaking edges, flying-white motion and controlled graphic exaggeration. Not photoreal, live-action, smooth anime or glossy CGI.
+
+HARD EXCLUSIONS:
+generic mounted general, two equal heroes, Zhao larger than one-fifth frame height, Zhao wearing emperor costume, future yellow robe, generic double portrait, victory parade, static atlas pose, emperor grabbing a soldier, visible emperor fingers or palms, raised sword at camera, spear at lens, horse rearing, impossible horse legs, giant horse head, throne, palace, dragon, readable text, Chinese characters, pseudo-writing, logo, watermark, UI, radar chart, gold flecks, fantasy armor, samurai armor, European plate armor, photoreal skin, smooth anime, extra limbs, malformed anatomy, blood or gore.
+
+FINAL QA:
+Reject unless Chai Rong is unmistakably the sovereign and structural center of the Battle of Gaoping; he dominates at 65–70% frame height; the collapsing army visibly reforms around his central standard; Zhao Kuangyin is clearly present but confined to the lower-left corner as a younger subordinate leading the first countercharge; the two vermilion motion lines form a subtle inheritance echo; both men remain distinct; hands do not become a risk; and the palette stays dust-ochre, iron-blue and deep-vermilion with zero gold.
+
+=== QA NOTES ===
+
+Generated in one built-in imagegen attempt. Chai Rong is dominant and structurally distinct as the sovereign; Zhao Kuangyin appears successfully in the lower-left as a smaller charging subordinate. However internal QA rejected this intermediate image before owner review because the large red-disc radial banner and repeated smaller disc banners can evoke a modern Japanese rising-sun visual language. Preserve only as the edit base for v4; do not promote. Candidate source SHA256 54CF6BD294CDDD204EDE757A5514B48023885F84948631086D47EDDFA195CD5D.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v3-gaoping-emperor-zhao-echo.png
+
+Rejected intermediate — preserve as the v4 edit base only; do not promote.

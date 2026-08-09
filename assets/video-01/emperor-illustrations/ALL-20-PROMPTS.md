@@ -693,64 +693,67 @@ ID: zhou-wu-zetian
 ORDER: 14
 PERSONAL_NAME_ZH: 武曌
 DISPLAY_ZH: 武则天
-STATUS: PENDING GENERATION
-SHOT_CODE: S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD
-COLOR_CODE: C14-PURPLE-CINNABAR-IVORY-GOLD-G3
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS
+COLOR_CODE: C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\14-zhou-wu-zetian.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: historical-scene. Create one completely redrawn 16:9 emperor-series key illustration. The input is a structural, palette, identity, and style reference only; do not edit or copy its curtain-gripping pose. Rebuild the scene from scratch with a hand-free action.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+CORE CONCEPT:
+Wu Zhao crosses the final bronze threshold from the old Tang court into the new Wu-Zhou emperor's central axis. The political transition—not a hand gesture—is the decisive action. Preserve the successful aged Wu Zhao identity, monumental viewer confrontation, cinnabar-to-violet transition, clean eight-spoke Jinlun state emblem, Mingtang architecture, and mineral-mural historical-manga style.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian woman 65-67 as sole female Chinese emperor, square powerful aged face, age lines, cold steady eyes, gray-streaked hair, dignified heavy posture, COSTUME: full male-style imperial mian crown with hanging jade/pearl strings, dark blue and crimson dragon imperial robes, solemn not sensual, NO harem dress, ACCESSORIES AND PROPS: golden wheel mandala backlight, gui tablet, purple mist, palace silhouettes.
+PROTAGONIST:
+- Wu Zhao is about 66 years old: broad square authority face, visible age lines, grey-streaked hair, cold intelligent eyes, and controlled resolve.
+- Emperor-style crown and dark imperial-violet robes with aged-cinnabar inner panels and restrained bronze hardware.
+- Large but human-scale, occupying about 68–72% of image height.
+- Three-quarter frontal stride toward the viewer; chin slightly lowered and gaze meeting the kneeling court.
+- Front foot planted on the new violet central aisle; rear foot remains on the old cinnabar side behind the bronze threshold. Hips, knees, shoulders, and robe weight follow a natural walk.
+- Robe hems and sleeves trail slightly backward from forward momentum, creating force without an arm gesture.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as the elderly sovereign extends the first decree of her new imperial order as the golden wheel turns behind the crown beads.
+NO VISIBLE HANDS — ABSOLUTE:
+- Both forearms are folded calmly across the lower torso in a formal sovereign posture, completely concealed inside two broad overlapping long sleeves.
+- The sleeve ends overlap at the abdomen as one clean layered fabric shape.
+- Show no hands, fingers, fingertips, knuckles, hand-shaped bulges, or exposed wrists anywhere.
+- Neither arm approaches the curtain. Authority comes from stride, posture, gaze, and spatial transition.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD
-- Elevation and pitch: extreme low view from the base of the Luoyang audience steps, looking up about 28 degrees.
-- Subject azimuth and orientation: left-facing three-quarter sovereign high in the frame, with crown-bead lines breaking the sky.
-- Shot scale and lens behavior: 24 mm wide medium-full view using monumental steps rather than a frontal close-up.
-- Camera roll: level axial architecture.
+CURTAIN WITHOUT HUMAN CONTACT:
+- Heavy aged-cinnabar regency curtains are already fully drawn back to both sides by fixed bronze wall hooks and short architectural tiebacks attached to the columns.
+- No person touches them; no attendant or floating force opens them.
+- The panels frame the old Tang space and create a broad V-shaped opening into the new axis.
+- A slight backward sweep in curtain edges and robe hems suggests forward passage, while the curtains remain securely fixed.
 
+POLITICAL TRANSITION:
+- One real bronze threshold runs horizontally beneath her stride.
+- Behind it: compressed, dim, cinnabar-dominant old Tang court space.
+- Ahead toward the viewer: a broad imperial-violet and cold-ivory aisle reading as a newly opened political order.
+- Her leading foot is beyond the threshold and trailing foot behind it.
+- Floor lines converge toward the viewer, placing the audience on the receiving court's central axis.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer is one official within the kneeling ranks and experiences the decree descending through space.
+JINLUN EMBLEM:
+- One complete, clean, polished eight-spoke bronze-gold Jinlun state emblem is mounted as low relief on a dark lacquer screen behind and slightly to viewer-right.
+- All eight spokes and the full circle are readable, with a clear gap from her head so it never becomes a halo.
+- It reads as official state insignia, not a cart wheel, Buddhist aura, portal, or random ornament.
+- Bronze gold remains object-bound to the wheel, threshold, crown hardware, curtain hooks, and minimal costume detail. No gold dust.
 
-EVENT MOTION THROUGH THE FRAME:
-the sealed blank decree and purple-gold wheel rays descend diagonally from upper-right to lower-left, not straight at camera.
+VIEWER AND COMPOSITION:
+- The viewer is a kneeling senior court official on the new axis; show only two dark, soft, out-of-focus shoulders at the lower corners.
+- 45–50 mm lens feeling and restrained low camera around 8 degrees, with no fisheye.
+- Place Wu slightly left of center and keep the emblem readable on viewer-right.
+- Face, forward foot, threshold, overlapping sleeve mass, and wheel must read instantly.
 
-EXTREME FOREGROUND DESIGN:
-blurred shoulders of two kneeling officials create a low human frame.
+STYLE:
+Adult non-photoreal Chinese historical manga; thick matte mineral pigment; expressive ink contours; layered mural abrasion; crisp facial planes; dry-brush cloth edges; controlled cinematic depth. Palette: imperial violet, aged cinnabar, cold ivory, soot black, muted teal-grey, restrained clean bronze.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C14-PURPLE-CINNABAR-IVORY-GOLD-G3
-- Dominant palette: imperial purple, dark cinnabar, ivory and deep ink-black.
-- Gold allocation: G3 deliberate 8–10 percent, reserved for the geometric wheel, crown beads and decree seal; large controlled shapes, never random speckles.
-- Lighting logic: monumental purple-gold backlight descending along the steps.
-- Surface rhythm: rotating geometric rays, broad purple mineral fields and clean monumental breaks.
+HARD EXCLUSIONS:
+No curtain-lifting action, hand touching curtain, visible hand, visible finger, exposed wrist, hand-shaped sleeve bulge, extra limb, staff, decree, sword, fan, throne, seated pose, static atlas pose, young beauty, concubine styling, giant body, tiny protagonist, giant foreground foot, warped legs, floating curtains, magical wind, halo, incomplete wheel, eroded wheel, gold glitter, text, pseudo-writing, watermark, or UI.
 
-HISTORICAL EVENT ENVIRONMENT:
-Luoyang divine capital silhouettes in purple fog, sacred political light.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "purple-gold divine-capital monument portrait" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL QA:
+Reject unless the image reads as aged Wu Zhao striding across a bronze threshold from cinnabar old Tang into violet Wu-Zhou, both hands completely concealed inside overlapping sleeves, curtains already fixed open, one complete eight-spoke Jinlun emblem, and the kneeling viewer directly confronted by her sovereign position.
 
 
 === SAVE CONTRACT ===
@@ -770,64 +773,70 @@ ID: tang-xian-zong
 ORDER: 15
 PERSONAL_NAME_ZH: 李纯
 DISPLAY_ZH: 唐宪宗
-STATUS: PENDING GENERATION
-SHOT_CODE: S15-EYE-PROFILE-TELE-CLOSE-DEPTH
-COLOR_CODE: C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S15-EYE85-PROFILE-TURN-MESSENGER
+COLOR_CODE: C15-SNOWCYAN-AMBER-CHARCOAL-PURPLE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\15-tang-xian-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: historical-scene. Create one new 16:9 emperor-series key illustration for Tang Xianzong. Reference image 1 is the series anchor only for adult historical-manga anatomy, bold protagonist scale, matte mineral-mural surface, and designed graphic shapes; do not copy Qin costume, map table, seal, frontal pose, warm ochre field, or black-gold density. Reference image 2 is secondary only for expressive ink motion, flying-white edges, and directional marks; do not copy its emperor, props, palette, or composition.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
-
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man about 40, late-Tang restoration emperor, lean elongated face, tight brows, bloodshot eyes, short dark beard, thin intense jaw, COSTUME: black hard-winged futou headwear, dark blue or purple round-collar Tang robe with side slits, belt with small pouches, ACCESSORIES AND PROPS: finger on military map with pins, candlesticks, snow light at window, faint armored guards.
+CORE HISTORICAL IDEA:
+Show Emperor Li Chun, Tang Xianzong, around age forty at the political climax of the Yuanhe campaigns. The viewer is the snow-covered messenger who has just reached the Daming Palace with news that Li Su entered Caizhou at night and captured Wu Yuanji in 817. Li Chun was not physically at Caizhou: keep him in the palace as the relentless sovereign who sustained the campaign. His defining identity is the late-Tang emperor briefly breaking the military-governor system—the last hard stroke of imperial restoration after the An Lushan catastrophe.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the scene as a snowy-night messenger arrives as his finger drives the decisive Caizhou marker into the rebel map.
+Freeze the instant Li Chun turns away from a chain-bound relief map toward the kneeling messenger-viewer. He has heard the decisive news but has not yet spoken. His body remains in severe right-facing profile toward the map; only his head and bloodshot eyes turn sharply three-quarter toward the viewer. One cold snow gust crosses the threshold and bends the nearby candle flame. On the map behind him, one black iron clamp has just sprung open over the Huai-Xi/Caizhou sector while the other clamps remain shut. The released clamp and snow route are symbolic editorial devices for the Yuanhe reduction of the military governors, not literal palace equipment.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S15-EYE-PROFILE-TELE-CLOSE-DEPTH
-- Elevation and pitch: eye level beside a candle in the strategy room.
-- Subject azimuth and orientation: strong right profile seen through the candle flame, with the ruler on the left third looking toward the snowy window.
-- Shot scale and lens behavior: 85 mm compressed close shot; shallow depth separates flame, profile, marker hand and messenger.
-- Camera roll: level intimate frame.
+PROTAGONIST IDENTITY:
+- East Asian man about forty, lean and tense rather than broad heroic.
+- Long narrow mature face, thin hard jaw, high cheekbones, tight straight brows, visibly tired bloodshot eyes, high narrow nose, compressed lips, short neat dark moustache and compact beard.
+- Expression: sleepless concentration, contained vindication, and suspicion that victory may not last. No smile, shouting, or generic benevolent emperor.
+- Historically grounded late-Tang black hard-winged futou headwear, complete and uncropped.
+- Dark charcoal-blue round-collar Tang robe with restrained deep-purple folds, side slits, black leather belt and a few small belt pouches. No armor, dragon robe, yellow costume, bead crown, or luxurious gold embroidery.
+- He occupies about 62–68% of frame height and is unquestionably dominant.
 
+NO HAND-DEPENDENT ACTION:
+- Crop from mid-thigh upward. Both arms rest naturally behind his lower back; both hands are entirely outside the visible silhouette and below/behind the crop.
+- Show no hands, fingers, exposed wrists, or hand-shaped sleeve bulges, and no emperor touching the map.
+- His decisive action is the sharp head turn and fixed gaze toward the messenger, supported by shoulder torque and robe movement.
 
-AUDIENCE PARTICIPATION MODE:
-the viewer is the newly arrived messenger watching the decision crystallize across the room.
+CAMERA AND VIEWER PARTICIPATION:
+- Eye-level 70–85 mm compressed medium-close shot from the kneeling messenger's position just inside the open palace doorway.
+- Li Chun stands on the left third in a strong right-facing body profile; his turned face remains fully readable in three-quarter view.
+- Viewer-right foreground: only one soft out-of-focus snow-caked shoulder and the top edge of a blank sealed courier satchel, no visible hand and no readable markings.
+- Viewer-left foreground: one large out-of-focus iron candle cup and a single amber flame, below the emperor's chin and never covering his face.
+- Keep a subtle three-degree clockwise tension tilt.
+- Build four depth layers: candle rim, Li Chun, chain-bound relief map, open snowy doorway with distant Caizhou assault silhouettes.
 
-EVENT MOTION THROUGH THE FRAME:
-snow-charged ink lines travel from the distant window toward the map while wax sparks rise vertically between viewer and face.
+CHAIN-BOUND MAP:
+- Behind Li Chun is one large dark mineral-pigment relief map of the Tang realm fixed vertically to a plaster wall, with no text or labels.
+- Five heavy matte-black iron bands/clamps visibly pin rebellious outer regions toward the wall. They are architectural-symbolic coherent objects with rivets and contact shadows, not floating chains.
+- Exactly one clamp at the lower-right Huai-Xi/Caizhou sector hangs physically open from one hinge; a narrow cold snow-cyan route reaches it from the doorway.
+- The other four clamps remain closed and under tension, showing that one victory is real but the empire is not permanently healed.
+- No gold on the map, readable geography, Chinese characters, or hologram.
 
-EXTREME FOREGROUND DESIGN:
-large out-of-focus candle flame and wax rim partially veil the profile.
+SNOW-NIGHT CAIZHOU EVIDENCE:
+- Through the open doorway on viewer-right, show a compressed snowy night glimpse: distant dark city gate, tiny Tang soldiers already inside, one lowered rebel banner and wind-driven snow.
+- This remains secondary. Do not place Li Chun physically on the battlefield.
+- Snow ink travels from the gate through the doorway toward the released clamp and across the robe edge, linking battlefield result to palace decision.
 
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0
-- Dominant palette: snow cyan, candle amber, charcoal and a small oxide-red map marker.
-- Gold allocation: G0 no gold leaf; warmth comes entirely from flame and wax.
-- Lighting logic: single amber candle against cold blue snow light.
-- Surface rhythm: frosted dry pigment, shallow-focus wax haze and fine wind-driven snow ink.
+LIGHTING AND COLOR:
+- Dominant palette: cold snow cyan, charcoal-black, deep blue-purple, candle amber, and a tiny oxide-red accent on one blank seal cord.
+- G0: no gold leaf, gold glitter, scattered gold flecks, or black-gold overlay.
+- Cold cyan doorway light strikes the turned cheek, futou edge, and map clamp; one amber candle grazes the opposite cheek and robe collar.
+- Keep the cyan-versus-amber split clean and unlike the preceding violet/cinnabar Wu Zetian image.
 
-HISTORICAL EVENT ENVIRONMENT:
-Daming Palace night chamber, map wall, candle red versus snow cyan, ghost image of snowy city assault.
+SERIES VISUAL LANGUAGE:
+Adult non-photoreal Chinese historical manga fused with thick matte mineral pigment and aged mural plaster; crisp facial planes, dry-brush frost, flaking charcoal pigment, restrained flying-white snow ink, weighted fabric, and controlled depth. Painterly and graphic, not photoreal, live-action, smooth anime, or glossy 3D.
 
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "cold candlelit strategy painting" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
+HARD EXCLUSIONS:
+No generic emperor portrait, map-table pointing pose, visible emperor hand, finger pressing marker, emperor at Caizhou battlefield, armor, weapon, horse, throne, dragon, bead crown, imperial yellow, heroic smile, young idol face, broad muscular general body, static front-facing atlas pose, giant messenger, messenger face, multiple focal people, floating chains, magical energy, broken clamp flying at camera, readable text, pseudo-writing, Chinese characters, watermark, logo, UI, radar chart, photoreal skin, smooth anime, glossy CGI, extra limbs, deformed anatomy, blood, or gore.
 
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL QA:
+Reject unless the image reads as a sleepless late-Tang emperor in Daming Palace turning toward the snow-covered Caizhou messenger; his long tense face and hard-winged futou are clear; both hands are absent; one of the map clamps is physically open while others remain shut; cold snow cyan and candle amber split the frame; and Li Chun remains dominant.
 
 
 === SAVE CONTRACT ===
@@ -847,64 +856,33 @@ ID: zhou-shi
 ORDER: 16
 PERSONAL_NAME_ZH: 柴荣
 DISPLAY_ZH: 后周世宗
-STATUS: PENDING GENERATION
-SHOT_CODE: S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION
-COLOR_CODE: C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0
+STATUS: APPROVED — DO NOT REGENERATE
+SHOT_CODE: S16-EYE50-EMPERORAXIS-ZHAOCORNER
+COLOR_CODE: C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
 
 === POSITIVE PROMPT (copy verbatim) ===
 
-Use case: historical-scene
-Asset type: 16:9 emperor montage key art
-Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
-Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+Use case: precise-object-edit. Edit the supplied Chai Rong Battle of Gaoping illustration. Preserve the entire image exactly except for the banner designs described below.
 
-LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
-an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+LOCKED INVARIANTS — DO NOT CHANGE:
+- Preserve Chai Rong's face, age, expression, white helmet plume, armor, mantle, body, hidden hands, black horse, saddle, anatomy, scale and central-right position exactly.
+- Preserve the smaller young Zhao Kuangyin at the lower-left, his chestnut horse, spear, crimson sash, scale, direction and cavalry wedge exactly.
+- Preserve every other soldier, horse, spear, shield, ridge, ground mark, dust current, composition, crop, perspective, lighting, color balance, mineral-mural texture and expressive ink motion.
+- Do not add, remove, enlarge, shrink, move or redesign any person, limb, horse or weapon.
 
-SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man 33-34, Five Dynasties young martial emperor, square heroic young face, upright fierce eyes, short stubble, battle dust on skin, compact explosive body, COSTUME: black-and-silver Chinese Five-Dynasties full armor, red-trimmed war robe, tied helmet, ready to fight, ACCESSORIES AND PROPS: sword or whip, blood-red banners, imperial guard ranks, fleeing coward silhouettes.
+CHANGE ONLY THE BANNERS:
+1. Replace the large black banner directly behind Chai Rong that currently contains a red circular sun and radial bars. Make it a historically neutral Five Dynasties imperial field command banner: one weathered deep-vermilion rectangular silk field with a broad soot-black border, three restrained horizontal black fabric bands, ragged wind-torn outer edge, no central disc, no rays, no sun, no emblem, no animal, no writing and no pseudo-writing. Add a small cluster of three short off-white yak-tail command tassels securely tied immediately below the existing pole finial; they must remain secondary and physically attached.
+2. Replace every smaller background banner that contains a red circular disc or radial pattern. Use simple weathered black-and-deep-vermilion split fields or narrow vertical bands only, with varied damage but no symbols.
+3. Keep the banner poles, locations, scale, wind direction, folds, silhouettes and motion exactly as in the source image.
 
-SIGNATURE FREEZE MOMENT:
-Freeze the scene as at Gaoping he physically turns the first fleeing guard back toward the battle before the formation recovers.
+HARD EXCLUSIONS:
+No red sun, no circular disc, no rays, no rising-sun pattern, no Japanese flag association, no readable text, no Chinese characters, no pseudo-writing, no dragon, no phoenix, no modern emblem, no gold, no new figures, no face changes, no hand changes, no horse changes, no camera changes and no global repaint.
 
-CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION
-- Elevation and pitch: ground-level battlefield camera looking up about 10 degrees.
-- Subject azimuth and orientation: front diagonal three-quarter as the emperor lunges from upper-right toward a fleeing soldier at lower-left.
-- Shot scale and lens behavior: 28 mm dynamic wide shot with both action vectors visible but the emperor dominant.
-- Camera roll: 12-degree counterclockwise Dutch tilt.
-
-
-AUDIENCE PARTICIPATION MODE:
-the viewer occupies the wavering soldier's unstable position and is physically pulled back toward the battle.
-
-EVENT MOTION THROUGH THE FRAME:
-the grab closes across the frame from right to left while whip and banners point back toward the battlefield depth.
-
-EXTREME FOREGROUND DESIGN:
-the fleeing soldier's cropped forearm and shield edge enter from the lower-left.
-
-COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0
-- Dominant palette: battle dust ochre, iron blue, torn banner red and black-brown leather.
-- Gold allocation: G0 no gold leaf or gilded atmosphere.
-- Lighting logic: hard autumn side light filtered through dust.
-- Surface rhythm: impact scuffs, ripped-banner strokes and diagonal dust sheets.
-
-HISTORICAL EVENT ENVIRONMENT:
-Gaoping autumn grass slope, smoke, wind, raw battlefield.
-
-CHARACTER-SPECIFIC ACCENT:
-Use only the emotional implication of "high-action short-burn war painting" as a secondary accent. Its old palette wording is subordinate to the locked COLOR AND GOLD BUDGET and must not replace the mineral-mural and expressive-ink medium.
-
-COMPOSITION AND DELIVERY:
-Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
-
-AVOID:
-static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, blood or gore.
+FINAL QA:
+Reject unless the result is visually the same successful Chai Rong–Zhao Kuangyin composition, with only the large and small banners converted to neutral black-and-vermilion Five Dynasties command textiles; no disc or ray motif remains anywhere.
 
 
 === SAVE CONTRACT ===

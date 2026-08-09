@@ -1,0 +1,75 @@
+PROMPT_VERSION: 2.0-gaoping-countercurrent-charge
+ID: zhou-shi
+ORDER: 16
+PERSONAL_NAME_ZH: 柴荣
+DISPLAY_ZH: 后周世宗
+STATUS: REJECTED — EVENT READS, BUT CHAI RONG IDENTITY IS GENERIC AND ZHAO KUANGYIN IS ABSENT
+SHOT_CODE: S16-SHOULDER35-SIDECOUNTER-DUTCH06
+COLOR_CODE: C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v2-gaoping-countercurrent-charge.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene. Create one new 16:9 emperor-series key illustration for Chai Rong, Emperor Shizong of Later Zhou. Reference image 1 is the primary series anchor only for adult historical-manga anatomy, large protagonist scale, matte mineral-mural surface, aged cracked pigment and decisive graphic silhouettes; do not copy Qin costume, map table, seal, frontal pose, ochre map field or black-gold density. Reference image 2 is secondary only for forceful ink motion, flying-white edges and directional brush energy; do not copy its emperor, props, composition or palette.
+
+CORE HISTORICAL IDEA:
+Show the thirty-three-year-old new emperor at the Battle of Gaoping in 954, the instant the Later Zhou right wing is collapsing and he personally refuses the retreat. His defining identity is a short-reigned Five Dynasties ruler who turned a disintegrating army back into an instrument of reunification. This must read as one young sovereign reversing the direction of a battle, not as a generic mounted general portrait and not as a victory parade.
+
+SIGNATURE FREEZE MOMENT:
+The viewer stands inside the broken Later Zhou formation and has just begun to retreat downhill. Chai Rong's dark bay horse has cut laterally across the escape path and is already pivoting uphill, against the human and dust flow. The horse is not rearing: its body is balanced, its hindquarters drive naturally, one forehoof has just struck the earth and the other begins the turn. Chai Rong's armored torso follows the uphill charge while his head snaps back over his shoulder toward the viewer with a fierce, controlled command. He has not yet completed the turn; behind him, the first wavering soldiers are only beginning to reverse their spearpoints toward the enemy ridge.
+
+PROTAGONIST IDENTITY AND PERIOD CONSTRUCTION:
+- East Asian man about thirty-three, compact athletic build, unmistakably adult and battle-worn.
+- Square young face, broad cheekbones, upright thick brows, fierce clear eyes, strong straight nose, short dark moustache and close stubble, dust and sweat on the face. No long beard, old face, soft scholar face, idol beauty or generic fantasy warrior.
+- Historically grounded Five Dynasties Chinese black iron lamellar armor with dull silver edging, layered shoulder guards and a dark iron tied battle helmet. A torn red-trimmed war robe and compact imperial command mantle distinguish him from ordinary officers without using a dragon robe, crown or gold luxury.
+- One plain black-and-vermilion command pennon is fixed securely behind the saddle, with no emblem, text or pseudo-writing. A sheathed straight-backed Chinese saber stays at the saddle and is not drawn.
+- The emperor and horse together occupy roughly 62–70% of the visual mass; his face remains large and fully readable.
+
+HANDS AND ANATOMY CONTROL:
+- Show exactly two anatomically coherent arms, but make both hands completely invisible and non-narrative.
+- His left forearm bends naturally behind the horse's raised neck; the reins pass under tension behind the mane and disappear at the hidden hand. His right arm stays behind his torso under the windblown command mantle. Do not expose any fingers, palms or wrists, and do not create hand-shaped cloth lumps.
+- The rider's pelvis sits correctly in the saddle, knees and boots align naturally with the horse, and torso twist remains physically possible.
+- The horse has one normal head, one neck, one torso and exactly four coherent legs. No duplicated legs, broken joints, extreme foreshortening, giant horse head, floating tack or tangled reins.
+
+CAMERA AND VIEWER PARTICIPATION:
+- Shoulder-height 35 mm dynamic side-diagonal view from a retreating soldier inside the broken line, not a ground-level worship shot.
+- The battlefield rises from the lower-right foreground toward the upper-left enemy ridge. Fleeing dust and bodies stream downhill from upper-left to lower-right; Chai Rong and the horse drive in the exact opposite direction from lower-right toward upper-left.
+- Place the emperor slightly right of center, the horse's profile cutting across the frame. Chai Rong looks back toward the viewer in readable rear three-quarter facial view.
+- Use a restrained six-degree clockwise Dutch tilt, enough for instability but not enough to distort anatomy.
+- Extreme foreground: one blurred Later Zhou shoulder and the rim of a dropped, plain dark shield at the lower-right; no foreground hand, face or oversized body blocks the emperor.
+- Build four separable depth layers: cropped viewer/shield, emperor and horse, broken Later Zhou ranks beginning to turn, distant North Han–Khitan cavalry silhouettes on the ridge.
+
+MOTION DESIGN:
+- The fleeing current is a broad pale dust stroke descending toward the viewer. Chai Rong's compact black-iron silhouette cuts across it like a gate.
+- His torn vermilion mantle and saddle pennon trail downhill toward the viewer, then their red dry-brush rhythm bends back uphill into the first re-forming spear line. This is an editorial visual metaphor for restoring the army, not magical energy.
+- Autumn grass, helmet ties and banner edges obey one consistent wind from the enemy ridge. No chaotic wind directions.
+- Freeze before recovery is complete: some troops still flee, some have just turned, and the opposing ridge remains dangerous.
+
+HISTORICAL EVENT ENVIRONMENT:
+Gaoping autumn slope under a hard dusty sky; trampled yellow grass, smoke bands, churned earth, fragmented Later Zhou ranks below and dark North Han–Khitan allied cavalry on the upper-left ridge. Keep distant troops low-detail and subordinate. No palace, map table, city gate, fantasy fortress or modern object.
+
+COLOR AND LIGHT:
+- Dominant palette: battle-dust ochre, iron blue-gray, torn banner vermilion, black-brown leather, dry autumn yellow and soot charcoal.
+- G0: absolutely no gold leaf, gold glitter, gold dust or black-gold overlay.
+- Hard autumn side light breaks through dust and catches only the emperor's face plane, helmet edge and a few dull armor ridges. Keep the rest matte and mineral.
+- Use red only as the command-vector accent; do not flood the whole frame with red.
+
+SERIES VISUAL LANGUAGE:
+Adult non-photoreal Chinese historical manga fused with thick matte mineral pigment, aged mural plaster and forceful expressive ink. Decisive facial planes, coarse paper grain, cracked mineral layers, dry-brush dust, flaking pigment, flying-white movement, weighty armor and controlled exaggeration. Dynamic and graphic, not photoreal, live-action, smooth anime or glossy 3D.
+
+HARD EXCLUSIONS:
+No generic emperor portrait, stationary atlas pose, victory parade, throne, palace, dragon, bead crown, imperial yellow robe, generic low-angle hero worship, emperor grabbing a soldier, exposed emperor hand, visible fingers, pointing gesture, raised sword, spear aimed at camera, horse rearing, horse jumping at lens, oversized foreground soldier, crowded equal-focus army, samurai armor, European plate armor, fantasy armor, long-haired barbarian styling, text, letters, Chinese characters, pseudo-writing, logo, watermark, UI, radar chart, infographic, gold flecks, photoreal skin, glossy CGI, smooth anime, extra limbs, malformed anatomy, blood or gore.
+
+FINAL QA:
+Reject unless the first read is “the young Later Zhou emperor personally drives uphill against his own collapsing line at Gaoping”; the emperor remains dominant and distinct from ordinary soldiers; his square dusty face is readable; both hands are absent; the horse and rider anatomy are coherent; the downhill retreat and uphill countercurrent are unmistakably opposite; the first soldiers visibly begin to turn; and the dust-ochre, iron-blue and vermilion G0 palette clearly differs from the preceding snow-cyan palace image.
+
+=== QA NOTES ===
+
+Generated in one built-in imagegen attempt using the two fixed series anchors. The uphill charge against the collapsing formation is readable and the horse/rider anatomy is coherent, but owner review rejected it on 2026-08-08: the protagonist reads as a generic Five Dynasties cavalry commander rather than specifically Chai Rong, and the historically important subordinate Zhao Kuangyin is absent. Do not promote or use as the identity reference for a later revision. Candidate saved at 1672x940 PNG. SHA256 78254E14CF5F7A1C85D0783889C988AAEA84B1A51D474F1152AD537EC50B9D99.
+
+=== SAVE CONTRACT ===
+
+Candidate output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v2-gaoping-countercurrent-charge.png
+
+Rejected candidate — preserve for audit only; do not promote or regenerate from it.

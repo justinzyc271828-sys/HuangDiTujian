@@ -1,0 +1,43 @@
+PROMPT_VERSION: 4.0-neutral-command-banners
+ID: zhou-shi
+ORDER: 16
+PERSONAL_NAME_ZH: 柴荣
+DISPLAY_ZH: 后周世宗
+STATUS: APPROVED — PROMOTED TO FORMAL OUTPUT, DO NOT REGENERATE
+SHOT_CODE: S16-EYE50-EMPERORAXIS-ZHAOCORNER
+COLOR_CODE: C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0
+EDIT_TARGET: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v3-gaoping-emperor-zhao-echo.png
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png
+CANDIDATE_SOURCE: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\16-zhou-shi-v4-neutral-command-banners.png
+
+=== FINAL ENGLISH EDIT PROMPT ===
+
+Use case: precise-object-edit. Edit the supplied Chai Rong Battle of Gaoping illustration. Preserve the entire image exactly except for the banner designs described below.
+
+LOCKED INVARIANTS — DO NOT CHANGE:
+- Preserve Chai Rong's face, age, expression, white helmet plume, armor, mantle, body, hidden hands, black horse, saddle, anatomy, scale and central-right position exactly.
+- Preserve the smaller young Zhao Kuangyin at the lower-left, his chestnut horse, spear, crimson sash, scale, direction and cavalry wedge exactly.
+- Preserve every other soldier, horse, spear, shield, ridge, ground mark, dust current, composition, crop, perspective, lighting, color balance, mineral-mural texture and expressive ink motion.
+- Do not add, remove, enlarge, shrink, move or redesign any person, limb, horse or weapon.
+
+CHANGE ONLY THE BANNERS:
+1. Replace the large black banner directly behind Chai Rong that currently contains a red circular sun and radial bars. Make it a historically neutral Five Dynasties imperial field command banner: one weathered deep-vermilion rectangular silk field with a broad soot-black border, three restrained horizontal black fabric bands, ragged wind-torn outer edge, no central disc, no rays, no sun, no emblem, no animal, no writing and no pseudo-writing. Add a small cluster of three short off-white yak-tail command tassels securely tied immediately below the existing pole finial; they must remain secondary and physically attached.
+2. Replace every smaller background banner that contains a red circular disc or radial pattern. Use simple weathered black-and-deep-vermilion split fields or narrow vertical bands only, with varied damage but no symbols.
+3. Keep the banner poles, locations, scale, wind direction, folds, silhouettes and motion exactly as in the source image.
+
+HARD EXCLUSIONS:
+No red sun, no circular disc, no rays, no rising-sun pattern, no Japanese flag association, no readable text, no Chinese characters, no pseudo-writing, no dragon, no phoenix, no modern emblem, no gold, no new figures, no face changes, no hand changes, no horse changes, no camera changes and no global repaint.
+
+FINAL QA:
+Reject unless the result is visually the same successful Chai Rong–Zhao Kuangyin composition, with only the large and small banners converted to neutral black-and-vermilion Five Dynasties command textiles; no disc or ray motif remains anywhere.
+
+=== QA NOTES ===
+
+Completed one targeted built-in imagegen edit from the v3 source. Chai Rong remains the dominant central-right sovereign at roughly two-thirds frame height; the large black horse, white plume, broad command mantle and converging standards make him the battle's structural center. Zhao Kuangyin remains confined to the lower-left as a smaller mounted guard officer leading the first countercharge, with a muted crimson echo rather than equal hero treatment. The large and small red-disc radial designs are fully removed and replaced by neutral deep-vermilion and soot-black command textiles; no sun or ray motif remains. Faces, horses, composition and battlefield flow are preserved. Owner approved this candidate on 2026-08-08. Formal output and candidate source are byte-identical: 1672x941 PNG, SHA256 273D15CA5FB4030D429D346DDBB5B2185D2696CB71EFD73505B6E29D55705E93.
+
+=== SAVE CONTRACT ===
+
+Approved formal output:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\16-zhou-shi.png
+
+Approved and locked — do not regenerate or overwrite.

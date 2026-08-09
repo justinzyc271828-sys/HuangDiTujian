@@ -1,0 +1,71 @@
+PROMPT_VERSION: 5C-rain-lattice-burning-memory-exploration
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: EXPLORATION CANDIDATE — AWAITING OWNER FEEL REVIEW
+HISTORICAL_LAYER: later poison legend plus explicit poetic dramatization
+SHOT_CODE: S17C-RAINLATTICE-EYE65-PRISONER-SPASM-REFLECTION
+COLOR_CODE: C17C-RAINBLUE-SOOT-PAPERWHITE-FIREORANGE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5c-rain-lattice-burning-memory.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one 16:9 exploratory emperor-series key illustration
+
+Create a new image, not an edit. This is an explicitly poetic reconstruction: Li Yu's 978 death in Bianjing is historical, the poison spasm follows a later Song legend, and the deliberate burning of manuscripts with Jinling appearing in fire and rain is imaginative symbolism.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established adult historical-manga and matte mineral-mural series medium, clear protagonist dominance, bold facial planes and cracked pigment. Do not copy Qin costume, objects, frontal stamping pose, black-gold density or gold.
+- Reference image 2 controls only expressive ink force, rain movement and flying-white edges. Do not copy its person or composition.
+- Reference image 3 controls only Li Yu's mature face, soft futou, narrow shoulders and restrained blue-gray captive-ruler costume. Do not copy its surrender scene, soldiers, ministers, palace gate or steps.
+
+DECISIVE FIRST READ:
+A Song guard watches through the rain-dark lattice of Li Yu's confined Bianjing residence as the captive poet-ruler is wrenched away from a low writing seat by a poison spasm. The manuscripts he deliberately placed in a small brazier are beginning to burn. On the wet window surface, the one real fire aligns with a reflected memory of Qinhuai and fallen Jinling. This must feel like surveillance of a dying former ruler, not a private melancholy scholar portrait.
+
+SETTING AND FREEZE MOMENT:
+Night rain outside a sparse Bianjing granted residence in 978. Li Yu had already lowered a neat bundle of manuscript sheets into a small bronze brazier beside the low desk. Freeze the moment when the first flame curls the paper and a sudden contraction pulls his torso sharply back and sideways from the seat. A plain porcelain cup still rolls on the floor. His feet remain grounded, but his body is leaving the seat. The fire is small; the room is not burning.
+
+CAMERA AND VIEWER PARTICIPATION:
+- Eye-level 65 mm compressed view from the exterior rain corridor, where one Song guard stands on watch.
+- Look through a limited section of wet wooden lattice. Lattice and rain together obscure no more than twelve to fifteen percent of the frame. Li Yu's complete face must sit inside one clear opening with no bar crossing eyes, nose or mouth.
+- Li Yu occupies fifty-eight to sixty-five percent of visual mass and remains the largest, sharpest single subject. The brazier and paper stay below his chest and never block the face.
+- A tiny blurred helmet rim or guard shoulder may appear at one extreme lower corner, under five percent, only to anchor the viewer's position.
+- Four layers: guard edge and rain beads; wet lattice; dominant Li Yu with desk and fire; window reflection and smoke-memory of Jinling.
+
+LI YU, POISON PAIN AND BODY PHYSICS:
+- East Asian man around forty-one or forty-two, refined and slightly gaunt, melancholy arched brows, intelligent deep-set eyes, straight narrow nose, thin moustache and tiny chin beard. His face shows sudden muscle pain and lucid despair, with clenched jaw and arrested breath, no gore or theatrical screaming.
+- Soft black futou complete and uncropped; plain formal blue-gray wide-sleeved robe, moon-white collar, faint faded-rose lining and soft shoes. No crown, dragon robe, yellow, armor or gold.
+- One forearm presses the chest and abdomen entirely inside a broad sleeve. The other forearm braces against the low desk, but its hand, wrist and fingers remain hidden inside the hanging sleeve.
+- The torso pulls away from the seat while both soft shoes remain in contact with the floor. Shoulders, spine, pelvis, knees and feet form one plausible twisted seated-to-falling transition. No head-to-feet folding, broken neck, floating legs or monster pose.
+
+FIRE, MANUSCRIPTS, WINDOW REFLECTION AND HOMELAND:
+- One real fire source only: one small bronze brazier. A neat bundle of fine paper physically touches the flame at one corner; the nearest sheet chars and curls, farther sheets remain pale. The low desk, brazier and paper cast one consistent warm light.
+- Manuscripts are signaled by fine paper bundles, brush, brush rest and grounded inkstone. All pages are blank or carry only non-symbolic diluted ink wash. No readable text, letters, Chinese characters, pseudo-writing, seals or borders.
+- Smoke rises inside the room. On the rain-wet exterior lattice and glassless opening, the warm fire reflection aligns with an impossible but clearly reflective memory of Qinhuai water, a low bridge and Southern Tang rooflines. Rain drags the reflection downward like a river. Jinling exists only as reflection, smoke and cracked mural pigment, not as a real city outside the Bianjing room and not as a second physical fire.
+- One direction governs everything: room draft moves smoke upward-left; outside rain moves downward-left; wet reflections descend vertically with gravity. Do not make papers fly chaotically.
+
+COLOR AND SERIES MEDIUM:
+- Coldest concept: rain blue, soot black, muted blue-gray, wet paper white and small fire orange. Warm color remains under eight percent.
+- Strict G0: no gold leaf, gilded trim, gold dust, gold flecks or black-gold overlay.
+- Adult non-photoreal Chinese historical manga fused with heavy matte mineral-pigment mural painting and expressive wet ink. Decisive drawn facial planes, controlled anatomy, coarse mineral grain, cracked and flaking wall pigment, wet lattice, rain beads, diluted ink smoke and flying-white rain. The mineral cracks should divide captivity from memory rather than act as decoration.
+
+HARD AVOIDS:
+static sad scholar at window, calm writing portrait, ordinary sickbed, real Qinhuai visible outside Bianjing, two physical cities, double Li Yu, mirror duplicate, window bar across face, dense prison grid, giant foreground guard, room engulfed in fire, multiple fire sources, accidental fire, magic portal, hologram city, panoramic burning metropolis, gore, blood, foam, screaming horror, impossible seated anatomy, extra limbs, visible fingers, floating cup, readable writing, calligraphy, pseudo-writing, symbols, seals, gold, crown, dragon robe, armor, sword, photoreal skin, live-action still, glossy CGI, smooth anime, modern objects, logo, watermark or UI.
+
+FINAL QA TARGET:
+Reject unless Li Yu remains dominant and visibly poison-struck; the viewer is unmistakably a Song guard outside the watched residence; the lattice never obscures his face; both hands are hidden; feet and seated-to-falling anatomy are coherent; one small brazier physically burns one manuscript bundle; Jinling appears only as rain reflection, smoke and mural memory; and the rendering remains G0 mineral-mural manga rather than a cinematic portrait.
+
+=== QA NOTES ===
+
+Generated once with the built-in imagegen tool from the two fixed series anchors plus the v4 Li Yu identity reference. Saved in the repository as a 1672x941 PNG. SHA256: 6BD4EBDD79420B6072CC0E9DB1B99B0D964CE97CCF2D05463752281F09EEBBE9.
+
+Visual QA: This has the strongest captivity and surveillance mood. The viewer is clearly the Song guard outside the wet lattice; Li Yu remains large with his face unobstructed, both hands safely concealed, feet grounded and the seated-to-falling curl physically readable. The tipped cup, ink pool, desk, manuscript fire and watched room are coherent. The major unresolved issue is conceptual geography: the burning Qinhuai memory appears too much like a literal city outside the Bianjing window instead of a reflection or smoke-mural transformation. Pain is present in the torso curl and face but remains restrained rather than violently spasmodic. No promotion. Keep as the surveillance-led exploration reference.
+
+=== SAVE CONTRACT ===
+
+Exploration candidate only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v5c-rain-lattice-burning-memory.png
+
+Do not promote or update approved package state without explicit owner approval.

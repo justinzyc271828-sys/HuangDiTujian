@@ -1,0 +1,77 @@
+PROMPT_VERSION: 3.0-gate-surrender-poet-king
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: SELF-REJECTED — FOREGROUND SCALE
+SHOT_CODE: S17-SONGRANK-EYE55-GATE-THRESHOLD-REARTURN
+COLOR_CODE: C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v3-gate-surrender-poet-king.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: historical-scene
+Asset type: one 16:9 emperor-series key illustration
+
+Create a new image, not an edit of the rejected candidate. The decisive first read must be: “Li Yu, the defeated ruler and poet of Southern Tang, has just crossed the palace threshold to surrender to the Song army while fallen Jinling and his artistic world remain behind him.” It must not first read as a generic melancholy scholar in a study.
+
+REFERENCE ROLES:
+- Reference image 1 controls only the established series medium: adult non-photoreal Chinese historical-manga character design, clear protagonist dominance, bold facial planes, matte granular mineral pigments, aged cracked plaster and graphic mural construction. Do not copy Qin clothing, seal, map, frontal stamping pose, black-gold balance or gold density.
+- Reference image 2 controls only forceful expressive ink motion, flying-white edges and directional brush energy. Do not copy its character, props, palette or composition.
+
+HISTORICAL EVENT AND FREEZE MOMENT:
+Jinling, winter rain, 975. Song troops have reached the Southern Tang palace gate. Li Yu leads a very small recessed group of close ministers toward the gate to receive the conquerors. Freeze the instant after his front shoe has planted on the first exterior rain-dark step but before his rear shoe leaves the dry inner threshold. His body advances into Song custody; his head turns only about thirty-five degrees back over his left shoulder toward the ruined hall and the Qinhuai fire reflection. The backward turn is unfinished. This is a public surrender at a palace gate, not a private farewell portrait.
+
+LI YU — THE UNMISTAKABLE PRIMARY SUBJECT:
+- East Asian man aged thirty-eight or thirty-nine; slender and narrow-shouldered but visually commanding because his broad formal sleeves and long robe create the largest single silhouette.
+- Refined, slightly gaunt adult face; long gentle jaw; melancholy arched brows; deep-set intelligent eyes; straight narrow nose; thin moustache and one very small neat chin beard. Contained shame and lucid self-awareness, no tears, no romantic swoon, no idol beauty.
+- Rain-dark soft black futou with short drooping tails, complete and uncropped. Muted blue-gray formal court robe with very broad wet sleeves, moon-white cross-collar inner layer, faint faded-rose lining, plain dark belt and soft shoes. Subdued ruler’s court dress, not a casual scholar robe; no crown, armor, sword, imperial yellow, dragon pattern or gold embroidery.
+- Li Yu’s robe-and-body silhouette must occupy roughly one half of the total frame area and about eighty-five percent of frame height. Frame him from complete shoes to complete headcloth. His face must be large, sharp and immediately readable. No background object may rival his visual mass.
+- Two or three close ministers may appear only as small, dark, bowed silhouettes deep inside the doorway behind him, together occupying under eight percent of the frame. They establish that he is the ruler leading his court; they have no readable faces and never compete with him.
+
+BODY, HANDS AND WALKING PHYSICS:
+- Both forearms rest naturally inside overlapping broad sleeves at lower chest height. Both hands, all fingers, palms and wrists are completely hidden. No hand-shaped bulges and no impossible elbow directions.
+- His torso faces the waiting Song line. His head turns back only within a natural neck range; shoulders and hips do not twist in opposite impossible directions.
+- The leading foot is fully planted on the wet first exterior step, bearing weight. The rear foot remains flat just behind the threshold with the heel beginning to release. The stride is short and human, knees aligned, robe weight grounded, no crossed legs, floating body or giant step.
+
+CAMERA AND VIEWER POSITION:
+- Eye-level 55 mm medium-full view from the palace forecourt, exactly where a standing Song guard in the waiting surrender rank would be.
+- Li Yu stands slightly left of center and advances diagonally toward the lower center. Keep stable architectural verticals and a level horizon.
+- At the extreme bottom-left and bottom-right corners, show only two small cropped, soft-focus Song shoulder-and-helmet rims, together under twelve percent of the frame. They frame Li Yu without covering his shoes, robe or face. No foreground face, hand or weapon crosses the protagonist.
+- The viewer looks between these two Song soldiers toward Li Yu. Their inward eyelines and the palace-step perspective must clearly place the viewer inside the waiting conquering formation, not outside as a neutral spectator.
+- Four clean depth layers: minimal blurred Song-rank corners; dominant Li Yu on the first step; threshold objects and tiny bowed ministers; a narrow distant Qinhuai opening.
+
+POET–RULER EVIDENCE, SECONDARY AND PHYSICALLY REAL:
+- Just inside the doorway at frame-left, one low plain lacquer platform supports one historically plausible Chinese guqin. Exactly one string is snapped; both ends remain attached to the instrument and lift only in one small restrained recoil arc. All other strings remain straight and tensioned. No loose wire coils, no many broken strings and no shattered instrument.
+- A plain dark inkstone has tipped against the inner edge of the threshold and created one shallow grounded ink pool with contact shadow. It is not floating.
+- Exactly one modest blank fine-paper poem sheet, about forearm length rather than a giant scroll, touches the edge of the ink pool and lies partly across the wet threshold. Only its far corner is being lifted by the same wind that moves the robe hem. The sheet is continuous, correctly foreshortened and completely blank: no writing, pseudo-writing, border, seal or symbol.
+- These three objects remain visible but secondary. They must feel abandoned by the ruler’s forward movement, not arranged as a still-life display.
+
+FALLEN JINLING, STRICTLY SUBORDINATE:
+- Through a narrow broken opening on the far-right rear, show only a compressed strip of dark Qinhuai water, two or three low Southern Tang roof silhouettes, distant Song torch points and unstable orange fire reflections on rain. The city view occupies no more than fifteen percent of the frame.
+- Do not show a panoramic burning metropolis, giant gate, pagoda spectacle, naval battle, crowds, close combat or gore. Fire is evidence of the fall, never a second focal subject.
+
+MOTION, COLOR AND LIGHT:
+- Rain falls diagonally from upper-right to lower-left. Li Yu moves forward; his wet robe hem, short futou tails and the one lifted paper corner lag back toward the hall. The motion freezes before his rear foot crosses the threshold.
+- Dominant palette: cold rain blue, blue-gray, pooled ink-black, wet silk white and a trace of faded rose. Distant fire orange appears only in the narrow Qinhuai reflection and as one thin reflected edge on Li Yu’s turned cheek and wet step.
+- Strict G0: no gold leaf, gilded furniture, gold trim, gold dust, gold flecks, bronze-gold sparkle or universal black-gold overlay anywhere.
+
+SERIES MEDIUM — MAKE THIS VISIBLY AN ILLUSTRATION:
+Adult non-photoreal Chinese historical manga fused with a heavy matte mineral-pigment mural and forceful expressive wet ink. Use decisive drawn facial planes, controlled anatomical exaggeration, bold designed silhouette, coarse mineral grain, cracked plaster plates, flaking blue-gray pigment, diluted ink blooms, dry-brush and flying-white rain strokes. Compress distant architecture into graphic mural shapes rather than cinematic realism. The cracks, rain ink and pigment edges must carry the forward surrender motion.
+
+HARD AVOIDS:
+generic sad scholar, private study portrait, static doorway pose, tiny protagonist, panoramic burning city, oversized foreground helmet, neutral spectator viewpoint, casual literati robe, romantic idol, androgynous youth, crying melodrama, throne, crown, dragon robe, imperial yellow, armor, sword, visible hands, visible fingers, malformed sleeves, twisted hips, crossed or floating feet, giant stride, multiple loose guqin strings, wire coils, shattered guqin, giant paper scroll, flying paper swarm, calligraphy, readable text, pseudo-writing, symbols, seal marks, magical ink, hologram, gold leaf, gold flecks, gilded furniture, photoreal skin, live-action movie still, cinematic concept art, glossy 3D CGI, smooth anime polish, modern objects, Japanese costume, European armor, logo, watermark, UI, radar chart, gore.
+
+FINAL QA TARGET:
+Reject unless Li Yu is the dominant first read; the image clearly depicts a defeated ruler leading his court across the palace threshold toward a waiting Song formation; his poet identity is naturally supported by one coherent broken guqin string, one grounded ink pool and one modest blank sheet; his hidden hands, short weighted stride and perspective are anatomically credible; the viewer is unmistakably among the Song soldiers; Qinhuai fire stays a narrow background trace; and the rendering is G0 mineral-mural manga with expressive ink rather than live-action concept art.
+
+=== QA NOTES ===
+
+Generated with the built-in imagegen tool from the two fixed series anchors and copied to the candidate path. Dimensions: 1672x941 PNG. SHA256: A17E10BF22256F0BF3A964F8263CE54836E306EDF2665820CD941D6BBD021FEE. The gate-surrender event, bowed ministers, hidden hands, short forward step, broken guqin, grounded inkstone, modest blank sheet and narrow Qinhuai fire strip all read substantially better than v2. Self-rejected before owner review because the two Song soldiers occupy roughly one third of the frame together, far above the requested twelve-percent cap; their large backs compete with Li Yu and repeat the rejected foreground-dominance problem. One final targeted edit in this round will preserve the successful scene while shrinking the Song-rank corners and increasing Li Yu's visual mass.
+
+=== SAVE CONTRACT ===
+
+Candidate output only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v3-gate-surrender-poet-king.png
+
+Do not promote, copy to the formal output, or update approved package state without explicit owner approval.

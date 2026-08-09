@@ -1,0 +1,55 @@
+PROMPT_VERSION: 4.0-small-song-rank-dominant-li-yu
+ID: n-tang-houzhu
+ORDER: 17
+PERSONAL_NAME_ZH: 李煜
+DISPLAY_ZH: 南唐后主
+STATUS: SUPERSEDED — OWNER CHANGED NARRATIVE DIRECTION
+SHOT_CODE: S17-SONGRANK-EYE55-GATE-THRESHOLD-REARTURN
+COLOR_CODE: C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v4-small-song-rank-dominant-li-yu.png
+
+=== FINAL ENGLISH GENERATION PROMPT ===
+
+Use case: precise-object-edit
+Asset type: 16:9 emperor-series key illustration
+
+INPUT IMAGE ROLES:
+- Image 1 is the edit target. Preserve its successful Li Yu identity, expression, formal robe, hidden-hands pose, short threshold step, bowed ministers, palace gate, guqin, inkstone, blank paper, narrow Qinhuai fire opening, rain direction, mineral-mural manga rendering and rain-blue G0 palette.
+- Image 2 is a series-medium reference only: adult Chinese historical-manga facial design, protagonist dominance, matte granular mineral pigment, cracked plaster and bold graphic planes. Do not import Qin costume, seal, map, pose, black-gold balance or gold.
+- Image 3 is an expressive-ink reference only. Preserve Image 1's scene and use Image 3 only to maintain flying-white rain and directional ink force.
+
+PRIMARY EDIT — CHANGE ONLY THE FOREGROUND SCALE AND PROTAGONIST SCALE:
+1. Reduce the two foreground Song soldiers drastically. Show only a small soft-focus fragment of a dark helmet rim and one shoulder at each extreme bottom corner. Each fragment must occupy under five percent of the frame; together they must occupy under ten percent. Neither helmet may rise above the bottom eighteen percent of the canvas. They remain enough to place the viewer inside the waiting Song surrender rank, but they must never compete with Li Yu, cover his robe, hide his shoes or become readable secondary characters. Do not add any other foreground soldier, hand, face, spear or weapon.
+2. Enlarge Li Yu by roughly twelve to fifteen percent and move him slightly forward and lower in the same composition. His broad sleeve-and-robe silhouette should occupy about forty-eight to fifty-five percent of the total visual mass and roughly eighty-two to eighty-eight percent of frame height. Keep his complete black futou uncropped and keep the leading soft shoe fully visible on the wet exterior step. Reveal only a natural small glimpse of the rear shoe or heel still behind the threshold if needed for walking physics; do not change the short stride or twist the hips.
+
+PRESERVE THESE INVARIANTS AGGRESSIVELY:
+- Preserve Li Yu's refined, slightly gaunt thirty-eight-year-old face, thin moustache, tiny chin beard, contained shame and unfinished backward glance. Keep the torso moving toward the viewer while the head turns naturally about thirty-five degrees toward the lost hall.
+- Keep both forearms inside the broad overlapping sleeves and conceal both hands, all fingers, palms and wrists completely.
+- Keep the two or three bowed close ministers tiny, dark and recessed in the doorway; no readable faces.
+- Keep the guqin on the low platform with exactly one restrained broken-string arc and all other strings straight. No loose wire coils and no additional broken strings.
+- Keep the tipped inkstone grounded with one shallow black ink pool and contact shadow.
+- Keep exactly one modest continuous blank poem sheet touching the ink edge and wet threshold. It remains correctly foreshortened and contains no writing, pseudo-writing, border, seal or symbol.
+- Keep the Qinhuai city-and-fire view confined to the same narrow far-right rear opening, under fifteen percent of the frame. No wider city panorama and no extra flames.
+- Preserve the level 55 mm eye-level palace-gate perspective, stable verticals, diagonal rain, wet step reflections and four depth layers.
+- Preserve the cold rain-blue, blue-gray, ink-black, wet silk white and faint faded-rose palette. Fire orange stays only in the narrow distant reflection and a thin reflected edge.
+- Strict G0: no gold leaf, gold trim, gold dust, gold flecks, gilded furniture or black-gold overlay.
+- Preserve the adult non-photoreal Chinese historical manga plus heavy matte mineral-pigment mural and expressive ink style. Keep decisive drawn facial planes, bold silhouette, coarse pigment grain, cracked plaster, flaking color and flying-white rain. Do not drift into photoreal skin, a live-action movie still, glossy CGI or smooth generic anime.
+
+DO NOT CHANGE:
+the historical event, Li Yu's identity, facial expression, costume colors, headcloth, hidden hands, step direction, ministers, object count, object placement logic, background opening, lighting direction, rain direction, palette or series medium. No text, calligraphy, pseudo-writing, logo, watermark, UI, modern object, extra limb, visible finger, malformed foot, armor, crown, dragon robe, sword, giant paper, panoramic burning city or extra character.
+
+FINAL QA TARGET:
+The first read must be Li Yu himself, not the backs of Song soldiers. The viewer must still feel located inside the waiting Song rank through only two tiny bottom-corner fragments. Li Yu must remain the clear poet-ruler crossing from fallen Jinling into captivity; both hands stay hidden; the step and perspective stay physically credible; the guqin has exactly one believable broken string; the inkstone and blank sheet remain grounded and secondary; Qinhuai fire remains narrow; and the whole image remains G0 mineral-mural manga with expressive ink.
+
+=== QA NOTES ===
+
+Generated in one targeted built-in imagegen edit using v3 as the edit target plus the two fixed series anchors. Candidate copied into the repository at 1672x941 PNG. SHA256: B883899D750F94E2E3336EE8F2D2B93BA35E5C844EB69953B004D54168481AF4.
+
+Visual QA: Li Yu is now the largest and clearest single visual subject; the two Song-rank fragments are confined to the extreme bottom corners and still place the viewer inside the waiting conquerors without competing with him. The recessed bowed ministers, formal wide-sleeved court robe and palace-gate encounter make him read as the defeated ruler leading his court, while the guqin, inkstone and blank sheet establish the poet-musician identity. The guqin remains secondary with one restrained broken-string arc and the other strings tensioned; the tipped inkstone contacts the step and feeds one shallow pool; one blank, folded-by-wetness sheet remains continuous and contains no writing; the Qinhuai fire is confined to a narrow right-rear opening. Both hands are fully concealed inside plausible overlapping sleeves. The leading shoe bears weight on the exterior wet step and a small rear shoe remains behind it; hips, robe weight, step geometry and architectural perspective are coherent. The palette remains cold rain blue, ink black, wet white and limited fire orange; there is no deliberate gold leaf or black-gold overlay. The rendering reads as adult historical manga on a cracked mineral mural with directional rain ink rather than a live-action still. Superseded without promotion after the owner changed the core scene from the 975 surrender to a 978 Bianjing death vision based on the later poison legend plus an explicitly imaginative manuscript-burning motif.
+
+=== SAVE CONTRACT ===
+
+Candidate output only:
+D:\Workspaces\Github\HuangDiTujian\assets\video-01\emperor-illustrations\outputs\candidates\17-n-tang-houzhu-v4-small-song-rank-dominant-li-yu.png
+
+Do not promote, copy to the formal output, or update approved package state without explicit owner approval.

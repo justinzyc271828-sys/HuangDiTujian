@@ -43,6 +43,9 @@ APPROVED_IDS = {
     "sui-wen",
     "sui-yang",
     "tang-tai-zong",
+    "zhou-wu-zetian",
+    "tang-xian-zong",
+    "zhou-shi",
 }
 
 
@@ -93,13 +96,13 @@ MOMENTS = {
         "moment": "at Hulao, the twenty-three-year-old Prince of Qin reaches a coherent full draw one breath before release as two rival eagle-shaped pigment forces align beyond the arrow",
     },
     "zhou-wu-zetian": {
-        "moment": "the elderly sovereign extends the first decree of her new imperial order as the golden wheel turns behind the crown beads",
+        "moment": "the elderly sovereign strides across a bronze threshold from the dim cinnabar Tang court into the violet Wu-Zhou central axis while both hands remain concealed inside formal overlapping sleeves",
     },
     "tang-xian-zong": {
-        "moment": "a snowy-night messenger arrives as his finger drives the decisive Caizhou marker into the rebel map",
+        "moment": "the sleepless emperor turns from a chain-bound relief map toward the snow-covered Caizhou messenger as one clamp opens and several remain shut",
     },
     "zhou-shi": {
-        "moment": "at Gaoping he physically turns the first fleeing guard back toward the battle before the formation recovers",
+        "moment": "at Gaoping the young emperor and his central standard stop the collapsing line while a much smaller Zhao Kuangyin leads the first countercharge from the lower-left",
     },
     "n-tang-houzhu": {
         "moment": "during Jinling's fall, a rain-soaked blank poem sheet tears from his fingers and is about to vanish into fire-reflected river wind",
@@ -249,34 +252,34 @@ SHOT_PLANS = {
         "foreground": "only the cropped lower edge of the vermilion cape and dark armor; no second person, horse or weapon enters the lens",
     },
     "zhou-wu-zetian": {
-        "code": "S14-EXTREMELOW-LEFT3Q-WIDE-DOWNWARD",
-        "elevation": "extreme low view from the base of the Luoyang audience steps, looking up about 28 degrees",
-        "azimuth": "left-facing three-quarter sovereign high in the frame, with crown-bead lines breaking the sky",
-        "scale": "24 mm wide medium-full view using monumental steps rather than a frontal close-up",
-        "roll": "level axial architecture",
-        "interaction": "the viewer is one official within the kneeling ranks and experiences the decree descending through space",
-        "motion": "the sealed blank decree and purple-gold wheel rays descend diagonally from upper-right to lower-left, not straight at camera",
-        "foreground": "blurred shoulders of two kneeling officials create a low human frame",
+        "code": "S14-LOW50-THRESHOLD-STRIDE-HIDDENHANDS",
+        "elevation": "restrained low view from the kneeling court axis, looking upward about eight degrees",
+        "azimuth": "near-frontal three-quarter stride with the sovereign slightly left of center and the Jinlun state emblem separated on the right",
+        "scale": "45–50 mm full environmental figure; the ruler occupies about seventy percent of frame height without wide-angle distortion",
+        "roll": "level axial architecture and one horizontal bronze threshold",
+        "interaction": "the viewer is a kneeling senior official directly confronted as the new sovereign crosses into the receiving court",
+        "motion": "the leading foot crosses from cinnabar shadow into the violet aisle while robe hems trail backward and the fixed-open curtains frame the passage",
+        "foreground": "two soft dark shoulders of kneeling officials frame the lower corners; no hand, decree or table enters the lens",
     },
     "tang-xian-zong": {
-        "code": "S15-EYE-PROFILE-TELE-CLOSE-DEPTH",
-        "elevation": "eye level beside a candle in the strategy room",
-        "azimuth": "strong right profile seen through the candle flame, with the ruler on the left third looking toward the snowy window",
-        "scale": "85 mm compressed close shot; shallow depth separates flame, profile, marker hand and messenger",
-        "roll": "level intimate frame",
-        "interaction": "the viewer is the newly arrived messenger watching the decision crystallize across the room",
-        "motion": "snow-charged ink lines travel from the distant window toward the map while wax sparks rise vertically between viewer and face",
-        "foreground": "large out-of-focus candle flame and wax rim partially veil the profile",
+        "code": "S15-EYE85-PROFILE-TURN-MESSENGER",
+        "elevation": "eye level from the kneeling messenger's position just inside the palace doorway",
+        "azimuth": "right-facing body profile on the left third, with the emperor's head turned sharply three-quarter toward the viewer",
+        "scale": "70–85 mm compressed medium-close shot separating candle, ruler, chain-bound map and snowy doorway",
+        "roll": "subtle three-degree clockwise tension tilt",
+        "interaction": "the viewer is the snow-covered Caizhou messenger whose arrival interrupts the ruler's sleepless watch",
+        "motion": "snow ink travels from the distant gate through the doorway toward the released map clamp and across the robe edge",
+        "foreground": "one soft snow-caked messenger shoulder at viewer-right and one out-of-focus iron candle cup at viewer-left",
     },
     "zhou-shi": {
-        "code": "S16-GROUND-FRONTDIAG-WIDE-DUTCH-COLLISION",
-        "elevation": "ground-level battlefield camera looking up about 10 degrees",
-        "azimuth": "front diagonal three-quarter as the emperor lunges from upper-right toward a fleeing soldier at lower-left",
-        "scale": "28 mm dynamic wide shot with both action vectors visible but the emperor dominant",
-        "roll": "12-degree counterclockwise Dutch tilt",
-        "interaction": "the viewer occupies the wavering soldier's unstable position and is physically pulled back toward the battle",
-        "motion": "the grab closes across the frame from right to left while whip and banners point back toward the battlefield depth",
-        "foreground": "the fleeing soldier's cropped forearm and shield edge enter from the lower-left",
+        "code": "S16-EYE50-EMPERORAXIS-ZHAOCORNER",
+        "elevation": "eye height from one Later Zhou soldier halted inside the retreat",
+        "azimuth": "Chai Rong and black horse dominate the central-right foreground while Zhao Kuangyin remains a small mounted subordinate in the lower-left",
+        "scale": "50 mm medium-wide view; the emperor occupies roughly two-thirds frame height without wide-angle distortion",
+        "roll": "nearly level with only a two-degree clockwise tension tilt",
+        "interaction": "the viewer is a wavering Later Zhou soldier whose retreat is stopped by the emperor's horse, gaze and central command standard",
+        "motion": "pale dust and fleeing bodies move downhill while Chai Rong interrupts the current and Zhao's smaller cavalry wedge echoes the uphill countercharge",
+        "foreground": "one blurred dark shield rim at the extreme lower-right, with no visible foreground face or hand",
     },
     "n-tang-houzhu": {
         "code": "S17-OUTSIDE-LATTICE-REARPROFILE-MS-LATERAL",
@@ -414,25 +417,25 @@ PALETTE_PLANS = {
         "surface": "crisp lamellar rhythm and bow tension opposed by broad two-color eagle brush fields and chalky pass cliffs",
     },
     "zhou-wu-zetian": {
-        "code": "C14-PURPLE-CINNABAR-IVORY-GOLD-G3",
-        "dominant": "imperial purple, dark cinnabar, ivory and deep ink-black",
-        "gold": "G3 deliberate 8–10 percent, reserved for the geometric wheel, crown beads and decree seal; large controlled shapes, never random speckles",
-        "light": "monumental purple-gold backlight descending along the steps",
-        "surface": "rotating geometric rays, broad purple mineral fields and clean monumental breaks",
+        "code": "C14-VIOLET-CINNABAR-IVORY-CLEANBRONZE-G2",
+        "dominant": "deep imperial violet, aged cinnabar, cold ivory, soot black and muted teal-gray",
+        "gold": "G2 restrained clean bronze reserved for the complete eight-spoke state emblem, threshold, crown hardware and curtain hooks; no random gold dust",
+        "light": "dim cinnabar old-court shadow behind against a clearer cold-ivory and violet receiving axis ahead",
+        "surface": "heavy tied-back curtain fields, overlapping mineral-cloth sleeves, one clean bronze threshold and a coherent polished wheel relief",
     },
     "tang-xian-zong": {
-        "code": "C15-SNOWCYAN-AMBER-CHARCOAL-OXIDERED-G0",
-        "dominant": "snow cyan, candle amber, charcoal and a small oxide-red map marker",
-        "gold": "G0 no gold leaf; warmth comes entirely from flame and wax",
-        "light": "single amber candle against cold blue snow light",
-        "surface": "frosted dry pigment, shallow-focus wax haze and fine wind-driven snow ink",
+        "code": "C15-SNOWCYAN-AMBER-CHARCOAL-PURPLE-G0",
+        "dominant": "cold snow cyan, charcoal-black, deep blue-purple, candle amber and one tiny oxide-red seal-cord accent",
+        "gold": "G0 no gold leaf, gold glitter or scattered gold flecks",
+        "light": "cold doorway light and one amber candle split the emperor's turned face",
+        "surface": "dry-brush frost, flaking charcoal pigment, restrained flying-white snow ink and matte iron clamps",
     },
     "zhou-shi": {
-        "code": "C16-DUST-IRONBLUE-BANNERRED-LEATHER-G0",
-        "dominant": "battle dust ochre, iron blue, torn banner red and black-brown leather",
-        "gold": "G0 no gold leaf or gilded atmosphere",
-        "light": "hard autumn side light filtered through dust",
-        "surface": "impact scuffs, ripped-banner strokes and diagonal dust sheets",
+        "code": "C16-DUST-IRONBLUE-IMPERIALRED-LEATHER-G0",
+        "dominant": "dust ochre, iron blue-gray, soot charcoal, black-brown leather and disciplined deep vermilion",
+        "gold": "G0 no gold leaf, glitter, gold dust or black-gold overlay",
+        "light": "hard autumn side light filtered through Gaoping dust",
+        "surface": "matte iron lamellae, cracked mineral dust, weathered black-vermilion command textiles and flying-white countercharge strokes",
     },
     "n-tang-houzhu": {
         "code": "C17-RAINBLUE-INK-SILKWHITE-FIREORANGE-G0",
@@ -501,6 +504,27 @@ DIRECT_PROMPT_OVERRIDES = {
         (PACKAGE / "prompts" / "revisions" / "13-tang-tai-zong-v6-normal-arrow-full-draw.txt")
         .read_text(encoding="utf-8")
         .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "zhou-wu-zetian": (
+        (PACKAGE / "prompts" / "revisions" / "14-zhou-wu-zetian-v9-hidden-hands-threshold-stride.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "tang-xian-zong": (
+        (PACKAGE / "prompts" / "revisions" / "15-tang-xian-zong-v2-chainbound-map-messenger.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH GENERATION PROMPT ===", 1)[1]
+        .split("=== QA NOTES ===", 1)[0]
+        .strip()
+    ),
+    "zhou-shi": (
+        (PACKAGE / "prompts" / "revisions" / "16-zhou-shi-v4-neutral-command-banners.txt")
+        .read_text(encoding="utf-8")
+        .split("=== FINAL ENGLISH EDIT PROMPT ===", 1)[1]
         .split("=== QA NOTES ===", 1)[0]
         .strip()
     ),
@@ -889,7 +913,7 @@ def palette_matrix_doc() -> str:
     rows = [
         "# 二十帝王色彩与金色额度矩阵",
         "",
-        "版本：`v2.3 camera-palette-identity-physics`。岩彩媒介保持统一，但主色、光线、表面节奏和金色密度按人物分配。01–03 已批准，不作为后续模板。",
+        "版本：`v2.3 camera-palette-identity-physics`。岩彩媒介保持统一，但主色、光线、表面节奏和金色密度按人物分配。01–16 已批准，不作为后续模板。",
         "",
         "| # | ID | Color code | Dominant palette | Gold budget | Lighting | Surface rhythm |",
         "|---:|---|---|---|---|---|---|",
@@ -929,8 +953,8 @@ def readme() -> str:
 
 ## 生产顺序
 
-1. `01-qin-shi-huang.png` 至 `13-tang-tai-zong.png` 已批准，**禁止重生成或覆盖**。
-2. 从 `prompts/14-zhou-wu-zetian.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
+1. `01-qin-shi-huang.png` 至 `16-zhou-shi.png` 已批准，**禁止重生成或覆盖**。
+2. 从 `prompts/17-n-tang-houzhu.txt` 开始，一次只处理一张；旧版退稿保存在 `rejected/` 的对应原因目录中。
 3. 每次必须重新打开单人提示词，确认顶部是 `PROMPT_VERSION: 2.3-camera-palette-identity-physics`，再复制 `POSITIVE PROMPT`。
 4. 同时加载主锚点和辅助锚点；只继承材质、笔触和成年漫画造型，不复制秦始皇机位或黑金密度。
 5. 生成前同时核对 `SHOT_CODE`、`COLOR_CODE` 及两张矩阵的相邻行；生成 16:9 PNG。
