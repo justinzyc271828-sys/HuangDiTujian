@@ -125,10 +125,10 @@ export default function StandPlate({ axes, profile }: Props) {
       </div>
       <p className="plate-cry">“{profile.cry}”</p>
       <p className="plate-line">
-        <b>能力</b> {profile.ability}
+        <b>功</b> {profile.ability}
       </p>
       <p className="plate-line">
-        <b>破绽</b> {profile.weakness}
+        <b>过</b> {profile.weakness}
       </p>
       <p className="plate-note">品藻戏作；史实见年表与出处。</p>
     </div>
