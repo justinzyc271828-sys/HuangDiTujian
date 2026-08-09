@@ -1,6 +1,6 @@
 # 前端实现槽位
 
-**已落地（2026-08-08）：** `/emperor/:id` 奏折三栏专页（封面打开动效 · 左目录+图鉴索引 · 中六维品藻牌 · 右自适应地图），绫裱主题定稿（备选岩彩/宣纸可切）；`/` 总览已同主题重塑。设计依据：
+**已落地（2026-08-09）：** `/emperor/:id` 奏折三栏专页（封面打开动效 · 左目录+图鉴索引 · 中六维品藻牌（功/过四字对仗） · 右自适应地图+朝代疆域示意），绫裱主题锁定（风格切换已移除）；`/` 总览图鉴墙已统一——首批 video-01 二十人亮卡、其余 249 人未启封黑卡，筛选精简为 全部/正式/准/已读。设计依据：
 
 → [`docs/07-专页奏折布局设计.md`](./07-专页奏折布局设计.md)
 
@@ -8,13 +8,13 @@
 
 | 能力 | 位置 | 备注 |
 |------|------|------|
-| 人物 YAML / 年表 / 路线 | `data/emperors/` | 现 **5** 人 |
+| 人物 YAML / 年表 / 路线 | `data/emperors/` | 现 **22** 人（video-01 二十人全齐） |
 | 全库索引 | `data/catalog/emperors_master.json` | **269** |
 | 先导二十六维 | `data/catalog/video20.json` | 20 人完整分数 |
 | 六维轴 / Lab | `data/catalog/stand_stats.json` | 对齐 video20 |
 | 构建产物 | `apps/web/public/data/site.json` | |
 | 史料卡 | `content/sources/` | 269 目录全 complete |
-| 分镜 / Key Art | `content/video/video-01/` | 文案齐；真图 6/20（`assets/video-01/emperor-illustrations/outputs/`） |
+| 分镜 / Key Art | `content/video/video-01/` | 文案齐；真图 **20/20 定稿**（`assets/video-01/emperor-illustrations/outputs/`） |
 | 英文出图 prompt | `assets/video-01/emperor-illustrations/prompts/` | 20 份 v2.3（根目录旧版已废止） |
 | 进度 | `docs/08-项目进度看板.md` | |
 
@@ -25,4 +25,4 @@
 
 ## 建议技术入口
 
-现有 `apps/web` 可继续用，但 **Emperor 专页应按 Memorial 三栏重写**；或新开 UI 包，只消费 `site.json`。
+Emperor 专页已按 Memorial 三栏落地于 `apps/web`（消费 `site.json` + `stand_stats.json`）；后续迭代在现有包内继续，不另起 UI 包。

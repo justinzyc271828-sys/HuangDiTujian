@@ -1,29 +1,29 @@
 # 皇帝图鉴 · HuangDiTujian
 
-> [English README](README.en.md)
+> [English README](README.en.md) · **GitHub:** [justinzyc271828-sys/HuangDiTujian](https://github.com/justinzyc271828-sys/HuangDiTujian)
 
 把中国历史上的**正式帝王**与后期扩展的**准帝王**，做成一本可交互的「收集图鉴」：
 
 - AI 史书想象画像（先导二十：**20/20 定稿**，岩彩裂壁风格）  
 - 主要事迹 + 年表大事表 + 关联表  
 - `[[其他皇帝]]` 交叉跳转  
-- 侧栏古地图：一生主要地点与路线  
+- 侧栏古地图：一生主要地点与路线 + 朝代疆域示意  
 - **video-01**：文言六维 + 分镜 + Key Art  
 
 > **进度以看板为准（与仓库事实同步）：**  
 > → [`docs/08-项目进度看板.md`](docs/08-项目进度看板.md)  
 > **工作区边界：** 仅本仓库；见 [docs/06-工作区边界.md](docs/06-工作区边界.md)。
 
-### 当前快照（2026-08-08）
+### 当前快照（2026-08-09）
 
 | 项 | 状态 |
 |----|------|
 | 全库索引 | **269** 人 · `data/catalog/emperors_master.*` |
-| video-01 | **20** 人六维/分镜/prompt ✅ · 真图 **20/20** 定稿 · 成片 ☐ |
-| 产品 YAML+bio | **5** 人（含始皇、汉武、太宗） |
+| video-01 | **20** 人六维/分镜/prompt/真图 **全齐（20/20 定稿）** · 待配音成片 |
+| 产品 YAML+bio | **22** 人（video-01 二十人全齐 + 早期骨架高祖、二世） |
 | 史料卡 | **269** 人全 dossier-complete · 0 scaffold · E 卡 1950 |
-| 前端 | `apps/web` 可 dev · **奏折专页未落地**（见 07 / FRONTEND-SLOT） |
-| 现行出图生产包 | `assets/video-01/emperor-illustrations/`（prompt v2.3 + manifest） |
+| 前端 | `apps/web` · **奏折三栏专页已落地**（绫裱主题）· 图鉴墙统一（首批二十人亮卡/其余未启封黑卡） |
+| 现行出图生产包 | `assets/video-01/emperor-illustrations/`（prompt v2.3 + manifest + outputs 20/20） |
 
 ---
 
@@ -40,16 +40,17 @@
 
 ```
 HuangDiTujian/
-├── README.md
-├── docs/                         # 00–08 框架与进度看板
+├── README.md · README.en.md
+├── 启动预览.bat                # 双击：自动起本地服务 + 开浏览器；关窗即停
+├── docs/                         # 00–09 框架与进度看板
 ├── data/
 │   ├── catalog/                  # master 269 · video20 · stand_stats
-│   ├── emperors/                 # 产品 YAML（现 5）
-│   ├── places/                   # 地点（现 15）
+│   ├── emperors/                 # 产品 YAML（现 22）
+│   ├── places/                   # 地点（现 59）
 │   └── templates/
 ├── content/
-│   ├── bios/                     # 现 5
-│   ├── sources/                  # video-01 二十人史源/史料
+│   ├── bios/                     # 现 22
+│   ├── sources/                  # 全库 269 史源/史料
 │   └── video/video-01/           # 分镜 · key-art 规格
 ├── key-art-en-prompts-video01/   # 英文 prompt 旧版存档（已废止，勿用于出图）
 ├── assets/
@@ -65,17 +66,10 @@ HuangDiTujian/
 
 ---
 
-## 已有产品层示例
+## 已有产品层（22 人）
 
-| id | 显示名 | 说明 |
-|----|--------|------|
-| `qin-shi-huang` | 秦始皇 | YAML+bio+12 史料+分镜+prompt |
-| `han-wu-di` | 汉武帝 | 同上 |
-| `tang-tai-zong` | 唐太宗 | 同上 |
-| `han-gao-zu` | 汉高祖 | 早期骨架 YAML（不在 video20） |
-| `qin-er-shi` | 秦二世 | 早期骨架 YAML（不在 video20） |
-
-video-01 其余 17 人：**有史料/分镜/prompt，尚无 `data/emperors` YAML**。
+- **video-01 二十人**：YAML+bio+史料+分镜+prompt+真图 **全齐**，生年/庙谥已对照正史补齐（王莽/武则天/李煜无庙号系史实）。
+- **早期骨架 2 人**（不在 video20）：`han-gao-zu` 汉高祖 · `qin-er-shi` 秦二世。
 
 ---
 
@@ -93,6 +87,7 @@ video-01 其余 17 人：**有史料/分镜/prompt，尚无 `data/emperors` YAML
 | [工作区边界](docs/06-工作区边界.md) | 仅本仓库可写 |
 | [奏折布局](docs/07-专页奏折布局设计.md) | 正式 UI |
 | [FRONTEND-SLOT](docs/FRONTEND-SLOT.md) | 前端实现槽 |
+| [地图资料清单](docs/09-地图资料清单.md) | 各朝代疆域图素材清单 |
 | [先导二十人](docs/references/catalogs/先导二十人.md) | 六维总表 |
 | [史源工作区](content/sources/README.md) | 全库 269 史料状态 |
 | [视频包](content/video/video-01/README.md) | 分镜 + Key Art |
@@ -112,6 +107,10 @@ video-01 其余 17 人：**有史料/分镜/prompt，尚无 `data/emperors` YAML
 ---
 
 ## 本地运行预览
+
+**一键方式（推荐）：** 双击根目录 `启动预览.bat` —— 自动起服务并打开浏览器；关闭弹出的窗口即停止服务。
+
+手动方式：
 
 ```bash
 python tools/build_site_data.py

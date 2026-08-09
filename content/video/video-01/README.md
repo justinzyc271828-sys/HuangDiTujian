@@ -61,7 +61,7 @@
 - **地图**：谭图/CHGIS 风格简化；朝代边界示意即可
 - **统一噪点**：宣纸/绢/夯土纹理压在画面 8–12% 透明度，系列辨识度
 
-## 本批完成度（2026-08-08 对齐）
+## 本批完成度（2026-08-09 对齐）
 
 | 项 | 状态 |
 |----|------|
@@ -71,10 +71,10 @@
 | Key Art 中文规格 v3 | ✅ `key-art/cards/`（外貌/冠服/背景/画风） |
 | 风格圣经 | ✅ v1 锁定 `assets/style-bible/v1/`（岩彩裂壁 · 墨势入场） |
 | 英文出图 prompt | ✅ **现行 v2.3** `assets/video-01/emperor-illustrations/prompts/`（根目录旧版已废止） |
-| 真图 Image | ◐ **6/20 approved**（01 始皇–06 石勒 `outputs/`；退稿 6 张 `rejected/`） |
+| 真图 Image | ✅ **20/20 approved 定稿**（`outputs/`；候选稿 `candidates/`；退稿 `rejected/`） |
 | 配乐 | ✅ `Music/The Last Emperor's March.wav` |
 | 配音 / 成片视频 | ☐ |
-| 十七人 YAML 产品同步 | ☐ |
+| 十七人 YAML 产品同步 | ✅ 已同步（产品页共 22 人，生年/庙谥已补齐） |
 
 **总进度看板：** `docs/08-项目进度看板.md`
 

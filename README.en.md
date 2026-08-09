@@ -18,7 +18,7 @@
 | Master index | **269** rulers (`data/catalog/emperors_master.*`) |
 | Source dossiers | 269 dossiers, ~1,950 evidence cards, scaffold-free |
 | Video-01 pilot | 20 emperors: stats / storyboards / prompts done; illustrations **20/20 finalized** |
-| Product pages (YAML + bio) | Growing curated set, incl. Qin Shi Huang, Han Wudi, Tang Taizong |
+| Product pages (YAML + bio) | **22** — video-01 twenty complete (births/temple names verified vs. primary histories) + 2 early skeletons |
 | Front end | Gallery index + memorial-style emperor pages, running dev-previewable |
 
 ## Repository layout
@@ -52,6 +52,8 @@ HuangDiTujian/
 4. **Presentation** — the web app renders the gallery index, memorial-style pages, radar stats, and historical maps.
 
 ## Run locally
+
+Easiest on Windows: double-click `启动预览.bat` in the repo root — it starts the dev server and opens the browser; close the window to stop.
 
 ```bash
 python tools/validate_data.py        # data integrity checks
