@@ -10642,7 +10642,8 @@
           "value": "朝平江南的部署，可与宋方本纪对读。\n\n开宝九年（976）他北迁汴京，封违命侯，软禁中词多故国之思。太平兴国三年（978）卒于京师，时宋太宗在位；民间有七夕赐牵机药传说，正史记载简略，此处作待考处理。\n\n他的后效在文学：二主词为词史入口，君道失败与词人成就分离，后世月旦常带同情分。与南唐元宗（中主李璟）对读，可见南唐自中主至后主两代而终的格局。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/n-tang-houzhu.png"
     },
     {
       "id": "wuyue-qian-liu",
@@ -15071,7 +15072,8 @@
           "value": "降。南方诸国次第入宋，五代以来的分裂格局大体收束。\n\n开宝九年（976），太祖崩于开封，其弟宋太宗即位。「烛影斧声」「金匮之盟」历来是这一交接的争议层，本页只点到，不作坐实。"
         }
       ],
-      "page_status": "draft"
+      "page_status": "draft",
+      "illustration": "illustrations/n-song-tai-zu.png"
     },
     {
       "id": "n-song-tai-zong",
@@ -18902,8 +18904,25 @@
   ],
   "featured_ids": [
     "qin-shi-huang",
+    "han-xuan-di",
     "han-wu-di",
-    "tang-tai-zong"
+    "xin-wang-mang",
+    "e-han-guangwu",
+    "h-zhao-shi-le",
+    "liang-wu",
+    "xixia-li-yuanhao",
+    "q-qin-fu-jian",
+    "n-wei-xiaowen",
+    "sui-wen",
+    "sui-yang",
+    "tang-tai-zong",
+    "zhou-wu-zetian",
+    "tang-xian-zong",
+    "zhou-shi",
+    "n-tang-houzhu",
+    "n-song-tai-zu",
+    "yuan-shi-zu",
+    "n-wei-taiwu"
   ],
   "catalog_stats": {
     "total": 269,

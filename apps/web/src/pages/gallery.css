@@ -218,6 +218,18 @@
   object-fit: cover;
 }
 
+/* 首批无图占位：保持二十人卡片等高一致 */
+.g-illu-pending {
+  height: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(30, 23, 18, 0.45);
+  font-size: 0.82rem;
+  letter-spacing: 0.35em;
+  text-indent: 0.35em;
+}
+
 .g-card-body {
   display: flex;
   flex-direction: column;

@@ -165,12 +165,18 @@ def main() -> int:
         "emperor": sum(1 for e in emperors if e.get("tier") == "emperor"),
     }
 
+    video20_path = ROOT / "data" / "catalog" / "video20.json"
+    featured_ids: list[str] = []
+    if video20_path.is_file():
+        v20 = json.loads(video20_path.read_text(encoding="utf-8"))
+        featured_ids = [p["id"] for p in (v20.get("profiles") or [])]
+
     site = {
         "generated_note": "由 tools/build_site_data.py 生成，勿手改",
         "dynasties": dynasties,
         "places": places,
         "emperors": emperors,
-        "featured_ids": ["qin-shi-huang", "han-wu-di", "tang-tai-zong"],
+        "featured_ids": featured_ids,
         "catalog_stats": catalog_stats,
     }
 

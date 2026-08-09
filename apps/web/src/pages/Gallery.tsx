@@ -98,18 +98,15 @@ export default function Gallery({ site }: Props) {
               <Link
                 key={e.id}
                 to={`/emperor/${e.id}`}
-                className={[
-                  "g-card",
-                  isStub ? "is-stub" : "is-draft",
-                  isFeatured ? "is-featured" : "",
-                  isQuasi ? "is-quasi" : "",
-                ]
-                  .filter(Boolean)
-                  .join(" ")}
+                className={`g-card ${isFeatured ? "is-draft is-featured" : "is-stub"}`}
               >
-                {!isStub && e.illustration && (
+                {isFeatured && (
                   <div className="g-illu">
-                    <img src={`/${e.illustration}`} alt="" loading="lazy" />
+                    {e.illustration ? (
+                      <img src={`/${e.illustration}`} alt="" loading="lazy" />
+                    ) : (
+                      <div className="g-illu-pending">画像在制</div>
+                    )}
                   </div>
                 )}
                 <div className="g-card-body">
@@ -126,7 +123,7 @@ export default function Gallery({ site }: Props) {
                     {e.names.personal ? ` · ${e.names.personal}` : ""} ·{" "}
                     {e.reign.start || "?"}—{e.reign.end || "?"}
                   </div>
-                  {!isStub && (e.tags || []).length > 0 && (
+                  {isFeatured && (e.tags || []).length > 0 && (
                     <div className="g-tags">
                       {(e.tags || []).slice(0, 4).map((t) => (
                         <span key={t} className="g-tag">
@@ -135,7 +132,7 @@ export default function Gallery({ site }: Props) {
                       ))}
                     </div>
                   )}
-                  {!isStub && <p className="g-summary">{e.summary}</p>}
+                  {isFeatured && <p className="g-summary">{e.summary}</p>}
                   <div className="g-status">
                     {read.includes(e.id) && <span className="st-read">已读</span>}
                     {starred.includes(e.id) && <span className="st-star">收藏</span>}
