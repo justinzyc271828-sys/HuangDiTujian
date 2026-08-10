@@ -3,7 +3,9 @@ tier: quasi
 sort_key: 新-001
 names:
   display: 新朝王莽
+  display_en: Wang Mang
   personal: 王莽
+  personal_en: Wang Mang
   temple: null
   posthumous: null
   aliases: []
@@ -24,11 +26,17 @@ life:
   birth_place_id: null
   death_place_id: chang-an
 summary: 以外戚身份与儒学声望居摄代汉，建国号新并力行托古改制，终在边患与民变中迅速崩亡的争议之主。
+summary_en: A consort-clan kinsman whose Confucian renown carried him from regency to the throne, he founded the Xin dynasty and pressed archaizing reforms, a controversial ruler whose regime swiftly collapsed amid frontier wars and popular revolt.
 tags:
 - 托古改制
 - 符命禅让
 - 新朝
 - 速亡
+tags_en:
+- Archaizing Reforms
+- Portents and Abdication
+- Xin Dynasty
+- Swift Collapse
 portrait:
   primary: assets/portraits/xin-wang-mang/primary.png
   variants: []
@@ -43,8 +51,11 @@ bio:
 timeline:
 - year: '1'
   date_note: 元始中
+  date_note_en: mid-Yuanshi
   title: 安汉公
+  title_en: Duke of Anhan
   summary: 以外戚与儒学声望累迁，受封安汉公，掌控朝政。
+  summary_en: Rising through consort-clan ties and Confucian renown, he was enfeoffed Duke of Anhan and controlled the court.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -52,8 +63,11 @@ timeline:
   card_id: E001
 - year: '6'
   date_note: 居摄元年
+  date_note_en: Jushe 1
   title: 居摄称制
+  title_en: Acting as Regent
   summary: 平帝死后立孺子婴，居摄行周公故事，加号假皇帝。
+  summary_en: After Emperor Ping's death he set up the infant Ruzi Ying, acted as regent in the manner of the Duke of Zhou, and took the title Acting Emperor.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -61,8 +75,11 @@ timeline:
   card_id: E002
 - year: '8'
   date_note: 初始元年
+  date_note_en: Chushi 1
   title: 符命劝进
+  title_en: Portents Urge Accession
   summary: 符命与禅让舆论密集，为代汉制造合法性。
+  summary_en: Portents and abdication propaganda multiplied, manufacturing legitimacy for replacing Han.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -70,8 +87,11 @@ timeline:
   card_id: E003
 - year: '9'
   date_note: 始建国元年
+  date_note_en: Shijianguo 1
   title: 代汉称帝
+  title_en: Replacing Han as Emperor
   summary: 废孺子婴，建国号新，改元始建国。
+  summary_en: He deposed Ruzi Ying, founded the dynasty named Xin, and inaugurated the Shijianguo era.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -79,8 +99,11 @@ timeline:
   card_id: E004
 - year: '9'
   date_note: 始建国年间
+  date_note_en: Shijianguo period
   title: 托古改制
+  title_en: Archaizing Reforms
   summary: 行王田、禁奴婢，屡改货币官名，托《周礼》等经典，社会震荡剧烈。
+  summary_en: He imposed "king's fields" and banned the trade in slaves, repeatedly changed coinage and office names on the authority of the Rites of Zhou and other classics, and shook society severely.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -88,8 +111,11 @@ timeline:
   card_id: E005
 - year: '10'
   date_note: 始建国二年
+  date_note_en: Shijianguo 2
   title: 五均六筦
+  title_en: Five Equalizations, Six Monopolies
   summary: 设五均赊贷等，经济管制加深社会震荡。
+  summary_en: The Five Equalizations, state loans, and other controls deepened economic regimentation and social strain.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -97,8 +123,11 @@ timeline:
   card_id: E006
 - year: '15'
   date_note: 天凤二年
+  date_note_en: Tianfeng 2
   title: 匈奴战事恶化
+  title_en: War with the Xiongnu Worsens
   summary: 与匈奴关系破裂，边费与兵祸加剧。
+  summary_en: Relations with the Xiongnu broke down; frontier costs and the ravages of war mounted.
   place_id: null
   related_person_ids: []
   sources:
@@ -107,8 +136,11 @@ timeline:
   card_id: E007
 - year: '17'
   date_note: 天凤中
+  date_note_en: mid-Tianfeng
   title: 绿林赤眉
+  title_en: Lulin and Red Eyebrows
   summary: 民变蜂起，绿林、赤眉等起兵，新朝控制力崩解。
+  summary_en: Popular revolts swarmed, the Lulin, the Red Eyebrows, and others rose, and Xin control collapsed.
   place_id: null
   related_person_ids: []
   sources:
@@ -117,8 +149,11 @@ timeline:
   card_id: E008
 - year: '22'
   date_note: 地皇三年
+  date_note_en: Dihuang 3
   title: 绿林新市兵起
+  title_en: Lulin and Xinshi Rise
   summary: 荆州绿林等大起，新朝地方失控。
+  summary_en: The Lulin forces in Jingzhou rose in strength, and Xin lost local control.
   place_id: lv-lin
   related_person_ids: []
   sources:
@@ -127,8 +162,11 @@ timeline:
   card_id: E009
 - year: '23'
   date_note: 地皇四年
+  date_note_en: Dihuang 4
   title: 昆阳新败
+  title_en: Xin Defeated at Kunyang
   summary: 新军大败于昆阳，洛阳等地动摇，新朝军事崩溃。
+  summary_en: The Xin army was crushed at Kunyang; Luoyang and other places wavered, and Xin's military collapsed.
   place_id: kun-yang
   related_person_ids:
   - e-han-guangwu
@@ -138,8 +176,11 @@ timeline:
   card_id: E010
 - year: '23'
   date_note: 地皇四年
+  date_note_en: Dihuang 4
   title: 更始入关前夜
+  title_en: Gengshi at the Passes
   summary: 昆阳败后更始政权进逼，长安将溃。
+  summary_en: After Kunyang, the Gengshi regime pressed in, and Chang'an stood on the brink of collapse.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -148,8 +189,11 @@ timeline:
   card_id: E011
 - year: '23'
   date_note: 地皇四年
+  date_note_en: Dihuang 4
   title: 渐台之死
+  title_en: Death on the Jian Terrace
   summary: 更始军入长安，王莽死于渐台，新亡。
+  summary_en: Gengshi's army entered Chang'an; Wang Mang died on the Jian Terrace, and Xin perished.
   place_id: chang-an
   related_person_ids: []
   sources:

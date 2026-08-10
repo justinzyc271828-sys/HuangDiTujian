@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 隋-002
 names:
   display: 隋炀帝
+  display_en: Emperor Yang of Sui
   personal: 杨广
+  personal_en: Yang Guang
   temple: null
   posthumous: 炀皇帝
   aliases:
@@ -23,11 +25,17 @@ life:
   birth_place_id: null
   death_place_id: jiang-du
 summary: 由晋王平陈立功而立为太子，即位后营东都、开运河、西巡张掖、三征高句丽，把大工程与大征伐推向极致并致隋速亡的皇帝。
+summary_en: The emperor who, made crown prince after earning merit in the conquest of Chen as Prince of Jin, went on to build the Eastern Capital, dig the canals, tour west to Zhangye, and campaign three times against Goguryeo, pushing grand projects and great campaigns to the extreme and bringing the Sui to a swift end.
 tags:
 - 大运河
 - 营东都
 - 三征高句丽
 - 亡国
+tags_en:
+- Grand Canal
+- Eastern Capital
+- Goguryeo Campaigns
+- Dynasty's Fall
 portrait:
   primary: assets/portraits/sui-yang/primary.png
   variants: []
@@ -40,8 +48,11 @@ bio:
 timeline:
 - year: '589'
   date_note: 开皇九年
+  date_note_en: Kaihuang 9
   title: 晋王平陈
+  title_en: The Prince of Jin Pacifies Chen
   summary: 为晋王时参与灭陈，立功，伏笔「晋王」身份。
+  summary_en: As Prince of Jin he joined the destruction of Chen and earned merit, foreshadowing his "Prince of Jin" identity.
   place_id: jian-kang
   related_person_ids:
   - sui-wen
@@ -50,8 +61,11 @@ timeline:
   card_id: E001
 - year: '600'
   date_note: 开皇二十年
+  date_note_en: Kaihuang 20
   title: 立为太子
+  title_en: Made Crown Prince
   summary: 由晋王为太子，大业前夜。
+  summary_en: From Prince of Jin he became crown prince, on the eve of the Daye era.
   place_id: da-xing
   related_person_ids:
   - sui-wen
@@ -61,8 +75,11 @@ timeline:
   card_id: E002
 - year: '604'
   date_note: 仁寿四年
+  date_note_en: Renshou 4
   title: 即位改元
+  title_en: Enthronement and New Era Name
   summary: 即帝位，后改元大业，展开大工程与扩张。
+  summary_en: He ascended the throne and later changed the era name to Daye, launching grand projects and expansion.
   place_id: da-xing
   related_person_ids: []
   sources:
@@ -70,8 +87,11 @@ timeline:
   card_id: E003
 - year: '605'
   date_note: 大业元年
+  date_note_en: Daye 1
   title: 开通济渠
+  title_en: Digging the Tongji Canal
   summary: 运河关键段，南北贯通。
+  summary_en: A key section of the canal, linking north and south.
   place_id: tong-ji-qu
   related_person_ids: []
   sources:
@@ -79,8 +99,11 @@ timeline:
   card_id: E004
 - year: '605'
   date_note: 大业元年
+  date_note_en: Daye 1
   title: 营东都开运河
+  title_en: Eastern Capital Built, Canal Opened
   summary: 营建东都洛阳，开凿通济渠等，贯通南北水运。
+  summary_en: He built the Eastern Capital at Luoyang and dug the Tongji Canal and other sections, linking north-south water transport.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -89,8 +112,11 @@ timeline:
   card_id: E005
 - year: '608'
   date_note: 大业四年
+  date_note_en: Daye 4
   title: 开永济渠
+  title_en: Digging the Yongji Canal
   summary: 北通涿郡，为征辽后勤。
+  summary_en: Reaching Zhuo Commandery in the north, logistics for the Liaodong campaigns.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -98,8 +124,11 @@ timeline:
   card_id: E006
 - year: '609'
   date_note: 大业五年
+  date_note_en: Daye 5
   title: 西巡张掖
+  title_en: Western Tour to Zhangye
   summary: 西域胡商朝会，盛世表象。
+  summary_en: Hu merchants from the Western Regions came to court, an appearance of a flourishing age.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -107,8 +136,11 @@ timeline:
   card_id: E007
 - year: '612'
   date_note: 大业八年
+  date_note_en: Daye 8
   title: 一征高句丽
+  title_en: First Goguryeo Campaign
   summary: 大举征高句丽，丧师费财，国内矛盾激化。
+  summary_en: A massive campaign against Goguryeo lost armies and drained wealth, intensifying domestic tensions.
   place_id: liaodong
   related_person_ids: []
   sources:
@@ -116,8 +148,11 @@ timeline:
   card_id: E008
 - year: '613'
   date_note: 大业九年
+  date_note_en: Daye 9
   title: 二征高丽与杨玄感
+  title_en: Second Goguryeo Campaign; Yang Xuangan
   summary: 再征辽东，杨玄感起兵。
+  summary_en: He campaigned in Liaodong again, and Yang Xuangan rose in revolt.
   place_id: liaodong
   related_person_ids: []
   sources:
@@ -125,8 +160,11 @@ timeline:
   card_id: E009
 - year: '614'
   date_note: 大业十年
+  date_note_en: Daye 10
   title: 三征高句丽
+  title_en: Third Goguryeo Campaign
   summary: 三幸涿郡亲征，高丽遣使请降，八月班师，三征收场。
+  summary_en: He went to Zhuo Commandery a third time to command in person; Goguryeo sent envoys to sue for peace, the army withdrew in the eighth month, and the third campaign concluded.
   place_id: liaodong
   related_person_ids: []
   sources:
@@ -134,8 +172,11 @@ timeline:
   card_id: E013
 - year: '616'
   date_note: 大业十二年
+  date_note_en: Daye 12
   title: 幸江都
+  title_en: Journey to Jiangdu
   summary: 三幸江都，中原失控。
+  summary_en: His third progress to Jiangdu, as the Central Plains slipped from control.
   place_id: jiang-du
   related_person_ids: []
   sources:
@@ -143,8 +184,11 @@ timeline:
   card_id: E010
 - year: '617'
   date_note: 大业十三年
+  date_note_en: Daye 13
   title: 天下分崩
+  title_en: The Empire Fragments
   summary: 群雄并起，炀帝滞留江都，中枢失控。
+  summary_en: Warlords rose on all sides; Emperor Yang lingered at Jiangdu and the central authority lost control.
   place_id: jiang-du
   related_person_ids: []
   sources:
@@ -152,8 +196,11 @@ timeline:
   card_id: E011
 - year: '618'
   date_note: 大业十四年
+  date_note_en: Daye 14
   title: 江都之变
+  title_en: The Jiangdu Coup
   summary: 宇文化及等发动兵变，炀帝死于江都，隋亡。
+  summary_en: Yuwen Huaji and others launched a mutiny; Emperor Yang died at Jiangdu, and the Sui fell.
   place_id: jiang-du
   related_person_ids: []
   sources:

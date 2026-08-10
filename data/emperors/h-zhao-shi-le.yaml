@@ -3,7 +3,9 @@ tier: quasi
 sort_key: 后赵-001
 names:
   display: 后赵高祖
+  display_en: Shi Le
   personal: 石勒
+  personal_en: Shi Le
   temple: 高祖
   posthumous: 明皇帝
   aliases: []
@@ -21,11 +23,17 @@ life:
   birth_place_id: null
   death_place_id: xiang-guo
 summary: 从被掠卖为奴的羯人少年到开国称帝，都襄国、灭前赵而臣北方，十六国最具戏剧性的创业者。
+summary_en: A Jie youth kidnapped and sold into slavery who rose to found an empire — ruling from Xiangguo, he destroyed Former Zhao and made the north submit, the most dramatic state-founder of the Sixteen Kingdoms.
 tags:
 - 十六国
 - 开国
 - 奴隶天子
 - 胡汉分治
+tags_en:
+- Sixteen Kingdoms
+- Dynasty founder
+- Slave-turned-emperor
+- Hu-Han dualism
 portrait:
   primary: assets/portraits/h-zhao-shi-le/primary.png
   variants: []
@@ -40,8 +48,11 @@ bio:
 timeline:
 - year: '303'
   date_note: 约永兴前后
+  date_note_en: c. the Yongxing era
   title: 被掠为奴
+  title_en: Kidnapped into slavery
   summary: 羯人石勒少时被掠卖为奴，后聚众起兵，是十六国最戏剧性的社会流动叙事。
+  summary_en: Shi Le, a Jie, was kidnapped and sold into slavery in his youth and later gathered a following to rise in arms — the Sixteen Kingdoms' most dramatic story of social mobility.
   place_id: null
   related_person_ids: []
   sources:
@@ -49,8 +60,11 @@ timeline:
   card_id: E001
 - year: '308'
   date_note: 永嘉前后
+  date_note_en: around the Yongjia era
   title: 依附汉赵
+  title_en: Joining Han-Zhao
   summary: 一度归刘渊、刘聪系统，在华北作战中积累实力。
+  summary_en: For a time he attached himself to the Han-Zhao system of Liu Yuan and Liu Cong, building strength in the north China campaigns.
   place_id: null
   related_person_ids: []
   sources:
@@ -58,8 +72,11 @@ timeline:
   card_id: E002
 - year: '311'
   date_note: 永嘉五年
+  date_note_en: Yongjia 5
   title: 攻陷洛阳相关
+  title_en: Around the fall of Luoyang
   summary: 参与永嘉之乱后华北混战，军势坐大。
+  summary_en: He joined the melee in north China that followed the Yongjia upheaval, and his military power swelled.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -67,8 +84,11 @@ timeline:
   card_id: E003
 - year: '319'
   date_note: 太兴二年
+  date_note_en: Taixing 2
   title: 襄国称赵
+  title_en: King of Zhao at Xiangguo
   summary: 称赵王，都襄国，后赵政权成立，脱离前赵阴影。
+  summary_en: He took the title King of Zhao and made Xiangguo his capital; the Later Zhao regime was founded, out of Former Zhao's shadow.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -76,8 +96,11 @@ timeline:
   card_id: E004
 - year: '319'
   date_note: 太兴二年
+  date_note_en: Taixing 2
   title: 称大单于赵王进阶
+  title_en: Great Chanyu and King of Zhao
   summary: 名号与制度升格，后赵雏形稳固。
+  summary_en: His titles and institutions were elevated, and the Later Zhao framework stabilized.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -85,8 +108,11 @@ timeline:
   card_id: E005
 - year: '328'
   date_note: 咸和三年
+  date_note_en: Xianhe 3
   title: 洛阳大战前
+  title_en: Eve of the Luoyang battle
   summary: 与刘曜对峙升级，灭赵前夜。
+  summary_en: The standoff with Liu Yao escalated — the eve of Zhao's destruction.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -94,8 +120,11 @@ timeline:
   card_id: E006
 - year: '329'
   date_note: 咸和四年
+  date_note_en: Xianhe 4
   title: 灭前赵
+  title_en: Destruction of Former Zhao
   summary: 破刘曜，灭前赵，北方大部归后赵。
+  summary_en: He defeated Liu Yao and destroyed Former Zhao; most of the north fell to Later Zhao.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -103,8 +132,11 @@ timeline:
   card_id: E007
 - year: '330'
   date_note: 咸和五年
+  date_note_en: Xianhe 5
   title: 称帝
+  title_en: Proclaimed emperor
   summary: 称皇帝，后赵帝制完备。
+  summary_en: He took the title of emperor, completing Later Zhao's imperial system.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -112,8 +144,11 @@ timeline:
   card_id: E008
 - year: null
   date_note: 在位
+  date_note_en: during his reign
   title: 胡汉分治与学校
+  title_en: Hu-Han dual rule and schools
   summary: 设君子营、兴学校等，胡汉秩序探索。
+  summary_en: He established the Gentlemen's Camp, promoted schools, and explored a Hu-Han order.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -121,8 +156,11 @@ timeline:
   card_id: E011
 - year: null
   date_note: 在位间
+  date_note_en: during his reign
   title: 重用张宾
+  title_en: Trust in Zhang Bin
   summary: 以张宾为谋主，兴学校、定制度，胡汉分治中有秩序建设。
+  summary_en: He made Zhang Bin his chief strategist, promoted schools and fixed institutions — order-building within Hu-Han dual rule.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -130,8 +168,11 @@ timeline:
   card_id: E012
 - year: '333'
   date_note: 咸和八年
+  date_note_en: Xianhe 8
   title: 遗命与石弘
+  title_en: Last testament and Shi Hong
   summary: 勒崩前安排继承人，旋被石虎颠覆。
+  summary_en: Shi Le arranged his heir before dying; the arrangement was soon overturned by Shi Hu.
   place_id: xiang-guo
   related_person_ids: []
   sources:
@@ -139,8 +180,11 @@ timeline:
   card_id: E009
 - year: '333'
   date_note: 咸和八年
+  date_note_en: Xianhe 8
   title: 石勒崩
+  title_en: Death of Shi Le
   summary: 勒崩，石弘继而石虎夺位，后赵政治迅速恶化。
+  summary_en: Shi Le died; Shi Hong succeeded and Shi Hu then seized the throne, and Later Zhao politics deteriorated rapidly.
   place_id: xiang-guo
   related_person_ids: []
   sources:

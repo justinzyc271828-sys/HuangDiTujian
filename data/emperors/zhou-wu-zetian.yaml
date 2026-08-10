@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 唐-006
 names:
   display: 武则天
+  display_en: Wu Zetian
   personal: 武曌
+  personal_en: Wu Zhao
   temple: null
   posthumous: 则天大圣皇后
   aliases:
@@ -41,11 +43,17 @@ life:
   birth_place_id: null
   death_place_id: null
 summary: 从太宗才人到高宗皇后，临朝称制数十年，690年革唐为周正式称帝，是中国史上唯一正统女皇帝。
+summary_en: The only legitimate female emperor in Chinese history, she rose from a consort of Taizong to empress of Gaozong, ruled from behind the screen for decades, and in 690 changed Tang into Zhou and formally took the imperial title.
 tags:
 - 女帝
 - 武周
 - 临朝称制
 - 科举
+tags_en:
+- Female Emperor
+- Wu Zhou
+- Regency
+- Imperial Examinations
 portrait:
   primary: assets/portraits/zhou-wu-zetian/primary.png
   variants: []
@@ -60,8 +68,11 @@ bio:
 timeline:
 - year: '637'
   date_note: 贞观十一年
+  date_note_en: '637'
   title: 入宫才人
+  title_en: Enters the Palace
   summary: 入宫为太宗才人，后有感业寺环节（史传系统）。
+  summary_en: Enters the palace as a cairen consort of Taizong; the Ganye Temple episode follows in the biographical tradition.
   place_id: chang-an
   related_person_ids:
   - tang-tai-zong
@@ -71,8 +82,11 @@ timeline:
   card_id: E001
 - year: '655'
   date_note: 永徽六年
+  date_note_en: '655'
   title: 立为皇后
+  title_en: Made Empress
   summary: 由昭仪立为皇后，进入权力中枢。
+  summary_en: Raised from zhaoyi to empress, entering the center of power.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -80,8 +94,11 @@ timeline:
   card_id: E002
 - year: '655'
   date_note: 永徽六年
+  date_note_en: '655'
   title: 废王立武
+  title_en: Deposing Wang for Wu
   summary: 后位之争落定，长孙无忌等反对派贬死。
+  summary_en: The struggle over the empress seat is settled; opponents such as Zhangsun Wuji are demoted and die.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -90,8 +107,11 @@ timeline:
   card_id: E003
 - year: '660'
   date_note: 显庆五年后
+  date_note_en: after 660
   title: 二圣临朝
+  title_en: The Two Sages
   summary: 高宗病，天后参决政务，形成二圣格局。
+  summary_en: Gaozong falls ill and the Heavenly Empress joins in deciding state affairs, forming the Two Sages arrangement.
   place_id: null
   related_person_ids: []
   sources:
@@ -100,8 +120,11 @@ timeline:
   card_id: E004
 - year: '683'
   date_note: 弘道元年
+  date_note_en: '683'
   title: 高宗崩临朝
+  title_en: Gaozong Dies, Regency Begins
   summary: 高宗崩，中宗即位，天后临朝称制。
+  summary_en: Gaozong dies and Zhongzong succeeds; the Heavenly Empress rules from behind the screen.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -109,8 +132,11 @@ timeline:
   card_id: E005
 - year: '684'
   date_note: 光宅元年
+  date_note_en: '684'
   title: 废中宗
+  title_en: Zhongzong Deposed
   summary: 废中宗为庐陵王，立睿宗，实掌朝政。
+  summary_en: Deposes Zhongzong as Prince of Luling and installs Ruizong, holding real power over the court.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -118,8 +144,11 @@ timeline:
   card_id: E006
 - year: '688'
   date_note: 垂拱四年
+  date_note_en: '688'
   title: 明堂与告密
+  title_en: Bright Hall and Informers
   summary: 洛阳明堂建成，铜匦告密与酷吏政治并行。
+  summary_en: The Bright Hall is completed in Luoyang, with copper-box informant reports and harsh-official politics running in tandem.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -128,8 +157,11 @@ timeline:
   card_id: E007
 - year: '690'
   date_note: 天授元年
+  date_note_en: '690'
   title: 加尊号称帝
+  title_en: Enthroned as Emperor
   summary: 加尊号曰圣神皇帝，降皇帝为皇嗣，女主正式称帝。
+  summary_en: Takes the honorific title Holy and Divine Emperor, demotes the reigning emperor to imperial heir, and a female sovereign formally assumes the throne.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -138,8 +170,11 @@ timeline:
   card_id: E008
 - year: '690'
   date_note: 天授元年
+  date_note_en: '690'
   title: 改唐为周
+  title_en: Tang Changed to Zhou
   summary: 改国号为周，定都神都洛阳，祀明堂。
+  summary_en: Changes the dynastic name to Zhou, fixes the capital at Shendu in Luoyang, and offers sacrifice at the Bright Hall.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -147,8 +182,11 @@ timeline:
   card_id: E009
 - year: '697'
   date_note: 神功元年
+  date_note_en: '697'
   title: 狄仁杰柄用
+  title_en: Di Renjie in Power
   summary: 狄仁杰入相，为武周能吏政治的代表节点。
+  summary_en: Di Renjie enters as chancellor, a representative node of capable-official governance under Wu Zhou.
   place_id: null
   related_person_ids: []
   sources:
@@ -157,8 +195,11 @@ timeline:
   card_id: E010
 - year: '705'
   date_note: 神龙元年
+  date_note_en: '705'
   title: 神龙政变
+  title_en: The Shenlong Coup
   summary: 张柬之等拥中宗复位，武周结束，则天迁宫。
+  summary_en: Zhang Jianzhi and others restore Zhongzong; Wu Zhou ends and Zetian moves to another palace.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -167,8 +208,11 @@ timeline:
   card_id: E011
 - year: null
   date_note: 天授–长安
+  date_note_en: 690–704
   title: 科举与能吏
+  title_en: Examinations and Capable Officials
   summary: 破格用人、发展科举殿试，文治有实绩，与酷吏政治并存。
+  summary_en: Breaks conventions in appointing talent and develops the palace examination; solid civil achievements coexist with harsh-official politics.
   place_id: null
   related_person_ids: []
   sources:

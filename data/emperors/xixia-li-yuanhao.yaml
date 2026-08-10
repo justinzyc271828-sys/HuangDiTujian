@@ -3,7 +3,9 @@ tier: quasi
 sort_key: 西夏-001
 names:
   display: 西夏景宗
+  display_en: Li Yuanhao
   personal: 李元昊
+  personal_en: Li Yuanhao
   temple: 景宗
   posthumous: 武烈皇帝
   aliases:
@@ -23,12 +25,19 @@ life:
   birth_place_id: null
   death_place_id: xing-qing-fu
 summary: 1038年称帝建大夏，创西夏文、立番汉官制，三败宋军而与宋辽鼎立的西夏开国之主。
+summary_en: The founding ruler of Western Xia, who proclaimed himself emperor of Great Xia in 1038, created the Tangut script and a dual Tangut–Han official system, defeated Song armies three times, and stood as a third power alongside Song and Liao.
 tags:
 - 开国
 - 西夏文
 - 宋夏战争
 - 鼎立
 - 遇弑
+tags_en:
+- Dynasty founding
+- Tangut script
+- Song–Xia wars
+- Tripartite standoff
+- Assassination
 portrait:
   primary: assets/portraits/xixia-li-yuanhao/primary.png
   variants: []
@@ -42,8 +51,11 @@ bio:
 timeline:
 - year: '1032'
   date_note: 明道元年
+  date_note_en: Mingdao 1
   title: 袭夏王位
+  title_en: Succeeded as Prince of Xia
   summary: 李德明卒，元昊嗣位，加速去宋化与民族国家建构。
+  summary_en: On Li Deming's death, Yuanhao succeeded and accelerated de-Songification and nation-building.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:
@@ -51,8 +63,11 @@ timeline:
   card_id: E001
 - year: '1034'
   date_note: 约景祐前后
+  date_note_en: c. Jingyou era
   title: 创制西夏文
+  title_en: Tangut Script Created
   summary: 命野利仁荣等造番书（西夏文），改服饰官制，强化主体性。
+  summary_en: He ordered Yeli Renrong and others to devise the Tangut script, reformed dress and officialdom, and asserted Xia distinctiveness.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:
@@ -60,8 +75,11 @@ timeline:
   card_id: E002
 - year: '1036'
   date_note: 约景祐
+  date_note_en: c. Jingyou era
   title: 取瓜沙肃
+  title_en: Capture of Hexi Prefectures
   summary: 攻取河西走廊要地，奠称帝版图基础。
+  summary_en: He seized key prefectures of the Hexi Corridor, laying the territorial base for his imperial claim.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -69,8 +87,11 @@ timeline:
   card_id: E003
 - year: '1038'
   date_note: 天授礼法延祚元年
+  date_note_en: Tianshou Lifa Yanzuo 1
   title: 河西称帝
+  title_en: Proclaimed Emperor in Hexi
   summary: 即皇帝位，国号大夏，改元，与宋辽并立。
+  summary_en: He took the imperial title under the dynastic name Great Xia, changed the era, and stood alongside Song and Liao.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:
@@ -78,8 +99,11 @@ timeline:
   card_id: E004
 - year: '1040'
   date_note: 康定元年
+  date_note_en: Kangding 1
   title: 三川口之战
+  title_en: Battle of Sanchuankou
   summary: 宋夏大战之一，夏军获胜。
+  summary_en: One of the great Song–Xia battles; Xia forces won.
   place_id: san-chuan-kou
   related_person_ids: []
   sources:
@@ -87,8 +111,11 @@ timeline:
   card_id: E005
 - year: '1041'
   date_note: 康定/庆历
+  date_note_en: Kangding/Qingli
   title: 好水川大捷
+  title_en: Victory at Haoshuichuan
   summary: 宋夏大战中夏军重创宋军，确立西夏军事地位。
+  summary_en: Xia forces crushed the Song army, establishing Western Xia's military standing.
   place_id: hao-shui-chuan
   related_person_ids: []
   sources:
@@ -97,8 +124,11 @@ timeline:
   card_id: E006
 - year: '1042'
   date_note: 庆历二年
+  date_note_en: Qingli 2
   title: 定川寨之战
+  title_en: Battle of Dingchuanzhai
   summary: 再创宋军，确立军事优势。
+  summary_en: Another heavy defeat for Song forces confirmed Xia's military edge.
   place_id: ding-chuan-zhai
   related_person_ids: []
   sources:
@@ -106,8 +136,11 @@ timeline:
   card_id: E007
 - year: '1044'
   date_note: 庆历四年
+  date_note_en: Qingli 4
   title: 庆历和议
+  title_en: Qingli Peace Settlement
   summary: 宋夏达成和议，元昊对宋称臣而自帝其国，换岁赐与边境稳定。
+  summary_en: Song and Xia made peace; Yuanhao styled himself a subject to Song while reigning as emperor at home, trading form for annual payments and border stability.
   place_id: null
   related_person_ids: []
   sources:
@@ -115,8 +148,11 @@ timeline:
   card_id: E008
 - year: '1044'
   date_note: 庆历四年
+  date_note_en: Qingli 4
   title: 辽夏和战
+  title_en: War and Peace with Liao
   summary: 与辽冲突后和，宋辽夏三角外交。
+  summary_en: After clashes with Liao came peace—triangular diplomacy among Song, Liao, and Xia.
   place_id: null
   related_person_ids: []
   sources:
@@ -125,8 +161,11 @@ timeline:
   card_id: E009
 - year: '1048'
   date_note: 延祚十一年
+  date_note_en: Yanzuo 11
   title: 没藏氏与后嗣
+  title_en: Mozang Clan and the Succession
   summary: 遇弑后幼主谅祚继立，外戚没藏氏格局形成。
+  summary_en: After the assassination the child ruler Liangzuo succeeded, and the consort clan Mozang came to power.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:
@@ -134,8 +173,11 @@ timeline:
   card_id: E010
 - year: '1048'
   date_note: 延祚十一年
+  date_note_en: Yanzuo 11
   title: 遇弑
+  title_en: Assassinated in Palace Struggle
   summary: 元昊在宫廷斗争中被刺死，西夏转入后续诸帝。
+  summary_en: Yuanhao was stabbed to death amid palace struggles; Western Xia passed to its later rulers.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:
@@ -143,8 +185,11 @@ timeline:
   card_id: E011
 - year: null
   date_note: 制度（系年不明）
+  date_note_en: institutional (year unknown)
   title: 番汉官制
+  title_en: Dual Tangut–Han Officialdom
   summary: 设中书枢密等，番汉分号。
+  summary_en: He established the Secretariat, Bureau of Military Affairs, and more, with separate Tangut and Han designations.
   place_id: xing-qing-fu
   related_person_ids: []
   sources:

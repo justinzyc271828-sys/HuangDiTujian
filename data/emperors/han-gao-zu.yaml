@@ -4,7 +4,9 @@ sort_key: "汉-001"
 
 names:
   display: 汉高祖
+  display_en: Emperor Gaozu of Han
   personal: 刘邦
+  personal_en: Liu Bang
   temple: 太祖
   posthumous: 高皇帝
   aliases: ["汉王刘邦", "沛公"]
@@ -26,11 +28,16 @@ life:
   death_place_id: chang-an
 
 summary: 由布衣起兵、击败西楚、开创汉朝的开国皇帝。
+summary_en: Founding emperor of the Han dynasty, who rose from commoner origins, defeated Western Chu, and founded the Han.
 
 tags:
   - 开国
   - 楚汉
   - 约法
+tags_en:
+  - Founding
+  - Chu-Han Contention
+  - Legal Covenant
 
 portrait:
   primary: assets/portraits/han-gao-zu/primary.png
@@ -47,22 +54,31 @@ bio:
 timeline:
   - year: "-209"
     date_note: 前209年
+    date_note_en: 209 BC
     title: 沛县起兵
+    title_en: Uprising at Pei County
     summary: 响应反秦浪潮，由地方长吏轨迹转入争天下。
+    summary_en: Answering the anti-Qin wave, he shifted from the career of a local official to the contest for the realm.
     place_id: pei-xian
     related_person_ids: []
     sources: ["史记·高祖本纪"]
   - year: "-206"
     date_note: 前206年
+    date_note_en: 206 BC
     title: 入关灭秦王室
+    title_en: Entering the Pass, Ending Qin
     summary: 先入关中，秦王子婴降，秦中央终结。
+    summary_en: He entered Guanzhong first; Ziying, king of Qin, surrendered, and Qin's central rule ended.
     place_id: xianyang
     related_person_ids: ["qin-er-shi"]
     sources: ["史记·高祖本纪"]
   - year: "-202"
     date_note: 前202年
+    date_note_en: 202 BC
     title: 即皇帝位
+    title_en: Proclaimed Emperor
     summary: 楚汉战争结束，建立汉朝。
+    summary_en: The Chu-Han war ended and the Han dynasty was founded.
     place_id: dingtao
     related_person_ids: []
     sources: ["史记·高祖本纪"]

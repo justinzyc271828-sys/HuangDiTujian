@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 汉-010
 names:
   display: 汉宣帝
+  display_en: Emperor Xuan of Han
   personal: 刘询
+  personal_en: Liu Bingyi
   temple: 中宗
   posthumous: 孝宣皇帝
   aliases: []
@@ -27,12 +29,19 @@ life:
   birth_place_id: chang-an
   death_place_id: chang-an
 summary: 以皇曾孙之身自民间入继大统，亲政后综核名实、信赏必罚，置西域都护并受呼韩邪单于入朝的西汉中兴之主。
+summary_en: Raised among the people as an imperial great-grandson, he succeeded to the throne, ruled by matching names to reality with sure rewards and punishments, established the Protector General of the Western Regions, and received Chanyu Huhanye at court, restoring Western Han.
 tags:
 - 中兴
 - 吏治
 - 综核名实
 - 西域
 - 匈奴入朝
+tags_en:
+- Restoration
+- Officialdom
+- Names and Reality
+- Western Regions
+- Xiongnu Submission
 portrait:
   primary: assets/portraits/han-xuan-di/primary.png
   variants: []
@@ -46,8 +55,11 @@ bio:
 timeline:
 - year: '-91'
   date_note: 巫蛊后
+  date_note_en: After the Witchcraft Affair
   title: 民间长养
+  title_en: Raised Among the People
   summary: 巫蛊之祸后皇曾孙病已养于民间，后入掖庭，经历底层与宫廷边缘。
+  summary_en: After the witchcraft affair, the imperial great-grandson Bingyi was raised among the people and later entered the palace wards, living at the bottom and the margins of the court.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -55,8 +67,11 @@ timeline:
   card_id: E001
 - year: '-74'
   date_note: 元平元年
+  date_note_en: Yuanping 1
   title: 霍光迎立
+  title_en: Enthroned by Huo Guang
   summary: 昌邑王废后，霍光等迎立皇曾孙即位，是为宣帝。
+  summary_en: After the King of Changyi was deposed, Huo Guang and others installed the imperial great-grandson, who became Emperor Xuan.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -65,8 +80,11 @@ timeline:
   card_id: E002
 - year: '-73'
   date_note: 本始元年
+  date_note_en: Benshi 1
   title: 本始改元
+  title_en: Benshi Era Begins
   summary: 改元本始，霍氏仍掌权，帝隐忍积蓄。
+  summary_en: The era changed to Benshi; the Huo clan still held power while the emperor bided his time and gathered strength.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -74,8 +92,11 @@ timeline:
   card_id: E003
 - year: '-68'
   date_note: 地节二年
+  date_note_en: Dijie 2
   title: 霍光薨逝
+  title_en: Death of Huo Guang
   summary: 霍光死，宣帝逐步收回权柄，进入亲政前夜。
+  summary_en: With Huo Guang's death, Emperor Xuan gradually drew back authority, on the eve of personal rule.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -83,8 +104,11 @@ timeline:
   card_id: E004
 - year: '-66'
   date_note: 地节四年
+  date_note_en: Dijie 4
   title: 诛霍氏
+  title_en: The Huo Clan Destroyed
   summary: 霍禹等谋反事败，霍氏灭族，宣帝真正亲政，史称综核名实之始。
+  summary_en: Huo Yu's plot failed and the Huo clan was exterminated; Xuan truly ruled in person, called the beginning of matching names to reality.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -93,8 +117,11 @@ timeline:
   card_id: E005
 - year: '-61'
   date_note: 神爵元年
+  date_note_en: Shenjue 1
   title: 赵充国击羌
+  title_en: Zhao Chongguo Strikes the Qiang
   summary: 赵充国屯田破羌，西北边事为宣帝朝武功来源之一。
+  summary_en: Zhao Chongguo broke the Qiang through military agricultural colonies, one source of the reign's martial prestige on the northwestern frontier.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -103,8 +130,11 @@ timeline:
   card_id: E006
 - year: '-60'
   date_note: 神爵二年
+  date_note_en: Shenjue 2
   title: 西域都护
+  title_en: Protector General of the West
   summary: 郑吉并护南北道，号都护，汉在西域制度化驻节。
+  summary_en: Zheng Ji guarded both the northern and southern routes as Protector General, institutionalizing Han's presence in the Western Regions.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -113,8 +143,11 @@ timeline:
   card_id: E007
 - year: '-54'
   date_note: 五凤四年
+  date_note_en: Wufeng 4
   title: 匈奴内乱与边策
+  title_en: Xiongnu Strife and Frontier Policy
   summary: 匈奴内讧，汉廷边策调整，为呼韩邪来朝铺垫。
+  summary_en: Xiongnu infighting prompted the Han court to adjust frontier policy, paving the way for Huhanye's coming to court.
   place_id: null
   related_person_ids: []
   sources:
@@ -123,8 +156,11 @@ timeline:
   card_id: E008
 - year: '-51'
   date_note: 甘露三年
+  date_note_en: Ganlu 3
   title: 呼韩邪朝汉
+  title_en: Huhanye Pays Homage
   summary: 呼韩邪单于入朝称臣，匈汉关系进入新阶段，边事叙事高峰。
+  summary_en: Chanyu Huhanye came to court as a vassal, opening a new phase in Han-Xiongnu relations, the peak of the reign's frontier story.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -133,8 +169,11 @@ timeline:
   card_id: E009
 - year: '-49'
   date_note: 黄龙元年
+  date_note_en: Huanglong 1
   title: 宣帝崩
+  title_en: Death of Emperor Xuan
   summary: 宣帝崩，元帝即位；昭宣积累的吏治与边防格局转入下一朝。
+  summary_en: Xuan died and Emperor Yuan succeeded; the administrative and frontier order built under Zhao and Xuan passed to the next reign.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -142,8 +181,11 @@ timeline:
   card_id: E010
 - year: null
   date_note: 政风
+  date_note_en: Governance Style
   title: 信赏必罚吏治
+  title_en: Sure Rewards, Certain Punishments
   summary: 察吏严明、循名责实，与武帝开边路径对照。
+  summary_en: Strict scrutiny of officials and holding reality to names, in contrast to Emperor Wu's expansionist path.
   place_id: null
   related_person_ids: []
   sources:
@@ -151,8 +193,11 @@ timeline:
   card_id: E011
 - year: null
   date_note: 施政总评
+  date_note_en: Overall Assessment
   title: 综核名实
+  title_en: Matching Names to Reality
   summary: 信赏必罚、察吏治、抑虚名，形成与武帝开边不同的收束型中兴路径。
+  summary_en: Sure rewards and punishments, disciplined officialdom, and suppressed empty fame formed a consolidative restoration, unlike Emperor Wu's expansion.
   place_id: null
   related_person_ids: []
   sources:

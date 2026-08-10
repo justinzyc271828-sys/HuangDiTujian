@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 北魏-006
 names:
   display: 孝文帝
+  display_en: Emperor Xiaowen of Northern Wei
   personal: 元宏
+  personal_en: Yuan Hong
   temple: 高祖
   posthumous: 孝文皇帝
   aliases:
@@ -26,11 +28,17 @@ life:
   birth_place_id: null
   death_place_id: null
 summary: 幼年即位，承太和新政之基，迁都洛阳、全面推行汉化改制，深刻重塑北魏并影响隋唐制度的皇帝。
+summary_en: The Northern Wei emperor who took the throne as a child, built on the Taihe New Policies, moved the capital to Luoyang, and pursued wholesale sinicization, profoundly reshaping the dynasty and influencing Sui–Tang institutions.
 tags:
 - 汉化改革
 - 迁都洛阳
 - 均田制
 - 改制
+tags_en:
+- Sinicization reform
+- Luoyang relocation
+- Equal-field system
+- Institutional reform
 portrait:
   primary: assets/portraits/n-wei-xiaowen/primary.png
   variants: []
@@ -45,8 +53,11 @@ bio:
 timeline:
 - year: '471'
   date_note: 延兴元年
+  date_note_en: Yanxing 1
   title: 即位
+  title_en: Childhood Accession
   summary: 幼年即位，冯太后临朝，太和改革铺垫。
+  summary_en: Ascended the throne as a child; Empress Dowager Feng ruled as regent, laying the groundwork for the Taihe reforms.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -54,8 +65,11 @@ timeline:
   card_id: E001
 - year: '476'
   date_note: 承明元年
+  date_note_en: Chengming 1
   title: 冯太后再临朝
+  title_en: Empress Dowager Feng's Second Regency
   summary: 文明太后执政高峰，改革铺垫。
+  summary_en: Empress Dowager Wenming's rule reached its height, laying the groundwork for reform.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -64,8 +78,11 @@ timeline:
   card_id: E002
 - year: '484'
   date_note: 太和八年
+  date_note_en: Taihe 8
   title: 班禄制
+  title_en: Salary System Established
   summary: 班禄酬廉，整顿吏治，太和新政重要一步。
+  summary_en: Salaries were granted to reward integrity and discipline the bureaucracy—a key step in the Taihe New Policies.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -73,8 +90,11 @@ timeline:
   card_id: E003
 - year: '485'
   date_note: 太和九年
+  date_note_en: Taihe 9
   title: 均田制
+  title_en: Equal-Field System Promulgated
   summary: 颁均田，影响隋唐田制讨论。
+  summary_en: The equal-field system was promulgated, deeply shaping later Sui–Tang debates on land tenure.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -83,8 +103,11 @@ timeline:
   card_id: E004
 - year: '486'
   date_note: 太和十年
+  date_note_en: Taihe 10
   title: 三长制
+  title_en: Three Elders System Established
   summary: 立三长，基层组织改革。
+  summary_en: The three-elders system was set up, reforming grassroots administration.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -92,8 +115,11 @@ timeline:
   card_id: E005
 - year: '493'
   date_note: 太和十七年
+  date_note_en: Taihe 17
   title: 迁都洛阳
+  title_en: Capital Moved to Luoyang
   summary: 以南伐为名迁都洛阳，北魏政治中心南移。
+  summary_en: Under the pretext of a southern campaign, the capital moved to Luoyang, shifting Northern Wei's political center south.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -101,8 +127,11 @@ timeline:
   card_id: E006
 - year: '494'
   date_note: 太和十八年
+  date_note_en: Taihe 18
   title: 禁胡服胡语
+  title_en: Ban on Hu Dress and Speech
   summary: 禁鲜卑语、改服饰，推动朝臣汉化。
+  summary_en: The Xianbei language was banned and dress reformed, pressing the court toward sinicization.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -110,8 +139,11 @@ timeline:
   card_id: E007
 - year: '495'
   date_note: 太和十九年
+  date_note_en: Taihe 19
   title: 定族姓
+  title_en: Clan Rankings Fixed
   summary: 定门阀族姓，士族化。
+  summary_en: Aristocratic clan rankings were fixed, hastening the elite's gentrification.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -119,8 +151,11 @@ timeline:
   card_id: E008
 - year: '496'
   date_note: 太和二十年
+  date_note_en: Taihe 20
   title: 太子恂废
+  title_en: Crown Prince Xun Deposed
   summary: 反抗汉化的太子被废，改革代价。
+  summary_en: The crown prince, who had resisted sinicization, was deposed—the price of reform.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -128,8 +163,11 @@ timeline:
   card_id: E009
 - year: '496'
   date_note: 太和二十年
+  date_note_en: Taihe 20
   title: 改姓元
+  title_en: Surname Changed to Yuan
   summary: 拓跋改姓元，门阀化与汉姓改革。
+  summary_en: The Tuoba clan took the Chinese surname Yuan—aristocratization and surname reform combined.
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -137,8 +175,11 @@ timeline:
   card_id: E010
 - year: '497'
   date_note: 太和二十一年
+  date_note_en: Taihe 21
   title: 南伐襄阳线
+  title_en: Southern Campaigns toward Xiangyang
   summary: 持续南征，消耗国力。
+  summary_en: Continuous southern campaigns drained the state's strength.
   place_id: xiang-yang
   related_person_ids: []
   sources:
@@ -146,8 +187,11 @@ timeline:
   card_id: E011
 - year: '499'
   date_note: 太和二十三年
+  date_note_en: Taihe 23
   title: 南伐崩于军
+  title_en: Death on Southern Campaign
   summary: 南征途中崩，汉化路线由宣武等延续，亦埋六镇隐患。
+  summary_en: He died during a southern campaign; the sinicization line was carried on by Xuanwu and others, while the seeds of the Six Garrisons crisis were also sown.
   place_id: luoyang
   related_person_ids: []
   sources:

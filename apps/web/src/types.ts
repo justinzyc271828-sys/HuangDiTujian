@@ -1,6 +1,6 @@
 export type Place = {
   id: string;
-  names: { historical: string; modern: string };
+  names: { historical: string; modern: string; english?: string };
   coords: { lng: number; lat: number; precision: string };
   map?: { region?: string };
   notes?: string;
@@ -9,8 +9,11 @@ export type Place = {
 export type TimelineEvent = {
   year: string;
   date_note?: string;
+  date_note_en?: string;
   title: string;
+  title_en?: string;
   summary: string;
+  summary_en?: string;
   place_id?: string | null;
   related_person_ids?: string[];
   sources?: string[];
@@ -42,7 +45,9 @@ export type Emperor = {
   page_status?: "stub" | "draft" | "ready" | string;
   names: {
     display: string;
+    display_en?: string;
     personal: string;
+    personal_en?: string;
     temple?: string | null;
     posthumous?: string | null;
     aliases?: string[];
@@ -56,7 +61,9 @@ export type Emperor = {
     death_place_id?: string | null;
   };
   summary: string;
+  summary_en?: string;
   tags?: string[];
+  tags_en?: string[];
   timeline?: TimelineEvent[];
   relations?: Relation[];
   routes?: RoutePoint[];
@@ -68,6 +75,7 @@ export type Emperor = {
     note?: string;
   };
   bio_parts?: BioPart[];
+  bio_parts_en?: BioPart[];
   bio_md?: string;
   illustration?: string | null;
   portrait?: { disclaimer?: string };

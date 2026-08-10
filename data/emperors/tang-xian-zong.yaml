@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 唐-015
 names:
   display: 唐宪宗
+  display_en: Emperor Xianzong of Tang
   personal: 李纯
+  personal_en: Li Chun
   temple: 宪宗
   posthumous: 圣神章武孝皇帝
   aliases: []
@@ -22,12 +24,19 @@ life:
   birth_place_id: null
   death_place_id: chang-an
 summary: 在位十五年以削藩为主线，平西川、破淮西、威服河朔，成就"元和中兴"而暴崩于宦官疑云的中唐皇帝。
+summary_en: A mid-Tang emperor whose fifteen-year reign centered on reducing the military provinces, pacifying Xichuan, breaking Huaixi, and overawing Heshuo to achieve the Yuanhe Restoration, before dying suddenly amid suspicions involving eunuchs.
 tags:
 - 元和中兴
 - 削藩
 - 藩镇
 - 迎佛骨
 - 宦官
+tags_en:
+- Yuanhe Restoration
+- Province Reduction
+- Military Provinces
+- Buddha's Relic
+- Eunuchs
 portrait:
   primary: assets/portraits/tang-xian-zong/primary.png
   variants: []
@@ -41,8 +50,11 @@ bio:
 timeline:
 - year: '805'
   date_note: 永贞元年
+  date_note_en: '805'
   title: 即位
+  title_en: Accession
   summary: 顺宗内禅，即帝位；朝廷人事与年号随之更始，明年改元元和。
+  summary_en: Shunzong abdicates within the family and he takes the throne; court personnel and the era name are renewed, and the next year changes to Yuanhe.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -50,8 +62,11 @@ timeline:
   card_id: E001
 - year: '806'
   date_note: 元和元年
+  date_note_en: '806'
   title: 平夏绥杨惠琳
+  title_en: Pacifying Yang Huilin
   summary: 讨平夏绥杨惠琳，削藩早期胜利。
+  summary_en: Suppresses Yang Huilin of Xia-Sui, an early victory in reducing the provinces.
   place_id: xia-zhou
   related_person_ids: []
   sources:
@@ -59,8 +74,11 @@ timeline:
   card_id: E002
 - year: '806'
   date_note: 元和元年
+  date_note_en: '806'
   title: 平西川
+  title_en: Pacifying Xichuan
   summary: 讨平西川刘辟，展示削藩决心。
+  summary_en: Suppresses Liu Pi of Xichuan, demonstrating the resolve to reduce the provinces.
   place_id: cheng-du
   related_person_ids: []
   sources:
@@ -68,8 +86,11 @@ timeline:
   card_id: E003
 - year: '809'
   date_note: 元和四年
+  date_note_en: '809'
   title: 成德王承宗战事
+  title_en: The Chengde Campaign
   summary: 讨成德王承宗，成果有限，显示削藩难度。
+  summary_en: Campaigns against Wang Chengzong of Chengde with limited results, showing how hard province reduction is.
   place_id: cheng-de
   related_person_ids: []
   sources:
@@ -77,8 +98,11 @@ timeline:
   card_id: E004
 - year: '815'
   date_note: 元和十年
+  date_note_en: '815'
   title: 李师道刺武元衡
+  title_en: Wu Yuanheng Assassinated
   summary: 藩镇以恐怖手段刺杀宰相武元衡于长安，朝野震动。
+  summary_en: A military province has the chancellor Wu Yuanheng assassinated in Chang'an by terror tactics, shocking court and country.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -87,8 +111,11 @@ timeline:
   card_id: E005
 - year: '817'
   date_note: 元和十二年
+  date_note_en: '817'
   title: 裴度宣慰淮西
+  title_en: Pei Du Reassures Huaixi
   summary: 宰相裴度赴淮西督师宣慰，为雪夜入蔡的政治背景。
+  summary_en: Chancellor Pei Du goes to Huaixi to direct and reassure the armies, the political backdrop to the snowy-night entry into Cai.
   place_id: cai-zhou
   related_person_ids: []
   sources:
@@ -97,8 +124,11 @@ timeline:
   card_id: E006
 - year: '817'
   date_note: 元和十二年
+  date_note_en: '817'
   title: 平淮西
+  title_en: Huaixi Pacified
   summary: 李愬雪夜入蔡州，擒吴元济，元和削藩达到高潮。
+  summary_en: Li Su enters Caizhou on a snowy night and captures Wu Yuanji, the high point of Yuanhe province reduction.
   place_id: cai-zhou
   related_person_ids: []
   sources:
@@ -107,8 +137,11 @@ timeline:
   card_id: E007
 - year: '818'
   date_note: 元和十三年前后
+  date_note_en: c. 818
   title: 成德归朝
+  title_en: Chengde Submits
   summary: 成德等河朔藩镇一度听命朝廷，元和中兴气象达到高点。
+  summary_en: Chengde and other Heshuo provinces for a time obey the court, and the Yuanhe Restoration reaches its peak.
   place_id: cheng-de
   related_person_ids: []
   sources:
@@ -116,8 +149,11 @@ timeline:
   card_id: E008
 - year: '819'
   date_note: 元和十四年
+  date_note_en: '819'
   title: 迎佛骨
+  title_en: Receiving the Buddha's Relic
   summary: 迎法门寺佛骨入长安；韩愈上表极谏，贬逐出京。
+  summary_en: The Famen Temple Buddha relic is received into Chang'an; Han Yu submits a memorial of utmost remonstrance and is banished from the capital.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -126,8 +162,11 @@ timeline:
   card_id: E009
 - year: '820'
   date_note: 元和十五年
+  date_note_en: '820'
   title: 穆宗即位
+  title_en: Muzong's Accession
   summary: 宪宗崩后穆宗立，朝廷人事与年号更始，削藩回落。
+  summary_en: After Xianzong's death Muzong succeeds; court personnel and the era name are renewed, and province reduction recedes.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -135,8 +174,11 @@ timeline:
   card_id: E010
 - year: '820'
   date_note: 元和十五年
+  date_note_en: '820'
   title: 暴崩
+  title_en: Sudden Death
   summary: 暴崩于长安，史载与宦官相关的疑云，削藩成果随之回落。
+  summary_en: Dies suddenly in Chang'an; the histories record suspicions involving eunuchs, and the gains of province reduction recede.
   place_id: chang-an
   related_person_ids: []
   sources:

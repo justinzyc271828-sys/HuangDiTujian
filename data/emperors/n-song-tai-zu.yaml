@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 北宋-001
 names:
   display: 宋太祖
+  display_en: Emperor Taizu of Song
   personal: 赵匡胤
+  personal_en: Zhao Kuangyin
   temple: 太祖
   posthumous: 英武圣文神德皇帝
   aliases: []
@@ -24,11 +26,17 @@ life:
   birth_place_id: null
   death_place_id: kai-feng
 summary: 陈桥兵变代周建宋，杯酒释兵权以强干弱枝，先南后北平定诸国的开国之君。
+summary_en: The founding emperor who replaced the Zhou and founded the Song through the Chenqiao Mutiny, released his generals' military power over a cup of wine to strengthen the trunk and weaken the branches, and pacified the rival states south first and north later.
 tags:
 - 陈桥兵变
 - 杯酒释兵权
 - 先南后北
 - 重文抑武
+tags_en:
+- Chenqiao Mutiny
+- Wine-Cup Dismissal
+- South-First Strategy
+- Civil-First Policy
 portrait:
   primary: assets/portraits/n-song-tai-zu/primary.png
   variants: []
@@ -43,8 +51,11 @@ bio:
 timeline:
 - year: '960'
   date_note: 建隆元年
+  date_note_en: Jianlong 1
   title: 陈桥兵变
+  title_en: Chenqiao Mutiny
   summary: 兵变黄袍加身，代周建宋，定都开封。陈桥是否预谋为争议层。
+  summary_en: The mutiny draped him in the yellow robe; he replaced the Zhou, founded the Song, and fixed the capital at Kaifeng, though whether Chenqiao was premeditated remains disputed.
   place_id: chen-qiao
   related_person_ids:
   - zhou-shi
@@ -53,8 +64,11 @@ timeline:
   card_id: E002
 - year: '960'
   date_note: 建隆元年
+  date_note_en: Jianlong 1
   title: 定都开封
+  title_en: Capital Established at Kaifeng
   summary: 宋都汴京，五代积习上的新朝。
+  summary_en: The Song made Bianjing its capital, a new dynasty built on the accumulated habits of the Five Dynasties.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -62,8 +76,11 @@ timeline:
   card_id: E001
 - year: '961'
   date_note: 建隆二年
+  date_note_en: Jianlong 2
   title: 杯酒释兵权
+  title_en: Dismissal over a Cup of Wine
   summary: 以酒宴方式解除禁军宿将兵权，强干弱枝开端；细节有演绎。
+  summary_en: Over a wine banquet he stripped veteran palace-army generals of their commands, opening the path of strengthening the trunk and weakening the branches; the details have been embellished in later retellings.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -72,8 +89,11 @@ timeline:
   card_id: E003
 - year: '963'
   date_note: 建隆四年/乾德
+  date_note_en: Jianlong 4 / Qiande era
   title: 平荆湖
+  title_en: Pacification of Jinghu
   summary: 慕容延钊等平湖南、荆南，先南后北的第一步。
+  summary_en: Murong Yanzhao and others pacified Hunan and Jingnan, the first step of the south-first, north-later plan.
   place_id: jing-hu
   related_person_ids: []
   sources:
@@ -81,8 +101,11 @@ timeline:
   card_id: E004
 - year: '965'
   date_note: 乾德三年
+  date_note_en: Qiande 3
   title: 灭后蜀
+  title_en: Conquest of Later Shu
   summary: 王全斌等灭蜀。
+  summary_en: Wang Quanbin and others destroyed Later Shu.
   place_id: cheng-du
   related_person_ids: []
   sources:
@@ -90,8 +113,11 @@ timeline:
   card_id: E005
 - year: '971'
   date_note: 开宝四年
+  date_note_en: Kaibao 4
   title: 灭南汉
+  title_en: Conquest of Southern Han
   summary: 潘美等灭南汉，岭南入宋。
+  summary_en: Pan Mei and others destroyed Southern Han, and Lingnan entered the Song.
   place_id: pan-yu
   related_person_ids: []
   sources:
@@ -99,8 +125,11 @@ timeline:
   card_id: E006
 - year: '975'
   date_note: 开宝八年
+  date_note_en: Kaibao 8
   title: 灭南唐
+  title_en: Conquest of Southern Tang
   summary: 曹彬平江南，李煜降。
+  summary_en: Cao Bin pacified Jiangnan, and Li Yu surrendered.
   place_id: jin-ling
   related_person_ids:
   - n-tang-houzhu
@@ -110,8 +139,11 @@ timeline:
   card_id: E007
 - year: '976'
   date_note: 开宝九年
+  date_note_en: Kaibao 9
   title: 太祖崩
+  title_en: Death of Taizu
   summary: 崩于开封，在位结束；「烛影斧声」等为争议层，轻点不坐实。
+  summary_en: He died at Kaifeng and his reign ended; tales such as "the candle shadow and the axe sound" belong to the disputed layer, touched on lightly rather than asserted as fact.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -119,8 +151,11 @@ timeline:
   card_id: E009
 - year: '976'
   date_note: 开宝九年
+  date_note_en: Kaibao 9
   title: 太宗即位
+  title_en: Accession of Taizong
   summary: 太宗立，朝廷人事与年号随之更始；金匮之盟为争议层。
+  summary_en: Taizong took the throne, and court personnel and the era name began anew; the Golden Coffer Pact belongs to the disputed layer.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -129,8 +164,11 @@ timeline:
   card_id: E008
 - year: undated
   date_note: 开宝前
+  date_note_en: Before the Kaibao era
   title: 先南后北
+  title_en: South First, North Later
   summary: 平荆湖、后蜀、南汉、南唐等，统一南方战略。
+  summary_en: He pacified Jinghu, Later Shu, Southern Han, Southern Tang, and others, a strategy of unifying the south.
   place_id: null
   related_person_ids:
   - n-tang-houzhu
@@ -139,8 +177,11 @@ timeline:
   card_id: E010
 - year: undated
   date_note: 制度
+  date_note_en: Institutional
   title: 强干弱枝
+  title_en: Strong Trunk, Weak Branches
   summary: 收精兵、分事权，宋代国势路径。
+  summary_en: He gathered in elite troops and divided administrative authority, the Song dynasty's path of state power.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -149,8 +190,11 @@ timeline:
   card_id: E011
 - year: undated
   date_note: 在位间
+  date_note_en: During the reign
   title: 重文抑武
+  title_en: Exalting Civil, Restraining Military
   summary: 抬高文官、分化兵权，奠定宋代国势路径。
+  summary_en: He elevated civil officials and split military authority, laying the Song dynasty's path of state power.
   place_id: kai-feng
   related_person_ids: []
   sources:

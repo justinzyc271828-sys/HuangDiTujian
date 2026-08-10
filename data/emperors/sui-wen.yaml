@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 隋-001
 names:
   display: 隋文帝
+  display_en: Emperor Wen of Sui
   personal: 杨坚
+  personal_en: Yang Jian
   temple: 高祖
   posthumous: 文皇帝
   aliases:
@@ -24,12 +26,19 @@ life:
   birth_place_id: null
   death_place_id: renshou-gong
 summary: 受禅代周、灭陈混一南北，以开皇制度奠定后世政制底盘，却因晚年废立与二世而亡留下争议的开国之主。
+summary_en: Founding ruler who received Northern Zhou's abdication to establish the Sui and destroyed Chen to reunify north and south, laying the institutional foundation for later dynasties through the Kaihuang system, yet left controversy through the late-life change of heir and the dynasty's fall in the second generation.
 tags:
 - 开国
 - 混一
 - 制度
 - 禅让
 - 废立
+tags_en:
+- Founding
+- Unification
+- Institutions
+- Abdication
+- Heir Change
 portrait:
   primary: assets/portraits/sui-wen/primary.png
   variants: []
@@ -44,8 +53,11 @@ bio:
 timeline:
 - year: '581'
   date_note: 开皇元年
+  date_note_en: Kaihuang 1
   title: 代周建隋
+  title_en: Replacing Zhou, Founding Sui
   summary: 受北周禅让建隋，改元开皇，北周亡。
+  summary_en: He received Northern Zhou's abdication and founded the Sui, changing the era name to Kaihuang; Northern Zhou ended.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -53,8 +65,11 @@ timeline:
   card_id: E001
 - year: '581'
   date_note: 开皇元年
+  date_note_en: Kaihuang 1
   title: 尽灭北周宗室隐患
+  title_en: Purging the Northern Zhou Royal House
   summary: 开国之初以政治清洗巩固新朝（克制叙述）。
+  summary_en: In the founding's early days he consolidated the new dynasty through political purges (restrained account).
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -62,8 +77,11 @@ timeline:
   card_id: E002
 - year: '583'
   date_note: 开皇三年
+  date_note_en: Kaihuang 3
   title: 迁大兴城
+  title_en: Moving the Capital to Daxing
   summary: 营迁大兴（新长安），都城格局一新。
+  summary_en: He built and moved the capital to Daxing (the new Chang'an), giving the capital an entirely new layout.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -71,8 +89,11 @@ timeline:
   card_id: E003
 - year: '587'
   date_note: 开皇七年
+  date_note_en: Kaihuang 7
   title: 灭后梁
+  title_en: Destroying the Later Liang
   summary: 江陵后梁亡，为南进混一的前奏。
+  summary_en: The Later Liang at Jiangling fell, a prelude to the southern advance and reunification.
   place_id: jiang-ling
   related_person_ids: []
   sources:
@@ -80,8 +101,11 @@ timeline:
   card_id: E004
 - year: '589'
   date_note: 开皇九年
+  date_note_en: Kaihuang 9
   title: 灭陈混一
+  title_en: Destroying Chen, Unifying the Realm
   summary: 平陈，南北再统一，史称混一戎夏。
+  summary_en: Chen was pacified and north and south reunified, known in history as "the unification of the realm".
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -89,8 +113,11 @@ timeline:
   card_id: E005
 - year: '590'
   date_note: 开皇十年
+  date_note_en: Kaihuang 10
   title: 江南反隋平定
+  title_en: Suppression of the Jiangnan Revolts
   summary: 灭陈后江南叛乱被平定，统一局面巩固。
+  summary_en: After Chen's fall, the Jiangnan rebellions were suppressed and the unified order was consolidated.
   place_id: null
   related_person_ids: []
   sources:
@@ -98,8 +125,11 @@ timeline:
   card_id: E006
 - year: '600'
   date_note: 开皇二十年
+  date_note_en: Kaihuang 20
   title: 废太子勇
+  title_en: Deposing Crown Prince Yang Yong
   summary: 废黜太子杨勇，储位动摇。
+  summary_en: Crown Prince Yang Yong was deposed, and the succession was shaken.
   place_id: chang-an
   related_person_ids:
   - sui-yang
@@ -109,8 +139,11 @@ timeline:
   card_id: E007
 - year: '600'
   date_note: 开皇二十年
+  date_note_en: Kaihuang 20
   title: 废勇立广
+  title_en: Deposing Yong, Installing Guang
   summary: 立晋王广为太子，种下国祚风险。
+  summary_en: The Prince of Jin, Yang Guang, was made crown prince, planting a risk to the dynasty's fortunes.
   place_id: chang-an
   related_person_ids:
   - sui-yang
@@ -120,8 +153,11 @@ timeline:
   card_id: E008
 - year: '601'
   date_note: 仁寿元年
+  date_note_en: Renshou 1
   title: 改元仁寿
+  title_en: Era Changed to Renshou
   summary: 晚年改元，储位已定。
+  summary_en: The era name was changed in his final years, with the heir already settled.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -129,8 +165,11 @@ timeline:
   card_id: E009
 - year: '604'
   date_note: 仁寿四年
+  date_note_en: Renshou 4
   title: 仁寿宫事
+  title_en: The Renshou Palace Affair
   summary: 卧病仁寿宫，遗命与继位过程史有异说（克制叙述）。
+  summary_en: He lay ill at Renshou Palace; the record diverges on his dying orders and the succession process (restrained account).
   place_id: renshou-gong
   related_person_ids:
   - sui-yang
@@ -140,8 +179,11 @@ timeline:
   card_id: E010
 - year: '604'
   date_note: 仁寿四年
+  date_note_en: Renshou 4
   title: 文帝崩
+  title_en: Death of Emperor Wen
   summary: 崩于仁寿宫，炀帝即位；统一遗产与二世风险同时交接。
+  summary_en: He died at Renshou Palace and Emperor Yang ascended; the legacy of unification and the risk of a second-generation collapse were handed over together.
   place_id: renshou-gong
   related_person_ids:
   - sui-yang
@@ -150,8 +192,11 @@ timeline:
   card_id: E011
 - year: undated
   date_note: 开皇间
+  date_note_en: Kaihuang era
   title: 开皇制度
+  title_en: The Kaihuang Institutions
   summary: 三省六部成型、统一货币度量、检括户口，奠定后世政制底盘。
+  summary_en: The Three Departments and Six Ministries took shape, currency and weights and measures were unified, and households were registered and checked, laying the institutional foundation for later dynasties.
   place_id: chang-an
   related_person_ids: []
   sources:

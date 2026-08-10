@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 后周-002
 names:
   display: 后周世宗
+  display_en: Emperor Shizong of Later Zhou
   personal: 柴荣
+  personal_en: Chai Rong
   temple: 世宗
   posthumous: 睿武孝文皇帝
   aliases:
@@ -23,11 +25,17 @@ life:
   birth_place_id: null
   death_place_id: kai-feng
 summary: 在位六年，高平破敌、三征淮南、北伐收复三关，以整军与改革为北宋统一奠基的英年早逝之主。
+summary_en: An emperor who died young after only six years on the throne, breaking the enemy at Gaoping, campaigning thrice in Huainan, and recovering the Three Passes in a northern expedition, whose military reorganization and reforms laid the foundation for Northern Song unification.
 tags:
 - 改革
 - 武功
 - 毁佛铸钱
 - 英年早逝
+tags_en:
+- Reform
+- Military Achievements
+- Fiscal Iconoclasm
+- Early Death
 portrait:
   primary: assets/portraits/zhou-shi/primary.png
   variants: []
@@ -42,8 +50,11 @@ bio:
 timeline:
 - year: '954'
   date_note: 显德元年
+  date_note_en: '954'
   title: 即位
+  title_en: Accession
   summary: 郭威崩，柴荣即位，是为世宗。
+  summary_en: Guo Wei dies and Chai Rong takes the throne, becoming Shizong.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -51,8 +62,11 @@ timeline:
   card_id: E001
 - year: '954'
   date_note: 显德元年
+  date_note_en: '954'
   title: 沿用显德年号
+  title_en: Keeping the Xiande Era
   summary: 郭威正月改广顺四年为显德元年；荣即位后沿用，朝廷人事更始。
+  summary_en: Guo Wei changes Guangshun 4 into Xiande 1 in the first month; Chai Rong keeps it after his accession as court personnel are renewed.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -60,8 +74,11 @@ timeline:
   card_id: E002
 - year: '954'
   date_note: 显德元年
+  date_note_en: '954'
   title: 高平之战
+  title_en: Battle of Gaoping
   summary: 亲征败北汉、契丹联军于高平，战后整肃禁军，确立权威。
+  summary_en: Campaigns in person and defeats the allied Northern Han and Khitan army at Gaoping, then purges the palace army and establishes his authority.
   place_id: gao-ping
   related_person_ids: []
   sources:
@@ -70,8 +87,11 @@ timeline:
   card_id: E003
 - year: '955'
   date_note: 显德二年
+  date_note_en: '955'
   title: 毁佛铸钱
+  title_en: Melting Buddhas for Coin
   summary: 限寺减僧，毁铜佛铸钱，以充财政军备。
+  summary_en: Restricts temples and reduces the clergy, melting bronze Buddha statues for coin to fund finances and armament.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -80,8 +100,11 @@ timeline:
   card_id: E004
 - year: null
   date_note: 显德间
+  date_note_en: 954–959
   title: 整军均田
+  title_en: Army and Land Reforms
   summary: 选练禁军、限制寺院、均定田赋，国力回升。
+  summary_en: Selects and trains the palace army, restricts temples, and equalizes land taxes; state power recovers.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -90,8 +113,11 @@ timeline:
   card_id: E012
 - year: '956'
   date_note: 显德三年
+  date_note_en: '956'
   title: 征淮南
+  title_en: Huainan Campaign
   summary: 亲征南唐，显德振旅。
+  summary_en: Campaigns in person against Southern Tang; the Xiande armies are invigorated.
   place_id: huai-nan
   related_person_ids: []
   sources:
@@ -99,8 +125,11 @@ timeline:
   card_id: E005
 - year: '957'
   date_note: 显德四–五年
+  date_note_en: 957–958
   title: 经略淮南
+  title_en: Managing Huainan
   summary: 多次征南唐，南压强敌，指向江北诸州。
+  summary_en: Campaigns repeatedly against Southern Tang, pressing the strong enemy in the south toward the prefectures north of the river.
   place_id: huai-nan
   related_person_ids: []
   sources:
@@ -109,8 +138,11 @@ timeline:
   card_id: E006
 - year: '958'
   date_note: 显德五年
+  date_note_en: '958'
   title: 江北十四州
+  title_en: Fourteen Prefectures Gained
   summary: 南唐献江北之地，周取十四州。
+  summary_en: Southern Tang cedes the lands north of the river and Zhou takes fourteen prefectures.
   place_id: huai-nan
   related_person_ids: []
   sources:
@@ -119,8 +151,11 @@ timeline:
   card_id: E007
 - year: '959'
   date_note: 显德六年
+  date_note_en: '959'
   title: 北伐契丹
+  title_en: Northern Expedition
   summary: 亲率北伐，收复关南部分州县，病重回师。
+  summary_en: Leads the northern expedition in person, recovers some Guannan prefectures, and returns gravely ill.
   place_id: guan-nan
   related_person_ids: []
   sources:
@@ -128,8 +163,11 @@ timeline:
   card_id: E010
 - year: '959'
   date_note: 显德六年
+  date_note_en: '959'
   title: 收复三关
+  title_en: Three Passes Recovered
   summary: 北伐取关南三州，混一之志未竟而病重。
+  summary_en: The northern expedition takes three prefectures in Guannan; his ambition to unify goes unfulfilled as his illness worsens.
   place_id: guan-nan
   related_person_ids: []
   sources:
@@ -137,8 +175,11 @@ timeline:
   card_id: E008
 - year: '959'
   date_note: 显德六年
+  date_note_en: '959'
   title: 遗命范质等
+  title_en: Entrusting Fan Zhi
   summary: 病重托孤于范质等，身后旋有陈桥之变。
+  summary_en: Gravely ill, he entrusts his heir to Fan Zhi and others; the Chenqiao Mutiny follows soon after his death.
   place_id: kai-feng
   related_person_ids:
   - n-song-tai-zu
@@ -148,8 +189,11 @@ timeline:
   card_id: E009
 - year: '959'
   date_note: 显德六年
+  date_note_en: '959'
   title: 世宗崩
+  title_en: Shizong Dies
   summary: 崩于开封，子宗训年幼继位，旋有陈桥兵变，周禅于宋。
+  summary_en: Dies at Kaifeng; his young son Zongxun succeeds, the Chenqiao Mutiny soon follows, and Zhou yields to Song.
   place_id: kai-feng
   related_person_ids:
   - n-song-tai-zu

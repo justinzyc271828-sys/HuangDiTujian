@@ -3,7 +3,9 @@ tier: quasi
 sort_key: 南唐-003
 names:
   display: 南唐后主
+  display_en: Li Yu, Last Ruler of Southern Tang
   personal: 李煜
+  personal_en: Li Yu
   temple: null
   posthumous: null
   aliases:
@@ -23,11 +25,17 @@ life:
   birth_place_id: null
   death_place_id: kai-feng
 summary: 继位于金陵、对宋称臣求存而终至亡国，以词章成就远超君道事功留名后世的南唐末主。
+summary_en: The last ruler of Southern Tang, who succeeded at Jinling, prolonged the state's survival by submitting as a vassal to the Song until its final fall, and is remembered for ci-poetry achievements that far outshine his record as a sovereign.
 tags:
 - 亡国
 - 词章
 - 称臣
 - 北迁
+tags_en:
+- Fallen State
+- Ci Poetry
+- Vassal Submission
+- Northern Exile
 portrait:
   primary: assets/portraits/n-tang-houzhu/primary.png
   variants: []
@@ -42,8 +50,11 @@ bio:
 timeline:
 - year: '961'
   date_note: 宋建隆二年
+  date_note_en: Jianlong 2 (Song)
   title: 即位金陵
+  title_en: Accession at Jinling
   summary: 李璟卒，李煜继位，对宋已处劣势。
+  summary_en: Li Jing died and Li Yu succeeded to the throne, with Southern Tang already at a disadvantage against the Song.
   place_id: jin-ling
   related_person_ids: []
   sources:
@@ -51,8 +62,11 @@ timeline:
   card_id: E001
 - year: '971'
   date_note: 开宝前后
+  date_note_en: Around the Kaibao era
   title: 贬号称臣
+  title_en: Reduced Title, Song Vassalage
   summary: 去帝号、称江南国主，对宋称臣以求苟安。
+  summary_en: He renounced the imperial title, styled himself Ruler of Jiangnan, and submitted to the Song as a vassal to buy a precarious peace.
   place_id: jin-ling
   related_person_ids:
   - n-song-tai-zu
@@ -61,8 +75,11 @@ timeline:
   card_id: E003
 - year: '974'
   date_note: 开宝七年
+  date_note_en: Kaibao 7
   title: 宋师南下
+  title_en: Song Army Moves South
   summary: 曹彬等伐江南，兵临长江，围城前奏。
+  summary_en: Cao Bin and others led the campaign against Jiangnan, and the army reached the Yangtze, a prelude to the siege.
   place_id: chang-jiang
   related_person_ids:
   - n-song-tai-zu
@@ -72,8 +89,11 @@ timeline:
   card_id: E004
 - year: '975'
   date_note: 开宝八年
+  date_note_en: Kaibao 8
   title: 金陵城破
+  title_en: Fall of Jinling
   summary: 宋军破金陵，后主降，南唐亡。
+  summary_en: Song forces broke Jinling, the Last Ruler surrendered, and Southern Tang fell.
   place_id: jin-ling
   related_person_ids:
   - n-song-tai-zu
@@ -83,8 +103,11 @@ timeline:
   card_id: E006
 - year: '976'
   date_note: 开宝九年
+  date_note_en: Kaibao 9
   title: 封违命侯
+  title_en: Enfeoffed as Marquis of Weiming
   summary: 北迁汴京，受封违命侯。
+  summary_en: He was moved north to Bianjing and enfeoffed as the Marquis of Weiming.
   place_id: kai-feng
   related_person_ids: []
   sources:
@@ -92,8 +115,11 @@ timeline:
   card_id: E007
 - year: '978'
   date_note: 太平兴国三年
+  date_note_en: Taiping Xingguo 3
   title: 卒于京师
+  title_en: Death at the Capital
   summary: 卒于汴京；赐死说待考。
+  summary_en: He died at Bianjing; the claim that he was put to death by imperial order remains unverified.
   place_id: kai-feng
   related_person_ids: []
   sources:

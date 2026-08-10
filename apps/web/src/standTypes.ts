@@ -14,6 +14,11 @@ export type StandProfile = {
   scores: StandScores;
   ability: string;
   weakness: string;
+  stand_name_en?: string;
+  stand_type_en?: string;
+  cry_en?: string;
+  ability_en?: string;
+  weakness_en?: string;
 };
 
 export type StandStatsFile = {

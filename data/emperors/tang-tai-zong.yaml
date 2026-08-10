@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 唐-002
 names:
   display: 唐太宗
+  display_en: Emperor Taizong of Tang
   personal: 李世民
+  personal_en: Li Shimin
   temple: 太宗
   posthumous: 文武大圣大广孝皇帝
   aliases:
@@ -24,11 +26,17 @@ life:
   birth_place_id: jinyang
   death_place_id: chang-an
 summary: 经玄武门即位，以贞观之治与开明用人著称，并在北境与辽东方向留下鲜明军政轨迹的唐代皇帝。
+summary_en: The Tang emperor who took the throne through the Xuanwu Gate Incident, famed for the governance of the Zhenguan era and enlightened employment of talent, leaving a distinct military-political track on the northern frontier and toward Liaodong.
 tags:
 - 贞观
 - 玄武门
 - 纳谏
 - 东征
+tags_en:
+- Zhenguan Era
+- Xuanwu Gate
+- Accepting Remonstrance
+- Eastern Campaign
 portrait:
   primary: assets/portraits/tang-tai-zong/primary.png
   variants: []
@@ -43,8 +51,11 @@ bio:
 timeline:
 - year: '598'
   date_note: 开皇十八年
+  date_note_en: Kaihuang 18
   title: 生于武功
+  title_en: Born at Wugong
   summary: 高祖第二子李世民。
+  summary_en: Li Shimin, second son of Emperor Gaozu.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -52,8 +63,11 @@ timeline:
   card_id: E001
 - year: '617'
   date_note: 大业末
+  date_note_en: late Daye era
   title: 太原义举
+  title_en: The Taiyuan Uprising
   summary: 潜图义举，义兵起于太原。
+  summary_en: He secretly planned the righteous rising; the righteous army rose at Taiyuan.
   place_id: jinyang
   related_person_ids: []
   sources:
@@ -61,8 +75,11 @@ timeline:
   card_id: E002
 - year: '617'
   date_note: 义宁元年
+  date_note_en: Yining 1
   title: 霍邑之战
+  title_en: Battle of Huoyi
   summary: 力阻班师，克霍邑西进。
+  summary_en: He strongly opposed withdrawing the army, took Huoyi, and advanced west.
   place_id: null
   related_person_ids: []
   sources:
@@ -70,8 +87,11 @@ timeline:
   card_id: E003
 - year: '618'
   date_note: 武德元年
+  date_note_en: Wude 1
   title: 唐朝建立
+  title_en: Founding of the Tang
   summary: 李渊称帝，世民为秦王。
+  summary_en: Li Yuan proclaimed himself emperor; Shimin became Prince of Qin.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -79,8 +99,11 @@ timeline:
   card_id: E004
 - year: '621'
   date_note: 武德四年
+  date_note_en: Wude 4
   title: 定中原战功
+  title_en: Campaigns Securing the Central Plains
   summary: 破王世充、窦建德系关键战役（择要）。
+  summary_en: The key campaigns defeating Wang Shichong and Dou Jiande (selection).
   place_id: luoyang
   related_person_ids: []
   sources:
@@ -88,8 +111,11 @@ timeline:
   card_id: E005
 - year: '626'
   date_note: 武德九年
+  date_note_en: Wude 9
   title: 玄武门之变
+  title_en: Xuanwu Gate Incident
   summary: 宫变后即位。
+  summary_en: He took the throne after the palace coup.
   place_id: xuanwu-men
   related_person_ids: []
   sources:
@@ -98,8 +124,11 @@ timeline:
   card_id: E006
 - year: '627'
   date_note: 贞观元年
+  date_note_en: Zhenguan 1
   title: 改元贞观
+  title_en: Era Changed to Zhenguan
   summary: 贞观政治开端。
+  summary_en: The beginning of Zhenguan governance.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -107,8 +136,11 @@ timeline:
   card_id: E007
 - year: '630'
   date_note: 贞观四年
+  date_note_en: Zhenguan 4
   title: 破突厥
+  title_en: Defeat of the Turks
   summary: 北境大捷。
+  summary_en: A great victory on the northern frontier.
   place_id: yinshan
   related_person_ids: []
   sources:
@@ -116,8 +148,11 @@ timeline:
   card_id: E008
 - year: '643'
   date_note: 贞观十七年
+  date_note_en: Zhenguan 17
   title: 凌烟阁
+  title_en: Lingyan Pavilion
   summary: 图画功臣。
+  summary_en: Portraits of meritorious officials were painted.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -125,8 +160,11 @@ timeline:
   card_id: E009
 - year: '645'
   date_note: 贞观十九年
+  date_note_en: Zhenguan 19
   title: 亲征辽东
+  title_en: Personal Campaign in Liaodong
   summary: 御驾东征。
+  summary_en: The emperor campaigned east in person.
   place_id: liaodong
   related_person_ids: []
   sources:
@@ -134,8 +172,11 @@ timeline:
   card_id: E010
 - year: '649'
   date_note: 贞观二十三年
+  date_note_en: Zhenguan 23
   title: 崩于长安
+  title_en: Death at Chang'an
   summary: 庙号太宗。
+  summary_en: His temple name is Taizong.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -143,8 +184,11 @@ timeline:
   card_id: E011
 - year: '627'
   date_note: 贞观年间
+  date_note_en: Zhenguan era
   title: 用人纳谏
+  title_en: Employing Talent, Accepting Remonstrance
   summary: 房杜魏徵等君臣结构（总括卡）。
+  summary_en: The ruler-minister structure around Fang, Du, Wei Zheng, and others (summary card).
   place_id: chang-an
   related_person_ids: []
   sources:

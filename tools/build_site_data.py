@@ -113,6 +113,10 @@ def main() -> int:
                 bio_md = bp.read_text(encoding="utf-8")
         d["bio_md"] = bio_md
         d["bio_parts"] = parse_bio(bio_md)
+        # 英文 bio（可选）：content/bios/en/{id}.md 存在则解析；不存在不设该字段
+        en_bio = ROOT / "content" / "bios" / "en" / f"{d['id']}.md"
+        if en_bio.is_file():
+            d["bio_parts_en"] = parse_bio(en_bio.read_text(encoding="utf-8"))
         d["page_status"] = "draft"
         meta = d.get("meta") or {}
         meta["page_status"] = "draft"

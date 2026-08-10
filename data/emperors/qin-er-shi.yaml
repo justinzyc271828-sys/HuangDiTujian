@@ -4,7 +4,9 @@ sort_key: "秦-002"
 
 names:
   display: 秦二世
+  display_en: "Qin Er Shi, the Second Emperor of Qin"
   personal: 胡亥
+  personal_en: Ying Huhai
   temple: null
   posthumous: null
   aliases: ["二世皇帝"]
@@ -26,10 +28,14 @@ life:
   death_place_id: xianyang
 
 summary: 秦始皇之后短促在位的二世皇帝，秦政崩解的关键人物。
+summary_en: The Second Emperor of Qin, whose brief reign after Qin Shi Huang made him a key figure in the collapse of Qin rule.
 
 tags:
   - 短祚
   - 权臣
+tags_en:
+  - Short Reign
+  - Powerful Ministers
 
 portrait:
   primary: assets/portraits/qin-er-shi/primary.png
@@ -46,15 +52,21 @@ bio:
 timeline:
   - year: "-210"
     date_note: 前210年
+    date_note_en: 210 BC
     title: 即位
+    title_en: Accession
     summary: 始皇死后即位，朝政迅速滑向高压与权臣操盘。
+    summary_en: He took the throne after the First Emperor's death; government quickly slid toward harsh repression and control by powerful ministers.
     place_id: xianyang
     related_person_ids: ["qin-shi-huang"]
     sources: ["史记·秦始皇本纪"]
   - year: "-207"
     date_note: 前207年
+    date_note_en: 207 BC
     title: 身死国危
+    title_en: Death Amid Dynastic Crisis
     summary: 在起义与内斗中结局，秦中央权威崩解。
+    summary_en: He met his end amid uprisings and internal strife, and Qin's central authority collapsed.
     place_id: xianyang
     related_person_ids: []
     sources: ["史记·秦始皇本纪"]

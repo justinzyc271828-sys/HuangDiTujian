@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 梁-001
 names:
   display: 梁武帝
+  display_en: Emperor Wu of Liang
   personal: 萧衍
+  personal_en: Xiao Yan
   temple: 高祖
   posthumous: 武皇帝
   aliases: []
@@ -28,11 +30,17 @@ life:
   birth_place_id: null
   death_place_id: tai-cheng
 summary: 在位近半个世纪，兴文教、崇佛法，成南朝文化高峰，晚年纳侯景而困死台城的梁朝开国皇帝。
+summary_en: The founding emperor of Liang, who reigned for nearly half a century, promoted letters and Buddhist learning to a Southern Dynasties cultural peak, and late in life took in Hou Jing—dying trapped in the besieged palace city of Taicheng.
 tags:
 - 开国
 - 文治
 - 崇佛
 - 侯景之乱
+tags_en:
+- Dynasty founding
+- Civil governance
+- Buddhist devotion
+- Hou Jing Rebellion
 portrait:
   primary: assets/portraits/liang-wu/primary.png
   variants: []
@@ -46,8 +54,11 @@ bio:
 timeline:
 - year: '501'
   date_note: 中兴元年
+  date_note_en: Zhongxing 1
   title: 起兵建康
+  title_en: March on Jiankang
   summary: 自襄阳东下攻入建康，掌控南齐残局。
+  summary_en: He marched east from Xiangyang and stormed Jiankang, seizing control of Southern Qi's endgame.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -55,8 +66,11 @@ timeline:
   card_id: E001
 - year: '502'
   date_note: 天监元年
+  date_note_en: Tianjian 1
   title: 受禅建梁
+  title_en: Founding of Liang
   summary: 齐禅于梁，萧衍即帝位，梁朝建立。
+  summary_en: Qi abdicated to Liang; Xiao Yan took the throne and the Liang dynasty was founded.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -64,8 +78,11 @@ timeline:
   card_id: E002
 - year: '502'
   date_note: 天监元年
+  date_note_en: Tianjian 1
   title: 置五经博士等
+  title_en: Five Classics Erudites Appointed
   summary: 开国文教措置，梁武前半文治基础。
+  summary_en: Foundational cultural measures that grounded the civil governance of his first half-reign.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -73,8 +90,11 @@ timeline:
   card_id: E003
 - year: '514'
   date_note: 天监十三年
+  date_note_en: Tianjian 13
   title: 作浮山堰
+  title_en: Fushan Weir Built
   summary: 堰淮攻魏，工程巨大而争议。
+  summary_en: A vast, controversial project damming the Huai River to attack Wei.
   place_id: fu-shan-yan
   related_person_ids: []
   sources:
@@ -83,8 +103,11 @@ timeline:
   card_id: E004
 - year: '527'
   date_note: 大通元年
+  date_note_en: Datong 1
   title: 同泰寺开基叙事
+  title_en: Rise of Tongtai Temple
   summary: 同泰佛事升级，舍身前史。
+  summary_en: Buddhist rites at Tongtai Temple escalated—the prelude to his self-surrenders.
   place_id: tong-tai-si
   related_person_ids: []
   sources:
@@ -92,8 +115,11 @@ timeline:
   card_id: E005
 - year: '527'
   date_note: 大通元年等
+  date_note_en: Datong 1 and later
   title: 舍身同泰
+  title_en: Self-Surrenders at Tongtai
   summary: 数次舍身同泰寺，群臣以钱奉赎，佛事与财政绑定，成史著名场面。
+  summary_en: He repeatedly surrendered himself to Tongtai Temple and was ransomed by his officials, binding Buddhist rites to state finances—a famous scene in history.
   place_id: tong-tai-si
   related_person_ids: []
   sources:
@@ -102,8 +128,11 @@ timeline:
   card_id: E006
 - year: '547'
   date_note: 太清元年
+  date_note_en: Taiqing 1
   title: 侯景来降决策
+  title_en: Decision to Accept Hou Jing
   summary: 纳降争论，战略误判前奏。
+  summary_en: The debate over accepting the defector—the prelude to a strategic misjudgment.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -112,8 +141,11 @@ timeline:
   card_id: E007
 - year: '548'
   date_note: 太清二年
+  date_note_en: Taiqing 2
   title: 台城被围
+  title_en: Taicheng Under Siege
   summary: 侯景围台城，梁政崩溃。
+  summary_en: Hou Jing besieged Taicheng; Liang governance collapsed.
   place_id: tai-cheng
   related_person_ids: []
   sources:
@@ -121,8 +153,11 @@ timeline:
   card_id: E008
 - year: '548'
   date_note: 太清二年
+  date_note_en: Taiqing 2
   title: 纳侯景
+  title_en: Hou Jing Accepted
   summary: 接受侯景，旋即爆发侯景之乱，建康遭灾。
+  summary_en: Hou Jing was accepted; his rebellion erupted soon after, devastating Jiankang.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -131,8 +166,11 @@ timeline:
   card_id: E009
 - year: '549'
   date_note: 太清三年
+  date_note_en: Taiqing 3
   title: 台城饿死
+  title_en: Starved to Death in Taicheng
   summary: 台城陷后，武帝被制，忧愤饥病而崩。
+  summary_en: After Taicheng fell, Emperor Wu was held under control and died of grief, hunger, and illness.
   place_id: tai-cheng
   related_person_ids: []
   sources:
@@ -141,8 +179,11 @@ timeline:
   card_id: E010
 - year: '549'
   date_note: 太清三年
+  date_note_en: Taiqing 3
   title: 简文继位对照
+  title_en: Jianwen's Succession in Contrast
   summary: 武帝崩后简文立，侯景仍控建康。
+  summary_en: After Emperor Wu's death, Jianwen succeeded while Hou Jing still controlled Jiankang.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -150,8 +191,11 @@ timeline:
   card_id: E011
 - year: null
   date_note: 天监–大同
+  date_note_en: Tianjian–Datong
   title: 文化全盛
+  title_en: Cultural Heyday
   summary: 长年安定，文学、佛学、礼乐兴盛，南朝文化高峰之一。
+  summary_en: Decades of stability brought flourishing letters, Buddhist learning, and ritual music—one of the Southern Dynasties' cultural peaks.
   place_id: jian-kang
   related_person_ids: []
   sources:

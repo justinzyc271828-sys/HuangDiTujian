@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 元-005
 names:
   display: 元世祖
+  display_en: Kublai Khan, Emperor Shizu of Yuan
   personal: 忽必烈
+  personal_en: Hubilie
   temple: 世祖
   posthumous: 圣德神功文武皇帝
   aliases: []
@@ -23,11 +25,17 @@ life:
   birth_place_id: null
   death_place_id: da-du
 summary: 灭宋完成大一统，建国号大元、定都大都，以行省与站赤制度塑造后世格局的征服王朝皇帝。
+summary_en: A conquest-dynasty emperor who destroyed the Song to complete a grand unification, proclaimed the dynastic name Great Yuan, fixed the capital at Dadu, and shaped later ages through the provincial and postal-relay systems.
 tags:
 - 大一统
 - 灭宋
 - 行省
 - 建都
+tags_en:
+- Great Unification
+- Song Conquest
+- Provincial System
+- Capital Founding
 portrait:
   primary: assets/portraits/yuan-shi-zu/primary.png
   variants: []
@@ -42,8 +50,11 @@ bio:
 timeline:
 - year: '1260'
   date_note: 中统元年
+  date_note_en: Zhongtong 1
   title: 开平即位
+  title_en: Accession at Kaiping
   summary: 即大汗位，建元中统，朝廷人事与年号随之更始。
+  summary_en: He took the throne as Great Khan and established the Zhongtong era; court personnel and the era name began anew.
   place_id: shang-du
   related_person_ids: []
   sources:
@@ -51,8 +62,11 @@ timeline:
   card_id: E001
 - year: '1260'
   date_note: 中统元年
+  date_note_en: Zhongtong 1
   title: 与阿里不哥争位
+  title_en: Succession War with Ariq Böke
   summary: 汗位内战，忽必烈胜。
+  summary_en: A civil war over the khanship ended in Kublai's victory.
   place_id: shang-du
   related_person_ids: []
   sources:
@@ -60,8 +74,11 @@ timeline:
   card_id: E002
 - year: '1264'
   date_note: 至元元年
+  date_note_en: Zhiyuan 1
   title: 改元至元
+  title_en: Era Changed to Zhiyuan
   summary: 中统改至元，汉地制度推进。
+  summary_en: Zhongtong was changed to Zhiyuan, and institutions for the Chinese territories advanced.
   place_id: da-du
   related_person_ids: []
   sources:
@@ -69,8 +86,11 @@ timeline:
   card_id: E003
 - year: '1271'
   date_note: 至元八年
+  date_note_en: Zhiyuan 8
   title: 建国号元
+  title_en: Dynastic Name Yuan Proclaimed
   summary: 取《易》「大哉乾元」之义，建国号大元。
+  summary_en: Taking the sense of the Yijing line "great is the qian origin," he proclaimed the dynastic name Great Yuan.
   place_id: da-du
   related_person_ids: []
   sources:
@@ -78,8 +98,11 @@ timeline:
   card_id: E004
 - year: '1272'
   date_note: 至元九年
+  date_note_en: Zhiyuan 9
   title: 都于大都
+  title_en: Capital Established at Dadu
   summary: 改中都为大都，政治中心落于燕地。
+  summary_en: Zhongdu was renamed Dadu, and the political center settled in the land of Yan.
   place_id: da-du
   related_person_ids: []
   sources:
@@ -87,8 +110,11 @@ timeline:
   card_id: E005
 - year: '1273'
   date_note: 至元十年
+  date_note_en: Zhiyuan 10
   title: 襄樊破
+  title_en: Fall of Xiangyang
   summary: 襄阳破，灭宋关键节点。
+  summary_en: Xiangyang fell, the key turning point in the destruction of the Song.
   place_id: xiang-yang
   related_person_ids: []
   sources:
@@ -97,8 +123,11 @@ timeline:
   card_id: E006
 - year: '1276'
   date_note: 至元十三年
+  date_note_en: Zhiyuan 13
   title: 下临安
+  title_en: Capture of Lin'an
   summary: 伯颜入临安，宋廷降，残部入海。
+  summary_en: Bayan entered Lin'an, the Song court surrendered, and the remnants fled to the sea.
   place_id: lin-an
   related_person_ids: []
   sources:
@@ -107,8 +136,11 @@ timeline:
   card_id: E007
 - year: '1279'
   date_note: 至元十六年
+  date_note_en: Zhiyuan 16
   title: 崖山灭宋
+  title_en: Song Destroyed at Yashan
   summary: 崖山之战，宋亡，中国再度大一统于元。
+  summary_en: At the Battle of Yashan the Song fell, and China was unified once again under the Yuan.
   place_id: ya-shan
   related_person_ids: []
   sources:
@@ -117,8 +149,11 @@ timeline:
   card_id: E009
 - year: '1281'
   date_note: 至元十八年
+  date_note_en: Zhiyuan 18
   title: 再征日本失败
+  title_en: Second Japan Expedition Fails
   summary: 东征舰队风灾，扩张受挫。
+  summary_en: The eastern expedition fleet met a storm disaster, and expansion suffered a setback.
   place_id: null
   related_person_ids: []
   sources:
@@ -126,8 +161,11 @@ timeline:
   card_id: E010
 - year: '1294'
   date_note: 至元三十一年
+  date_note_en: Zhiyuan 31
   title: 世祖崩
+  title_en: Death of Shizu
   summary: 成宗继，混一格局延续。
+  summary_en: Chengzong succeeded him, and the unified order continued.
   place_id: da-du
   related_person_ids: []
   sources:
@@ -135,8 +173,11 @@ timeline:
   card_id: E011
 - year: undated
   date_note: 至元间
+  date_note_en: During the Zhiyuan era
   title: 行省与站赤
+  title_en: Provinces and Relay Stations
   summary: 行省制、驿站网络等，塑造后世行政区与交通遗产。
+  summary_en: The provincial system and the postal-relay station network shaped the administrative divisions and transport legacy of later ages.
   place_id: null
   related_person_ids: []
   sources:

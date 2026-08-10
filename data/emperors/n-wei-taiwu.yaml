@@ -3,7 +3,9 @@ tier: emperor
 sort_key: 北魏-003
 names:
   display: 太武帝
+  display_en: Emperor Taiwu of Northern Wei
   personal: 拓跋焘
+  personal_en: Tuoba Tao
   temple: 世祖
   posthumous: 太武皇帝
   aliases:
@@ -27,11 +29,17 @@ life:
   birth_place_id: null
   death_place_id: ping-cheng
 summary: 以铁骑灭胡夏、北燕、北凉而统一北方，又南征临江、晚年灭佛，武功极盛而终被近侍所弑的北魏皇帝。
+summary_en: The Northern Wei emperor whose iron cavalry destroyed Hu Xia, Northern Yan, and Northern Liang to unify the north; he campaigned south to the Yangzi and suppressed Buddhism in his late years, and at the height of his military power was murdered by a close attendant.
 tags:
 - 统一北方
 - 亲征
 - 灭佛
 - 南北对峙
+tags_en:
+- Northern unification
+- Personal campaigns
+- Buddhist persecution
+- North–South standoff
 portrait:
   primary: assets/portraits/n-wei-taiwu/primary.png
   variants: []
@@ -46,8 +54,11 @@ bio:
 timeline:
 - year: '423'
   date_note: 泰常八年
+  date_note_en: Taichang 8
   title: 即位
+  title_en: Accession at Pingcheng
   summary: 明元帝崩，焘即位，北魏进入扩张高峰。
+  summary_en: Emperor Mingyuan died and Tuoba Tao succeeded; Northern Wei entered its peak of expansion.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -55,8 +66,11 @@ timeline:
   card_id: E001
 - year: '424'
   date_note: 始光元年
+  date_note_en: Shiguang 1
   title: 改元与亲征开局
+  title_en: New Era and First Campaigns
   summary: 即位后改元更始，朝廷人事随新主调整，北魏扩张加速。
+  summary_en: After his accession he changed the era name and court personnel followed the new ruler; Northern Wei's expansion accelerated.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -64,8 +78,11 @@ timeline:
   card_id: E002
 - year: '427'
   date_note: 始光四年
+  date_note_en: Shiguang 4
   title: 取统万
+  title_en: Capture of Tongwan
   summary: 攻取胡夏都城统万，灭夏关键一战。
+  summary_en: He captured Tongwan, capital of Hu Xia—the decisive blow against Xia.
   place_id: tong-wan
   related_person_ids: []
   sources:
@@ -73,8 +90,11 @@ timeline:
   card_id: E003
 - year: '431'
   date_note: 神䴥四年
+  date_note_en: Shenjia 4
   title: 灭胡夏
+  title_en: Destruction of Hu Xia
   summary: 灭赫连夏，取关中。
+  summary_en: He destroyed the Helian Xia and took the Guanzhong region.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -82,8 +102,11 @@ timeline:
   card_id: E004
 - year: '436'
   date_note: 太延二年
+  date_note_en: Taiyan 2
   title: 灭北燕
+  title_en: Destruction of Northern Yan
   summary: 灭冯氏北燕，辽西归魏。
+  summary_en: He destroyed the Feng family's Northern Yan; western Liaoning fell to Wei.
   place_id: he-long
   related_person_ids: []
   sources:
@@ -91,8 +114,11 @@ timeline:
   card_id: E005
 - year: '439'
   date_note: 太延五年
+  date_note_en: Taiyan 5
   title: 凉州平
+  title_en: Liangzhou Pacified
   summary: 兵至姑臧，凉州平定。
+  summary_en: Wei troops reached Guzang and Liangzhou was pacified.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -100,8 +126,11 @@ timeline:
   card_id: E006
 - year: '439'
   date_note: 太延五年
+  date_note_en: Taiyan 5
   title: 灭北凉
+  title_en: Destruction of Northern Liang
   summary: 灭沮渠北凉，北方统一于北魏，十六国阶段落幕。
+  summary_en: He destroyed the Juqu Northern Liang; the north was unified under Northern Wei and the Sixteen Kingdoms period ended.
   place_id: hexi
   related_person_ids: []
   sources:
@@ -109,8 +138,11 @@ timeline:
   card_id: E007
 - year: '444'
   date_note: 太平真君五年起
+  date_note_en: from Taiping Zhenjun 5
   title: 真君灭佛
+  title_en: Zhenjun Persecution of Buddhism
   summary: 太平真君年间禁佛毁寺，宗教政策极端化。
+  summary_en: During the Taiping Zhenjun era Buddhism was banned and temples destroyed—religious policy turned extreme.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -119,8 +151,11 @@ timeline:
   card_id: E008
 - year: '445'
   date_note: 太平真君六年
+  date_note_en: Taiping Zhenjun 6
   title: 盖吴起兵
+  title_en: Ge Wu's Revolt
   summary: 关中盖吴反，魏军镇压。
+  summary_en: Ge Wu rose in Guanzhong and was suppressed by Wei forces.
   place_id: chang-an
   related_person_ids: []
   sources:
@@ -128,8 +163,11 @@ timeline:
   card_id: E009
 - year: '446'
   date_note: 太平真君七年
+  date_note_en: Taiping Zhenjun 7
   title: 诏诸州坑沙门
+  title_en: Monks Buried Alive by Edict
   summary: 灭佛政策达于高峰。
+  summary_en: The persecution of Buddhism reached its peak.
   place_id: ping-cheng
   related_person_ids: []
   sources:
@@ -138,8 +176,11 @@ timeline:
   card_id: E010
 - year: '450'
   date_note: 太平真君十一年
+  date_note_en: Taiping Zhenjun 11
   title: 南征瓜步
+  title_en: Southern Campaign to Guabu
   summary: 大举南征刘宋，至瓜步，与宋文帝隔江对峙，威震而未能定南。
+  summary_en: A massive campaign against Liu Song reached Guabu, facing Emperor Wen of Song across the Yangzi—awe-inspiring, yet unable to conquer the south.
   place_id: gua-bu
   related_person_ids: []
   sources:
@@ -148,8 +189,11 @@ timeline:
   card_id: E011
 - year: '452'
   date_note: 正平二年
+  date_note_en: Zhengping 2
   title: 被弑
+  title_en: Assassinated by Zong Ai
   summary: 为中常侍宗爱所弑，北魏政局动荡。
+  summary_en: He was murdered by the palace attendant Zong Ai, and Northern Wei politics fell into turmoil.
   place_id: ping-cheng
   related_person_ids: []
   sources:
