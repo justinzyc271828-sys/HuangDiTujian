@@ -2,12 +2,14 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import type { Emperor, SiteData } from "../types";
 import { useCollection } from "../hooks/useCollection";
+import { dynastyLabel, pinyinOf, useLang } from "../i18n";
 import "./gallery.css";
 
 type Props = { site: SiteData };
 type Filter = "all" | "quasi" | "emperor" | "read";
 
 export default function Gallery({ site }: Props) {
+  const { lang, t } = useLang();
   const { read, starred } = useCollection();
   const [filter, setFilter] = useState<Filter>("all");
   const [q, setQ] = useState("");
@@ -48,10 +50,10 @@ export default function Gallery({ site }: Props) {
   }, [site.emperors, filter, read, featured, q]);
 
   const chips: { id: Filter; label: string }[] = [
-    { id: "all", label: `全部 ${stats.total}` },
-    { id: "emperor", label: `正式 ${stats.emperor}` },
-    { id: "quasi", label: `准 ${stats.quasi}` },
-    { id: "read", label: "已读" },
+    { id: "all", label: `${t("chip.all")} ${stats.total}` },
+    { id: "emperor", label: `${t("chip.emperor")} ${stats.emperor}` },
+    { id: "quasi", label: `${t("chip.quasi")} ${stats.quasi}` },
+    { id: "read", label: t("chip.read") },
   ];
 
   return (
@@ -59,12 +61,17 @@ export default function Gallery({ site }: Props) {
       <div className="gallery-inner">
         <header className="g-head">
           <div className="g-title-row">
-            <h1 className="g-title">皇帝图鉴</h1>
-            <span className="g-seal">索引 {stats.total}</span>
+            <h1 className="g-title">{t("gallery.title")}</h1>
+            <span className="g-seal">
+              {t("gallery.seal")} {stats.total}
+            </span>
           </div>
           <p className="g-sub">
-            奏折三栏专页 · 点卡即入（专页草稿 {stats.draft} · 灰卡 stub {stats.stub} · 准{" "}
-            {stats.quasi}）
+            {t("gallery.sub", {
+              draft: stats.draft,
+              stub: stats.stub,
+              quasi: stats.quasi,
+            })}
           </p>
         </header>
 
@@ -83,7 +90,7 @@ export default function Gallery({ site }: Props) {
           </div>
           <input
             className="g-search"
-            placeholder="搜索姓名 / 朝代 / id…"
+            placeholder={t("gallery.searchPh")}
             value={q}
             onChange={(e) => setQ(e.target.value)}
           />
@@ -94,6 +101,10 @@ export default function Gallery({ site }: Props) {
             const isStub = e.page_status === "stub" || !e.page_status;
             const isFeatured = featured.has(e.id);
             const isQuasi = e.tier === "quasi";
+            const isEn = lang === "en";
+            const display = isEn ? (e.names.display_en ?? e.names.display) : e.names.display;
+            const tags = (isEn ? (e.tags_en ?? e.tags) : e.tags) || [];
+            const summary = isEn ? (e.summary_en ?? e.summary) : e.summary;
             return (
               <Link
                 key={e.id}
@@ -105,38 +116,41 @@ export default function Gallery({ site }: Props) {
                     {e.illustration ? (
                       <img src={`/${e.illustration}`} alt="" loading="lazy" />
                     ) : (
-                      <div className="g-illu-pending">画像在制</div>
+                      <div className="g-illu-pending">{t("gallery.portraitPending")}</div>
                     )}
                   </div>
                 )}
                 <div className="g-card-body">
                   <div className="g-card-top">
-                    <h2 className="g-name">{e.names.display}</h2>
+                    <h2 className="g-name">{display}</h2>
                     <div className="g-badges">
-                      {isFeatured && <span className="g-badge b-first">首批</span>}
-                      {isStub && <span className="g-badge b-stub">索引</span>}
-                      {isQuasi && <span className="g-badge b-quasi">准</span>}
+                      {isFeatured && <span className="g-badge b-first">{t("badge.first")}</span>}
+                      {isStub && <span className="g-badge b-stub">{t("badge.stub")}</span>}
+                      {isQuasi && <span className="g-badge b-quasi">{t("badge.quasi")}</span>}
                     </div>
                   </div>
+                  {isEn && (
+                    <div className="g-pinyin">{e.names.personal_en ?? pinyinOf(e.id)}</div>
+                  )}
                   <div className="g-meta">
-                    {e.dynasty.label}
+                    {dynastyLabel(e.dynasty.label, lang)}
                     {e.names.personal ? ` · ${e.names.personal}` : ""} ·{" "}
                     {e.reign.start || "?"}—{e.reign.end || "?"}
                   </div>
-                  {isFeatured && (e.tags || []).length > 0 && (
+                  {isFeatured && tags.length > 0 && (
                     <div className="g-tags">
-                      {(e.tags || []).slice(0, 4).map((t) => (
+                      {tags.slice(0, 4).map((t) => (
                         <span key={t} className="g-tag">
                           {t}
                         </span>
                       ))}
                     </div>
                   )}
-                  {isFeatured && <p className="g-summary">{e.summary}</p>}
+                  {isFeatured && <p className="g-summary">{summary}</p>}
                   <div className="g-status">
-                    {read.includes(e.id) && <span className="st-read">已读</span>}
-                    {starred.includes(e.id) && <span className="st-star">收藏</span>}
-                    {isStub && <span className="st-wait">待撰写</span>}
+                    {read.includes(e.id) && <span className="st-read">{t("st.read")}</span>}
+                    {starred.includes(e.id) && <span className="st-star">{t("st.star")}</span>}
+                    {isStub && <span className="st-wait">{t("st.wait")}</span>}
                   </div>
                 </div>
               </Link>

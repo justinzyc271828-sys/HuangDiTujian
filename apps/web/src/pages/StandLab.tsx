@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import type { Emperor, SiteData } from "../types";
 import type { StandStatsFile, StyleId } from "../standTypes";
 import StandRadar from "../components/StandRadar";
+import { axisLabel, dynastyLabel, useLang } from "../i18n";
 import "../standLab.css";
 
 type Props = { site: SiteData };
@@ -60,6 +61,7 @@ function powerLevel(scores: Record<string, number>) {
 }
 
 export default function StandLab({ site }: Props) {
+  const { lang, t } = useLang();
   const [stats, setStats] = useState<StandStatsFile | null>(null);
   const [style, setStyle] = useState<StyleId>("rpg-menu");
   const [eid, setEid] = useState(site.featured_ids[0] || "qin-shi-huang");
@@ -84,8 +86,8 @@ export default function StandLab({ site }: Props) {
   if (!stats || !emperor || !profile) {
     return (
       <div className="lab-wrap">
-        <p className="lab-loading">加载设定档…</p>
-        <Link to="/">← 返回图鉴</Link>
+        <p className="lab-loading">{t("lab.loading")}</p>
+        <Link to="/">{t("back")}</Link>
       </div>
     );
   }
@@ -101,18 +103,19 @@ export default function StandLab({ site }: Props) {
       <header className="lab-top">
         <div>
           <Link to="/" className="lab-back">
-            ← 返回图鉴
+            {t("back")}
           </Link>
-          <h1>游戏化设定页 Lab · 第二轮</h1>
+          <h1>{t("lab.title")}</h1>
           <p className="lab-lead">
-            史实骨架仍准，外壳按<strong>好玩的游戏图鉴</strong>来——不是考据论文。
-            六维保留；下面 5 套都是「娱乐展示」。点风格 + 人物对比。
+            {t("lab.lead1")}
+            <strong>{t("lab.leadStrong")}</strong>
+            {t("lab.lead2")}
           </p>
         </div>
       </header>
 
       <section className="lab-picker">
-        <h2>① 选风格（本轮全换新）</h2>
+        <h2>{t("lab.pickStyle")}</h2>
         <div className="lab-style-grid">
           {STYLES.map((s) => (
             <button
@@ -130,7 +133,7 @@ export default function StandLab({ site }: Props) {
       </section>
 
       <section className="lab-picker">
-        <h2>② 选人物</h2>
+        <h2>{t("lab.pickEmperor")}</h2>
         <div className="lab-emp-tabs">
           {featured.map((e) => (
             <button
@@ -146,7 +149,10 @@ export default function StandLab({ site }: Props) {
       </section>
 
       <section className="lab-stage">
-        <h2>③ 预览 · {STYLES.find((s) => s.id === style)?.name}</h2>
+        <h2>
+          {t("lab.preview")}
+          {STYLES.find((s) => s.id === style)?.name}
+        </h2>
 
         {/* A JRPG */}
         {style === "rpg-menu" && (
@@ -161,25 +167,25 @@ export default function StandLab({ site }: Props) {
                   <div className="rpg-face">{emperor.names.display[0]}</div>
                   <div>
                     <b>{emperor.names.display}</b>
-                    <small>Lv.{Math.round(total / 3)} · {pl} 阶</small>
+                    <small>{t("lab.level", { lv: Math.round(total / 3), pl })}</small>
                   </div>
                 </div>
                 <div className="rpg-bars">
                   <div className="rpg-bar">
-                    <span>国力 HP</span>
+                    <span>{t("lab.hp")}</span>
                     <i style={{ width: `${(profile.scores.endurance / 5) * 100}%` }} />
                   </div>
                   <div className="rpg-bar mp">
-                    <span>气运 MP</span>
+                    <span>{t("lab.mp")}</span>
                     <i style={{ width: `${(profile.scores.legacy / 5) * 100}%` }} />
                   </div>
                 </div>
                 <div className="rpg-skills">
-                  <h4>技能（史实梗）</h4>
+                  <h4>{t("lab.skills")}</h4>
                   <button type="button">{profile.stand_name}</button>
-                  <button type="button">必杀：{profile.cry.slice(0, 12)}…</button>
+                  <button type="button">{t("lab.ult")}{profile.cry.slice(0, 12)}…</button>
                   <button type="button" className="dim">
-                    破绽：{profile.weakness.slice(0, 14)}…
+                    {t("lab.weak")}{profile.weakness.slice(0, 14)}…
                   </button>
                 </div>
               </div>
@@ -199,14 +205,14 @@ export default function StandLab({ site }: Props) {
                 <h4>STATUS</h4>
                 {stats.axes.map((ax) => (
                   <div key={ax.key} className="rpg-stat-row">
-                    <span>{ax.label}</span>
+                    <span>{lang === "hans" ? ax.label : axisLabel(ax.key, lang)}</span>
                     <b>{gradeOf(profile.scores[ax.key] ?? 0, stats.grades)}</b>
                   </div>
                 ))}
                 <p className="rpg-note">{profile.ability}</p>
               </div>
             </div>
-            <p className="sheet-disclaimer">玩法包装 · {stats.note}</p>
+            <p className="sheet-disclaimer">{t("lab.disclaimer")} · {stats.note}</p>
           </article>
         )}
 
@@ -219,7 +225,7 @@ export default function StandLab({ site }: Props) {
                 <div className="gacha-stars">{"★".repeat(5)}</div>
                 <div className="gacha-portrait">
                   <span className="gacha-elem">
-                    {emperor.dynasty.label}
+                    {dynastyLabel(emperor.dynasty.label, lang)}
                   </span>
                   <div className="gacha-name">{emperor.names.display}</div>
                   <div className="gacha-title">{profile.stand_name}</div>
@@ -233,18 +239,18 @@ export default function StandLab({ site }: Props) {
                   {(emperor.tags || []).slice(0, 4).map((t) => (
                     <span key={t}>{t}</span>
                   ))}
-                  <span className="up">限定</span>
+                  <span className="up">{t("lab.limited")}</span>
                 </div>
               </div>
               <div className="gacha-right">
                 <div className="gacha-panel">
-                  <h4>角色简介</h4>
+                  <h4>{t("lab.charIntro")}</h4>
                   <p>{emperor.summary}</p>
                 </div>
                 <div className="gacha-panel gacha-skill">
-                  <h4>元素爆发 · 史实技</h4>
+                  <h4>{t("lab.burst")}</h4>
                   <p className="gacha-skill-name">{profile.ability}</p>
-                  <p className="gacha-weak">命座吐槽：{profile.weakness}</p>
+                  <p className="gacha-weak">{t("lab.constel")}{profile.weakness}</p>
                 </div>
                 <div className="gacha-radar-box">
                   <StandRadar
@@ -261,7 +267,7 @@ export default function StandLab({ site }: Props) {
               </div>
             </div>
             <p className="gacha-banner-text">「{profile.cry}」</p>
-            <p className="sheet-disclaimer">玩法包装 · {stats.note}</p>
+            <p className="sheet-disclaimer">{t("lab.disclaimer")} · {stats.note}</p>
           </article>
         )}
 
@@ -271,7 +277,7 @@ export default function StandLab({ site }: Props) {
             <div className="boss-top">
               <div>
                 <span className="boss-pill">WORLD BOSS</span>
-                <span className="boss-pill red">威胁 {pl}</span>
+                <span className="boss-pill red">{t("lab.threat")} {pl}</span>
               </div>
               <span className="boss-id">ID #{no}</span>
             </div>
@@ -280,7 +286,7 @@ export default function StandLab({ site }: Props) {
               <small>{profile.stand_type}</small>
             </h3>
             <div className="boss-hp">
-              <span>气运条</span>
+              <span>{t("lab.hubar")}</span>
               <div className="boss-hp-track">
                 <i style={{ width: `${(total / 30) * 100}%` }} />
               </div>
@@ -290,19 +296,19 @@ export default function StandLab({ site }: Props) {
             </div>
             <div className="boss-grid">
               <div className="boss-mech">
-                <h4>机制点名（史实向）</h4>
+                <h4>{t("lab.mech")}</h4>
                 <ol>
                   <li>
-                    <b>开场技</b> {profile.ability}
+                    <b>{t("lab.openSkill")}</b> {profile.ability}
                   </li>
                   <li>
-                    <b>狂暴台词</b> 「{profile.cry}」
+                    <b>{t("lab.enrageCry")}</b> 「{profile.cry}」
                   </li>
                   <li>
-                    <b>狂暴破绽</b> {profile.weakness}
+                    <b>{t("lab.enrageWeak")}</b> {profile.weakness}
                   </li>
                   <li>
-                    <b>掉落暗示</b> 郡县制 / 年号 / 天可汗（按人不同梗，此处示意）
+                    <b>{t("lab.lootHint")}</b> 郡县制 / 年号 / 天可汗（按人不同梗，此处示意）
                   </li>
                 </ol>
               </div>
@@ -322,12 +328,12 @@ export default function StandLab({ site }: Props) {
             <div className="boss-loot">
               {stats.axes.map((ax) => (
                 <div key={ax.key}>
-                  <span>{ax.label}</span>
+                  <span>{lang === "hans" ? ax.label : axisLabel(ax.key, lang)}</span>
                   <b>{gradeOf(profile.scores[ax.key] ?? 0, stats.grades)}</b>
                 </div>
               ))}
             </div>
-            <p className="sheet-disclaimer">玩法包装 · {stats.note}</p>
+            <p className="sheet-disclaimer">{t("lab.disclaimer")} · {stats.note}</p>
           </article>
         )}
 
@@ -344,7 +350,7 @@ export default function StandLab({ site }: Props) {
                   <div className="dex-sprite">
                     <div className="dex-ball">{emperor.names.display[0]}</div>
                     <div className="dex-types">
-                      <i className="t1">{emperor.dynasty.label}</i>
+                      <i className="t1">{dynastyLabel(emperor.dynasty.label, lang)}</i>
                       <i className="t2">{profile.stand_type.slice(0, 4)}</i>
                     </div>
                   </div>
@@ -353,12 +359,12 @@ export default function StandLab({ site }: Props) {
                     <p className="dex-species">{profile.stand_name}</p>
                     <p>{emperor.summary}</p>
                     <div className="dex-meta">
-                      <span>身高：？？丈（玩笑）</span>
+                      <span>{t("lab.height")}</span>
                       <span>
-                        捕获度：{10 - (profile.scores.control || 3)}
+                        {t("lab.catch")}{10 - (profile.scores.control || 3)}
                       </span>
                       <span>
-                        出现地：{emperor.reign.start}–{emperor.reign.end}
+                        {t("lab.habitat")}{emperor.reign.start}–{emperor.reign.end}
                       </span>
                     </div>
                   </div>
@@ -375,14 +381,14 @@ export default function StandLab({ site }: Props) {
                     labelColor="#dcfce7"
                   />
                   <div className="dex-entry">
-                    <h4>图鉴说明</h4>
+                    <h4>{t("lab.dexEntry")}</h4>
                     <p>{profile.ability}</p>
                     <p className="dex-cry">「{profile.cry}」</p>
-                    <p className="dex-weak">野生习性：{profile.weakness}</p>
+                    <p className="dex-weak">{t("lab.wild")}{profile.weakness}</p>
                     <ul>
                       {stats.axes.map((ax) => (
                         <li key={ax.key}>
-                          {ax.label}{" "}
+                          {lang === "hans" ? ax.label : axisLabel(ax.key, lang)}{" "}
                           <b>
                             {gradeOf(profile.scores[ax.key] ?? 0, stats.grades)}
                           </b>
@@ -399,7 +405,7 @@ export default function StandLab({ site }: Props) {
                 <i />
               </div>
             </div>
-            <p className="sheet-disclaimer">玩法包装 · {stats.note}</p>
+            <p className="sheet-disclaimer">{t("lab.disclaimer")} · {stats.note}</p>
           </article>
         )}
 
@@ -418,7 +424,7 @@ export default function StandLab({ site }: Props) {
               </div>
               <div className="ft-center">
                 <div className="ft-vs-badge">VS</div>
-                <div className="ft-pl">战力 {pl}</div>
+                <div className="ft-pl">{t("lab.power")} {pl}</div>
                 <StandRadar
                   axes={stats.axes}
                   scores={profile.scores}
@@ -435,53 +441,53 @@ export default function StandLab({ site }: Props) {
                   <span>？？？</span>
                 </div>
                 <div className="ft-nameplate">
-                  <b>下一任对手</b>
-                  <em>从图鉴挑选</em>
+                  <b>{t("lab.nextFoe")}</b>
+                  <em>{t("lab.pickFrom")}</em>
                 </div>
               </div>
             </div>
             <div className="ft-moves">
               <div>
-                <h4>必杀技</h4>
+                <h4>{t("lab.super")}</h4>
                 <p className="ft-super">{profile.stand_name}</p>
                 <p>{profile.ability}</p>
               </div>
               <div>
-                <h4>连招台词</h4>
+                <h4>{t("lab.combo")}</h4>
                 <p>「{profile.cry}」</p>
               </div>
               <div>
-                <h4>被克制</h4>
+                <h4>{t("lab.countered")}</h4>
                 <p>{profile.weakness}</p>
               </div>
             </div>
             <div className="ft-params">
               {stats.axes.map((ax) => (
                 <span key={ax.key}>
-                  {ax.label}
+                  {lang === "hans" ? ax.label : axisLabel(ax.key, lang)}
                   <b>{gradeOf(profile.scores[ax.key] ?? 0, stats.grades)}</b>
                 </span>
               ))}
             </div>
-            <p className="sheet-disclaimer">玩法包装 · {stats.note}</p>
+            <p className="sheet-disclaimer">{t("lab.disclaimer")} · {stats.note}</p>
           </article>
         )}
       </section>
 
       <section className="lab-axes-help">
-        <h2>六维仍是这些（史实向含义 / 游戏向别名）</h2>
+        <h2>{t("lab.axesTitle")}</h2>
         <table>
           <thead>
             <tr>
-              <th>品藻</th>
-              <th>游戏感别名</th>
-              <th>含义（认真）</th>
+              <th>{t("lab.axAxis")}</th>
+              <th>{t("lab.axAlias")}</th>
+              <th>{t("lab.axMeaning")}</th>
             </tr>
           </thead>
           <tbody>
             {stats.axes.map((ax) => (
               <tr key={ax.key}>
-                <td>{ax.label}</td>
+                <td>{lang === "hans" ? ax.label : axisLabel(ax.key, lang)}</td>
                 <td>{ax.jojo}</td>
                 <td>{ax.desc}</td>
               </tr>
@@ -489,7 +495,7 @@ export default function StandLab({ site }: Props) {
           </tbody>
         </table>
         <p className="lab-lead" style={{ marginTop: "0.75rem" }}>
-          选好风格字母回我；可组合例如「D 的图鉴机当总览，点进去用 A 状态菜单」。
+          {t("lab.tail")}
         </p>
       </section>
     </div>

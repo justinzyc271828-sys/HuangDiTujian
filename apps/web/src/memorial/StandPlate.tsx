@@ -1,5 +1,6 @@
 import type { StandAxis, StandProfile } from "../standTypes";
 import { gradeOfScore } from "./memorialUtils";
+import { axisLabel, useLang } from "../i18n";
 
 type Props = {
   axes: StandAxis[];
@@ -12,6 +13,7 @@ function polar(cx: number, cy: number, r: number, i: number, n: number) {
 }
 
 function Radar({ axes, scores }: { axes: StandAxis[]; scores: Record<string, number> }) {
+  const { lang, t } = useLang();
   const size = 300;
   const cx = size / 2;
   const cy = size / 2;
@@ -36,7 +38,7 @@ function Radar({ axes, scores }: { axes: StandAxis[]; scores: Record<string, num
       viewBox={`0 0 ${size} ${size}`}
       className="plate-radar"
       role="img"
-      aria-label="六维品藻图"
+      aria-label={t("plate.aria")}
     >
       {rings.map((poly, i) => (
         <polygon
@@ -77,7 +79,7 @@ function Radar({ axes, scores }: { axes: StandAxis[]; scores: Record<string, num
         return (
           <g key={ax.key}>
             <text x={p.x} y={p.y - 3} textAnchor="middle" fill="#e6d9bd" fontSize={12} fontWeight={700}>
-              {ax.label}
+              {lang === "hans" ? ax.label : axisLabel(ax.key, lang)}
             </text>
             <text
               x={p.x}
@@ -98,39 +100,49 @@ function Radar({ axes, scores }: { axes: StandAxis[]; scores: Record<string, num
 }
 
 export default function StandPlate({ axes, profile }: Props) {
+  const { lang, t } = useLang();
   if (!profile) {
     return (
       <div className="stand-plate plate-empty">
-        <div className="plate-name">品藻未评</div>
-        <p className="plate-note">此人尚无六维评分（video-01 二十人之外）。</p>
+        <div className="plate-name">{t("plate.unrated")}</div>
+        <p className="plate-note">{t("plate.unratedNote")}</p>
       </div>
     );
   }
+  /* EN 模式内容层逐字段回退中文 */
+  const isEn = lang === "en";
+  const standName = isEn ? (profile.stand_name_en ?? profile.stand_name) : profile.stand_name;
+  const standType = isEn ? (profile.stand_type_en ?? profile.stand_type) : profile.stand_type;
+  const cry = isEn ? (profile.cry_en ?? profile.cry) : profile.cry;
+  const ability = isEn ? (profile.ability_en ?? profile.ability) : profile.ability;
+  const weakness = isEn ? (profile.weakness_en ?? profile.weakness) : profile.weakness;
   return (
     <div className="stand-plate">
       <div className="plate-head">
-        <div className="plate-name">{profile.stand_name}</div>
-        <div className="plate-type">{profile.stand_type}</div>
+        <div className="plate-name">{standName}</div>
+        <div className="plate-type">{standType}</div>
       </div>
       <div className="plate-body">
         <Radar axes={axes} scores={profile.scores} />
         <ul className="plate-stats">
           {axes.map((ax) => (
             <li key={ax.key}>
-              <span className="stat-label">{ax.label}</span>
+              <span className="stat-label">
+                {lang === "hans" ? ax.label : axisLabel(ax.key, lang)}
+              </span>
               <b className="stat-grade">{gradeOfScore(profile.scores[ax.key] ?? 0)}</b>
             </li>
           ))}
         </ul>
       </div>
-      <p className="plate-cry">“{profile.cry}”</p>
+      <p className="plate-cry">“{cry}”</p>
       <p className="plate-line">
-        <b>功</b> {profile.ability}
+        <b>{t("plate.merit")}</b> {ability}
       </p>
       <p className="plate-line">
-        <b>过</b> {profile.weakness}
+        <b>{t("plate.demerit")}</b> {weakness}
       </p>
-      <p className="plate-note">品藻戏作；史实见年表与出处。</p>
+      <p className="plate-note">{t("plate.note")}</p>
     </div>
   );
 }

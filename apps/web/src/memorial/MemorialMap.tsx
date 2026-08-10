@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import type { Emperor, Place, RoutePoint } from "../types";
 import { BASE_CITIES, COAST, ISLANDS, MOUNTAINS, RANGES, RIVERS, TERRAIN } from "./chinaBase";
 import { TERRITORY } from "./territory";
+import { groupLabel, useLang } from "../i18n";
 
 const GROUP_COLOR: Record<string, string> = {
   都城: "#6b5c42",
@@ -60,6 +61,10 @@ type Props = {
 };
 
 export default function MemorialMap({ emperor, places, activePlaceId, onSelectPlace }: Props) {
+  const { lang, t } = useLang();
+  const isEn = lang === "en";
+  const placeName = (pl: Place) =>
+    isEn ? (pl.names.english ?? pl.names.historical) : pl.names.historical;
   const routes = useMemo(
     () => [...(emperor.routes || [])].sort((a, b) => (a.order ?? 0) - (b.order ?? 0)),
     [emperor.routes]
@@ -170,21 +175,23 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
   if (pts.length === 0) {
     return (
       <aside className="memorial-map">
-        <h2 className="map-title">一生地图</h2>
-        <p className="map-hint">路线未录入。</p>
+        <h2 className="map-title">{t("map.title")}</h2>
+        <p className="map-hint">{t("map.empty")}</p>
       </aside>
     );
   }
 
   return (
     <aside className="memorial-map">
-      <h2 className="map-title">一生地图</h2>
+      <h2 className="map-title">{t("map.title")}</h2>
       <div className="map-frame">
         <svg
           className="map-svg"
           viewBox={`0 0 ${w} ${h}`}
           role="img"
-          aria-label={`${emperor.names.display}路线图`}
+          aria-label={t("map.aria", {
+            name: isEn ? (emperor.names.display_en ?? emperor.names.display) : emperor.names.display,
+          })}
         >
           <rect width={w} height={h} fill="var(--map-bg)" />
           <rect
@@ -295,7 +302,7 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
                   fill="var(--ink)"
                   fontWeight={isActive ? 700 : 400}
                 >
-                  {p.pl.names.historical}
+                  {placeName(p.pl)}
                 </text>
               </g>
             );
@@ -307,7 +314,7 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
         {groups.map((g) => (
           <span key={g}>
             <i className="swatch" style={{ background: GROUP_COLOR[g] || GROUP_COLOR.其他 }} />
-            {g}
+            {groupLabel(g, lang)}
           </span>
         ))}
       </div>
@@ -324,8 +331,8 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
               {p.r.event}
             </strong>
             <div>
-              {p.pl.names.historical}
-              {p.pl.names.modern ? `（${p.pl.names.modern}）` : ""} · {p.r.group}
+              {placeName(p.pl)}
+              {p.pl.names.modern ? `（${p.pl.names.modern}）` : ""} · {groupLabel(p.r.group, lang)}
             </div>
           </li>
         ))}

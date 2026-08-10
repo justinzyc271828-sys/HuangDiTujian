@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import type { Emperor, Place, RoutePoint } from "../types";
+import { groupLabel, useLang } from "../i18n";
 
 /** China-ish bbox for schematic projection */
 const LNG0 = 73;
@@ -47,6 +48,7 @@ type Props = {
 };
 
 export default function RouteMap({ emperor, places }: Props) {
+  const { lang, t } = useLang();
   const routes = useMemo(
     () =>
       [...(emperor.routes || [])].sort(
@@ -76,17 +78,14 @@ export default function RouteMap({ emperor, places }: Props) {
 
   return (
     <div className="map-panel">
-      <h2>一生轨迹 · 示意地图</h2>
-      <p className="hint">
-        2D 弧线示意（非精确历史疆界）。点击下方事件可高亮对应点。坐标精度见地点库
-        schematic / approximate。
-      </p>
+      <h2>{t("rmap.title")}</h2>
+      <p className="hint">{t("rmap.hint")}</p>
       <div className="map-svg-wrap">
         <svg
           className="map-svg"
           viewBox={`0 0 ${w} ${h}`}
           role="img"
-          aria-label={`${emperor.names.display}路线图`}
+          aria-label={t("map.aria", { name: emperor.names.display })}
         >
           <rect width={w} height={h} fill="#fbf8f0" />
           {/* simple coastline box decoration */}
@@ -101,7 +100,7 @@ export default function RouteMap({ emperor, places }: Props) {
             rx={8}
           />
           <text x={28} y={38} fontSize={10} fill="#8a7d68">
-            示意范围 · 中国历史地理
+            {t("rmap.scope")}
           </text>
 
           {pts.slice(0, -1).map((p, i) => {
@@ -158,7 +157,7 @@ export default function RouteMap({ emperor, places }: Props) {
               className="swatch"
               style={{ background: GROUP_COLOR[g] || GROUP_COLOR.其他 }}
             />
-            {g}
+            {groupLabel(g, lang)}
           </span>
         ))}
       </div>
@@ -177,11 +176,11 @@ export default function RouteMap({ emperor, places }: Props) {
             <div>
               {p.pl.names.historical}
               {p.pl.names.modern ? `（${p.pl.names.modern}）` : ""}
-              · {p.r.group}
+              · {groupLabel(p.r.group, lang)}
             </div>
           </li>
         ))}
-        {pts.length === 0 && <li>暂无路线数据</li>}
+        {pts.length === 0 && <li>{t("rmap.empty")}</li>}
       </ul>
     </div>
   );

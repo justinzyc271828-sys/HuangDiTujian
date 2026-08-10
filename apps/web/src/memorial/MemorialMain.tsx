@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import type { Emperor, SiteData } from "../types";
 import type { StandAxis, StandProfile } from "../standTypes";
 import StandPlate from "./StandPlate";
-import { REL_LABEL } from "./memorialUtils";
+import { dynastyLabel, fmtReign, relLabel, useLang } from "../i18n";
 
 type Props = {
   emperor: Emperor;
@@ -21,47 +21,60 @@ export default function MemorialMain({
   isStub,
   onSelectPlace,
 }: Props) {
+  const { lang, t } = useLang();
   const byId = Object.fromEntries(site.emperors.map((e) => [e.id, e]));
+
+  /* EN 模式内容层：_en 字段优先，缺失回退中文；hans/hant 不受影响 */
+  const isEn = lang === "en";
+  const display = isEn ? (emperor.names.display_en ?? emperor.names.display) : emperor.names.display;
+  const personal = isEn ? (emperor.names.personal_en ?? emperor.names.personal) : emperor.names.personal;
+  const reignText = isEn
+    ? fmtReign(emperor.reign.start, emperor.reign.end)
+    : `${emperor.reign.start}—${emperor.reign.end}`;
+  const summary = isEn ? (emperor.summary_en ?? emperor.summary) : emperor.summary;
+  const tags = (isEn ? (emperor.tags_en ?? emperor.tags) : emperor.tags) || [];
+  const bioParts = (isEn && emperor.bio_parts_en ? emperor.bio_parts_en : emperor.bio_parts) || [];
+  const nameOf = (e: Emperor) => (isEn ? (e.names.display_en ?? e.names.display) : e.names.display);
 
   return (
     <main className="memorial-main">
       {/* 卷首 */}
       <section className="m-section m-hero" id="m-hero">
         <div className="hero-kicker">
-          {emperor.dynasty.label}
-          {emperor.names.temple ? ` · 庙号${emperor.names.temple}` : ""}
-          {emperor.names.posthumous ? ` · 谥${emperor.names.posthumous}` : ""}
+          {dynastyLabel(emperor.dynasty.label, lang)}
+          {emperor.names.temple ? ` · ${t("temple")}${emperor.names.temple}` : ""}
+          {emperor.names.posthumous ? ` · ${t("posthumous")}${emperor.names.posthumous}` : ""}
         </div>
-        <h1 className="hero-name">{emperor.names.display}</h1>
+        <h1 className="hero-name">{display}</h1>
         <div className="hero-sub">
-          {emperor.names.personal || "—"} · 在位 {emperor.reign.start}—{emperor.reign.end}
+          {personal || "—"} · {t("reign")} {reignText}
         </div>
-        <p className="hero-summary">{emperor.summary}</p>
-        {(emperor.tags || []).length > 0 && (
+        <p className="hero-summary">{summary}</p>
+        {tags.length > 0 && (
           <div className="hero-tags">
-            {(emperor.tags || []).map((t) => (
-              <span key={t} className="hero-tag">
-                {t}
+            {tags.map((tag) => (
+              <span key={tag} className="hero-tag">
+                {tag}
               </span>
             ))}
           </div>
         )}
         {emperor.illustration ? (
           <figure className="hero-illu">
-            <img src={`/${emperor.illustration}`} alt={`${emperor.names.display}插画（AI 艺术想象）`} />
+            <img src={`/${emperor.illustration}`} alt={t("hero.illuAlt", { name: display })} />
           </figure>
         ) : (
           <div className="hero-illu hero-illu-empty">
-            <span>{isStub ? "索引灰卡 · 待撰写" : "画像待补"}</span>
+            <span>{isStub ? t("hero.stubEmpty") : t("hero.noPortrait")}</span>
           </div>
         )}
       </section>
 
       {/* 六维品藻 */}
       <section className="m-section" id="m-radar">
-        <h2 className="m-h2">六维品藻</h2>
+        <h2 className="m-h2">{t("sec.radar")}</h2>
         {isStub ? (
-          <p className="m-empty">灰卡无品藻。</p>
+          <p className="m-empty">{t("radar.stub")}</p>
         ) : (
           <StandPlate axes={axes} profile={profile} />
         )}
@@ -69,16 +82,16 @@ export default function MemorialMain({
 
       {/* 事迹 */}
       <section className="m-section" id="m-bio">
-        <h2 className="m-h2">主要事迹</h2>
+        <h2 className="m-h2">{t("sec.bio")}</h2>
         <div className="m-bio">
-          {(emperor.bio_parts || []).map((part, i) => {
+          {bioParts.map((part, i) => {
             if (part.type === "text") {
               return <span key={i}>{part.value}</span>;
             }
             const exists = Boolean(byId[part.id]);
             if (!exists) {
               return (
-                <span key={i} title="页未建" className="bio-dead">
+                <span key={i} title={t("bio.dead")} className="bio-dead">
                   {part.label}
                 </span>
               );
@@ -94,37 +107,45 @@ export default function MemorialMain({
 
       {/* 年表 */}
       <section className="m-section" id="m-timeline">
-        <h2 className="m-h2">年表大事</h2>
+        <h2 className="m-h2">{t("sec.timeline")}</h2>
         {(emperor.timeline || []).length === 0 ? (
-          <p className="m-empty">暂无年表（stub 或未同步史料卡）。</p>
+          <p className="m-empty">{t("timeline.empty")}</p>
         ) : (
           <ul className="m-timeline">
             {(emperor.timeline || []).map((ev, i) => {
               const place = ev.place_id ? site.places[ev.place_id] : null;
               const clickable = Boolean(place);
+              const evDate = isEn ? (ev.date_note_en ?? ev.date_note) : ev.date_note;
+              const evTitle = isEn ? (ev.title_en ?? ev.title) : ev.title;
+              const evSummary = isEn ? (ev.summary_en ?? ev.summary) : ev.summary;
+              const placeName = place
+                ? isEn
+                  ? (place.names.english ?? place.names.historical)
+                  : place.names.historical
+                : "";
               return (
                 <li
                   key={i}
                   className={clickable ? "has-place" : ""}
                   onClick={() => ev.place_id && clickable && onSelectPlace(ev.place_id)}
-                  title={clickable ? "点击在地图中高亮" : undefined}
+                  title={clickable ? t("timeline.placeHint") : undefined}
                 >
                   <div className="tl-year">
-                    {ev.date_note || ev.year}
-                    {place ? ` · ${place.names.historical}` : ""}
+                    {evDate || ev.year}
+                    {place ? ` · ${placeName}` : ""}
                     {ev.card_id ? ` · ${ev.card_id}` : ""}
                   </div>
-                  <div className="tl-title">{ev.title}</div>
-                  <div className="tl-summary">{ev.summary}</div>
+                  <div className="tl-title">{evTitle}</div>
+                  <div className="tl-summary">{evSummary}</div>
                   {ev.related_person_ids && ev.related_person_ids.length > 0 && (
                     <div className="tl-summary">
-                      相关：
+                      {t("timeline.related")}
                       {ev.related_person_ids.map((rid, j) => {
-                        const t = byId[rid];
-                        return t ? (
+                        const t2 = byId[rid];
+                        return t2 ? (
                           <span key={rid}>
                             {j > 0 ? "、" : ""}
-                            <Link to={`/emperor/${rid}`}>{t.names.display}</Link>
+                            <Link to={`/emperor/${rid}`}>{nameOf(t2)}</Link>
                           </span>
                         ) : (
                           <span key={rid}>{rid}</span>
@@ -141,26 +162,26 @@ export default function MemorialMain({
 
       {/* 关联 */}
       <section className="m-section" id="m-relations">
-        <h2 className="m-h2">关联表</h2>
+        <h2 className="m-h2">{t("sec.relations")}</h2>
         {(emperor.relations || []).length === 0 ? (
-          <p className="m-empty">暂无关联。</p>
+          <p className="m-empty">{t("relations.empty")}</p>
         ) : (
           <table className="m-table">
             <thead>
               <tr>
-                <th>类型</th>
-                <th>人物</th>
-                <th>说明</th>
+                <th>{t("rel.type")}</th>
+                <th>{t("rel.person")}</th>
+                <th>{t("rel.note")}</th>
               </tr>
             </thead>
             <tbody>
               {(emperor.relations || []).map((r, i) => {
-                const t = r.target_id ? byId[r.target_id] : null;
+                const t2 = r.target_id ? byId[r.target_id] : null;
                 return (
                   <tr key={i}>
-                    <td>{REL_LABEL[r.type] || r.type}</td>
+                    <td>{relLabel(r.type, lang)}</td>
                     <td>
-                      {t ? <Link to={`/emperor/${t.id}`}>{t.names.display}</Link> : r.note || "（待建）"}
+                      {t2 ? <Link to={`/emperor/${t2.id}`}>{nameOf(t2)}</Link> : r.note || t("rel.pending")}
                     </td>
                     <td>{r.note || "—"}</td>
                   </tr>
@@ -173,9 +194,9 @@ export default function MemorialMain({
 
       {/* 出处 */}
       <section className="m-section" id="m-sources">
-        <h2 className="m-h2">史料出处</h2>
+        <h2 className="m-h2">{t("sec.sources")}</h2>
         {(emperor.sources || []).length === 0 ? (
-          <p className="m-empty">暂无出处。</p>
+          <p className="m-empty">{t("sources.empty")}</p>
         ) : (
           <ul className="m-sources">
             {(emperor.sources || []).map((s, i) => (

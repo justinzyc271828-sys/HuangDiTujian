@@ -7,6 +7,7 @@ import MemorialMain from "./MemorialMain";
 import MemorialMap from "./MemorialMap";
 import { useCollection } from "../hooks/useCollection";
 import { TOC_ITEMS } from "./memorialUtils";
+import { useLang } from "../i18n";
 
 type Props = {
   site: SiteData;
@@ -16,6 +17,7 @@ type Props = {
 };
 
 export default function MemorialSpread({ site, emperor, axes, profile }: Props) {
+  const { t } = useLang();
   const { markRead, toggleStar, starred, read } = useCollection();
   const [activeSection, setActiveSection] = useState<string>("m-hero");
   const [activePlaceId, setActivePlaceId] = useState<string | null>(null);
@@ -53,7 +55,7 @@ export default function MemorialSpread({ site, emperor, axes, profile }: Props) 
     <div className="memorial-spread" ref={rootRef}>
       <div className="spread-left">
         <Link to="/" className="spread-back">
-          ← 返回图鉴
+          {t("back")}
         </Link>
         <MemorialToc
           site={site}

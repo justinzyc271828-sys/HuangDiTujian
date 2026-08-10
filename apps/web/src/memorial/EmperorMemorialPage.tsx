@@ -5,6 +5,7 @@ import type { StandStatsFile } from "../standTypes";
 import MemorialCover from "./MemorialCover";
 import MemorialSpread from "./MemorialSpread";
 import { DIRECT_KEY } from "./memorialUtils";
+import { useLang } from "../i18n";
 import "./memorial.css";
 
 type Props = { site: SiteData };
@@ -12,6 +13,7 @@ type Props = { site: SiteData };
 type Phase = "cover" | "opening" | "spread";
 
 export default function EmperorMemorialPage({ site }: Props) {
+  const { lang, t } = useLang();
   const { id } = useParams();
   const [searchParams] = useSearchParams();
   const [stats, setStats] = useState<StandStatsFile | null>(null);
@@ -50,7 +52,9 @@ export default function EmperorMemorialPage({ site }: Props) {
     return (
       <div className="memorial-root">
         <div className="memorial-error">
-          未找到人物 <code>{id}</code>。<Link to="/">返回图鉴</Link>
+          {t("nf.title")} <code>{id}</code>
+          {lang === "en" ? "." : "。"}
+          <Link to="/">{t("backPlain")}</Link>
         </div>
       </div>
     );
@@ -67,7 +71,7 @@ export default function EmperorMemorialPage({ site }: Props) {
           <div className="cover-half half-left" aria-hidden="true" />
           <div className="cover-half half-right" aria-hidden="true" />
           <Link to="/" className="cover-back">
-            ← 返回图鉴
+            {t("back")}
           </Link>
           <MemorialCover
             emperor={emperor}

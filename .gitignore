@@ -26,7 +26,14 @@ HuangDiTujian-Ref/**
 apps/web/node_modules/
 apps/web/dist/
 
+# 视频交付素材包（内容为仓库已有素材的复制/派生，可由 tools/build_video01_media_pack.py 重新生成）
+video-01-素材包/
+
 # Python
 __pycache__/
 *.py[cod]
 
+
+
+# 简繁转换冒烟测试的打包产物（源文件 trad_smoke.ts 与 OpenCC 词典入库）
+tools/_tmp/*.cjs

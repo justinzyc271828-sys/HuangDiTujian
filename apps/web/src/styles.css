@@ -542,3 +542,66 @@ a:hover {
   margin-top: 1rem;
   background: #f7f0e2;
 }
+
+/* 右上角浮动工具组：语言切换 + 背景音乐，玄底描金小丸 */
+.corner-stack {
+  position: fixed;
+  top: 0.9rem;
+  right: 0.9rem;
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.45rem;
+}
+
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.22rem 0.6rem;
+  background: rgba(30, 23, 18, 0.92);
+  border: 1px solid #b08d4a;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+}
+
+.lang-switch button {
+  background: none;
+  border: none;
+  padding: 0.05rem 0.15rem;
+  color: #8f8064;
+  font: inherit;
+  cursor: pointer;
+}
+
+.lang-switch button:hover {
+  color: #e6d9bd;
+}
+
+.lang-switch button.on {
+  color: #d4af6a;
+  font-weight: 700;
+}
+
+.lang-switch .lang-sep {
+  color: #6b5c42;
+}
+
+/* 背景音乐开关：播放中描金 ♪，关闭态暗色 + 斜线 */
+.music-switch {
+  padding: 0.22rem 0.55rem;
+}
+
+.music-switch .music-ico {
+  font-size: 0.85rem;
+  line-height: 1;
+}
+
+.music-switch button.off .music-ico {
+  text-decoration: line-through;
+  opacity: 0.6;
+}

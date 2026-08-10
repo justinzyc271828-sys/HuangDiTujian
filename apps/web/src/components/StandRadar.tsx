@@ -1,4 +1,5 @@
 import type { StandAxis, StandScores } from "../standTypes";
+import { axisLabel, useLang } from "../i18n";
 
 type Props = {
   axes: StandAxis[];
@@ -28,6 +29,7 @@ export default function StandRadar({
   showGrades = true,
   grades = ["E", "D", "C", "B", "A", "A+"],
 }: Props) {
+  const { lang, t } = useLang();
   const n = axes.length;
   const cx = size / 2;
   const cy = size / 2;
@@ -54,7 +56,7 @@ export default function StandRadar({
       viewBox={`0 0 ${size} ${size}`}
       className="stand-radar"
       role="img"
-      aria-label="六维能力图"
+      aria-label={t("radar.aria")}
     >
       {rings.map((poly, i) => (
         <polygon
@@ -103,7 +105,7 @@ export default function StandRadar({
               fontSize={12}
               fontWeight={700}
             >
-              {ax.label}
+              {lang === "hans" ? ax.label : axisLabel(ax.key, lang)}
             </text>
             <text
               x={p.x}

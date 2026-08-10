@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import { Link } from "react-router-dom";
 import type { Emperor, SiteData } from "../types";
 import { STUB_DISABLED, TOC_ITEMS } from "./memorialUtils";
+import { dynastyLabel, useLang } from "../i18n";
 
 type Props = {
   site: SiteData;
@@ -24,6 +25,9 @@ export default function MemorialToc({
   activeSection,
   onToggleStar,
 }: Props) {
+  const { lang, t } = useLang();
+  const nameOf = (e: Emperor) =>
+    lang === "en" ? (e.names.display_en ?? e.names.display) : e.names.display;
   const jump = (id: string) => {
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
   };
@@ -38,18 +42,18 @@ export default function MemorialToc({
   }, [site.emperors, emperor.dynasty.id]);
 
   return (
-    <nav className="memorial-toc" aria-label="奏折目录">
+    <nav className="memorial-toc" aria-label={t("toc.aria")}>
       <div className="toc-identity">
-        <div className="toc-display">{emperor.names.display}</div>
+        <div className="toc-display">{nameOf(emperor)}</div>
         <div className="toc-meta">
           {emperor.names.personal || "—"}
           <br />
-          在位 {emperor.reign.start}—{emperor.reign.end}
+          {t("reign")} {emperor.reign.start}—{emperor.reign.end}
         </div>
         <div className="toc-flags">
-          {isQuasi && <span className="flag flag-quasi">准</span>}
+          {isQuasi && <span className="flag flag-quasi">{t("flag.quasi")}</span>}
           {isStub && <span className="flag flag-stub">stub</span>}
-          {isRead && <span className="flag flag-read">已读</span>}
+          {isRead && <span className="flag flag-read">{t("flag.read")}</span>}
         </div>
       </div>
 
@@ -64,7 +68,7 @@ export default function MemorialToc({
                 disabled={disabled}
                 onClick={() => jump(item.id)}
               >
-                {item.label}
+                {t(`toc.${item.id}`)}
               </button>
             </li>
           );
@@ -76,11 +80,13 @@ export default function MemorialToc({
         className={`toc-star ${isStar ? "on" : ""}`}
         onClick={onToggleStar}
       >
-        {isStar ? "★ 已收藏" : "☆ 收藏"}
+        {isStar ? t("toc.starred") : t("toc.star")}
       </button>
 
       <div className="toc-index">
-        <div className="toc-index-title">图鉴索引 · {emperor.dynasty.label}</div>
+        <div className="toc-index-title">
+          {t("toc.index")} · {dynastyLabel(emperor.dynasty.label, lang)}
+        </div>
         <ul className="toc-index-list">
           {siblings.map((s) => {
             const current = s.id === emperor.id;
@@ -88,19 +94,19 @@ export default function MemorialToc({
               <li key={s.id}>
                 {current ? (
                   <span className="idx-current">
-                    {s.names.display}
+                    {nameOf(s)}
                     <em>
                       {s.reign.start}—{s.reign.end}
                     </em>
                   </span>
                 ) : (
                   <Link className="idx-link" to={`/emperor/${s.id}`}>
-                    {s.names.display}
+                    {nameOf(s)}
                     <em>
                       {s.reign.start}—{s.reign.end}
                     </em>
                     {(s.page_status === "stub" || !s.page_status) && (
-                      <i className="idx-stub">灰</i>
+                      <i className="idx-stub">{t("toc.stub")}</i>
                     )}
                   </Link>
                 )}
@@ -109,7 +115,7 @@ export default function MemorialToc({
           })}
         </ul>
         <Link to="/" className="idx-all">
-          全部图鉴 →
+          {t("toc.all")}
         </Link>
       </div>
     </nav>
