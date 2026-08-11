@@ -2,6 +2,7 @@
 """轻量校验：id 唯一、引用存在、画像路径声明（不强制文件存在于 draft）。"""
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
@@ -16,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 EMP_DIR = ROOT / "data" / "emperors"
 PLACE_DIR = ROOT / "data" / "places"
 BIO_DIR = ROOT / "content" / "bios"
+MASTER = ROOT / "data" / "catalog" / "emperors_master.json"
 LINK_RE = re.compile(r"\[\[([a-z0-9-]+)(?:\|[^\]]+)?\]\]")
 
 
@@ -51,6 +53,16 @@ def main() -> int:
             errors.append(f"place {path.name}: id 与文件名不一致")
         places.add(data["id"])
 
+    # 全库目录 id（含未升格 stub）：关联/链接允许指向灰卡页，
+    # 图鉴 269 张卡都是合法路由，升格推进期间关联图不对称是常态
+    catalog_ids: set[str] = set()
+    if MASTER.is_file():
+        master = json.loads(MASTER.read_text(encoding="utf-8"))
+        catalog_ids = {e["id"] for e in master.get("emperors", []) if "id" in e}
+
+    def known_person(target: str) -> bool:
+        return target in emperors or target in catalog_ids
+
     for eid, data in emperors.items():
         tier = data.get("tier")
         if tier in ("quasi", "honorary") and not (data.get("meta") or {}).get(
@@ -60,7 +72,7 @@ def main() -> int:
 
         for rel in data.get("relations") or []:
             tid = rel.get("target_id")
-            if tid and tid not in emperors:
+            if tid and not known_person(tid):
                 errors.append(f"{eid}: relation 目标不存在: {tid}")
 
         for ev in data.get("timeline") or []:
@@ -68,7 +80,7 @@ def main() -> int:
             if pid and pid not in places:
                 errors.append(f"{eid}: timeline place 不存在: {pid}")
             for rid in ev.get("related_person_ids") or []:
-                if rid not in emperors:
+                if not known_person(rid):
                     errors.append(f"{eid}: timeline 关联人物不存在: {rid}")
 
         for rt in data.get("routes") or []:
@@ -88,7 +100,7 @@ def main() -> int:
         if bio.get("inline"):
             text += "\n" + bio["inline"]
         for link in LINK_RE.findall(text):
-            if link not in emperors:
+            if not known_person(link):
                 errors.append(f"{eid}: bio 坏链 [[{link}]]")
 
         status = (data.get("meta") or {}).get("status", "draft")
