@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: h-zhao-shi-hu
+ORDER: 114
+PERSONAL_NAME_ZH: 石虎
+DISPLAY_ZH: 后赵武帝
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S125-EYE-SIDE-MCU-SHADOWTHRONE
+COLOR_CODE: C125-PURGECOURT-CRIMSON-SMOKE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\114-h-zhao-shi-hu.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+a broad brutal East Asian man in his forties, Later Zhao emperor Shi Hu type: heavy jaw, small fierce eyes, thick black beard, massive build; COSTUME: dark red Zhao court robe with leather inner armor, dark cap, the dress of a warlord seated in a palace; ACCESSORIES: one hand resting on a ceremonial axe, the other gripping the armrest.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when Emperor Shi Hu, alone in the great hall after ordering the removal of his predecessor's family, watches the shadows of the guards move across the far wall, the sentence still being carried out beyond the doors.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S125-EYE-SIDE-MCU-SHADOWTHRONE
+- Elevation and pitch: eye level from the far end of the hall, through the ranked empty mats.
+- Subject azimuth and orientation: right-side three-quarter view of the seated emperor; the face turned toward the far wall, about half readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the axe; he occupies about sixty-eight percent of frame height.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is a court eunuch waiting at the hall door, the man who must pretend he has heard nothing.
+
+EVENT MOTION THROUGH THE FRAME:
+the guard shadows slide across the far wall while the emperor remains motionless in the foreground.
+
+EXTREME FOREGROUND DESIGN:
+the ceremonial axe edge and the armrest.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C125-PURGECOURT-CRIMSON-SMOKE-G0
+- Dominant palette: purge court gray, crimson robe, smoke black, dark bronze and one cold light shaft.
+- Gold allocation: G0 no gold leaf; the axe is plain dark bronze.
+- Lighting logic: one cold shaft of light across the hall, the rest in shadow.
+- Surface rhythm: polished floor reflections, dry-brush robe folds and sliding shadow bands.
+
+HISTORICAL EVENT ENVIRONMENT:
+the great hall of Ye: empty mats, dark columns, one light shaft, moving guard shadows on the far wall, the seated emperor.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of a throne built on the silence of halls: the ruler alone with the shadows he has ordered.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\114-h-zhao-shi-hu.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

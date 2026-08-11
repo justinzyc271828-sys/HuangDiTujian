@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: liao-jing-zong
+ORDER: 212
+PERSONAL_NAME_ZH: 耶律贤
+DISPLAY_ZH: 辽景宗
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S213-KNEE-FRONT3Q-MS-PALACETABLE
+COLOR_CODE: C213-PALACETABLE-IRONBLUE-CINNABAR-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\212-liao-jing-zong.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+an East Asian man in his early thirties, Liao emperor Jingzong Yelv Xian type: composed grave face, short beard, sickly but steady posture; COSTUME: dark Khitan court robe with fur collar, dark cap; ACCESSORIES: both hands resting on the council table beside the empress's position.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when Emperor Jingzong, at the council table shared with the empress, watches the report of the northern victory arrive and the report has not yet been opened.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S213-KNEE-FRONT3Q-MS-PALACETABLE
+- Elevation and pitch: knee height from the council side, looking across at the seated emperor.
+- Subject azimuth and orientation: front-left three-quarter view; the face turned toward the report, about seventy percent readable.
+- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is a palace secretary standing at the council edge, watching the ailing emperor govern through his empress's hands.
+
+EVENT MOTION THROUGH THE FRAME:
+the arriving report and the emperor's still hands face each other across the table.
+
+EXTREME FOREGROUND DESIGN:
+the report edge and one council paper.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C213-PALACETABLE-IRONBLUE-CINNABAR-G0
+- Dominant palette: palace table iron blue, cinnabar trim, report pale, dark robe and dim council light.
+- Gold allocation: G0 no gold leaf; everything is cloth and paper.
+- Lighting logic: dim even council light, steady and close.
+- Surface rhythm: table grain, dry-brush report edges and paper stacks.
+
+HISTORICAL EVENT ENVIRONMENT:
+the council chamber of the Liao palace: the emperor, the shared table, papers, lamps, dim light.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of the joint reign that saved the dynasty: the sick emperor and the empress at one table, the realm governed between them.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\212-liao-jing-zong.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

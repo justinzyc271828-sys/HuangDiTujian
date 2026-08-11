@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: yuan-tai-zong
+ORDER: 227
+PERSONAL_NAME_ZH: 窝阔台
+DISPLAY_ZH: 元太宗
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S228-HIGH-DOWN-FRONT3Q-MWS-CONQUESTMAP
+COLOR_CODE: C228-CONQUESTMAP-EARTH-BRONZE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\227-yuan-tai-zong.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+an East Asian man in his early forties, Yuan emperor Taizong Ogedei type: broad composed face, dark beard, generous commanding build; COSTUME: dark Mongol court robe with fur collar over inner armor, dark fur-trimmed cap; ACCESSORIES: one hand resting on the map of the campaigns, the other on the armrest.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when Emperor Taizong, at the campaign council, lays his hand on the map of the final conquest and the report of the fall has not yet arrived.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S228-HIGH-DOWN-FRONT3Q-MWS-CONQUESTMAP
+- Elevation and pitch: high, looking down about twenty degrees from the tent rear onto the map table.
+- Subject azimuth and orientation: front-left three-quarter view of the seated emperor; the face turned down toward the map, readable.
+- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is a Mongol officer standing at the map side, watching the khan complete the conquest his father began.
+
+EVENT MOTION THROUGH THE FRAME:
+the hand on the map and the tent wind face each other across the table.
+
+EXTREME FOREGROUND DESIGN:
+the map edge and one officer's shoulder.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C228-CONQUESTMAP-EARTH-BRONZE-G0
+- Dominant palette: conquest map earth, bronze fittings dark, fur white, leather brown and tent daylight.
+- Gold allocation: G0 no gold leaf; fittings are dark bronze and leather.
+- Lighting logic: clear tent daylight, hard on the map.
+- Surface rhythm: map fiber, dry-brush ink lines and tent canvas grain.
+
+HISTORICAL EVENT ENVIRONMENT:
+the campaign council tent: map table, the seated emperor, officers, rolled charts, tent walls.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of the succession fulfilled: the heir's hand on the map of the conquest that closed his father's war.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\227-yuan-tai-zong.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

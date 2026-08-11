@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: shu-houzhu
+ORDER: 40
+PERSONAL_NAME_ZH: 刘禅
+DISPLAY_ZH: 蜀后主
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S055-HIGH-DOWN-FRONT-MWS-PLEASUREBANQUET
+COLOR_CODE: C055-BANQUETVIOLET-MUSICCOLOR-CLOAKBLUE-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\040-shu-houzhu.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+a plump round-faced East Asian man of fifty-eight, Shu Han emperor Houzhu Liu Shan type: genial relaxed face, small beard, soft posture; COSTUME: plain dark blue Shu robe with red collar, soft cap, no crown, the dress of a guest of the Wei court; ACCESSORIES: one hand holding a wine cup raised toward the musicians, the other resting on the mat.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when the former Shu emperor, at the banquet in Luoyang, raises his cup toward the Wei musicians and answers that he is quite content here, before the courtiers' laughter has begun.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S055-HIGH-DOWN-FRONT-MWS-PLEASUREBANQUET
+- Elevation and pitch: high, looking down about twenty-five degrees over the banquet from the doorway side.
+- Subject azimuth and orientation: near-frontal view of the seated former emperor; the face raised toward the music, readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; Liu Shan occupies about fifty percent of frame height with the musicians at the lower edge.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is a Shu former official seated at the far end of the banquet, watching his old sovereign laugh in the enemy court.
+
+EVENT MOTION THROUGH THE FRAME:
+the raised cup and the dancers' turning skirts move in a slow circle around the seated figure.
+
+EXTREME FOREGROUND DESIGN:
+two musician backs, a zither edge and a dancer's sleeve.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C055-BANQUETVIOLET-MUSICCOLOR-CLOAKBLUE-G0
+- Dominant palette: banquet violet, dancer costume colors, cloak blue, candle amber, dark Wei official robes at the edges.
+- Gold allocation: G0 no gold leaf; cups are plain bronze.
+- Lighting logic: warm banquet candlelight from the center, dimmer toward the official rows.
+- Surface rhythm: woven mat grain, dry-brush sleeve edges and candle-warm haze.
+
+HISTORICAL EVENT ENVIRONMENT:
+a Wei court banquet hall: musician rows, dancers, low tables, Wei officials at the edges, candles, one seated former emperor in blue.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of survival bought with dignity's surrender: laughter in the enemy hall, the kingdom already a song.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\040-shu-houzhu.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

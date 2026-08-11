@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: w-wei-fei
+ORDER: 98
+PERSONAL_NAME_ZH: 元钦
+DISPLAY_ZH: 废帝
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE
+COLOR_CODE: C110-BROKENSTRIKE-GRAY-EDICT-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\098-w-wei-fei.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+an East Asian man in his late twenties, Western Wei deposed emperor Yuan Qin type: grim young face, short beard, tense posture; COSTUME: dark robe with loosened collar, no cap, hair bound plainly; ACCESSORIES: one hand resting on a short sword laid on the table, the other clenched.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when the young emperor, in the private chamber where the plot against the general was discussed, hears the guards' steps at the door and the sword has not yet been touched.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE
+- Elevation and pitch: high, looking down about twenty degrees from the chamber door onto the seated figure.
+- Subject azimuth and orientation: right-side view of the seated emperor; the face turned toward the door, the profile readable.
+- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is the chamber eunuch holding the inner door, the man who will open it to the guards.
+
+EVENT MOTION THROUGH THE FRAME:
+the footsteps at the door and the untouched sword hold a frozen moment of recognition.
+
+EXTREME FOREGROUND DESIGN:
+the table edge and the sword hilt.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C110-BROKENSTRIKE-GRAY-EDICT-G0
+- Dominant palette: broken strike gray, edict pale, dark robe, iron dark and dim chamber light.
+- Gold allocation: G0 no gold leaf; the sword is plain iron.
+- Lighting logic: dim chamber light, one lamp near the door.
+- Surface rhythm: dark wood grain, dry-brush robe folds and long shadows.
+
+HISTORICAL EVENT ENVIRONMENT:
+a private chamber of the western court: table, the sword, the seated emperor, the door, dim light.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of a strike that never left the table: the young emperor's last plan, measured against the guards' steps.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\098-w-wei-fei.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.

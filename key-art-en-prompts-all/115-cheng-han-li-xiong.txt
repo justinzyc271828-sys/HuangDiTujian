@@ -1,0 +1,70 @@
+PROMPT_VERSION: 2.3-camera-palette-identity-physics
+ID: cheng-han-li-xiong
+ORDER: 115
+PERSONAL_NAME_ZH: 李雄
+DISPLAY_ZH: 成汉太宗
+STATUS: DRAFT-PENDING-REVIEW
+SHOT_CODE: S126-KNEE-SIDE-MWS-OPENCOURT
+COLOR_CODE: C126-SHUPEACE-JADE-WOOD-G0
+OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\115-cheng-han-li-xiong.png
+PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
+SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
+
+=== POSITIVE PROMPT (copy verbatim) ===
+
+Use case: historical-scene
+Asset type: 16:9 emperor montage key art
+Reference image 1: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png — primary series anchor for mineral mural material, adult manga rendering, character dominance and event participation only. Do not copy its camera composition, gold density or Qin-specific props.
+Reference image 2: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png — secondary anchor only for ink force, flying-white brush texture and motion flow.
+
+LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult character design; do not lock the camera, palette distribution or Qin-specific objects:
+an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
+
+SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
+a plain-mannered East Asian man in his late fifties, Cheng Han emperor Li Xiong type: weathered kind face, gray-streaked beard, simple dignified posture; COSTUME: plain dark brown Cheng Han ruler's robe with leather belt, simple cloth cap, deliberately unostentatious; ACCESSORIES: both hands resting on the low wooden rail before him.
+
+SIGNATURE FREEZE MOMENT:
+Freeze the instant when Emperor Li Xiong, seated on the open court platform of Chengdu, hears the common people's petition read aloud and the first petitioner has not yet finished speaking.
+
+CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
+- Shot code: S126-KNEE-SIDE-MWS-OPENCOURT
+- Elevation and pitch: knee height from the court yard, looking slightly upward across the open space.
+- Subject azimuth and orientation: right-side three-quarter view of the seated emperor; the face turned toward the petitioners, about sixty percent readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height with the open yard before him.
+- Camera roll: level horizon.
+
+AUDIENCE PARTICIPATION MODE:
+the viewer is one of the Shu commoners standing in the open yard, watching an emperor who receives petitions without walls.
+
+EVENT MOTION THROUGH THE FRAME:
+the petition scroll and the petitioners' hands travel forward toward the platform while the emperor leans in.
+
+EXTREME FOREGROUND DESIGN:
+two commoner shoulders and the wooden rail.
+
+COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
+- Color code: C126-SHUPEACE-JADE-WOOD-G0
+- Dominant palette: Shu peace green, jade pale, wood brown, plain cloth gray and soft southern light.
+- Gold allocation: G0 no gold leaf; the rail is plain wood.
+- Lighting logic: soft warm southern daylight, open and kind.
+- Surface rhythm: wood grain, dry-brush cloth folds and leaf shadows.
+
+HISTORICAL EVENT ENVIRONMENT:
+the open court of Chengdu: low platform, wooden rail, common petitioners, simple banners, Shu hills beyond.
+
+CHARACTER-SPECIFIC ACCENT:
+Use the emotional implication of gentleness as statecraft: an open yard, an old ruler, and a kingdom that lasted by being kind.
+
+COMPOSITION AND DELIVERY:
+Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
+
+AVOID:
+static atlas portrait, museum-display pose, repeated centered frontal emperor, repeated low-angle hero shot, repeated table-edge composition, automatic hand-or-prop thrust at the camera unless explicitly assigned, universal black-and-gold treatment, gold dust scattered uniformly over the entire frame, excessive gold leaf above the assigned budget, generic dragon, generic throne, generic palace grandeur used as identity, photoreal skin, live-action cinematic realism, glossy 3D CGI, smooth generic AI-anime polish, cute or chibi styling, idol face, plastic costume, modern objects, European armor, Japanese samurai armor, readable text, letters, Chinese characters, pseudo-writing, logo, watermark, interface, radar chart, infographic, multiple competing focal characters, cropped crown, deformed hands, extra fingers, graphic gore, dismemberment, open-wound close-ups, blood spray or pooled blood.
+
+
+=== SAVE CONTRACT ===
+
+Save one final PNG exactly to:
+D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\115-cheng-han-li-xiong.png
+
+Do not save the final image anywhere else. Do not overwrite an existing output. Generate at 16:9, visually compare against both anchors, and complete the thirteen-point QA in MASTER-VISUAL-GRAMMAR.md before moving to the next emperor.
