@@ -1,0 +1,259 @@
+id: e-han-huan
+tier: emperor
+sort_key: 东汉-011
+names:
+  display: 汉桓帝
+  display_en: Emperor Huan of Han
+  personal: 刘志
+  personal_en: Liu Zhi
+  temple: 威宗
+  posthumous: 孝桓皇帝
+  aliases:
+  - 桓帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 11
+reign:
+  start: '146'
+  end: '168'
+  eras:
+  - 建和
+  - 和平
+  - 元嘉
+  - 永兴
+  - 永寿
+  - 延熹
+  - 永康
+life:
+  birth: '132'
+  death: '168'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 梁冀所立，十五岁即位；延熹二年与宦官诛梁冀，宦官五侯擅政，党锢之祸起于此朝。
+summary_en: Raised by Liang Ji, enthroned at fifteen; in Yanxi 2 he destroyed Liang Ji with the eunuchs, the Five Marquises dominated, and the proscription of partisans began in his reign.
+tags:
+- 诛梁冀
+- 五侯
+- 党锢
+- 宦官擅政
+tags_en:
+- Liang Ji Destroyed
+- The Five Marquises
+- The Proscription
+- Eunuch Power
+portrait:
+  primary: assets/portraits/e-han-huan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写桓帝形貌。画像宜表现中年君主之态，衣冠从东汉中期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-huan.md
+timeline:
+- year: '132'
+  date_note: 阳嘉元年
+  date_note_en: Yangjia 1
+  title: 生
+  title_en: Birth
+  summary: 蠡吾侯翼之子。
+  summary_en: A son of the marquis Yi of Liwu.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E001
+- year: '146'
+  date_note: 本初元年
+  date_note_en: Benchu 1
+  title: 即位
+  title_en: Accession
+  summary: 梁冀立，年十五。
+  summary_en: Liang Ji raised him to the throne at fifteen.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E002
+- year: '147'
+  date_note: 建和元年
+  date_note_en: Jianhe 1
+  title: 立梁后
+  title_en: Empress Liang Enthroned
+  summary: 梁冀妹为后。
+  summary_en: Liang Ji's sister was made empress.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E003
+- year: '159'
+  date_note: 延熹二年
+  date_note_en: Yanxi 2
+  title: 诛梁冀
+  title_en: Liang Ji Destroyed
+  summary: 与宦官单超等五人定计诛梁冀。
+  summary_en: He plotted with the eunuchs Shan Chao and four others to destroy Liang Ji.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  - 后汉书·梁冀传
+  card_id: E005
+- year: '159'
+  date_note: 延熹二年
+  date_note_en: Yanxi 2
+  title: 封五侯
+  title_en: The Five Marquises
+  summary: 单超等五宦官同日封侯。
+  summary_en: Shan Chao and four other eunuchs were enfeoffed the same day.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·宦者传
+  - 后汉书·卷007·桓帝纪
+  card_id: E004
+- year: '161'
+  date_note: 延熹四年
+  date_note_en: Yanxi 4
+  title: 减公卿以下奉
+  title_en: Salaries Cut
+  summary: 财用不足，减公卿以下俸。
+  summary_en: With the treasury short, salaries from the Three Excellencies down were reduced.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E006
+- year: '163'
+  date_note: 延熹六年
+  date_note_en: Yanxi 6
+  title: 陇西等羌
+  title_en: The Qiang at Longxi
+  summary: 羌乱再起。
+  summary_en: Qiang disturbances flared again.
+  place_id: long-xi
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E007
+- year: '165'
+  date_note: 延熹八年
+  date_note_en: Yanxi 8
+  title: 废邓后
+  title_en: Empress Deng Set Aside
+  summary: 邓后废，窦氏将立。
+  summary_en: Empress Deng was deposed; the Dou were about to rise.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  card_id: E008
+- year: '166'
+  date_note: 延熹九年
+  date_note_en: Yanxi 9
+  title: 第一次党锢
+  title_en: The First Proscription
+  summary: 李膺等下狱，党锢之祸起。
+  summary_en: Li Ying and others were imprisoned; the proscription of partisans began.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  - 后汉书·党锢列传
+  card_id: E009
+- year: '167'
+  date_note: 永康元年
+  date_note_en: Yongkang 1
+  title: 赦党人归田里
+  title_en: The Partisans Released
+  summary: 赦党人归田里，然禁锢终身。
+  summary_en: The partisans were pardoned and sent home, but barred from office for life.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷007·桓帝纪
+  - 后汉书·党锢列传
+  card_id: E010
+- year: '168'
+  date_note: 永康元年十二月
+  date_note_en: Yongkang 1, 12th month
+  title: 桓帝崩
+  title_en: Death of Emperor Huan
+  summary: 崩，灵帝立。
+  summary_en: He died; Emperor Ling succeeded.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-ling
+  sources:
+  - 后汉书·卷007·桓帝纪
+  - 后汉书·卷008·灵帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-zhi
+  note: 质帝被鸩，梁冀迎立桓帝
+- type: successor
+  target_id: e-han-ling
+  note: 桓帝崩无嗣，窦武迎立灵帝
+routes:
+- group: 都城
+  order: 1
+  year: '146'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '147'
+  place_id: luoyang
+  event: 立梁后
+- group: 都城
+  order: 3
+  year: '159'
+  place_id: luoyang
+  event: 诛梁冀
+- group: 都城
+  order: 4
+  year: '159'
+  place_id: luoyang
+  event: 封五侯
+- group: 都城
+  order: 5
+  year: '161'
+  place_id: luoyang
+  event: 减公卿以下奉
+- group: 都城
+  order: 6
+  year: '165'
+  place_id: luoyang
+  event: 废邓后
+- group: 都城
+  order: 7
+  year: '166'
+  place_id: luoyang
+  event: 第一次党锢
+- group: 都城
+  order: 8
+  year: '167'
+  place_id: luoyang
+  event: 赦党人归田里
+- group: 都城
+  order: 9
+  year: '168'
+  place_id: luoyang
+  event: 桓帝崩
+sources:
+- title: 后汉书·桓帝纪
+  note: 主叙事
+- title: 后汉书·梁冀传 / 宦者传 / 党锢列传
+  note: 诛冀、五侯与党锢
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第十一帝，正史立纪；党锢之祸的开端人物。
+  synced_from_cards: true

@@ -1,0 +1,246 @@
+id: han-yuan-di
+tier: emperor
+sort_key: 汉-011
+names:
+  display: 汉元帝
+  display_en: Emperor Yuan of Han
+  personal: 刘奭
+  personal_en: Liu Shi
+  temple: null
+  posthumous: 孝元皇帝
+  aliases:
+  - 元帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 11
+reign:
+  start: '-49'
+  end: '-33'
+  eras:
+  - 初元
+  - 永光
+  - 建昭
+  - 竟宁
+life:
+  birth: null
+  death: '-33'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宣帝太子，柔仁好儒而优游不断；石显弄权、昭君出塞，西汉由盛转衰之节点。
+summary_en: Heir of Emperor Xuan, gentle and fond of Confucian learning yet irresolute; with Shi Xian wielding power and Wang Zhaojun sent to the Xiongnu, his reign marks the hinge of Western Han's decline.
+tags:
+- 柔仁
+- 好儒
+- 石显弄权
+- 昭君出塞
+tags_en:
+- Gentleness
+- Confucian Learning
+- Shi Xian's Power
+- Zhaojun to the Xiongnu
+portrait:
+  primary: assets/portraits/han-yuan-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《汉书》未系统描写元帝形貌。画像宜表现优柔儒雅的中年君主之态，衣冠从西汉中后期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-yuan-di.md
+timeline:
+- year: '-74'
+  date_note: 地节中
+  date_note_en: Dijie era
+  title: 为太子
+  title_en: Heir Apparent
+  summary: 宣帝子，立为太子。
+  summary_en: A son of Emperor Xuan, he was made heir apparent.
+  place_id: chang-an
+  related_person_ids:
+  - han-xuan-di
+  sources:
+  - 汉书·卷009·元帝纪
+  card_id: E001
+- year: '-49'
+  date_note: 黄龙元年
+  date_note_en: Huanglong 1
+  title: 即位
+  title_en: Accession
+  summary: 宣帝崩，奭即位。
+  summary_en: Emperor Xuan died; Shi succeeded.
+  place_id: chang-an
+  related_person_ids:
+  - han-xuan-di
+  sources:
+  - 汉书·卷009·元帝纪
+  card_id: E002
+- year: '-48'
+  date_note: 初元元年
+  date_note_en: Chuyuan 1
+  title: 以贡禹等
+  title_en: Summoning Gong Yu and Others
+  summary: 征用儒生，言礼制。
+  summary_en: He summoned Confucian scholars and heard arguments on rites.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  - 汉书·贡禹传
+  card_id: E003
+- year: '-46'
+  date_note: 初元三年
+  date_note_en: Chuyuan 3
+  title: 罢甘泉建章宫卫等议
+  title_en: Trimming Palace Establishments
+  summary: 议减宫廷用度。
+  summary_en: Cuts to palace establishments were debated.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  card_id: E004
+- year: '-44'
+  date_note: 永光元年
+  date_note_en: Yongguang 1
+  title: 丞相于定国等
+  title_en: A New Chancellorship
+  summary: 中枢人事更迭。
+  summary_en: Changes at the center of government.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  card_id: E005
+- year: '-42'
+  date_note: 永光二年
+  date_note_en: Yongguang 2
+  title: 陇西羌反
+  title_en: Qiang Revolt in Longxi
+  summary: 陇西羌反，冯奉世等击之。
+  summary_en: The Qiang rose in Longxi; Feng Fengshi and others campaigned against them.
+  place_id: long-xi
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  - 汉书·冯奉世传
+  card_id: E006
+- year: '-40'
+  date_note: 建昭前
+  date_note_en: before Jianzhao
+  title: 石显用事
+  title_en: Shi Xian in Power
+  summary: 中书令石显等弄权。
+  summary_en: Shi Xian, chief of the Inner Secretariat, and his ilk wielded power.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·佞幸传
+  - 汉书·卷009·元帝纪
+  card_id: E007
+- year: '-36'
+  date_note: 建昭三年
+  date_note_en: Jianzhao 3
+  title: 陈汤斩郅支
+  title_en: Chen Tang Slays Zhizhi
+  summary: 甘延寿、陈汤斩郅支单于于康居。
+  summary_en: Gan Yanshou and Chen Tang slew the Zhizhi chanyu in Kangju.
+  place_id: kang-ju
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  - 汉书·陈汤传
+  card_id: E008
+- year: '-33'
+  date_note: 竟宁元年
+  date_note_en: Jingning 1
+  title: 呼韩邪入朝请婚
+  title_en: Huhanye Asks for a Bride
+  summary: 呼韩邪单于入朝请婚，赐王昭君和亲。
+  summary_en: The Huhanye chanyu came to court seeking a bride; Wang Zhaojun was granted in marriage.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷009·元帝纪
+  - 汉书·匈奴传
+  card_id: E009
+- year: '-33'
+  date_note: 竟宁元年五月
+  date_note_en: Jingning 1, 5th month
+  title: 元帝崩
+  title_en: Death of Emperor Yuan
+  summary: 崩，成帝即位。
+  summary_en: He died; Emperor Cheng succeeded.
+  place_id: chang-an
+  related_person_ids:
+  - han-cheng-di
+  sources:
+  - 汉书·卷009·元帝纪
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: han-xuan-di
+  note: 宣帝崩，太子奭即位
+- type: successor
+  target_id: han-cheng-di
+  note: 元帝崩，太子骜即位
+- type: related_emperor
+  target_id: han-wu-di
+  note: 武帝开边与元帝守文转衰，长线对照
+routes:
+- group: 都城
+  order: 1
+  year: '-74'
+  place_id: chang-an
+  event: 为太子
+- group: 都城
+  order: 2
+  year: '-49'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 3
+  year: '-48'
+  place_id: chang-an
+  event: 以贡禹等
+- group: 其他
+  order: 4
+  year: '-42'
+  place_id: long-xi
+  event: 陇西羌反
+- group: 都城
+  order: 5
+  year: '-40'
+  place_id: chang-an
+  event: 石显用事
+- group: 其他
+  order: 6
+  year: '-36'
+  place_id: kang-ju
+  event: 陈汤斩郅支
+- group: 都城
+  order: 7
+  year: '-33'
+  place_id: chang-an
+  event: 呼韩邪入朝请婚
+- group: 都城
+  order: 8
+  year: '-33'
+  place_id: chang-an
+  event: 元帝崩
+sources:
+- title: 汉书·元帝纪
+  note: 主叙事
+- title: 汉书·贡禹传 / 冯奉世传 / 陈汤传 / 佞幸传
+  note: 各事互见
+- title: 汉书·匈奴传
+  note: 呼韩邪与昭君
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西汉第十一帝，正史立纪；西汉转衰节点人物。
+  synced_from_cards: true

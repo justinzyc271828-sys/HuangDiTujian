@@ -1,0 +1,12 @@
+id: qing-he
+names:
+  historical: 清河
+  modern: 河北省清河县一带
+  english: Qinghe
+coords:
+  lng: 115.7
+  lat: 37.0
+  precision: schematic
+map:
+  region: 河北
+notes: 汉清河国，安帝之父清河孝王封地

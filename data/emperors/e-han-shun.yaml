@@ -1,0 +1,260 @@
+id: e-han-shun
+tier: emperor
+sort_key: 东汉-008
+names:
+  display: 汉顺帝
+  display_en: Emperor Shun of Han
+  personal: 刘保
+  personal_en: Liu Bao
+  temple: 敬宗
+  posthumous: 孝顺皇帝
+  aliases:
+  - 顺帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 8
+reign:
+  start: '125'
+  end: '144'
+  eras:
+  - 永建
+  - 阳嘉
+  - 永和
+  - 汉安
+  - 建康
+life:
+  birth: '115'
+  death: '144'
+  birth_place_id: luoyang
+  death_place_id: luoyang
+summary: 安帝太子被废为济阴王，宦官孙程等迎立；梁氏外戚自此擅权，班勇复通西域。
+summary_en: Heir of Emperor An, deposed to be prince of Jiyin and restored by the eunuch Sun Cheng; the Liang consort clan dominated thereafter, while Ban Yong reopened the Western Regions.
+tags:
+- 宦官迎立
+- 十九侯
+- 梁氏擅权
+- 班勇西域
+tags_en:
+- Eunuch Enthronement
+- The Nineteen Marquises
+- Liang Clan Power
+- Ban Yong's West
+portrait:
+  primary: assets/portraits/e-han-shun/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写顺帝形貌。画像宜表现中年君主之态，衣冠从东汉中期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-shun.md
+timeline:
+- year: '115'
+  date_note: 元初二年
+  date_note_en: Yuanchu 2
+  title: 生
+  title_en: Birth
+  summary: 安帝子。
+  summary_en: A son of Emperor An.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E001
+- year: '120'
+  date_note: 永宁元年
+  date_note_en: Yongning 1
+  title: 立为太子
+  title_en: Heir Apparent
+  summary: 立为皇太子，后被废为济阴王。
+  summary_en: He was made heir apparent, later deposed as prince of Jiyin.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-an
+  sources:
+  - 后汉书·卷005·安帝纪
+  card_id: E002
+- year: '125'
+  date_note: 延光四年
+  date_note_en: Yanguang 4
+  title: 即位
+  title_en: Accession
+  summary: 孙程等迎立，年十一。
+  summary_en: Sun Cheng and others enthroned him at eleven.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E003
+- year: '126'
+  date_note: 永建元年
+  date_note_en: Yongjian 1
+  title: 封孙程等
+  title_en: The Nineteen Enfeoffed
+  summary: 封十九侯。
+  summary_en: The nineteen eunuchs were enfeoffed.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  - 后汉书·宦者传
+  card_id: E004
+- year: '127'
+  date_note: 永建二年
+  date_note_en: Yongjian 2
+  title: 班勇击西域
+  title_en: Ban Yong Strikes West
+  summary: 班勇击匈奴呼衍王等，西域复通。
+  summary_en: Ban Yong struck the Xiongnu's Huyan king and others; the Western Regions were reopened.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·班勇传
+  - 后汉书·卷006·顺帝纪
+  card_id: E005
+- year: '132'
+  date_note: 阳嘉元年
+  date_note_en: Yangjia 1
+  title: 立梁后
+  title_en: Empress Liang Enthroned
+  summary: 立梁妠为皇后，梁商执政。
+  summary_en: Liang Na was made empress; Liang Shang entered government.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  - 后汉书·梁统列传
+  card_id: E006
+- year: '135'
+  date_note: 阳嘉四年
+  date_note_en: Yangjia 4
+  title: 梁商为大将军
+  title_en: Liang Shang Commander-in-Chief
+  summary: 梁氏势成。
+  summary_en: The Liang clan's power was established.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E007
+- year: '136'
+  date_note: 永和元年
+  date_note_en: Yonghe 1
+  title: 改元永和
+  title_en: The Yonghe Era
+  summary: 改元永和。
+  summary_en: The era was changed to Yonghe.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E008
+- year: '141'
+  date_note: 永和六年
+  date_note_en: Yonghe 6
+  title: 梁商薨梁冀代
+  title_en: Liang Ji Succeeds Liang Shang
+  summary: 梁冀为大将军。
+  summary_en: Liang Ji became commander-in-chief.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  - 后汉书·梁冀传
+  card_id: E009
+- year: '142'
+  date_note: 汉安元年
+  date_note_en: Han'an 1
+  title: 遣八使巡行
+  title_en: Eight Envoys Sent Forth
+  summary: 遣杜乔、周举等八使巡行州郡。
+  summary_en: Du Qiao, Zhou Ju, and six others were sent to tour the provinces.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E010
+- year: '144'
+  date_note: 建康元年
+  date_note_en: Jiankang 1
+  title: 顺帝崩
+  title_en: Death of Emperor Shun
+  summary: 崩，冲帝立。
+  summary_en: He died; Emperor Chong succeeded.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-chong
+  sources:
+  - 后汉书·卷006·顺帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-shao-bei
+  note: 北乡侯薨，孙程等迎立济阴王
+- type: successor
+  target_id: e-han-chong
+  note: 顺帝崩，太子炳即位
+- type: kinship
+  target_id: e-han-an
+  note: 安帝子，立而复废，卒以宦官迎立
+routes:
+- group: 都城
+  order: 1
+  year: '115'
+  place_id: luoyang
+  event: 生
+- group: 都城
+  order: 2
+  year: '120'
+  place_id: luoyang
+  event: 立为太子
+- group: 都城
+  order: 3
+  year: '125'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 4
+  year: '126'
+  place_id: luoyang
+  event: 封孙程等
+- group: 其他
+  order: 5
+  year: '127'
+  place_id: hexi
+  event: 班勇击西域
+- group: 都城
+  order: 6
+  year: '132'
+  place_id: luoyang
+  event: 立梁后
+- group: 都城
+  order: 7
+  year: '135'
+  place_id: luoyang
+  event: 梁商为大将军
+- group: 都城
+  order: 8
+  year: '141'
+  place_id: luoyang
+  event: 梁商薨梁冀代
+- group: 都城
+  order: 9
+  year: '144'
+  place_id: luoyang
+  event: 顺帝崩
+sources:
+- title: 后汉书·顺帝纪
+  note: 主叙事
+- title: 后汉书·宦者传 / 班勇传 / 梁冀传
+  note: 迎立、西域与外戚
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第八帝，正史立纪；宦官拥立与梁氏擅权的转折人物。
+  synced_from_cards: true

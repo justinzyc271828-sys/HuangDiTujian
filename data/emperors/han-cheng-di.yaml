@@ -1,0 +1,260 @@
+id: han-cheng-di
+tier: emperor
+sort_key: 汉-012
+names:
+  display: 汉成帝
+  display_en: Emperor Cheng of Han
+  personal: 刘骜
+  personal_en: Liu Ao
+  temple: null
+  posthumous: 孝成皇帝
+  aliases:
+  - 成帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 12
+reign:
+  start: '-33'
+  end: '-7'
+  eras:
+  - 建始
+  - 河平
+  - 阳朔
+  - 鸿嘉
+  - 永始
+  - 元延
+  - 绥和
+life:
+  birth: '-51'
+  death: '-7'
+  birth_place_id: chang-an
+  death_place_id: chang-an
+summary: 元帝太子，湛于酒色，外戚王氏擅朝，立赵飞燕为后，为王莽篡汉铺垫。
+summary_en: Heir of Emperor Yuan, sunk in wine and women; the Wang consorts dominated the court and Zhao Feiyan became empress, paving the way for Wang Mang's usurpation.
+tags:
+- 酒色
+- 王氏擅朝
+- 赵飞燕
+- 王莽铺垫
+tags_en:
+- Wine and Women
+- Wang Clan Power
+- Zhao Feiyan
+- Road to Wang Mang
+portrait:
+  primary: assets/portraits/han-cheng-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《汉书》未系统描写成帝形貌。画像宜表现沉湎逸乐的中年君主之态，衣冠从西汉中后期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-cheng-di.md
+timeline:
+- year: '-51'
+  date_note: 甘露三年
+  date_note_en: Ganlu 3
+  title: 生于甲观画堂
+  title_en: Born in the Jiaguan Hall
+  summary: 元帝太子，生于甲观画堂。
+  summary_en: Heir of Emperor Yuan, he was born in the Jiaguan painted hall.
+  place_id: chang-an
+  related_person_ids:
+  - han-yuan-di
+  sources:
+  - 汉书·卷010·成帝纪
+  card_id: E001
+- year: '-33'
+  date_note: 竟宁元年
+  date_note_en: Jingning 1
+  title: 即位
+  title_en: Accession
+  summary: 元帝崩，骜即位。
+  summary_en: Emperor Yuan died; Ao succeeded.
+  place_id: chang-an
+  related_person_ids:
+  - han-yuan-di
+  sources:
+  - 汉书·卷010·成帝纪
+  card_id: E002
+- year: '-32'
+  date_note: 建始元年
+  date_note_en: Jianshi 1
+  title: 封诸舅
+  title_en: Enfeoffing the Maternal Uncles
+  summary: 王凤等辅政，外戚王氏始大。
+  summary_en: Wang Feng and others took charge of government; the Wang consort clan began its rise.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·元后传
+  card_id: E003
+- year: '-28'
+  date_note: 河平元年
+  date_note_en: Heping 1
+  title: 黄河决
+  title_en: The Yellow River Breaks
+  summary: 河决东郡等，治河为朝廷大事。
+  summary_en: The Yellow River broke its banks at Dongjun and elsewhere; river control became a great matter of state.
+  place_id: dong-jun
+  related_person_ids: []
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·沟洫志
+  card_id: E004
+- year: '-20'
+  date_note: 鸿嘉永始间
+  date_note_en: between Hongjia and Yongshi
+  title: 罢昌陵
+  title_en: The Changling Project Halted
+  summary: 营昌陵功费甚巨，后罢之还复延陵。
+  summary_en: The Changling mausoleum project proved hugely costly and was abandoned in favor of Yanling.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷010·成帝纪
+  card_id: E005
+- year: '-18'
+  date_note: 鸿嘉三年
+  date_note_en: Hongjia 3
+  title: 许后废
+  title_en: Empress Xu Deposed
+  summary: 许皇后废，赵飞燕等得宠。
+  summary_en: Empress Xu was deposed; Zhao Feiyan and her kin gained favor.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·外戚传
+  card_id: E006
+- year: '-16'
+  date_note: 永始元年
+  date_note_en: Yongshi 1
+  title: 立赵飞燕为后
+  title_en: Zhao Feiyan Made Empress
+  summary: 立赵皇后。
+  summary_en: Zhao Feiyan was made empress.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·外戚传
+  card_id: E007
+- year: '-8'
+  date_note: 绥和元年
+  date_note_en: Suihe 1
+  title: 立定陶王为太子
+  title_en: King Dingtao Made Heir
+  summary: 立刘欣为太子（后哀帝）。
+  summary_en: Liu Xin was made heir apparent (the future Emperor Ai).
+  place_id: chang-an
+  related_person_ids:
+  - han-ai-di
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·卷011·哀帝纪
+  card_id: E008
+- year: '-7'
+  date_note: 绥和二年
+  date_note_en: Suihe 2
+  title: 王莽为大司马
+  title_en: Wang Mang Made Commander-in-Chief
+  summary: 王根荐王莽，莽辅政。
+  summary_en: Wang Gen recommended Wang Mang, who entered the government.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷010·成帝纪
+  - 汉书·卷099·王莽传
+  card_id: E009
+- year: '-7'
+  date_note: 绥和二年三月
+  date_note_en: Suihe 2, 3rd month
+  title: 成帝崩
+  title_en: Death of Emperor Cheng
+  summary: 暴崩，哀帝即位。
+  summary_en: He died suddenly; Emperor Ai succeeded.
+  place_id: chang-an
+  related_person_ids:
+  - han-ai-di
+  sources:
+  - 汉书·卷010·成帝纪
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: han-yuan-di
+  note: 元帝崩，太子骜即位
+- type: successor
+  target_id: han-ai-di
+  note: 成帝无嗣暴崩，定陶王欣入继
+- type: related_emperor
+  target_id: xin-wang-mang
+  note: 王氏外戚势成，直接通向王莽代汉
+routes:
+- group: 都城
+  order: 1
+  year: '-51'
+  place_id: chang-an
+  event: 生于甲观画堂
+- group: 都城
+  order: 2
+  year: '-33'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 3
+  year: '-32'
+  place_id: chang-an
+  event: 封诸舅
+- group: 其他
+  order: 4
+  year: '-28'
+  place_id: dong-jun
+  event: 黄河决
+- group: 都城
+  order: 5
+  year: '-20'
+  place_id: chang-an
+  event: 罢昌陵
+- group: 都城
+  order: 6
+  year: '-18'
+  place_id: chang-an
+  event: 许后废
+- group: 都城
+  order: 7
+  year: '-16'
+  place_id: chang-an
+  event: 立赵飞燕为后
+- group: 都城
+  order: 8
+  year: '-8'
+  place_id: chang-an
+  event: 立定陶王为太子
+- group: 都城
+  order: 9
+  year: '-7'
+  place_id: chang-an
+  event: 王莽为大司马
+- group: 都城
+  order: 10
+  year: '-7'
+  place_id: chang-an
+  event: 成帝崩
+sources:
+- title: 汉书·成帝纪
+  note: 主叙事
+- title: 汉书·元后传 / 外戚传 / 沟洫志
+  note: 王氏、赵氏与治河
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西汉第十二帝，正史立纪；王氏外戚势成、汉运将移的铺垫人物。
+  synced_from_cards: true

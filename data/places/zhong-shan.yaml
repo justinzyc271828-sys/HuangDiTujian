@@ -1,0 +1,12 @@
+id: zhong-shan
+names:
+  historical: 中山
+  modern: 河北省定州市一带
+  english: Zhongshan
+coords:
+  lng: 115.0
+  lat: 38.5
+  precision: schematic
+map:
+  region: 河北
+notes: 汉中山国，平帝之父中山孝王封地

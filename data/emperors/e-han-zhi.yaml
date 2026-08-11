@@ -1,0 +1,164 @@
+id: e-han-zhi
+tier: emperor
+sort_key: 东汉-010
+names:
+  display: 汉质帝
+  display_en: Emperor Zhi of Han
+  personal: 刘缵
+  personal_en: Liu Zuan
+  temple: null
+  posthumous: 孝质皇帝
+  aliases:
+  - 质帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 10
+reign:
+  start: '145'
+  end: '146'
+  eras:
+  - 本初
+life:
+  birth: '138'
+  death: '146'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 冲帝崩后梁冀所立，年八岁；聪慧目梁冀为「跋扈将军」，本初元年被鸩杀，梁冀立桓帝。
+summary_en: Raised by Liang Ji after Emperor Chong's death, he was eight; his sharp tongue called Liang Ji the "arrogant general," and in the first Benchu year he was poisoned, Liang Ji enthroning Emperor Huan.
+tags:
+- 聪慧
+- 跋扈将军
+- 被鸩
+- 梁冀
+tags_en:
+- Sharp-Witted
+- The Arrogant General
+- Poisoned
+- Liang Ji
+portrait:
+  primary: assets/portraits/e-han-zhi/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写质帝形貌。画像宜表现早慧的少年天子之态，衣冠从东汉中期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-zhi.md
+timeline:
+- year: '138'
+  date_note: 永和三年
+  date_note_en: Yonghe 3
+  title: 生
+  title_en: Birth
+  summary: 渤海孝王鸿之子。
+  summary_en: A son of the filial king Hong of Bohai.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·质帝纪
+  card_id: E001
+- year: '145'
+  date_note: 永嘉元年
+  date_note_en: Yongjia 1
+  title: 即位
+  title_en: Accession
+  summary: 冲帝崩，梁冀立缵，年八岁。
+  summary_en: Emperor Chong died; Liang Ji raised Zuan, eight years old.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·质帝纪
+  card_id: E002
+- year: '146'
+  date_note: 本初元年
+  date_note_en: Benchu 1
+  title: 目冀为跋扈将军
+  title_en: "The Arrogant General"
+  summary: 帝目梁冀曰跋扈将军。
+  summary_en: The emperor called Liang Ji to his face "the arrogant general."
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·梁冀传
+  - 后汉书·卷006·质帝纪
+  card_id: E003
+- year: '146'
+  date_note: 本初元年闰六月
+  date_note_en: Benchu 1, intercalary 6th month
+  title: 质帝崩
+  title_en: Death of Emperor Zhi
+  summary: 梁冀进鸩，帝崩。
+  summary_en: Liang Ji administered poison, and the emperor died.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·质帝纪
+  - 后汉书·梁冀传
+  card_id: E005
+- year: '146'
+  date_note: 本初元年
+  date_note_en: Benchu 1
+  title: 立桓帝
+  title_en: Emperor Huan Raised
+  summary: 梁冀立蠡吾侯志，是为桓帝。
+  summary_en: Liang Ji raised Zhi, marquis of Liwu, as Emperor Huan.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-huan
+  sources:
+  - 后汉书·卷007·桓帝纪
+  - 后汉书·梁冀传
+  card_id: E004
+- year: '146'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 聪慧被害
+  title_en: Sharp-Witted, Slain
+  summary: 史称幼而聪慧，以「跋扈将军」一语致祸。
+  summary_en: Sharp-witted from childhood, the histories say; the phrase "arrogant general" cost him his life.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷006·质帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-han-chong
+  note: 冲帝崩，梁冀迎立质帝
+- type: successor
+  target_id: e-han-huan
+  note: 质帝被鸩，梁冀立桓帝
+routes:
+- group: 都城
+  order: 1
+  year: '145'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '146'
+  place_id: luoyang
+  event: 目冀为跋扈将军
+- group: 都城
+  order: 3
+  year: '146'
+  place_id: luoyang
+  event: 质帝崩
+- group: 都城
+  order: 4
+  year: '146'
+  place_id: luoyang
+  event: 立桓帝
+sources:
+- title: 后汉书·质帝纪
+  note: 主叙事
+- title: 后汉书·梁冀传 / 桓帝纪
+  note: 鸩杀与迎立
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第十帝，正史立纪；以「跋扈将军」一语致祸的幼帝。
+  synced_from_cards: true

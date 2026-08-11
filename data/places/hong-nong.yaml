@@ -1,0 +1,12 @@
+id: hong-nong
+names:
+  historical: 弘农
+  modern: 河南省灵宝市东北一带
+  english: Hongnong
+coords:
+  lng: 110.9
+  lat: 34.5
+  precision: schematic
+map:
+  region: 河南
+notes: 献帝兴平二年东归途经曹阳、弘农；少帝辩废为弘农王

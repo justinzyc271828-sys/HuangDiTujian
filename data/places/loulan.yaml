@@ -1,0 +1,12 @@
+id: loulan
+names:
+  historical: 楼兰
+  modern: 新疆罗布泊西北岸（遗址已废）
+  english: Loulan
+coords:
+  lng: 89.92
+  lat: 40.53
+  precision: schematic
+map:
+  region: 西北
+notes: 元凤四年傅介子计斩楼兰王安归，更名鄯善

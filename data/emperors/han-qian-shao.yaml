@@ -1,0 +1,166 @@
+id: han-qian-shao
+tier: quasi
+sort_key: 汉-003
+names:
+  display: 前少帝
+  display_en: Former Young Emperor
+  personal: 刘恭
+  personal_en: Liu Gong
+  temple: null
+  posthumous: null
+  aliases:
+  - 少帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 3
+reign:
+  start: '-188'
+  end: '-184'
+  eras: []
+life:
+  birth: null
+  death: '-184'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 惠帝崩后吕后所立幼帝，在位有名无权，四年被幽杀；吕氏称制的符号皇帝。
+summary_en: The child emperor enthroned by Empress Lü after Emperor Hui's death, a symbol of her regency with no real power; he was imprisoned and slain in his fourth year.
+tags:
+- 吕后临朝
+- 名分争议
+- 幼帝
+- 废杀
+tags_en:
+- Lü Regency
+- Disputed Mandate
+- Child Emperor
+- Deposed and Slain
+portrait:
+  primary: assets/portraits/han-qian-shao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载甚简。画像宜表现稚龄傀儡之态，衣冠从汉初制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-qian-shao.md
+timeline:
+- year: '-188'
+  date_note: 惠帝七年
+  date_note_en: 7th year of Emperor Hui
+  title: 立为帝
+  title_en: Enthroned
+  summary: 惠帝崩，立后宫子为帝，吕后临朝称制。
+  summary_en: Emperor Hui died; a son of the harem was enthroned and Lü assumed the regency.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E001
+- year: '-187'
+  date_note: 高后元年
+  date_note_en: 1st year of Empress Lü
+  title: 王诸吕
+  title_en: The Lü Kings
+  summary: 封吕氏为王，破高祖白马之约。
+  summary_en: Lü clansmen were enfeoffed as kings, breaking Gaozu's White Horse Covenant.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E002
+- year: '-187'
+  date_note: 高后元年
+  date_note_en: 1st year of Empress Lü
+  title: 除三族罪等
+  title_en: Repeal of the Three-Clan Penalty
+  summary: 高后称制下的法令调整。
+  summary_en: Legal adjustments under the regency.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷003·高后纪
+  card_id: E003
+- year: '-184'
+  date_note: 高后四年
+  date_note_en: 4th year of Empress Lü
+  title: 自知非惠帝子
+  title_en: The Secret of His Birth
+  summary: 少帝知非皇后子，出怨言，被幽。
+  summary_en: Learning he was not the empress's son, he spoke resentfully and was imprisoned.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  card_id: E005
+- year: '-184'
+  date_note: 高后四年
+  date_note_en: 4th year of Empress Lü
+  title: 前少帝废杀
+  title_en: Deposed and Slain
+  summary: 吕后幽杀前少帝，更立恒山王弘。
+  summary_en: Empress Lü had him killed in confinement and enthroned Liu Hong, king of Hengshan, in his place.
+  place_id: chang-an
+  related_person_ids:
+  - han-hou-shao
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E004
+- year: '-184'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 名分争议
+  title_en: A Disputed Mandate
+  summary: 在位有名无权，图鉴作准帝。
+  summary_en: In office in name only, without power; the gazetteer lists him as quasi-emperor.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷003·高后纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: han-hui-di
+  note: 惠帝崩，吕后立后宫子为帝
+- type: successor
+  target_id: han-hou-shao
+  note: 前少帝被废杀，更立恒山王弘
+- type: related_emperor
+  target_id: han-wen-di
+  note: 吕氏称制终结后，文帝入立，汉统归刘
+routes:
+- group: 都城
+  order: 1
+  year: '-188'
+  place_id: chang-an
+  event: 立为帝
+- group: 都城
+  order: 2
+  year: '-187'
+  place_id: chang-an
+  event: 王诸吕
+- group: 都城
+  order: 3
+  year: '-184'
+  place_id: chang-an
+  event: 自知非惠帝子
+- group: 都城
+  order: 4
+  year: '-184'
+  place_id: chang-an
+  event: 前少帝废杀
+sources:
+- title: 史记·吕太后本纪
+  note: 主叙事
+- title: 汉书·高后纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 吕后临朝所立幼帝，在位四年即被废杀，名分有争议，正史附见吕后本纪，故入准。
+  synced_from_cards: true

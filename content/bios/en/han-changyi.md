@@ -1,0 +1,9 @@
+# Prince He of Changyi · Principal Deeds
+
+Liu He was a grandson of [[han-wu-di|Emperor Wu of Han]], heir to the kingship of Changyi from his father, the lamented king Bo. When [[han-zhao-di|Emperor Zhao]] died without issue, General-in-Chief Huo Guang summoned the king of Changyi to the throne — the first succession in which ministers rather than an heir brought in an outsider — and He was deposed after only twenty-seven days for dissolute conduct, setting one of the shortest reigns in Chinese imperial history.
+
+From the histories, the accession was doomed from the start: He galloped into Chang'an with his Changyi partisans before he was even enthroned, and once on the throne he carried the habits of a feudatory court into the palace. Huo Guang convened the ministers, petitioned the empress dowager to enumerate his crimes, and had him deposed and sent back to Changyi with a stipend domain of two thousand households. The act established the precedent of deposing an emperor in the empress dowager's name — and fixed He on the historical pillory.
+
+After his deposition He lived quietly in Changyi for over a decade, and under [[han-xuan-di|Emperor Xuan]] he was further degraded and enfeoffed as Marquis of Haihun, to be settled in Yuzhang (present-day Jiangxi). His final fate was to re-enter public view two millennia later through the archaeology of the Haihun tomb near Nanchang — tens of thousands of gold pieces, coins, and bamboo slips making the twenty-seven-day emperor famous in a new way. This gazetteer lists him as a quasi-emperor, in view of a reign that never completed its first year.
+
+> Local references: the punctuated critical edition of the *Hanshu*, biographies of Huo Guang and of the Five Sons of Emperor Wu; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

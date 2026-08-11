@@ -1,0 +1,266 @@
+id: e-han-ling
+tier: emperor
+sort_key: 东汉-012
+names:
+  display: 汉灵帝
+  display_en: Emperor Ling of Han
+  personal: 刘宏
+  personal_en: Liu Hong
+  temple: null
+  posthumous: 孝灵皇帝
+  aliases:
+  - 灵帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 12
+reign:
+  start: '168'
+  end: '189'
+  eras:
+  - 建宁
+  - 熹平
+  - 光和
+  - 中平
+life:
+  birth: '156'
+  death: '189'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 窦武迎立，十二岁即位；窦武陈蕃谋诛宦官败，党锢复炽，西园卖官，黄巾起，东汉之乱自此而始。
+summary_en: Raised by Dou Wu, enthroned at twelve; Dou Wu and Chen Fan's plot against the eunuchs failed, the proscription flared again, offices were sold at the West Garden, and the Yellow Turbans rose — the great disorder of Eastern Han began here.
+tags:
+- 党锢
+- 卖官
+- 黄巾
+- 十常侍
+tags_en:
+- The Proscription
+- Offices for Sale
+- Yellow Turbans
+- The Ten Attendants
+portrait:
+  primary: assets/portraits/e-han-ling/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写灵帝形貌。画像宜表现中年君主之态，衣冠从东汉末制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-ling.md
+timeline:
+- year: '156'
+  date_note: 永寿二年
+  date_note_en: Yongshou 2
+  title: 生
+  title_en: Birth
+  summary: 解渎亭侯苌之子。
+  summary_en: A son of the marquis Chang of Xieduting.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E001
+- year: '168'
+  date_note: 建宁元年
+  date_note_en: Jianning 1
+  title: 即位
+  title_en: Accession
+  summary: 桓帝崩，窦武等迎立，年十二。
+  summary_en: Emperor Huan died; Dou Wu and others raised him, twelve years old.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-huan
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E002
+- year: '168'
+  date_note: 建宁元年
+  date_note_en: Jianning 1
+  title: 窦武陈蕃谋诛宦官败
+  title_en: Dou Wu and Chen Fan Fall
+  summary: 宦官杀陈蕃、窦武，第二次党锢起。
+  summary_en: The eunuchs slew Chen Fan and Dou Wu; the second proscription began.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·陈蕃传
+  card_id: E003
+- year: '169'
+  date_note: 建宁二年
+  date_note_en: Jianning 2
+  title: 诏州郡更考党人
+  title_en: The Proscription Widened
+  summary: 诏州郡更考党人，党锢扩大。
+  summary_en: Commanderies were ordered to re-examine the partisans; the proscription spread.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·党锢列传
+  card_id: E004
+- year: '178'
+  date_note: 光和元年
+  date_note_en: Guanghe 1
+  title: 初开西园卖官
+  title_en: Offices Sold at the West Garden
+  summary: 开西园卖官鬻爵。
+  summary_en: Offices and ranks went on sale at the West Garden.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E005
+- year: '178'
+  date_note: 光和元年
+  date_note_en: Guanghe 1
+  title: 置鸿都门学
+  title_en: The Hongdu Academy
+  summary: 以书画尺牍取士，与儒生相冲突。
+  summary_en: Scholars were chosen for calligraphy and letters, clashing with the classicists.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E006
+- year: '184'
+  date_note: 中平元年
+  date_note_en: Zhongping 1
+  title: 赦党人
+  title_en: The Proscription Lifted
+  summary: 因黄巾事大赦，党锢解除。
+  summary_en: Faced with the Yellow Turbans, a general amnesty lifted the proscription.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E007
+- year: '184'
+  date_note: 中平元年
+  date_note_en: Zhongping 1
+  title: 黄巾起
+  title_en: The Yellow Turbans Rise
+  summary: 张角黄巾起义，天下震动。
+  summary_en: Zhang Jiao's Yellow Turbans rose, shaking the realm.
+  place_id: ju-lu
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·皇甫嵩传
+  card_id: E008
+- year: '185'
+  date_note: 中平二年
+  date_note_en: Zhongping 2
+  title: 造万金堂
+  title_en: The Hall of Ten Thousand Gold
+  summary: 聚钱西园。
+  summary_en: He hoarded money at the West Garden.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E009
+- year: '188'
+  date_note: 中平五年
+  date_note_en: Zhongping 5
+  title: 置西园八校尉
+  title_en: The Eight Colonels of the West Garden
+  summary: 置西园八校尉，袁绍、曹操等任之。
+  summary_en: The Eight Colonels of the West Garden were created; Yuan Shao, Cao Cao, and others held the posts.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 三国志·武帝纪
+  card_id: E010
+- year: '189'
+  date_note: 中平六年
+  date_note_en: Zhongping 6
+  title: 灵帝崩
+  title_en: Death of Emperor Ling
+  summary: 崩，少帝辩立。
+  summary_en: He died; the Young Emperor Bian succeeded.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-shao-bian
+  sources:
+  - 后汉书·卷008·灵帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-huan
+  note: 桓帝崩无嗣，窦武迎立
+- type: successor
+  target_id: e-han-shao-bian
+  note: 灵帝崩，太子辩即位
+- type: kinship
+  target_id: e-han-xian
+  note: 献帝为灵帝次子，东汉末代天子
+routes:
+- group: 都城
+  order: 1
+  year: '168'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '168'
+  place_id: luoyang
+  event: 窦武陈蕃谋诛宦官败
+- group: 都城
+  order: 3
+  year: '169'
+  place_id: luoyang
+  event: 诏州郡更考党人
+- group: 都城
+  order: 4
+  year: '178'
+  place_id: luoyang
+  event: 初开西园卖官
+- group: 都城
+  order: 5
+  year: '178'
+  place_id: luoyang
+  event: 置鸿都门学
+- group: 都城
+  order: 6
+  year: '184'
+  place_id: luoyang
+  event: 赦党人
+- group: 其他
+  order: 7
+  year: '184'
+  place_id: ju-lu
+  event: 黄巾起
+- group: 都城
+  order: 8
+  year: '185'
+  place_id: luoyang
+  event: 造万金堂
+- group: 都城
+  order: 9
+  year: '188'
+  place_id: luoyang
+  event: 置西园八校尉
+- group: 都城
+  order: 10
+  year: '189'
+  place_id: luoyang
+  event: 灵帝崩
+sources:
+- title: 后汉书·灵帝纪
+  note: 主叙事
+- title: 后汉书·党锢列传 / 陈蕃传 / 皇甫嵩传
+  note: 党锢与黄巾
+- title: 三国志·武帝纪
+  note: 西园八校尉对照
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第十二帝，正史立纪；黄巾之乱与东汉崩溃的直接推手。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: dong-jun
+names:
+  historical: 东郡
+  modern: 河南省濮阳市一带
+  english: Dongjun
+coords:
+  lng: 115.0
+  lat: 35.7
+  precision: schematic
+map:
+  region: 中原
+notes: 汉东郡，黄河决口所经；翟义起兵地

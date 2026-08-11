@@ -1,0 +1,269 @@
+id: e-han-an
+tier: emperor
+sort_key: 东汉-006
+names:
+  display: 汉安帝
+  display_en: Emperor An of Han
+  personal: 刘祜
+  personal_en: Liu Hu
+  temple: 恭宗
+  posthumous: 孝安皇帝
+  aliases:
+  - 安帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 6
+reign:
+  start: '106'
+  end: '125'
+  eras:
+  - 永初
+  - 元初
+  - 永宁
+  - 建光
+  - 延光
+life:
+  birth: '94'
+  death: '125'
+  birth_place_id: qing-he
+  death_place_id: ye-xian
+summary: 清河王子，十三岁入继；永初羌乱耗竭国用，亲政后诛邓氏而乳母宦官用事，南巡崩于叶。
+summary_en: A son of the prince of Qinghe, brought in at thirteen; the Yongchu Qiang wars drained the treasury, and after taking power he destroyed the Dengs only to see his wet nurses and eunuchs rule; he died at Ye during a southern tour.
+tags:
+- 羌乱
+- 邓后临朝
+- 亲政
+- 乳母宦官
+tags_en:
+- Qiang Wars
+- Deng Regency
+- Personal Rule
+- Wet Nurses and Eunuchs
+portrait:
+  primary: assets/portraits/e-han-an/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写安帝形貌。画像宜表现中年君主之态，衣冠从东汉前期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-an.md
+timeline:
+- year: '94'
+  date_note: 永元六年
+  date_note_en: Yongyuan 6
+  title: 生
+  title_en: Birth
+  summary: 清河孝王庆之子。
+  summary_en: A son of the filial king Qing of Qinghe.
+  place_id: qing-he
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  card_id: E001
+- year: '106'
+  date_note: 延平元年
+  date_note_en: Yanping 1
+  title: 即位
+  title_en: Accession
+  summary: 殇帝崩，邓后与邓骘立祜，年十三。
+  summary_en: Emperor Shang died; Empress Dowager Deng and Deng Zhi raised Hu, thirteen years old.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  card_id: E002
+- year: '107'
+  date_note: 永初元年
+  date_note_en: Yongchu 1
+  title: 西域叛
+  title_en: The Western Regions Turn
+  summary: 西域背汉，汉罢都护。
+  summary_en: The Western Regions turned against Han, and the protectorate was abolished.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·西域传
+  card_id: E003
+- year: '108'
+  date_note: 永初二年
+  date_note_en: Yongchu 2
+  title: 先零羌大叛
+  title_en: The Xianling Qiang Rise
+  summary: 羌乱剧烈，边郡残破。
+  summary_en: The Qiang rose violently; the border commanderies were devastated.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·西羌传
+  card_id: E004
+- year: '108'
+  date_note: 永初二年
+  date_note_en: Yongchu 2
+  title: 安帝朝羌乱边费
+  title_en: The War's Cost
+  summary: 汉连年发兵，国用空竭，为安帝朝最重边患。
+  summary_en: Year after year troops were raised until the treasury was empty — the gravest frontier disaster of An's reign.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·西羌传
+  card_id: E005
+- year: '110'
+  date_note: 永初四年
+  date_note_en: Yongchu 4
+  title: 虞诩说李修等
+  title_en: Yu Xu Defends Liangzhou
+  summary: 弃凉州之议被驳。
+  summary_en: The proposal to abandon Liangzhou was rejected.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·虞诩传
+  - 后汉书·卷005·安帝纪
+  card_id: E006
+- year: '115'
+  date_note: 元初二年
+  date_note_en: Yuanchu 2
+  title: 立阎后
+  title_en: Empress Yan Enthroned
+  summary: 立阎姬为后。
+  summary_en: Yan Ji was made empress.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  card_id: E007
+- year: '120'
+  date_note: 永宁元年
+  date_note_en: Yongning 1
+  title: 立刘保为太子
+  title_en: Liu Bao Made Heir
+  summary: 立保为皇太子。
+  summary_en: Bao was made heir apparent.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-shun
+  sources:
+  - 后汉书·卷005·安帝纪
+  card_id: E008
+- year: '121'
+  date_note: 建光元年
+  date_note_en: Jianguang 1
+  title: 邓后崩安帝亲政
+  title_en: Personal Rule at Last
+  summary: 邓太后崩，诛邓骘等，乳母王圣等用事。
+  summary_en: Empress Dowager Deng died; Deng Zhi and others were executed, and his wet nurse Wang Sheng and her ilk came to power.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·皇后纪
+  card_id: E009
+- year: '124'
+  date_note: 延光三年
+  date_note_en: Yanguang 3
+  title: 废太子保
+  title_en: The Heir Set Aside
+  summary: 废皇太子保为济阴王。
+  summary_en: Crown Prince Bao was deposed as prince of Jiyin.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-shun
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·卷006·顺帝纪
+  card_id: E010
+- year: '125'
+  date_note: 延光四年
+  date_note_en: Yanguang 4
+  title: 南巡崩
+  title_en: Death on the Southern Tour
+  summary: 南巡崩于叶，阎后与江京等立北乡侯。
+  summary_en: He died at Ye during a southern tour; Empress Yan and Jiang Jing raised the Marquis of Beixiang.
+  place_id: ye-xian
+  related_person_ids:
+  - e-han-shao-bei
+  sources:
+  - 后汉书·卷005·安帝纪
+  - 后汉书·皇后纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-shang
+  note: 殇帝崩，邓后定策迎立
+- type: successor
+  target_id: e-han-shao-bei
+  note: 安帝崩于叶，阎后立北乡侯
+- type: kinship
+  target_id: e-han-shun
+  note: 子保曾立为太子，后废，卒以孙程等迎立即位
+routes:
+- group: 都城
+  order: 1
+  year: '94'
+  place_id: qing-he
+  event: 生
+- group: 都城
+  order: 2
+  year: '106'
+  place_id: luoyang
+  event: 即位
+- group: 其他
+  order: 3
+  year: '107'
+  place_id: hexi
+  event: 西域叛
+- group: 其他
+  order: 4
+  year: '108'
+  place_id: hexi
+  event: 先零羌大叛
+- group: 都城
+  order: 5
+  year: '108'
+  place_id: luoyang
+  event: 安帝朝羌乱边费
+- group: 都城
+  order: 6
+  year: '115'
+  place_id: luoyang
+  event: 立阎后
+- group: 都城
+  order: 7
+  year: '120'
+  place_id: luoyang
+  event: 立刘保为太子
+- group: 都城
+  order: 8
+  year: '121'
+  place_id: luoyang
+  event: 邓后崩安帝亲政
+- group: 都城
+  order: 9
+  year: '124'
+  place_id: luoyang
+  event: 废太子保
+- group: 巡狩
+  order: 10
+  year: '125'
+  place_id: ye-xian
+  event: 南巡崩
+sources:
+- title: 后汉书·安帝纪
+  note: 主叙事
+- title: 后汉书·西羌传 / 虞诩传 / 皇后纪
+  note: 羌乱与临朝
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第六帝，正史立纪；永初羌乱与亲政后内宠乱政的代表人物。
+  synced_from_cards: true

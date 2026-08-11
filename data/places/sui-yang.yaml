@@ -1,0 +1,12 @@
+id: sui-yang
+names:
+  historical: 睢阳
+  modern: 河南省商丘市睢阳区
+  english: Suiyang
+coords:
+  lng: 115.65
+  lat: 34.38
+  precision: approximate
+map:
+  region: 中原
+notes: 汉梁国都，梁孝王守城拒吴楚处

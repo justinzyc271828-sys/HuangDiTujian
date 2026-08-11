@@ -2,21 +2,65 @@
   "version": "v2-wenyan",
   "note": "文言六维品藻（0–100）。后效＝客观遗产；月旦＝褒贬≠知名度。非正式史评。",
   "axes": [
-    { "key": "wugong", "label": "武功", "jojo": "破坏力", "desc": "征伐、拓边、军威" },
-    { "key": "wenzhi", "label": "文治", "jojo": "统御", "desc": "制度、吏治、礼法、安民" },
-    { "key": "taolue", "label": "韬略", "jojo": "速度", "desc": "权谋、决断、纵横" },
-    { "key": "guozuo", "label": "国祚", "jojo": "持续力", "desc": "在位久暂与身后政权是否立得住" },
-    { "key": "houxiao", "label": "后效", "jojo": "遗产", "desc": "客观上留给后代的路径/制度" },
-    { "key": "yuedan", "label": "月旦", "jojo": "功罪", "desc": "世人与史评总体褒贬（高正低负）" }
+    {
+      "key": "wugong",
+      "label": "武功",
+      "jojo": "破坏力",
+      "desc": "征伐、拓边、军威"
+    },
+    {
+      "key": "wenzhi",
+      "label": "文治",
+      "jojo": "统御",
+      "desc": "制度、吏治、礼法、安民"
+    },
+    {
+      "key": "taolue",
+      "label": "韬略",
+      "jojo": "速度",
+      "desc": "权谋、决断、纵横"
+    },
+    {
+      "key": "guozuo",
+      "label": "国祚",
+      "jojo": "持续力",
+      "desc": "在位久暂与身后政权是否立得住"
+    },
+    {
+      "key": "houxiao",
+      "label": "后效",
+      "jojo": "遗产",
+      "desc": "客观上留给后代的路径/制度"
+    },
+    {
+      "key": "yuedan",
+      "label": "月旦",
+      "jojo": "功罪",
+      "desc": "世人与史评总体褒贬（高正低负）"
+    }
   ],
-  "grades": ["E", "D", "C", "B", "A", "S"],
+  "grades": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S"
+  ],
   "source": "data/catalog/video20.json",
   "profiles": {
     "qin-shi-huang": {
       "stand_name": "【一统六合】",
       "stand_type": "帝制开端",
       "cry": "六合之内，皇帝之号始定。",
-      "scores": { "wugong": 96, "wenzhi": 93, "taolue": 88, "guozuo": 18, "houxiao": 99, "yuedan": 42 },
+      "scores": {
+        "wugong": 96,
+        "wenzhi": 93,
+        "taolue": 88,
+        "guozuo": 18,
+        "houxiao": 99,
+        "yuedan": 42
+      },
       "ability": "混一六合；郡县立制。",
       "weakness": "严刑峻法；二世而亡。",
       "stand_name_en": "The Great Unifier",
@@ -29,7 +73,14 @@
       "stand_name": "【封狼居胥】",
       "stand_type": "开边强汉",
       "cry": "犯强汉者，虽远必诛。",
-      "scores": { "wugong": 95, "wenzhi": 82, "taolue": 85, "guozuo": 86, "houxiao": 94, "yuedan": 68 },
+      "scores": {
+        "wugong": 95,
+        "wenzhi": 82,
+        "taolue": 85,
+        "guozuo": 86,
+        "houxiao": 94,
+        "yuedan": 68
+      },
       "ability": "北逐匈奴；独尊儒术。",
       "weakness": "穷兵黩武；巫蛊贻祸。",
       "stand_name_en": "Wolf-Mountain Victor",
@@ -42,7 +93,14 @@
       "stand_name": "【天可汗令】",
       "stand_type": "治世仪型",
       "cry": "以魏徵为镜，可知得失。",
-      "scores": { "wugong": 89, "wenzhi": 96, "taolue": 95, "guozuo": 88, "houxiao": 97, "yuedan": 96 },
+      "scores": {
+        "wugong": 89,
+        "wenzhi": 96,
+        "taolue": 95,
+        "guozuo": 88,
+        "houxiao": 97,
+        "yuedan": 96
+      },
       "ability": "虚怀纳谏；四夷宾服。",
       "weakness": "玄武喋血；辽东无功。",
       "stand_name_en": "Heavenly Khan's Decree",
@@ -55,7 +113,14 @@
       "stand_name": "【江东晋王】",
       "stand_type": "短祚暴名",
       "cry": "运河犹在，锦帆不回。",
-      "scores": { "wugong": 70, "wenzhi": 42, "taolue": 52, "guozuo": 15, "houxiao": 86, "yuedan": 18 },
+      "scores": {
+        "wugong": 70,
+        "wenzhi": 42,
+        "taolue": 52,
+        "guozuo": 15,
+        "houxiao": 86,
+        "yuedan": 18
+      },
       "ability": "凿河通运；设科取士。",
       "weakness": "穷奢极欲；身死国灭。",
       "stand_name_en": "The Prince of Jin at Jiangdong",
@@ -68,7 +133,14 @@
       "stand_name": "【江南残梦】",
       "stand_type": "词笔亡国",
       "cry": "故国不堪回首月明中。",
-      "scores": { "wugong": 15, "wenzhi": 35, "taolue": 30, "guozuo": 20, "houxiao": 78, "yuedan": 78 },
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 35,
+        "taolue": 30,
+        "guozuo": 20,
+        "houxiao": 78,
+        "yuedan": 78
+      },
       "ability": "词境独辟；白描绝唱。",
       "weakness": "政事全废；牵机毒发。",
       "stand_name_en": "Fading Dream of Jiangnan",
@@ -81,7 +153,14 @@
       "stand_name": "【综核名实】",
       "stand_type": "中兴实操",
       "cry": "汉家自有制度，本以霸王道杂之。",
-      "scores": { "wugong": 68, "wenzhi": 94, "taolue": 90, "guozuo": 80, "houxiao": 74, "yuedan": 84 },
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 94,
+        "taolue": 90,
+        "guozuo": 80,
+        "houxiao": 74,
+        "yuedan": 84
+      },
       "ability": "综核名实；中兴汉室。",
       "weakness": "霍氏阴影；嗣君柔仁。",
       "stand_name_en": "Names Weighed Against Deeds",
@@ -94,7 +173,14 @@
       "stand_name": "【以儒窃国】",
       "stand_type": "托古改制",
       "cry": "周公恐惧流言日。",
-      "scores": { "wugong": 35, "wenzhi": 55, "taolue": 72, "guozuo": 12, "houxiao": 70, "yuedan": 22 },
+      "scores": {
+        "wugong": 35,
+        "wenzhi": 55,
+        "taolue": 72,
+        "guozuo": 12,
+        "houxiao": 70,
+        "yuedan": 22
+      },
       "ability": "王田抑兼；五均惠民。",
       "weakness": "名实脱节；屡改致溃。",
       "stand_name_en": "The Confucian Usurper",
@@ -107,7 +193,14 @@
       "stand_name": "【昆阳一旅】",
       "stand_type": "中兴令主",
       "cry": "仕宦当作执金吾，娶妻当得阴丽华。",
-      "scores": { "wugong": 91, "wenzhi": 90, "taolue": 90, "guozuo": 84, "houxiao": 86, "yuedan": 90 },
+      "scores": {
+        "wugong": 91,
+        "wenzhi": 90,
+        "taolue": 90,
+        "guozuo": 84,
+        "houxiao": 86,
+        "yuedan": 90
+      },
       "ability": "昆阳破竹；柔道安邦。",
       "weakness": "度田扰民；谶纬惑政。",
       "stand_name_en": "One Brigade at Kunyang",
@@ -120,7 +213,14 @@
       "stand_name": "【奴隶天子】",
       "stand_type": "羯胡雄略",
       "cry": "大丈夫行事当礌礌落落，如日月皎然。",
-      "scores": { "wugong": 93, "wenzhi": 76, "taolue": 94, "guozuo": 42, "houxiao": 68, "yuedan": 72 },
+      "scores": {
+        "wugong": 93,
+        "wenzhi": 76,
+        "taolue": 94,
+        "guozuo": 42,
+        "houxiao": 68,
+        "yuedan": 72
+      },
       "ability": "野战决胜；军府立纲。",
       "weakness": "石虎祸嗣；国随暴亡。",
       "stand_name_en": "The Slave Emperor",
@@ -133,7 +233,14 @@
       "stand_name": "【皇帝菩萨】",
       "stand_type": "佛国文治",
       "cry": "自我得之，自我失之，亦复何恨。",
-      "scores": { "wugong": 48, "wenzhi": 78, "taolue": 62, "guozuo": 55, "houxiao": 72, "yuedan": 50 },
+      "scores": {
+        "wugong": 48,
+        "wenzhi": 78,
+        "taolue": 62,
+        "guozuo": 55,
+        "houxiao": 72,
+        "yuedan": 50
+      },
       "ability": "文治绵长；崇佛兴教。",
       "weakness": "误纳侯景；台城饿殍。",
       "stand_name_en": "The Bodhisattva Emperor",
@@ -146,7 +253,14 @@
       "stand_name": "【河西称制】",
       "stand_type": "蕃汉抗衡",
       "cry": "蕃汉并立，自为一国。",
-      "scores": { "wugong": 88, "wenzhi": 80, "taolue": 86, "guozuo": 75, "houxiao": 73, "yuedan": 55 },
+      "scores": {
+        "wugong": 88,
+        "wenzhi": 80,
+        "taolue": 86,
+        "guozuo": 75,
+        "houxiao": 73,
+        "yuedan": 55
+      },
       "ability": "雄据河西；创制蕃书。",
       "weakness": "宫闱遇弑；战和两难。",
       "stand_name_en": "Hegemon of Hexi",
@@ -159,7 +273,14 @@
       "stand_name": "【投鞭断流】",
       "stand_type": "混一北方",
       "cry": "以吾之众旅，投鞭于江，足断其流。",
-      "scores": { "wugong": 84, "wenzhi": 81, "taolue": 65, "guozuo": 35, "houxiao": 66, "yuedan": 64 },
+      "scores": {
+        "wugong": 84,
+        "wenzhi": 81,
+        "taolue": 65,
+        "guozuo": 35,
+        "houxiao": 66,
+        "yuedan": 64
+      },
       "ability": "杂胡一体；北方速统。",
       "weakness": "淝水一溃；群羌咸叛。",
       "stand_name_en": "River-Damming Whips",
@@ -172,7 +293,14 @@
       "stand_name": "【胡骑解辫】",
       "stand_type": "汉化更张",
       "cry": "国家兴自北土，文轨未一，此用武之地，非可文治。",
-      "scores": { "wugong": 65, "wenzhi": 96, "taolue": 84, "guozuo": 70, "houxiao": 93, "yuedan": 86 },
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 96,
+        "taolue": 84,
+        "guozuo": 70,
+        "houxiao": 93,
+        "yuedan": 86
+      },
       "ability": "迁都洛阳；改制汉化。",
       "weakness": "南征耗竭；六镇伏火。",
       "stand_name_en": "The Unbraided Riders",
@@ -185,7 +313,14 @@
       "stand_name": "【混一戎夏】",
       "stand_type": "开皇建制",
       "cry": "混一戎夏，方为天子之事。",
-      "scores": { "wugong": 85, "wenzhi": 95, "taolue": 88, "guozuo": 55, "houxiao": 91, "yuedan": 88 },
+      "scores": {
+        "wugong": 85,
+        "wenzhi": 95,
+        "taolue": 88,
+        "guozuo": 55,
+        "houxiao": 91,
+        "yuedan": 88
+      },
       "ability": "再造一统；开皇立制。",
       "weakness": "猜忌苛察；择嗣一误。",
       "stand_name_en": "Rong and Xia Made One",
@@ -198,7 +333,14 @@
       "stand_name": "【金轮称制】",
       "stand_type": "女主革命",
       "cry": "日月当空，是为曌。",
-      "scores": { "wugong": 68, "wenzhi": 88, "taolue": 94, "guozuo": 78, "houxiao": 88, "yuedan": 58 },
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 88,
+        "taolue": 94,
+        "guozuo": 78,
+        "houxiao": 88,
+        "yuedan": 58
+      },
       "ability": "政启开元；治宏贞观。",
       "weakness": "酷吏罗织；正统存疑。",
       "stand_name_en": "Golden Wheel Regnant",
@@ -211,7 +353,14 @@
       "stand_name": "【元和鞭藩】",
       "stand_type": "中唐回光",
       "cry": "淮西既平，藩镇稍知朝廷。",
-      "scores": { "wugong": 76, "wenzhi": 87, "taolue": 90, "guozuo": 48, "houxiao": 78, "yuedan": 80 },
+      "scores": {
+        "wugong": 76,
+        "wenzhi": 87,
+        "taolue": 90,
+        "guozuo": 48,
+        "houxiao": 78,
+        "yuedan": 80
+      },
       "ability": "削平淮西；元和中兴。",
       "weakness": "服饵暴崩；人去政息。",
       "stand_name_en": "The Whip of Yuanhe",
@@ -224,7 +373,14 @@
       "stand_name": "【显德振旅】",
       "stand_type": "五代英主",
       "cry": "十年开拓天下，十年养百姓，十年致太平。",
-      "scores": { "wugong": 92, "wenzhi": 89, "taolue": 88, "guozuo": 28, "houxiao": 85, "yuedan": 88 },
+      "scores": {
+        "wugong": 92,
+        "wenzhi": 89,
+        "taolue": 88,
+        "guozuo": 28,
+        "houxiao": 85,
+        "yuedan": 88
+      },
       "ability": "整军振旅；征南伐北。",
       "weakness": "英年早逝；基业易姓。",
       "stand_name_en": "The Xiande Muster",
@@ -237,7 +393,14 @@
       "stand_name": "【杯酒释兵】",
       "stand_type": "强干弱枝",
       "cry": "卧榻之侧，岂容他人鼾睡。",
-      "scores": { "wugong": 80, "wenzhi": 93, "taolue": 95, "guozuo": 78, "houxiao": 94, "yuedan": 90 },
+      "scores": {
+        "wugong": 80,
+        "wenzhi": 93,
+        "taolue": 95,
+        "guozuo": 78,
+        "houxiao": 94,
+        "yuedan": 90
+      },
       "ability": "杯酒释兵；强干弱枝。",
       "weakness": "燕云未复；斧声烛影。",
       "stand_name_en": "A Cup of Wine, Arms Laid Down",
@@ -250,7 +413,14 @@
       "stand_name": "【混一车书】",
       "stand_type": "至元混一",
       "cry": "车书混同，方见大一统。",
-      "scores": { "wugong": 91, "wenzhi": 86, "taolue": 87, "guozuo": 86, "houxiao": 96, "yuedan": 52 },
+      "scores": {
+        "wugong": 91,
+        "wenzhi": 86,
+        "taolue": 87,
+        "guozuo": 86,
+        "houxiao": 96,
+        "yuedan": 52
+      },
       "ability": "行省立制；站赤通驿。",
       "weakness": "征伐无度；汉法两歧。",
       "stand_name_en": "One Track, One Script",
@@ -263,7 +433,14 @@
       "stand_name": "【真君铁骑】",
       "stand_type": "北方铁蹄",
       "cry": "扫统万，平秦陇，翦辽海，荡河源。",
-      "scores": { "wugong": 96, "wenzhi": 62, "taolue": 86, "guozuo": 74, "houxiao": 82, "yuedan": 48 },
+      "scores": {
+        "wugong": 96,
+        "wenzhi": 62,
+        "taolue": 86,
+        "guozuo": 74,
+        "houxiao": 82,
+        "yuedan": 48
+      },
       "ability": "铁骑决胜；混一北方。",
       "weakness": "灭佛暴虐；身死阉寺。",
       "stand_name_en": "Iron Cavalry of the True Lord",
@@ -271,6 +448,506 @@
       "cry_en": "Sweep Tongwan, level Qin and Long, shear the Liao shores, scour the river's source.",
       "ability_en": "Iron cavalry, decisive victory; the north made one.",
       "weakness_en": "The Buddhist faith stamped out in blood; slain by his own eunuch."
+    },
+    "han-hui-di": {
+      "stand_name": "【长安营城】",
+      "stand_type": "都城建基",
+      "cry": "城起长安，权归房闼。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 52,
+        "taolue": 30,
+        "guozuo": 28,
+        "houxiao": 68,
+        "yuedan": 55
+      },
+      "ability": "宽仁守成；营建长安。",
+      "weakness": "仁弱受制；政出后宫。",
+      "stand_name_en": "Builder of Chang’an",
+      "stand_type_en": "Capital Foundations",
+      "cry_en": "The walls rose at Chang’an; power returned to the inner quarters.",
+      "ability_en": "Benevolent in keeping the peace; raised the walls of Chang’an.",
+      "weakness_en": "Too gentle, controlled by others; rule issued from the harem."
+    },
+    "han-wen-di": {
+      "stand_name": "【恭俭兴汉】",
+      "stand_type": "德化治世",
+      "cry": "露台百金，中人十家之产。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 95,
+        "taolue": 82,
+        "guozuo": 90,
+        "houxiao": 92,
+        "yuedan": 95
+      },
+      "ability": "除刑轻徭；恭俭兴汉。",
+      "weakness": "和亲屈边；诸侯遗患。",
+      "stand_name_en": "The Frugal Restorer",
+      "stand_type_en": "Reign of Virtue",
+      "cry_en": "A hundred jin for a terrace is the estate of ten middle households.",
+      "ability_en": "Abolished cruel punishments, eased levies; frugality that restored Han.",
+      "weakness_en": "Heqin bent to the Xiongnu; feudatories left as a scourge."
+    },
+    "han-jing-di": {
+      "stand_name": "【削藩平乱】",
+      "stand_type": "承平定难",
+      "cry": "诛错兵不止，亚夫定七国。",
+      "scores": {
+        "wugong": 72,
+        "wenzhi": 72,
+        "taolue": 68,
+        "guozuo": 86,
+        "houxiao": 82,
+        "yuedan": 68
+      },
+      "ability": "平乱削藩；减笞宽刑。",
+      "weakness": "刻薄寡恩；误诛功臣。",
+      "stand_name_en": "Seven States Quelled",
+      "stand_type_en": "Crisis Resolution",
+      "cry_en": "Chao Cuo fell and the war did not stop; Zhou Yafu settled the Seven States in a season.",
+      "ability_en": "Quelled the revolt, trimmed the feudatories; eased flogging, lightened the law.",
+      "weakness_en": "Cold and ungrateful; wrongly destroyed his own ministers."
+    },
+    "han-zhao-di": {
+      "stand_name": "【盐铁息民】",
+      "stand_type": "短祚守成",
+      "cry": "海内虚耗，与民休息。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 74,
+        "taolue": 78,
+        "guozuo": 14,
+        "houxiao": 72,
+        "yuedan": 74
+      },
+      "ability": "宽徭息民；识破逆谋。",
+      "weakness": "英年早逝；权归霍氏。",
+      "stand_name_en": "Rest for a Weary Realm",
+      "stand_type_en": "Brief Reign, Steady Hand",
+      "cry_en": "The realm was drained; the people were rested.",
+      "ability_en": "Lightened corvée, rested the people; saw through the conspiracy.",
+      "weakness_en": "Died young; power fell to Huo Guang."
+    },
+    "e-han-zhang": {
+      "stand_name": "【白虎垂范】",
+      "stand_type": "明章守文",
+      "cry": "帝事宽厚，长者为名。",
+      "scores": {
+        "wugong": 60,
+        "wenzhi": 80,
+        "taolue": 58,
+        "guozuo": 80,
+        "houxiao": 78,
+        "yuedan": 78
+      },
+      "ability": "崇儒白虎；宽厚安民。",
+      "weakness": "宠任窦氏；外戚渐横。",
+      "stand_name_en": "White Tiger Hall Legacy",
+      "stand_type_en": "The Cultured and Lenient",
+      "cry_en": "His rule was broad and lenient; the name of elder-sage was his.",
+      "ability_en": "Exalted Confucianism at White Tiger Hall; governed with breadth and lenience.",
+      "weakness_en": "Indulged the Dou clan; consort kin grew arrogant."
+    },
+    "han-qian-shao": {
+      "stand_name": "【吕氏符号】",
+      "stand_type": "临朝傀儡",
+      "cry": "四年少帝，权在房闼。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 5,
+        "houxiao": 15,
+        "yuedan": 30
+      },
+      "ability": "承嗣继统；吕氏所立。",
+      "weakness": "幼弱无辅；幽死长安。",
+      "stand_name_en": "The Lü Symbol",
+      "stand_type_en": "Regency Puppet",
+      "cry_en": "Four years of young emperors; power lived in the inner quarters.",
+      "ability_en": "Succeeded to the line; raised by the Lü house.",
+      "weakness_en": "A child with no support; slain in the palace."
+    },
+    "han-hou-shao": {
+      "stand_name": "【吕制终章】",
+      "stand_type": "称制尾声",
+      "cry": "高后既崩，吕氏随灭。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 8,
+        "houxiao": 15,
+        "yuedan": 30
+      },
+      "ability": "绍统即位；不预其政。",
+      "weakness": "名分不正；一朝俱废。",
+      "stand_name_en": "End of the Lü Regency",
+      "stand_type_en": "Twilight of the Regency",
+      "cry_en": "The empress dowager died; the Lü clan fell with her.",
+      "ability_en": "Succeeded to the line; had no part in government.",
+      "weakness_en": "Of doubtful standing; swept away in a morning."
+    },
+    "han-changyi": {
+      "stand_name": "【二十七日】",
+      "stand_type": "短祚准帝",
+      "cry": "立二十七日，废于二十七日。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 10,
+        "guozuo": 2,
+        "houxiao": 15,
+        "yuedan": 20
+      },
+      "ability": "绍统即位；无能于政。",
+      "weakness": "行淫废立；身名俱裂。",
+      "stand_name_en": "Twenty-Seven Days",
+      "stand_type_en": "Emperor by the Week",
+      "cry_en": "Enthroned for twenty-seven days, deposed on the twenty-seventh.",
+      "ability_en": "Took the throne in succession; incapable in government.",
+      "weakness_en": "Dissolute, deposed; name and person ruined."
+    },
+    "han-yuan-di": {
+      "stand_name": "【出塞和亲】",
+      "stand_type": "柔仁之主",
+      "cry": "柔仁好儒，优游不断。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 55,
+        "taolue": 30,
+        "guozuo": 68,
+        "houxiao": 60,
+        "yuedan": 45
+      },
+      "ability": "好儒崇经；减省宫卫。",
+      "weakness": "优游不断；石显擅权。",
+      "stand_name_en": "The Bride Beyond the Pass",
+      "stand_type_en": "The Gentle and Irresolute",
+      "cry_en": "Gentle and fond of Confucian learning, irresolute to the end.",
+      "ability_en": "Loved Confucianism and the classics; trimmed palace establishments.",
+      "weakness_en": "Irresolute to a fault; Shi Xian seized power."
+    },
+    "han-cheng-di": {
+      "stand_name": "【赵氏乱内】",
+      "stand_type": "外戚之朝",
+      "cry": "赵氏乱内，外家擅朝。",
+      "scores": {
+        "wugong": 25,
+        "wenzhi": 35,
+        "taolue": 30,
+        "guozuo": 72,
+        "houxiao": 70,
+        "yuedan": 30
+      },
+      "ability": "崇让舅氏；罢昌陵费。",
+      "weakness": "湛于酒色；王氏擅朝。",
+      "stand_name_en": "The Zhaos Run the Harem",
+      "stand_type_en": "Court of the Consorts",
+      "cry_en": "The Zhaos disordered the inner court; the maternal kin ran the government.",
+      "ability_en": "Deferred to his uncles; halted the Changling extravagance.",
+      "weakness_en": "Sunk in wine and women; the Wangs ran the court."
+    },
+    "han-ai-di": {
+      "stand_name": "【限田未竟】",
+      "stand_type": "强威短祚",
+      "cry": "欲强主威，丁傅董贤乱之。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 35,
+        "taolue": 40,
+        "guozuo": 10,
+        "houxiao": 60,
+        "yuedan": 30
+      },
+      "ability": "策免三公；议限田宅。",
+      "weakness": "断袖董贤；汉祚将移。",
+      "stand_name_en": "The Land Limits Unfinished",
+      "stand_type_en": "Strong Throne, Short Reign",
+      "cry_en": "He would strengthen the throne; the Dings, Fus, and Dong Xian disordered it.",
+      "ability_en": "Dismissed the Three Excellencies; debated limits on land and houses.",
+      "weakness_en": "The Dong Xian infatuation; the Han mandate passing."
+    },
+    "han-ping-di": {
+      "stand_name": "【政由莽出】",
+      "stand_type": "元始傀儡",
+      "cry": "本纪书崩，莽传言鸠。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 20,
+        "taolue": 10,
+        "guozuo": 5,
+        "houxiao": 60,
+        "yuedan": 30
+      },
+      "ability": "入继大统；系年而已。",
+      "weakness": "政由莽出；暴崩成疑。",
+      "stand_name_en": "All Policy from Mang",
+      "stand_type_en": "The Yuanshi Puppet",
+      "cry_en": "The annals record death; Mang’s biography tells of poison.",
+      "ability_en": "Succeeded to the line; a mere date in the annals.",
+      "weakness_en": "All policy from Wang Mang; a sudden death under suspicion."
+    },
+    "han-ruzi": {
+      "stand_name": "【居摄之影】",
+      "stand_type": "禅代道具",
+      "cry": "孺子二岁，汉祚告终。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 5,
+        "taolue": 5,
+        "guozuo": 3,
+        "houxiao": 70,
+        "yuedan": 25
+      },
+      "ability": "居摄虚位；坐待禅代。",
+      "weakness": "稚龄无主；生死由人。",
+      "stand_name_en": "Shadow of the Regency",
+      "stand_type_en": "Prop of the Abdication",
+      "cry_en": "An infant of two; the Han mandate ended.",
+      "ability_en": "A placeholder in the regency; awaited the abdication.",
+      "weakness_en": "An infant without power; life and death in others’ hands."
+    },
+    "e-han-ming": {
+      "stand_name": "【永平求法】",
+      "stand_type": "严明治世",
+      "cry": "后宫之家，不得封侯与政。",
+      "scores": {
+        "wugong": 70,
+        "wenzhi": 88,
+        "taolue": 75,
+        "guozuo": 84,
+        "houxiao": 90,
+        "yuedan": 82
+      },
+      "ability": "严切持法；永平求法。",
+      "weakness": "楚狱牵连；苛察过甚。",
+      "stand_name_en": "The Yongping Quest for the Dharma",
+      "stand_type_en": "Stern and Disciplined",
+      "cry_en": "No family of the inner palace may be enfeoffed or share in government.",
+      "ability_en": "Strict in law; the Yongping quest for the Dharma.",
+      "weakness_en": "The Chu-prince case spread wide; his severity overreached."
+    },
+    "e-han-he": {
+      "stand_name": "【燕然勒石】",
+      "stand_type": "幼主亲政",
+      "cry": "燕然既勒，宦官始盛。",
+      "scores": {
+        "wugong": 72,
+        "wenzhi": 65,
+        "taolue": 70,
+        "guozuo": 78,
+        "houxiao": 68,
+        "yuedan": 62
+      },
+      "ability": "诛宪亲政；班超定西。",
+      "weakness": "宦官始盛；外戚循环。",
+      "stand_name_en": "The Yanran Inscription",
+      "stand_type_en": "Child Emperor, Personal Rule",
+      "cry_en": "The Yanran stone was carved; the eunuchs began their rise.",
+      "ability_en": "Destroyed Dou Xian, ruled in person; Ban Chao settled the west.",
+      "weakness_en": "The eunuchs' rise began; the consort cycle turned."
+    },
+    "e-han-shang": {
+      "stand_name": "【百天之帝】",
+      "stand_type": "襁褓冲龄",
+      "cry": "生未百日，已在帝位。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 5,
+        "taolue": 5,
+        "guozuo": 2,
+        "houxiao": 20,
+        "yuedan": 20
+      },
+      "ability": "绍统续祚；汉家不绝。",
+      "weakness": "襁褓即位；八月而崩。",
+      "stand_name_en": "Emperor of a Hundred Days",
+      "stand_type_en": "Sovereign in Swaddling",
+      "cry_en": "Not a hundred days old, and already on the throne.",
+      "ability_en": "Carried on the line; the Han house continued.",
+      "weakness_en": "On the throne in swaddling; dead in a season."
+    },
+    "e-han-an": {
+      "stand_name": "【永初羌乱】",
+      "stand_type": "令德不终",
+      "cry": "羌祸十年，国用空竭。",
+      "scores": {
+        "wugong": 25,
+        "wenzhi": 30,
+        "taolue": 25,
+        "guozuo": 60,
+        "houxiao": 35,
+        "yuedan": 25
+      },
+      "ability": "承统永初；宽恤郡国。",
+      "weakness": "令德不终；内宠乱政。",
+      "stand_name_en": "The Yongchu Qiang Wars",
+      "stand_type_en": "A Good Name Left Unfinished",
+      "cry_en": "A decade of Qiang war drained the treasury dry.",
+      "ability_en": "Succeeded in Yongchu; lenient toward the commanderies.",
+      "weakness_en": "His good name ended early; favorites disordered the rule."
+    },
+    "e-han-shao-bei": {
+      "stand_name": "【两百日帝】",
+      "stand_type": "短祚准帝",
+      "cry": "北乡一薨，顺帝以立。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 5,
+        "taolue": 5,
+        "guozuo": 2,
+        "houxiao": 20,
+        "yuedan": 20
+      },
+      "ability": "继统数月；系年而已。",
+      "weakness": "幼弱暴薨；阎氏随败。",
+      "stand_name_en": "Two Hundred Days",
+      "stand_type_en": "Emperor for a Season",
+      "cry_en": "The Marquis of Beixiang died; Emperor Shun was raised on his fall.",
+      "ability_en": "Reigned a few months; a date in the annals.",
+      "weakness_en": "An infant dead suddenly; the Yans fell with him."
+    },
+    "e-han-shun": {
+      "stand_name": "【十九侯功】",
+      "stand_type": "宦官拥立",
+      "cry": "宦官立君，梁氏继之。",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 45,
+        "taolue": 40,
+        "guozuo": 72,
+        "houxiao": 45,
+        "yuedan": 35
+      },
+      "ability": "班勇通西；八使巡行。",
+      "weakness": "权归后族；宦官封侯。",
+      "stand_name_en": "The Nineteen Marquises",
+      "stand_type_en": "Raised by Eunuchs",
+      "cry_en": "The eunuchs raised the sovereign; the Liangs followed them.",
+      "ability_en": "Ban Yong reopened the west; eight envoys toured the land.",
+      "weakness_en": "Power to the consorts; eunuchs enfeoffed."
+    },
+    "e-han-chong": {
+      "stand_name": "【一岁而崩】",
+      "stand_type": "襁褓冲龄",
+      "cry": "永嘉一年，梁氏当国。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 5,
+        "taolue": 5,
+        "guozuo": 2,
+        "houxiao": 25,
+        "yuedan": 20
+      },
+      "ability": "绍统继祚；汉统未断。",
+      "weakness": "襁褓受命；周岁而崩。",
+      "stand_name_en": "Dead Within a Year",
+      "stand_type_en": "Sovereign in Swaddling",
+      "cry_en": "One year of Yongjia; the Liangs held the state.",
+      "ability_en": "Carried on the line; the Han house endured.",
+      "weakness_en": "Enthroned in swaddling; dead in a year."
+    },
+    "e-han-zhi": {
+      "stand_name": "【跋扈一语】",
+      "stand_type": "聪慧短祚",
+      "cry": "跋扈将军，一言致祸。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 10,
+        "taolue": 10,
+        "guozuo": 2,
+        "houxiao": 40,
+        "yuedan": 45
+      },
+      "ability": "幼而聪慧；临朝辩政。",
+      "weakness": "口祸招鸩；梁氏横恣。",
+      "stand_name_en": "The One Word \"Arrogant\"",
+      "stand_type_en": "Sharp-Witted, Short-Lived",
+      "cry_en": "The arrogant general; one word brought the poison.",
+      "ability_en": "Sharp-witted in childhood; spoke his mind at court.",
+      "weakness_en": "A word cost his life; the Liangs ran wild."
+    },
+    "e-han-huan": {
+      "stand_name": "【党锢之始】",
+      "stand_type": "宦官之朝",
+      "cry": "诛冀五侯，党锢纷起。",
+      "scores": {
+        "wugong": 35,
+        "wenzhi": 30,
+        "taolue": 55,
+        "guozuo": 78,
+        "houxiao": 55,
+        "yuedan": 25
+      },
+      "ability": "借刃宦官；除梁冀权。",
+      "weakness": "五侯擅政；党锢大兴。",
+      "stand_name_en": "The Proscription Begins",
+      "stand_type_en": "Court of the Eunuchs",
+      "cry_en": "Liang Ji fell, the Five Marquises rose, and the proscription swept the land.",
+      "ability_en": "Borrowed the eunuchs' blade; swept away Liang Ji.",
+      "weakness_en": "The Five Marquises ruled; the proscription swelled."
+    },
+    "e-han-ling": {
+      "stand_name": "【西园卖官】",
+      "stand_type": "倾乱之主",
+      "cry": "黄巾一呼，天下瓦解。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 20,
+        "taolue": 35,
+        "guozuo": 75,
+        "houxiao": 70,
+        "yuedan": 15
+      },
+      "ability": "鸿都雅艺；书艺取士。",
+      "weakness": "卖官鬻爵；宠任阉竖。",
+      "stand_name_en": "Offices Sold at the West Garden",
+      "stand_type_en": "The Realm Unmade",
+      "cry_en": "One cry of the Yellow Turbans, and the realm dissolved.",
+      "ability_en": "The Hongdu Academy; arts of calligraphy and letters.",
+      "weakness_en": "Offices sold for gold; eunuchs trusted in everything."
+    },
+    "e-han-shao-bian": {
+      "stand_name": "【弘农之殇】",
+      "stand_type": "废立牺牲",
+      "cry": "董卓废立，弘农鸩死。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 5,
+        "taolue": 5,
+        "guozuo": 2,
+        "houxiao": 45,
+        "yuedan": 25
+      },
+      "ability": "绍统即位；无罪废立。",
+      "weakness": "权臣操弄；鸩死临穴。",
+      "stand_name_en": "Tragedy of the Prince of Hongnong",
+      "stand_type_en": "Sacrifice of the Deposition",
+      "cry_en": "Dong Zhuo made and unmade the throne; the Prince of Hongnong died of poison.",
+      "ability_en": "Succeeded to the line; deposed without fault.",
+      "weakness_en": "Tossed by the strongmen; poisoned at the grave's edge."
+    },
+    "e-han-xian": {
+      "stand_name": "【汉祚终章】",
+      "stand_type": "末世迁播",
+      "cry": "四百年祚，禅于曹丕。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 20,
+        "taolue": 15,
+        "guozuo": 85,
+        "houxiao": 90,
+        "yuedan": 60
+      },
+      "ability": "忍辱负重；保身全名。",
+      "weakness": "政出权臣；名存实亡。",
+      "stand_name_en": "The Last Chapter of Han",
+      "stand_type_en": "Wandering in the Fall",
+      "cry_en": "Four hundred years of the mandate, abdicated to Cao Pi.",
+      "ability_en": "Endured humiliation; kept his name whole.",
+      "weakness_en": "Government by the strongmen; a name without a state."
     }
   }
 }

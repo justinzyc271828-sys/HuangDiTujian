@@ -1,0 +1,267 @@
+id: han-ping-di
+tier: emperor
+sort_key: 汉-014
+names:
+  display: 汉平帝
+  display_en: Emperor Ping of Han
+  personal: 刘衎
+  personal_en: Liu Kan
+  temple: null
+  posthumous: 孝平皇帝
+  aliases:
+  - 平帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 14
+reign:
+  start: '-1'
+  end: '5'
+  eras:
+  - 元始
+life:
+  birth: '-9'
+  death: '5'
+  birth_place_id: zhong-shan
+  death_place_id: chang-an
+summary: 九岁入继，政由王莽；莽女为后、莽加九锡，平帝崩年十四，本纪书崩而莽传载鸠说。
+summary_en: Brought in at nine with all policy from Wang Mang; Mang's daughter became empress and Mang took the Nine Distinctions. Ping died at fourteen; the benji records death, Mang's biography speaks of poison.
+tags:
+- 王莽秉政
+- 幼帝
+- 九锡
+- 鸠弑之疑
+tags_en:
+- Wang Mang's Rule
+- Child Emperor
+- Nine Distinctions
+- Poison Suspicions
+portrait:
+  primary: assets/portraits/han-ping-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《汉书》未系统描写平帝形貌。画像宜表现稚龄天子的清弱之态，衣冠从西汉末制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-ping-di.md
+timeline:
+- year: '-9'
+  date_note: 元延四年
+  date_note_en: Yuanyan 4
+  title: 生于中山
+  title_en: Born in Zhongshan
+  summary: 中山孝王刘兴之子。
+  summary_en: A son of Liu Xing, the filial king of Zhongshan.
+  place_id: zhong-shan
+  related_person_ids: []
+  sources:
+  - 汉书·卷012·平帝纪
+  card_id: E001
+- year: '-1'
+  date_note: 元寿二年九月
+  date_note_en: Yuanshou 2, 9th month
+  title: 即皇帝位
+  title_en: Enthroned
+  summary: 哀帝崩，太皇太后与王莽定策迎中山王，年九岁即位，委政于莽。
+  summary_en: Emperor Ai died; the grand empress dowager and Wang Mang brought in the king of Zhongshan, nine years old, and entrusted the government to Mang.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  - han-ai-di
+  sources:
+  - 汉书·卷012·平帝纪
+  card_id: E002
+- year: '1'
+  date_note: 元始元年
+  date_note_en: Yuanshi 1
+  title: 废成帝赵后哀帝傅后
+  title_en: The Two Empresses Dowager Set Aside
+  summary: 莽奏赵氏害皇子、傅氏骄僭，废二后，皆令自杀。
+  summary_en: Mang charged Zhao with harming princes and Fu with arrogance; both empresses dowager were deposed and ordered to kill themselves.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·外戚传
+  card_id: E003
+- year: '1'
+  date_note: 元始元年
+  date_note_en: Yuanshi 1
+  title: 莽为安汉公
+  title_en: Mang Made Duke of Anding Han
+  summary: 孔光等奏莽为太傅，号安汉公，盖霍光故事。
+  summary_en: Kong Guang and others raised Mang to Grand Tutor with the title "Duke Who Settles Han," after the precedent of Huo Guang.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·卷099·王莽传
+  card_id: E004
+- year: '2'
+  date_note: 元始二年
+  date_note_en: Yuanshi 2
+  title: 纳莽女为皇后
+  title_en: Mang's Daughter Made Empress
+  summary: 莽欲依霍光以女配帝，明年立为皇后。
+  summary_en: Following Huo Guang's precedent, Mang married his daughter to the emperor; she was made empress the next year.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·卷099·王莽传
+  card_id: E005
+- year: '2'
+  date_note: 元始二年
+  date_note_en: Yuanshi 2
+  title: 郡国大旱蝗
+  title_en: Drought and Locusts
+  summary: 旱蝗，莽捐钱献田振贫，以收民誉。
+  summary_en: Drought and locusts struck; Mang gave money and fields to relieve the poor, winning popular acclaim.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·卷099·王莽传
+  card_id: E006
+- year: '3'
+  date_note: 元始三年
+  date_note_en: Yuanshi 3
+  title: 立官稷及学官
+  title_en: State Schools and Altars
+  summary: 莽奏为学者筑舍万区，郡国乡聚置学官。
+  summary_en: Mang memorialized to build ten thousand quarters for scholars and establish schools throughout the commanderies.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·卷099·王莽传
+  card_id: E007
+- year: '4'
+  date_note: 元始四年
+  date_note_en: Yuanshi 4
+  title: 加莽宰衡
+  title_en: Mang Made Chief of the Realm
+  summary: 莽号宰衡，位上公。
+  summary_en: Mang took the title "Chief of the Realm," above the Three Dukes.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  - 汉书·卷012·平帝纪
+  card_id: E008
+- year: '4'
+  date_note: 元始四年
+  date_note_en: Yuanshi 4
+  title: 莽加九锡
+  title_en: The Nine Distinctions
+  summary: 群臣奏请九锡，莽受之，篡汉仪式完备。
+  summary_en: The ministers petitioned the Nine Distinctions for Mang, who accepted them — the usurpation's ceremonial machinery complete.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E009
+- year: '5'
+  date_note: 元始五年十二月
+  date_note_en: Yuanshi 5, 12th month
+  title: 平帝崩
+  title_en: Death of Emperor Ping
+  summary: 帝崩，年十四；本纪书崩，《王莽传》载置毒酒之说。
+  summary_en: He died at fourteen; the benji records a plain death, while the Wang Mang biography records a tale of poisoned wine.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷012·平帝纪
+  - 汉书·卷099·王莽传
+  card_id: E011
+- year: '5'
+  date_note: 元始五年
+  date_note_en: Yuanshi 5
+  title: 立孺子居摄
+  title_en: The Infant and the Regency
+  summary: 立宣帝玄孙婴为皇太子，号孺子；莽居摄践祚。
+  summary_en: Emperor Xuan's great-great-grandson Ying was made heir, styled "the Infant," and Mang assumed the regency in his place.
+  place_id: chang-an
+  related_person_ids:
+  - han-ruzi
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: han-ai-di
+  note: 哀帝无子，中山王箕子入继
+- type: successor
+  target_id: han-ruzi
+  note: 平帝崩，孺子婴立，王莽居摄
+- type: related_emperor
+  target_id: xin-wang-mang
+  note: 平帝朝政皆出王莽，禅代之路完成于其身后
+routes:
+- group: 都城
+  order: 1
+  year: '-9'
+  place_id: zhong-shan
+  event: 生于中山
+- group: 都城
+  order: 2
+  year: '-1'
+  place_id: chang-an
+  event: 即皇帝位
+- group: 都城
+  order: 3
+  year: '1'
+  place_id: chang-an
+  event: 废成帝赵后哀帝傅后
+- group: 都城
+  order: 4
+  year: '1'
+  place_id: chang-an
+  event: 莽为安汉公
+- group: 都城
+  order: 5
+  year: '2'
+  place_id: chang-an
+  event: 纳莽女为皇后
+- group: 都城
+  order: 6
+  year: '4'
+  place_id: chang-an
+  event: 加莽宰衡
+- group: 都城
+  order: 7
+  year: '4'
+  place_id: chang-an
+  event: 莽加九锡
+- group: 都城
+  order: 8
+  year: '5'
+  place_id: chang-an
+  event: 平帝崩
+- group: 都城
+  order: 9
+  year: '5'
+  place_id: chang-an
+  event: 立孺子居摄
+sources:
+- title: 汉书·平帝纪
+  note: 主叙事（本纪甚简）
+- title: 汉书·王莽传
+  note: 安汉公、宰衡、九锡与鸠说
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西汉第十四帝，正史立纪；王莽代汉完成前的傀儡皇帝。
+  synced_from_cards: true

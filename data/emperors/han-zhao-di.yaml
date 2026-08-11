@@ -1,0 +1,275 @@
+id: han-zhao-di
+tier: emperor
+sort_key: 汉-008
+names:
+  display: 汉昭帝
+  display_en: Emperor Zhao of Han
+  personal: 刘弗陵
+  personal_en: Liu Fuling
+  temple: null
+  posthumous: 孝昭皇帝
+  aliases:
+  - 昭帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 8
+reign:
+  start: '-87'
+  end: '-74'
+  eras:
+  - 始元
+  - 元凤
+  - 元平
+life:
+  birth: '-94'
+  death: '-74'
+  birth_place_id: chang-an
+  death_place_id: chang-an
+summary: 八岁即位，霍光辅政，盐铁之议、轻徭薄赋，与民休息；年二十一崩而无嗣。
+summary_en: Ascending at eight with Huo Guang as regent, he brought the Salt and Iron Debate, light corvée and taxes, and rest for the people; he died at twenty-one without issue.
+tags:
+- 盐铁之议
+- 霍光辅政
+- 休养生息
+- 英年早逝
+tags_en:
+- Salt and Iron Debate
+- Huo Guang Regency
+- Rest for the People
+- Died Young
+portrait:
+  primary: assets/portraits/han-zhao-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《汉书》未系统描写昭帝形貌。画像宜表现少年天子的清俊之态，衣冠从昭宣之际制度，气质早慧而略带早逝之哀。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-zhao-di.md
+timeline:
+- year: '-94'
+  date_note: 武帝太始/征和间
+  date_note_en: between Taishi and Zhenghe of Emperor Wu
+  title: 钩弋子生
+  title_en: Son of the Hook-Yi Lady
+  summary: 武帝少子，母赵婕妤（钩弋夫人）；生年史无系日，此据即位年岁反推。
+  summary_en: The youngest son of Emperor Wu, by Lady Zhao, the Hook-Yi Lady; the exact year is unrecorded and back-calculated from his age at accession.
+  place_id: chang-an
+  related_person_ids:
+  - han-wu-di
+  sources:
+  - 汉书·卷007·昭帝纪
+  - 汉书·外戚传
+  card_id: E001
+- year: '-87'
+  date_note: 后元二年二月
+  date_note_en: Later 2nd year, 2nd month
+  title: 立太子并即位
+  title_en: Heir Apparent, then Emperor
+  summary: 武帝疾病，立弗陵为太子，霍光受遗诏辅政；明日武帝崩，太子即皇帝位。
+  summary_en: With Emperor Wu ill, Fuling was made heir apparent and Huo Guang received the testamentary charge; the next day Wu died and the heir took the throne.
+  place_id: chang-an
+  related_person_ids:
+  - han-wu-di
+  sources:
+  - 汉书·卷007·昭帝纪
+  card_id: E002
+- year: '-86'
+  date_note: 始元元年
+  date_note_en: Shiyuan 1
+  title: 益州廉头姑缯反
+  title_en: Revolt in Yizhou
+  summary: 益州廉头、姑缯民反，遣吕破胡募吏民及发犍为、蜀郡兵击破之。
+  summary_en: The Lientou and Guzeng peoples of Yizhou revolted; Lü Poho was sent to levy men and troops from Qianwei and Shu commanderies and crushed them.
+  place_id: yi-zhou
+  related_person_ids: []
+  sources:
+  - 汉书·卷007·昭帝纪
+  card_id: E003
+- year: '-81'
+  date_note: 始元六年二月
+  date_note_en: Shiyuan 6, 2nd month
+  title: 盐铁会议
+  title_en: The Salt and Iron Debate
+  summary: 问郡国贤良文学民所疾苦，议罢盐铁酒榷均输，后罢榷酤。
+  summary_en: The worthy and literary men of the commanderies were asked about the people's grievances; the debate over the salt, iron, liquor monopoly, and equal transport led to abolition of the liquor monopoly.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷007·昭帝纪
+  - 盐铁论·本议
+  card_id: E004
+- year: '-80'
+  date_note: 元凤元年
+  date_note_en: Yuanfeng 1
+  title: 燕王旦上官桀谋反
+  title_en: Plot of the King of Yan and Shangguan Jie
+  summary: 燕王旦与上官桀、桑弘羊等谋杀霍光废帝，事败族诛，旦自杀。
+  summary_en: The king of Yan, Shangguan Jie, Sang Hongyang, and others plotted to kill Huo Guang and depose the emperor; the plot failed, the plotters were executed with their clans, and the king killed himself.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷007·昭帝纪
+  - 汉书·武五子传
+  card_id: E005
+- year: '-80'
+  date_note: 元凤元年
+  date_note_en: Yuanfeng 1
+  title: 霍光权固
+  title_en: Huo Guang's Grip Firm
+  summary: 诛反者后霍光专制朝事，昭帝「委任霍光」。
+  summary_en: After the purge Huo Guang dominated the court, the emperor entrusting everything to him.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·霍光传
+  card_id: E006
+- year: '-77'
+  date_note: 元凤四年
+  date_note_en: Yuanfeng 4
+  title: 傅介子斩楼兰王
+  title_en: Fu Jiezi Slays the King of Loulan
+  summary: 平乐监傅介子使西域，计斩楼兰王安归，更名其国为鄯善。
+  summary_en: Fu Jiezi, superintendent of Pingle, went to the Western Regions, slew the Loulan king Angui by stratagem, and renamed the state Shanshan.
+  place_id: loulan
+  related_person_ids: []
+  sources:
+  - 汉书·卷007·昭帝纪
+  - 汉书·傅介子传
+  card_id: E007
+- year: '-74'
+  date_note: 元平元年四月
+  date_note_en: Yuanping 1, 4th month
+  title: 昭帝崩
+  title_en: Death of Emperor Zhao
+  summary: 崩，年二十一，无嗣；大将军霍光等议所立。
+  summary_en: He died at twenty-one without issue; General-in-Chief Huo Guang and the others deliberated on a successor.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷007·昭帝纪
+  card_id: E008
+- year: '-74'
+  date_note: 元平元年
+  date_note_en: Yuanping 1
+  title: 立昌邑王贺
+  title_en: Prince He of Changyi Enthroned
+  summary: 迎昌邑王贺即位。
+  summary_en: Prince He of Changyi was summoned and enthroned.
+  place_id: chang-an
+  related_person_ids:
+  - han-changyi
+  sources:
+  - 汉书·卷007·昭帝纪
+  - 汉书·霍光传
+  card_id: E009
+- year: '-74'
+  date_note: 元平元年
+  date_note_en: Yuanping 1
+  title: 废昌邑王
+  title_en: Prince He Deposed
+  summary: 贺即位二十七日，行淫乱，霍光与群臣奏皇太后废之。
+  summary_en: Twenty-seven days into his reign He behaved dissolutely; Huo Guang and the ministers petitioned the empress dowager to depose him.
+  place_id: chang-an
+  related_person_ids:
+  - han-changyi
+  sources:
+  - 汉书·霍光传
+  card_id: E010
+- year: '-74'
+  date_note: 元平元年七月
+  date_note_en: Yuanping 1, 7th month
+  title: 迎立宣帝
+  title_en: Emperor Xuan Called to the Throne
+  summary: 光等奏立武帝曾孙病已，是为孝宣皇帝。
+  summary_en: Huo Guang and the others memorialized to raise Emperor Wu's great-grandson Bingyi, the Emperor Xuan.
+  place_id: chang-an
+  related_person_ids:
+  - han-xuan-di
+  sources:
+  - 汉书·卷008·宣帝纪
+  - 汉书·霍光传
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: han-wu-di
+  note: 武帝末立少子为太子，遗诏霍光辅政
+- type: successor
+  target_id: han-changyi
+  note: 昭帝无嗣，昌邑王贺继统二十七日被废
+- type: related_emperor
+  target_id: han-xuan-di
+  note: 霍光之政延及宣帝，合称昭宣之治
+routes:
+- group: 都城
+  order: 1
+  year: '-94'
+  place_id: chang-an
+  event: 钩弋子生
+- group: 都城
+  order: 2
+  year: '-87'
+  place_id: chang-an
+  event: 立太子并即位
+- group: 其他
+  order: 3
+  year: '-86'
+  place_id: yi-zhou
+  event: 益州廉头姑缯反
+- group: 都城
+  order: 4
+  year: '-81'
+  place_id: chang-an
+  event: 盐铁会议
+- group: 都城
+  order: 5
+  year: '-80'
+  place_id: chang-an
+  event: 燕王旦上官桀谋反
+- group: 都城
+  order: 6
+  year: '-80'
+  place_id: chang-an
+  event: 霍光权固
+- group: 其他
+  order: 7
+  year: '-77'
+  place_id: loulan
+  event: 傅介子斩楼兰王
+- group: 都城
+  order: 8
+  year: '-74'
+  place_id: chang-an
+  event: 昭帝崩
+- group: 都城
+  order: 9
+  year: '-74'
+  place_id: chang-an
+  event: 立昌邑王贺
+- group: 都城
+  order: 10
+  year: '-74'
+  place_id: chang-an
+  event: 废昌邑王
+- group: 都城
+  order: 11
+  year: '-74'
+  place_id: chang-an
+  event: 迎立宣帝
+sources:
+- title: 汉书·昭帝纪
+  note: 主叙事
+- title: 汉书·霍光传
+  note: 辅政与废立
+- title: 汉书·傅介子传 / 武五子传
+  note: 楼兰与燕王事
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西汉第八帝，昭宣之治前半，正史立纪。
+  synced_from_cards: true

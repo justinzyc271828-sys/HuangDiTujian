@@ -1,0 +1,12 @@
+id: guangling
+names:
+  historical: 广陵
+  modern: 江苏省扬州市
+  english: Guangling
+coords:
+  lng: 119.42
+  lat: 32.39
+  precision: approximate
+map:
+  region: 淮南
+notes: 汉吴国都，吴王濞七国之乱起兵处

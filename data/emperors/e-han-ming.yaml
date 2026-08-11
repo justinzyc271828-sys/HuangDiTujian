@@ -1,0 +1,263 @@
+id: e-han-ming
+tier: emperor
+sort_key: 东汉-002
+names:
+  display: 汉明帝
+  display_en: Emperor Ming of Han
+  personal: 刘庄
+  personal_en: Liu Zhuang
+  temple: 显宗
+  posthumous: 孝明皇帝
+  aliases:
+  - 明帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 2
+reign:
+  start: '57'
+  end: '75'
+  eras:
+  - 永平
+life:
+  birth: '28'
+  death: '75'
+  birth_place_id: luoyang
+  death_place_id: luoyang
+summary: 光武之子，严切持法，后宫不封侯与政；永平求法、云台图画，窦固取伊吾，班超使西域，明章之治前半。
+summary_en: Son of Guangwu, strict in law and keeping the harem from power; the Yongping search for the Dharma, the Yuntai portraits, Dou Gu taking Yiwu, and Ban Chao sent west — the first half of the Ming-Zhang age.
+tags:
+- 严明
+- 永平求法
+- 云台功臣
+- 明章之治
+tags_en:
+- Stern Discipline
+- Yongping Buddhism
+- Yuntai Portraits
+- Ming-Zhang Age
+portrait:
+  primary: assets/portraits/e-han-ming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写明帝形貌。画像宜表现严切刚毅的中年君主之态，衣冠从东汉前期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-ming.md
+timeline:
+- year: '28'
+  date_note: 建武四年
+  date_note_en: Jianwu 4
+  title: 生
+  title_en: Birth
+  summary: 光武第四子，母阴皇后；生而丰下，十岁能通《春秋》。
+  summary_en: The fourth son of Guangwu by Empress Yin; born with a broad chin, he could master the Spring and Autumn Annals at ten.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-guangwu
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E001
+- year: '39'
+  date_note: 建武十五年
+  date_note_en: Jianwu 15
+  title: 封东海公
+  title_en: Duke of Donghai
+  summary: 封东海公，后进爵为王。
+  summary_en: He was made Duke of Donghai, later raised to king.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E002
+- year: '43'
+  date_note: 建武十九年
+  date_note_en: Jianwu 19
+  title: 立为皇太子
+  title_en: Heir Apparent
+  summary: 郭后废、阴后立，庄为皇太子，师事桓荣学《尚书》。
+  summary_en: With Empress Guo deposed and Yin raised in her place, Zhuang became heir apparent, studying the Documents under Huan Rong.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-guangwu
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E003
+- year: '57'
+  date_note: 中元二年二月
+  date_note_en: Zhongyuan 2, 2nd month
+  title: 即位
+  title_en: Accession
+  summary: 光武崩，庄即皇帝位，年三十。
+  summary_en: Guangwu died; Zhuang took the throne at thirty.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-guangwu
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E004
+- year: '58'
+  date_note: 永平元年
+  date_note_en: Yongping 1
+  title: 参与定礼乐
+  title_en: Rites and Music Settled
+  summary: 定北郊、冠冕车服制度，遵奉建武故事。
+  summary_en: The Northern Suburb sacrifice, caps, and carriage regalia were settled, following the Jianwu precedents.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E005
+- year: '60'
+  date_note: 永平中
+  date_note_en: mid-Yongping
+  title: 图画云台功臣
+  title_en: The Yuntai Portraits
+  summary: 追感前世功臣，图画二十八将于南宫云台，以邓禹为首。
+  summary_en: Recalling the founders' merits, he had the Twenty-eight Generals painted in the Yuntai Hall of the Southern Palace, headed by Deng Yu.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷022·马武传
+  - 后汉书·卷002·明帝纪
+  card_id: E006
+- year: '65'
+  date_note: 永平八年
+  date_note_en: Yongping 8
+  title: 诏报楚王英
+  title_en: The Edict to Prince Ying of Chu
+  summary: 诏报楚王英助「伊蒲塞桑门」盛馔，为官方文书中较早涉及浮屠者。
+  summary_en: An edict acknowledged Prince Ying of Chu's patronage of "upasaka and shramana" feasts — an early mention of Buddhism in official documents.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·楚王英传
+  - 后汉书·卷002·明帝纪
+  card_id: E007
+- year: '69'
+  date_note: 永平十二年
+  date_note_en: Yongping 12
+  title: 王景治汴
+  title_en: Wang Jing Tames the Bian
+  summary: 遣王景、王吴修汴渠，自荥阳东至千乘海口，河汴分流。
+  summary_en: Wang Jing and Wang Wu were sent to repair the Bian canal from Xingyang east to the Qiansheng estuary, separating river and canal.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷002·明帝纪
+  - 后汉书·王景传
+  card_id: E008
+- year: '73'
+  date_note: 永平十六年
+  date_note_en: Yongping 16
+  title: 窦固取伊吾
+  title_en: Dou Gu Takes Yiwu
+  summary: 窦固等伐北匈奴，取伊吾卢地，置宜禾都尉；班超与郭恂俱使西域。
+  summary_en: Dou Gu and others struck the northern Xiongnu, took the Yiwulu lands, and installed the Yihe commandant; Ban Chao and Guo Xun were sent to the Western Regions.
+  place_id: yi-wu
+  related_person_ids: []
+  sources:
+  - 后汉书·卷002·明帝纪
+  - 后汉书·班超传
+  card_id: E009
+- year: '74'
+  date_note: 永平十七年
+  date_note_en: Yongping 17
+  title: 西域诸国遣子入侍
+  title_en: Western Regions Submit
+  summary: 窦固、耿秉击车师，西域复通，诸国遣子入侍。
+  summary_en: Dou Gu and Geng Bing struck Cheshi; the Western Regions were reopened and their states sent sons to serve at court.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E010
+- year: '75'
+  date_note: 永平十八年八月
+  date_note_en: Yongping 18, 8th month
+  title: 明帝崩
+  title_en: Death of Emperor Ming
+  summary: 崩于东宫前殿，年四十八；遗诏无起寝庙。
+  summary_en: He died in the front hall of the Eastern Palace at forty-eight, his will ordering no memorial temple.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-zhang
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-guangwu
+  note: 光武崩，太子庄即位
+- type: successor
+  target_id: e-han-zhang
+  note: 明帝崩，太子炟即位
+- type: related_emperor
+  target_id: han-wu-di
+  note: 汉武开边立制与明帝严明治世，跨朝对照
+routes:
+- group: 都城
+  order: 1
+  year: '28'
+  place_id: luoyang
+  event: 生
+- group: 都城
+  order: 2
+  year: '39'
+  place_id: luoyang
+  event: 封东海公
+- group: 都城
+  order: 3
+  year: '43'
+  place_id: luoyang
+  event: 立为皇太子
+- group: 都城
+  order: 4
+  year: '57'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 5
+  year: '58'
+  place_id: luoyang
+  event: 参与定礼乐
+- group: 都城
+  order: 6
+  year: '60'
+  place_id: luoyang
+  event: 图画云台功臣
+- group: 其他
+  order: 7
+  year: '69'
+  place_id: luoyang
+  event: 王景治汴
+- group: 其他
+  order: 8
+  year: '73'
+  place_id: yi-wu
+  event: 窦固取伊吾
+- group: 其他
+  order: 9
+  year: '74'
+  place_id: hexi
+  event: 西域诸国遣子入侍
+- group: 都城
+  order: 10
+  year: '75'
+  place_id: luoyang
+  event: 明帝崩
+sources:
+- title: 后汉书·明帝纪
+  note: 主叙事
+- title: 后汉书·班超传 / 王景传 / 楚王英传
+  note: 西域、治汴与浮屠
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第二帝，明章之治前半，正史立纪。
+  synced_from_cards: true

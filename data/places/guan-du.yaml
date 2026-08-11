@@ -1,0 +1,12 @@
+id: guan-du
+names:
+  historical: 官渡
+  modern: 河南省中牟县东北一带
+  english: Guandu
+coords:
+  lng: 114.0
+  lat: 34.9
+  precision: schematic
+map:
+  region: 河南
+notes: 建安五年袁曹决战处

@@ -1,0 +1,12 @@
+id: xu-chang
+names:
+  historical: 许
+  modern: 河南省许昌市一带
+  english: Xu (Xuchang)
+coords:
+  lng: 113.8
+  lat: 34.0
+  precision: approximate
+map:
+  region: 河南
+notes: 建安元年曹操迎献帝都许，魏黄初元年禅代于此

@@ -1,0 +1,12 @@
+id: ye-xian
+names:
+  historical: 叶
+  modern: 河南省平顶山市叶县一带
+  english: Ye County
+coords:
+  lng: 113.36
+  lat: 33.61
+  precision: approximate
+map:
+  region: 河南
+notes: 安帝延光四年南巡崩于此（属南阳郡）

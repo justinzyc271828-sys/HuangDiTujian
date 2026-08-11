@@ -1,0 +1,262 @@
+id: e-han-zhang
+tier: emperor
+sort_key: 东汉-003
+names:
+  display: 汉章帝
+  display_en: Emperor Zhang of Han
+  personal: 刘炟
+  personal_en: Liu Da
+  temple: 肃宗
+  posthumous: 孝章皇帝
+  aliases:
+  - 章帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 3
+reign:
+  start: '75'
+  end: '88'
+  eras:
+  - 建初
+  - 元和
+  - 章和
+life:
+  birth: '57'
+  death: '88'
+  birth_place_id: luoyang
+  death_place_id: luoyang
+summary: 明帝子，崇儒白虎观，宽厚安民，班超定西域；宠任窦氏，外戚之祸伏焉。
+summary_en: Son of Emperor Ming, he exalted Confucianism at White Tiger Hall and ruled with breadth and lenience while Ban Chao settled the Western Regions; his indulgence of the Dou clan planted the consort-clan disaster.
+tags:
+- 明章之治
+- 白虎观
+- 宽厚
+- 外戚
+tags_en:
+- Ming-Zhang Age
+- White Tiger Hall
+- Lenient Rule
+- Consort Clans
+portrait:
+  primary: assets/portraits/e-han-zhang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写章帝形貌。画像宜表现宽厚长者的中年君主之态，衣冠从东汉前期制度，气质温缓少威。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-zhang.md
+timeline:
+- year: '57'
+  date_note: 中元二年
+  date_note_en: Zhongyuan 2
+  title: 生
+  title_en: Birth
+  summary: 明帝子，永平三年立为皇太子。
+  summary_en: A son of Emperor Ming, he was made heir apparent in the third Yongping year.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-ming
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E001
+- year: '60'
+  date_note: 永平三年
+  date_note_en: Yongping 3
+  title: 立为太子
+  title_en: Heir Apparent
+  summary: 立炟为皇太子。
+  summary_en: Da was made heir apparent.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-ming
+  sources:
+  - 后汉书·卷002·明帝纪
+  card_id: E002
+- year: '75'
+  date_note: 永平十八年
+  date_note_en: Yongping 18
+  title: 即位
+  title_en: Accession
+  summary: 明帝崩，炟即位，是为章帝。
+  summary_en: Emperor Ming died; Da succeeded as Emperor Zhang.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-ming
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E003
+- year: '76'
+  date_note: 建初元年
+  date_note_en: Jianchu 1
+  title: 诏举贤良
+  title_en: Worthy Men Summoned
+  summary: 地震等灾异后诏举贤良，求言恤民。
+  summary_en: After earthquakes and other portents he summoned worthy men, seeking counsel and relief for the people.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E004
+- year: '78'
+  date_note: 建初三年
+  date_note_en: Jianchu 3
+  title: 立窦后
+  title_en: Empress Dou Enthroned
+  summary: 立窦氏为皇后，外戚伏笔。
+  summary_en: Dou was made empress, planting the seed of consort-clan power.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  - 后汉书·皇后纪
+  card_id: E005
+- year: '79'
+  date_note: 建初四年
+  date_note_en: Jianchu 4
+  title: 白虎观会议
+  title_en: The White Tiger Hall Conference
+  summary: 诸儒讲五经同异，帝亲称制临决。
+  summary_en: The scholars debated the agreements and differences of the Five Classics, and the emperor gave the final verdict in person.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  - 后汉书·班固传
+  card_id: E006
+- year: '83'
+  date_note: 建初八年
+  date_note_en: Jianchu 8
+  title: 马防等击羌
+  title_en: Ma Fang vs. the Qiang
+  summary: 遣马防等击西羌诸部。
+  summary_en: Ma Fang and others were sent against the Qiang tribes.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E007
+- year: '84'
+  date_note: 元和元年
+  date_note_en: Yuanhe 1
+  title: 南巡
+  title_en: The Southern Tour
+  summary: 南巡至南阳等郡，礼制活动。
+  summary_en: He toured south through Nanyang and other commanderies on a ritual progress.
+  place_id: nan-yang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E008
+- year: '85'
+  date_note: 元和二年
+  date_note_en: Yuanhe 2
+  title: 北巡
+  title_en: The Northern Tour
+  summary: 北巡河内等郡，耕籍田。
+  summary_en: He toured north through Henei and other commanderies and ploughed the sacred field.
+  place_id: he-nei
+  related_person_ids: []
+  sources:
+  - 后汉书·卷003·章帝纪
+  card_id: E009
+- year: '87'
+  date_note: 章和元年
+  date_note_en: Zhanghe 1
+  title: 班超定西域
+  title_en: Ban Chao Settles the Western Regions
+  summary: 班超击破焉耆等，西域诸国归汉。
+  summary_en: Ban Chao broke Yanqi and the other states, and the Western Regions returned to Han.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·班超传
+  - 后汉书·卷003·章帝纪
+  card_id: E010
+- year: '88'
+  date_note: 章和二年
+  date_note_en: Zhanghe 2
+  title: 章帝崩
+  title_en: Death of Emperor Zhang
+  summary: 崩，和帝幼，窦太后临朝。
+  summary_en: He died; Emperor He was a child, and Empress Dowager Dou took the regency.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-he
+  sources:
+  - 后汉书·卷003·章帝纪
+  - 后汉书·卷004·和帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-ming
+  note: 明帝崩，太子炟即位
+- type: successor
+  target_id: e-han-he
+  note: 章帝崩，和帝幼年即位，窦太后临朝
+- type: related_emperor
+  target_id: e-han-guangwu
+  note: 光武创业与明章守文，东汉三代对照
+routes:
+- group: 都城
+  order: 1
+  year: '57'
+  place_id: luoyang
+  event: 生
+- group: 都城
+  order: 2
+  year: '60'
+  place_id: luoyang
+  event: 立为太子
+- group: 都城
+  order: 3
+  year: '75'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 4
+  year: '78'
+  place_id: luoyang
+  event: 立窦后
+- group: 都城
+  order: 5
+  year: '79'
+  place_id: luoyang
+  event: 白虎观会议
+- group: 巡狩
+  order: 6
+  year: '84'
+  place_id: nan-yang
+  event: 南巡
+- group: 巡狩
+  order: 7
+  year: '85'
+  place_id: he-nei
+  event: 北巡
+- group: 其他
+  order: 8
+  year: '87'
+  place_id: hexi
+  event: 班超定西域
+- group: 都城
+  order: 9
+  year: '88'
+  place_id: luoyang
+  event: 章帝崩
+sources:
+- title: 后汉书·章帝纪
+  note: 主叙事
+- title: 后汉书·明帝纪 / 和帝纪
+  note: 前后交接
+- title: 后汉书·班固传 / 班超传
+  note: 白虎观与西域
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第三帝，明章之治后半，正史立纪。
+  synced_from_cards: true

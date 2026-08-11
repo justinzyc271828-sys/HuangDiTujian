@@ -1,0 +1,11 @@
+# Emperor Xian of Han · Principal Deeds
+
+Liu Xie was the second son of [[e-han-ling|Emperor Ling]]. In the sixth Zhongping year, Dong Zhuo deposed [[e-han-shao-bian|the Young Emperor Bian]] and raised the nine-year-old Xie as Emperor Xian — the last emperor of the four-hundred-year Han, beginning his thirty-one years as a "movable imperial seal."
+
+In the first Chuping year Dong Zhuo forced the court to Chang'an, burning the palaces of Luoyang: the Eastern Han center was uprooted for the first time. In the third Chuping year Wang Yun and Lü Bu killed Dong Zhuo, only to be overthrown by Li Jue and Guo Si; Chang'an fell into chaos again. In the second Xingping year the emperor left Chang'an and fled east, robbed by the soldiery on the road, living on dates and chestnuts, drifting through Caoyang and Hongnong. In the first Jian'an year Cao Cao received the emperor and settled the court at Xu — "supporting the Son of Heaven to command the disobedient." Xian at last had a fixed capital, and at last a master he could never shake.
+
+The twenty-four years at Xu were the years of the Cao house's conquest of the realm, and of Xian's role as the prop of an abdication: the Guandu campaign of Jian'an 5 and the Red Cliffs of Jian'an 13 were fought under his name; in Jian'an 19 Cao Cao slew Empress Fu, and Xian could only be silent; in the first Yankang year (220) Cao Pi received the abdication, and Xian was enfeoffed Duke of Shanyang. Eastern Han was formally finished. He had been emperor for thirty-one years without a single day of real power, yet under his "Jian'an" era name the whole Three Kingdoms pattern took shape.
+
+As Duke of Shanyang he lived another fourteen years, dying in the second Qinglong year of Wei at fifty-four, buried with the rites of a Han emperor. The historians' verdict — "he got the throne in hardship and drifting, tossed on the waves of the age" — fits him exactly: the Han mandate, opened by [[e-han-guangwu|Emperor Guangwu]]'s restoration, closed with Xian's abdication.
+
+> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 9 (Benji of Emperor Xian) and the biography of Dong Zhuo; the *Sanguozhi*, biographies of Emperor Wu (Cao Cao) and Emperor Wen (Cao Pi); Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

@@ -1,0 +1,174 @@
+id: han-hou-shao
+tier: quasi
+sort_key: 汉-004
+names:
+  display: 后少帝
+  display_en: Later Young Emperor
+  personal: 刘弘
+  personal_en: Liu Hong
+  temple: null
+  posthumous: null
+  aliases:
+  - 少帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 4
+reign:
+  start: '-184'
+  end: '-180'
+  eras: []
+life:
+  birth: null
+  death: '-180'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 前少帝废后所立，高后崩后大臣诛诸吕，以其非惠帝子废杀，汉统重归刘氏。
+summary_en: Enthroned after the Former Young Emperor was deposed, he was set aside and slain when the ministers destroyed the Lü clan after the empress dowager's death, restoring the Han line to the Liu house.
+tags:
+- 吕氏称制
+- 临朝终局
+- 废杀
+- 迎立文帝
+tags_en:
+- Lü Regency
+- End of the Regency
+- Deposed and Slain
+- Emperor Wen Called In
+portrait:
+  primary: assets/portraits/han-hou-shao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载甚简。画像宜表现稚龄傀儡之态，衣冠从汉初制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-hou-shao.md
+timeline:
+- year: '-184'
+  date_note: 高后四年
+  date_note_en: 4th year of Empress Lü
+  title: 立为帝
+  title_en: Enthroned
+  summary: 前少帝死，立恒山王刘弘为帝。
+  summary_en: The Former Young Emperor died; Liu Hong, king of Hengshan, was enthroned.
+  place_id: chang-an
+  related_person_ids:
+  - han-qian-shao
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E001
+- year: '-181'
+  date_note: 高后七年
+  date_note_en: 7th year of Empress Lü
+  title: 赵王友幽死
+  title_en: King You of Zhao Starved
+  summary: 赵王友幽死，诸吕与刘氏矛盾激化。
+  summary_en: King You of Zhao was starved to death, sharpening the conflict between the Lü clan and the Liu house.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E002
+- year: '-180'
+  date_note: 高后八年
+  date_note_en: 8th year of Empress Lü
+  title: 高后崩
+  title_en: Death of Empress Lü
+  summary: 吕太后崩，政局剧变。
+  summary_en: Empress Dowager Lü died; the political scene was transformed overnight.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E005
+- year: '-180'
+  date_note: 高后八年
+  date_note_en: 8th year of Empress Lü
+  title: 周勃陈平诛诸吕
+  title_en: The Lü Clan Destroyed
+  summary: 太尉周勃等入北军，灭诸吕。
+  summary_en: Grand Commandant Zhou Bo and others took the Northern Army and wiped out the Lü clan.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷003·高后纪
+  card_id: E004
+- year: '-180'
+  date_note: 高后八年
+  date_note_en: 8th year of Empress Lü
+  title: 后少帝废
+  title_en: The Later Young Emperor Set Aside
+  summary: 大臣以少帝及诸王非惠帝子，尽诛，迎代王入立。
+  summary_en: Declaring the young emperor and the kings no sons of Emperor Hui, the ministers slew them and summoned the king of Dai.
+  place_id: chang-an
+  related_person_ids:
+  - han-wen-di
+  sources:
+  - 史记·吕太后本纪
+  - 汉书·卷004·文帝纪
+  card_id: E003
+- year: '-180'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 吕氏称制终局
+  title_en: End of the Lü Regency
+  summary: 后少帝为吕氏称制的符号性皇帝。
+  summary_en: The Later Young Emperor was the symbolic sovereign of the Lü regency.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 汉书·卷003·高后纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: han-qian-shao
+  note: 前少帝废杀，恒山王弘入继
+- type: successor
+  target_id: han-wen-di
+  note: 诸吕既诛，后少帝废，代王迎立
+- type: related_emperor
+  target_id: han-hui-di
+  note: 吕氏称制贯穿惠帝崩后两代少帝
+routes:
+- group: 都城
+  order: 1
+  year: '-184'
+  place_id: chang-an
+  event: 立为帝
+- group: 都城
+  order: 2
+  year: '-181'
+  place_id: chang-an
+  event: 赵王友幽死
+- group: 都城
+  order: 3
+  year: '-180'
+  place_id: chang-an
+  event: 高后崩
+- group: 都城
+  order: 4
+  year: '-180'
+  place_id: chang-an
+  event: 周勃陈平诛诸吕
+- group: 都城
+  order: 5
+  year: '-180'
+  place_id: chang-an
+  event: 后少帝废
+sources:
+- title: 史记·吕太后本纪
+  note: 主叙事
+- title: 汉书·高后纪 / 文帝纪
+  note: 编年对照与迎立
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 吕氏称制末期傀儡准帝，无帝名而居帝位，正史附见吕后本纪，故入准。
+  synced_from_cards: true

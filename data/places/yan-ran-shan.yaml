@@ -1,0 +1,12 @@
+id: yan-ran-shan
+names:
+  historical: 燕然山
+  modern: 蒙古国杭爱山一带
+  english: Mount Yanran
+coords:
+  lng: 102.0
+  lat: 47.0
+  precision: schematic
+map:
+  region: 漠北
+notes: 永元元年窦宪大破北匈奴，登此山勒石纪功

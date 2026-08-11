@@ -1,0 +1,12 @@
+id: hai-hun
+names:
+  historical: 海昏
+  modern: 江西省南昌市新建区一带
+  english: Haihun
+coords:
+  lng: 116.2
+  lat: 28.9
+  precision: schematic
+map:
+  region: 江南
+notes: 海昏侯国，昌邑王贺废后所封（今海昏侯墓所在）

@@ -1,0 +1,12 @@
+id: nan-yang
+names:
+  historical: 南阳
+  modern: 河南省南阳市
+  english: Nanyang
+coords:
+  lng: 112.53
+  lat: 32.99
+  precision: approximate
+map:
+  region: 河南
+notes: 章帝元和元年南巡所至（南阳郡）

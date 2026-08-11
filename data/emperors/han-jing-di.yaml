@@ -1,0 +1,269 @@
+id: han-jing-di
+tier: emperor
+sort_key: 汉-006
+names:
+  display: 汉景帝
+  display_en: Emperor Jing of Han
+  personal: 刘启
+  personal_en: Liu Qi
+  temple: null
+  posthumous: 孝景皇帝
+  aliases:
+  - 景帝
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 6
+reign:
+  start: '-157'
+  end: '-141'
+  eras:
+  - 前元
+  - 中元
+  - 后元
+life:
+  birth: null
+  death: '-141'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 承文帝宽政，平七国之乱，削藩固本；然诛晁错、杀周亚夫，史讥刻薄寡恩。
+summary_en: Continuing Wen's lenient course, he put down the Revolt of the Seven States and trimmed the feudatories to steady the throne; yet the deaths of Chao Cuo and Zhou Yafu drew the censure of cold ingratitude.
+tags:
+- 削藩
+- 平乱
+- 减笞
+- 刻薄寡恩
+tags_en:
+- Trimming Feudatories
+- Suppressing Rebellion
+- Lighter Flogging
+- Cold Ingratitude
+portrait:
+  primary: assets/portraits/han-jing-di/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《汉书》未系统描写景帝形貌。画像宜表现中年君主之态，衣冠从汉初制度，气质沉毅而近于严刻。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-jing-di.md
+timeline:
+- year: '-157'
+  date_note: 后七年六月
+  date_note_en: Later 7th year, 6th month
+  title: 即位
+  title_en: Accession
+  summary: 文帝崩，太子启即皇帝位，尊薄太后、窦皇后。
+  summary_en: Emperor Wen died; Crown Prince Qi succeeded, honoring Empress Dowager Bo and Empress Dou.
+  place_id: chang-an
+  related_person_ids:
+  - han-wen-di
+  sources:
+  - 汉书·卷005·景帝纪
+  card_id: E001
+- year: '-156'
+  date_note: 元年
+  date_note_en: 1st year
+  title: 减笞法
+  title_en: Easing the Flogging Law
+  summary: 定笞刑限度，减轻酷刑，承文帝宽政。
+  summary_en: Limits were set on the flogging penalty, easing harsh punishments in the spirit of Emperor Wen.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  card_id: E002
+- year: '-154'
+  date_note: 三年正月
+  date_note_en: 3rd year, 1st month
+  title: 晁错议削藩
+  title_en: Chao Cuo's Trimming Plan
+  summary: 御史大夫晁错建言削吴楚等支郡以尊京师，景帝用其策。
+  summary_en: Censor-in-Chief Chao Cuo urged trimming the commanderies of Wu and Chu to exalt the capital; the emperor adopted the plan.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  - 汉书·晁错传
+  card_id: E005
+- year: '-154'
+  date_note: 三年正月
+  date_note_en: 3rd year, 1st month
+  title: 七国之乱起
+  title_en: Revolt of the Seven States
+  summary: 吴王濞、楚王戊等七国以诛晁错为名举兵西向。
+  summary_en: Wu's king Bi, Chu's king Wu, and five others rose and marched west under the pretext of executing Chao Cuo.
+  place_id: guangling
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  - 史记·吴王濞列传
+  card_id: E003
+- year: '-154'
+  date_note: 三年
+  date_note_en: 3rd year
+  title: 斩晁错于东市
+  title_en: Chao Cuo Beheaded at the East Market
+  summary: 袁盎说上，斩错以谢吴楚；错死而吴楚兵不止。
+  summary_en: At Yuan Ang's persuasion the emperor executed Chao Cuo to appease Wu and Chu; the armies pressed on regardless.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·晁错传
+  - 汉书·卷005·景帝纪
+  card_id: E004
+- year: '-154'
+  date_note: 三年
+  date_note_en: 3rd year
+  title: 梁孝王拒吴楚
+  title_en: Prince Xiao of Liang Bars the Rebels
+  summary: 梁孝王城守，吴楚兵不得过梁，亚夫得以破敌。
+  summary_en: Prince Xiao of Liang held his walls, and the rebels could not pass; Yafu could then break them.
+  place_id: sui-yang
+  related_person_ids: []
+  sources:
+  - 史记·梁孝王世家
+  - 汉书·卷005·景帝纪
+  card_id: E006
+- year: '-154'
+  date_note: 三年
+  date_note_en: 3rd year
+  title: 周亚夫平吴楚
+  title_en: Zhou Yafu Quells Wu and Chu
+  summary: 太尉周亚夫坚壁昌邑，断吴粮道，三月破吴楚，余国皆平。
+  summary_en: Grand Commandant Zhou Yafu held fast at Changyi, cut Wu's grain route, and broke Wu and Chu within three months; the other states were settled.
+  place_id: chang-yi
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  - 史记·绛侯世家
+  card_id: E007
+- year: '-150'
+  date_note: 七年
+  date_note_en: 7th year
+  title: 废栗太子
+  title_en: The Li Heir Set Aside
+  summary: 废皇太子荣为临江王，后立胶东王彻为太子。
+  summary_en: Crown Prince Rong was deposed as Prince of Linjiang; later Jiaodong's king Che was made heir apparent.
+  place_id: chang-an
+  related_person_ids:
+  - han-wu-di
+  sources:
+  - 汉书·卷005·景帝纪
+  - 汉书·卷006·武帝纪
+  card_id: E008
+- year: '-148'
+  date_note: 中二年
+  date_note_en: Middle 2nd year
+  title: 临江王荣死
+  title_en: Death of the Prince of Linjiang
+  summary: 临江王荣坐侵庙壖地为宫，征诣中尉，自杀。
+  summary_en: Rong, prince of Linjiang, was summoned to the Commandant of Justice for taking temple land for a palace, and killed himself.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  card_id: E009
+- year: '-143'
+  date_note: 后元年
+  date_note_en: Later 1st year
+  title: 周亚夫下狱死
+  title_en: Zhou Yafu Dies in Prison
+  summary: 丞相周亚夫以子买官器事牵连下狱，不食五日呕血死。
+  summary_en: Chancellor Zhou Yafu was imprisoned on charges involving his son's purchase of burial goods and died of starvation, vomiting blood on the fifth day.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷005·景帝纪
+  - 史记·绛侯世家
+  card_id: E010
+- year: '-141'
+  date_note: 后三年正月
+  date_note_en: Later 3rd year, 1st month
+  title: 景帝崩
+  title_en: Death of Emperor Jing
+  summary: 崩于未央宫，太子彻即位，是为武帝。
+  summary_en: He died in the Weiyang Palace; Crown Prince Che succeeded as Emperor Wu.
+  place_id: chang-an
+  related_person_ids:
+  - han-wu-di
+  sources:
+  - 汉书·卷005·景帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: han-wen-di
+  note: 文帝后七年崩，太子启即位
+- type: successor
+  target_id: han-wu-di
+  note: 景帝崩，太子彻即位
+- type: related_emperor
+  target_id: han-gao-zu
+  note: 开国定天下与削藩固本，两朝对照
+routes:
+- group: 都城
+  order: 1
+  year: '-157'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '-154'
+  place_id: chang-an
+  event: 晁错议削藩
+- group: 其他
+  order: 3
+  year: '-154'
+  place_id: guangling
+  event: 七国之乱起
+- group: 都城
+  order: 4
+  year: '-154'
+  place_id: chang-an
+  event: 斩晁错于东市
+- group: 其他
+  order: 5
+  year: '-154'
+  place_id: sui-yang
+  event: 梁孝王拒吴楚
+- group: 其他
+  order: 6
+  year: '-154'
+  place_id: chang-yi
+  event: 周亚夫平吴楚
+- group: 都城
+  order: 7
+  year: '-150'
+  place_id: chang-an
+  event: 废栗太子
+- group: 都城
+  order: 8
+  year: '-148'
+  place_id: chang-an
+  event: 临江王荣死
+- group: 都城
+  order: 9
+  year: '-143'
+  place_id: chang-an
+  event: 周亚夫下狱死
+- group: 都城
+  order: 10
+  year: '-141'
+  place_id: chang-an
+  event: 景帝崩
+sources:
+- title: 汉书·景帝纪
+  note: 主叙事
+- title: 汉书·晁错传
+  note: 削藩与东市之死
+- title: 史记·吴王濞列传 / 绛侯世家 / 梁孝王世家
+  note: 七国之乱各面互见
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西汉第六帝，文景之治承续者，正史立纪。
+  synced_from_cards: true

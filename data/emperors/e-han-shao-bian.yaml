@@ -1,0 +1,178 @@
+id: e-han-shao-bian
+tier: quasi
+sort_key: 东汉-013
+names:
+  display: 汉少帝辩
+  display_en: Young Emperor Bian
+  personal: 刘辩
+  personal_en: Liu Bian
+  temple: null
+  posthumous: null
+  aliases:
+  - 弘农王
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 13
+reign:
+  start: '189'
+  end: '189'
+  eras:
+  - 光熹
+  - 昭宁
+life:
+  birth: '176'
+  death: '190'
+  birth_place_id: luoyang
+  death_place_id: luoyang
+summary: 灵帝子，何后所生；何进谋诛宦官事泄被杀，董卓入京废辩为弘农王，次年被鸩杀。
+summary_en: Son of Emperor Ling by Empress He; He Jin's plot against the eunuchs leaked and cost him his life, Dong Zhuo entered the capital and demoted Bian to Prince of Hongnong, who was poisoned the next year.
+tags:
+- 何进
+- 十常侍
+- 董卓废立
+- 弘农王
+tags_en:
+- He Jin
+- The Ten Attendants
+- Dong Zhuo's Coup
+- Prince of Hongnong
+portrait:
+  primary: assets/portraits/e-han-shao-bian/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载甚简。画像宜表现少年天子的仓皇之态，衣冠从东汉末制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-shao-bian.md
+timeline:
+- year: '176'
+  date_note: 约年
+  date_note_en: c. 176
+  title: 生
+  title_en: Birth
+  summary: 灵帝子，何后所生。
+  summary_en: A son of Emperor Ling by Empress He.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·皇后纪
+  card_id: E001
+- year: '189'
+  date_note: 中平六年
+  date_note_en: Zhongping 6
+  title: 即位
+  title_en: Accession
+  summary: 灵帝崩，辩即位，何太后临朝，何进秉政。
+  summary_en: Emperor Ling died; Bian succeeded with Empress Dowager He in the regency and He Jin in power.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·何进传
+  card_id: E002
+- year: '189'
+  date_note: 中平六年
+  date_note_en: Zhongping 6
+  title: 何进谋诛宦官
+  title_en: He Jin's Plot
+  summary: 召董卓等入京，事泄被杀。
+  summary_en: He summoned Dong Zhuo and others to the capital; the plot leaked and he was slain.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·何进传
+  - 后汉书·卷008·灵帝纪
+  card_id: E003
+- year: '189'
+  date_note: 中平六年
+  date_note_en: Zhongping 6
+  title: 十常侍乱
+  title_en: The Ten Attendants' Chaos
+  summary: 袁绍等诛宦官，京师大乱。
+  summary_en: Yuan Shao and others slaughtered the eunuchs; the capital dissolved into chaos.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷008·灵帝纪
+  - 后汉书·袁绍传
+  card_id: E005
+- year: '189'
+  date_note: 中平六年九月
+  date_note_en: Zhongping 6, 9th month
+  title: 董卓废少帝
+  title_en: Dong Zhuo's Deposition
+  summary: 董卓废辩为弘农王，立陈留王协。
+  summary_en: Dong Zhuo deposed Bian as Prince of Hongnong and raised the prince of Chenliu, Xie.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-xian
+  sources:
+  - 后汉书·卷009·献帝纪
+  - 后汉书·董卓传
+  card_id: E004
+- year: '190'
+  date_note: 初平元年
+  date_note_en: Chuping 1
+  title: 弘农王被弑
+  title_en: Death of the Prince of Hongnong
+  summary: 李儒进鸩，辩死。
+  summary_en: Li Ru administered poison, and Bian died.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷009·献帝纪
+  - 后汉书·董卓传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-han-ling
+  note: 灵帝崩，太子辩即位
+- type: successor
+  target_id: e-han-xian
+  note: 董卓废辩立协
+routes:
+- group: 都城
+  order: 1
+  year: '176'
+  place_id: luoyang
+  event: 生
+- group: 都城
+  order: 2
+  year: '189'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 3
+  year: '189'
+  place_id: luoyang
+  event: 何进谋诛宦官
+- group: 都城
+  order: 4
+  year: '189'
+  place_id: luoyang
+  event: 十常侍乱
+- group: 都城
+  order: 5
+  year: '189'
+  place_id: luoyang
+  event: 董卓废少帝
+- group: 都城
+  order: 6
+  year: '190'
+  place_id: luoyang
+  event: 弘农王被弑
+sources:
+- title: 后汉书·献帝纪
+  note: 主叙事
+- title: 后汉书·董卓传 / 何进传 / 袁绍传
+  note: 废立始末
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 在位不足半年即被董卓所废，未及建元而居帝位，正史附见灵帝纪末与献帝纪首，故入准。
+  synced_from_cards: true

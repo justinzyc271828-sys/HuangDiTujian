@@ -1,0 +1,12 @@
+id: chi-bi
+names:
+  historical: 赤壁
+  modern: 湖北省赤壁市一带
+  english: Chibi (Red Cliffs)
+coords:
+  lng: 113.9
+  lat: 29.7
+  precision: schematic
+map:
+  region: 江汉
+notes: 建安十三年孙刘联军破曹操处（战场所在有歧说）

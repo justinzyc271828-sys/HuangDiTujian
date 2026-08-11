@@ -1,0 +1,12 @@
+id: he-nei
+names:
+  historical: 河内
+  modern: 河南省武陟县一带
+  english: Henei
+coords:
+  lng: 113.49
+  lat: 35.1
+  precision: schematic
+map:
+  region: 中原
+notes: 章帝元和二年北巡所至（河内郡）

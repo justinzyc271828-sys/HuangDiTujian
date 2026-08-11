@@ -1,0 +1,12 @@
+id: bei-di
+names:
+  historical: 北地
+  modern: 甘肃省庆阳市西南一带
+  english: Beidi
+coords:
+  lng: 107.9
+  lat: 35.5
+  precision: schematic
+map:
+  region: 西北
+notes: 汉初北地郡，匈奴入边前线；文帝十四年匈奴杀北地都尉

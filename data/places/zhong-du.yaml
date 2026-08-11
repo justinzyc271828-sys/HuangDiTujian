@@ -1,0 +1,12 @@
+id: zhong-du
+names:
+  historical: 中都
+  modern: 山西省平遥县西南
+  english: Zhongdu
+coords:
+  lng: 112.17
+  lat: 37.19
+  precision: schematic
+map:
+  region: 代北
+notes: 汉初代国都，文帝为代王时居此十七年

@@ -1,0 +1,12 @@
+id: shan-yang
+names:
+  historical: 山阳
+  modern: 河南省焦作市山阳区一带
+  english: Shanyang
+coords:
+  lng: 113.3
+  lat: 35.2
+  precision: schematic
+map:
+  region: 中原
+notes: 献帝逊位后为山阳公，薨于此

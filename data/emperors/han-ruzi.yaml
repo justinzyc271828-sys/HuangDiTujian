@@ -1,0 +1,175 @@
+id: han-ruzi
+tier: quasi
+sort_key: 汉-015
+names:
+  display: 孺子婴
+  display_en: Ruzi Ying (The Infant)
+  personal: 刘婴
+  personal_en: Liu Ying
+  temple: null
+  posthumous: null
+  aliases:
+  - 定安公
+dynasty:
+  id: w-han
+  label: 西汉
+  sequence: 15
+reign:
+  start: '6'
+  end: '8'
+  eras:
+  - 居摄
+  - 初始
+life:
+  birth: '5'
+  death: '25'
+  birth_place_id: chang-an
+  death_place_id: chang-an
+summary: 宣帝玄孙，二岁立为皇太子，王莽居摄践祚，三年后禅位废为定安公，更始时死于乱兵。
+summary_en: A great-great-grandson of Emperor Xuan, made heir at two; Wang Mang ruled as regent, took the throne by abdication, and demoted him to Duke of Ding'an; he died amid the disorder of the Gengshi era.
+tags:
+- 居摄
+- 王莽禅代
+- 幼帝
+- 定安公
+tags_en:
+- Regency
+- Mang's Abdication
+- Child Emperor
+- Duke of Ding'an
+portrait:
+  primary: assets/portraits/han-ruzi/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载甚简。画像宜表现襁褓受命、稚龄失国的幼童之态，衣冠从西汉末制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-ruzi.md
+timeline:
+- year: '5'
+  date_note: 元始五年
+  date_note_en: Yuanshi 5
+  title: 立为皇太子
+  title_en: Heir Apparent
+  summary: 年二岁，号孺子，王莽居摄。
+  summary_en: At two years old he was styled "the Infant," with Wang Mang as regent.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E001
+- year: '6'
+  date_note: 居摄元年
+  date_note_en: Jushe 1
+  title: 莽居摄践祚
+  title_en: Mang Takes the Regency
+  summary: 如周公故事，莽称假皇帝。
+  summary_en: After the precedent of the Duke of Zhou, Mang styled himself Acting Emperor.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E002
+- year: '7'
+  date_note: 居摄二年
+  date_note_en: Jushe 2
+  title: 翟义起兵
+  title_en: Zhai Yi Rises
+  summary: 东郡太守翟义起兵讨莽，败。
+  summary_en: Zhai Yi, governor of Dongjun, rose against Mang and was defeated.
+  place_id: dong-jun
+  related_person_ids: []
+  sources:
+  - 汉书·卷099·王莽传
+  - 汉书·翟方进传
+  card_id: E003
+- year: '8'
+  date_note: 初始元年
+  date_note_en: Chushi 1
+  title: 符命劝进
+  title_en: Portents and Petitions
+  summary: 符命禅让之说密集。
+  summary_en: Portents and petitions urging the abdication came thick and fast.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E004
+- year: '9'
+  date_note: 始建国元年
+  date_note_en: Shijianguo 1
+  title: 莽称帝废婴
+  title_en: Mang Takes the Throne
+  summary: 废孺子为定安公，新朝建。
+  summary_en: The Infant was demoted to Duke of Ding'an; the Xin dynasty was founded.
+  place_id: chang-an
+  related_person_ids:
+  - xin-wang-mang
+  sources:
+  - 汉书·卷099·王莽传
+  card_id: E005
+- year: '25'
+  date_note: 更始间
+  date_note_en: Gengshi era
+  title: 后事
+  title_en: Later End
+  summary: 更始时婴死于乱兵。
+  summary_en: During the Gengshi era Ying died amid the disorder of the soldiery.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 后汉书·刘玄传
+  - 汉书·卷099·王莽传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: han-ping-di
+  note: 平帝崩，立宣帝玄孙婴，莽居摄
+- type: successor
+  target_id: xin-wang-mang
+  note: 符命禅让，莽称帝，西汉亡
+- type: related_emperor
+  target_id: e-han-guangwu
+  note: 居摄禅代与光武中兴，汉祚两端的对照
+routes:
+- group: 都城
+  order: 1
+  year: '5'
+  place_id: chang-an
+  event: 立为皇太子
+- group: 都城
+  order: 2
+  year: '6'
+  place_id: chang-an
+  event: 莽居摄践祚
+- group: 其他
+  order: 3
+  year: '7'
+  place_id: dong-jun
+  event: 翟义起兵
+- group: 都城
+  order: 4
+  year: '8'
+  place_id: chang-an
+  event: 符命劝进
+- group: 都城
+  order: 5
+  year: '9'
+  place_id: chang-an
+  event: 莽称帝废婴
+sources:
+- title: 汉书·王莽传
+  note: 主叙事
+- title: 后汉书·刘玄传
+  note: 孺子后事
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 王莽居摄期间的傀儡准帝，未行帝号而居皇位，正史附见王莽传，故入准。
+  synced_from_cards: true

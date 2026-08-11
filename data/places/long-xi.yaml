@@ -1,0 +1,12 @@
+id: long-xi
+names:
+  historical: 陇西
+  modern: 甘肃省临洮县一带
+  english: Longxi
+coords:
+  lng: 104.0
+  lat: 35.4
+  precision: schematic
+map:
+  region: 西北
+notes: 汉陇西郡，羌乱前线

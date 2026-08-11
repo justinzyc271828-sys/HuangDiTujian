@@ -1,0 +1,255 @@
+id: e-han-he
+tier: emperor
+sort_key: 东汉-004
+names:
+  display: 汉和帝
+  display_en: Emperor He of Han
+  personal: 刘肇
+  personal_en: Liu Zhao
+  temple: 穆宗
+  posthumous: 孝和皇帝
+  aliases:
+  - 和帝
+dynasty:
+  id: e-han
+  label: 东汉
+  sequence: 4
+reign:
+  start: '88'
+  end: '105'
+  eras:
+  - 永元
+  - 元兴
+life:
+  birth: '79'
+  death: '105'
+  birth_place_id: luoyang
+  death_place_id: luoyang
+summary: 十岁即位，窦太后临朝；永元元年窦宪破北匈奴勒石燕然，四年和帝诛窦宪亲政，然宦官始盛。
+summary_en: Enthroned at ten under the Dou regency; in Yongyuan 1 Dou Xian broke the northern Xiongnu and carved the Yanran inscription; in Yongyuan 4 He destroyed Dou Xian and ruled in person, yet the eunuchs began their rise.
+tags:
+- 窦宪北伐
+- 燕然勒石
+- 诛窦宪
+- 宦官之始
+tags_en:
+- Dou Xian's Campaign
+- The Yanran Inscription
+- Destroying Dou Xian
+- Dawn of the Eunuchs
+portrait:
+  primary: assets/portraits/e-han-he/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '《后汉书》未系统描写和帝形貌。画像宜表现少年亲政的君主之态，衣冠从东汉前期制度。属艺术想象。
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-han-he.md
+timeline:
+- year: '79'
+  date_note: 建初四年
+  date_note_en: Jianchu 4
+  title: 生
+  title_en: Birth
+  summary: 章帝子。
+  summary_en: A son of Emperor Zhang.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷004·和帝纪
+  card_id: E001
+- year: '88'
+  date_note: 章和二年
+  date_note_en: Zhanghe 2
+  title: 即位
+  title_en: Accession
+  summary: 年十岁，窦太后临朝，窦宪秉权。
+  summary_en: At ten years old he took the throne; Empress Dowager Dou held the regency and Dou Xian the power.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-zhang
+  sources:
+  - 后汉书·卷004·和帝纪
+  card_id: E002
+- year: '89'
+  date_note: 永元元年
+  date_note_en: Yongyuan 1
+  title: 窦宪击匈奴
+  title_en: Dou Xian Strikes the Xiongnu
+  summary: 窦宪大破北匈奴，登燕然山刻石纪功。
+  summary_en: Dou Xian broke the northern Xiongnu and carved a commemoration on Mount Yanran.
+  place_id: yan-ran-shan
+  related_person_ids: []
+  sources:
+  - 后汉书·卷004·和帝纪
+  - 后汉书·窦宪传
+  card_id: E003
+- year: '91'
+  date_note: 永元三年
+  date_note_en: Yongyuan 3
+  title: 窦宪迫北单于
+  title_en: The Northern Chanyu Displaced
+  summary: 北匈奴西迁节点。
+  summary_en: The point at which the northern Xiongnu migrated west.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 后汉书·窦宪传
+  - 后汉书·卷004·和帝纪
+  card_id: E004
+- year: '92'
+  date_note: 永元四年
+  date_note_en: Yongyuan 4
+  title: 诛窦宪
+  title_en: Dou Xian Destroyed
+  summary: 和帝与宦官郑众定计收窦宪，外戚败。
+  summary_en: The emperor and the eunuch Zheng Zhong plotted to seize Dou Xian; the consort clan fell.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷004·和帝纪
+  - 后汉书·窦宪传
+  card_id: E005
+- year: '92'
+  date_note: 永元四年
+  date_note_en: Yongyuan 4
+  title: 宦官用权始著
+  title_en: The Eunuchs' Rise Begins
+  summary: 郑众封鄛乡侯，宦官封侯之开端。
+  summary_en: Zheng Zhong was enfeoffed as Marquis of Chaoxiang — the beginning of eunuch enfeoffment.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·宦者传
+  - 后汉书·卷004·和帝纪
+  card_id: E006
+- year: '94'
+  date_note: 永元六年
+  date_note_en: Yongyuan 6
+  title: 班超焉耆后定
+  title_en: Ban Chao Settles Yanqi
+  summary: 西域都护班超定焉耆，西域大定。
+  summary_en: Protector-General Ban Chao subdued Yanqi, settling the Western Regions.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·班超传
+  - 后汉书·卷004·和帝纪
+  card_id: E007
+- year: '97'
+  date_note: 永元九年
+  date_note_en: Yongyuan 9
+  title: 永元九年蝗灾求言
+  title_en: Locusts and the Call for Counsel
+  summary: 京师及郡国蝗，诏举有道，求言恤民。
+  summary_en: Locusts struck the capital and commanderies; he summoned the worthy and sought counsel for the people.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·卷004·和帝纪
+  card_id: E008
+- year: '100'
+  date_note: 永元十二年
+  date_note_en: Yongyuan 12
+  title: 西域叛复
+  title_en: The Western Regions Shift
+  summary: 西域反复，汉弃都护之议起。
+  summary_en: The Western Regions wavered; talk of abandoning the protectorate arose.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 后汉书·西域传
+  - 后汉书·卷004·和帝纪
+  card_id: E009
+- year: '102'
+  date_note: 永元十四年
+  date_note_en: Yongyuan 14
+  title: 班超还洛
+  title_en: Ban Chao Returns
+  summary: 班超年老归洛阳。
+  summary_en: An aging Ban Chao returned to Luoyang.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 后汉书·班超传
+  - 后汉书·卷004·和帝纪
+  card_id: E010
+- year: '105'
+  date_note: 元兴元年
+  date_note_en: Yuanxing 1
+  title: 和帝崩
+  title_en: Death of Emperor He
+  summary: 崩，殇帝立。
+  summary_en: He died; Emperor Shang succeeded.
+  place_id: luoyang
+  related_person_ids:
+  - e-han-shang
+  sources:
+  - 后汉书·卷004·和帝纪
+  card_id: E011
+relations:
+- type: predecessor
+  target_id: e-han-zhang
+  note: 章帝崩，太子肇即位
+- type: successor
+  target_id: e-han-shang
+  note: 和帝崩，少子隆即位
+- type: related_emperor
+  target_id: e-han-ming
+  note: 明帝严明治世与和帝永元之政，前后对照
+routes:
+- group: 都城
+  order: 1
+  year: '88'
+  place_id: luoyang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '89'
+  place_id: yan-ran-shan
+  event: 窦宪击匈奴
+- group: 都城
+  order: 3
+  year: '92'
+  place_id: luoyang
+  event: 诛窦宪
+- group: 都城
+  order: 4
+  year: '92'
+  place_id: luoyang
+  event: 宦官用权始著
+- group: 其他
+  order: 5
+  year: '94'
+  place_id: hexi
+  event: 班超焉耆后定
+- group: 都城
+  order: 6
+  year: '97'
+  place_id: luoyang
+  event: 永元九年蝗灾求言
+- group: 都城
+  order: 7
+  year: '102'
+  place_id: luoyang
+  event: 班超还洛
+- group: 都城
+  order: 8
+  year: '105'
+  place_id: luoyang
+  event: 和帝崩
+sources:
+- title: 后汉书·和帝纪
+  note: 主叙事
+- title: 后汉书·窦宪传 / 班超传 / 宦者传 / 西域传
+  note: 各事互见
+- title: 资治通鉴·汉纪
+  note: 编年对照（选用通行本）
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东汉第四帝，正史立纪；外戚宦官交替执政之局的开端。
+  synced_from_cards: true

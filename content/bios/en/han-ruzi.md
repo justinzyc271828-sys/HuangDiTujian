@@ -1,0 +1,9 @@
+# Ruzi Ying (The Infant) · Principal Deeds
+
+Liu Ying was a great-great-grandson of Emperor Xuan. After [[han-ping-di|Emperor Ping]] died, [[xin-wang-mang|Wang Mang]] raised the two-year-old Ying as heir apparent, styled "the Infant," casting himself as the Duke of Zhou and taking the regency in the infant's place, calling himself "Acting Emperor" — the nominal last emperor of Western Han, who was never even formally enthroned, became the prop of an abdication drama.
+
+The three regency years were not without opposition: in the second Jushe year, Zhai Yi, governor of Dongjun, rose against Mang with an army that shook the lands east of the passes before being suppressed. Mang answered force with force and momentum with theater — in the first Chushi year, omens and petitions urging abdication flew into Chang'an like snow; in the first Shijianguo year he demoted the Infant to Duke of Ding'an, proclaimed himself emperor, and changed the dynasty's name to Xin. Western Han was formally finished.
+
+The deposed Infant was shut away, and as he grew he could not even speak coherently; during the Gengshi era, amid the collapse of the Xin dynasty, he died in the disorder of the soldiery. He is among the youngest and most complete puppets in Chinese imperial history: invested at two, losing the state at four, never holding a scrap of power, yet written into the histories under the title of emperor. This gazetteer lists him as a quasi-emperor, standing between Mang's usurpation and the restoration of [[e-han-guangwu|Emperor Guangwu]] — a footnote to the rise and fall of the Han mandate.
+
+> Local references: the punctuated critical edition of the *Hanshu*, ch. 99 (Biography of Wang Mang), and the *Hou Hanshu*, biography of Liu Xuan; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
