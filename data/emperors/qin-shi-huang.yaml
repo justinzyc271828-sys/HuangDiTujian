@@ -224,7 +224,7 @@ routes:
   year: '-238'
   place_id: xianyang
   event: 王冠亲政
-- group: 亲征
+- group: 其他
   order: 4
   year: '-230'
   place_id: xinzheng

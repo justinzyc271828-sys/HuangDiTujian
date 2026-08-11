@@ -190,7 +190,7 @@ timeline:
   sources:
   - 隋书·卷002·高祖纪
   card_id: E011
-- year: undated
+- year: '604'
   date_note: 开皇间
   date_note_en: Kaihuang era
   title: 开皇制度
@@ -227,12 +227,12 @@ routes:
   year: '583'
   place_id: da-xing
   event: 营迁大兴城
-- group: 亲征
+- group: 其他
   order: 3
   year: '587'
   place_id: jiang-ling
   event: 灭后梁
-- group: 亲征
+- group: 其他
   order: 4
   year: '589'
   place_id: jian-kang

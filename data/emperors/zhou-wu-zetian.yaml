@@ -206,7 +206,7 @@ timeline:
   - 旧唐书·卷006·则天皇后
   - 旧唐书·中宗纪
   card_id: E011
-- year: null
+- year: '705'
   date_note: 天授–长安
   date_note_en: 690–704
   title: 科举与能吏
@@ -224,14 +224,14 @@ relations:
   target_id: tang-tai-zong
   note: 贞观十一年入宫为太宗才人
 - type: kinship
-  target_id: null
-  note: 夫唐高宗，二圣临朝（页待建）
+  target_id: tang-gao-zong
+  note: 夫唐高宗，二圣临朝
 - type: predecessor
-  target_id: null
-  note: 唐睿宗（称制时傀儡，页待建）
+  target_id: tang-rui-zong-a
+  note: 载初元年革唐命建周，睿宗降为皇嗣
 - type: successor
-  target_id: null
-  note: 唐中宗（神龙元年复位，页待建）
+  target_id: tang-zhong-zong-b
+  note: 神龙元年政变退位，中宗复位
 - type: related_emperor
   target_id: tang-xian-zong
   note: 武周之后李唐重建至宪宗中兴的长线对照

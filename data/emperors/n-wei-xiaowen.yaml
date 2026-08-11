@@ -202,11 +202,11 @@ relations:
   target_id: n-wei-taiwu
   note: 先统一后汉化的长线对照
 - type: predecessor
-  target_id: null
-  note: 前任皇帝献文帝（页待建）
+  target_id: n-wei-xianwen
+  note: 父献文帝内禅，五岁即位，冯太后临朝称制
 - type: successor
-  target_id: null
-  note: 汉化路线由宣武延续（页待建）
+  target_id: n-wei-xuanwu
+  note: 太子恪即位，是为宣武帝，汉化路线延续
 routes:
 - group: 都城
   order: 1

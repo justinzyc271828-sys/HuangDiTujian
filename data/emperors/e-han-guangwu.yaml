@@ -183,7 +183,7 @@ timeline:
   sources:
   - 后汉书·卷001·光武帝纪
   card_id: E011
-- year: undated
+- year: '57'
   date_note: 建武年间
   date_note_en: during the Jianwu era
   title: 柔道与退功臣
@@ -202,10 +202,10 @@ relations:
   note: 新末对手，昆阳大破新军主力
 - type: predecessor
   target_id: null
-  note: 更始帝（页待建）
+  note: 更始帝刘玄（玄汉，未入图鉴）
 - type: successor
-  target_id: null
-  note: 汉明帝（页待建）
+  target_id: e-han-ming
+  note: 太子庄即位，是为明帝，永平之治
 - type: related_emperor
   target_id: han-gao-zu
   note: 开国与中兴，国号续汉的长线对照
@@ -238,7 +238,7 @@ routes:
   year: '25'
   place_id: luoyang
   event: 定都洛阳
-- group: 亲征
+- group: 其他
   order: 6
   year: '43'
   place_id: jiao-zhi

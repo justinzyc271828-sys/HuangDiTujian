@@ -201,14 +201,17 @@ timeline:
   card_id: E012
 relations:
 - type: predecessor
-  target_id: null
-  note: 明元帝拓跋嗣，父崩而即位（页待建）
+  target_id: n-wei-mingyuan
+  note: 父明元帝崩，太子焘即位
 - type: kinship
   target_id: n-wei-xiaowen
   note: 后辈孝文帝，汉化后续
+- type: successor
+  target_id: n-wei-wencheng
+  note: 中常侍宗爱弑帝，南安王余立旋废，孙濬即位，是为文成帝
 - type: rival
-  target_id: null
-  note: 南征刘宋至瓜步，与宋文帝隔江对峙（页待建）
+  target_id: liu-song-wen
+  note: 南征刘宋至瓜步，与宋文帝隔江对峙
 routes:
 - group: 都城
   order: 1

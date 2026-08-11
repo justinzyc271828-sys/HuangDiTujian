@@ -187,11 +187,11 @@ timeline:
   card_id: E011
 relations:
 - type: predecessor
-  target_id: null
-  note: 永贞元年顺宗内禅，承其皇位（页待建）
+  target_id: tang-shun-zong
+  note: 永贞元年顺宗内禅，承其皇位
 - type: successor
-  target_id: null
-  note: 暴崩后穆宗即位，削藩随之回落（页待建）
+  target_id: tang-mu-zong
+  note: 暴崩后穆宗即位，削藩随之回落
 - type: related_emperor
   target_id: tang-tai-zong
   note: 同朝盛世范式，"元和中兴"叙事的长线对照
@@ -204,12 +204,12 @@ routes:
   year: '805'
   place_id: chang-an
   event: 即位
-- group: 亲征
+- group: 其他
   order: 2
   year: '806'
   place_id: xia-zhou
   event: 平夏绥杨惠琳
-- group: 亲征
+- group: 其他
   order: 3
   year: '806'
   place_id: cheng-du
@@ -224,7 +224,7 @@ routes:
   year: '817'
   place_id: cai-zhou
   event: 裴度宣慰淮西
-- group: 亲征
+- group: 其他
   order: 6
   year: '817'
   place_id: cai-zhou

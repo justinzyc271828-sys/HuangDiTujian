@@ -162,7 +162,7 @@ timeline:
   - 宋史·卷003
   - 宋史·太宗纪
   card_id: E008
-- year: undated
+- year: '976'
   date_note: 开宝前
   date_note_en: Before the Kaibao era
   title: 先南后北
@@ -175,7 +175,7 @@ timeline:
   sources:
   - 宋史·卷001–002·太祖纪
   card_id: E010
-- year: undated
+- year: '976'
   date_note: 制度
   date_note_en: Institutional
   title: 强干弱枝
@@ -188,7 +188,7 @@ timeline:
   - 宋史·兵志/职官志
   - 宋史·太祖纪
   card_id: E011
-- year: undated
+- year: '976'
   date_note: 在位间
   date_note_en: During the reign
   title: 重文抑武
@@ -203,8 +203,8 @@ timeline:
   card_id: E012
 relations:
 - type: predecessor
-  target_id: zhou-shi
-  note: 后周世宗旧将，陈桥兵变代周建宋
+  target_id: zhou-gong
+  note: 后周恭帝在位数月，殿前都点检陈桥兵变受禅建宋
 - type: successor
   target_id: n-song-tai-zong
   note: 弟太宗即位，金匮之盟为争议层
@@ -222,22 +222,22 @@ routes:
   year: '960'
   place_id: kai-feng
   event: 定都开封
-- group: 亲征
+- group: 其他
   order: 3
   year: '963'
   place_id: jing-hu
   event: 平荆湖
-- group: 亲征
+- group: 其他
   order: 4
   year: '965'
   place_id: cheng-du
   event: 灭后蜀
-- group: 亲征
+- group: 其他
   order: 5
   year: '971'
   place_id: pan-yu
   event: 灭南汉
-- group: 亲征
+- group: 其他
   order: 6
   year: '975'
   place_id: jin-ling

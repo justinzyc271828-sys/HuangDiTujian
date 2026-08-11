@@ -73,18 +73,6 @@ timeline:
   sources:
   - 晋书·卷113·苻坚载记
   card_id: E002
-- year: undated
-  date_note: 在位前中期
-  date_note_en: early-to-mid reign
-  title: 委任王猛
-  title_en: Entrusting Wang Meng
-  summary: 委任王猛整肃吏治、打击贵戚，前秦国力急升。
-  summary_en: He entrusted Wang Meng with disciplining the bureaucracy and striking at powerful kinsmen; Former Qin's strength surged.
-  place_id: chang-an
-  related_person_ids: []
-  sources:
-  - 晋书·卷114·苻坚载记（王猛附）
-  card_id: E012
 - year: '370'
   date_note: 太和五年
   date_note_en: Taihe 5
@@ -195,6 +183,18 @@ timeline:
   sources:
   - 晋书·卷114·苻坚载记
   card_id: E011
+- year: '385'
+  date_note: 在位前中期
+  date_note_en: early-to-mid reign
+  title: 委任王猛
+  title_en: Entrusting Wang Meng
+  summary: 委任王猛整肃吏治、打击贵戚，前秦国力急升。
+  summary_en: He entrusted Wang Meng with disciplining the bureaucracy and striking at powerful kinsmen; Former Qin's strength surged.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷114·苻坚载记（王猛附）
+  card_id: E012
 relations:
 - type: predecessor
   target_id: null
@@ -214,12 +214,12 @@ routes:
   year: '357'
   place_id: chang-an
   event: 杀苻生即位、改元永兴
-- group: 亲征
+- group: 其他
   order: 2
   year: '370'
   place_id: ye-cheng
   event: 王猛克邺、灭前燕
-- group: 亲征
+- group: 其他
   order: 3
   year: '376'
   place_id: hexi

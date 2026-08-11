@@ -171,7 +171,7 @@ timeline:
   sources:
   - 元史·卷017
   card_id: E011
-- year: undated
+- year: '1294'
   date_note: 至元间
   date_note_en: During the Zhiyuan era
   title: 行省与站赤
@@ -185,14 +185,14 @@ timeline:
   card_id: E012
 relations:
 - type: predecessor
-  target_id: null
-  note: 元宪宗蒙哥（页待建）
+  target_id: yuan-xian-zong
+  note: 宪宗蒙哥崩于钓鱼城，与阿里不哥争位胜，建元中统
 - type: successor
-  target_id: null
-  note: 元成宗铁穆耳（页待建）
+  target_id: yuan-cheng-zong
+  note: 孙铁穆耳即位，是为成宗
 - type: rival
   target_id: null
-  note: 阿里不哥（汗位战对手，页待建）
+  note: 阿里不哥（汗位战对手，未入图鉴）
 - type: related_emperor
   target_id: qin-shi-huang
   note: 两次完成大一统的长线对照
@@ -215,17 +215,17 @@ routes:
   year: '1272'
   place_id: da-du
   event: 都于大都
-- group: 亲征
+- group: 其他
   order: 4
   year: '1273'
   place_id: xiang-yang
   event: 襄樊破
-- group: 亲征
+- group: 其他
   order: 5
   year: '1276'
   place_id: lin-an
   event: 下临安
-- group: 亲征
+- group: 其他
   order: 6
   year: '1279'
   place_id: ya-shan

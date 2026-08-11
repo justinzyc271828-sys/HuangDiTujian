@@ -98,19 +98,6 @@ timeline:
   - 旧五代史·世宗纪
   - 资治通鉴·后周纪
   card_id: E004
-- year: null
-  date_note: 显德间
-  date_note_en: 954–959
-  title: 整军均田
-  title_en: Army and Land Reforms
-  summary: 选练禁军、限制寺院、均定田赋，国力回升。
-  summary_en: Selects and trains the palace army, restricts temples, and equalizes land taxes; state power recovers.
-  place_id: kai-feng
-  related_person_ids: []
-  sources:
-  - 旧五代史·世宗纪
-  - 五代会要
-  card_id: E012
 - year: '956'
   date_note: 显德三年
   date_note_en: '956'
@@ -200,19 +187,32 @@ timeline:
   sources:
   - 旧五代史·世宗纪
   card_id: E011
+- year: '959'
+  date_note: 显德间
+  date_note_en: 954–959
+  title: 整军均田
+  title_en: Army and Land Reforms
+  summary: 选练禁军、限制寺院、均定田赋，国力回升。
+  summary_en: Selects and trains the palace army, restricts temples, and equalizes land taxes; state power recovers.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 旧五代史·世宗纪
+  - 五代会要
+  card_id: E012
 relations:
 - type: predecessor
-  target_id: null
-  note: 养父郭威，周太祖，遗制传位于荣（页待建）
+  target_id: zhou-tai
+  note: 养父郭威，周太祖，遗制传位于荣
 - type: successor
-  target_id: null
-  note: 子宗训继位，旋禅于宋（页待建）
+  target_id: zhou-gong
+  note: 子宗训继位，旋禅于宋
 - type: related_emperor
   target_id: n-song-tai-zu
   note: 殿前都点检赵匡胤，陈桥兵变承其后局
 - type: rival
-  target_id: null
-  note: 南唐中主李璟，三征淮南、献江北十四州（页待建）
+  target_id: n-tang-yuan-zong
+  note: 南唐中主李璟，三征淮南、献江北十四州
 routes:
 - group: 都城
   order: 1

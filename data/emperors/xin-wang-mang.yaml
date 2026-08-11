@@ -202,13 +202,13 @@ timeline:
 relations:
 - type: kinship
   target_id: null
-  note: 姑母王政君为元帝皇后，外戚路径由此开启（页待建）
+  note: 姑母王政君为元帝皇后，外戚路径由此开启（非帝王，不入索引）
 - type: predecessor
-  target_id: null
-  note: 居摄年间所立孺子婴，始建国元年废之代汉（页待建）
+  target_id: han-ruzi
+  note: 居摄年间所立孺子婴，始建国元年废之代汉
 - type: successor
   target_id: null
-  note: 更始帝刘玄（页待建）
+  note: 更始帝刘玄（玄汉，未入图鉴）
 - type: rival
   target_id: e-han-guangwu
   note: 昆阳之败与终局对手，新亡汉兴
@@ -238,7 +238,7 @@ routes:
   year: '22'
   place_id: lv-lin
   event: 绿林新市兵起
-- group: 亲征
+- group: 其他
   order: 6
   year: '23'
   place_id: kun-yang

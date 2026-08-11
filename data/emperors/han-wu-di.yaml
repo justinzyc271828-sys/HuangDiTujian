@@ -95,18 +95,6 @@ timeline:
   sources:
   - 汉书·卷006·武帝
   card_id: E003
-- year: '-136'
-  date_note: 建元五年
-  date_note_en: Jianyuan 5
-  title: 置五经博士
-  title_en: Erudites of the Five Classics
-  summary: 置五经博士。
-  summary_en: Erudites were appointed for the Five Classics.
-  place_id: chang-an
-  related_person_ids: []
-  sources:
-  - 汉书·卷006·武帝
-  card_id: E004
 - year: '-138'
   date_note: 建元三年
   date_note_en: Jianyuan 3
@@ -119,6 +107,18 @@ timeline:
   sources:
   - 汉书·卷006·武帝
   card_id: E005
+- year: '-136'
+  date_note: 建元五年
+  date_note_en: Jianyuan 5
+  title: 置五经博士
+  title_en: Erudites of the Five Classics
+  summary: 置五经博士。
+  summary_en: Erudites were appointed for the Five Classics.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 汉书·卷006·武帝
+  card_id: E004
 - year: '-133'
   date_note: 元光二年
   date_note_en: Yuanguang 2
@@ -207,6 +207,9 @@ timeline:
   - 汉书·卷006·武帝
   card_id: E012
 relations:
+- type: predecessor
+  target_id: han-jing-di
+  note: 孝景帝第九子，父崩即皇帝位
 - type: related_emperor
   target_id: qin-shi-huang
   note: 封禅与统一帝国礼仪的长线对照
@@ -214,20 +217,20 @@ relations:
   target_id: han-gao-zu
   note: 汉家开国之后的极盛之主
 - type: successor
-  target_id: null
-  note: 昭帝（页待建）
+  target_id: han-zhao-di
+  note: 少子弗陵即位，是为昭帝，霍光受遗诏辅政
 routes:
 - group: 都城
   order: 1
   year: '-141'
   place_id: chang-an
   event: 即位
-- group: 亲征
+- group: 其他
   order: 2
   year: '-127'
   place_id: shuofang
   event: 河南朔方
-- group: 亲征
+- group: 其他
   order: 3
   year: '-121'
   place_id: hexi

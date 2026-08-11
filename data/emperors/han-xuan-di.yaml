@@ -179,7 +179,7 @@ timeline:
   sources:
   - 汉书·卷008·宣帝纪
   card_id: E010
-- year: null
+- year: '-48'
   date_note: 政风
   date_note_en: Governance Style
   title: 信赏必罚吏治
@@ -191,7 +191,7 @@ timeline:
   sources:
   - 汉书·卷008·宣帝纪
   card_id: E011
-- year: null
+- year: '-48'
   date_note: 施政总评
   date_note_en: Overall Assessment
   title: 综核名实
@@ -206,11 +206,11 @@ timeline:
   card_id: E012
 relations:
 - type: predecessor
-  target_id: null
-  note: 昭帝崩、昌邑王废后迎立（昭帝页待建）
+  target_id: han-changyi
+  note: 昭帝崩无嗣，昌邑王贺立二十七日而废，霍光迎立病已
 - type: successor
-  target_id: null
-  note: 元帝（页待建）
+  target_id: han-yuan-di
+  note: 太子奭即位，是为元帝
 - type: kinship
   target_id: han-wu-di
   note: 曾祖；巫蛊之祸后以皇曾孙入继大统
@@ -238,7 +238,7 @@ routes:
   year: '-66'
   place_id: chang-an
   event: 诛霍氏亲政
-- group: 亲征
+- group: 其他
   order: 5
   year: '-61'
   place_id: hexi

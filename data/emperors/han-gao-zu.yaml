@@ -90,6 +90,9 @@ relations:
   - type: related_emperor
     target_id: qin-er-shi
     note: 秦末政治崩解的对照人物
+  - type: successor
+    target_id: han-hui-di
+    note: 太子盈即位，是为惠帝
 
 routes:
   - group: 起兵

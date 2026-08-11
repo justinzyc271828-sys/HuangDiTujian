@@ -182,7 +182,7 @@ timeline:
   sources:
   - 旧唐书·太宗纪
   card_id: E011
-- year: '627'
+- year: '649'
   date_note: 贞观年间
   date_note_en: Zhenguan era
   title: 用人纳谏
@@ -202,8 +202,11 @@ relations:
   target_id: qin-shi-huang
   note: 统一帝国传统下的不同治理路径
 - type: predecessor
-  target_id: null
-  note: 唐高祖（页待建）
+  target_id: tang-gao-zu
+  note: 高祖次子，玄武门之变后受禅即位
+- type: successor
+  target_id: tang-gao-zong
+  note: 太子治即位，是为高宗
 routes:
 - group: 其他
   order: 1
@@ -230,7 +233,7 @@ routes:
   year: '627'
   place_id: chang-an
   event: 改元贞观
-- group: 亲征
+- group: 其他
   order: 6
   year: '630'
   place_id: yinshan

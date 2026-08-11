@@ -142,7 +142,7 @@ timeline:
   sources:
   - 晋书·卷105·石勒载记
   card_id: E008
-- year: null
+- year: '333'
   date_note: 在位
   date_note_en: during his reign
   title: 胡汉分治与学校
@@ -154,7 +154,7 @@ timeline:
   sources:
   - 晋书·卷105
   card_id: E011
-- year: null
+- year: '333'
   date_note: 在位间
   date_note_en: during his reign
   title: 重用张宾
@@ -192,17 +192,17 @@ timeline:
   card_id: E010
 relations:
 - type: successor
-  target_id: null
-  note: 石弘继位，旋为石虎所夺（石虎页待建）
+  target_id: h-zhao-shi-hu
+  note: 子弘继位，旋为石虎所夺（石弘未入图鉴）
 - type: rival
-  target_id: null
-  note: 刘曜，前赵末主，329年为石勒所灭（页待建）
+  target_id: q-zhao-liu-yao
+  note: 刘曜，前赵末主，329年为石勒所灭
 - type: related_emperor
-  target_id: null
-  note: 刘渊，石勒早年依附的汉赵开国之主（页待建）
+  target_id: q-zhao-liu-yuan
+  note: 刘渊，石勒早年依附的汉赵开国之主
 - type: minister
   target_id: null
-  note: 张宾，右侯、谋主（页待建）
+  note: 张宾，右侯、谋主（非帝王，不入索引）
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 同为十六国时期胡人政权立国者的长线对照

@@ -127,14 +127,14 @@ timeline:
   card_id: E009
 relations:
 - type: predecessor
-  target_id: null
-  note: 中主李璟卒，煜继位（页待建）
+  target_id: n-tang-yuan-zong
+  note: 中主李璟卒，煜继位
 - type: rival
   target_id: n-song-tai-zu
   note: 开宝年间遣曹彬等伐江南，灭南唐
 - type: related_emperor
-  target_id: null
-  note: 太平兴国三年卒于宋太宗朝；赐死传说待考（页待建）
+  target_id: n-song-tai-zong
+  note: 太平兴国三年卒于宋太宗朝；赐死传说待考
 routes:
 - group: 都城
   order: 1

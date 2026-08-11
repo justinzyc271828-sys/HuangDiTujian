@@ -189,7 +189,7 @@ timeline:
   sources:
   - 梁书·简文帝纪
   card_id: E011
-- year: null
+- year: '549'
   date_note: 天监–大同
   date_note_en: Tianjian–Datong
   title: 文化全盛
@@ -204,11 +204,11 @@ timeline:
   card_id: E012
 relations:
 - type: predecessor
-  target_id: null
-  note: 齐和帝萧宝融——受其禅让建梁（qi-he，页待建）
+  target_id: qi-he
+  note: 齐和帝萧宝融——受其禅让建梁
 - type: successor
-  target_id: null
-  note: 简文帝萧纲——侯景控制下继位（liang-jianwen，页待建）
+  target_id: liang-jianwen
+  note: 简文帝萧纲——侯景控制下继位
 - type: rival
   target_id: null
   note: 侯景——纳降致乱，台城之祸（非帝王，不入索引）

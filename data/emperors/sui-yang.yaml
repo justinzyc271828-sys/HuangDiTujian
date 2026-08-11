@@ -212,8 +212,8 @@ relations:
   target_id: sui-wen
   note: 父隋文帝，开皇二十年立广为太子，仁寿四年继位
 - type: successor
-  target_id: null
-  note: 隋室后任隋恭帝，见本纪末及后任纪（页待建）
+  target_id: sui-gong
+  note: 江都之难后，李渊入长安立代王侑，是为隋恭帝
 - type: related_emperor
   target_id: tang-tai-zong
   note: 后效承接，唐承隋制的长线对照

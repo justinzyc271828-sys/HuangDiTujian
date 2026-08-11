@@ -75,6 +75,9 @@ relations:
   - type: predecessor
     target_id: qin-shi-huang
     note: 父（始皇帝）
+  - type: successor
+    target_id: qin-zi-ying
+    note: 赵高弑二世于望夷宫，立子婴，去帝号称秦王
 
 routes:
   - group: 都城
