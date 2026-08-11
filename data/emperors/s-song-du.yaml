@@ -1,0 +1,170 @@
+id: s-song-du
+tier: emperor
+sort_key: 南宋-006
+names:
+  display: 宋度宗
+  display_en: Emperor Duzong of Song
+  personal: 赵禥
+  personal_en: Zhao Qi
+  temple: 度宗
+  posthumous: 端文明武景孝皇帝
+  aliases:
+  - 赵孟启
+  - 赵孜
+dynasty:
+  id: s-song
+  label: 南宋
+  sequence: 6
+reign:
+  start: '1264'
+  end: '1274'
+  eras:
+  - 咸淳
+life:
+  birth: '1240'
+  death: '1274'
+  birth_place_id: null
+  death_place_id: lin-an
+summary: 理宗养子入继，荒于酒色政在贾似道，襄樊陷而门户洞开。
+summary_en: Adopted by Lizong, he indulged in wine and women while Jia Sidao governed; Xiangyang fell and the gateway was flung open.
+tags:
+- 襄樊之战
+- 贾似道
+- 咸淳
+- 南宋之衰
+tags_en:
+- Siege of Xiangyang-Fancheng
+- Jia Sidao
+- Xianchun
+- Decline of Southern Song
+portrait:
+  primary: assets/portraits/s-song-du/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/s-song-du.md
+timeline:
+- year: '1240'
+  date_note: 嘉熙四年
+  date_note_en: '1240'
+  title: 生
+  title_en: 生
+  summary: 理宗侄，立为皇太子。
+  summary_en: Nephew of Lizong, made heir.
+  place_id: null
+  related_person_ids:
+  - s-song-li
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1264'
+  date_note: 景定五年
+  date_note_en: '1264'
+  title: 即位
+  title_en: 即位
+  summary: 理宗崩，禥即位，改元咸淳。
+  summary_en: Succeeded upon Lizong's death, era Xianchun.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-li
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1268'
+  date_note: 咸淳中
+  date_note_en: '1268'
+  title: 襄樊被围
+  title_en: 襄樊被围
+  summary: 蒙古围襄阳樊城数年，宋援不力。
+  summary_en: The Mongols besieged Xiangyang and Fancheng for years with weak relief.
+  place_id: xiang-yang
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1273'
+  date_note: 咸淳九年
+  date_note_en: '1273'
+  title: 襄阳陷
+  title_en: 襄阳陷
+  summary: 吕文焕降，襄樊失守，江汉门户洞开。
+  summary_en: Lü Wenhuan surrendered; the loss of Xiangyang opened the route south.
+  place_id: xiang-yang
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1274'
+  date_note: 咸淳十年
+  date_note_en: '1274'
+  title: 度宗崩
+  title_en: 度宗崩
+  summary: 崩，恭帝继，贾似道仍专权。
+  summary_en: Died; Gongzong succeeded and Jia Sidao still ruled.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-gong
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1274'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 度宗总评
+  title_en: 度宗总评
+  summary: 荒于酒色，政在贾氏，襄阳之陷为亡国之始。
+  summary_en: Lost in dissipation with power in Jia's hands; Xiangyang's fall began the end.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: s-song-li
+  note: 理宗侄，立为皇太子，景定五年即位
+- type: successor
+  target_id: s-song-gong
+  note: 咸淳十年崩，子显即位
+routes:
+- group: 都城
+  order: 1
+  year: '1264'
+  place_id: lin-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1268'
+  place_id: xiang-yang
+  event: 襄樊被围
+- group: 其他
+  order: 3
+  year: '1273'
+  place_id: xiang-yang
+  event: 襄阳陷
+- group: 都城
+  order: 4
+  year: '1274'
+  place_id: lin-an
+  event: 度宗崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 南宋第六位皇帝，正史立纪。
+  synced_from_cards: true

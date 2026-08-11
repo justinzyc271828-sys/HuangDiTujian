@@ -1,0 +1,161 @@
+id: h-shu-meng-chang
+tier: quasi
+sort_key: 后蜀-002
+names:
+  display: 后蜀后主
+  display_en: Meng Chang, The Last Sovereign of Later Shu
+  personal: 孟昶
+  personal_en: Meng Chang
+  temple: null
+  posthumous: 楚王（宋赠）
+  aliases:
+  - 孟仁赞
+dynasty:
+  id: h-shu
+  label: 后蜀
+  sequence: 2
+reign:
+  start: '934'
+  end: '965'
+  eras:
+  - 明德
+  - 广政
+life:
+  birth: '919'
+  death: '965'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 知祥第三子；明德元年即位；蜀中相对安定，好文学，升平文治；乾德三年王全斌伐蜀，昶降，后蜀亡；至京师封秦国公，卒。
+summary_en: Third son of Zhixiang; he took the throne in the 1st year of Mingde; Shu
+  was comparatively at peace, and he loved letters — an age of culture; in the 3rd
+  year of Qiande Wang Quanbin invaded, Chang surrendered, and Later Shu was no more;
+  brought to the capital, he was made Duke of Qin and died.
+tags:
+- 升平文治
+- 降宋
+- 后蜀亡
+- 佚乐
+tags_en:
+- Culture and Peace
+- Surrender to Song
+- The Fall of Later Shu
+- Ease and Pleasure
+portrait:
+  primary: assets/portraits/h-shu-meng-chang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现文雅佚乐之君之态，衣冠从五代蜀制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/h-shu-meng-chang.md
+timeline:
+- year: '919'
+  date_note: 约年
+  date_note_en: c. 919
+  title: 生
+  title_en: Birth
+  summary: 知祥第三子，初名仁赞。
+  summary_en: Third son of Zhixiang, first named Renzan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·后蜀世家
+  card_id: E001
+- year: '934'
+  date_note: 明德元年
+  date_note_en: 1st year of Mingde
+  title: 即位
+  title_en: Accession
+  summary: 知祥崩，昶即位。
+  summary_en: Zhixiang died; Chang took the throne.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '950'
+  date_note: 约年
+  date_note_en: c. 950
+  title: 升平文治
+  title_en: Culture and Peace
+  summary: 蜀中相对安定，好文学。
+  summary_en: Shu was comparatively at peace, and he loved letters.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '965'
+  date_note: 乾德三年
+  date_note_en: 3rd year of Qiande
+  title: 降宋
+  title_en: Surrender to Song
+  summary: 王全斌伐蜀，昶降，后蜀亡。
+  summary_en: Wang Quanbin invaded; Chang surrendered, and Later Shu was no more.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '965'
+  date_note: 同年
+  date_note_en: same year
+  title: 卒于汴
+  title_en: Death at Bian
+  summary: 至京师，封秦国公，卒。
+  summary_en: Brought to the capital, he was made Duke of Qin and died.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '965'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 昶总评
+  title_en: Final Verdict
+  summary: 佚乐亡国。
+  summary_en: He lost the realm to ease and pleasure.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: h-shu-meng-zhixiang
+  note: 明德元年知祥崩，第三子昶即位
+- type: successor
+  target_id: n-song-tai-zu
+  note: 乾德三年降宋，后蜀亡于宋太祖
+- type: kinship
+  target_id: h-shu-meng-zhixiang
+  note: 知祥第三子
+routes:
+- group: 都城
+  order: 1
+  year: '934'
+  place_id: cheng-du
+  event: 即位
+- group: 都城
+  order: 2
+  year: '950'
+  place_id: cheng-du
+  event: 升平文治
+- group: 都城
+  order: 3
+  year: '965'
+  place_id: cheng-du
+  event: 降宋
+- group: 都城
+  order: 4
+  year: '965'
+  place_id: kai-feng
+  event: 卒于汴
+sources:
+- title: 新五代史·后蜀世家
+  note: 主叙事
+- title: 宋史·西蜀孟氏
+  note: 降宋互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后蜀末主，降宋亡国，图鉴以准帝收录。
+  synced_from_cards: true

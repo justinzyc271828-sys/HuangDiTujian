@@ -1,0 +1,159 @@
+id: jin-chu
+tier: emperor
+sort_key: 后晋-002
+names:
+  display: 后晋出帝
+  display_en: The Emperor Chu of Later Jin
+  personal: 石重贵
+  personal_en: Shi Chonggui
+  temple: null
+  posthumous: null
+  aliases:
+  - 石少帝
+dynasty:
+  id: jin
+  label: 后晋
+  sequence: 2
+reign:
+  start: '942'
+  end: '947'
+  eras:
+  - 天福
+  - 开运
+life:
+  birth: '914'
+  death: '947'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 敬瑭兄子，立为嗣；天福七年即位，改元开运；景延广等主战拒称臣，契丹南伐，晋军一度拒之；开运四年契丹入汴，出帝被俘北迁，后晋亡。
+summary_en: Son of Jingtang's elder brother, made his heir; he took the throne in
+  the 7th year of Tianfu, changing the era to Kaiyun; Jing Yangguang and the others
+  urged war and refused vassalage, the Khitan marched south, and the Jin armies held
+  them for a time; in the 4th year of Kaiyun the Khitan entered Kaifeng, the Emperor
+  Chu was taken north, and Later Jin was no more.
+tags:
+- 拒称臣
+- 与契丹战
+- 被俘北迁
+- 晋亡
+tags_en:
+- Refusing Vassalage
+- War with the Khitan
+- Taken North
+- The Fall of Jin
+portrait:
+  primary: assets/portraits/jin-chu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现力战而败之君之态，衣冠从五代制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/jin-chu.md
+timeline:
+- year: '914'
+  date_note: 乾化四年
+  date_note_en: 4th year of Qianhua
+  title: 生
+  title_en: Birth
+  summary: 敬瑭兄子，立为嗣。
+  summary_en: Son of Jingtang's elder brother, made his heir.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·少帝纪（晋）
+  card_id: E001
+- year: '942'
+  date_note: 天福七年
+  date_note_en: 7th year of Tianfu
+  title: 即位
+  title_en: Accession
+  summary: 高祖崩，重贵即位。
+  summary_en: Gaozu died; Chonggui took the throne.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '943'
+  date_note: 天福八年
+  date_note_en: 8th year of Tianfu
+  title: 改元开运
+  title_en: The Kaiyun Era
+  summary: 景延广等主战。
+  summary_en: Jing Yangguang and the others urged war.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '944'
+  date_note: 开运中
+  date_note_en: mid-Kaiyun
+  title: 与契丹开战
+  title_en: War with the Khitan
+  summary: 拒称臣，契丹南伐，晋军一度拒之。
+  summary_en: He refused vassalage; the Khitan marched south, and the Jin armies held
+    them for a time.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '947'
+  date_note: 开运四年
+  date_note_en: 4th year of Kaiyun
+  title: 晋亡北迁
+  title_en: The Fall and the Northward March
+  summary: 契丹入汴，出帝被俘北迁，后晋亡。
+  summary_en: The Khitan entered Kaifeng; the Emperor Chu was taken north, and Later
+    Jin was no more.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '947'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 出帝总评
+  title_en: Final Verdict
+  summary: 既不能恭事契丹，又不能自立。
+  summary_en: He could neither serve the Khitan humbly nor stand on his own.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: jin-gao
+  note: 天福七年高祖崩，侄重贵即位
+- type: successor
+  target_id: han-gao-wu
+  note: 开运四年辽灭后晋，刘知远即位于中原（亡国链）
+- type: kinship
+  target_id: jin-gao
+  note: 高祖兄子
+routes:
+- group: 都城
+  order: 1
+  year: '942'
+  place_id: kai-feng
+  event: 即位
+- group: 其他
+  order: 2
+  year: '944'
+  place_id: null
+  event: 与契丹开战
+- group: 都城
+  order: 3
+  year: '947'
+  place_id: kai-feng
+  event: 晋亡北迁
+sources:
+- title: 旧五代史·晋少帝纪
+  note: 主叙事
+- title: 新五代史·晋本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后晋末帝，正史立纪。
+  synced_from_cards: true

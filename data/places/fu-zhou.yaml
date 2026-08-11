@@ -1,0 +1,12 @@
+id: fu-zhou
+names:
+  historical: 福州
+  modern: 今福建福州
+  english: Fuzhou
+coords:
+  lng: 119.3
+  lat: 26.07
+  precision: approximate
+map:
+  region: ''
+notes: 福州，景炎元年端宗即位处，今福州。

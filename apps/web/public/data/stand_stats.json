@@ -3268,6 +3268,1266 @@
       "cry_en": "The Baima drowning, and the abdication to Liang.",
       "ability_en": "A child on the abdicating throne, watching Tang die.",
       "weakness_en": "The Baimayi disaster, and death after the abdication."
+    },
+    "liang-tai-zu": {
+      "stand_name": "【代唐开梁】",
+      "stand_type": "枭雄之君",
+      "cry": "起盗贼而代唐，以残暴而亡身。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 20,
+        "taolue": 55,
+        "guozuo": 45,
+        "houxiao": 55,
+        "yuedan": 15
+      },
+      "ability": "代唐有国；开梁立极。",
+      "weakness": "残暴荒淫；见弑亲子。",
+      "stand_name_en": "The Bandit Who Took Tang",
+      "stand_type_en": "The Adventurer Sovereign",
+      "cry_en": "A bandit who took the Tang throne, and perished by his own cruelty.",
+      "ability_en": "Took the Tang throne and founded Liang.",
+      "weakness_en": "Cruel and lewd, slain by his own son."
+    },
+    "liang-mo": {
+      "stand_name": "【守成不终】",
+      "stand_type": "梁亡之君",
+      "cry": "河北尽失，挥涕受刃。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 25,
+        "taolue": 20,
+        "guozuo": 60,
+        "houxiao": 40,
+        "yuedan": 25
+      },
+      "ability": "诛珪即位；守成不终。",
+      "weakness": "不能制将；终亡于唐。",
+      "stand_name_en": "The Unfinished Stewardship",
+      "stand_type_en": "The Fall of Liang",
+      "cry_en": "Hebei lost, he wept and received the blade.",
+      "ability_en": "Slew Yougui, took the throne, and held it a decade.",
+      "weakness_en": "Could not control his generals, and fell to Tang."
+    },
+    "tang-zhuang": {
+      "stand_name": "【灭梁兴唐】",
+      "stand_type": "勇而少礼",
+      "cry": "三矢之志，一朝而伸。",
+      "scores": {
+        "wugong": 80,
+        "wenzhi": 30,
+        "taolue": 65,
+        "guozuo": 25,
+        "houxiao": 50,
+        "yuedan": 40
+      },
+      "ability": "灭梁兴唐；武功极盛。",
+      "weakness": "宠伶任宦；胜而不久。",
+      "stand_name_en": "The Destroyer of Liang",
+      "stand_type_en": "Bold and Wanting in Rites",
+      "cry_en": "The will of the three arrows, stretched out in a day.",
+      "ability_en": "Destroyed Liang, founded Tang, and reached the height of arms.",
+      "weakness_en": "Favored actors and eunuchs — he won, and did not last."
+    },
+    "tang-ming": {
+      "stand_name": "【五代小康】",
+      "stand_type": "宽仁之主",
+      "cry": "留心民事，赋役稍宽。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 45,
+        "taolue": 45,
+        "guozuo": 55,
+        "houxiao": 45,
+        "yuedan": 55
+      },
+      "ability": "宽政息兵；五代小康。",
+      "weakness": "藩镇难制；储嗣不明。",
+      "stand_name_en": "The One Peace of the Five Dynasties",
+      "stand_type_en": "The Lenient Sovereign",
+      "cry_en": "He attended to the people's affairs and lightened the levies.",
+      "ability_en": "Ruled leniently and stilled the wars.",
+      "weakness_en": "The feudatories hard to control, the succession unclear."
+    },
+    "tang-min": {
+      "stand_name": "【幼弱见废】",
+      "stand_type": "藩镇之祸",
+      "cry": "四月之君，见废而亡。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 25,
+        "taolue": 10,
+        "guozuo": 5,
+        "houxiao": 25,
+        "yuedan": 30
+      },
+      "ability": "嗣位冲年；享国不永。",
+      "weakness": "不能制藩；见废遇害。",
+      "stand_name_en": "The Four-Month Sovereign",
+      "stand_type_en": "The Feudatory Disaster",
+      "cry_en": "Four months on the throne, deposed and dead.",
+      "ability_en": "A young sovereign of a brief reign.",
+      "weakness_en": "Could not control the feudatories, and was deposed and slain."
+    },
+    "tang-mo": {
+      "stand_name": "【自焚殉国】",
+      "stand_type": "燕云之失",
+      "cry": "敬瑭一叛，燕云尽失。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 20,
+        "taolue": 30,
+        "guozuo": 20,
+        "houxiao": 40,
+        "yuedan": 25
+      },
+      "ability": "废主自立；得位不正。",
+      "weakness": "猜忌敬瑭；自焚亡国。",
+      "stand_name_en": "Death by Fire",
+      "stand_type_en": "The Loss of Yanyun",
+      "cry_en": "One revolt of Jingtang, and the Yanyun lands were lost.",
+      "ability_en": "Took the throne by deposition, ill-gotten.",
+      "weakness_en": "Distrusted Jingtang and burned himself with the realm."
+    },
+    "jin-gao": {
+      "stand_name": "【儿皇帝】",
+      "stand_type": "燕云之祸",
+      "cry": "割十六州，称儿皇帝。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 25,
+        "taolue": 50,
+        "guozuo": 50,
+        "houxiao": 60,
+        "yuedan": 15
+      },
+      "ability": "借兵契丹；称帝建国。",
+      "weakness": "割燕云地；儿皇帝名。",
+      "stand_name_en": "The Son Emperor",
+      "stand_type_en": "The Yanyun Disaster",
+      "cry_en": "Sixteen prefectures ceded, and the name of son emperor.",
+      "ability_en": "Won his throne with the Khitan and founded the realm.",
+      "weakness_en": "Ceded the Yanyun lands and took the son emperor's name."
+    },
+    "jin-chu": {
+      "stand_name": "【抗辽而亡】",
+      "stand_type": "力战不胜",
+      "cry": "既不能战，又不能和。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 20,
+        "taolue": 25,
+        "guozuo": 45,
+        "houxiao": 40,
+        "yuedan": 30
+      },
+      "ability": "拒称臣辽；奋然一战。",
+      "weakness": "既不能战；又不能和。",
+      "stand_name_en": "The War with Liao",
+      "stand_type_en": "Fought and Lost",
+      "cry_en": "Unable to fight, unable to make peace.",
+      "ability_en": "Refused vassalage and fought the Khitan boldly.",
+      "weakness_en": "Could neither win the war nor make the peace."
+    },
+    "han-gao-wu": {
+      "stand_name": "【静观得国】",
+      "stand_type": "乘机而兴",
+      "cry": "契丹北还，乘虚入汴。",
+      "scores": {
+        "wugong": 50,
+        "wenzhi": 25,
+        "taolue": 55,
+        "guozuo": 10,
+        "houxiao": 35,
+        "yuedan": 40
+      },
+      "ability": "静观时变；乘机有国。",
+      "weakness": "享祚短促；剪除功臣。",
+      "stand_name_en": "The Realm Picked Up",
+      "stand_type_en": "Seizing the Chance",
+      "cry_en": "The Khitan withdrew north, and he slipped into Kaifeng.",
+      "ability_en": "Watched the time and took his realm by the chance.",
+      "weakness_en": "A year on the throne, and he cut away his own men."
+    },
+    "han-yin": {
+      "stand_name": "【自毁干城】",
+      "stand_type": "童騃亡国",
+      "cry": "顾命尽诛，郭威入汴。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 15,
+        "taolue": 10,
+        "guozuo": 20,
+        "houxiao": 30,
+        "yuedan": 20
+      },
+      "ability": "嗣位冲年；听信谗言。",
+      "weakness": "杀顾命臣；自毁干城。",
+      "stand_name_en": "Destroying His Own Shield",
+      "stand_type_en": "A Child's Ruin",
+      "cry_en": "The regents slain, and Guo Wei entered Kaifeng.",
+      "ability_en": "A young sovereign who heeded slander.",
+      "weakness_en": "Slew his regents and pulled down his own wall."
+    },
+    "zhou-tai": {
+      "stand_name": "【革弊开周】",
+      "stand_type": "五代之最",
+      "cry": "废营田、减苛税，有天下之志。",
+      "scores": {
+        "wugong": 60,
+        "wenzhi": 45,
+        "taolue": 55,
+        "guozuo": 25,
+        "houxiao": 55,
+        "yuedan": 55
+      },
+      "ability": "起兵代汉；革弊安民。",
+      "weakness": "享祚短促；养子继统。",
+      "stand_name_en": "Reform and the Founding of Zhou",
+      "stand_type_en": "The Best of the Five",
+      "cry_en": "The farms abolished, the harsh taxes lightened — the ambition of the realm.",
+      "ability_en": "Took the throne from Han and reformed the abuses.",
+      "weakness_en": "His reign was brief; an adopted son succeeded."
+    },
+    "zhou-gong": {
+      "stand_name": "【陈桥禅代】",
+      "stand_type": "五代终章",
+      "cry": "黄袍加身，五代终结。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 5,
+        "houxiao": 45,
+        "yuedan": 25
+      },
+      "ability": "幼冲嗣位；坐视禅代。",
+      "weakness": "陈桥兵变；五代终结。",
+      "stand_name_en": "The Chenqiao Abdication",
+      "stand_type_en": "The End of the Five Dynasties",
+      "cry_en": "The yellow robe, and the Five Dynasties were at an end.",
+      "ability_en": "A child on the abdicating throne.",
+      "weakness_en": "The Chenqiao mutiny ended the age."
+    },
+    "wu-yang-xingmi": {
+      "stand_name": "【江淮底定】",
+      "stand_type": "保境雄主",
+      "cry": "破孙儒而定江淮，养士民以开吴基。",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 40,
+        "taolue": 60,
+        "guozuo": 45,
+        "houxiao": 50,
+        "yuedan": 55
+      },
+      "ability": "据淮定扬；保境息民。",
+      "weakness": "后嗣不立；徐温坐大。",
+      "stand_name_en": "The Pacifier of the Jiang-Huai",
+      "stand_type_en": "Hero of the Borders",
+      "cry_en": "He destroyed Sun Ru and fixed the Jiang-Huai; he nourished the people and opened the base of Wu.",
+      "ability_en": "Held Huainan and kept his borders at peace.",
+      "weakness_en": "His heirs were unequal, and Xu Wen grew great."
+    },
+    "wu-yang-pu": {
+      "stand_name": "【拱手让国】",
+      "stand_type": "徐氏傀儡",
+      "cry": "十七年拱手，一朝禅南唐。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 20,
+        "taolue": 5,
+        "guozuo": 60,
+        "houxiao": 40,
+        "yuedan": 30
+      },
+      "ability": "承兄即位；拱手让国。",
+      "weakness": "徐氏专权；禅位而终。",
+      "stand_name_en": "The Realm Ceded with Folded Hands",
+      "stand_type_en": "The Xu Puppet",
+      "cry_en": "Seventeen years with folded hands, and the abdication to Southern Tang in a day.",
+      "ability_en": "Succeeded his brother and sat as the Xu's puppet.",
+      "weakness_en": "The Xu held the power; he ceded the realm."
+    },
+    "n-tang-lie-zu": {
+      "stand_name": "【金陵开国】",
+      "stand_type": "宽仁之主",
+      "cry": "息兵劝农，江南晏然。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 60,
+        "taolue": 50,
+        "guozuo": 45,
+        "houxiao": 55,
+        "yuedan": 60
+      },
+      "ability": "受禅开唐；息兵劝农。",
+      "weakness": "享国短促；北境未固。",
+      "stand_name_en": "The Founding at Jinling",
+      "stand_type_en": "The Benevolent Sovereign",
+      "cry_en": "Wars stilled, farming urged, the south of the river quietly at ease.",
+      "ability_en": "Founded Southern Tang by abdication and ruled it gently.",
+      "weakness_en": "His reign was brief; the northern border unsecured."
+    },
+    "n-tang-yuan-zong": {
+      "stand_name": "【词与江北】",
+      "stand_type": "文治而衰",
+      "cry": "吹皱一池春水，失尽江北山河。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 70,
+        "taolue": 30,
+        "guozuo": 70,
+        "houxiao": 50,
+        "yuedan": 50
+      },
+      "ability": "承业守成；好文雅词。",
+      "weakness": "江北尽失；去号称臣。",
+      "stand_name_en": "Ci and the Loss of the North",
+      "stand_type_en": "Culture in Decline",
+      "cry_en": "He stirred a spring pond's water, and lost all the hills and rivers north of the river.",
+      "ability_en": "Inherited the realm and loved letters and ci.",
+      "weakness_en": "Lost the north of the river and dropped the imperial title."
+    },
+    "wuyue-qian-liu": {
+      "stand_name": "【筑塘保浙】",
+      "stand_type": "事大贤主",
+      "cry": "钱塘一塘，保杭嘉千载。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 50,
+        "taolue": 55,
+        "guozuo": 60,
+        "houxiao": 65,
+        "yuedan": 70
+      },
+      "ability": "保境安民；筑塘兴杭。",
+      "weakness": "事大多贡；偏安一隅。",
+      "stand_name_en": "The Wall and the Two Zhe",
+      "stand_type_en": "The Worthy Vassal",
+      "cry_en": "One dike at the Qiantang, protecting Hang and Jia for a thousand years.",
+      "ability_en": "Kept his borders, built the sea wall, and raised Hangzhou.",
+      "weakness_en": "A vassal of tribute in one corner."
+    },
+    "min-wang-shenzhi": {
+      "stand_name": "【闽中贤主】",
+      "stand_type": "开国宽仁",
+      "cry": "轻徭薄赋，招徕海舶。",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 55,
+        "taolue": 45,
+        "guozuo": 55,
+        "houxiao": 45,
+        "yuedan": 60
+      },
+      "ability": "轻徭薄赋；招徕海商。",
+      "weakness": "后嗣争立；闽政遂乱。",
+      "stand_name_en": "The Worthy of Min",
+      "stand_type_en": "The Benign Founder",
+      "cry_en": "Light levies, and the sea ships drawn in.",
+      "ability_en": "Ruled Min with light levies and open trade.",
+      "weakness_en": "His heirs contended, and Min fell into disorder."
+    },
+    "min-wang-yanjun": {
+      "stand_name": "【称帝政乱】",
+      "stand_type": "好仙见弑",
+      "cry": "宝皇宫起，父子相戕。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 20,
+        "taolue": 20,
+        "guozuo": 55,
+        "houxiao": 30,
+        "yuedan": 20
+      },
+      "ability": "杀兄自立；称帝改元。",
+      "weakness": "好仙兴役；见弑亲子。",
+      "stand_name_en": "The Imperial Title and the Disorder",
+      "stand_type_en": "Slain by His Son",
+      "cry_en": "The Baohuang Palace rose, and father and son slew each other.",
+      "ability_en": "Slew his brother, took the throne, and took the imperial title.",
+      "weakness_en": "Loved the immortals and great works, and was slain by his son."
+    },
+    "chu-ma-yin": {
+      "stand_name": "【茶商立国】",
+      "stand_type": "保境通商",
+      "cry": "听民采茶，楚以富强。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 45,
+        "taolue": 45,
+        "guozuo": 60,
+        "houxiao": 40,
+        "yuedan": 50
+      },
+      "ability": "保境通商；兴茶富国。",
+      "weakness": "诸子争立；楚祚遂衰。",
+      "stand_name_en": "A Realm of Tea",
+      "stand_type_en": "Peace and Commerce",
+      "cry_en": "The people free to gather tea, and Chu grew rich and strong.",
+      "ability_en": "Kept the borders and opened the tea trade.",
+      "weakness_en": "His sons contended, and Chu declined."
+    },
+    "n-han-liu-yan": {
+      "stand_name": "【岭南酷刑】",
+      "stand_type": "暴虐之君",
+      "cry": "刀山剑树，岭南为墟。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 20,
+        "taolue": 35,
+        "guozuo": 65,
+        "houxiao": 40,
+        "yuedan": 10
+      },
+      "ability": "并岭南地；称帝番禺。",
+      "weakness": "酷刑奢侈；史极言之。",
+      "stand_name_en": "The Cruelties of Lingnan",
+      "stand_type_en": "The Tyrant",
+      "cry_en": "The knife-hill and the sword-tree, and Lingnan brought to waste.",
+      "ability_en": "United Lingnan and took the throne at Panyu.",
+      "weakness_en": "His cruelties and luxury the histories condemn utterly."
+    },
+    "q-shu-wang-jian": {
+      "stand_name": "【盗贼据蜀】",
+      "stand_type": "开国之雄",
+      "cry": "饼师起家，蜀土称雄。",
+      "scores": {
+        "wugong": 60,
+        "wenzhi": 40,
+        "taolue": 55,
+        "guozuo": 55,
+        "houxiao": 45,
+        "yuedan": 50
+      },
+      "ability": "盗贼起家；据蜀称帝。",
+      "weakness": "晚年猜忌；后嗣不贤。",
+      "stand_name_en": "The Pie-Seller of Shu",
+      "stand_type_en": "The Founder Hero",
+      "cry_en": "A pie-seller risen to hold the lands of Shu.",
+      "ability_en": "Rose from nothing and held Shu as emperor.",
+      "weakness_en": "Suspicious in his last years; his heir unworthy."
+    },
+    "q-shu-wang-yan": {
+      "stand_name": "【童騃亡国】",
+      "stand_type": "佚乐之君",
+      "cry": "怡神亭上宴，秦川驿中亡。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 30,
+        "taolue": 5,
+        "guozuo": 50,
+        "houxiao": 35,
+        "yuedan": 15
+      },
+      "ability": "童騃嗣位；游宴无度。",
+      "weakness": "不理政事；降唐被杀。",
+      "stand_name_en": "The Child Who Lost the Realm",
+      "stand_type_en": "The Sovereign of Ease",
+      "cry_en": "Feasting in the Yishen Pavilion, dying at the Qinchuan post.",
+      "ability_en": "A child on the throne, feasting without limit.",
+      "weakness_en": "Careless of government, he surrendered and was slain."
+    },
+    "h-shu-meng-zhixiang": {
+      "stand_name": "【并川称帝】",
+      "stand_type": "草创短祚",
+      "cry": "两川在手，数月而终。",
+      "scores": {
+        "wugong": 50,
+        "wenzhi": 25,
+        "taolue": 50,
+        "guozuo": 5,
+        "houxiao": 30,
+        "yuedan": 40
+      },
+      "ability": "并川称帝；草创后蜀。",
+      "weakness": "享国极短；数月而崩。",
+      "stand_name_en": "The Two Chuan United",
+      "stand_type_en": "Rough Founding, Brief Reign",
+      "cry_en": "Both Chuan in hand, and ended within months.",
+      "ability_en": "United the Chuan and founded Later Shu.",
+      "weakness_en": "His reign was the briefest; he died within months."
+    },
+    "h-shu-meng-chang": {
+      "stand_name": "【锦城佚乐】",
+      "stand_type": "文治而亡",
+      "cry": "锦江春色，化作降旗。",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 60,
+        "taolue": 25,
+        "guozuo": 75,
+        "houxiao": 45,
+        "yuedan": 40
+      },
+      "ability": "承祚守成；蜀中文治。",
+      "weakness": "佚乐亡国；降宋而终。",
+      "stand_name_en": "The Ease of the Brocade City",
+      "stand_type_en": "Culture and the Fall",
+      "cry_en": "The spring of the Jinjiang turned into a flag of surrender.",
+      "ability_en": "Kept the realm and the culture of Shu.",
+      "weakness_en": "Lost the realm to ease, and surrendered to Song."
+    },
+    "jingnan-gao": {
+      "stand_name": "【高赖子】",
+      "stand_type": "事大自存",
+      "cry": "弹丸江陵，抽税自存。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 20,
+        "taolue": 40,
+        "guozuo": 55,
+        "houxiao": 30,
+        "yuedan": 35
+      },
+      "ability": "弹丸事大；抽税自存。",
+      "weakness": "高赖子名；无足称道。",
+      "stand_name_en": "The Gao Rascal",
+      "stand_type_en": "Survival by Serving",
+      "cry_en": "The sliver of Jiangling, kept alive by taxing the merchants.",
+      "ability_en": "Kept his sliver alive by serving the great.",
+      "weakness_en": "The rascal's name, and nothing worthy of praise."
+    },
+    "b-han-liu-chong": {
+      "stand_name": "【太原抗周】",
+      "stand_type": "依辽自存",
+      "cry": "高平一败，忧愤而终。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 15,
+        "taolue": 35,
+        "guozuo": 25,
+        "houxiao": 40,
+        "yuedan": 30
+      },
+      "ability": "太原称帝；借辽拒周。",
+      "weakness": "高平大败；依辽苟存。",
+      "stand_name_en": "The Taiyuan Stand against Zhou",
+      "stand_type_en": "Survival by Liao",
+      "cry_en": "One defeat at Gaoping, and he died of grief and rage.",
+      "ability_en": "Took the throne at Taiyuan and borrowed the Khitan against Zhou.",
+      "weakness_en": "Shattered at Gaoping; a remnant living on Liao."
+    },
+    "b-han-liu-jun": {
+      "stand_name": "【能守不拓】",
+      "stand_type": "北汉延祚",
+      "cry": "太原之城，宋军屡折。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 25,
+        "taolue": 30,
+        "guozuo": 60,
+        "houxiao": 35,
+        "yuedan": 30
+      },
+      "ability": "守太原坚；事辽岁贡。",
+      "weakness": "能守不拓；终为宋灭。",
+      "stand_name_en": "Holding, Not Extending",
+      "stand_type_en": "The Prolonged Remnant",
+      "cry_en": "The city of Taiyuan, before which the Song armies broke again and again.",
+      "ability_en": "Held Taiyuan firm, serving Liao by yearly tribute.",
+      "weakness_en": "Could hold but not extend, and fell to Song at last."
+    },
+    "n-song-tai-zong": {
+      "stand_name": "【烛影继统】",
+      "stand_name_en": "Succession by Candlelight",
+      "stand_type": "承平武治",
+      "stand_type_en": "Martial Rule over Peace",
+      "cry": "太原既下，幽燕未收。",
+      "cry_en": "Taiyuan has fallen, but You and Yan remain unclaimed.",
+      "ability": "灭汉平越；收尾十国。",
+      "ability_en": "He conquered Han and absorbed Yue, closing the Ten Kingdoms.",
+      "weakness": "高梁一败；传位留疑。",
+      "weakness_en": "One defeat at Gaoliang; a succession left in doubt.",
+      "scores": {
+        "wugong": 85,
+        "wenzhi": 88,
+        "taolue": 82,
+        "guozuo": 88,
+        "houxiao": 86,
+        "yuedan": 82
+      }
+    },
+    "n-song-zhen": {
+      "stand_name": "【澶渊定盟】",
+      "stand_name_en": "The Chanyuan Accord",
+      "stand_type": "守成之主",
+      "stand_type_en": "A Consolidating Sovereign",
+      "cry": "岁币百万，边境百年。",
+      "cry_en": "Tribute in millions, borders quiet for a century.",
+      "ability": "澶渊亲征；盟成止战。",
+      "ability_en": "He marched to Chanzhou and sealed the peace.",
+      "weakness": "天书耗财；粉饰太平。",
+      "weakness_en": "Heavenly letters drained wealth; prosperity was painted over.",
+      "scores": {
+        "wugong": 70,
+        "wenzhi": 80,
+        "taolue": 75,
+        "guozuo": 90,
+        "houxiao": 84,
+        "yuedan": 70
+      }
+    },
+    "n-song-ren": {
+      "stand_name": "【嘉祐之治】",
+      "stand_name_en": "The Jiayou Governance",
+      "stand_type": "仁厚文治",
+      "stand_type_en": "Benevolent Civil Rule",
+      "cry": "百工竞秀，海内晏然。",
+      "cry_en": "A hundred crafts flourish; the realm rests in peace.",
+      "ability": "仁政容谏；文教鼎盛。",
+      "ability_en": "Benevolent and open to counsel; culture at its zenith.",
+      "weakness": "因循积弊；庆历未竟。",
+      "weakness_en": "Drift left ills uncured; Qingli went unfinished.",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 96,
+        "taolue": 70,
+        "guozuo": 95,
+        "houxiao": 92,
+        "yuedan": 95
+      }
+    },
+    "n-song-ying": {
+      "stand_name": "【濮议之争】",
+      "stand_name_en": "The Puyi Dispute",
+      "stand_type": "过继之君",
+      "stand_type_en": "The Adopted Sovereign",
+      "cry": "一朝为帝，礼制之争。",
+      "cry_en": "A single reign, a war of rites.",
+      "ability": "入继大统；亲政守礼。",
+      "ability_en": "He took the throne as heir and ruled by rites.",
+      "weakness": "濮议纷纭；在位日浅。",
+      "weakness_en": "The Puyi storm raged; his reign was brief.",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 70,
+        "taolue": 60,
+        "guozuo": 60,
+        "houxiao": 75,
+        "yuedan": 70
+      }
+    },
+    "n-song-shen": {
+      "stand_name": "【熙宁变法】",
+      "stand_name_en": "The Xining Reforms",
+      "stand_type": "变法强兵",
+      "stand_type_en": "Reform for Strength",
+      "cry": "富国强兵，此其时也。",
+      "cry_en": "Now is the time to enrich the state and strengthen its arms.",
+      "ability": "起用安石；理财整军。",
+      "ability_en": "He raised Wang Anshi to rebuild finances and armies.",
+      "weakness": "伐夏丧师；新法聚讼。",
+      "weakness_en": "The Xia campaigns lost armies; the reforms bred endless strife.",
+      "scores": {
+        "wugong": 80,
+        "wenzhi": 88,
+        "taolue": 85,
+        "guozuo": 84,
+        "houxiao": 85,
+        "yuedan": 78
+      }
+    },
+    "n-song-zhe": {
+      "stand_name": "【绍圣述作】",
+      "stand_name_en": "The Shaosheng Revival",
+      "stand_type": "两番翻覆",
+      "stand_type_en": "Two-Faced Rule",
+      "cry": "前日更化，今朝绍述。",
+      "cry_en": "Yesterday the restoration; today the revival.",
+      "ability": "亲政绍述；贬逐旧党。",
+      "ability_en": "He revived Xining policies and ousted the old faction.",
+      "weakness": "党争往复；英年早夭。",
+      "weakness_en": "The factional pendulum swung; he died too young.",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 78,
+        "taolue": 75,
+        "guozuo": 70,
+        "houxiao": 72,
+        "yuedan": 65
+      }
+    },
+    "n-song-hui": {
+      "stand_name": "【瘦金丹青】",
+      "stand_name_en": "The Slender-Gold Brush",
+      "stand_type": "艺冠帝王",
+      "stand_type_en": "Artist among Emperors",
+      "cry": "丹青误国，瘦金长存。",
+      "cry_en": "Brushwork cost the state; the slender-gold endures.",
+      "ability": "瘦金入圣；画院集萃。",
+      "ability_en": "His script reached the summit; the academy gathered masters.",
+      "weakness": "蔡京误政；靖康丧国。",
+      "weakness_en": "Cai Jing misruled; Jingkang lost the state.",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 95,
+        "taolue": 55,
+        "guozuo": 72,
+        "houxiao": 78,
+        "yuedan": 40
+      }
+    },
+    "n-song-qin": {
+      "stand_name": "【靖康之难】",
+      "stand_name_en": "The Jingkang Calamity",
+      "stand_type": "亡国之君",
+      "stand_type_en": "The Lost Sovereign",
+      "cry": "优柔误国，二帝北行。",
+      "cry_en": "Indecision lost the state; two emperors went north.",
+      "ability": "受禅于危；听用李纲。",
+      "ability_en": "He took the throne in crisis and heeded Li Gang.",
+      "weakness": "和战无定；汴京终陷。",
+      "weakness_en": "Wavering between peace and war, he lost Kaifeng at last.",
+      "scores": {
+        "wugong": 35,
+        "wenzhi": 60,
+        "taolue": 50,
+        "guozuo": 50,
+        "houxiao": 70,
+        "yuedan": 40
+      }
+    },
+    "s-song-gao": {
+      "stand_name": "【南渡定鼎】",
+      "stand_name_en": "The Southern Crossing",
+      "stand_type": "中兴偏安",
+      "stand_type_en": "Restoration, Half a Realm",
+      "cry": "东南半壁，犹存社稷。",
+      "cry_en": "Half the realm in the southeast, the altars survive.",
+      "ability": "延祚东南；临安定都。",
+      "ability_en": "He preserved the dynasty and fixed Lin'an.",
+      "weakness": "和议杀飞；偏安忘北。",
+      "weakness_en": "The treaty killed Yue Fei; he forgot the north.",
+      "scores": {
+        "wugong": 78,
+        "wenzhi": 85,
+        "taolue": 80,
+        "guozuo": 90,
+        "houxiao": 82,
+        "yuedan": 45
+      }
+    },
+    "s-song-xiao": {
+      "stand_name": "【乾淳之治】",
+      "stand_name_en": "The Qiandao-Chunxi Order",
+      "stand_type": "恢复之志",
+      "stand_type_en": "The Recovery Ambition",
+      "cry": "符离一败，壮志空怀。",
+      "cry_en": "One rout at Fuling, an ambition unfulfilled.",
+      "ability": "叔侄定约；整军经武。",
+      "ability_en": "He renegotiated the rank and rebuilt the armies.",
+      "weakness": "北伐无功；机会不再。",
+      "weakness_en": "The northern war failed; the moment never returned.",
+      "scores": {
+        "wugong": 82,
+        "wenzhi": 90,
+        "taolue": 84,
+        "guozuo": 92,
+        "houxiao": 95,
+        "yuedan": 88
+      }
+    },
+    "s-song-guang": {
+      "stand_name": "【绍熙内禅】",
+      "stand_name_en": "The Shaoxi Abdication",
+      "stand_type": "不朝之君",
+      "stand_type_en": "The Absent Sovereign",
+      "cry": "不过重华，社稷几危。",
+      "cry_en": "He did not cross to Chonghua; the altars nearly fell.",
+      "ability": "受禅守位；循例听政。",
+      "ability_en": "He held the throne and governed by precedent.",
+      "weakness": "妻制于内；家乱国危。",
+      "weakness_en": "Ruled by his wife, his household disordered the state.",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 55,
+        "taolue": 45,
+        "guozuo": 55,
+        "houxiao": 60,
+        "yuedan": 35
+      }
+    },
+    "s-song-ning": {
+      "stand_name": "【权臣之朝】",
+      "stand_name_en": "The Ministers' Court",
+      "stand_type": "拱默之主",
+      "stand_type_en": "The Silent Sovereign",
+      "cry": "开禧败绩，函首求和。",
+      "cry_en": "The Kaixi failure ended in a head in a box.",
+      "ability": "绍熙入统；垂拱而治。",
+      "ability_en": "He entered by the Shaoxi change and ruled by stillness.",
+      "weakness": "权归韩史；党禁不休。",
+      "weakness_en": "Power went to Han and Shi; proscription never ceased.",
+      "scores": {
+        "wugong": 58,
+        "wenzhi": 65,
+        "taolue": 62,
+        "guozuo": 78,
+        "houxiao": 70,
+        "yuedan": 55
+      }
+    },
+    "s-song-li": {
+      "stand_name": "【端平更化】",
+      "stand_name_en": "The Duanping Renewal",
+      "stand_type": "崇理之君",
+      "stand_type_en": "The Neo-Confucian Sovereign",
+      "cry": "灭金入洛，反招豺狼。",
+      "cry_en": "Jin destroyed, Luoyang seized - and the wolf came south.",
+      "ability": "联蒙灭金；崇道兴学。",
+      "ability_en": "He allied to destroy Jin and exalted the dao-learning.",
+      "weakness": "入洛败绩；晚任似道。",
+      "weakness_en": "The recovery failed; he leaned on Jia Sidao at last.",
+      "scores": {
+        "wugong": 75,
+        "wenzhi": 88,
+        "taolue": 78,
+        "guozuo": 86,
+        "houxiao": 76,
+        "yuedan": 70
+      }
+    },
+    "s-song-du": {
+      "stand_name": "【襄樊之失】",
+      "stand_name_en": "The Loss of Xiangyang",
+      "stand_type": "酒色之主",
+      "stand_type_en": "The Dissipated Sovereign",
+      "cry": "襄阳既失，江汉门开。",
+      "cry_en": "Xiangyang lost, the gateway flung wide.",
+      "ability": "绍位循规；不预朝政。",
+      "ability_en": "He kept the throne but left the court alone.",
+      "weakness": "荒于酒色；政在贾氏。",
+      "weakness_en": "Lost in dissipation; power lay with Jia.",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 50,
+        "taolue": 45,
+        "guozuo": 65,
+        "houxiao": 58,
+        "yuedan": 30
+      }
+    },
+    "s-song-gong": {
+      "stand_name": "【德祐降元】",
+      "stand_name_en": "The Surrender at Deyou",
+      "stand_type": "幼冲亡国",
+      "stand_type_en": "Child Sovereign, Fallen State",
+      "cry": "四岁临朝，七岁北行。",
+      "cry_en": "On the throne at four, going north at seven.",
+      "ability": "冲龄受禅；奉表止兵。",
+      "ability_en": "A child enthroned who surrendered to spare the city.",
+      "weakness": "国柄旁落；无力回天。",
+      "weakness_en": "Power had slipped away; heaven could not be turned.",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 30,
+        "taolue": 20,
+        "guozuo": 45,
+        "houxiao": 40,
+        "yuedan": 30
+      }
+    },
+    "s-song-duan": {
+      "stand_name": "【海上行朝】",
+      "stand_name_en": "The Court on the Sea",
+      "stand_type": "流亡之主",
+      "stand_type_en": "The Drifting Sovereign",
+      "cry": "海上行朝，二年而止。",
+      "cry_en": "A court on the waves, two years and done.",
+      "ability": "福州即位；延祚二载。",
+      "ability_en": "Enthroned at Fuzhou, he held the cause two years.",
+      "weakness": "流离闽广；天不假年。",
+      "weakness_en": "Drifting through Fujian and Guangdong, fate gave him no time.",
+      "scores": {
+        "wugong": 25,
+        "wenzhi": 35,
+        "taolue": 30,
+        "guozuo": 48,
+        "houxiao": 45,
+        "yuedan": 35
+      }
+    },
+    "s-song-di-bing": {
+      "stand_name": "【崖山蹈海】",
+      "stand_name_en": "The Sea at Yashan",
+      "stand_type": "殉国之主",
+      "stand_type_en": "The Martyr Sovereign",
+      "cry": "崖山云低，负帝沉渊。",
+      "cry_en": "Low clouds at Yashan; the emperor carried into the deep.",
+      "ability": "稚龄践祚；殉社而死。",
+      "ability_en": "A child on the throne who died with his dynasty.",
+      "weakness": "襁褓即位；国祚已尽。",
+      "weakness_en": "Enthroned in infancy; the mandate was spent.",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 25,
+        "taolue": 20,
+        "guozuo": 42,
+        "houxiao": 35,
+        "yuedan": 40
+      }
+    },
+    "liao-tai-zu": {
+      "stand_name": "【神册称帝】",
+      "stand_name_en": "The Shence Empire",
+      "stand_type": "开国之主",
+      "stand_type_en": "Founder",
+      "cry": "北国之雄，南方莫御。",
+      "cry_en": "The might of the north; none south could stay it.",
+      "ability": "定北面官；创契丹文。",
+      "ability_en": "He fixed the dual offices and created the Khitan script.",
+      "weakness": "渤海未宁；继嗣有争。",
+      "weakness_en": "Balhae unsettled; succession disputed.",
+      "scores": {
+        "wugong": 92,
+        "wenzhi": 88,
+        "taolue": 93,
+        "guozuo": 90,
+        "houxiao": 88,
+        "yuedan": 90
+      }
+    },
+    "liao-tai-zong": {
+      "stand_name": "【燕云入辽】",
+      "stand_name_en": "The Sixteen Prefectures",
+      "stand_type": "拓土之君",
+      "stand_type_en": "The Expander",
+      "cry": "燕云既得，中原北门。",
+      "cry_en": "With Yan-Yun won, the northern gate opened.",
+      "ability": "得燕云州；入汴灭晋。",
+      "ability_en": "He gained the Sixteen Prefectures and destroyed Jin in Bian.",
+      "weakness": "打草谷虐；北返身死。",
+      "weakness_en": "Plundering lost the people; he died on the way north.",
+      "scores": {
+        "wugong": 88,
+        "wenzhi": 80,
+        "taolue": 86,
+        "guozuo": 85,
+        "houxiao": 82,
+        "yuedan": 78
+      }
+    },
+    "liao-shi-zong": {
+      "stand_name": "【天禄南伐】",
+      "stand_name_en": "The Tianlu Campaign",
+      "stand_type": "短祚之君",
+      "stand_type_en": "Brief Reign",
+      "cry": "入汴之功，未竟而殂。",
+      "cry_en": "The work of Bian was cut short at his death.",
+      "ability": "继统定乱；数兴南伐。",
+      "ability_en": "He settled the succession and campaigned south.",
+      "weakness": "内争未靖；身遭弑害。",
+      "weakness_en": "Inner strife unquiet; he fell to assassination.",
+      "scores": {
+        "wugong": 75,
+        "wenzhi": 68,
+        "taolue": 74,
+        "guozuo": 62,
+        "houxiao": 66,
+        "yuedan": 65
+      }
+    },
+    "liao-mu-zong": {
+      "stand_name": "【应历酗酒】",
+      "stand_name_en": "Drunken Yingli",
+      "stand_type": "荒怠之主",
+      "stand_type_en": "The Negligent",
+      "cry": "日晏不朝，政弛于嬉。",
+      "cry_en": "Court missed at dawn, rule lost to play.",
+      "ability": "平乱即位；承平续统。",
+      "ability_en": "He took the throne after revolt and kept the peace.",
+      "weakness": "嗜酒酣睡；为仆所弑。",
+      "weakness_en": "Loving wine and sleep, he was killed by his servants.",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 50,
+        "taolue": 58,
+        "guozuo": 72,
+        "houxiao": 60,
+        "yuedan": 40
+      }
+    },
+    "liao-jing-zong": {
+      "stand_name": "【高梁河胜】",
+      "stand_name_en": "Victory at Gaoliang",
+      "stand_type": "中兴之君",
+      "stand_type_en": "The Restorer",
+      "cry": "高梁一胜，宋胆已寒。",
+      "cry_en": "One victory at Gaoliang chilled the Song.",
+      "ability": "萧后预政；休哥却敌。",
+      "ability_en": "He shared rule with Xiao Chuo and checked the Song with Xiuge.",
+      "weakness": "体弱多病；享祚不永。",
+      "weakness_en": "Frail of body; his reign was short.",
+      "scores": {
+        "wugong": 85,
+        "wenzhi": 80,
+        "taolue": 84,
+        "guozuo": 78,
+        "houxiao": 78,
+        "yuedan": 80
+      }
+    },
+    "liao-sheng-zong": {
+      "stand_name": "【统和盛世】",
+      "stand_name_en": "The Tonghe Zenith",
+      "stand_type": "全盛之主",
+      "stand_type_en": "The Peak",
+      "cry": "澶渊之盟，百年无事。",
+      "cry_en": "The Chanyuan Treaty, a century of peace.",
+      "ability": "订盟止战；汉化兴文。",
+      "ability_en": "He sealed the treaty and deepened Sinicization.",
+      "weakness": "承平既久；武备渐弛。",
+      "weakness_en": "Long peace dulled the martial edge.",
+      "scores": {
+        "wugong": 86,
+        "wenzhi": 90,
+        "taolue": 85,
+        "guozuo": 95,
+        "houxiao": 90,
+        "yuedan": 88
+      }
+    },
+    "liao-xing-zong": {
+      "stand_name": "【重熙索地】",
+      "stand_name_en": "The Chongxi Claims",
+      "stand_type": "文胜之君",
+      "stand_type_en": "Arts over Arms",
+      "cry": "关南十县，岁币所偿。",
+      "cry_en": "Ten Guannan counties, paid in tribute.",
+      "ability": "索地增币；文雅自喜。",
+      "ability_en": "He won tribute by claims and pleased himself with letters.",
+      "weakness": "伐夏无功；储位伏忧。",
+      "weakness_en": "The Xia campaign failed; succession doubts lingered.",
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 85,
+        "taolue": 70,
+        "guozuo": 80,
+        "houxiao": 74,
+        "yuedan": 72
+      }
+    },
+    "liao-dao-zong": {
+      "stand_name": "【乙辛之祸】",
+      "stand_name_en": "The Yixin Catastrophe",
+      "stand_type": "长祚衰君",
+      "stand_type_en": "Long Reign, Slow Decay",
+      "cry": "宠信奸回，储位遂绝。",
+      "cry_en": "He trusted the treacherous and cut off the heir.",
+      "ability": "崇佛好儒；文教广被。",
+      "ability_en": "He patronized Buddhism and Confucianism alike.",
+      "weakness": "乙辛构祸；政以贿成。",
+      "weakness_en": "Yixin destroyed his house; offices were bought.",
+      "scores": {
+        "wugong": 60,
+        "wenzhi": 82,
+        "taolue": 65,
+        "guozuo": 88,
+        "houxiao": 72,
+        "yuedan": 55
+      }
+    },
+    "liao-tianzuo": {
+      "stand_name": "【保大亡国】",
+      "stand_name_en": "The Fall at Baoda",
+      "stand_type": "亡国之君",
+      "stand_type_en": "The Lost Sovereign",
+      "cry": "畋猎未止，女真已兴。",
+      "cry_en": "Hunting unceasing while the Jurchen rose.",
+      "ability": "承统守位；继辽之祚。",
+      "ability_en": "He held the throne and the Liao line.",
+      "weakness": "拒谏纵欲；社稷遂倾。",
+      "weakness_en": "He spurned counsel and lost the altars.",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 50,
+        "taolue": 48,
+        "guozuo": 72,
+        "houxiao": 58,
+        "yuedan": 30
+      }
+    },
+    "jin-tai-zu": {
+      "stand_name": "【宁江起兵】",
+      "stand_name_en": "The Ningjiang Revolt",
+      "stand_type": "开国之主",
+      "stand_type_en": "Founder",
+      "cry": "以寡击众，灭辽之本。",
+      "cry_en": "Few against many - the root of Liao's fall.",
+      "ability": "起兵破辽；建号立国。",
+      "ability_en": "He revolted against Liao and founded the state.",
+      "weakness": "霸业未竟；中道而殂。",
+      "weakness_en": "The enterprise unfinished when he died.",
+      "scores": {
+        "wugong": 95,
+        "wenzhi": 85,
+        "taolue": 94,
+        "guozuo": 88,
+        "houxiao": 90,
+        "yuedan": 92
+      }
+    },
+    "jin-tai-zong": {
+      "stand_name": "【两京并下】",
+      "stand_name_en": "Two Capitals Taken",
+      "stand_type": "承业之主",
+      "stand_type_en": "The Inheritor",
+      "cry": "灭辽灭宋，功成一朝。",
+      "cry_en": "Liao and Song fell within one reign.",
+      "ability": "承兄之烈；遣将立功。",
+      "ability_en": "He carried on his brother's work through his generals.",
+      "weakness": "用人未尽；汉化未遑。",
+      "weakness_en": "Men underused; Sinicization left undone.",
+      "scores": {
+        "wugong": 90,
+        "wenzhi": 75,
+        "taolue": 88,
+        "guozuo": 85,
+        "houxiao": 85,
+        "yuedan": 80
+      }
+    },
+    "jin-hailiing": {
+      "stand_name": "【正隆南征】",
+      "stand_name_en": "The Zhenglong Campaign",
+      "stand_type": "暴君雄主",
+      "stand_type_en": "The Brutal Visionary",
+      "cry": "混一天下，志在渡江。",
+      "cry_en": "To unify the realm, he would cross the river.",
+      "ability": "迁都改制；整军大举。",
+      "ability_en": "He moved the capital, reformed, and mobilized.",
+      "weakness": "好杀成性；采石败亡。",
+      "weakness_en": "A killer by nature, he fell after Caishi.",
+      "scores": {
+        "wugong": 85,
+        "wenzhi": 78,
+        "taolue": 88,
+        "guozuo": 80,
+        "houxiao": 60,
+        "yuedan": 25
+      }
+    },
+    "jin-shi-zong": {
+      "stand_name": "【大定之治】",
+      "stand_name_en": "The Dading Governance",
+      "stand_type": "守成之主",
+      "stand_type_en": "The Consolidator",
+      "cry": "小尧舜之，民乐其业。",
+      "cry_en": "\"Little Yao and Shun,\" the people prospered.",
+      "ability": "俭以守成；与民休息。",
+      "ability_en": "Thrifty and steady, he rested the people.",
+      "weakness": "武备稍弛；女真渐汉。",
+      "weakness_en": "Arms dulled; the Jurchen turned Han.",
+      "scores": {
+        "wugong": 78,
+        "wenzhi": 88,
+        "taolue": 80,
+        "guozuo": 95,
+        "houxiao": 92,
+        "yuedan": 90
+      }
+    },
+    "jin-zhang-zong": {
+      "stand_name": "【明昌礼乐】",
+      "stand_name_en": "Rites of Mingchang",
+      "stand_type": "文治之主",
+      "stand_type_en": "The Civil Sovereign",
+      "cry": "礼乐既修，金之文盛。",
+      "cry_en": "Rites restored; Jin's culture flowered.",
+      "ability": "修礼定官；泰和却敌。",
+      "ability_en": "He fixed rites and offices and won at Taihe.",
+      "weakness": "奢靡渐起；蒙兴未觉。",
+      "weakness_en": "Extravagance rising; the Mongols unnoticed.",
+      "scores": {
+        "wugong": 75,
+        "wenzhi": 90,
+        "taolue": 78,
+        "guozuo": 88,
+        "houxiao": 80,
+        "yuedan": 78
+      }
+    },
+    "jin-wei-shao": {
+      "stand_name": "【野狐岭败】",
+      "stand_name_en": "Rout at Yehuling",
+      "stand_type": "末世之君",
+      "stand_type_en": "The Last Days",
+      "cry": "一败丧师，中都震动。",
+      "cry_en": "One rout lost the army and shook the capital.",
+      "ability": "入继承统；守成持国。",
+      "ability_en": "He took the throne and held the state.",
+      "weakness": "措置无方；身死权臣。",
+      "weakness_en": "No answer to crisis; he died by a minister's hand.",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 55,
+        "taolue": 50,
+        "guozuo": 65,
+        "houxiao": 58,
+        "yuedan": 38
+      }
+    },
+    "jin-xuan-zong": {
+      "stand_name": "【贞祐南迁】",
+      "stand_name_en": "The Zhenyou Retreat",
+      "stand_type": "迁都之君",
+      "stand_type_en": "The Fugitive Court",
+      "cry": "弃北就南，根本已失。",
+      "cry_en": "North abandoned for south; the root was lost.",
+      "ability": "南迁续祚；择都于汴。",
+      "ability_en": "He fled south to Bian and prolonged the line.",
+      "weakness": "三面受敌；取偿于宋。",
+      "weakness_en": "Enemies on three sides; he raided Song for food.",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 60,
+        "taolue": 62,
+        "guozuo": 70,
+        "houxiao": 62,
+        "yuedan": 45
+      }
+    },
+    "jin-ai-zong": {
+      "stand_name": "【幽兰殉国】",
+      "stand_name_en": "Death at Youlan",
+      "stand_type": "殉国之主",
+      "stand_type_en": "The Martyr Sovereign",
+      "cry": "城破之日，以身殉社。",
+      "cry_en": "When the city fell, he gave himself to the state.",
+      "ability": "勤政图治；力撑残局。",
+      "ability_en": "Diligent in ruin, he held the remnant.",
+      "weakness": "时不可为；天命已去。",
+      "weakness_en": "The times were past saving; fate had turned.",
+      "scores": {
+        "wugong": 68,
+        "wenzhi": 72,
+        "taolue": 66,
+        "guozuo": 60,
+        "houxiao": 70,
+        "yuedan": 75
+      }
+    },
+    "jin-xi-zong": {
+      "stand_name": "【天眷改制】",
+      "stand_name_en": "The Tianjuan Reforms",
+      "stand_type": "汉化之君",
+      "stand_type_en": "The Sinicizer",
+      "cry": "一代官制，百年之基。",
+      "cry_en": "One official system, a century's foundation.",
+      "ability": "颁行汉制；和议定淮。",
+      "ability_en": "He issued Chinese institutions and settled the Huai.",
+      "weakness": "纵酒滥杀；身死臣手。",
+      "weakness_en": "Drink and slaughter undid him.",
+      "scores": {
+        "wugong": 70,
+        "wenzhi": 85,
+        "taolue": 76,
+        "guozuo": 78,
+        "houxiao": 72,
+        "yuedan": 55
+      }
     }
   }
 }

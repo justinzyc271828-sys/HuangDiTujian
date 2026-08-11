@@ -1,0 +1,151 @@
+id: liao-jing-zong
+tier: emperor
+sort_key: ''
+names:
+  display: 辽景宗
+  display_en: Emperor Jingzong of Liao
+  personal: 耶律贤
+  personal_en: Yelü Xian
+  temple: 景宗
+  posthumous: 孝成康靖皇帝
+  aliases: []
+dynasty:
+  id: liao
+  label: 辽
+  sequence: 1
+reign:
+  start: '969'
+  end: '982'
+  eras:
+  - 保宁
+  - 乾亨
+life:
+  birth: '948'
+  death: '982'
+  birth_place_id: null
+  death_place_id: null
+summary: 穆宗被弑后继位，萧绰为后预政，乾亨元年高梁河大破宋军，辽势复振。
+summary_en: Succeeding after Muzong's murder, he let Empress Xiao Chuo share power; in 979 the Liao routed the Song at the Gaoliang River and restored its strength.
+tags:
+- 萧绰
+- 高梁河之战
+- 保宁乾亨
+- 辽宋
+tags_en:
+- Xiao Chuo
+- Gaoliang River
+- Baoning-Qianheng
+- Liao-Song Wars
+portrait:
+  primary: assets/portraits/liao-jing-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liao-jing-zong.md
+timeline:
+- year: '948'
+  date_note: 天禄二年
+  date_note_en: 天禄二年
+  title: 生
+  title_en: Birth
+  summary: 世宗子，穆宗时封燕王。
+  summary_en: Son of Shizong, enfeoffed Prince Yan under Muzong.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E001
+- year: '969'
+  date_note: 保宁元年
+  date_note_en: 保宁元年
+  title: 即位
+  title_en: Accession
+  summary: 穆宗被弑，贤即位，用室昉等。
+  summary_en: He took the throne after Muzong's murder and employed ministers such as Shi Fang.
+  place_id: linhuang
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E002
+- year: '979'
+  date_note: 乾亨元年
+  date_note_en: 乾亨元年
+  title: 高梁河之战
+  title_en: Battle of the Gaoliang River
+  summary: 高梁河之役，耶律休哥等大破宋太宗亲征之师。
+  summary_en: At the Gaoliang River, Yelü Xiuge and others routed Emperor Taizong of Song's personal campaign.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E003
+- year: '982'
+  date_note: 乾亨四年
+  date_note_en: 乾亨四年
+  title: 景宗崩
+  title_en: 景宗崩
+  summary: 崩于云州焦山，长子隆绪继，萧绰摄政。
+  summary_en: He died at Jiaoshan in Yunzhou; his son Longxu followed under Xiao Chuo's regency.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E004
+- year: '982'
+  date_note: 政风
+  date_note_en: governing style
+  title: 萧后预政
+  title_en: Empress Xiao in Government
+  summary: 萧绰（萧太后）预政，文武并用，为圣宗朝之基。
+  summary_en: Xiao Chuo's partnership in rule set the stage for Shengzong's era.
+  place_id: linhuang
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E005
+- year: '982'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 景宗总评
+  title_en: Verdict on Jingzong
+  summary: 继乱世而收高梁河之功，辽势复振。
+  summary_en: He inherited chaos and repaid it with the Gaoliang River victory, reviving Liao power.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liao-mu-zong
+  note: 世宗子，穆宗被弑后即位
+- type: successor
+  target_id: liao-sheng-zong
+  note: 乾亨四年崩，长子隆绪即位，萧绰摄政
+routes:
+- group: 都城
+  order: 1
+  year: '969'
+  place_id: linhuang
+  event: 即位
+sources:
+- title: 辽史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 辽朝第五位皇帝，正史立纪。
+  synced_from_cards: true

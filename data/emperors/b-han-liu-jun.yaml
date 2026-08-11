@@ -1,0 +1,155 @@
+id: b-han-liu-jun
+tier: quasi
+sort_key: 北汉-002
+names:
+  display: 北汉睿宗
+  display_en: Liu Jun, Emperor Ruizong of Northern Han
+  personal: 刘钧
+  personal_en: Liu Jun
+  temple: 睿宗
+  posthumous: 孝和皇帝
+  aliases:
+  - 刘承钧
+dynasty:
+  id: b-han
+  label: 北汉
+  sequence: 2
+reign:
+  start: '954'
+  end: '968'
+  eras:
+  - 乾祐
+  - 天会
+life:
+  birth: '926'
+  death: '968'
+  birth_place_id: null
+  death_place_id: jinyang
+summary: 崇次子；乾祐七年即位，事辽益恭，岁贡契丹换取支援；宋太祖屡攻太原不克；天会十二年卒，国祚延至 979 灭。
+summary_en: Second son of Chong; he took the throne in the 7th year of Qianyou, serving
+  Liao ever more humbly, paying yearly tribute for support; Emperor Taizu of Song
+  attacked Taiyuan again and again without taking it; he died in the 12th year of
+  Tianhui, the realm lasting until its fall in 979.
+tags:
+- 事辽岁贡
+- 拒宋
+- 太原坚守
+- 延祚
+tags_en:
+- Vassal of Liao
+- Holding against Song
+- The Taiyuan Stand
+- Prolonging the Realm
+portrait:
+  primary: assets/portraits/b-han-liu-jun/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现守成之主之态，衣冠从五代太原制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/b-han-liu-jun.md
+timeline:
+- year: '926'
+  date_note: 约年
+  date_note_en: c. 926
+  title: 生
+  title_en: Birth
+  summary: 崇次子。
+  summary_en: Second son of Chong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·东汉世家
+  card_id: E001
+- year: '954'
+  date_note: 乾祐七年
+  date_note_en: 7th year of Qianyou
+  title: 即位
+  title_en: Accession
+  summary: 崇卒，钧即位，事辽益恭。
+  summary_en: Chong died; Jun took the throne, serving Liao ever more humbly.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '957'
+  date_note: 约年
+  date_note_en: c. 957
+  title: 结辽
+  title_en: The Liao Alliance
+  summary: 岁贡契丹，换取支援。
+  summary_en: He paid yearly tribute to the Khitan for support.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '960'
+  date_note: 约年
+  date_note_en: c. 960
+  title: 拒宋
+  title_en: Holding against Song
+  summary: 宋太祖屡攻太原不克。
+  summary_en: Emperor Taizu of Song attacked Taiyuan again and again without taking
+    it.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '968'
+  date_note: 天会十二年
+  date_note_en: 12th year of Tianhui
+  title: 刘钧卒
+  title_en: Death of Liu Jun
+  summary: 卒，养子继恩等继，国祚延至979灭。
+  summary_en: He died; his adopted son Ji'en succeeded, the realm lasting until its
+    fall in 979.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '968'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 钧总评
+  title_en: Final Verdict
+  summary: 能守而不能拓。
+  summary_en: He could hold, but not extend.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: b-han-liu-chong
+  note: 乾祐七年崇卒，次子承钧即位
+- type: kinship
+  target_id: b-han-liu-chong
+  note: 崇次子
+routes:
+- group: 都城
+  order: 1
+  year: '954'
+  place_id: jinyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '960'
+  place_id: jinyang
+  event: 拒宋
+- group: 都城
+  order: 3
+  year: '968'
+  place_id: jinyang
+  event: 刘钧卒
+sources:
+- title: 新五代史·东汉世家
+  note: 主叙事
+- title: 宋史·太祖纪
+  note: 太原之围互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北汉第二主，图鉴以准帝收录。
+  synced_from_cards: true

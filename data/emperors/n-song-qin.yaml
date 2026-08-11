@@ -1,0 +1,168 @@
+id: n-song-qin
+tier: emperor
+sort_key: 北宋-009
+names:
+  display: 宋钦宗
+  display_en: Emperor Qinzong of Song
+  personal: 赵桓
+  personal_en: Zhao Huan
+  temple: 钦宗
+  posthumous: 恭文顺德仁孝皇帝
+  aliases:
+  - 赵亶
+  - 赵烜
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 9
+reign:
+  start: '1125'
+  end: '1127'
+  eras:
+  - 靖康
+life:
+  birth: '1100'
+  death: '1161'
+  birth_place_id: null
+  death_place_id: null
+summary: 靖康年间仓皇即位，主战主和反复，终陷二帝北掳之祸，北宋覆亡。
+summary_en: He took the throne in haste during the Jingkang crisis, wavering between war and peace until both emperors were seized and the Northern Song collapsed.
+tags:
+- 靖康之变
+- 李纲守城
+- 二帝北掳
+- 北宋灭亡
+tags_en:
+- Jingkang Incident
+- Li Gang Defends the Capital
+- Two Emperors Taken North
+- Fall of Northern Song
+portrait:
+  primary: assets/portraits/n-song-qin/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-qin.md
+timeline:
+- year: '1100'
+  date_note: 元符三年
+  date_note_en: '1100'
+  title: 生
+  title_en: 生
+  summary: 徽宗长子，宣和七年立为皇太子。
+  summary_en: Eldest son of Huizong, made heir in 1125.
+  place_id: null
+  related_person_ids:
+  - n-song-hui
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1125'
+  date_note: 宣和七年
+  date_note_en: '1125'
+  title: 即位
+  title_en: 即位
+  summary: 徽宗内禅，桓即位，改元靖康。
+  summary_en: He succeeded upon Huizong's abdication, era Jingkang.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-hui
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1126'
+  date_note: 靖康元年
+  date_note_en: '1126'
+  title: 李纲守城
+  title_en: 李纲守城
+  summary: 金兵围汴，李纲力主守城，旋为宰执所排罢。
+  summary_en: Li Gang organized the defense of Kaifeng against the Jin siege but was soon sidelined.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1127'
+  date_note: 靖康二年
+  date_note_en: '1127'
+  title: 靖康之变
+  title_en: 靖康之变
+  summary: 金军陷汴，二帝北掳，北宋亡；张邦昌伪楚旋废。
+  summary_en: Kaifeng fell; both emperors were taken north and the Northern Song ended.
+  place_id: kai-feng
+  related_person_ids:
+  - s-song-gao
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1161'
+  date_note: 绍兴中
+  date_note_en: '1161'
+  title: 崩于金
+  title_en: 崩于金
+  summary: 北迁后绍兴三十一年崩于金地。
+  summary_en: Died in Jin lands in 1161.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1161'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 钦宗总评
+  title_en: 钦宗总评
+  summary: 优柔寡断，和战无定，身死国灭为千古之鉴。
+  summary_en: Irresolute and wavering between peace and war, he lost both his state and his freedom.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-song-hui
+  note: 徽宗长子，宣和七年受内禅
+- type: successor
+  target_id: s-song-gao
+  note: 靖康二年金俘二帝北去，弟康王构即位于南京（兄弟相继，非禅让），北宋亡
+- type: kinship
+  target_id: n-song-hui
+  note: 徽宗长子
+routes:
+- group: 都城
+  order: 1
+  year: '1125'
+  place_id: kai-feng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1126'
+  place_id: kai-feng
+  event: 李纲守城
+- group: 都城
+  order: 3
+  year: '1127'
+  place_id: kai-feng
+  event: 靖康之变
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第九位皇帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,162 @@
+id: b-han-liu-chong
+tier: quasi
+sort_key: 北汉-001
+names:
+  display: 北汉世祖
+  display_en: Liu Chong, Founder of Northern Han
+  personal: 刘崇
+  personal_en: Liu Chong
+  temple: 世祖
+  posthumous: 神武皇帝
+  aliases:
+  - 刘旻
+dynasty:
+  id: b-han
+  label: 北汉
+  sequence: 1
+reign:
+  start: '951'
+  end: '954'
+  eras:
+  - 乾祐
+life:
+  birth: '895'
+  death: '954'
+  birth_place_id: jinyang
+  death_place_id: jinyang
+summary: 知远弟，河东节度使；乾祐四年郭威建周，崇于太原称帝，国号汉，依契丹，称侄皇帝；乾祐七年联契丹攻周，败于高平，寻卒。
+summary_en: Younger brother of Zhiyuan, governor of Hedong; in the 4th year of Qianyou,
+  when Guo Wei founded Zhou, Chong took the throne at Taiyuan as the realm Han, leaning
+  on the Khitan and calling himself their nephew emperor; in the 7th year of Qianyou
+  he attacked Zhou with the Khitan, was shattered at Gaoping, and died soon after.
+tags:
+- 太原称帝
+- 依契丹
+- 高平之败
+- 后汉之余
+tags_en:
+- The Throne at Taiyuan
+- Leaning on the Khitan
+- The Gaoping Defeat
+- The Han Remnant
+portrait:
+  primary: assets/portraits/b-han-liu-chong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现依辽自存之君之态，衣冠从五代太原制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/b-han-liu-chong.md
+timeline:
+- year: '895'
+  date_note: 约年
+  date_note_en: c. 895
+  title: 生
+  title_en: Birth
+  summary: 知远弟，河东节度。
+  summary_en: Younger brother of Zhiyuan, governor of Hedong.
+  place_id: jinyang
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·东汉世家
+  card_id: E001
+- year: '951'
+  date_note: 乾祐四年
+  date_note_en: 4th year of Qianyou
+  title: 称帝太原
+  title_en: The Throne at Taiyuan
+  summary: 郭威建周，崇于太原称帝，国号汉，依契丹。
+  summary_en: Guo Wei founded Zhou; Chong took the throne at Taiyuan as the realm
+    Han, leaning on the Khitan.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '951'
+  date_note: 即位初
+  date_note_en: early reign
+  title: 结契丹
+  title_en: The Khitan Alliance
+  summary: 称侄皇帝于契丹。
+  summary_en: He called himself the Khitan's nephew emperor.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '954'
+  date_note: 乾祐七年
+  date_note_en: 7th year of Qianyou
+  title: 高平之败
+  title_en: The Gaoping Defeat
+  summary: 联契丹攻周，败于高平，世宗大捷。
+  summary_en: With the Khitan he attacked Zhou and was shattered at Gaoping — Shizong's
+    great victory.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '954'
+  date_note: 同年
+  date_note_en: same year
+  title: 刘崇卒
+  title_en: Death of Liu Chong
+  summary: 卒，子承钧继。
+  summary_en: He died; his son Chengjun succeeded.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '954'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 崇总评
+  title_en: Final Verdict
+  summary: 借契丹以拒周宋。
+  summary_en: He borrowed the Khitan to hold out against Zhou and Song.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: kinship
+  target_id: han-gao-wu
+  note: 后汉高祖知远之弟
+- type: successor
+  target_id: b-han-liu-jun
+  note: 乾祐七年卒，次子承钧（钧）即位
+- type: related_emperor
+  target_id: zhou-shi
+  note: 高平之战败于后周世宗
+routes:
+- group: 都城
+  order: 1
+  year: '951'
+  place_id: jinyang
+  event: 称帝太原
+- group: 其他
+  order: 2
+  year: '951'
+  place_id: null
+  event: 结契丹
+- group: 亲征
+  order: 3
+  year: '954'
+  place_id: null
+  event: 高平之败
+- group: 都城
+  order: 4
+  year: '954'
+  place_id: jinyang
+  event: 刘崇卒
+sources:
+- title: 新五代史·东汉世家
+  note: 主叙事
+- title: 资治通鉴·后周纪
+  note: 高平之战互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北汉开国君主，后汉余绪，图鉴以准帝收录。
+  synced_from_cards: true

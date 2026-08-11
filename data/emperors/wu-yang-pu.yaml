@@ -1,0 +1,158 @@
+id: wu-yang-pu
+tier: quasi
+sort_key: 杨吴-002
+names:
+  display: 吴睿帝
+  display_en: Yang Pu, Emperor Rui of Wu
+  personal: 杨溥
+  personal_en: Yang Pu
+  temple: 睿帝
+  posthumous: 睿皇帝
+  aliases: []
+dynasty:
+  id: wu
+  label: 杨吴
+  sequence: 2
+reign:
+  start: '920'
+  end: '937'
+  eras:
+  - 顺义
+  - 乾贞
+  - 大和
+  - 天祚
+life:
+  birth: '901'
+  death: '937'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 行密第四子；兄隆演卒后即位，徐温、徐知诰父子相继辅政；乾贞元年称帝；天祚三年禅位于徐知诰（李昪），吴亡。
+summary_en: Fourth son of Xingmi; he took the throne after his brother Longyan's death,
+  with Xu Wen and then Xu Zhigao governing; in the 1st year of Qianzhen he took the
+  imperial title; in the 3rd year of Tianzuo he abdicated to Xu Zhigao (Li Bian) —
+  Wu was no more.
+tags:
+- 徐氏专权
+- 称帝
+- 禅南唐
+- 拱手让国
+tags_en:
+- The Xu Regency
+- The Imperial Title
+- Abdication to Southern Tang
+- The Realm Ceded
+portrait:
+  primary: assets/portraits/wu-yang-pu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现拱手让国之君之态，衣冠从五代淮南制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wu-yang-pu.md
+timeline:
+- year: '901'
+  date_note: 约年
+  date_note_en: c. 901
+  title: 生
+  title_en: Birth
+  summary: 行密第四子。
+  summary_en: Fourth son of Xingmi.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·吴世家
+  card_id: E001
+- year: '920'
+  date_note: 武义二年
+  date_note_en: 2nd year of Wuyi
+  title: 即位
+  title_en: Accession
+  summary: 兄隆演卒，溥即位，徐温父子辅政。
+  summary_en: His brother Longyan died; Pu took the throne, with Xu Wen and his son
+    governing.
+  place_id: yang-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '927'
+  date_note: 乾贞元年
+  date_note_en: 1st year of Qianzhen
+  title: 称帝
+  title_en: The Imperial Title
+  summary: 即皇帝位，改元。
+  summary_en: He took the imperial title and changed the era.
+  place_id: yang-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '937'
+  date_note: 天祚三年
+  date_note_en: 3rd year of Tianzuo
+  title: 禅南唐
+  title_en: Abdication to Southern Tang
+  summary: 禅位于徐知诰（李昪），吴亡。
+  summary_en: He abdicated to Xu Zhigao (Li Bian), and Wu was no more.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '937'
+  date_note: 政局
+  date_note_en: governance
+  title: 徐氏专权
+  title_en: The Xu Regency
+  summary: 徐温、知诰相继执政。
+  summary_en: Xu Wen and Zhigao governed in turn.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '937'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 溥总评
+  title_en: Final Verdict
+  summary: 拱手让国。
+  summary_en: He ceded the realm with folded hands.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: wu-yang-xingmi
+  note: 行密卒后渥、隆演相继（不在目录），武义二年溥即位
+- type: successor
+  target_id: n-tang-lie-zu
+  note: 天祚三年禅位于徐知诰（李昪），吴亡
+- type: kinship
+  target_id: wu-yang-xingmi
+  note: 行密第四子
+routes:
+- group: 都城
+  order: 1
+  year: '920'
+  place_id: yang-zhou
+  event: 即位
+- group: 都城
+  order: 2
+  year: '927'
+  place_id: yang-zhou
+  event: 称帝
+- group: 都城
+  order: 3
+  year: '937'
+  place_id: jian-kang
+  event: 禅南唐
+sources:
+- title: 新五代史·吴世家
+  note: 主叙事
+- title: 资治通鉴·后梁纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 杨吴末主，禅位于南唐，图鉴以准帝收录。
+  synced_from_cards: true

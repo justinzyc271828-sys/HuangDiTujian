@@ -1,0 +1,165 @@
+id: tang-zhuang
+tier: emperor
+sort_key: 后唐-001
+names:
+  display: 后唐庄宗
+  display_en: Emperor Zhuangzong of Later Tang
+  personal: 李存勖
+  personal_en: Li Cunxu
+  temple: 庄宗
+  posthumous: 光圣神闵孝皇帝
+  aliases:
+  - 李亚子
+dynasty:
+  id: tang
+  label: 后唐
+  sequence: 1
+reign:
+  start: '923'
+  end: '926'
+  eras:
+  - 同光
+life:
+  birth: '885'
+  death: '926'
+  birth_place_id: jinyang
+  death_place_id: luoyang
+summary: 沙陀李克用长子；天祐五年嗣晋王，与后梁争雄；同光元年称帝于魏州，国号唐，亲征灭后梁，迁都洛阳；同光三年遣郭崇韬灭前蜀；同光四年兴教门之变，中流矢崩。
+summary_en: Eldest son of the Shatuo Li Keyong; succeeding as King of Jin in the 5th
+  year of Tianyou, he contended with Later Liang; in the 1st year of Tongguang he
+  took the throne at Weizhou as the realm Tang, campaigned in person and destroyed
+  Later Liang, and moved the capital to Luoyang; in the 3rd year he sent Guo Chongtao
+  to destroy Former Shu; in the 4th year came the Xingjiao Gate mutiny, and he fell
+  to an arrow.
+tags:
+- 灭梁
+- 灭前蜀
+- 兴教门之变
+- 宠伶宦
+tags_en:
+- Destroying Liang
+- Destroying Former Shu
+- The Xingjiao Gate Mutiny
+- Favoring Actors and Eunuchs
+portrait:
+  primary: assets/portraits/tang-zhuang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现骁勇少礼之君之态，衣冠从五代沙陀制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-zhuang.md
+timeline:
+- year: '885'
+  date_note: 光启元年
+  date_note_en: 1st year of Guangqi
+  title: 生
+  title_en: Birth
+  summary: 李克用长子，小字亚子。
+  summary_en: Eldest son of Li Keyong, childhood name Yazi.
+  place_id: jinyang
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·庄宗纪（唐）
+  card_id: E001
+- year: '908'
+  date_note: 天祐五年
+  date_note_en: 5th year of Tianyou
+  title: 嗣晋王
+  title_en: King of Jin
+  summary: 克用卒，存勖嗣晋王位于太原。
+  summary_en: Keyong died; Cunxu succeeded as King of Jin at Taiyuan.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '923'
+  date_note: 同光元年
+  date_note_en: 1st year of Tongguang
+  title: 称帝灭梁
+  title_en: The Throne and the Fall of Liang
+  summary: 即皇帝位于魏州，国号唐；亲征灭后梁，迁洛。
+  summary_en: He took the throne at Weizhou as the realm Tang; campaigning in person,
+    he destroyed Later Liang and moved to Luoyang.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '925'
+  date_note: 同光三年
+  date_note_en: 3rd year of Tongguang
+  title: 灭前蜀
+  title_en: Destroying Former Shu
+  summary: 遣郭崇韬等灭王衍前蜀。
+  summary_en: He sent Guo Chongtao and the others to destroy Wang Yan's Former Shu.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '926'
+  date_note: 同光四年
+  date_note_en: 4th year of Tongguang
+  title: 兴教门之变
+  title_en: The Xingjiao Gate Mutiny
+  summary: 伶人郭从谦等作乱，帝中流矢崩。
+  summary_en: The actor Guo Congqian and the others mutinied; the emperor fell to
+    an arrow and died.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '926'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 庄宗总评
+  title_en: Final Verdict
+  summary: 勇而少礼，宠伶宦，胜而不久。
+  summary_en: Bold but wanting in rites, favoring actors and eunuchs — he won, and
+    did not last.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liang-mo
+  note: 同光元年亲征灭后梁
+- type: successor
+  target_id: tang-ming
+  note: 兴教门之变崩，嗣源入洛即位
+- type: related_emperor
+  target_id: tang-ai-di
+  note: 国号唐，自居李唐正统（非李唐宗室）
+routes:
+- group: 都城
+  order: 1
+  year: '908'
+  place_id: jinyang
+  event: 嗣晋王
+- group: 亲征
+  order: 2
+  year: '923'
+  place_id: luoyang
+  event: 称帝灭梁
+- group: 其他
+  order: 3
+  year: '925'
+  place_id: cheng-du
+  event: 灭前蜀
+- group: 都城
+  order: 4
+  year: '926'
+  place_id: luoyang
+  event: 兴教门之变
+sources:
+- title: 旧五代史·庄宗纪
+  note: 主叙事
+- title: 新五代史·唐本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后唐开国皇帝，正史立纪。
+  synced_from_cards: true

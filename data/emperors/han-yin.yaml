@@ -1,0 +1,161 @@
+id: han-yin
+tier: emperor
+sort_key: 后汉-002
+names:
+  display: 后汉隐帝
+  display_en: The Yin Emperor of Later Han
+  personal: 刘承祐
+  personal_en: Liu Chengyou
+  temple: null
+  posthumous: 隐皇帝
+  aliases: []
+dynasty:
+  id: han
+  label: 后汉
+  sequence: 2
+reign:
+  start: '948'
+  end: '950'
+  eras:
+  - 乾祐
+life:
+  birth: '931'
+  death: '950'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 高祖第二子；乾祐元年即位；乾祐二年河中李守贞反，三镇连叛，郭威平之；乾祐三年杀顾命大臣杨邠等，激变；同年郭威起兵入汴，隐帝被杀，后汉亡。
+summary_en: Second son of Gaozu; he took the throne in the 1st year of Qianyou; in
+  the 2nd year Li Shouzhen rose at Hezhong, three garrisons in league, and Guo Wei
+  put it down; in the 3rd year he slew the regents Yang Bin and the others, provoking
+  the storm; that same year Guo Wei marched into Kaifeng, the Yin emperor was slain,
+  and Later Han was no more.
+tags:
+- 童騃
+- 杀顾命臣
+- 郭威入汴
+- 汉亡
+tags_en:
+- A Child Sovereign
+- Slewing the Regents
+- Guo Wei Enters Kaifeng
+- The Fall of Han
+portrait:
+  primary: assets/portraits/han-yin/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现童騃之君之态，衣冠从五代制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/han-yin.md
+timeline:
+- year: '931'
+  date_note: 长兴二年
+  date_note_en: 2nd year of Changxing
+  title: 生
+  title_en: Birth
+  summary: 高祖第二子。
+  summary_en: Second son of Gaozu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·隐帝纪（汉）
+  card_id: E001
+- year: '948'
+  date_note: 乾祐元年
+  date_note_en: 1st year of Qianyou
+  title: 即位
+  title_en: Accession
+  summary: 高祖崩，承祐即位。
+  summary_en: Gaozu died; Chengyou took the throne.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '949'
+  date_note: 乾祐二年
+  date_note_en: 2nd year of Qianyou
+  title: 河中李守贞反
+  title_en: Li Shouzhen Rises at Hezhong
+  summary: 三镇连叛，郭威平之。
+  summary_en: Three garrisons rose in league; Guo Wei put them down.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '950'
+  date_note: 乾祐三年
+  date_note_en: 3rd year of Qianyou
+  title: 杀顾命大臣
+  title_en: The Regents Slain
+  summary: 诛杨邠、史弘肇、王章，激变。
+  summary_en: He slew Yang Bin, Shi Hongzhao, and Wang Zhang, provoking the storm.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '950'
+  date_note: 同年
+  date_note_en: same year
+  title: 郭威入汴
+  title_en: Guo Wei Enters Kaifeng
+  summary: 邺都郭威起兵入汴，隐帝被杀，后汉亡。
+  summary_en: Guo Wei of Yedu marched into Kaifeng; the Yin emperor was slain, and
+    Later Han was no more.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '950'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 隐帝总评
+  title_en: Final Verdict
+  summary: 童騃听谗，自毁干城。
+  summary_en: A child heeding slander, he destroyed his own shield.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: han-gao-wu
+  note: 乾祐元年高祖崩，第二子承祐即位
+- type: successor
+  target_id: zhou-tai
+  note: 乾祐三年郭威入汴，后汉亡（亡国链）
+- type: kinship
+  target_id: han-gao-wu
+  note: 高祖第二子
+routes:
+- group: 都城
+  order: 1
+  year: '948'
+  place_id: kai-feng
+  event: 即位
+- group: 其他
+  order: 2
+  year: '949'
+  place_id: null
+  event: 河中李守贞反
+- group: 都城
+  order: 3
+  year: '950'
+  place_id: kai-feng
+  event: 杀顾命大臣
+- group: 都城
+  order: 4
+  year: '950'
+  place_id: kai-feng
+  event: 郭威入汴
+sources:
+- title: 旧五代史·汉隐帝纪
+  note: 主叙事
+- title: 新五代史·汉本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后汉末帝，正史立纪。
+  synced_from_cards: true

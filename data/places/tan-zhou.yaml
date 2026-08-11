@@ -1,0 +1,12 @@
+id: tan-zhou
+names:
+  historical: 潭州
+  modern: 湖南省长沙市
+  english: Tanzhou
+coords:
+  lng: 112.94
+  lat: 28.23
+  precision: schematic
+map:
+  region: 湖南
+notes: 楚国都城，马殷治所

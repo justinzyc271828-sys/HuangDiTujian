@@ -1,0 +1,183 @@
+id: s-song-xiao
+tier: emperor
+sort_key: 南宋-002
+names:
+  display: 宋孝宗
+  display_en: Emperor Xiaozong of Song
+  personal: 赵眘
+  personal_en: Zhao Shen
+  temple: 孝宗
+  posthumous: 绍统同道冠德昭功哲文神武明圣成孝皇帝
+  aliases:
+  - 赵伯琮
+  - 赵瑗
+dynasty:
+  id: s-song
+  label: 南宋
+  sequence: 2
+reign:
+  start: '1162'
+  end: '1189'
+  eras:
+  - 隆兴
+  - 乾道
+  - 淳熙
+life:
+  birth: '1127'
+  death: '1194'
+  birth_place_id: null
+  death_place_id: lin-an
+summary: 南宋最有恢复之志者，隆兴北伐无成而绍熙内禅守成，终功不遂志。
+summary_en: The Southern Song ruler with the strongest ambition to recover the north, his Longxing campaign failed and his later years turned to consolidation; the aim remained unfulfilled.
+tags:
+- 隆兴北伐
+- 隆兴和议
+- 恢复之志
+- 内禅
+tags_en:
+- Longxing Campaign
+- Longxing Treaty
+- Recovery Ambition
+- Abdication
+portrait:
+  primary: assets/portraits/s-song-xiao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/s-song-xiao.md
+timeline:
+- year: '1127'
+  date_note: 建炎元年
+  date_note_en: '1127'
+  title: 生
+  title_en: 生
+  summary: 太祖七世孙，高宗养为嗣。
+  summary_en: Seventh-generation descendant of Taizu, adopted by Gaozong.
+  place_id: null
+  related_person_ids:
+  - s-song-gao
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1162'
+  date_note: 绍兴三十二年
+  date_note_en: '1162'
+  title: 即位
+  title_en: 即位
+  summary: 高宗内禅，眘即位，改元隆兴。
+  summary_en: Succeeded upon Gaozong's abdication, era Longxing.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-gao
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1163'
+  date_note: 隆兴元年
+  date_note_en: '1163'
+  title: 隆兴北伐
+  title_en: 隆兴北伐
+  summary: 张浚主持北伐，符离溃败，主战派势挫。
+  summary_en: Zhang Jun led the campaign north; the defeat at Fuling broke the war party's momentum.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1164'
+  date_note: 隆兴二年
+  date_note_en: '1164'
+  title: 隆兴和议
+  title_en: 隆兴和议
+  summary: 与金改君臣为叔侄，岁币减半。
+  summary_en: The treaty with Jin changed the relation from sovereign-vassal to uncle-nephew with reduced tribute.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1189'
+  date_note: 淳熙十六年
+  date_note_en: '1189'
+  title: 内禅
+  title_en: 内禅
+  summary: 传位光宗，称太上皇。
+  summary_en: He abdicated to Guangzong and became retired emperor.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-guang
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1194'
+  date_note: 绍熙五年
+  date_note_en: '1194'
+  title: 太上皇崩
+  title_en: 太上皇崩
+  summary: 太上皇崩。
+  summary_en: The retired emperor died.
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1194'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 孝宗总评
+  title_en: 孝宗总评
+  summary: 为南宋诸帝中最思恢复者，惜时势不济、功不遂志。
+  summary_en: The Southern Song emperor most devoted to recovery, undone by circumstances.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: s-song-gao
+  note: 高宗养子，绍兴三十二年受内禅
+- type: successor
+  target_id: s-song-guang
+  note: 淳熙十六年内禅，第三子惇即位
+- type: kinship
+  target_id: n-song-tai-zu
+  note: 太祖七世孙，秀王偁子
+routes:
+- group: 都城
+  order: 1
+  year: '1162'
+  place_id: lin-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1189'
+  place_id: lin-an
+  event: 内禅
+- group: 都城
+  order: 3
+  year: '1194'
+  place_id: lin-an
+  event: 太上皇崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 南宋第二位皇帝，正史立纪。
+  synced_from_cards: true

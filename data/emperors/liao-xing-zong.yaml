@@ -1,0 +1,156 @@
+id: liao-xing-zong
+tier: emperor
+sort_key: ''
+names:
+  display: 辽兴宗
+  display_en: Emperor Xingzong of Liao
+  personal: 耶律宗真
+  personal_en: Yelü Zongzhen
+  temple: 兴宗
+  posthumous: 神圣孝章皇帝
+  aliases: []
+dynasty:
+  id: liao
+  label: 辽
+  sequence: 1
+reign:
+  start: '1031'
+  end: '1055'
+  eras:
+  - 景福
+  - 重熙
+life:
+  birth: '1016'
+  death: '1055'
+  birth_place_id: null
+  death_place_id: null
+summary: 重熙年间曾向宋索关南之地，亲征西夏未竟，好文艺而政事平。
+summary_en: During the Chongxi years he pressed Song for the Guannan lands and campaigned against Western Xia without decision; he favored arts and letters, keeping a flat government.
+tags:
+- 关南索地
+- 伐夏
+- 重熙
+- 文艺
+tags_en:
+- Guannan Claims
+- Campaign against Xia
+- Chongxi Era
+- Arts and Letters
+portrait:
+  primary: assets/portraits/liao-xing-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liao-xing-zong.md
+timeline:
+- year: '1016'
+  date_note: 开泰五年
+  date_note_en: 开泰五年
+  title: 生
+  title_en: Birth
+  summary: 圣宗长子，受儒学教育。
+  summary_en: Eldest son of Shengzong, educated in Confucian learning.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E001
+- year: '1031'
+  date_note: 景福元年
+  date_note_en: 景福元年
+  title: 即位
+  title_en: Accession
+  summary: 圣宗崩，宗真即位。
+  summary_en: He succeeded upon Shengzong's death.
+  place_id: linhuang
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E002
+- year: '1042'
+  date_note: 重熙十一年
+  date_note_en: 重熙十一年
+  title: 关南索地
+  title_en: Claims on Guannan
+  summary: 索关南十县之地，宋增岁币以和。
+  summary_en: He demanded the Guannan counties; Song increased tribute to settle the matter.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E003
+- year: '1044'
+  date_note: 重熙中
+  date_note_en: 重熙中
+  title: 伐夏
+  title_en: Campaign against Xia
+  summary: 亲征西夏，河曲之役不果而还。
+  summary_en: He campaigned against Western Xia in person but returned empty-handed after Hequ.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E004
+- year: '1055'
+  date_note: 重熙二十四年
+  date_note_en: 重熙二十四年
+  title: 兴宗崩
+  title_en: 兴宗崩
+  summary: 崩于中京，子洪基继。
+  summary_en: He died at the Central Capital; his son Hongji succeeded.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E005
+- year: '1055'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 兴宗总评
+  title_en: Verdict on Xingzong
+  summary: 长于艺文而兵略未竟，辽势由盛转平。
+  summary_en: Gifted in arts rather than arms, he left Liao from its peak to a plateau.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liao-sheng-zong
+  note: 圣宗长子，太平十一年即位
+- type: successor
+  target_id: liao-dao-zong
+  note: 重熙二十四年崩，长子洪基即位
+routes:
+- group: 都城
+  order: 1
+  year: '1031'
+  place_id: linhuang
+  event: 即位
+- group: 亲征
+  order: 2
+  year: '1044'
+  place_id: xia-zhou
+  event: 伐夏
+sources:
+- title: 辽史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 辽朝第七位皇帝，正史立纪。
+  synced_from_cards: true

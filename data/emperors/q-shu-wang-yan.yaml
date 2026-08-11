@@ -1,0 +1,157 @@
+id: q-shu-wang-yan
+tier: quasi
+sort_key: 前蜀-002
+names:
+  display: 前蜀后主
+  display_en: Wang Yan, The Last Sovereign of Former Shu
+  personal: 王衍
+  personal_en: Wang Yan
+  temple: null
+  posthumous: null
+  aliases:
+  - 王宗衍
+dynasty:
+  id: q-shu
+  label: 前蜀
+  sequence: 2
+reign:
+  start: '918'
+  end: '925'
+  eras:
+  - 乾德
+  - 咸康
+life:
+  birth: '899'
+  death: '926'
+  birth_place_id: null
+  death_place_id: null
+summary: 建幼子；光天元年即位；游宴无度，与韩昭等为小词，不理政事；咸康元年唐军入蜀，衍降，前蜀亡；同光中押送途中被杀。
+summary_en: Youngest son of Jian; he took the throne in the 1st year of Guangtian;
+  feasting without limit, writing little verses with Han Zhao and the rest, careless
+  of government; in the 1st year of Xiankang the Tang army entered Shu, Yan surrendered,
+  and Former Shu was no more; in mid-Tongguang he was slain on the way to custody.
+tags:
+- 游宴无度
+- 降唐
+- 前蜀亡
+- 童騃
+tags_en:
+- Feasting without Limit
+- Surrender to Tang
+- The Fall of Former Shu
+- A Child Sovereign
+portrait:
+  primary: assets/portraits/q-shu-wang-yan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现童騃佚乐之君之态，衣冠从五代蜀制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-shu-wang-yan.md
+timeline:
+- year: '899'
+  date_note: 约年
+  date_note_en: c. 899
+  title: 生
+  title_en: Birth
+  summary: 建幼子。
+  summary_en: Youngest son of Jian.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·前蜀世家
+  card_id: E001
+- year: '918'
+  date_note: 光天元年
+  date_note_en: 1st year of Guangtian
+  title: 即位
+  title_en: Accession
+  summary: 建崩，衍即位。
+  summary_en: Jian died; Yan took the throne.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '920'
+  date_note: 约年
+  date_note_en: c. 920
+  title: 游宴无度
+  title_en: Feasting without Limit
+  summary: 史载与韩昭等为小词，不理政事。
+  summary_en: The histories record his little verses with Han Zhao and the rest, careless
+    of government.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '925'
+  date_note: 咸康元年
+  date_note_en: 1st year of Xiankang
+  title: 降唐
+  title_en: Surrender to Tang
+  summary: 唐军入蜀，衍降，前蜀亡。
+  summary_en: The Tang army entered Shu; Yan surrendered, and Former Shu was no more.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '926'
+  date_note: 同光中
+  date_note_en: mid-Tongguang
+  title: 被杀
+  title_en: Slain
+  summary: 押送途中被杀。
+  summary_en: He was slain on the way to custody.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '926'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 衍总评
+  title_en: Final Verdict
+  summary: 童騃亡国。
+  summary_en: A child who lost the realm.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: q-shu-wang-jian
+  note: 光天元年王建崩，幼子衍即位
+- type: successor
+  target_id: tang-zhuang
+  note: 咸康元年降唐，前蜀亡于后唐庄宗
+- type: kinship
+  target_id: q-shu-wang-jian
+  note: 建幼子
+routes:
+- group: 都城
+  order: 1
+  year: '918'
+  place_id: cheng-du
+  event: 即位
+- group: 都城
+  order: 2
+  year: '925'
+  place_id: cheng-du
+  event: 降唐
+- group: 其他
+  order: 3
+  year: '926'
+  place_id: null
+  event: 被杀
+sources:
+- title: 新五代史·前蜀世家
+  note: 主叙事
+- title: 十国春秋·前蜀
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 前蜀末主，降唐亡国，图鉴以准帝收录。
+  synced_from_cards: true

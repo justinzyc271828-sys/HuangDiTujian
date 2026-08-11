@@ -1,0 +1,12 @@
+id: ying-tian
+names:
+  historical: 应天府
+  modern: 今河南商丘
+  english: Yingtian
+coords:
+  lng: 115.65
+  lat: 34.44
+  precision: approximate
+map:
+  region: ''
+notes: 宋南京应天府，建炎元年高宗即位处，今商丘。

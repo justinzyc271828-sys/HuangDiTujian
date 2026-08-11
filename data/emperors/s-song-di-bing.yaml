@@ -1,0 +1,171 @@
+id: s-song-di-bing
+tier: emperor
+sort_key: 南宋-009
+names:
+  display: 宋帝昺
+  display_en: Emperor Bing of Song
+  personal: 赵昺
+  personal_en: Zhao Bing
+  temple: ''
+  posthumous: ''
+  aliases:
+  - 卫王
+dynasty:
+  id: s-song
+  label: 南宋
+  sequence: 9
+reign:
+  start: '1278'
+  end: '1279'
+  eras:
+  - 祥兴
+life:
+  birth: '1272'
+  death: '1279'
+  birth_place_id: null
+  death_place_id: ya-shan
+summary: 崖山之战宋军覆灭，陆秀夫负帝蹈海，宋三百二十年社稷终。
+summary_en: At the battle of Yashan the Song fleet was destroyed and Lu Xiufu carried the child emperor into the sea, ending the dynasty of 320 years.
+tags:
+- 崖山海战
+- 陆秀夫负帝
+- 张世杰
+- 宋亡
+tags_en:
+- Battle of Yashan
+- Lu Xiufu's Sacrifice
+- Zhang Shijie
+- Fall of Song
+portrait:
+  primary: assets/portraits/s-song-di-bing/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/s-song-di-bing.md
+timeline:
+- year: '1272'
+  date_note: 咸淳八年
+  date_note_en: '1272'
+  title: 生
+  title_en: 生
+  summary: 度宗子，卫王。
+  summary_en: Son of Duzong, Prince Wei.
+  place_id: null
+  related_person_ids:
+  - s-song-du
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1278'
+  date_note: 祥兴元年
+  date_note_en: '1278'
+  title: 即位
+  title_en: 即位
+  summary: 端宗崩，昺即位，改元祥兴，驻崖山。
+  summary_en: Succeeded after Duanzong's death, era Xiangxing, stationed at Yashan.
+  place_id: ya-shan
+  related_person_ids:
+  - s-song-duan
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1278'
+  date_note: 即位初
+  date_note_en: '1278'
+  title: 张世杰拥立
+  title_en: 张世杰拥立
+  summary: 张世杰、陆秀夫支撑残局。
+  summary_en: Zhang Shijie and Lu Xiufu sustained the remnant court.
+  place_id: ya-shan
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1279'
+  date_note: 同年
+  date_note_en: '1279'
+  title: 陆秀夫负帝沉海
+  title_en: 陆秀夫负帝沉海
+  summary: 陆秀夫负帝投海，宋亡。
+  summary_en: Lu Xiufu carried the child emperor into the sea; Song perished.
+  place_id: ya-shan
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1279'
+  date_note: 祥兴二年
+  date_note_en: '1279'
+  title: 崖山海战
+  title_en: 崖山海战
+  summary: 张弘范攻崖山，宋军覆灭。
+  summary_en: Zhang Hongfan attacked Yashan and the Song fleet was annihilated.
+  place_id: ya-shan
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1279'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 帝昺总评
+  title_en: 帝昺总评
+  summary: 幼主殉国，宋三百年终。
+  summary_en: The child emperor perished with his state; three centuries of Song ended.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: s-song-duan
+  note: 端宗弟，景炎三年硇洲即位
+- type: successor
+  target_id: yuan-shi-zu
+  note: 祥兴二年崖山之战宋亡，陆秀夫负帝蹈海（亡国链）
+- type: kinship
+  target_id: s-song-duan
+  note: 端宗弟，卫王
+routes:
+- group: 都城
+  order: 1
+  year: '1278'
+  place_id: ya-shan
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1278'
+  place_id: ya-shan
+  event: 张世杰拥立
+- group: 其他
+  order: 3
+  year: '1279'
+  place_id: ya-shan
+  event: 陆秀夫负帝沉海
+- group: 其他
+  order: 4
+  year: '1279'
+  place_id: ya-shan
+  event: 崖山海战
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 南宋第九位皇帝，正史立纪。
+  synced_from_cards: true

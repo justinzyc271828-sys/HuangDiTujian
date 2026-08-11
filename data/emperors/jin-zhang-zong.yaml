@@ -1,0 +1,158 @@
+id: jin-zhang-zong
+tier: emperor
+sort_key: ''
+names:
+  display: 金章宗
+  display_en: Emperor Zhangzong of Jin
+  personal: 完颜璟
+  personal_en: Wanyan Jing
+  temple: 章宗
+  posthumous: 宪天光运仁文义武神圣英孝皇帝
+  aliases:
+  - 完颜麻达葛
+dynasty:
+  id: jin
+  label: 金
+  sequence: 6
+reign:
+  start: '1189'
+  end: '1208'
+  eras:
+  - 明昌
+  - 承安
+  - 泰和
+life:
+  birth: '1168'
+  death: '1208'
+  birth_place_id: null
+  death_place_id: null
+summary: 世宗之孙，修礼乐、定官制、崇文教，泰和对宋之战亦胜；然奢靡渐起，金势转衰之始。
+summary_en: Grandson of Shizong, he codified rites and music, fixed the bureaucracy, and honored letters, and won the Taihe war with Song; yet extravagance crept in as Jin began to decline.
+tags:
+- 泰和之战
+- 修礼乐
+- 汉化
+- 由盛转衰
+tags_en:
+- Taihe War
+- Rites and Music
+- Sinicization
+- Turn of the Tide
+portrait:
+  primary: assets/portraits/jin-zhang-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/jin-zhang-zong.md
+timeline:
+- year: '1168'
+  date_note: 大定八年
+  date_note_en: 大定八年
+  title: 生
+  title_en: Birth
+  summary: 世宗之孙，封原王。
+  summary_en: Grandson of Shizong, enfeoffed Prince Yuan.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E001
+- year: '1189'
+  date_note: 大定二十九年
+  date_note_en: 大定二十九年
+  title: 即位
+  title_en: Accession
+  summary: 世宗崩，璟即位，改元明昌。
+  summary_en: He succeeded upon Shizong's death, era Mingchang.
+  place_id: zhong-du
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E002
+- year: '1206'
+  date_note: 泰和六年
+  date_note_en: 泰和六年
+  title: 泰和对宋之战
+  title_en: Taihe War with Song
+  summary: 泰和对宋之战获胜，宋函韩侂胄首求和。
+  summary_en: The Taihe war with Song ended in victory; Song delivered Han Tuozhou's head for peace.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E003
+- year: '1208'
+  date_note: 泰和八年
+  date_note_en: 泰和八年
+  title: 章宗崩
+  title_en: 章宗崩
+  summary: 崩，无子，叔允济即位。
+  summary_en: He died without issue; his uncle Yunji succeeded.
+  place_id: zhong-du
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E004
+- year: '1208'
+  date_note: 文化
+  date_note_en: culture
+  title: 修礼乐
+  title_en: Rites and Music
+  summary: 修礼乐、定礼仪，金之汉化至此极盛。
+  summary_en: He compiled rites and music, carrying Jin's Sinicization to its peak.
+  place_id: zhong-du
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E005
+- year: '1208'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 章宗总评
+  title_en: Verdict on Zhangzong
+  summary: 文治可观而奢靡渐生，金由盛转衰之始。
+  summary_en: His culture was fine but extravagance crept in - the beginning of Jin's decline.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: jin-shi-zong
+  note: 世宗孙，大定二十九年即位
+- type: successor
+  target_id: jin-wei-shao
+  note: 泰和八年崩，无子，叔卫绍王允济即位
+routes:
+- group: 都城
+  order: 1
+  year: '1189'
+  place_id: zhong-du
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1208'
+  place_id: zhong-du
+  event: 章宗崩
+sources:
+- title: 金史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 金朝第六位皇帝，正史立纪。
+  synced_from_cards: true

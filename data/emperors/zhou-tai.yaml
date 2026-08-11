@@ -1,0 +1,160 @@
+id: zhou-tai
+tier: emperor
+sort_key: 后周-001
+names:
+  display: 后周太祖
+  display_en: Emperor Taizu of Later Zhou
+  personal: 郭威
+  personal_en: Guo Wei
+  temple: 太祖
+  posthumous: 圣神恭肃文武孝皇帝
+  aliases:
+  - 郭文仲
+dynasty:
+  id: zhou
+  label: 后周
+  sequence: 1
+reign:
+  start: '951'
+  end: '954'
+  eras:
+  - 广顺
+  - 显德
+life:
+  birth: '904'
+  death: '954'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 邢州尧山人；乾祐三年为邺都留守，因隐帝杀大臣起兵入汴；广顺元年称帝，国号周，都开封；废营田、减苛税，为世宗改革铺垫；显德元年崩，养子荣继。
+summary_en: A man of Yaoshan, Xingzhou; in the 3rd year of Qianyou, as garrison commander
+  of Yedu, he marched into Kaifeng over the Yin emperor's slaying of his ministers;
+  in the 1st year of Guangshun he took the throne as the realm Zhou with its capital
+  at Kaifeng; he abolished the military farms and lightened the harsh taxes, preparing
+  Shizong's reforms; he died in the 1st year of Xiande, his adopted son Rong succeeding.
+tags:
+- 起兵代汉
+- 称帝开周
+- 革弊
+- 养子继统
+tags_en:
+- Rising against Han
+- Founding Zhou
+- Reforming
+- The Adopted Heir
+portrait:
+  primary: assets/portraits/zhou-tai/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现起于卒伍之君之态，衣冠从五代末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/zhou-tai.md
+timeline:
+- year: '904'
+  date_note: 天祐元年
+  date_note_en: 1st year of Tianyou
+  title: 生
+  title_en: Birth
+  summary: 邢州尧山人，字文仲。
+  summary_en: A man of Yaoshan, Xingzhou, styled Wenzhong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·太祖纪（周）
+  card_id: E001
+- year: '950'
+  date_note: 乾祐三年
+  date_note_en: 3rd year of Qianyou
+  title: 邺都起兵
+  title_en: Rising at Yedu
+  summary: 为邺都留守，因隐帝杀大臣起兵入汴。
+  summary_en: As garrison commander of Yedu, he marched into Kaifeng over the slaying
+    of the ministers.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '951'
+  date_note: 广顺元年
+  date_note_en: 1st year of Guangshun
+  title: 称帝
+  title_en: The Throne
+  summary: 监国后即皇帝位，国号周，改元广顺。
+  summary_en: After acting as regent he took the throne as the realm Zhou, changing
+    the era to Guangshun.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '954'
+  date_note: 显德元年
+  date_note_en: 1st year of Xiande
+  title: 太祖崩
+  title_en: Death of Emperor Taizu
+  summary: 崩，养子荣继，是为世宗。
+  summary_en: He died; his adopted son Rong succeeded — Emperor Shizong.
+  place_id: kai-feng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '954'
+  date_note: 政风
+  date_note_en: governance
+  title: 改革前奏
+  title_en: Prelude to Reform
+  summary: 废营田、减苛税等，为世宗改革铺垫。
+  summary_en: He abolished the military farms and lightened the harsh taxes — the
+    prelude to Shizong's reforms.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '954'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 太祖总评
+  title_en: Final Verdict
+  summary: 起卒伍，有天下之志。
+  summary_en: He rose from the ranks with the ambition of the realm.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: han-yin
+  note: 乾祐三年起兵入汴，后汉亡（亡国链）
+- type: successor
+  target_id: zhou-shi
+  note: 显德元年崩，养子荣即位（世宗）
+- type: kinship
+  target_id: zhou-shi
+  note: 世宗为其内侄兼养子
+routes:
+- group: 都城
+  order: 1
+  year: '950'
+  place_id: kai-feng
+  event: 邺都起兵
+- group: 都城
+  order: 2
+  year: '951'
+  place_id: kai-feng
+  event: 称帝
+- group: 都城
+  order: 3
+  year: '954'
+  place_id: kai-feng
+  event: 太祖崩
+sources:
+- title: 旧五代史·周太祖纪
+  note: 主叙事
+- title: 新五代史·周本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后周开国皇帝，正史立纪。
+  synced_from_cards: true

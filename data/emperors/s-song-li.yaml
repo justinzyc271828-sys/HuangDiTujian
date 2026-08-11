@@ -1,0 +1,190 @@
+id: s-song-li
+tier: emperor
+sort_key: 南宋-005
+names:
+  display: 宋理宗
+  display_en: Emperor Lizong of Song
+  personal: 赵昀
+  personal_en: Zhao Yun
+  temple: 理宗
+  posthumous: 建道备德大功复兴烈文仁武圣明安孝皇帝
+  aliases:
+  - 赵与莒
+  - 赵贵诚
+dynasty:
+  id: s-song
+  label: 南宋
+  sequence: 5
+reign:
+  start: '1224'
+  end: '1264'
+  eras:
+  - 宝庆
+  - 绍定
+  - 端平
+  - 嘉熙
+  - 淳祐
+  - 宝祐
+  - 开庆
+  - 景定
+life:
+  birth: '1205'
+  death: '1264'
+  birth_place_id: null
+  death_place_id: lin-an
+summary: 端平入洛联蒙灭金而反噬随来，理学官学化达于极，晚任贾似道为亡国伏线。
+summary_en: The Duanping recovery and the Mongol alliance that destroyed Jin soon backfired; Neo-Confucianism reached its official peak, and his late reliance on Jia Sidao planted the seeds of ruin.
+tags:
+- 联蒙灭金
+- 端平入洛
+- 崇道学
+- 贾似道
+tags_en:
+- Mongol Alliance
+- Duanping Recovery
+- Neo-Confucian Patronage
+- Jia Sidao
+portrait:
+  primary: assets/portraits/s-song-li/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/s-song-li.md
+timeline:
+- year: '1205'
+  date_note: 开禧元年
+  date_note_en: '1205'
+  title: 生
+  title_en: 生
+  summary: 太祖十世孙，史弥远拥立。
+  summary_en: Tenth-generation descendant of Taizu, raised by Shi Miyuan.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1224'
+  date_note: 嘉定十七年
+  date_note_en: '1224'
+  title: 即位
+  title_en: 即位
+  summary: 宁宗崩，昀即位，改元宝庆。
+  summary_en: Succeeded upon Ningzong's death, era Baoqing.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-ning
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1234'
+  date_note: 同年
+  date_note_en: '1234'
+  title: 端平入洛
+  title_en: 端平入洛
+  summary: 出兵收复三京，旋败于蒙古，端平更化破局。
+  summary_en: Troops were sent to recover the Three Capitals but were quickly routed by the Mongols.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1234'
+  date_note: 端平元年
+  date_note_en: '1234'
+  title: 联蒙灭金
+  title_en: 联蒙灭金
+  summary: 宋蒙联军灭金于蔡州，金亡；蒙古成为最大邻敌。
+  summary_en: Song-Mongol forces destroyed Jin at Caizhou; Mongolia became the dominant neighbor.
+  place_id: null
+  related_person_ids:
+  - jin-ai-zong
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1264'
+  date_note: 景定五年
+  date_note_en: '1264'
+  title: 理宗崩
+  title_en: 理宗崩
+  summary: 崩，度宗继。
+  summary_en: Died; succeeded by Duzong.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-du
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1264'
+  date_note: 政风
+  date_note_en: governing style
+  title: 崇道学
+  title_en: 崇道学
+  summary: 理学官学化加深，理学政治化达于极致。
+  summary_en: Neo-Confucianism deepened as state orthodoxy and political philosophy.
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1264'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 理宗总评
+  title_en: 理宗总评
+  summary: 在位久，前期端平有为之，晚年怠政，权归贾似道。
+  summary_en: A long reign with early vigor at Duanping and late drift as power passed to Jia Sidao.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: s-song-ning
+  note: 宁宗侄，史弥远矫诏拥立
+- type: successor
+  target_id: s-song-du
+  note: 景定五年崩，侄禥即位
+routes:
+- group: 都城
+  order: 1
+  year: '1224'
+  place_id: lin-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1234'
+  place_id: luoyang
+  event: 端平入洛
+- group: 都城
+  order: 3
+  year: '1264'
+  place_id: lin-an
+  event: 理宗崩
+- group: 其他
+  order: 4
+  year: undated
+  place_id: lin-an
+  event: 崇道学
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 南宋第五位皇帝，正史立纪。
+  synced_from_cards: true

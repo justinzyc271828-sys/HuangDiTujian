@@ -1,0 +1,206 @@
+id: s-song-gao
+tier: emperor
+sort_key: 南宋-001
+names:
+  display: 宋高宗
+  display_en: Emperor Gaozong of Song
+  personal: 赵构
+  personal_en: Zhao Gou
+  temple: 高宗
+  posthumous: 受命中兴全功至德圣神武文昭仁宪孝皇帝
+  aliases:
+  - 康王
+dynasty:
+  id: s-song
+  label: 南宋
+  sequence: 1
+reign:
+  start: '1127'
+  end: '1162'
+  eras:
+  - 建炎
+  - 绍兴
+life:
+  birth: '1107'
+  death: '1187'
+  birth_place_id: null
+  death_place_id: lin-an
+summary: 靖康后于南京即位，建炎播迁、定都临安延宋祚；绍兴和议杀岳飞，为千古讥议。
+summary_en: Ascending at Yingtian after the Jingkang disaster, he weathered the Jianyan flight and fixed the capital at Lin'an to prolong the dynasty, but the Shaoxing Treaty and Yue Fei's execution drew eternal censure.
+tags:
+- 建炎南渡
+- 绍兴和议
+- 杀岳飞
+- 定都临安
+- 行在
+tags_en:
+- Jianyan Flight
+- Shaoxing Treaty
+- Execution of Yue Fei
+- Capital at Lin'an
+- Temporary Residence
+portrait:
+  primary: assets/portraits/s-song-gao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/s-song-gao.md
+timeline:
+- year: '1107'
+  date_note: 大观元年
+  date_note_en: '1107'
+  title: 生
+  title_en: 生
+  summary: 徽宗第九子，封康王。
+  summary_en: Ninth son of Huizong, enfeoffed Prince Kang.
+  place_id: null
+  related_person_ids:
+  - n-song-hui
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1127'
+  date_note: 建炎元年
+  date_note_en: '1127'
+  title: 即位南京
+  title_en: 即位南京
+  summary: 靖康后于南京应天府即位，改元建炎，南宋始。
+  summary_en: He ascended at Yingtian after the Jingkang disaster, era Jianyan; Southern Song began.
+  place_id: ying-tian
+  related_person_ids:
+  - n-song-qin
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1129'
+  date_note: 建炎三年
+  date_note_en: '1129'
+  title: 苗刘之变与航海
+  title_en: 苗刘之变与航海
+  summary: 苗傅刘正彦之变逼帝退位旋复，金兵南下帝航海避敌。
+  summary_en: The Miao-Liu mutiny briefly forced him off the throne, and he fled by sea when Jin troops advanced.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1138'
+  date_note: 绍兴八年
+  date_note_en: '1138'
+  title: 定都临安
+  title_en: 定都临安
+  summary: 以临安为行在，驻跸东南，江南立国局面定。
+  summary_en: He made Lin'an the temporary residence and settled in the southeast, fixing the southern state.
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1141'
+  date_note: 绍兴十一年
+  date_note_en: '1141'
+  title: 绍兴和议与杀岳飞
+  title_en: 绍兴和议与杀岳飞
+  summary: 与金和议称臣划淮，岳飞下狱遇害；为后世争议焦点。
+  summary_en: The treaty with Jin made Song a vassal along the Huai River, and Yue Fei was imprisoned and killed, a lasting controversy.
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1162'
+  date_note: 绍兴三十二年
+  date_note_en: '1162'
+  title: 内禅
+  title_en: 内禅
+  summary: 传位孝宗，称太上皇。
+  summary_en: He abdicated to Xiaozong and became retired emperor.
+  place_id: lin-an
+  related_person_ids:
+  - s-song-xiao
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1187'
+  date_note: 淳熙十四年
+  date_note_en: '1187'
+  title: 太上皇崩
+  title_en: 太上皇崩
+  summary: 崩于临安德寿宫。
+  summary_en: Died at the Deshou Palace in Lin'an.
+  place_id: lin-an
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+- year: '1187'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 高宗总评
+  title_en: 高宗总评
+  summary: 能延宋祚于东南，而和议杀飞，功罪俱见。
+  summary_en: He preserved the dynasty in the southeast, yet the peace treaty and Yue Fei's death show both his achievement and his shame.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E008
+relations:
+- type: predecessor
+  target_id: n-song-qin
+  note: 徽宗第九子，靖康二年于南京即位（兄被掳，兄弟相继）
+- type: successor
+  target_id: s-song-xiao
+  note: 绍兴三十二年内禅，养子眘即位
+- type: kinship
+  target_id: n-song-hui
+  note: 徽宗第九子，封康王
+routes:
+- group: 都城
+  order: 1
+  year: '1127'
+  place_id: ying-tian
+  event: 即位南京
+- group: 都城
+  order: 2
+  year: '1138'
+  place_id: lin-an
+  event: 定都临安
+- group: 都城
+  order: 3
+  year: '1141'
+  place_id: lin-an
+  event: 绍兴和议与杀岳飞
+- group: 都城
+  order: 4
+  year: '1162'
+  place_id: lin-an
+  event: 内禅
+- group: 都城
+  order: 5
+  year: '1187'
+  place_id: lin-an
+  event: 太上皇崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 南宋第一位皇帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: yang-zhou
+names:
+  historical: 扬州
+  modern: 江苏省扬州市
+  english: Yangzhou
+coords:
+  lng: 119.42
+  lat: 32.39
+  precision: schematic
+map:
+  region: 淮南
+notes: 杨吴都城，淮南重镇

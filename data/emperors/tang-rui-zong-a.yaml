@@ -53,7 +53,7 @@ portrait:
 bio:
   file: content/bios/tang-rui-zong-a.md
 timeline:
-- year: '684'
+- year: '662'
   date_note: 龙朔二年
   date_note_en: 2nd year of Longshuo
   title: 生
@@ -88,7 +88,7 @@ timeline:
   related_person_ids: []
   sources: *id001
   card_id: E002
-- year: '684'
+- year: '690'
   date_note: 载初元年
   date_note_en: 1st year of Zaichu
   title: 降为皇嗣
@@ -99,7 +99,7 @@ timeline:
   related_person_ids: []
   sources: *id002
   card_id: E004
-- year: '684'
+- year: '690'
   date_note: 政局
   date_note_en: governance
   title: 武后临朝
@@ -110,7 +110,7 @@ timeline:
   related_person_ids: []
   sources: *id002
   card_id: E005
-- year: '684'
+- year: '690'
   date_note: 史评
   date_note_en: verdict of the histories
   title: 睿宗首次

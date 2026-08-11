@@ -1,0 +1,12 @@
+id: hong-zhou
+names:
+  historical: 洪州
+  modern: 江西省南昌市
+  english: Hongzhou
+coords:
+  lng: 115.86
+  lat: 28.68
+  precision: schematic
+map:
+  region: 江南
+notes: 南唐元宗迁都洪州（南都）处

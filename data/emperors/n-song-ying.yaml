@@ -1,0 +1,169 @@
+id: n-song-ying
+tier: emperor
+sort_key: 北宋-005
+names:
+  display: 宋英宗
+  display_en: Emperor Yingzong of Song
+  personal: 赵曙
+  personal_en: Zhao Shu
+  temple: 英宗
+  posthumous: 体乾应历隆功盛德宪文肃武睿圣宣孝皇帝
+  aliases:
+  - 赵宗实
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 5
+reign:
+  start: '1063'
+  end: '1067'
+  eras:
+  - 治平
+life:
+  birth: '1032'
+  death: '1067'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 以宗室入继大统，濮议争礼激荡朝野，在位四年而崩。
+summary_en: Entered the throne from the imperial clan; the Puyi ritual dispute roiled the court, and he died after four years on the throne.
+tags:
+- 濮议
+- 濮王
+- 宗室入继
+- 礼制之争
+tags_en:
+- Puyi Dispute
+- Prince Pu
+- Clan Succession
+- Ritual Controversy
+portrait:
+  primary: assets/portraits/n-song-ying/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-ying.md
+timeline:
+- year: '1032'
+  date_note: 明道元年
+  date_note_en: '1032'
+  title: 生
+  title_en: 生
+  summary: 濮安懿王允让子，仁宗养为嗣。
+  summary_en: Son of Prince Pu Anyi and adopted heir of Renzong.
+  place_id: null
+  related_person_ids:
+  - n-song-ren
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1063'
+  date_note: 嘉祐八年
+  date_note_en: '1063'
+  title: 即位
+  title_en: 即位
+  summary: 仁宗崩，曙即位。
+  summary_en: Succeeded upon Renzong's death.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-ren
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1064'
+  date_note: 治平元年
+  date_note_en: '1064'
+  title: 改元治平
+  title_en: 改元治平
+  summary: 曹太后一度垂帘，旋归政。
+  summary_en: Empress Cao briefly held a regency and soon yielded power.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1065'
+  date_note: 治平二年
+  date_note_en: '1065'
+  title: 濮议
+  title_en: 濮议
+  summary: 议追尊生父濮王，台谏与执政相争，终以追尊告成。
+  summary_en: The debate over posthumously honoring his birth father pitted censors against ministers; the honor was eventually granted.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1067'
+  date_note: 治平四年
+  date_note_en: '1067'
+  title: 英宗崩
+  title_en: 英宗崩
+  summary: 崩，神宗继。
+  summary_en: Died; succeeded by Shenzong.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-shen
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1067'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 英宗总评
+  title_en: 英宗总评
+  summary: 有性气而病弱，在位日浅，濮议为一代礼争之缩影。
+  summary_en: Strong-willed but ailing; his short reign was marked by the Puyi dispute, a microcosm of ritual factionalism.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-song-ren
+  note: 仁宗无嗣，养于宫中，嘉祐八年立为皇子
+- type: successor
+  target_id: n-song-shen
+  note: 治平四年崩，长子顼即位
+routes:
+- group: 都城
+  order: 1
+  year: '1063'
+  place_id: kai-feng
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1064'
+  place_id: kai-feng
+  event: 改元治平
+- group: 都城
+  order: 3
+  year: '1065'
+  place_id: kai-feng
+  event: 濮议
+- group: 都城
+  order: 4
+  year: '1067'
+  place_id: kai-feng
+  event: 英宗崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第五位皇帝，正史立纪。
+  synced_from_cards: true

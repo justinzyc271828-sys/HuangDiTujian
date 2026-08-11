@@ -1,0 +1,194 @@
+id: n-song-ren
+tier: emperor
+sort_key: 北宋-004
+names:
+  display: 宋仁宗
+  display_en: Emperor Renzong of Song
+  personal: 赵祯
+  personal_en: Zhao Zhen
+  temple: 仁宗
+  posthumous: 体天法道极功全德神文圣武睿哲明孝皇帝
+  aliases:
+  - 赵受益
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 4
+reign:
+  start: '1022'
+  end: '1063'
+  eras:
+  - 天圣
+  - 明道
+  - 景祐
+  - 宝元
+  - 康定
+  - 庆历
+  - 皇祐
+  - 至和
+  - 嘉祐
+life:
+  birth: '1010'
+  death: '1063'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 仁厚之主，嘉祐之治号为盛世，而庆历新政旋起旋废，积弊未改。
+summary_en: A benevolent ruler whose Jiayou reign is praised as an age of good governance, though the Qingli Reform rose and fell quickly without changing the accumulated ills.
+tags:
+- 庆历新政
+- 嘉祐之治
+- 仁厚
+- 台谏
+tags_en:
+- Qingli Reform
+- Jiayou Governance
+- Benevolence
+- Censorate
+portrait:
+  primary: assets/portraits/n-song-ren/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-ren.md
+timeline:
+- year: '1010'
+  date_note: 大中祥符三年
+  date_note_en: '1010'
+  title: 生
+  title_en: 生
+  summary: 真宗第六子，生于开封。
+  summary_en: Sixth son of Zhenzong, born at Kaifeng.
+  place_id: null
+  related_person_ids:
+  - n-song-zhen
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1022'
+  date_note: 乾兴元年
+  date_note_en: '1022'
+  title: 即位
+  title_en: 即位
+  summary: 年十三即位，刘太后垂帘听政。
+  summary_en: Ascended at thirteen, with Empress Liu as regent.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-zhen
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1033'
+  date_note: 明道二年
+  date_note_en: '1033'
+  title: 太后崩亲政
+  title_en: 太后崩亲政
+  summary: 刘太后崩，仁宗亲政。
+  summary_en: With Empress Liu's death he began to rule in person.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1043'
+  date_note: 庆历三年
+  date_note_en: '1043'
+  title: 庆历新政
+  title_en: 庆历新政
+  summary: 范仲淹、富弼等条陈十事，触权贵利害，年余即罢，改革未竟。
+  summary_en: Fan Zhongyan and Fu Bi proposed ten reforms, which offended entrenched interests and were abandoned within a year.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1044'
+  date_note: 庆历四年
+  date_note_en: '1044'
+  title: 与西夏和
+  title_en: 与西夏和
+  summary: 元昊称臣，宋岁赐银绢茶，西北暂安。
+  summary_en: Yuanhao submitted as a vassal in exchange for annual gifts; the northwest grew quiet for a time.
+  place_id: null
+  related_person_ids:
+  - xixia-li-yuanhao
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1063'
+  date_note: 嘉祐八年
+  date_note_en: '1063'
+  title: 仁宗崩
+  title_en: 仁宗崩
+  summary: 崩，英宗继。
+  summary_en: Died; succeeded by Yingzong.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-ying
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1063'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 仁宗总评
+  title_en: 仁宗总评
+  summary: 宽仁容谏，号为治世，而因循未革、边备积弱。
+  summary_en: Tolerant and receptive to remonstrance, praised as a pacific age, yet conservative drift left the borders weak.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: n-song-zhen
+  note: 真宗第六子，乾兴元年即位，刘太后垂帘
+- type: successor
+  target_id: n-song-ying
+  note: 无嗣，嘉祐八年立濮王允让子宗实为嗣
+- type: treaty
+  target_id: xixia-li-yuanhao
+  note: 庆历四年元昊称臣，宋岁赐
+routes:
+- group: 都城
+  order: 1
+  year: '1022'
+  place_id: kai-feng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1033'
+  place_id: kai-feng
+  event: 太后崩亲政
+- group: 都城
+  order: 3
+  year: '1043'
+  place_id: kai-feng
+  event: 庆历新政
+- group: 都城
+  order: 4
+  year: '1063'
+  place_id: kai-feng
+  event: 仁宗崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第四位皇帝，正史立纪。
+  synced_from_cards: true

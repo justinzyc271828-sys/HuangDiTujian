@@ -1,0 +1,210 @@
+id: n-song-tai-zong
+tier: emperor
+sort_key: 北宋-002
+names:
+  display: 宋太宗
+  display_en: Emperor Taizong of Song
+  personal: 赵光义
+  personal_en: Zhao Guangyi
+  temple: 太宗
+  posthumous: 至仁应道神功圣德文武睿烈大明广孝皇帝
+  aliases:
+  - 赵匡义
+  - 赵炅
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 2
+reign:
+  start: '976'
+  end: '997'
+  eras:
+  - 太平兴国
+  - 雍熙
+  - 端拱
+  - 淳化
+  - 至道
+life:
+  birth: '939'
+  death: '997'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 烛影斧声继位留疑案，灭北汉、收吴越统一版图，而高梁河之败创下北伐阴影。
+summary_en: Succeeding his brother amid the disputed "candle-shade" mystery, he conquered Northern Han and absorbed Wuyue, but the Gaoliang River defeat cast a long shadow over northern campaigns.
+tags:
+- 烛影斧声
+- 灭北汉
+- 高梁河之败
+- 雍熙北伐
+tags_en:
+- Candle-Shade Mystery
+- Conquest of Northern Han
+- Gaoliang River Defeat
+- Yongxi Campaign
+portrait:
+  primary: assets/portraits/n-song-tai-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-tai-zong.md
+timeline:
+- year: '939'
+  date_note: 天福四年
+  date_note_en: '939'
+  title: 生
+  title_en: 生
+  summary: 太祖弟，初名匡义，继位后改名炅。
+  summary_en: Younger brother of Taizu, first named Kuangyi, later renamed Jiong.
+  place_id: null
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '976'
+  date_note: 开宝九年
+  date_note_en: '976'
+  title: 即位
+  title_en: 即位
+  summary: 太祖崩，光义即位，改元太平兴国；继位与太祖之死的关联是争议层。
+  summary_en: He ascended after Taizu died and changed the era to Taiping Xingguo; the link between his accession and his brother's death remains disputed.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '976'
+  date_note: 即位初
+  date_note_en: '976'
+  title: 烛影斧声
+  title_en: 烛影斧声
+  summary: 太祖暴崩之夜传闻，史无定谳，归为争议层不坐实。
+  summary_en: The night rumors around Taizu's sudden death are unverified; treated as disputed rather than asserted.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '979'
+  date_note: 同年
+  date_note_en: '979'
+  title: 高梁河之败
+  title_en: 高梁河之败
+  summary: 亲征北伐，败于辽，帝中箭乘驴车遁，为宋辽战局转折。
+  summary_en: His personal campaign north failed against Liao; the emperor fled wounded in a cart, a turning point in Song-Liao relations.
+  place_id: you-zhou
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '979'
+  date_note: 太平兴国四年
+  date_note_en: '979'
+  title: 灭北汉
+  title_en: 灭北汉
+  summary: 亲征克太原，北汉亡，五代十国割据至此终结。
+  summary_en: He took Taiyuan in person; Northern Han fell, ending the Five Dynasties and Ten Kingdoms era.
+  place_id: jinyang
+  related_person_ids:
+  - b-han-liu-jun
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '986'
+  date_note: 雍熙三年
+  date_note_en: '986'
+  title: 雍熙北伐
+  title_en: 雍熙北伐
+  summary: 三路伐辽，曹彬岐沟关大败，雍熙北伐失利。
+  summary_en: A three-pronged campaign failed when Cao Bin was routed at Qigou Pass.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '997'
+  date_note: 至道三年
+  date_note_en: '997'
+  title: 太宗崩
+  title_en: 太宗崩
+  summary: 崩于开封，真宗继位。
+  summary_en: Died at Kaifeng; succeeded by Zhenzong.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-zhen
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+- year: '997'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 太宗总评
+  title_en: 太宗总评
+  summary: 勤于政务而猜忌深，兄终弟及与烛影斧声使传位疑案不绝。
+  summary_en: Diligent yet suspicious; his brother-to-brother succession kept the throne mystery alive.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E008
+relations:
+- type: predecessor
+  target_id: n-song-tai-zu
+  note: 太祖弟，继位即帝，金匮之盟为争议层
+- type: successor
+  target_id: n-song-zhen
+  note: 至道三年崩，第三子恒即位
+- type: rival
+  target_id: liao-sheng-zong
+  note: 辽圣宗在位时宋辽交兵，高梁河、雍熙皆败
+routes:
+- group: 都城
+  order: 1
+  year: '976'
+  place_id: kai-feng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '976'
+  place_id: kai-feng
+  event: 烛影斧声
+- group: 亲征
+  order: 3
+  year: '979'
+  place_id: jinyang
+  event: 灭北汉
+- group: 亲征
+  order: 4
+  year: '979'
+  place_id: you-zhou
+  event: 高梁河之败
+- group: 都城
+  order: 5
+  year: '997'
+  place_id: kai-feng
+  event: 太宗崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第二位皇帝，正史立纪。
+  synced_from_cards: true

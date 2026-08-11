@@ -1,0 +1,186 @@
+id: n-song-shen
+tier: emperor
+sort_key: 北宋-006
+names:
+  display: 宋神宗
+  display_en: Emperor Shenzong of Song
+  personal: 赵顼
+  personal_en: Zhao Xu
+  temple: 神宗
+  posthumous: 绍天法古运德建功英文烈武钦仁圣孝皇帝
+  aliases:
+  - 赵仲针
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 6
+reign:
+  start: '1067'
+  end: '1085'
+  eras:
+  - 熙宁
+  - 元丰
+life:
+  birth: '1048'
+  death: '1085'
+  birth_place_id: null
+  death_place_id: kai-feng
+summary: 志在富强，熙宁变法整军理财，元丰改制强干弱枝，然北伐无功、新法争议千年。
+summary_en: Determined to make the state strong, he launched the Xining Reforms to rebuild finances and armies and the Yuanfeng reforms to recentralize power, but the northern campaigns failed and the reforms remain debated to this day.
+tags:
+- 熙宁变法
+- 王安石
+- 元丰改制
+- 伐夏
+tags_en:
+- Xining Reforms
+- Wang Anshi
+- Yuanfeng Reforms
+- Campaigns against Xia
+portrait:
+  primary: assets/portraits/n-song-shen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-shen.md
+timeline:
+- year: '1048'
+  date_note: 庆历八年
+  date_note_en: '1048'
+  title: 生
+  title_en: 生
+  summary: 英宗长子，早慧。
+  summary_en: Eldest son of Yingzong, precocious as a youth.
+  place_id: null
+  related_person_ids:
+  - n-song-ying
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1067'
+  date_note: 治平四年
+  date_note_en: '1067'
+  title: 即位
+  title_en: 即位
+  summary: 英宗崩，顼即位，改元熙宁。
+  summary_en: Succeeded upon Yingzong's death, changing the era to Xining.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-ying
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1069'
+  date_note: 熙宁二年
+  date_note_en: '1069'
+  title: 用王安石变法
+  title_en: 用王安石变法
+  summary: 起用王安石，设制置三司条例司，青苗、募役、保甲等法次第施行。
+  summary_en: He elevated Wang Anshi, established the Three-Service Finance Commission, and rolled out the green sprouts, hired service, and militia laws.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1076'
+  date_note: 熙宁九年
+  date_note_en: '1076'
+  title: 安石罢相
+  title_en: 安石罢相
+  summary: 王安石再罢相，新法仍在而变法派内部分裂。
+  summary_en: Wang Anshi was dismissed again; the reforms continued but the reform camp split.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1081'
+  date_note: 元丰中
+  date_note_en: '1081'
+  title: 伐夏失利
+  title_en: 伐夏失利
+  summary: 五路伐夏，灵州、永乐等役丧师数十万，西征无功。
+  summary_en: Five columns invaded Xia but lost tens of thousands at Lingzhou and Yongle; the western campaign came to nothing.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1085'
+  date_note: 元丰八年
+  date_note_en: '1085'
+  title: 神宗崩
+  title_en: 神宗崩
+  summary: 崩，哲宗继，高太后临朝。
+  summary_en: Died; succeeded by Zhezong under Empress Gao's regency.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-zhe
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1085'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 神宗总评
+  title_en: 神宗总评
+  summary: 志在富强，变法争议至今不息，然理财之效与扰民之弊并存。
+  summary_en: His will to strengthen the state still polarizes historians; fiscal gains and popular burdens came together.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: n-song-ying
+  note: 英宗长子，治平四年即位
+- type: successor
+  target_id: n-song-zhe
+  note: 元丰八年崩，第六子煦即位
+- type: rival
+  target_id: xixia-li-yuanhao
+  note: 元丰中五路伐夏，灵州、永乐之役丧师
+routes:
+- group: 都城
+  order: 1
+  year: '1067'
+  place_id: kai-feng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1069'
+  place_id: kai-feng
+  event: 用王安石变法
+- group: 都城
+  order: 3
+  year: '1076'
+  place_id: kai-feng
+  event: 安石罢相
+- group: 都城
+  order: 4
+  year: '1085'
+  place_id: kai-feng
+  event: 神宗崩
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第六位皇帝，正史立纪。
+  synced_from_cards: true

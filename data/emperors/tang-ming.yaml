@@ -1,0 +1,158 @@
+id: tang-ming
+tier: emperor
+sort_key: 后唐-002
+names:
+  display: 后唐明宗
+  display_en: Emperor Mingzong of Later Tang
+  personal: 李嗣源
+  personal_en: Li Siyuan
+  temple: 明宗
+  posthumous: 圣德和武钦孝皇帝
+  aliases:
+  - 邈佶烈
+dynasty:
+  id: tang
+  label: 后唐
+  sequence: 2
+reign:
+  start: '926'
+  end: '933'
+  eras:
+  - 天成
+  - 长兴
+life:
+  birth: '867'
+  death: '933'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 代北沙陀，李克用养子，本名邈佶烈；庄宗崩于乱中，嗣源入洛即位；宽政息兵，留心民事，史称五代少有的小康之主；长兴四年崩。
+summary_en: A Shatuo of Daibei, adopted son of Li Keyong, originally named Miaojiilie;
+  with Zhuangzong dead in the chaos, Siyuan entered Luoyang and took the throne; lenient
+  in government and stilling the wars, attentive to the people — the histories call
+  him the one modest peace of the Five Dynasties. He died in the 4th year of Changxing.
+tags:
+- 养子即位
+- 宽政息兵
+- 五代小康
+- 沙陀
+tags_en:
+- The Adopted Son's Throne
+- Lenient Government
+- The Five Dynasties' One Peace
+- Shatuo
+portrait:
+  primary: assets/portraits/tang-ming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽厚之君之态，衣冠从五代沙陀制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-ming.md
+timeline:
+- year: '867'
+  date_note: 咸通八年
+  date_note_en: 8th year of Xiantong
+  title: 生
+  title_en: Birth
+  summary: 代北沙陀，为克用养子，本名邈佶烈。
+  summary_en: A Shatuo of Daibei, adopted son of Keyong, originally Miaojiilie.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·明宗纪（唐）
+  card_id: E001
+- year: '926'
+  date_note: 天成元年
+  date_note_en: 1st year of Tiancheng
+  title: 即位
+  title_en: Accession
+  summary: 庄宗崩乱中，嗣源入洛即位，改元天成。
+  summary_en: Zhuangzong dead in the chaos, Siyuan entered Luoyang, took the throne,
+    and changed the era to Tiancheng.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '928'
+  date_note: 天成中
+  date_note_en: mid-Tiancheng
+  title: 宽政息兵
+  title_en: Lenient Government
+  summary: 史称留心民事，赋役稍宽。
+  summary_en: The histories say he attended to the people's affairs and lightened
+    the levies.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '930'
+  date_note: 长兴元年
+  date_note_en: 1st year of Changxing
+  title: 改元长兴
+  title_en: The Changxing Era
+  summary: 在位改天成、长兴。
+  summary_en: His reign used the eras Tiancheng and Changxing.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '933'
+  date_note: 长兴四年
+  date_note_en: 4th year of Changxing
+  title: 明宗崩
+  title_en: Death of Emperor Mingzong
+  summary: 崩，闵帝从厚继。
+  summary_en: He died; the Min emperor Conghou succeeded.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '933'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 明宗总评
+  title_en: Final Verdict
+  summary: 五代少有的小康之主。
+  summary_en: One of the few sovereigns of modest peace in the Five Dynasties.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-zhuang
+  note: 兴教门之变后入洛即位
+- type: successor
+  target_id: tang-min
+  note: 长兴四年崩，第三子从厚即位
+- type: kinship
+  target_id: tang-zhuang
+  note: 李克用养子，与庄宗为养兄弟（非血缘）
+routes:
+- group: 都城
+  order: 1
+  year: '926'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '928'
+  place_id: luoyang
+  event: 宽政息兵
+- group: 都城
+  order: 3
+  year: '933'
+  place_id: luoyang
+  event: 明宗崩
+sources:
+- title: 旧五代史·明宗纪
+  note: 主叙事
+- title: 新五代史·唐本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后唐第二帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,168 @@
+id: jin-hailiing
+tier: emperor
+sort_key: ''
+names:
+  display: 海陵王
+  display_en: Prince Hailing of Jin
+  personal: 完颜亮
+  personal_en: Wanyan Liang
+  temple: ''
+  posthumous: ''
+  aliases:
+  - 完颜迪古乃
+dynasty:
+  id: jin
+  label: 金
+  sequence: 4
+reign:
+  start: '1149'
+  end: '1161'
+  eras:
+  - 天德
+  - 贞元
+  - 正隆
+life:
+  birth: '1122'
+  death: '1161'
+  birth_place_id: null
+  death_place_id: null
+summary: 弑熙宗自立，迁都燕京、欲混一天下而大举南伐，采石之败后为部将所弑。
+summary_en: He killed Xizong and took the throne, moved the capital to Yanjing, and launched a colossal southern campaign to unify the realm; after the Caishi defeat his own generals killed him.
+tags:
+- 弑君自立
+- 迁都燕京
+- 伐宋
+- 采石之败
+tags_en:
+- Regicide
+- Capital at Yanjing
+- Campaign against Song
+- Defeat at Caishi
+portrait:
+  primary: assets/portraits/jin-hailiing/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/jin-hailiing.md
+timeline:
+- year: '1122'
+  date_note: 天辅六年
+  date_note_en: 天辅六年
+  title: 生
+  title_en: Birth
+  summary: 太祖孙，宗干之子，幼有才名。
+  summary_en: Grandson of Taizu and son of Zonggan, gifted in youth.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E001
+- year: '1149'
+  date_note: 天德元年
+  date_note_en: 天德元年
+  title: 弑熙宗自立
+  title_en: Regicide and Usurpation
+  summary: 弑熙宗，自立为帝，改元天德。
+  summary_en: He killed Xizong and took the throne, era Tiande.
+  place_id: huining
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E002
+- year: '1153'
+  date_note: 贞元元年
+  date_note_en: 贞元元年
+  title: 迁都燕京
+  title_en: Capital at Yanjing
+  summary: 迁都燕京（中都），下令毁会宁旧宫。
+  summary_en: He moved the capital to Yanjing (Zhongdu) and razed the old palace at Huining.
+  place_id: zhong-du
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E003
+- year: '1161'
+  date_note: 正隆六年
+  date_note_en: 正隆六年
+  title: 伐宋
+  title_en: Campaign against Song
+  summary: 亲征伐宋，欲混一天下，采石之战为虞允文所败。
+  summary_en: He campaigned south in person to unify the realm and was defeated at Caishi by Yu Yunwen.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E004
+- year: '1161'
+  date_note: 同年
+  date_note_en: same year
+  title: 被弑
+  title_en: Assassinated
+  summary: 军中兵变，为部将所弑于扬州。
+  summary_en: Mutiny broke out; his generals killed him near Yangzhou.
+  place_id: yang-zhou
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E005
+- year: '1161'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 海陵总评
+  title_en: Verdict on Hailing
+  summary: 雄猜好杀、欲兼天下，其暴其才皆非常主。
+  summary_en: Brutal, suspicious, and ambitious to rule all-under-heaven - extraordinary in both cruelty and ability.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 金史·本纪
+  - 金史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: jin-xi-zong
+  note: 皇统九年弑熙宗自立
+- type: successor
+  target_id: jin-shi-zong
+  note: 正隆六年采石败后被弑，世宗即位（辽阳）
+routes:
+- group: 都城
+  order: 1
+  year: '1149'
+  place_id: huining
+  event: 弑熙宗自立
+- group: 都城
+  order: 2
+  year: '1153'
+  place_id: zhong-du
+  event: 迁都燕京
+- group: 亲征
+  order: 3
+  year: '1161'
+  place_id: chang-jiang
+  event: 伐宋
+- group: 其他
+  order: 4
+  year: '1161'
+  place_id: yang-zhou
+  event: 被弑
+sources:
+- title: 金史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 金朝第四位皇帝，正史立纪。
+  synced_from_cards: true

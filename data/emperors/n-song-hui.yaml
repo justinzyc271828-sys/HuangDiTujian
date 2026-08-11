@@ -1,0 +1,192 @@
+id: n-song-hui
+tier: emperor
+sort_key: 北宋-008
+names:
+  display: 宋徽宗
+  display_en: Emperor Huizong of Song
+  personal: 赵佶
+  personal_en: Zhao Ji
+  temple: 徽宗
+  posthumous: 体神合道骏烈逊功圣文仁德慈宪显孝皇帝
+  aliases:
+  - 赵端王
+dynasty:
+  id: n-song
+  label: 北宋
+  sequence: 8
+reign:
+  start: '1100'
+  end: '1125'
+  eras:
+  - 建中靖国
+  - 崇宁
+  - 大观
+  - 政和
+  - 重和
+  - 宣和
+life:
+  birth: '1082'
+  death: '1135'
+  birth_place_id: null
+  death_place_id: null
+summary: 一代艺宗，瘦金体冠绝古今，而蔡京当国、花石纲乱政，终致靖康之祸。
+summary_en: An artistic genius whose slender-gold calligraphy crowned the age, he let Cai Jing dominate the court and the Flower-and-Rock Network ravage the land, ending in the Jingkang catastrophe.
+tags:
+- 瘦金体
+- 宣和画院
+- 蔡京
+- 花石纲
+- 靖康之祸
+tags_en:
+- Slender-Gold Script
+- Xuanhe Academy
+- Cai Jing
+- Flower-and-Rock Network
+- Jingkang Disaster
+portrait:
+  primary: assets/portraits/n-song-hui/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-song-hui.md
+timeline:
+- year: '1082'
+  date_note: 元丰五年
+  date_note_en: '1082'
+  title: 生
+  title_en: 生
+  summary: 神宗第十一子，封端王，长于书画。
+  summary_en: Eleventh son of Shenzong, enfeoffed Prince Duan, versed in painting and calligraphy.
+  place_id: null
+  related_person_ids:
+  - n-song-shen
+  sources:
+  - 文献
+  - 笔记
+  card_id: E001
+- year: '1100'
+  date_note: 元符三年
+  date_note_en: '1100'
+  title: 即位
+  title_en: 即位
+  summary: 哲宗崩，向太后立端王佶。
+  summary_en: On Zhezong's death Empress Xiang raised Prince Duan to the throne.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-zhe
+  sources:
+  - 文献
+  - 笔记
+  card_id: E002
+- year: '1102'
+  date_note: 崇宁元年
+  date_note_en: '1102'
+  title: 蔡京当国
+  title_en: 蔡京当国
+  summary: 用蔡京为相，立元祐党人碑，兴花石纲。
+  summary_en: He made Cai Jing chancellor, erected the Yuanyou partisans' stele, and launched the Flower-and-Rock Network.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E003
+- year: '1120'
+  date_note: 宣和中
+  date_note_en: '1120'
+  title: 方腊起义
+  title_en: 方腊起义
+  summary: 睦州方腊起事，东南震动，花石纲为民怨之由。
+  summary_en: Fang La rose in Muzhou and shook the southeast, driven by grievance over the Flower-and-Rock Network.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E004
+- year: '1125'
+  date_note: 宣和七年
+  date_note_en: '1125'
+  title: 内禅
+  title_en: 内禅
+  summary: 金兵南下，禅位太子桓，称太上皇。
+  summary_en: With Jin troops approaching he abdicated to his son and became retired emperor.
+  place_id: kai-feng
+  related_person_ids:
+  - n-song-qin
+  sources:
+  - 文献
+  - 笔记
+  card_id: E005
+- year: '1135'
+  date_note: 绍兴五年
+  date_note_en: '1135'
+  title: 崩于五国城
+  title_en: 崩于五国城
+  summary: 靖康二年被掳北迁，绍兴五年崩于五国城。
+  summary_en: Taken north in the Jingkang disaster, he died at Wuguocheng in 1135.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E006
+- year: '1135'
+  date_note: 艺术
+  date_note_en: art and culture
+  title: 书画
+  title_en: 书画
+  summary: 擅书画，创瘦金体，建宣和画院，艺术成就冠绝帝王。
+  summary_en: A master of painting and calligraphy who created the slender-gold script and founded the Xuanhe Academy, unrivalled among emperors in art.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 文献
+  - 笔记
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: n-song-zhe
+  note: 哲宗弟，元符三年向太后立之
+- type: successor
+  target_id: n-song-qin
+  note: 宣和七年金兵南下，内禅太子桓
+- type: rival
+  target_id: liao-tianzuo
+  note: 联金灭辽，燕云终成引狼入室之局
+routes:
+- group: 都城
+  order: 1
+  year: '1100'
+  place_id: kai-feng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1102'
+  place_id: kai-feng
+  event: 蔡京当国
+- group: 都城
+  order: 3
+  year: '1125'
+  place_id: kai-feng
+  event: 内禅
+- group: 其他
+  order: 4
+  year: undated
+  place_id: kai-feng
+  event: 书画
+sources:
+- title: 宋史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 北宋第八位皇帝，正史立纪。
+  synced_from_cards: true

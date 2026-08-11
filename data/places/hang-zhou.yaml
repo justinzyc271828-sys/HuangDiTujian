@@ -1,0 +1,12 @@
+id: hang-zhou
+names:
+  historical: 杭州
+  modern: 浙江省杭州市
+  english: Hangzhou
+coords:
+  lng: 120.15
+  lat: 30.28
+  precision: schematic
+map:
+  region: 两浙
+notes: 吴越都城，钱镠筑捍海塘处

@@ -1,0 +1,166 @@
+id: liao-tai-zong
+tier: emperor
+sort_key: ''
+names:
+  display: 辽太宗
+  display_en: Emperor Taizong of Liao
+  personal: 耶律德光
+  personal_en: Yelü Deguang
+  temple: 太宗
+  posthumous: 孝武惠文皇帝
+  aliases:
+  - 耶律尧骨
+dynasty:
+  id: liao
+  label: 辽
+  sequence: 1
+reign:
+  start: '927'
+  end: '947'
+  eras:
+  - 天显
+  - 会同
+  - 大同
+life:
+  birth: '902'
+  death: '947'
+  birth_place_id: null
+  death_place_id: null
+summary: 扶立石敬瑭得燕云十六州，灭后晋入主中原，然以「打草谷」失民心，北返途中崩于栾城。
+summary_en: He enthroned Shi Jingtang in return for the Sixteen Prefectures, destroyed Later Jin and entered the Central Plains, but alienated the people with plundering; he died at Luancheng on the way back north.
+tags:
+- 燕云十六州
+- 扶石灭晋
+- 入汴
+- 南北面官
+tags_en:
+- Sixteen Prefectures
+- Later Jin Destroyed
+- Entry into Bian
+- Dual Administration
+portrait:
+  primary: assets/portraits/liao-tai-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liao-tai-zong.md
+timeline:
+- year: '902'
+  date_note: 天复二年
+  date_note_en: 天复二年
+  title: 生
+  title_en: Birth
+  summary: 太祖次子，随父征战，军功显赫。
+  summary_en: Second son of Taizu, battle-hardened beside his father.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E001
+- year: '927'
+  date_note: 天显二年
+  date_note_en: 天显二年
+  title: 即位
+  title_en: Accession
+  summary: 述律太后定策，德光即位。
+  summary_en: Empress Shulü settled the succession; Deguang took the throne.
+  place_id: linhuang
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E002
+- year: '936'
+  date_note: 天显十一年
+  date_note_en: 天显十一年
+  title: 扶石晋
+  title_en: Supporting Shi Jingtang
+  summary: 亲征助石敬瑭灭后唐，得燕云十六州，岁纳贡。
+  summary_en: He campaigned to help Shi Jingtang destroy Later Tang and received the Sixteen Prefectures with annual tribute.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E003
+- year: '947'
+  date_note: 大同元年
+  date_note_en: 大同元年
+  title: 入汴
+  title_en: Entry into Bian
+  summary: 入汴灭后晋，改国号大辽，然军纪败坏，中原民怨。
+  summary_en: He entered Bian to destroy Later Jin and changed the dynastic title to Liao, but indiscipline bred resentment across the Central Plains.
+  place_id: kai-feng
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E004
+- year: '947'
+  date_note: 同年
+  date_note_en: same year
+  title: 太宗崩
+  title_en: Death of Taizong
+  summary: 北返途中崩于栾城，述律太后立侄阮。
+  summary_en: He died at Luancheng on the way north; Empress Shulü raised his nephew Ruan.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E005
+- year: '947'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 太宗总评
+  title_en: Verdict on Taizong
+  summary: 得燕云而汉法北渐，南北面官制推行益广。
+  summary_en: With the Sixteen Prefectures, Chinese institutions spread north and the dual administration deepened.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liao-tai-zu
+  note: 太祖次子，述律太后定策即位
+- type: successor
+  target_id: liao-shi-zong
+  note: 大同元年北返崩于栾城，侄阮即位
+- type: rival
+  target_id: jin-tai-zong
+  note: 与后晋石重贵交战，灭之（后世金朝亦名太宗，勿混）
+routes:
+- group: 都城
+  order: 1
+  year: '927'
+  place_id: linhuang
+  event: 即位
+- group: 亲征
+  order: 2
+  year: '936'
+  place_id: jinyang
+  event: 扶石晋
+- group: 都城
+  order: 3
+  year: '947'
+  place_id: kai-feng
+  event: 入汴
+sources:
+- title: 辽史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 辽朝第二位皇帝，正史立纪。
+  synced_from_cards: true

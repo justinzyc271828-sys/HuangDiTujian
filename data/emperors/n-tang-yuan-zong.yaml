@@ -1,0 +1,165 @@
+id: n-tang-yuan-zong
+tier: quasi
+sort_key: 南唐-002
+names:
+  display: 南唐元宗
+  display_en: Li Jing, Yuan Zong of Southern Tang
+  personal: 李璟
+  personal_en: Li Jing
+  temple: 元宗
+  posthumous: 明道崇德文宣孝皇帝
+  aliases:
+  - 李景通
+dynasty:
+  id: n-tang
+  label: 南唐
+  sequence: 2
+reign:
+  start: '943'
+  end: '961'
+  eras:
+  - 保大
+  - 中兴
+  - 交泰
+life:
+  birth: '916'
+  death: '961'
+  birth_place_id: null
+  death_place_id: hong-zhou
+summary: 昪长子；保大元年即位；保大中出兵灭闽（部分）；好文学，与冯延巳等，词风婉约；交泰元年周世宗南伐，璟去帝号称国主，割江北；建隆二年迁都洪州，崩。
+summary_en: Eldest son of Bian; he took the throne in the 1st year of Baoda and in
+  mid-Baoda sent armies to destroy part of Min; a lover of letters, with Feng Yansi
+  and the rest, his ci verse elegant and soft; in the 1st year of Jiaotai Emperor
+  Shizong of Zhou campaigned south, Jing dropped the imperial title for "ruler," ceding
+  the lands north of the Yangzi; in the 2nd year of Jianlong he moved the capital
+  to Hongzhou and died.
+tags:
+- 灭闽
+- 称臣后周
+- 词与文治
+- 江北尽失
+tags_en:
+- Destroying Min
+- Vassal of Zhou
+- Ci and Culture
+- The North of the River Lost
+portrait:
+  primary: assets/portraits/n-tang-yuan-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现文雅之君之态，衣冠从五代江南制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-tang-yuan-zong.md
+timeline:
+- year: '916'
+  date_note: 约年
+  date_note_en: c. 916
+  title: 生
+  title_en: Birth
+  summary: 昪长子，初名景通。
+  summary_en: Eldest son of Bian, first named Jingtong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·南唐世家
+  card_id: E001
+- year: '943'
+  date_note: 保大元年
+  date_note_en: 1st year of Baoda
+  title: 即位
+  title_en: Accession
+  summary: 昪崩，璟即位。
+  summary_en: Bian died; Jing took the throne.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '945'
+  date_note: 保大中
+  date_note_en: mid-Baoda
+  title: 灭闽
+  title_en: Destroying Min
+  summary: 出兵灭王氏闽国（部分）。
+  summary_en: He sent armies to destroy part of the Wang Min realm.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '958'
+  date_note: 交泰元年
+  date_note_en: 1st year of Jiaotai
+  title: 称臣后周
+  title_en: Vassal of Zhou
+  summary: 周世宗南伐，璟去帝号，称国主，割江北。
+  summary_en: Shizong of Zhou campaigned south; Jing dropped the imperial title for
+    "ruler," ceding the north of the river.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '961'
+  date_note: 建隆二年
+  date_note_en: 2nd year of Jianlong
+  title: 迁洪州崩
+  title_en: The Move to Hongzhou and Death
+  summary: 迁都洪州，崩；子煜继于金陵。
+  summary_en: He moved the capital to Hongzhou and died; his son Yu succeeded at Jinling.
+  place_id: hong-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '961'
+  date_note: 文学
+  date_note_en: letters
+  title: 词与文治
+  title_en: Ci and Culture
+  summary: 好文学，与冯延巳等。
+  summary_en: He loved letters, with Feng Yansi and the rest.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-tang-lie-zu
+  note: 昇元七年烈祖崩，长子璟即位
+- type: successor
+  target_id: n-tang-houzhu
+  note: 建隆二年崩，子煜即位于金陵
+- type: kinship
+  target_id: n-tang-lie-zu
+  note: 烈祖长子
+routes:
+- group: 都城
+  order: 1
+  year: '943'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '945'
+  place_id: null
+  event: 灭闽
+- group: 都城
+  order: 3
+  year: '958'
+  place_id: jian-kang
+  event: 称臣后周
+- group: 都城
+  order: 4
+  year: '961'
+  place_id: hong-zhou
+  event: 迁洪州崩
+sources:
+- title: 新五代史·南唐世家
+  note: 主叙事
+- title: 南唐书·元宗纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 南唐第二主，图鉴以准帝收录。
+  synced_from_cards: true

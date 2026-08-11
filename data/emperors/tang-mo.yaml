@@ -1,0 +1,160 @@
+id: tang-mo
+tier: emperor
+sort_key: 后唐-004
+names:
+  display: 后唐末帝
+  display_en: The Last Sovereign of Later Tang
+  personal: 李从珂
+  personal_en: Li Congke
+  temple: null
+  posthumous: null
+  aliases:
+  - 王阿三
+dynasty:
+  id: tang
+  label: 后唐
+  sequence: 4
+reign:
+  start: '934'
+  end: '936'
+  eras:
+  - 清泰
+life:
+  birth: '885'
+  death: '936'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 本姓王，明宗养子；清泰元年废闵帝自立；清泰二年猜忌石敬瑭，移镇削兵；清泰三年石敬瑭联契丹反，割燕云十六州；同年契丹晋军入洛，末帝自焚，后唐亡。
+summary_en: Originally of the Wang surname, adopted son of Mingzong; in the 1st year
+  of Qingtai he deposed the Min emperor and took the throne; in the 2nd year he came
+  to distrust Shi Jingtang, moving and stripping his garrisons; in the 3rd year Jingtang
+  rose with the Khitan, ceding the Sixteen Prefectures of Yanyun; that same year the
+  Khitan and Jin armies entered Luoyang and the Last Sovereign burned himself — Later
+  Tang was no more.
+tags:
+- 废主自立
+- 猜忌敬瑭
+- 燕云之割
+- 自焚亡国
+tags_en:
+- The Usurping Throne
+- Distrust of Jingtang
+- The Yanyun Cession
+- Death by Fire
+portrait:
+  primary: assets/portraits/tang-mo/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现猜忌之君之态，衣冠从五代制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-mo.md
+timeline:
+- year: '885'
+  date_note: 光启元年
+  date_note_en: 1st year of Guangqi
+  title: 生
+  title_en: Birth
+  summary: 本姓王，明宗养为子。
+  summary_en: Originally of the Wang surname, adopted by Mingzong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧五代史·末帝纪（唐）
+  card_id: E001
+- year: '934'
+  date_note: 清泰元年
+  date_note_en: 1st year of Qingtai
+  title: 即位
+  title_en: Accession
+  summary: 废闵帝自立，改元清泰。
+  summary_en: He deposed the Min emperor, took the throne, and changed the era to
+    Qingtai.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '935'
+  date_note: 清泰二年
+  date_note_en: 2nd year of Qingtai
+  title: 猜忌敬瑭
+  title_en: Distrust of Jingtang
+  summary: 移镇、削兵，激成其反。
+  summary_en: He moved and stripped Jingtang's garrisons, driving him to revolt.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '936'
+  date_note: 清泰三年
+  date_note_en: 3rd year of Qingtai
+  title: 石敬瑭反
+  title_en: Shi Jingtang Rises
+  summary: 河东节度使石敬瑭联契丹反，割幽云。
+  summary_en: The governor of Hedong, Shi Jingtang, rose with the Khitan, ceding the
+    Youyun lands.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '936'
+  date_note: 同年
+  date_note_en: same year
+  title: 自焚国亡
+  title_en: Death by Fire, the Realm Lost
+  summary: 契丹晋军入洛，末帝自焚于玄武楼，后唐亡。
+  summary_en: The Khitan and Jin armies entered Luoyang; the Last Sovereign burned
+    himself in the Xuanwu Tower, and Later Tang was no more.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '936'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 末帝总评
+  title_en: Final Verdict
+  summary: 得位不正，终亡于契丹。
+  summary_en: His throne was ill-gotten, and he fell to the Khitan at last.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-min
+  note: 清泰元年废闵帝自立
+- type: successor
+  target_id: jin-gao
+  note: 清泰三年石敬瑭联契丹灭后唐
+- type: kinship
+  target_id: tang-ming
+  note: 明宗养子（本姓王）
+routes:
+- group: 都城
+  order: 1
+  year: '934'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '936'
+  place_id: jinyang
+  event: 石敬瑭反
+- group: 都城
+  order: 3
+  year: '936'
+  place_id: luoyang
+  event: 自焚国亡
+sources:
+- title: 旧五代史·唐末帝纪
+  note: 主叙事
+- title: 新五代史·唐本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后唐末帝，正史立纪。
+  synced_from_cards: true

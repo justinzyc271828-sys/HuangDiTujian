@@ -1,0 +1,164 @@
+id: liao-dao-zong
+tier: emperor
+sort_key: ''
+names:
+  display: 辽道宗
+  display_en: Emperor Daozong of Liao
+  personal: 耶律洪基
+  personal_en: Yelü Hongji
+  temple: 道宗
+  posthumous: 仁圣大孝文皇帝
+  aliases: []
+dynasty:
+  id: liao
+  label: 辽
+  sequence: 1
+reign:
+  start: '1055'
+  end: '1101'
+  eras:
+  - 清宁
+  - 咸雍
+  - 大康
+  - 大安
+  - 寿昌
+life:
+  birth: '1032'
+  death: '1101'
+  birth_place_id: null
+  death_place_id: null
+summary: 在位四十六年，乙辛之祸废后杀子，崇佛好儒而政事渐坏，辽之衰自此始。
+summary_en: Forty-six years on the throne, he let Yixin's conspiracy depose his empress and kill his son; he revered Buddhism and Confucianism while government decayed - the beginning of Liao's decline.
+tags:
+- 乙辛之祸
+- 崇佛
+- 好儒
+- 辽之衰
+tags_en:
+- Yixin's Conspiracy
+- Buddhist Patronage
+- Confucian Learning
+- Decline of Liao
+portrait:
+  primary: assets/portraits/liao-dao-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liao-dao-zong.md
+timeline:
+- year: '1032'
+  date_note: 重熙元年
+  date_note_en: 重熙元年
+  title: 生
+  title_en: Birth
+  summary: 兴宗长子，封燕赵国王。
+  summary_en: Eldest son of Xingzong, enfeoffed Prince of Yan-Zhao.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E001
+- year: '1055'
+  date_note: 清宁元年
+  date_note_en: 清宁元年
+  title: 即位
+  title_en: Accession
+  summary: 兴宗崩，洪基即位，改元清宁。
+  summary_en: He succeeded upon Xingzong's death, era Qingning.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E002
+- year: '1075'
+  date_note: 大康中
+  date_note_en: 大康中
+  title: 乙辛之祸
+  title_en: The Yixin Catastrophe
+  summary: 耶律乙辛构陷，皇后被诬死，太子遭废杀，史称乙辛之祸。
+  summary_en: Yelü Yixin framed the empress to death and the crown prince to ruin - the Yixin catastrophe.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E003
+- year: '1101'
+  date_note: 寿昌七年
+  date_note_en: 寿昌七年
+  title: 道宗崩
+  title_en: 道宗崩
+  summary: 崩，孙延禧即位，是为天祚帝。
+  summary_en: He died; his grandson Yanxi succeeded as Emperor Tianzuo.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E004
+- year: '1101'
+  date_note: 文化
+  date_note_en: culture
+  title: 崇佛好儒
+  title_en: Buddhism and Confucianism
+  summary: 崇佛建塔，一岁饭僧三十万；亦好儒术。
+  summary_en: He built Buddhist towers and fed monks in the hundreds of thousands yearly, while also honoring Confucian learning.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E005
+- year: '1101'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 道宗总评
+  title_en: Verdict on Daozong
+  summary: 享国最久而政以贿成，辽势遂衰。
+  summary_en: The longest reign of Liao, yet corruption flourished and the dynasty declined.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 辽史·本纪
+  - 辽史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liao-xing-zong
+  note: 兴宗长子，重熙二十四年即位
+- type: successor
+  target_id: liao-tianzuo
+  note: 寿昌七年崩，孙延禧即位
+routes:
+- group: 都城
+  order: 1
+  year: '1032'
+  place_id: zhong-jing
+  event: 生
+- group: 都城
+  order: 2
+  year: '1055'
+  place_id: zhong-jing
+  event: 即位
+- group: 都城
+  order: 3
+  year: '1075'
+  place_id: zhong-jing
+  event: 乙辛之祸
+sources:
+- title: 辽史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 辽朝第八位皇帝，正史立纪。
+  synced_from_cards: true

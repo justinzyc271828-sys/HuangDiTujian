@@ -1,0 +1,151 @@
+id: wuyue-qian-liu
+tier: quasi
+sort_key: 吴越-001
+names:
+  display: 吴越太祖
+  display_en: Qian Liu, Founder of Wuyue
+  personal: 钱镠
+  personal_en: Qian Liu
+  temple: 太祖
+  posthumous: 武肃王
+  aliases:
+  - 钱婆留
+dynasty:
+  id: wuyue
+  label: 吴越
+  sequence: 1
+reign:
+  start: '907'
+  end: '932'
+  eras: []
+life:
+  birth: '852'
+  death: '932'
+  birth_place_id: null
+  death_place_id: hang-zhou
+summary: 杭州临安人；开平元年梁封吴越王，据两浙；筑捍海塘，治钱塘江堤，保杭嘉；对中原称臣纳贡，保境安民；长兴三年卒。
+summary_en: A man of Lin'an in Hangzhou; in the 1st year of Kaiping Liang made him
+  King of Wuyue, holding the two Zhe; he built the sea wall, diking the Qiantang to
+  protect Hang and Jia; a vassal paying tribute to the Central Plains, he kept his
+  borders and his people. He died in the 3rd year of Changxing.
+tags:
+- 吴越王
+- 筑捍海塘
+- 事大保境
+- 杭州之基
+tags_en:
+- King of Wuyue
+- The Sea Wall
+- Vassal and Peace
+- The Foundations of Hangzhou
+portrait:
+  primary: assets/portraits/wuyue-qian-liu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现保境贤主之态，衣冠从五代两浙制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wuyue-qian-liu.md
+timeline:
+- year: '852'
+  date_note: 约年
+  date_note_en: c. 852
+  title: 生
+  title_en: Birth
+  summary: 杭州临安人。
+  summary_en: A man of Lin'an in Hangzhou.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 新五代史·吴越世家
+  card_id: E001
+- year: '907'
+  date_note: 开平元年
+  date_note_en: 1st year of Kaiping
+  title: 封吴越王
+  title_en: King of Wuyue
+  summary: 梁封吴越王，据两浙。
+  summary_en: Liang made him King of Wuyue, holding the two Zhe.
+  place_id: hang-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '910'
+  date_note: 开平中
+  date_note_en: mid-Kaiping
+  title: 筑捍海塘
+  title_en: The Sea Wall
+  summary: 治钱塘江堤，保杭嘉。
+  summary_en: He diked the Qiantang, protecting Hang and Jia.
+  place_id: hang-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '932'
+  date_note: 长兴三年
+  date_note_en: 3rd year of Changxing
+  title: 钱镠卒
+  title_en: Death of Qian Liu
+  summary: 卒，子元瓘继。
+  summary_en: He died; his son Yuanguan succeeded.
+  place_id: hang-zhou
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '932'
+  date_note: 政风
+  date_note_en: governance
+  title: 事大保境
+  title_en: Vassal and Peace
+  summary: 对中原称臣纳贡，保两浙。
+  summary_en: He was a vassal to the Central Plains, keeping the two Zhe.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '932'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 镠总评
+  title_en: Final Verdict
+  summary: 有功于浙，民到于今称之。
+  summary_en: He served Zhe well; the people praise him to this day.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: liang-tai-zu
+  note: 受后梁封吴越王
+- type: related_emperor
+  target_id: n-song-tai-zu
+  note: 钱氏后裔于太平兴国三年纳土归宋
+routes:
+- group: 都城
+  order: 1
+  year: '907'
+  place_id: hang-zhou
+  event: 封吴越王
+- group: 都城
+  order: 2
+  year: '910'
+  place_id: hang-zhou
+  event: 筑捍海塘
+- group: 都城
+  order: 3
+  year: '932'
+  place_id: hang-zhou
+  event: 钱镠卒
+sources:
+- title: 新五代史·吴越世家
+  note: 主叙事
+- title: 十国春秋·吴越
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 吴越开国君主，割据两浙，图鉴以准帝收录。
+  synced_from_cards: true
