@@ -1,0 +1,161 @@
+id: qing-mu-zong
+tier: emperor
+sort_key: 清-010
+names:
+  display: 清穆宗
+  display_en: Emperor Muzong of Qing (Tongzhi)
+  personal: 爱新觉罗载淳
+  personal_en: Aisin Gioro Zaichun
+  temple: 穆宗
+  posthumous: 毅皇帝
+  aliases:
+  - 同治帝
+dynasty:
+  id: qing
+  label: 清
+  sequence: 10
+reign:
+  start: '1861'
+  end: '1875'
+  eras:
+  - 同治
+life:
+  birth: '1856'
+  death: '1875'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 六岁即位，两宫垂帘；曾国藩等克天京平太平天国，洋务运动初兴，而亲政未及二年而崩。
+summary_en: Enthroned at six under the two empresses dowager, he saw Nanjing retaken and the Taiping crushed by Zeng Guofan, and the Self-Strengthening begun - then died within two years of taking power.
+tags:
+- 两宫垂帘
+- 克天京
+- 洋务运动
+- 同治
+tags_en:
+- Two Empresses
+- Nanjing Retaken
+- Self-Strengthening
+- Tongzhi
+portrait:
+  primary: assets/portraits/qing-mu-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qing-mu-zong.md
+timeline:
+- year: '1856'
+  date_note: 咸丰六年
+  date_note_en: 咸丰六年
+  title: 生
+  title_en: Birth
+  summary: 文宗独子，六岁即位。
+  summary_en: Only son of Wenzong, enthroned at six.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E001
+- year: '1861'
+  date_note: 咸丰十一年
+  date_note_en: 咸丰十一年
+  title: 即位
+  title_en: Accession
+  summary: 即位，两宫垂帘听政。
+  summary_en: He ascended under the two empresses dowager.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E002
+- year: '1864'
+  date_note: 同治三年
+  date_note_en: 同治三年
+  title: 克天京
+  title_en: Nanjing Retaken
+  summary: 曾国荃克天京，太平天国平。
+  summary_en: Zeng Guoquan took Nanjing; the Taiping were crushed.
+  place_id: ying-tian
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E003
+- year: '1875'
+  date_note: 同治十三年
+  date_note_en: 同治十三年
+  title: 穆宗崩
+  title_en: Death of Muzong
+  summary: 崩于北京，无子。
+  summary_en: He died at Beijing without issue.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E004
+- year: '1875'
+  date_note: 政风
+  date_note_en: governing style
+  title: 洋务初兴
+  title_en: Self-Strengthening
+  summary: 洋务初兴，自强之议渐起。
+  summary_en: The Self-Strengthening movement began.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E005
+- year: '1875'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 穆宗总评
+  title_en: Verdict on Muzong
+  summary: 冲龄而崩，中兴之机未及展开。
+  summary_en: A child emperor dead young; the chance of renewal closed.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: qing-wen-zong
+  note: 文宗独子，咸丰十一年即位，两宫垂帘
+- type: successor
+  target_id: qing-de-zong
+  note: 同治十三年崩，无子，醇亲王之子载湉即位（光绪）
+routes:
+- group: 都城
+  order: 1
+  year: '1861'
+  place_id: bei-jing
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1864'
+  place_id: ying-tian
+  event: 克天京
+- group: 都城
+  order: 3
+  year: '1875'
+  place_id: bei-jing
+  event: 穆宗崩
+sources:
+- title: 清史稿
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 清朝第十位皇帝，正史立纪。
+  synced_from_cards: true

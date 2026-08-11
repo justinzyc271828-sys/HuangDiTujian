@@ -53,81 +53,79 @@ bio:
 timeline:
 - year: '1168'
   date_note: 约年
-  date_note_en: 约年
+  date_note_en: c. 1168
   title: 生
   title_en: Birth
-  summary: 世宗第七子，封卫王。
-  summary_en: Seventh son of Shizong, Prince Wei.
-  place_id: null
-  related_person_ids: []
+  summary: 世宗第七子，封卫王；生年史无确载，约大定八年。
+  summary_en: Seventh son of Shizong, Prince Wei; his birth year is unrecorded, c. 1168.
+  place_id: jin-zhong-du
+  related_person_ids:
+  - jin-shi-zong
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E001
-- year: '1211'
-  date_note: 大安三年
-  date_note_en: 大安三年
-  title: 野狐岭之败
-  title_en: Defeat at Yehuling
-  summary: 章宗崩，允济即位，改元大安。
-  summary_en: He succeeded upon Zhangzong's death, era Da'an.
-  place_id: null
-  related_person_ids: []
+- year: '1208'
+  date_note: 大安元年
+  date_note_en: Da'an 1
+  title: 即位
+  title_en: Accession
+  summary: 章宗崩，允济即位。
+  summary_en: He succeeded upon Zhangzong's death.
+  place_id: jin-zhong-du
+  related_person_ids:
+  - jin-zhang-zong
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E002
 - year: '1211'
   date_note: 大安三年
-  date_note_en: 大安三年
+  date_note_en: Da'an 3
   title: 野狐岭之败
   title_en: Defeat at Yehuling
-  summary: 蒙古大举南下，野狐岭、会河堡连败，金军精锐尽丧。
-  summary_en: The Mongols swept south; at Yehuling and Huihebao the Jin elite was annihilated.
+  summary: 蒙古大举南下，金军会河堡、野狐岭连败，精锐尽丧，中都震动（卫绍王遣将，本人未临阵）。
+  summary_en: The Mongols swept south; the Jin elite was annihilated at Huihebao and Yehuling, shaking Zhongdu.
   place_id: null
-  related_person_ids: []
+  related_person_ids:
+  - yuan-tai-zu
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E003
-- year: '1213'
-  date_note: 至宁元年
-  date_note_en: 至宁元年
-  title: 被弑
-  title_en: Assassinated
-  summary: 蒙古围中都，金乞和；朝野离心。
-  summary_en: Mongol armies besieged Zhongdu; Jin sued for peace and the court fell apart.
-  place_id: null
+- year: '1212'
+  date_note: 崇庆中
+  date_note_en: Chongqing era
+  title: 中都被围
+  title_en: Zhongdu Besieged
+  summary: 蒙古围中都，金势大蹙。
+  summary_en: The Mongols besieged Zhongdu; Jin's position collapsed.
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E004
 - year: '1213'
   date_note: 至宁元年
-  date_note_en: 至宁元年
+  date_note_en: Zhinin 1
   title: 被弑
   title_en: Assassinated
-  summary: 至宁元年，纥石烈执中弑帝于邸。
-  summary_en: In 1213 Heshilie Zhizhong killed him at his residence.
-  place_id: zhong-du
-  related_person_ids: []
+  summary: 至宁元年八月，纥石烈执中（胡沙虎）弑帝于邸，立宣宗。
+  summary_en: In 1213 Heshilie Zhizhong killed him at his residence and raised Xuanzong.
+  place_id: jin-zhong-du
+  related_person_ids:
+  - jin-xuan-zong
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E005
 - year: '1213'
   date_note: 史评
   date_note_en: verdict of the histories
-  title: 卫绍王总评
+  title: 卫绍总评
   title_en: Verdict on Weishao
-  summary: 身遭大变而措置无方，金室之衰自此而始。
-  summary_en: Overwhelmed by crisis, he marks the start of Jin's collapse.
+  summary: 柔弱而遭大变，举措失措，为蒙古所乘，身死国弱，金室之衰自此而始。
+  summary_en: Mild and overwhelmed by crisis, he lost both his life and his state; Jin's decline began here.
   place_id: null
   related_person_ids: []
   sources:
-  - 金史·本纪
-  - 金史·相关列传
+  - 金史·卷13·卫绍王纪
   card_id: E006
 relations:
 - type: predecessor
@@ -139,8 +137,18 @@ relations:
 routes:
 - group: 都城
   order: 1
+  year: '1208'
+  place_id: jin-zhong-du
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1212'
+  place_id: jin-zhong-du
+  event: 中都被围
+- group: 都城
+  order: 3
   year: '1213'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 被弑
 sources:
 - title: 金史

@@ -1,0 +1,164 @@
+id: yuan-tai-zong
+tier: emperor
+sort_key: 元-002
+names:
+  display: 元太宗
+  display_en: Ogedei Khan
+  personal: 孛儿只斤窝阔台
+  personal_en: Borjigin Ogedei
+  temple: 太宗
+  posthumous: 英文皇帝
+  aliases:
+  - 窝阔台汗
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 2
+reign:
+  start: '1229'
+  end: '1241'
+  eras:
+  - 窝阔台
+life:
+  birth: '1186'
+  death: '1241'
+  birth_place_id: null
+  death_place_id: null
+summary: 太祖第三子，1229年即汗位；联宋灭金，重用耶律楚材行汉法，遣拔都西征，帝国达于极盛。
+summary_en: Third son of Genghis Khan, he took the throne in 1229, destroyed Jin with Song help, employed Yelü Chucai for Chinese governance, and sent Batu west, bringing the empire to its height.
+tags:
+- 联宋灭金
+- 耶律楚材
+- 拔都西征
+- 行汉法
+tags_en:
+- Destruction of Jin
+- Yelü Chucai
+- Batu's Western March
+- Chinese Governance
+portrait:
+  primary: assets/portraits/yuan-tai-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-tai-zong.md
+timeline:
+- year: '1186'
+  date_note: 约年
+  date_note_en: 约年
+  title: 生
+  title_en: Birth
+  summary: 太祖第三子，有智谋，长于政务。
+  summary_en: Third son of Genghis Khan, shrewd and given to governance.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1229'
+  date_note: 元年
+  date_note_en: first year
+  title: 即位
+  title_en: Accession
+  summary: 忽里台推戴即位，定都和林，立中书省。
+  summary_en: Raised by the kurultai, he fixed the capital at Karakorum and set up the Secretariat.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1234'
+  date_note: 六年
+  date_note_en: 六年
+  title: 灭金
+  title_en: Destruction of Jin
+  summary: 联宋灭金于蔡州，金亡（窝阔台本人未至蔡州，塔察儿等指挥）。
+  summary_en: With Song he destroyed Jin at Caizhou (he himself did not reach Caizhou; the siege fell to his generals).
+  place_id: cai-zhou
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1236'
+  date_note: 八年
+  date_note_en: 八年
+  title: 拔都西征
+  title_en: Batu's Western March
+  summary: 遣拔都率军西征，灭钦察、破斡罗思诸公国。
+  summary_en: He sent Batu westward to destroy the Qipchaq and break the Rus principalities.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1241'
+  date_note: 十三年
+  date_note_en: 十三年
+  title: 太宗崩
+  title_en: Death of Taizong
+  summary: 崩于和林，乃马真后摄政。
+  summary_en: He died at Karakorum; Empress Toregene ruled in the interval.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1241'
+  date_note: 制度
+  date_note_en: institution
+  title: 耶律楚材
+  title_en: Yelü Chucai
+  summary: 用耶律楚材，定赋税、行汉法，为元朝制度之基。
+  summary_en: With Yelü Chucai he set taxes and Chinese institutions, the basis of Yuan rule.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-tai-zu
+  note: 太祖第三子，拖雷监国二年后即位
+- type: successor
+  target_id: yuan-ding-zong
+  note: 十三年崩，子贵由1246年即位（乃马真后摄政其间）
+- type: rival
+  target_id: jin-ai-zong
+  note: 六年联宋灭金于蔡州，哀宗自缢，金亡
+routes:
+- group: 都城
+  order: 1
+  year: '1229'
+  place_id: helin
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1234'
+  place_id: cai-zhou
+  event: 灭金
+- group: 都城
+  order: 3
+  year: '1241'
+  place_id: helin
+  event: 太宗崩
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 元朝第二位皇帝，正史立纪。
+  synced_from_cards: true

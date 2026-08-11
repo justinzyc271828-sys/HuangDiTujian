@@ -78,12 +78,12 @@ timeline:
   - 金史·相关列传
   card_id: E002
 - year: '1138'
-  date_note: 天眷元年
-  date_note_en: 天眷元年
-  title: 颁新官制
-  title_en: New Official System
-  summary: 天眷改制，颁行汉式官品，设尚书省六部。
-  summary_en: The Tianjuan reforms issued Chinese-style ranks and the Six Ministries under the Secretariat.
+  date_note: 天眷中
+  date_note_en: Tianjuan era
+  title: 官制汉化
+  title_en: Sinicization of the Official System
+  summary: 改官制、用汉仪、颁新字，设尚书省六部，汉式官僚体系确立。
+  summary_en: He reformed the official system, adopted Han ceremonial, issued new script, and set up the Six Ministries, establishing a Chinese-style bureaucracy.
   place_id: huining
   related_person_ids: []
   sources:
@@ -142,21 +142,16 @@ relations:
 routes:
 - group: 都城
   order: 1
-  year: '1119'
-  place_id: huining
-  event: 生
-- group: 都城
-  order: 2
   year: '1135'
   place_id: huining
   event: 即位
-- group: 都城
-  order: 3
+- group: 其他
+  order: 2
   year: '1138'
   place_id: huining
-  event: 颁新官制
+  event: 官制汉化
 - group: 都城
-  order: 4
+  order: 3
   year: '1149'
   place_id: huining
   event: 被弑

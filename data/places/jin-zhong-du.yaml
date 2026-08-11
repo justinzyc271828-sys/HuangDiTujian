@@ -1,0 +1,12 @@
+id: jin-zhong-du
+names:
+  historical: 中都
+  modern: 今北京
+  english: Zhongdu (Jin)
+coords:
+  lng: 116.4
+  lat: 39.9
+  precision: approximate
+map:
+  region: ''
+notes: 金中都大兴府，海陵王迁都处，今北京城区西南。

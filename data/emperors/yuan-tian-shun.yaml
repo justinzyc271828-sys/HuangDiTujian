@@ -1,0 +1,161 @@
+id: yuan-tian-shun
+tier: quasi
+sort_key: 元-010
+names:
+  display: 天顺帝
+  display_en: Emperor Tianshun of Yuan
+  personal: 孛儿只斤阿速吉八
+  personal_en: Borjigin Arigaba
+  temple: ''
+  posthumous: ''
+  aliases:
+  - 天顺帝
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 10
+reign:
+  start: '1328'
+  end: '1328'
+  eras:
+  - 天顺
+life:
+  birth: '1320'
+  death: '1328'
+  birth_place_id: null
+  death_place_id: null
+summary: 泰定帝之子，上都即位一月而两都之战败，下落不明；元史未立本纪，图鉴以准帝收录。
+summary_en: Son of Taiding, he reigned one month at Shangdu before losing the Two-Capital War and vanishing; no biography in the Yuan History, here included as a quasi-emperor.
+tags:
+- 两都之战
+- 上都即位
+- 天顺
+- 准帝
+tags_en:
+- Two-Capital War
+- Enthroned at Shangdu
+- Tianshun
+- Quasi-Emperor
+portrait:
+  primary: assets/portraits/yuan-tian-shun/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-tian-shun.md
+timeline:
+- year: '1320'
+  date_note: 约年
+  date_note_en: 约年
+  title: 生
+  title_en: Birth
+  summary: 泰定帝之子。
+  summary_en: Son of Emperor Taiding.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1328'
+  date_note: 天顺元年
+  date_note_en: 天顺元年
+  title: 上都即位
+  title_en: Enthroned at Shangdu
+  summary: 泰定帝崩于上都，阿速吉八即位于上都，改元天顺。
+  summary_en: He was enthroned at Shangdu after his father's death, era Tianshun.
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1328'
+  date_note: 战中
+  date_note_en: during the war
+  title: 倒剌沙专权
+  title_en: Dawlat Shah in Power
+  summary: 倒剌沙等专权于上都。
+  summary_en: Dawlat Shah and others dominated Shangdu.
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1328'
+  date_note: 同年
+  date_note_en: same year
+  title: 两都之战败
+  title_en: Two-Capital War Lost
+  summary: 两都之战败，上都陷，天顺帝不知所终。
+  summary_en: The Two-Capital War was lost; Shangdu fell and the emperor vanished.
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1328'
+  date_note: 名分
+  date_note_en: status
+  title: 准帝
+  title_en: Quasi-Emperor
+  summary: 元史无本纪，正统系于大都一系；本图鉴以准帝收录。
+  summary_en: No biography in the Yuan History; legitimacy ran through Dadu, and this atlas admits him as a quasi-emperor.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1328'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 天顺总评
+  title_en: Verdict on Tianshun
+  summary: 一月之帝，两都之争的注脚。
+  summary_en: An emperor of one month, footnote to the Two-Capital War.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-tai-ding
+  note: 泰定帝子，致和元年即位于上都
+- type: successor
+  target_id: yuan-wen-zong
+  note: 两都之战败，上都降，被废（下落不明）；文宗即真
+routes:
+- group: 都城
+  order: 1
+  year: '1328'
+  place_id: shang-du
+  event: 上都即位
+- group: 都城
+  order: 2
+  year: '1328'
+  place_id: shang-du
+  event: 倒剌沙专权
+- group: 都城
+  order: 3
+  year: '1328'
+  place_id: shang-du
+  event: 两都之战败
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 两都之战上都政权之主，图鉴以准帝收录。
+  synced_from_cards: true

@@ -1,0 +1,175 @@
+id: ming-cheng-zu
+tier: emperor
+sort_key: 明-003
+names:
+  display: 明成祖
+  display_en: Emperor Chengzu of Ming
+  personal: 朱棣
+  personal_en: Zhu Di
+  temple: 成祖
+  posthumous: 文皇帝
+  aliases:
+  - 永乐皇帝
+  - 燕王
+dynasty:
+  id: ming
+  label: 明
+  sequence: 3
+reign:
+  start: '1402'
+  end: '1424'
+  eras:
+  - 永乐
+life:
+  birth: '1360'
+  death: '1424'
+  birth_place_id: null
+  death_place_id: null
+summary: 以靖难夺位，五征漠北、迁都北京、遣郑和下西洋，永乐之世号为全盛，然夺位之疑终身不释。
+summary_en: He took the throne by the Jingnan war, campaigned five times into the steppe, moved the capital to Beijing, and sent Zheng He across the seas; the Yongle age was one of grandeur, though his seizure of the throne shadowed his life.
+tags:
+- 靖难夺位
+- 迁都北京
+- 郑和下西洋
+- 五征漠北
+tags_en:
+- Jingnan Seizure
+- Capital at Beijing
+- Zheng He
+- Five Steppe Campaigns
+portrait:
+  primary: assets/portraits/ming-cheng-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/ming-cheng-zu.md
+timeline:
+- year: '1360'
+  date_note: 至正二十年
+  date_note_en: 至正二十年
+  title: 生
+  title_en: Birth
+  summary: 太祖第四子，封燕王，镇北平。
+  summary_en: Fourth son of Taizu, Prince of Yan, guarding Beiping.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E001
+- year: '1399'
+  date_note: 建文元年
+  date_note_en: 建文元年
+  title: 靖难起兵
+  title_en: The Jingnan Rising
+  summary: 以「靖难」为名起兵，称帝前本人统军南下（刘裕先例，本人临阵）。
+  summary_en: He rose in the "Jingnan" war, commanding the armies in person before taking the throne.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E002
+- year: '1402'
+  date_note: 建文四年
+  date_note_en: 建文四年
+  title: 即位
+  title_en: Accession
+  summary: 入南京即位，改元永乐，诛方孝孺等。
+  summary_en: He took the throne at Nanjing, era Yongle, executing Fang Xiaoru and others.
+  place_id: ying-tian
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E003
+- year: '1405'
+  date_note: 永乐三年
+  date_note_en: 永乐三年
+  title: 郑和出海
+  title_en: Zheng He Sails
+  summary: 遣郑和七下西洋，扬威海上。
+  summary_en: He sent Zheng He on seven voyages, spreading Ming prestige at sea.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E004
+- year: '1421'
+  date_note: 永乐十九年
+  date_note_en: 永乐十九年
+  title: 迁都北京
+  title_en: Capital at Beijing
+  summary: 迁都北京，以天子守国门。
+  summary_en: He moved the capital to Beijing, the Son of Heaven guarding the gate.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E005
+- year: '1424'
+  date_note: 永乐二十二年
+  date_note_en: 永乐二十二年
+  title: 成祖崩
+  title_en: Death of Chengzu
+  summary: 崩于榆木川北征归途，子仁宗继。
+  summary_en: He died at Yumuchuan returning from the northern campaign.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E006
+- year: '1424'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 成祖总评
+  title_en: Verdict on Chengzu
+  summary: 雄才大略、文治武功并盛，而篡位之疑千古。
+  summary_en: Gifted in war and governance, yet the usurpation stains his name.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: ming-hui-di
+  note: 建文四年靖难入南京，夺位称帝
+- type: successor
+  target_id: ming-ren-zong
+  note: 永乐二十二年崩于榆木川，子高炽即位
+routes:
+- group: 亲征
+  order: 1
+  year: '1399'
+  place_id: bei-jing
+  event: 靖难起兵
+- group: 都城
+  order: 2
+  year: '1402'
+  place_id: ying-tian
+  event: 即位
+- group: 都城
+  order: 3
+  year: '1421'
+  place_id: bei-jing
+  event: 迁都北京
+sources:
+- title: 明史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 明朝第三位皇帝，正史立纪。
+  synced_from_cards: true

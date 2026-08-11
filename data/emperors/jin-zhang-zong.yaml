@@ -71,7 +71,7 @@ timeline:
   title_en: Accession
   summary: 世宗崩，璟即位，改元明昌。
   summary_en: He succeeded upon Shizong's death, era Mingchang.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -97,7 +97,7 @@ timeline:
   title_en: 章宗崩
   summary: 崩，无子，叔允济即位。
   summary_en: He died without issue; his uncle Yunji succeeded.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -110,7 +110,7 @@ timeline:
   title_en: Rites and Music
   summary: 修礼乐、定礼仪，金之汉化至此极盛。
   summary_en: He compiled rites and music, carrying Jin's Sinicization to its peak.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -140,12 +140,12 @@ routes:
 - group: 都城
   order: 1
   year: '1189'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 即位
 - group: 都城
   order: 2
   year: '1208'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 章宗崩
 sources:
 - title: 金史

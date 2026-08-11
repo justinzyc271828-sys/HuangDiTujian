@@ -1,0 +1,161 @@
+id: ming-mu-zong
+tier: emperor
+sort_key: 明-013
+names:
+  display: 明穆宗
+  display_en: Emperor Muzong of Ming
+  personal: 朱载垕
+  personal_en: Zhu Zaihou
+  temple: 穆宗
+  posthumous: 庄皇帝
+  aliases:
+  - 隆庆皇帝
+dynasty:
+  id: ming
+  label: 明
+  sequence: 13
+reign:
+  start: '1566'
+  end: '1572'
+  eras:
+  - 隆庆
+life:
+  birth: '1537'
+  death: '1572'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 世宗之子，用徐阶、高拱、张居正；俺答封贡，隆庆开关，北边晏然。
+summary_en: Son of Shizong, he employed Xu Jie, Gao Gong, and Zhang Juzheng; Altan Khan was enfeoffed, the ports reopened, and the northern border rested.
+tags:
+- 俺答封贡
+- 隆庆开关
+- 高拱
+- 张居正
+tags_en:
+- Altan Enfeoffed
+- Ports Reopened
+- Gao Gong
+- Zhang Juzheng
+portrait:
+  primary: assets/portraits/ming-mu-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/ming-mu-zong.md
+timeline:
+- year: '1537'
+  date_note: 嘉靖十六年
+  date_note_en: 嘉靖十六年
+  title: 生
+  title_en: Birth
+  summary: 世宗第三子，封裕王。
+  summary_en: Third son of Shizong, Prince Yu.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E001
+- year: '1566'
+  date_note: 嘉靖四十五年
+  date_note_en: 嘉靖四十五年
+  title: 即位
+  title_en: Accession
+  summary: 世宗崩，载垕即位，改元隆庆。
+  summary_en: He took the throne after Shizong's death, era Longqing.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E002
+- year: '1567'
+  date_note: 隆庆元年
+  date_note_en: 隆庆元年
+  title: 用高拱
+  title_en: Gao Gong Raised
+  summary: 用高拱为内阁首辅，政务振刷。
+  summary_en: Gao Gong led the Grand Secretariat with energy.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E003
+- year: '1571'
+  date_note: 隆庆五年
+  date_note_en: 隆庆五年
+  title: 俺答封贡
+  title_en: Altan Enfeoffed
+  summary: 俺答封贡，通贡互市，北边宁息。
+  summary_en: Altan Khan was enfeoffed and markets opened; the north rested.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E004
+- year: '1572'
+  date_note: 隆庆六年
+  date_note_en: 隆庆六年
+  title: 穆宗崩
+  title_en: Death of Muzong
+  summary: 崩于北京，子神宗继。
+  summary_en: He died at Beijing; his son Shenzong succeeded.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E005
+- year: '1572'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 穆宗总评
+  title_en: Verdict on Muzong
+  summary: 在位六载，除弊振纲，为明中晚之善政。
+  summary_en: Six years of sound governance in a declining age.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: ming-shi-zong
+  note: 世宗第三子，嘉靖四十五年即位
+- type: successor
+  target_id: ming-shen-zong
+  note: 隆庆六年崩，子翊钧即位
+routes:
+- group: 都城
+  order: 1
+  year: '1566'
+  place_id: bei-jing
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1567'
+  place_id: bei-jing
+  event: 用高拱
+- group: 都城
+  order: 3
+  year: '1572'
+  place_id: bei-jing
+  event: 穆宗崩
+sources:
+- title: 明史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 明朝第十三位皇帝，正史立纪。
+  synced_from_cards: true

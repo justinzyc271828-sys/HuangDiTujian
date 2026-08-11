@@ -1,0 +1,170 @@
+id: yuan-wen-zong
+tier: emperor
+sort_key: 元-011
+names:
+  display: 元文宗
+  display_en: Emperor Wenzong of Yuan
+  personal: 孛儿只斤图帖睦尔
+  personal_en: Borjigin Tugh Temur
+  temple: 文宗
+  posthumous: 圣明元孝皇帝
+  aliases:
+  - 文宗皇帝
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 11
+reign:
+  start: '1328'
+  end: '1332'
+  eras:
+  - 天历
+  - 至顺
+life:
+  birth: '1304'
+  death: '1332'
+  birth_place_id: null
+  death_place_id: null
+summary: 武宗次子，两都之战后大都即位；曾让位兄明宗，明宗暴崩而复立；建奎章阁兴文教，而明宗暴崩之谜为千古疑案。
+summary_en: Second son of Wuzong, he took the throne at Dadu after the Two-Capital War, briefly yielded it to his elder brother Mingzong, and resumed it after Mingzong's sudden death; he founded the Kui-zhang Pavilion for letters, yet his brother's death remains an eternal mystery.
+tags:
+- 两都之变
+- 让位复立
+- 奎章阁
+- 明宗暴崩
+tags_en:
+- Two-Capital War
+- Yield and Return
+- Kuizhang Pavilion
+- Mingzong's Death
+portrait:
+  primary: assets/portraits/yuan-wen-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-wen-zong.md
+timeline:
+- year: '1304'
+  date_note: 大德八年
+  date_note_en: 大德八年
+  title: 生
+  title_en: Birth
+  summary: 武宗次子，长于江南。
+  summary_en: Second son of Wuzong, raised in the south.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1328'
+  date_note: 天历元年
+  date_note_en: 天历元年
+  title: 大都即位
+  title_en: Enthroned at Dadu
+  summary: 两都之战胜，即位于大都，改元天历。
+  summary_en: After the Two-Capital War he took the throne at Dadu, era Tianli.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1329'
+  date_note: 天历二年
+  date_note_en: 天历二年
+  title: 让位明宗
+  title_en: Abdication to Mingzong
+  summary: 让位明宗（天历二年，短暂让位）。
+  summary_en: The brief abdication to Mingzong in 1329.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1329'
+  date_note: 同年
+  date_note_en: same year
+  title: 复位
+  title_en: Restored
+  summary: 让位兄明宗，明宗暴崩，文宗复位于上都。
+  summary_en: He yielded to Mingzong, who died suddenly; Wenzong resumed the throne at Shangdu.
+  place_id: shang-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1332'
+  date_note: 至顺三年
+  date_note_en: 至顺三年
+  title: 文宗崩
+  title_en: Death of Wenzong
+  summary: 崩，侄宁宗即位，旋亦崩。
+  summary_en: He died; his nephew Ningzong followed and soon died.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1332'
+  date_note: 文化
+  date_note_en: culture
+  title: 奎章阁
+  title_en: Kuizhang Pavilion
+  summary: 建奎章阁，聚文士，文治可观；而兄弟之疑案千古。
+  summary_en: His Kuizhang Pavilion gathered scholars; the brother's mystery endures.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-tian-shun
+  note: 两都之战胜，大都即位
+- type: successor
+  target_id: yuan-ning-zong
+  note: 至顺三年崩，侄懿璘质班即位
+- type: kinship
+  target_id: yuan-ming-zong
+  note: 武宗长子，文宗让位之兄；明宗暴崩后文宗复位
+routes:
+- group: 都城
+  order: 1
+  year: '1328'
+  place_id: da-du
+  event: 大都即位
+- group: 都城
+  order: 2
+  year: '1329'
+  place_id: shang-du
+  event: 复位
+- group: 都城
+  order: 3
+  year: '1329'
+  place_id: da-du
+  event: 让位明宗
+- group: 都城
+  order: 4
+  year: '1332'
+  place_id: da-du
+  event: 文宗崩
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 元朝第十一位皇帝，正史立纪。
+  synced_from_cards: true

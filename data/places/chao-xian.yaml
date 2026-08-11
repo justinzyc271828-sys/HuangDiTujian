@@ -1,0 +1,12 @@
+id: chao-xian
+names:
+  historical: 朝鲜
+  modern: 今朝鲜半岛
+  english: Joseon Korea
+coords:
+  lng: 127.5
+  lat: 38.0
+  precision: schematic
+map:
+  region: ''
+notes: 朝鲜王朝；崇德元年皇太极亲征朝鲜，仁祖出降。

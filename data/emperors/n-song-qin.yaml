@@ -112,7 +112,7 @@ timeline:
   title_en: 崩于金
   summary: 北迁后绍兴三十一年崩于金地。
   summary_en: Died in Jin lands in 1161.
-  place_id: null
+  place_id: wu-guo-cheng
   related_person_ids: []
   sources:
   - 文献
@@ -157,6 +157,11 @@ routes:
   year: '1127'
   place_id: kai-feng
   event: 靖康之变
+- group: 流徙
+  order: 4
+  year: '1161'
+  place_id: wu-guo-cheng
+  event: 崩于金
 sources:
 - title: 宋史
   note: 年表主据

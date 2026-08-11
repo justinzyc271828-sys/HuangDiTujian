@@ -84,7 +84,7 @@ timeline:
   title_en: Capital at Yanjing
   summary: 迁都燕京（中都），下令毁会宁旧宫。
   summary_en: He moved the capital to Yanjing (Zhongdu) and razed the old palace at Huining.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -145,7 +145,7 @@ routes:
 - group: 都城
   order: 2
   year: '1153'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 迁都燕京
 - group: 亲征
   order: 3

@@ -131,7 +131,7 @@ timeline:
   title_en: 崩于五国城
   summary: 靖康二年被掳北迁，绍兴五年崩于五国城。
   summary_en: Taken north in the Jingkang disaster, he died at Wuguocheng in 1135.
-  place_id: null
+  place_id: wu-guo-cheng
   related_person_ids: []
   sources:
   - 文献
@@ -181,6 +181,11 @@ routes:
   year: undated
   place_id: kai-feng
   event: 书画
+- group: 流徙
+  order: 5
+  year: '1135'
+  place_id: wu-guo-cheng
+  event: 崩于五国城
 sources:
 - title: 宋史
   note: 年表主据

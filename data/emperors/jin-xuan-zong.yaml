@@ -71,7 +71,7 @@ timeline:
   title_en: Accession
   summary: 纥石烈执中弑卫绍王，立珣，改元贞祐。
   summary_en: Heshilie Zhizhong killed Weishao and raised Xun, era Zhenyou.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -140,7 +140,7 @@ routes:
 - group: 都城
   order: 1
   year: '1213'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 即位
 - group: 都城
   order: 2

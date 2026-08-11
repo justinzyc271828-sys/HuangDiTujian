@@ -1,0 +1,184 @@
+id: ming-shen-zong
+tier: emperor
+sort_key: 明-014
+names:
+  display: 明神宗
+  display_en: Emperor Shenzong of Ming
+  personal: 朱翊钧
+  personal_en: Zhu Yijun
+  temple: 神宗
+  posthumous: 显皇帝
+  aliases:
+  - 万历皇帝
+dynasty:
+  id: ming
+  label: 明
+  sequence: 14
+reign:
+  start: '1572'
+  end: '1620'
+  eras:
+  - 万历
+life:
+  birth: '1563'
+  death: '1620'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 穆宗之子，张居正辅政行万历新政；居正卒后怠政，矿税之祸、党争之炽，萨尔浒之败为明亡之兆。
+summary_en: Son of Muzong, he enacted the Wanli reforms under Zhang Juzheng, then after Juzheng's death lapsed into neglect - the mining-tax abuses, factional warfare, and the Sarhu defeat all foretold the fall.
+tags:
+- 万历新政
+- 张居正
+- 矿税
+- 萨尔浒
+tags_en:
+- Wanli Reforms
+- Zhang Juzheng
+- Mining Taxes
+- Sarhu
+portrait:
+  primary: assets/portraits/ming-shen-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/ming-shen-zong.md
+timeline:
+- year: '1563'
+  date_note: 嘉靖四十二年
+  date_note_en: 嘉靖四十二年
+  title: 生
+  title_en: Birth
+  summary: 穆宗之子，十岁即位。
+  summary_en: Son of Muzong, enthroned at ten.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E001
+- year: '1572'
+  date_note: 隆庆六年
+  date_note_en: 隆庆六年
+  title: 即位
+  title_en: Accession
+  summary: 即位，张居正为顾命辅政。
+  summary_en: He ascended with Zhang Juzheng as guardian.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E002
+- year: '1582'
+  date_note: 万历十年
+  date_note_en: 万历十年
+  title: 居正卒
+  title_en: Juzheng Dies
+  summary: 居正卒，新政渐废，帝怠于政事。
+  summary_en: Juzheng died; the reforms lapsed and the emperor withdrew.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E003
+- year: '1592'
+  date_note: 万历二十年
+  date_note_en: 万历二十年
+  title: 三大征
+  title_en: The Three Campaigns
+  summary: 万历三大征（宁夏、播州、朝鲜），均遣将，帝未亲征。
+  summary_en: The Three Great Campaigns were fought by generals, not by the emperor.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E004
+- year: '1619'
+  date_note: 万历四十七年
+  date_note_en: 万历四十七年
+  title: 萨尔浒
+  title_en: Sarhu
+  summary: 萨尔浒之役明军大败于后金，辽东之势遂倾。
+  summary_en: The Sarhu defeat broke the Ming hold on Liaodong.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E005
+- year: '1620'
+  date_note: 万历四十八年
+  date_note_en: 万历四十八年
+  title: 神宗崩
+  title_en: Death of Shenzong
+  summary: 崩于北京，子光宗继。
+  summary_en: He died at Beijing; his son Guangzong succeeded.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E006
+- year: '1620'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 神宗总评
+  title_en: Verdict on Shenzong
+  summary: 前十年之治与后三十年之怠判若两朝，明之亡种于万历。
+  summary_en: 'Two reigns in one: the first decade governed, the last thirty neglected; the fall was seeded here.'
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 明史·本纪
+  - 明史·相关列传
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: ming-mu-zong
+  note: 穆宗子，隆庆六年即位
+- type: successor
+  target_id: ming-guang-zong
+  note: 万历四十八年崩，子常洛即位
+routes:
+- group: 都城
+  order: 1
+  year: '1572'
+  place_id: bei-jing
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1582'
+  place_id: bei-jing
+  event: 居正卒
+- group: 其他
+  order: 3
+  year: '1592'
+  place_id: liaodong
+  event: 三大征
+- group: 其他
+  order: 4
+  year: '1619'
+  place_id: sa-er-hu
+  event: 萨尔浒
+- group: 都城
+  order: 5
+  year: '1620'
+  place_id: bei-jing
+  event: 神宗崩
+sources:
+- title: 明史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 明朝第十四位皇帝，正史立纪。
+  synced_from_cards: true

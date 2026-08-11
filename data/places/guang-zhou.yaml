@@ -1,0 +1,12 @@
+id: guang-zhou
+names:
+  historical: 广州
+  modern: 今广东广州
+  english: Guangzhou
+coords:
+  lng: 113.26
+  lat: 23.13
+  precision: approximate
+map:
+  region: ''
+notes: 广州府，虎门销烟处，今广州。

@@ -1,0 +1,12 @@
+id: da-li
+names:
+  historical: 大理
+  modern: 今云南大理
+  english: Dali
+coords:
+  lng: 100.27
+  lat: 25.61
+  precision: approximate
+map:
+  region: ''
+notes: 大理国都，蒙哥遣忽必烈破大理、灭其国，今云南大理。

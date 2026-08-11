@@ -1,0 +1,156 @@
+id: yuan-ding-zong
+tier: emperor
+sort_key: 元-003
+names:
+  display: 元定宗
+  display_en: Guyuk Khan
+  personal: 孛儿只斤贵由
+  personal_en: Borjigin Guyuk
+  temple: 定宗
+  posthumous: 简平皇帝
+  aliases:
+  - 贵由汗
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 3
+reign:
+  start: '1246'
+  end: '1248'
+  eras:
+  - 贵由
+life:
+  birth: '1206'
+  death: '1248'
+  birth_place_id: null
+  death_place_id: null
+summary: 太宗长子，乃马真后摄政四年后即位；在位仅两年，汗位再虚，帝国中枢渐有裂痕。
+summary_en: Eldest son of Ogedei, he took the throne after Toregene's four-year regency and reigned only two years, leaving the succession vacant again and the empire's center cracking.
+tags:
+- 乃马真摄政
+- 遣使欧洲
+- 汗位空虚
+- 短祚
+tags_en:
+- Toregene's Regency
+- Envoys to Europe
+- Vacant Throne
+- Brief Reign
+portrait:
+  primary: assets/portraits/yuan-ding-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-ding-zong.md
+timeline:
+- year: '1206'
+  date_note: 约年
+  date_note_en: 约年
+  title: 生
+  title_en: Birth
+  summary: 太宗长子，随拔都西征有战功。
+  summary_en: Eldest son of Ogedei, he earned renown in Batu's western march.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1246'
+  date_note: 元年
+  date_note_en: first year
+  title: 即位
+  title_en: Accession
+  summary: 乃马真后主持忽里台，贵由即位。
+  summary_en: Toregene's kurultai raised Guyuk to the throne.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1247'
+  date_note: 二年
+  date_note_en: 二年
+  title: 遣使欧洲
+  title_en: Envoys to Europe
+  summary: 遣使者出使欧洲教廷，东西交通于此更通。
+  summary_en: He sent envoys to the papal court, opening east-west contact.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1248'
+  date_note: 三年
+  date_note_en: 三年
+  title: 定宗崩
+  title_en: Death of Dingzong
+  summary: 西巡途中崩于横相乙儿。
+  summary_en: He died while traveling west at Qum-Sengir.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1248'
+  date_note: 政局
+  date_note_en: politics
+  title: 汗位空虚
+  title_en: The Vacant Throne
+  summary: 崩后汗位空虚三年，诸王各怀异志。
+  summary_en: His death left the throne vacant three years as the princes maneuvered.
+  place_id: helin
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1248'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 定宗总评
+  title_en: Verdict on Dingzong
+  summary: 在位日浅，汗统中微，帝国向心之势渐衰。
+  summary_en: A short reign that weakened the khaganate's cohesion.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-tai-zong
+  note: 太宗长子，乃马真后摄政四年后即位
+- type: successor
+  target_id: yuan-xian-zong
+  note: 崩后汗位空虚三年，1251年蒙哥即位
+routes:
+- group: 都城
+  order: 1
+  year: '1246'
+  place_id: helin
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1247'
+  place_id: helin
+  event: 遣使欧洲
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 元朝第三位皇帝，正史立纪。
+  synced_from_cards: true

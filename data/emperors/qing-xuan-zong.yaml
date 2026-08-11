@@ -1,0 +1,161 @@
+id: qing-xuan-zong
+tier: emperor
+sort_key: 清-008
+names:
+  display: 清宣宗
+  display_en: Emperor Xuanzong of Qing (Daoguang)
+  personal: 爱新觉罗旻宁
+  personal_en: Aisin Gioro Minning
+  temple: 宣宗
+  posthumous: 成皇帝
+  aliases:
+  - 道光帝
+dynasty:
+  id: qing
+  label: 清
+  sequence: 8
+reign:
+  start: '1820'
+  end: '1850'
+  eras:
+  - 道光
+life:
+  birth: '1782'
+  death: '1850'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 虎门销烟而鸦片战争败，江宁条约开五口通商，道光之世为近代变局之始。
+summary_en: The opium burned at Humen, the Opium War lost, the Treaty of Nanjing opening five ports - the Daoguang reign began the modern transformation.
+tags:
+- 虎门销烟
+- 鸦片战争
+- 江宁条约
+- 五口通商
+tags_en:
+- Humen Burning
+- Opium War
+- Treaty of Nanjing
+- Five Ports
+portrait:
+  primary: assets/portraits/qing-xuan-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qing-xuan-zong.md
+timeline:
+- year: '1782'
+  date_note: 乾隆四十七年
+  date_note_en: 乾隆四十七年
+  title: 生
+  title_en: Birth
+  summary: 仁宗次子，封智亲王。
+  summary_en: Second son of Renzong, Prince Zhi.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E001
+- year: '1820'
+  date_note: 嘉庆二十五年
+  date_note_en: 嘉庆二十五年
+  title: 即位
+  title_en: Accession
+  summary: 仁宗崩，旻宁即位，改元道光。
+  summary_en: He took the throne after Renzong's death, era Daoguang.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E002
+- year: '1839'
+  date_note: 道光十九年
+  date_note_en: 道光十九年
+  title: 虎门销烟
+  title_en: Humen Burning
+  summary: 林则徐虎门销烟。
+  summary_en: Lin Zexu burned the opium at Humen.
+  place_id: guang-zhou
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E003
+- year: '1840'
+  date_note: 道光二十年
+  date_note_en: 道光二十年
+  title: 鸦片战争
+  title_en: Opium War
+  summary: 鸦片战争败，江宁条约成，五口通商。
+  summary_en: The Opium War was lost; the Treaty of Nanjing opened the five ports.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E004
+- year: '1850'
+  date_note: 道光三十年
+  date_note_en: 道光三十年
+  title: 宣宗崩
+  title_en: Death of Xuanzong
+  summary: 崩于北京，子文宗继。
+  summary_en: He died at Beijing; his son Wenzong succeeded.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E005
+- year: '1850'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 宣宗总评
+  title_en: Verdict on Xuanzong
+  summary: 厉行节俭而时势已变，以老大帝国初逢巨变。
+  summary_en: Frugal to austerity, he met the great change as the old empire woke.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: qing-ren-zong
+  note: 仁宗次子，嘉庆二十五年即位
+- type: successor
+  target_id: qing-wen-zong
+  note: 道光三十年崩，第四子奕詝即位
+routes:
+- group: 都城
+  order: 1
+  year: '1820'
+  place_id: bei-jing
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1839'
+  place_id: guang-zhou
+  event: 虎门销烟
+- group: 都城
+  order: 3
+  year: '1850'
+  place_id: bei-jing
+  event: 宣宗崩
+sources:
+- title: 清史稿
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 清朝第八位皇帝，正史立纪。
+  synced_from_cards: true

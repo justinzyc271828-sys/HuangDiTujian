@@ -95,7 +95,7 @@ timeline:
   title_en: Dading Governance
   summary: 戒奢侈、重农桑，大定之治号为小尧舜。
   summary_en: He curbed luxury and prized farming; his Dading governance was praised as "Little Yao and Shun."
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -108,7 +108,7 @@ timeline:
   title_en: 世宗崩
   summary: 崩于中都，孙璟继。
   summary_en: He died at Zhongdu; his grandson Jing succeeded.
-  place_id: zhong-du
+  place_id: jin-zhong-du
   related_person_ids: []
   sources:
   - 金史·本纪
@@ -146,12 +146,12 @@ routes:
 - group: 其他
   order: 2
   year: '1170'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 大定之治
 - group: 都城
   order: 3
   year: '1189'
-  place_id: zhong-du
+  place_id: jin-zhong-du
   event: 世宗崩
 sources:
 - title: 金史

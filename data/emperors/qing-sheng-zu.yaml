@@ -1,0 +1,197 @@
+id: qing-sheng-zu
+tier: emperor
+sort_key: 清-004
+names:
+  display: 清圣祖
+  display_en: Emperor Shengzu of Qing (Kangxi)
+  personal: 爱新觉罗玄烨
+  personal_en: Aisin Gioro Xuanye
+  temple: 圣祖
+  posthumous: 仁皇帝
+  aliases:
+  - 康熙帝
+dynasty:
+  id: qing
+  label: 清
+  sequence: 4
+reign:
+  start: '1661'
+  end: '1722'
+  eras:
+  - 康熙
+life:
+  birth: '1654'
+  death: '1722'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 八岁即位，擒鳌拜、平三藩、收台湾、定喀尔喀，亲征噶尔丹；康熙之治号为千古一帝。
+summary_en: Enthroned at eight, he seized Oboi, crushed the Three Feudatories, took Taiwan, settled the Khalkha, and campaigned in person against Galdan - the Kangxi reign, "the greatest emperor."
+tags:
+- 擒鳌拜
+- 平三藩
+- 统一台湾
+- 亲征噶尔丹
+tags_en:
+- Oboi Seized
+- Three Feudatories
+- Taiwan United
+- Galdan Campaign
+portrait:
+  primary: assets/portraits/qing-sheng-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qing-sheng-zu.md
+timeline:
+- year: '1654'
+  date_note: 顺治十一年
+  date_note_en: 顺治十一年
+  title: 生
+  title_en: Birth
+  summary: 世祖第三子，八岁即位。
+  summary_en: Third son of Shizu, enthroned at eight.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E001
+- year: '1661'
+  date_note: 顺治十八年
+  date_note_en: 顺治十八年
+  title: 即位
+  title_en: Accession
+  summary: 即位，鳌拜等四大臣辅政。
+  summary_en: He ascended under Oboi and the other regents.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E002
+- year: '1669'
+  date_note: 康熙八年
+  date_note_en: 康熙八年
+  title: 擒鳌拜
+  title_en: Oboi Seized
+  summary: 擒鳌拜，亲政。
+  summary_en: He seized Oboi and took power.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E003
+- year: '1673'
+  date_note: 康熙十二年
+  date_note_en: 康熙十二年
+  title: 三藩之乱
+  title_en: Three Feudatories
+  summary: 三藩之乱，遣将平之（康熙本人未亲征）。
+  summary_en: The Three Feudatories rose and were crushed by generals (the emperor himself did not campaign).
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E004
+- year: '1683'
+  date_note: 康熙二十二年
+  date_note_en: 康熙二十二年
+  title: 统一台湾
+  title_en: Taiwan United
+  summary: 施琅平台湾，设台湾府。
+  summary_en: Shi Lang took Taiwan; a prefecture was set there.
+  place_id: tai-wan
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E005
+- year: '1696'
+  date_note: 康熙三十五年
+  date_note_en: 康熙三十五年
+  title: 征噶尔丹
+  title_en: Galdan Campaign
+  summary: 临御六十年，文治武功并盛，为有清一代之最。
+  summary_en: Sixty years on the throne, unrivalled in the Qing in both war and governance.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E008
+- year: '1722'
+  date_note: 康熙六十一年
+  date_note_en: 康熙六十一年
+  title: 圣祖崩
+  title_en: Death of Shengzu
+  summary: 亲征噶尔丹，昭莫多之战大破之（本人出塞督师）。
+  summary_en: He campaigned in person against Galdan, routing him at Jao Modo.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E006
+- year: '1722'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 圣祖总评
+  title_en: Verdict on Shengzu
+  summary: 崩于北京，雍亲王胤禛即位。
+  summary_en: He died at Beijing; his fourth son Yinzhen succeeded.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: qing-shi-zu
+  note: 世祖第三子，顺治十八年即位，四大臣辅政
+- type: successor
+  target_id: qing-shi-zong-y
+  note: 康熙六十一年崩，第四子胤禛即位
+routes:
+- group: 都城
+  order: 1
+  year: '1661'
+  place_id: bei-jing
+  event: 即位
+- group: 都城
+  order: 2
+  year: '1669'
+  place_id: bei-jing
+  event: 擒鳌拜
+- group: 其他
+  order: 3
+  year: '1683'
+  place_id: tai-wan
+  event: 统一台湾
+- group: 亲征
+  order: 4
+  year: '1696'
+  place_id: zhao-mo-duo
+  event: 征噶尔丹
+- group: 都城
+  order: 5
+  year: '1722'
+  place_id: bei-jing
+  event: 圣祖崩
+sources:
+- title: 清史稿
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 清朝第四位皇帝，正史立纪。
+  synced_from_cards: true

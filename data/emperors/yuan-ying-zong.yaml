@@ -1,0 +1,161 @@
+id: yuan-ying-zong
+tier: emperor
+sort_key: 元-008
+names:
+  display: 元英宗
+  display_en: Emperor Yingzong of Yuan
+  personal: 孛儿只斤硕德八剌
+  personal_en: Borjigin Shidibala
+  temple: 英宗
+  posthumous: 睿圣文孝皇帝
+  aliases:
+  - 英宗皇帝
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 8
+reign:
+  start: '1320'
+  end: '1323'
+  eras:
+  - 至治
+life:
+  birth: '1303'
+  death: '1323'
+  birth_place_id: null
+  death_place_id: null
+summary: 仁宗之子，背约即位；用拜住行新政、减冗费，为「南坡之变」所弑，新政遂止。
+summary_en: Son of Renzong who succeeded against the pact, he employed Baiju to reform and cut waste until the Nanpo coup killed him and ended the reforms.
+tags:
+- 至治新政
+- 拜住
+- 南坡之变
+- 被弑
+tags_en:
+- Zhizhi Reforms
+- Baiju
+- Nanpo Coup
+- Assassinated
+portrait:
+  primary: assets/portraits/yuan-ying-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-ying-zong.md
+timeline:
+- year: '1303'
+  date_note: 大德七年
+  date_note_en: 大德七年
+  title: 生
+  title_en: Birth
+  summary: 仁宗之子，幼受汉学。
+  summary_en: Son of Renzong, schooled in Chinese learning.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1320'
+  date_note: 延祐七年
+  date_note_en: 延祐七年
+  title: 即位
+  title_en: Accession
+  summary: 仁宗崩，即位，改元至治。
+  summary_en: He took the throne after Renzong's death, era Zhizhi.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1321'
+  date_note: 至治元年
+  date_note_en: 至治元年
+  title: 改元至治
+  title_en: Era Zhizhi
+  summary: 改元至治。
+  summary_en: Era changed to Zhizhi.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1322'
+  date_note: 至治中
+  date_note_en: 至治中
+  title: 拜住为相
+  title_en: Baiju as Chancellor
+  summary: 用拜住为相，行新政、罢冗费。
+  summary_en: With Baiju as chancellor he reformed and cut waste.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1323'
+  date_note: 至治三年
+  date_note_en: 至治三年
+  title: 南坡之变
+  title_en: The Nanpo Coup
+  summary: 南坡之变，为铁失等所弑。
+  summary_en: Killed by Tieshi and others in the Nanpo coup.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1323'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 英宗总评
+  title_en: Verdict on Yingzong
+  summary: 青年新政而身死国乱，元之中衰自此。
+  summary_en: Young reformer killed in his prime; the Yuan decline began here.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-ren-zong
+  note: 仁宗子，延祐七年即位（背约传子）
+- type: successor
+  target_id: yuan-tai-ding
+  note: 至治三年南坡之变被弑，泰定帝即位
+routes:
+- group: 都城
+  order: 1
+  year: '1320'
+  place_id: da-du
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1321'
+  place_id: da-du
+  event: 改元至治
+- group: 都城
+  order: 3
+  year: '1322'
+  place_id: da-du
+  event: 拜住为相
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 元朝第九位皇帝，正史立纪。
+  synced_from_cards: true

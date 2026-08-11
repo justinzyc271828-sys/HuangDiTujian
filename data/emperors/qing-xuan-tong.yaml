@@ -1,0 +1,161 @@
+id: qing-xuan-tong
+tier: emperor
+sort_key: 清-012
+names:
+  display: 宣统帝
+  display_en: Emperor Xuantong of Qing (Puyi)
+  personal: 爱新觉罗溥仪
+  personal_en: Aisin Gioro Puyi
+  temple: ''
+  posthumous: ''
+  aliases:
+  - 溥仪
+dynasty:
+  id: qing
+  label: 清
+  sequence: 12
+reign:
+  start: '1908'
+  end: '1912'
+  eras:
+  - 宣统
+life:
+  birth: '1906'
+  death: '1967'
+  birth_place_id: null
+  death_place_id: bei-jing
+summary: 三岁即位，辛亥鼎革后逊位，帝制终结；其后经历复辟、伪满，1967 年卒于北京。
+summary_en: Enthroned at three, he abdicated after the 1911 Revolution, ending the imperial system; his later life touched the restoration and Manchukuo, and he died in Beijing in 1967.
+tags:
+- 武昌起义
+- 逊位
+- 帝制终结
+- 末代皇帝
+tags_en:
+- Wuchang Uprising
+- Abdication
+- End of Empire
+- Last Emperor
+portrait:
+  primary: assets/portraits/qing-xuan-tong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qing-xuan-tong.md
+timeline:
+- year: '1906'
+  date_note: 光绪三十二年
+  date_note_en: 光绪三十二年
+  title: 生
+  title_en: Birth
+  summary: 摄政王载沣之子，三岁即位。
+  summary_en: Son of the regent Zaifeng, enthroned at three.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E001
+- year: '1908'
+  date_note: 光绪三十四年
+  date_note_en: 光绪三十四年
+  title: 即位
+  title_en: Accession
+  summary: 即位，改元宣统，载沣摄政。
+  summary_en: He ascended, era Xuantong, with Zaifeng as regent.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E002
+- year: '1911'
+  date_note: 宣统三年
+  date_note_en: 宣统三年
+  title: 武昌起义
+  title_en: Wuchang Uprising
+  summary: 武昌起义，各省响应，清室请逊位。
+  summary_en: The Wuchang Uprising spread; the Qing sued for abdication.
+  place_id: wu-chang
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E003
+- year: '1912'
+  date_note: 宣统三年十二月
+  date_note_en: 宣统三年十二月
+  title: 逊位
+  title_en: Abdication
+  summary: 颁退位诏书，帝制终结；民国以优待条件待清室。
+  summary_en: The abdication edict ended the imperial system; the Republic granted the court favorable terms.
+  place_id: bei-jing
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E004
+- year: '1967'
+  date_note: 名分
+  date_note_en: status
+  title: 末代
+  title_en: The Last Emperor
+  summary: 末代皇帝，图鉴收官。
+  summary_en: The last emperor, closing this atlas.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E005
+- year: '1967'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 宣统总评
+  title_en: Verdict on Xuantong
+  summary: 三岁为帝，六岁逊位，一生为时代所裹挟。
+  summary_en: Emperor at three, abdicated at six, swept by the age.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 清史稿·本纪
+  - 清史稿·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: qing-de-zong
+  note: 德宗侄（摄政王载沣之子），光绪三十四年即位
+- type: successor
+  target_id: null
+  note: 宣统三年（1912）逊位，帝制终结，图鉴以溥仪为末帝收官
+routes:
+- group: 都城
+  order: 1
+  year: '1908'
+  place_id: bei-jing
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1911'
+  place_id: wu-chang
+  event: 武昌起义
+- group: 都城
+  order: 3
+  year: '1912'
+  place_id: bei-jing
+  event: 逊位
+sources:
+- title: 清史稿
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 清朝末代皇帝，正史立纪。
+  synced_from_cards: true

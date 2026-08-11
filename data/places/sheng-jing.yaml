@@ -1,0 +1,12 @@
+id: sheng-jing
+names:
+  historical: 盛京
+  modern: 今辽宁沈阳
+  english: Shengjing
+coords:
+  lng: 123.43
+  lat: 41.8
+  precision: approximate
+map:
+  region: ''
+notes: 盛京（沈阳），天命六年取沈阳后迁都于此，清入关前都城，今沈阳。

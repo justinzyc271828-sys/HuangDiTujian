@@ -1,0 +1,12 @@
+id: bei-jing
+names:
+  historical: 北京
+  modern: 今北京
+  english: Beijing
+coords:
+  lng: 116.4
+  lat: 39.9
+  precision: approximate
+map:
+  region: ''
+notes: 明北京顺天府，成祖迁都后为明都，今北京。

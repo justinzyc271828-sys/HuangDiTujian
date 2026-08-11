@@ -1,0 +1,12 @@
+id: tai-wan
+names:
+  historical: 台湾
+  modern: 今台湾
+  english: Taiwan
+coords:
+  lng: 120.96
+  lat: 23.7
+  precision: approximate
+map:
+  region: ''
+notes: 台湾，康熙二十二年施琅平台，设台湾府。

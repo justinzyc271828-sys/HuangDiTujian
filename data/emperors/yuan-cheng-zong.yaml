@@ -1,0 +1,162 @@
+id: yuan-cheng-zong
+tier: emperor
+sort_key: 元-005
+names:
+  display: 元成宗
+  display_en: Emperor Chengzong of Yuan
+  personal: 孛儿只斤铁穆耳
+  personal_en: Borjigin Temur
+  temple: 成宗
+  posthumous: 钦明广孝皇帝
+  aliases:
+  - 铁穆耳汗
+dynasty:
+  id: yuan
+  label: 元
+  sequence: 5
+reign:
+  start: '1294'
+  end: '1307'
+  eras:
+  - 元贞
+  - 大德
+life:
+  birth: '1265'
+  death: '1307'
+  birth_place_id: null
+  death_place_id: null
+summary: 世祖之孙，守成之君；与海都、笃哇之乱定，国内承平，而滥赐宗戚、财用渐绌。
+summary_en: Grandson of Khubilai and a consolidator, he ended the Qaidu-Duwa wars and kept the peace, though lavish grants to the clans drained the treasury.
+tags:
+- 守成
+- 海都之乱
+- 大德
+- 滥赐
+tags_en:
+- Consolidation
+- Qaidu's Revolt
+- Dade Era
+- Lavish Grants
+portrait:
+  primary: assets/portraits/yuan-cheng-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '传统画像符号化描写居多。MVP 用占位图；定稿前依时代冠服作艺术想象。
+
+
+    '
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/yuan-cheng-zong.md
+timeline:
+- year: '1265'
+  date_note: 至元二年
+  date_note_en: 至元二年
+  title: 生
+  title_en: Birth
+  summary: 世祖之孙，封皇太孙。
+  summary_en: Grandson of Khubilai, made heir.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E001
+- year: '1294'
+  date_note: 至元三十一年
+  date_note_en: 至元三十一年
+  title: 即位
+  title_en: Accession
+  summary: 世祖崩，铁穆耳即位于上都。
+  summary_en: He took the throne at Shangdu after Khubilai's death.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E002
+- year: '1297'
+  date_note: 大德元年
+  date_note_en: 大德元年
+  title: 改元大德
+  title_en: Era Dade
+  summary: 改元大德。
+  summary_en: Era changed to Dade.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E003
+- year: '1303'
+  date_note: 大德中
+  date_note_en: 大德中
+  title: 与海都战定
+  title_en: Qaidu Settled
+  summary: 海都、笃哇之乱定，西北安定。
+  summary_en: The Qaidu-Duwa revolt ended; the northwest quieted.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E004
+- year: '1307'
+  date_note: 大德十一年
+  date_note_en: 大德十一年
+  title: 成宗崩
+  title_en: Death of Chengzong
+  summary: 崩，侄海山即位。
+  summary_en: Died; his nephew Qaishan succeeded.
+  place_id: da-du
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E005
+- year: '1307'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 成宗总评
+  title_en: Verdict on Chengzong
+  summary: 承平之世而滥赐宗戚，财用渐绌。
+  summary_en: Peaceful but lavish toward the clans, the treasury shrank.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 元史·本纪
+  - 元史·相关列传
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: yuan-shi-zu
+  note: 世祖孙，至元三十一年即位（世祖页冻结）
+- type: successor
+  target_id: yuan-wu-zong
+  note: 大德十一年崩，侄海山即位
+routes:
+- group: 都城
+  order: 1
+  year: '1294'
+  place_id: da-du
+  event: 即位
+- group: 其他
+  order: 2
+  year: '1297'
+  place_id: da-du
+  event: 改元大德
+- group: 都城
+  order: 3
+  year: '1307'
+  place_id: da-du
+  event: 成宗崩
+sources:
+- title: 元史
+  note: 年表主据
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-11'
+  inclusion_reason: 元朝第六位皇帝，正史立纪。
+  synced_from_cards: true
