@@ -1,0 +1,155 @@
+id: w-wei-gong
+tier: emperor
+sort_key: 西魏-003
+names:
+  display: 西魏恭帝
+  display_en: Emperor Gong of Western Wei
+  personal: 元廓
+  personal_en: Yuan Kuo
+  temple: 恭帝
+  posthumous: 恭皇帝
+  aliases:
+  - 拓跋廓
+dynasty:
+  id: w-wei
+  label: 西魏
+  sequence: 3
+reign:
+  start: '554'
+  end: '557'
+  eras: []
+life:
+  birth: '537'
+  death: '557'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 文帝第四子，废帝被废后立为帝；宇文泰卒后，其侄宇文觉受禅，西魏亡，禅后遇害。
+summary_en: Fourth son of Emperor Wen, set up after the Deposed Emperor's fall; when
+  Yuwen Tai died, his nephew Yuwen Jue received the abdication — Western Wei was no
+  more — and the emperor was done to death after the abdication.
+tags:
+- 禅位北周
+- 宇文泰
+- 西魏亡
+- 遇害
+tags_en:
+- Abdication to Northern Zhou
+- Yuwen Tai
+- Fall of Western Wei
+- Done to Death
+portrait:
+  primary: assets/portraits/w-wei-gong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲恭顺的末代君主之态，衣冠从西魏制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/w-wei-gong.md
+timeline:
+- year: '537'
+  date_note: 大统三年
+  date_note_en: 3rd year of Datong
+  title: 生
+  title_en: Birth
+  summary: 文帝第四子。
+  summary_en: Fourth son of Emperor Wen.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北史·卷005
+  card_id: E001
+- year: '554'
+  date_note: 元年
+  date_note_en: 1st year
+  title: 即位
+  title_en: Accession
+  summary: 废帝废，廓即位。
+  summary_en: The Deposed Emperor set aside, Kuo took the throne.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '556'
+  date_note: 三年
+  date_note_en: 3rd year
+  title: 宇文泰卒
+  title_en: Death of Yuwen Tai
+  summary: 泰卒，子觉继掌权并受禅。
+  summary_en: Tai died; his son Jue took the power and received the abdication.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 周书·文帝纪
+  card_id: E003
+- year: '556'
+  date_note: 三年
+  date_note_en: 3rd year
+  title: 禅位周
+  title_en: Abdication to Zhou
+  summary: 宇文觉受禅，西魏亡，北周立。
+  summary_en: Yuwen Jue received the abdication — Western Wei perished and Northern
+    Zhou arose.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '557'
+  date_note: 同年后
+  date_note_en: after
+  title: 遇害
+  title_en: Done to Death
+  summary: 禅后遇害。
+  summary_en: He was done to death after the abdication.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '557'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 恭帝总评
+  title_en: Final Verdict
+  summary: 身当禅代，西魏终结。
+  summary_en: Caught in the abdication, he ended Western Wei.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: w-wei-fei
+  note: 废帝被废，宇文泰立齐王廓
+- type: successor
+  target_id: n-zhou-xiao-min
+  note: 三年禅位于宇文觉，西魏亡
+- type: kinship
+  target_id: w-wei-wen
+  note: 文帝第四子
+routes:
+- group: 都城
+  order: 1
+  year: '554'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '556'
+  place_id: chang-an
+  event: 禅位周
+- group: 都城
+  order: 3
+  year: '557'
+  place_id: chang-an
+  event: 遇害
+sources:
+- title: 北史·魏本纪
+  note: 主叙事
+- title: 周书·孝闵帝纪
+  note: 禅代互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西魏末帝，禅位于北周，正史立纪。
+  synced_from_cards: true

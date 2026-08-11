@@ -1,0 +1,159 @@
+id: tang-wen-zong
+tier: emperor
+sort_key: 唐-016
+names:
+  display: 唐文宗
+  display_en: Emperor Wenzong of Tang
+  personal: 李昂
+  personal_en: Li Ang
+  temple: 文宗
+  posthumous: 元圣昭献孝皇帝
+  aliases:
+  - 李涵
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 16
+reign:
+  start: '826'
+  end: '840'
+  eras:
+  - 大和
+  - 开成
+life:
+  birth: '809'
+  death: '840'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 穆宗第二子；敬宗被弑后宦官立之；恭俭好文，有意除宦，大和九年甘露之变事败，宦官大杀朝士，帝受制；开成五年崩。
+summary_en: Second son of Muzong, set up by the eunuchs after Jingzong's slaying;
+  frugal and fond of letters, he meant to destroy the eunuchs; in the 9th year of
+  Dahe the Ganlu incident failed, the eunuchs slaughtered the courtiers, and the emperor
+  was bound. He died in the 5th year of Kaicheng.
+tags:
+- 甘露之变
+- 除宦未成
+- 恭俭好文
+- 宦官专权
+tags_en:
+- The Ganlu Incident
+- The Failed Strike against the Eunuchs
+- Frugal and Lettered
+- Eunuch Power
+portrait:
+  primary: assets/portraits/tang-wen-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恭俭而受制之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-wen-zong.md
+timeline:
+- year: '809'
+  date_note: 元和四年
+  date_note_en: 4th year of Yuanhe
+  title: 生
+  title_en: Birth
+  summary: 穆宗第二子，初名涵。
+  summary_en: Second son of Muzong, first named Han.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷017下·文宗纪
+  card_id: E001
+- year: '826'
+  date_note: 宝历二年
+  date_note_en: 2nd year of Baoli
+  title: 即位
+  title_en: Accession
+  summary: 敬宗弑，宦官立昂，改元大和。
+  summary_en: Jingzong slain, the eunuchs set up Ang, changing the era to Dahe.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '831'
+  date_note: 大和中
+  date_note_en: mid-Dahe
+  title: 宋申锡案
+  title_en: The Song Shenxi Case
+  summary: 谋诛宦官事泄，申锡贬死，为甘露前奏。
+  summary_en: His plot against the eunuchs leaked; Shenxi was exiled to death — the
+    prelude to Ganlu.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '835'
+  date_note: 大和九年
+  date_note_en: 9th year of Dahe
+  title: 甘露之变
+  title_en: The Ganlu Incident
+  summary: 李训郑注谋诛宦官，事败，宦官大杀朝士，帝受制。
+  summary_en: Li Xun and Zheng Zhu plotted against the eunuchs and failed; the eunuchs
+    slaughtered the courtiers, and the emperor was bound.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '840'
+  date_note: 开成五年
+  date_note_en: 5th year of Kaicheng
+  title: 文宗崩
+  title_en: Death of Emperor Wenzong
+  summary: 崩，武宗继。
+  summary_en: He died; Wuzong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '840'
+  date_note: 政风
+  date_note_en: governance
+  title: 恭俭好文
+  title_en: Frugal and Lettered
+  summary: 史称恭俭儒雅，有意除宦而败。
+  summary_en: The histories call him frugal and scholarly, his will to destroy the
+    eunuchs defeated.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-jing-zong
+  note: 宝历二年敬宗被弑，宦官立江王涵
+- type: successor
+  target_id: tang-wu-zong
+  note: 开成五年崩，宦官立穆宗第五子炎
+- type: kinship
+  target_id: tang-mu-zong
+  note: 穆宗第二子
+routes:
+- group: 都城
+  order: 1
+  year: '826'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '835'
+  place_id: chang-an
+  event: 甘露之变
+- group: 都城
+  order: 3
+  year: '840'
+  place_id: chang-an
+  event: 文宗崩
+sources:
+- title: 旧唐书·文宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 甘露之变编年
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十六帝，正史立纪。
+  synced_from_cards: true

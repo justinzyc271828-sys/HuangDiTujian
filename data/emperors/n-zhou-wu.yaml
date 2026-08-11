@@ -1,0 +1,175 @@
+id: n-zhou-wu
+tier: emperor
+sort_key: 北周-003
+names:
+  display: 北周武帝
+  display_en: Emperor Wu of Northern Zhou
+  personal: 宇文邕
+  personal_en: Yuwen Yong
+  temple: 高祖
+  posthumous: 武皇帝
+  aliases:
+  - 宇文祢罗突
+dynasty:
+  id: n-zhou
+  label: 北周
+  sequence: 3
+reign:
+  start: '560'
+  end: '578'
+  eras:
+  - 保定
+  - 天和
+  - 建德
+  - 宣政
+life:
+  birth: '543'
+  death: '578'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宇文泰第四子，明帝遗诏继位；建德元年于宫中诛宇文护，亲总万机；建德三年灭佛道二教；建德六年亲征灭北齐，统一北方；宣政元年北伐突厥道病崩。
+summary_en: Fourth son of Yuwen Tai, he succeeded by Ming's will; in the 1st year
+  of Jiande he slew Yuwen Hu in the palace and took up the government himself; in
+  the 3rd year he proscribed Buddhism and Daoism; in the 6th year, campaigning in
+  person, he destroyed Northern Qi and united the north; in the 1st year of Xuanzheng,
+  on the campaign against the Turks, he fell ill and died.
+tags:
+- 诛宇文护
+- 灭佛道
+- 灭北齐
+- 统一北方
+tags_en:
+- Slewing Yuwen Hu
+- Proscribing Buddhism and Daoism
+- Destroying Northern Qi
+- Uniting the North
+portrait:
+  primary: assets/portraits/n-zhou-wu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现英武节俭的一代雄主之态，衣冠从北周中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-zhou-wu.md
+timeline:
+- year: '543'
+  date_note: 大统九年
+  date_note_en: 9th year of Datong
+  title: 生
+  title_en: Birth
+  summary: 宇文泰第四子，字祢罗突。
+  summary_en: Fourth son of Yuwen Tai, styled Miluotu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 周书·卷005·武帝纪
+  card_id: E001
+- year: '560'
+  date_note: 武成二年
+  date_note_en: 2nd year of Wucheng
+  title: 即位
+  title_en: Accession
+  summary: 明帝崩，邕即位。
+  summary_en: On Ming's death Yong took the throne.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '572'
+  date_note: 建德元年
+  date_note_en: 1st year of Jiande
+  title: 诛宇文护
+  title_en: Slewing Yuwen Hu
+  summary: 于宫中杀护，亲总万机。
+  summary_en: He slew Hu in the palace and took up all the government himself.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '574'
+  date_note: 建德三年
+  date_note_en: 3rd year of Jiande
+  title: 灭佛道
+  title_en: Proscribing Buddhism and Daoism
+  summary: 断佛道二教，毁经像，令沙门道士还俗。
+  summary_en: He cut off the two teachings, destroyed the scriptures and images, and
+    ordered monks and priests back to lay life.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '577'
+  date_note: 建德六年
+  date_note_en: 6th year of Jiande
+  title: 灭北齐
+  title_en: Destroying Northern Qi
+  summary: 亲征克邺，俘后主，统一北方。
+  summary_en: Campaigning in person, he took Ye, captured the Last Sovereign, and
+    united the north.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '578'
+  date_note: 宣政元年
+  date_note_en: 1st year of Xuanzheng
+  title: 武帝崩
+  title_en: Death of Emperor Wu
+  summary: 北伐突厥道病，崩于云阳；子赟继。
+  summary_en: On the Turkish campaign he fell ill on the road and died at Yunyang;
+    his son Yun succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-zhou-ming
+  note: 武成二年明帝被鸩，遗诏弟邕即位
+- type: successor
+  target_id: n-zhou-xuan
+  note: 宣政元年崩，子赟即位
+- type: related_emperor
+  target_id: n-qi-houzhu
+  note: 建德六年灭北齐，俘后主
+- type: related_emperor
+  target_id: chen-houzhu
+  note: 与陈对峙，北周全盛
+routes:
+- group: 都城
+  order: 1
+  year: '560'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '572'
+  place_id: chang-an
+  event: 诛宇文护
+- group: 都城
+  order: 3
+  year: '574'
+  place_id: chang-an
+  event: 灭佛道
+- group: 亲征
+  order: 4
+  year: '577'
+  place_id: ye-cheng
+  event: 灭北齐
+- group: 亲征
+  order: 5
+  year: '578'
+  place_id: chang-an
+  event: 武帝崩
+sources:
+- title: 周书·武帝纪
+  note: 主叙事
+- title: 北齐书·后主纪
+  note: 灭齐互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北周第三帝，灭齐统一北方，正史立纪。
+  synced_from_cards: true

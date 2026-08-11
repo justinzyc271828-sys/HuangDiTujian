@@ -1,0 +1,174 @@
+id: tang-rui-zong-b
+tier: emperor
+sort_key: 唐-008
+names:
+  display: 唐睿宗（复位）
+  display_en: Emperor Ruizong of Tang (Restored)
+  personal: 李旦
+  personal_en: Li Dan
+  temple: 睿宗
+  posthumous: 大圣真皇帝
+  aliases:
+  - 李旭轮
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 8
+reign:
+  start: '710'
+  end: '712'
+  eras:
+  - 景云
+  - 太极
+  - 延和
+life:
+  birth: '662'
+  death: '716'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 唐隆政变诛韦后，重茂让位，旦复位；立太子隆基；先天元年传位玄宗，自称太上皇；先天二年太平公主赐死，太上皇完全归政；开元四年崩。
+summary_en: After the Tanglong coup slew Empress Wei and Chongmao yielded the throne,
+  Dan was restored; he made his heir Longji; in the 1st year of Xiantian he yielded
+  the throne to Xuanzong and styled himself Grand Emperor; in the 2nd year the Princess
+  Taiping was put to death and the Grand Emperor gave up the government entirely.
+  He died in the 4th year of Kaiyuan.
+tags:
+- 唐隆复位
+- 传位玄宗
+- 太上皇
+- 能让贤子
+tags_en:
+- Restoration after Tanglong
+- Yielding to Xuanzong
+- Grand Emperor
+- Yielding to the Worthy Son
+portrait:
+  primary: assets/portraits/tang-rui-zong-b/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恭俭让贤的君主之态，衣冠从唐中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-rui-zong-b.md
+timeline:
+- year: '710'
+  date_note: 景云元年
+  date_note_en: 1st year of Jingyun
+  title: 立太子隆基
+  title_en: Longji Made Heir
+  summary: 以平韦功立隆基为皇太子。
+  summary_en: For the merit of putting down Wei, Longji was made crown prince.
+  place_id: chang-an
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷007·睿宗纪
+  card_id: E001
+- year: '710'
+  date_note: 唐隆元年
+  date_note_en: 1st year of Tanglong
+  title: 复位
+  title_en: The Restoration
+  summary: 诛韦后，重茂让位，旦复位，改元景云。
+  summary_en: Empress Wei slain and Chongmao yielding, Dan was restored, changing
+    the era to Jingyun.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '712'
+  date_note: 先天元年
+  date_note_en: 1st year of Xiantian
+  title: 传位玄宗
+  title_en: Yielding to Xuanzong
+  summary: 传位太子，自称太上皇。
+  summary_en: He yielded the throne to his heir and styled himself Grand Emperor.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '713'
+  date_note: 先天二年
+  date_note_en: 2nd year of Xiantian
+  title: 太平公主赐死
+  title_en: The Princess Taiping Put to Death
+  summary: 玄宗诛太平党，太上皇完全归政。
+  summary_en: Xuanzong destroyed the Taiping party, and the Grand Emperor gave up
+    the government entirely.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 旧唐书·卷008·玄宗纪
+  card_id: E004
+- year: '716'
+  date_note: 开元四年
+  date_note_en: 4th year of Kaiyuan
+  title: 太上皇崩
+  title_en: Death of the Grand Emperor
+  summary: 崩。
+  summary_en: He died.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '716'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 睿宗复位总评
+  title_en: Final Verdict
+  summary: 能让位贤子，史有令名。
+  summary_en: He yielded to his worthy son — the histories give him a good name.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-shang
+  note: 唐隆政变后，重茂让位睿宗复位
+- type: successor
+  target_id: tang-xuan-zong
+  note: 先天元年传位太子隆基
+- type: related_emperor
+  target_id: tang-rui-zong-a
+  note: 首次在位降为皇嗣，此为复位
+- type: kinship
+  target_id: zhou-wu-zetian
+  note: 武后之子
+routes:
+- group: 都城
+  order: 1
+  year: '710'
+  place_id: chang-an
+  event: 复位
+- group: 都城
+  order: 2
+  year: '710'
+  place_id: chang-an
+  event: 立太子隆基
+- group: 都城
+  order: 3
+  year: '712'
+  place_id: chang-an
+  event: 传位玄宗
+- group: 都城
+  order: 4
+  year: '713'
+  place_id: chang-an
+  event: 太平公主赐死
+- group: 都城
+  order: 5
+  year: '716'
+  place_id: chang-an
+  event: 太上皇崩
+sources:
+- title: 旧唐书·睿宗纪
+  note: 主叙事
+- title: 旧唐书·玄宗纪
+  note: 太平公主互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第五帝（复位在位），正史立纪。
+  synced_from_cards: true

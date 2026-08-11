@@ -1,0 +1,153 @@
+id: n-wei-jemin
+tier: quasi
+sort_key: 北魏-008
+names:
+  display: 节闵帝
+  display_en: Emperor Jiemin of Northern Wei
+  personal: 元恭
+  personal_en: Yuan Gong
+  temple: 节闵帝
+  posthumous: 节闵皇帝
+  aliases:
+  - 拓跋恭
+  - 广陵王
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 8
+reign:
+  start: '531'
+  end: '532'
+  eras:
+  - 普泰
+life:
+  birth: '498'
+  death: '532'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 广陵王羽之子，尔朱世隆等立为帝；在位约一年，傀儡于尔朱氏，普泰二年高欢入洛被废，寻遇害。
+summary_en: Son of the Prince of Guangling, Yuan Yu, set up by Erzhu Shilong and the
+  others; about a year he reigned as the Erzhu's puppet, until Gao Huan entered Luoyang
+  in the 2nd year of Putai and deposed him; he was soon done to death.
+tags:
+- 傀儡
+- 尔朱氏
+- 见废
+- 遇害
+tags_en:
+- Puppet
+- The Erzhu House
+- Deposed
+- Done to Death
+portrait:
+  primary: assets/portraits/n-wei-jemin/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恭默受制的君主之态，衣冠从北魏末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-jemin.md
+timeline:
+- year: '498'
+  date_note: 太和二十二年
+  date_note_en: 22nd year of Taihe
+  title: 生
+  title_en: Birth
+  summary: 广陵王羽子，字修业。
+  summary_en: Son of the Prince of Guangling, Yuan Yu, styled Xiuye.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷011·前废帝纪
+  card_id: E001
+- year: '531'
+  date_note: 普泰元年
+  date_note_en: 1st year of Putai
+  title: 即位
+  title_en: Accession
+  summary: 尔朱世隆等立恭，改元普泰。
+  summary_en: Erzhu Shilong and the others set up Gong, changing the era to Putai.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '531'
+  date_note: 在位
+  date_note_en: in reign
+  title: 与建明并立余波
+  title_en: The Rival Emperors
+  summary: 尔朱时期多帝并立，纪年混乱。
+  summary_en: In the Erzhu age several emperors stood at once, and the eras ran together.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '532'
+  date_note: 普泰二年
+  date_note_en: 2nd year of Putai
+  title: 被废
+  title_en: Deposed
+  summary: 高欢入洛，废帝，立平阳王修（孝武）。
+  summary_en: Gao Huan entered Luoyang, deposed the emperor, and set up the Prince
+    of Pingyang, Xiu — Emperor Xiaowu.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '532'
+  date_note: 同年
+  date_note_en: same year
+  title: 遇害
+  title_en: Done to Death
+  summary: 废后遇害。
+  summary_en: He was done to death after the deposition.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '532'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 节闵总评
+  title_en: Final Verdict
+  summary: 傀儡于尔朱、高欢之间。
+  summary_en: A puppet between the Erzhu house and Gao Huan.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-xiaozhuang
+  note: 孝庄被弑后，尔朱世隆立元恭
+- type: successor
+  target_id: n-wei-xiaowu
+  note: 普泰二年被废，高欢立平阳王修
+routes:
+- group: 都城
+  order: 1
+  year: '531'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '532'
+  place_id: luoyang
+  event: 被废
+- group: 都城
+  order: 3
+  year: '532'
+  place_id: luoyang
+  event: 遇害
+sources:
+- title: 魏书·前废帝纪
+  note: 主叙事
+- title: 魏书·尔朱荣传
+  note: 废立互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第八位（准），尔朱氏傀儡，图鉴以准帝收录。
+  synced_from_cards: true

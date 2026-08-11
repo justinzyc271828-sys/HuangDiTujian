@@ -1,0 +1,9 @@
+# Emperor Jiemin of Northern Wei · Principal Deeds
+
+Yuan Gong, styled Xiuye, was the son of the Prince of Guangling, Yuan Yu. In the last years of Northern Wei the princes were slaughtered wholesale, and Gong "hid himself by feigning deafness," pleading illness and refusing office through the reigns of Xiaoming and Xiaozhuang — "feigning deafness for years." After Xiaozhuang's slaying in the 3rd year of Yong'an, Erzhu Shilong and the others sought a new sovereign; Gong's long feigned deafness itself became his "wisdom" — in the 1st year of Putai they set him up, changing the era to Putai.
+
+About a year he reigned as the Erzhu's puppet: Erzhu Zhao held Jinyang, Erzhu Shilong sat at Luoyang, and the government came from many mouths; he stood at once with the Jianming emperor and the rest, the eras tangled. In the 2nd year of Putai, Gao Huan rose against the Erzhu house, entered Luoyang, deposed Jiemin, confined him in the Chongxun monastery, and set up the Prince of Pingyang, Yuan Xiu (Emperor Xiaowu); then, on the charge of "summoning the Prince of Chenliu," had him poisoned, aged thirty-five.
+
+The histories say: "he hid by feigning deafness, and could not escape in the end." In Wei's last years the princes lived and died by the strong ministers' will; Gong's feigned deafness saved him for a time, and Gao Huan destroyed him in the end. At his deposition, the records say, "he descended from the carriage, bowed, and went with folded hands" — a composure rare among the princes of that age. The gazetteer lists him as quasi-emperor for his brief reign and his place in the Wei line.
+
+> Local references: the punctuated critical edition of the *Weishu*, ch. 11 ("Benji of the Former Deposed Emperor") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

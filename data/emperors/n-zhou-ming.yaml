@@ -1,0 +1,155 @@
+id: n-zhou-ming
+tier: emperor
+sort_key: 北周-002
+names:
+  display: 北周明帝
+  display_en: Emperor Ming of Northern Zhou
+  personal: 宇文毓
+  personal_en: Yuwen Yu
+  temple: 明帝
+  posthumous: 明皇帝
+  aliases:
+  - 宇文统万突
+dynasty:
+  id: n-zhou
+  label: 北周
+  sequence: 2
+reign:
+  start: '557'
+  end: '560'
+  eras:
+  - 武成
+life:
+  birth: '534'
+  death: '560'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宇文泰长子，孝闵被废后继位称天王；武成元年改称皇帝；宽明仁厚、好学能诗，然军国一决于宇文护，武成二年为护所鸩。
+summary_en: Eldest son of Yuwen Tai, he succeeded after Xiaomin's deposition, first
+  as Heavenly King, then in the 1st year of Wucheng taking the title of emperor; generous
+  and learned, a poet, yet the armies and the realm decided by Yuwen Hu, who poisoned
+  him in the 2nd year of Wucheng.
+tags:
+- 好学能诗
+- 宇文护
+- 称皇帝
+- 被鸩
+tags_en:
+- Learned and a Poet
+- Yuwen Hu
+- Taking the Title of Emperor
+- Poisoned
+portrait:
+  primary: assets/portraits/n-zhou-ming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽厚好文的君主之态，衣冠从北周初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-zhou-ming.md
+timeline:
+- year: '534'
+  date_note: 永熙三年
+  date_note_en: 3rd year of Yongxi
+  title: 生
+  title_en: Birth
+  summary: 宇文泰长子，字统万突。
+  summary_en: Eldest son of Yuwen Tai, styled Tongwantuo.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 周书·卷004·明帝纪
+  card_id: E001
+- year: '557'
+  date_note: 元年
+  date_note_en: 1st year
+  title: 即位
+  title_en: Accession
+  summary: 孝闵废，毓即天王位。
+  summary_en: Xiaomin deposed, Yu took the heavenly kingship.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '558'
+  date_note: 二年
+  date_note_en: 2nd year
+  title: 护专权
+  title_en: Hu in Power
+  summary: 军国大事一决于护。
+  summary_en: The armies and the realm's affairs all decided by Hu.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '559'
+  date_note: 武成元年
+  date_note_en: 1st year of Wucheng
+  title: 称皇帝
+  title_en: The Title of Emperor
+  summary: 改称皇帝，建年号武成。
+  summary_en: He took the title of emperor and opened the era Wucheng.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '560'
+  date_note: 武成二年
+  date_note_en: 2nd year of Wucheng
+  title: 被鸩崩
+  title_en: Poisoned
+  summary: 为宇文护所毒，崩；遗诏弟邕继。
+  summary_en: Poisoned by Yuwen Hu, he died, his will naming his brother Yong to succeed.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '560'
+  date_note: 文化
+  date_note_en: culture
+  title: 好学能诗
+  title_en: Learned and a Poet
+  summary: 史称宽明仁厚，善属文。
+  summary_en: The histories call him generous and kind, skilled in prose.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-zhou-xiao-min
+  note: 孝闵被废，宇文护立毓
+- type: successor
+  target_id: n-zhou-wu
+  note: 武成二年被鸩，遗诏弟邕即位
+- type: kinship
+  target_id: n-zhou-wu
+  note: 武帝之兄，宇文泰长子
+routes:
+- group: 都城
+  order: 1
+  year: '557'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '559'
+  place_id: chang-an
+  event: 称皇帝
+- group: 都城
+  order: 3
+  year: '560'
+  place_id: chang-an
+  event: 被鸩崩
+sources:
+- title: 周书·明帝纪
+  note: 主叙事
+- title: 周书·晋荡公护传
+  note: 被鸩互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北周第二帝，正史立纪。
+  synced_from_cards: true

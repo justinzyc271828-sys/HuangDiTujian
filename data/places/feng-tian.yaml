@@ -1,0 +1,12 @@
+id: feng-tian
+names:
+  historical: 奉天
+  modern: 陕西省咸阳市乾县
+  english: Fengtian
+coords:
+  lng: 108.24
+  lat: 34.53
+  precision: schematic
+map:
+  region: 关内道
+notes: 泾原兵变后德宗幸奉天，奉天之难发生地

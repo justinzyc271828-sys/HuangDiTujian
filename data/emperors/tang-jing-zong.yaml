@@ -1,0 +1,151 @@
+id: tang-jing-zong
+tier: emperor
+sort_key: 唐-015
+names:
+  display: 唐敬宗
+  display_en: Emperor Jingzong of Tang
+  personal: 李湛
+  personal_en: Li Zhan
+  temple: 敬宗
+  posthumous: 睿武昭愍孝皇帝
+  aliases: []
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 15
+reign:
+  start: '824'
+  end: '826'
+  eras:
+  - 宝历
+life:
+  birth: '809'
+  death: '826'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 穆宗长子；长庆四年即位，改元宝历；好击球手搏、游猎无度，不恤政事；宝历二年夜猎还宫，为宦官苏佐明等所弑，王守澄等立江王涵（文宗）。
+summary_en: Eldest son of Muzong; he took the throne in the 4th year of Changqing,
+  changing the era to Baoli; he loved polo and wrestling, hunting without limit, careless
+  of government; in the 2nd year of Baoli, returning from a night hunt, he was slain
+  by the eunuch Su Zuoming and the others, and Wang Shoucheng set up the Prince of
+  Jiang, Han (Wenzong).
+tags:
+- 游猎无度
+- 宦官弑君
+- 宝历
+- 短祚
+tags_en:
+- Hunting without Limit
+- Slain by the Eunuchs
+- The Baoli Era
+- Brief Reign
+portrait:
+  primary: assets/portraits/tang-jing-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现少年游乐之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-jing-zong.md
+timeline:
+- year: '809'
+  date_note: 元和四年
+  date_note_en: 4th year of Yuanhe
+  title: 生
+  title_en: Birth
+  summary: 穆宗长子。
+  summary_en: Eldest son of Muzong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷017上·敬宗纪
+  card_id: E001
+- year: '824'
+  date_note: 长庆四年
+  date_note_en: 4th year of Changqing
+  title: 即位
+  title_en: Accession
+  summary: 穆宗崩，湛即位，改元宝历。
+  summary_en: Muzong died; Zhan took the throne and changed the era to Baoli.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '825'
+  date_note: 宝历元年
+  date_note_en: 1st year of Baoli
+  title: 改元
+  title_en: The Baoli Era
+  summary: 在位短促，政在宦官。
+  summary_en: His reign was brief; the government lay with the eunuchs.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '826'
+  date_note: 宝历二年
+  date_note_en: 2nd year of Baoli
+  title: 遇弑
+  title_en: Slain
+  summary: 夜猎还宫，为苏佐明等所弑；王守澄等立江王涵（文宗）。
+  summary_en: Returning from a night hunt, he was slain by Su Zuoming and the others;
+    Wang Shoucheng set up the Prince of Jiang, Han — Wenzong.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '826'
+  date_note: 政风
+  date_note_en: governance
+  title: 游猎无度
+  title_en: Hunting without Limit
+  summary: 好击球手搏，不恤政事。
+  summary_en: He loved polo and wrestling, careless of government.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '826'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 敬宗总评
+  title_en: Final Verdict
+  summary: 童心未化，身死阉寺。
+  summary_en: A child at heart, he died by the eunuchs' hand.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-mu-zong
+  note: 长庆四年穆宗崩，长子湛即位
+- type: successor
+  target_id: tang-wen-zong
+  note: 宝历二年被弑，宦官立江王涵
+- type: kinship
+  target_id: tang-mu-zong
+  note: 穆宗长子
+routes:
+- group: 都城
+  order: 1
+  year: '824'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '826'
+  place_id: chang-an
+  event: 遇弑
+sources:
+- title: 旧唐书·敬宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十五帝，正史立纪。
+  synced_from_cards: true

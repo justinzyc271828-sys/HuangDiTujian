@@ -1,0 +1,157 @@
+id: n-wei-xianwen
+tier: emperor
+sort_key: 北魏-004
+names:
+  display: 献文帝
+  display_en: Emperor Xianwen of Northern Wei
+  personal: 拓跋弘
+  personal_en: Tuoba Hong
+  temple: 显祖
+  posthumous: 献文皇帝
+  aliases:
+  - 拓跋万民
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 4
+reign:
+  start: '465'
+  end: '471'
+  eras:
+  - 天安
+  - 皇兴
+life:
+  birth: '454'
+  death: '476'
+  birth_place_id: null
+  death_place_id: ping-cheng
+summary: 文成帝长子，年幼即位，冯太后临朝；诛乙浑后亲政，好黄老浮屠，志在恬退；皇兴五年禅位太子宏，自称太上皇，承明元年暴崩。
+summary_en: Eldest son of Wencheng, he took the throne young under Empress Feng's
+  regency; after slaying Yi Hun he ruled in person, loving Huang–Lao and the Buddha,
+  his mind set on withdrawal; in the 5th year of Huangxing he abdicated to his heir
+  Hong and called himself Grand Emperor, dying suddenly in the 1st year of Chengming.
+tags:
+- 冯太后
+- 诛乙浑
+- 禅位
+- 太上皇
+tags_en:
+- Empress Feng
+- Slaying Yi Hun
+- Abdication
+- Grand Emperor
+portrait:
+  primary: assets/portraits/n-wei-xianwen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恬淡退让的君主之态，衣冠从北魏中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-xianwen.md
+timeline:
+- year: '454'
+  date_note: 兴光元年
+  date_note_en: 1st year of Xingguang
+  title: 生
+  title_en: Birth
+  summary: 文成帝长子。
+  summary_en: Eldest son of Emperor Wencheng.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷006·显祖纪
+  card_id: E001
+- year: '465'
+  date_note: 和平六年
+  date_note_en: 6th year of Heping
+  title: 即位
+  title_en: Accession
+  summary: 年幼即位，冯太后临朝。
+  summary_en: He took the throne young, with Empress Feng holding court.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '467'
+  date_note: 皇兴中
+  date_note_en: mid-Huangxing
+  title: 亲政
+  title_en: Personal Rule
+  summary: 诛乙浑，自揽政。
+  summary_en: He slew Yi Hun and took the government himself.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '471'
+  date_note: 皇兴五年
+  date_note_en: 5th year of Huangxing
+  title: 禅位太子
+  title_en: Abdication to the Heir
+  summary: 传位太子宏（孝文），自称太上皇。
+  summary_en: He passed the throne to his heir Hong — Emperor Xiaowen — and styled
+    himself Grand Emperor.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '476'
+  date_note: 承明元年
+  date_note_en: 1st year of Chengming
+  title: 暴崩
+  title_en: The Sudden Death
+  summary: 于平城暴崩，史多指冯太后。
+  summary_en: He died suddenly at Pingcheng; the histories point at Empress Feng.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '476'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 献文总评
+  title_en: Final Verdict
+  summary: 好黄老浮屠，志在恬退。
+  summary_en: He loved Huang–Lao and the Buddha, his mind set on withdrawal.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-wencheng
+  note: 和平六年文成崩，子弘即位
+- type: successor
+  target_id: n-wei-xiaowen
+  note: 皇兴五年禅位太子宏
+- type: kinship
+  target_id: n-wei-wencheng
+  note: 文成帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '465'
+  place_id: ping-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '471'
+  place_id: ping-cheng
+  event: 禅位太子
+- group: 都城
+  order: 3
+  year: '476'
+  place_id: ping-cheng
+  event: 暴崩
+sources:
+- title: 魏书·显祖纪
+  note: 主叙事
+- title: 魏书·皇后传
+  note: 冯太后互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第四帝，正史立纪。
+  synced_from_cards: true

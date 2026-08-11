@@ -1,0 +1,199 @@
+id: tang-gao-zu
+tier: emperor
+sort_key: 唐-001
+names:
+  display: 唐高祖
+  display_en: Emperor Gaozu of Tang
+  personal: 李渊
+  personal_en: Li Yuan
+  temple: 高祖
+  posthumous: 太武皇帝
+  aliases:
+  - 李叔德
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 1
+reign:
+  start: '618'
+  end: '626'
+  eras:
+  - 武德
+life:
+  birth: '566'
+  death: '635'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 陇西成纪人，唐国公李昞之子；隋末留守太原，大业十三年太原起兵，克长安立恭帝；武德元年受禅称帝，国号唐；玄武门之变后传位太宗，称太上皇。
+summary_en: A man of Chengji in Longxi, son of the Duke of Tang, Li Bing; in the last
+  years of Sui he held Taiyuan, rose in the 13th year of Daye, took Chang'an, and
+  set up Emperor Gong; in the 1st year of Wude he received the abdication and founded
+  Tang. After the Xuanwu Gate incident he yielded the throne to Emperor Taizong and
+  styled himself Grand Emperor.
+tags:
+- 太原起兵
+- 开唐
+- 定鼎关中
+- 玄武门
+tags_en:
+- Rising at Taiyuan
+- Founding Tang
+- The Throne in Guanzhong
+- The Xuanwu Gate
+portrait:
+  primary: assets/portraits/tang-gao-zu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现老成持重的开国之君之态，衣冠从唐初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-gao-zu.md
+timeline:
+- year: '566'
+  date_note: 天和元年
+  date_note_en: 1st year of Tianhe
+  title: 生
+  title_en: Birth
+  summary: 陇西成纪人，字叔德。唐国公李昞子。
+  summary_en: A man of Chengji, Longxi, styled Shude; son of the Duke of Tang, Li
+    Bing.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷001·高祖纪
+  card_id: E001
+- year: '617'
+  date_note: 大业十三年
+  date_note_en: 13th year of Daye
+  title: 太原起兵
+  title_en: Rising at Taiyuan
+  summary: 留守太原，与世民等起兵，西向关中。
+  summary_en: Holding Taiyuan, he rose with Shimin and the others, turning west toward
+    Guanzhong.
+  place_id: jinyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '617'
+  date_note: 义宁元年
+  date_note_en: 1st year of Yining
+  title: 克长安立恭帝
+  title_en: Chang'an Taken, Emperor Gong Set Up
+  summary: 入长安，立杨侑，自为大丞相、唐王。
+  summary_en: He entered Chang'an, set up Yang You, and made himself grand chancellor
+    and King of Tang.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '618'
+  date_note: 武德元年
+  date_note_en: 1st year of Wude
+  title: 受禅称帝
+  title_en: The Abdication Throne
+  summary: 恭帝禅位，渊即皇帝位，国号唐，改元武德。
+  summary_en: Emperor Gong abdicated; Yuan took the throne, styled the realm Tang,
+    and changed the era to Wude.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '621'
+  date_note: 武德四年
+  date_note_en: 4th year of Wude
+  title: 平王世充窦建德
+  title_en: Wang Shichong and Dou Jiande Destroyed
+  summary: 世民破二敌，河南河北粗定。
+  summary_en: Shimin broke the two foes, and Henan and Hebei were roughly settled.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '626'
+  date_note: 武德九年
+  date_note_en: 9th year of Wude
+  title: 玄武门后退位
+  title_en: The Xuanwu Gate and the Abdication
+  summary: 玄武门之变后，传位世民，称太上皇。
+  summary_en: After the Xuanwu Gate incident he yielded the throne to Shimin and styled
+    himself Grand Emperor.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '635'
+  date_note: 贞观九年
+  date_note_en: 9th year of Zhenguan
+  title: 太上皇崩
+  title_en: Death of the Grand Emperor
+  summary: 崩于太安宫。
+  summary_en: He died in the Tai'an Palace.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+- year: '635'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 高祖总评
+  title_en: Final Verdict
+  summary: 草创唐室，定都关中；传位事与玄武门相联。
+  summary_en: He founded the Tang house with its capital in Guanzhong; his yielding
+    of the throne is bound up with the Xuanwu Gate.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E008
+relations:
+- type: predecessor
+  target_id: sui-gong
+  note: 武德元年受禅于隋恭帝
+- type: successor
+  target_id: tang-tai-zong
+  note: 玄武门之变后传位太宗
+- type: related_emperor
+  target_id: n-zhou-wu
+  note: 仕北周、隋，出身后周关陇集团
+routes:
+- group: 都城
+  order: 1
+  year: '617'
+  place_id: jinyang
+  event: 太原起兵
+- group: 都城
+  order: 2
+  year: '617'
+  place_id: chang-an
+  event: 克长安立恭帝
+- group: 都城
+  order: 3
+  year: '618'
+  place_id: chang-an
+  event: 受禅称帝
+- group: 其他
+  order: 4
+  year: '621'
+  place_id: luoyang
+  event: 平王世充窦建德
+- group: 都城
+  order: 5
+  year: '626'
+  place_id: chang-an
+  event: 玄武门后退位
+- group: 都城
+  order: 6
+  year: '635'
+  place_id: chang-an
+  event: 太上皇崩
+sources:
+- title: 旧唐书·高祖纪
+  note: 主叙事
+- title: 新唐书·高祖纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝开国皇帝，正史立纪。
+  synced_from_cards: true

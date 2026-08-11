@@ -1,0 +1,12 @@
+id: mang-shan
+names:
+  historical: 邙山
+  modern: 河南省洛阳市北
+  english: Mangshan
+coords:
+  lng: 112.45
+  lat: 34.75
+  precision: schematic
+map:
+  region: 司州
+notes: 东西魏邙山之战，高欢、宇文泰对峙主战场

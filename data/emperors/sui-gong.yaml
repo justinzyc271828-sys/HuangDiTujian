@@ -1,0 +1,154 @@
+id: sui-gong
+tier: quasi
+sort_key: 隋-003
+names:
+  display: 隋恭帝
+  display_en: Emperor Gong of Sui
+  personal: 杨侑
+  personal_en: Yang You
+  temple: null
+  posthumous: 恭皇帝
+  aliases: []
+dynasty:
+  id: sui
+  label: 隋
+  sequence: 3
+reign:
+  start: '617'
+  end: '618'
+  eras:
+  - 义宁
+life:
+  birth: '605'
+  death: '619'
+  birth_place_id: chang-an
+  death_place_id: chang-an
+summary: 元德太子昭之子，炀帝之孙；李渊入长安立为帝，改元义宁，遥尊炀帝为太上皇；义宁二年禅位于李渊，隋亡，封鄜国公，寻薨。
+summary_en: Son of the Crown Prince Zhao, grandson of Emperor Yang; set up by Li Yuan
+  after he entered Chang'an, changing the era to Yining and honoring Emperor Yang
+  as Grand Emperor from afar; in the 2nd year of Yining he abdicated to Li Yuan —
+  Sui perished — and, made Duke of Fu, died soon after.
+tags:
+- 幼主
+- 禅位
+- 隋亡
+- 傀儡
+tags_en:
+- Child Sovereign
+- Abdication
+- Fall of Sui
+- Figurehead
+portrait:
+  primary: assets/portraits/sui-gong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲恭顺的末代君主之态，衣冠从隋末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/sui-gong.md
+timeline:
+- year: '605'
+  date_note: 大业元年
+  date_note_en: 1st year of Daye
+  title: 生
+  title_en: Birth
+  summary: 元德太子昭子，炀帝孙。
+  summary_en: Son of the Crown Prince Zhao, grandson of Emperor Yang.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 隋书·卷005·恭帝纪
+  card_id: E001
+- year: '617'
+  date_note: 义宁元年
+  date_note_en: 1st year of Yining
+  title: 即帝位
+  title_en: The Throne
+  summary: 李渊入长安，立侑为帝，改元义宁，遥尊炀帝为太上皇。
+  summary_en: Li Yuan entered Chang'an, set up You, changed the era to Yining, and
+    honored Emperor Yang as Grand Emperor from afar.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '617'
+  date_note: 名分
+  date_note_en: status
+  title: 与皇泰主
+  title_en: The Huangtai Sovereign
+  summary: 东都另有越王侗称帝，史称皇泰主，与恭帝并见。
+  summary_en: At the eastern capital the Prince of Yue, Tong, took the throne as the
+    "Huangtai Sovereign" — the two stood at once.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '618'
+  date_note: 义宁二年
+  date_note_en: 2nd year of Yining
+  title: 禅位唐
+  title_en: Abdication to Tang
+  summary: 禅位于李渊，隋在关中亡；同年江都炀帝被弑。
+  summary_en: He abdicated to Li Yuan — Sui perished in Guanzhong; that same year
+    Emperor Yang was slain at Jiangdu.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '619'
+  date_note: 武德二年
+  date_note_en: 2nd year of Wude
+  title: 薨
+  title_en: Death
+  summary: 禅后封鄜国公，寻薨。
+  summary_en: After the abdication he was made Duke of Fu and died soon after.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '619'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 恭帝总评
+  title_en: Final Verdict
+  summary: 幼冲傀儡，身当禅代。
+  summary_en: A child figurehead caught in the abdication.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: sui-yang
+  note: 炀帝江都被弑，恭帝先被李渊所立
+- type: successor
+  target_id: tang-gao-zu
+  note: 义宁二年禅位于李渊，隋亡
+routes:
+- group: 都城
+  order: 1
+  year: '617'
+  place_id: chang-an
+  event: 即帝位
+- group: 都城
+  order: 2
+  year: '618'
+  place_id: chang-an
+  event: 禅位唐
+- group: 都城
+  order: 3
+  year: '619'
+  place_id: chang-an
+  event: 薨
+sources:
+- title: 隋书·恭帝纪
+  note: 主叙事
+- title: 旧唐书·高祖纪
+  note: 禅代互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 隋末代皇帝，禅位于唐，图鉴以准帝收录。
+  synced_from_cards: true

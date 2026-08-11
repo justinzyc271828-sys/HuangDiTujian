@@ -1,0 +1,168 @@
+id: n-wei-xiaoming
+tier: emperor
+sort_key: 北魏-006
+names:
+  display: 孝明帝
+  display_en: Emperor Xiaoming of Northern Wei
+  personal: 元诩
+  personal_en: Yuan Xu
+  temple: 肃宗
+  posthumous: 孝明皇帝
+  aliases:
+  - 拓跋诩
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 6
+reign:
+  start: '515'
+  end: '528'
+  eras:
+  - 熙平
+  - 神龟
+  - 正光
+  - 孝昌
+  - 武泰
+life:
+  birth: '510'
+  death: '528'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 宣武帝第二子，六岁即位，胡太后临朝；正光元年元叉幽太后专政，正光四年六镇起义起；武泰元年帝暴崩，胡太后立幼主，尔朱荣南下——北魏自此而衰。
+summary_en: Second son of Xuanwu, he took the throne at six under Empress Hu's regency;
+  in the 1st year of Zhengguang Yuan Cha confined the empress and ruled, and in the
+  4th year the Six Garrisons rose; in the 1st year of Wutai the emperor died suddenly,
+  Empress Hu set up an infant, and Erzhu Rong marched south — the decline of Northern
+  Wei began.
+tags:
+- 胡太后
+- 六镇起义
+- 元叉专政
+- 暴崩
+tags_en:
+- Empress Hu
+- The Six Garrisons Rising
+- Yuan Cha in Power
+- The Sudden Death
+portrait:
+  primary: assets/portraits/n-wei-xiaoming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲受制的君主之态，衣冠从北魏迁洛后制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-xiaoming.md
+timeline:
+- year: '510'
+  date_note: 永平三年
+  date_note_en: 3rd year of Yongping
+  title: 生
+  title_en: Birth
+  summary: 宣武帝第二子。
+  summary_en: Second son of Emperor Xuanwu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷009·肃宗纪
+  card_id: E001
+- year: '515'
+  date_note: 延昌四年
+  date_note_en: 4th year of Yanchang
+  title: 即位
+  title_en: Accession
+  summary: 年幼即位，胡太后临朝称制。
+  summary_en: He took the throne young, with Empress Hu holding the court in her own
+    name.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '520'
+  date_note: 正光元年
+  date_note_en: 1st year of Zhengguang
+  title: 元叉幽太后
+  title_en: Yuan Cha Confines the Empress
+  summary: 元叉、刘腾幽太后，专政数年。
+  summary_en: Yuan Cha and Liu Teng confined the empress and ruled for years.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '523'
+  date_note: 正光四年
+  date_note_en: 4th year of Zhengguang
+  title: 六镇起义
+  title_en: The Six Garrisons Rising
+  summary: 沃野镇破六韩拔陵等起，北镇大乱。
+  summary_en: At Woye garrison, Poliuhan Baling and the others rose; the northern
+    garrisons were in chaos.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '528'
+  date_note: 武泰元年
+  date_note_en: 1st year of Wutai
+  title: 孝明暴崩
+  title_en: The Sudden Death of Xiaoming
+  summary: 帝暴崩，胡太后立幼主，尔朱荣南下。
+  summary_en: The emperor died suddenly; Empress Hu set up an infant, and Erzhu Rong
+    marched south.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '528'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 孝明总评
+  title_en: Final Verdict
+  summary: 幼冲当乱，权在母后权臣。
+  summary_en: A child in the storm, the power with his mother and the strong ministers.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-xuanwu
+  note: 延昌四年宣武崩，子诩即位
+- type: successor
+  target_id: n-wei-xiaozhuang
+  note: 武泰元年暴崩，尔朱荣立子攸
+- type: kinship
+  target_id: n-wei-xuanwu
+  note: 宣武帝第二子
+routes:
+- group: 都城
+  order: 1
+  year: '515'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '520'
+  place_id: luoyang
+  event: 元叉幽太后
+- group: 其他
+  order: 3
+  year: '523'
+  place_id: null
+  event: 六镇起义
+- group: 都城
+  order: 4
+  year: '528'
+  place_id: luoyang
+  event: 孝明暴崩
+sources:
+- title: 魏书·肃宗纪
+  note: 主叙事
+- title: 魏书·皇后传
+  note: 胡太后互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第六帝，正史立纪。
+  synced_from_cards: true

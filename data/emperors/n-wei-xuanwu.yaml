@@ -1,0 +1,166 @@
+id: n-wei-xuanwu
+tier: emperor
+sort_key: 北魏-005
+names:
+  display: 宣武帝
+  display_en: Emperor Xuanwu of Northern Wei
+  personal: 元恪
+  personal_en: Yuan Ke
+  temple: 世宗
+  posthumous: 宣武皇帝
+  aliases:
+  - 拓跋恪
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 5
+reign:
+  start: '499'
+  end: '515'
+  eras:
+  - 景明
+  - 正始
+  - 永平
+  - 延昌
+life:
+  birth: '483'
+  death: '515'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 孝文帝第二子，孝文崩于南伐后即位；景明元年罢六辅亲政，与梁争淮南义阳，洛阳伽蓝极盛；延昌四年崩，胡太后预政。
+summary_en: Second son of Emperor Xiaowen, he took the throne after Xiaowen's death
+  on the southern campaign; in the 1st year of Jingming he dismissed the six regents
+  and ruled in person, contending with Liang for Huainan and Yiyang while Luoyang's
+  monasteries flourished. He died in the 4th year of Yanchang; Empress Hu entered
+  the government.
+tags:
+- 亲政
+- 南伐梁
+- 洛阳伽蓝
+- 佛教极盛
+tags_en:
+- Personal Rule
+- The Liang Wars
+- The Luoyang Monasteries
+- Buddhism at Its Height
+portrait:
+  primary: assets/portraits/n-wei-xuanwu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现崇佛亲政的君主之态，衣冠从北魏迁洛后制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-xuanwu.md
+timeline:
+- year: '483'
+  date_note: 太和七年
+  date_note_en: 7th year of Taihe
+  title: 生
+  title_en: Birth
+  summary: 孝文帝第二子。
+  summary_en: Second son of Emperor Xiaowen.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷008·世宗纪
+  card_id: E001
+- year: '499'
+  date_note: 太和二十三年
+  date_note_en: 23rd year of Taihe
+  title: 即位
+  title_en: Accession
+  summary: 孝文崩于南伐，恪即位。
+  summary_en: Xiaowen died on the southern campaign; Ke took the throne.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '500'
+  date_note: 景明元年
+  date_note_en: 1st year of Jingming
+  title: 亲政
+  title_en: Personal Rule
+  summary: 罢六辅，自揽万机。
+  summary_en: He dismissed the six regents and took up all the affairs of state.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '503'
+  date_note: 景明中
+  date_note_en: mid-Jingming
+  title: 南伐梁
+  title_en: The Liang Wars
+  summary: 与梁争淮南、义阳等。
+  summary_en: He contended with Liang for Huainan, Yiyang, and the rest.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '515'
+  date_note: 延昌四年
+  date_note_en: 4th year of Yanchang
+  title: 宣武崩
+  title_en: Death of Emperor Xuanwu
+  summary: 崩，子诩继，是为孝明；胡太后预政。
+  summary_en: He died; his son Xu succeeded — Emperor Xiaoming, with Empress Hu entering
+    the government.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '515'
+  date_note: 文化
+  date_note_en: culture
+  title: 洛阳伽蓝
+  title_en: The Luoyang Monasteries
+  summary: 王公造寺极盛，为《洛阳伽蓝记》背景。
+  summary_en: The princes raised monasteries without end — the setting of the *Record
+    of the Luoyang Monasteries*.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-xiaowen
+  note: 太和二十三年孝文崩，子恪即位
+- type: successor
+  target_id: n-wei-xiaoming
+  note: 延昌四年崩，子诩即位
+- type: kinship
+  target_id: n-wei-xiaowen
+  note: 孝文帝第二子
+routes:
+- group: 都城
+  order: 1
+  year: '499'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '500'
+  place_id: luoyang
+  event: 亲政
+- group: 其他
+  order: 3
+  year: '503'
+  place_id: null
+  event: 南伐梁
+- group: 都城
+  order: 4
+  year: '515'
+  place_id: luoyang
+  event: 宣武崩
+sources:
+- title: 魏书·世宗纪
+  note: 主叙事
+- title: 洛阳伽蓝记
+  note: 寺院盛况互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第五帝，正史立纪。
+  synced_from_cards: true

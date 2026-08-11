@@ -1,0 +1,171 @@
+id: tang-xi-zong
+tier: emperor
+sort_key: 唐-020
+names:
+  display: 唐僖宗
+  display_en: Emperor Xizong of Tang
+  personal: 李儇
+  personal_en: Li Xuan
+  temple: 僖宗
+  posthumous: 惠圣恭定孝皇帝
+  aliases:
+  - 李俨
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 20
+reign:
+  start: '873'
+  end: '888'
+  eras:
+  - 乾符
+  - 广明
+  - 中和
+  - 光启
+  - 文德
+life:
+  birth: '862'
+  death: '888'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 懿宗第五子；十二岁即位，改元乾符；乾符二年王仙芝、黄巢起兵；广明元年黄巢入长安称齐，帝幸蜀；中和三年李克用等破巢，收复长安；文德元年还京后崩。
+summary_en: Fifth son of Yizong; he took the throne at twelve, changing the era to
+  Qianfu; in the 2nd year Wang Xianzhi and Huang Chao rose; in the 1st year of Guangming
+  Huang Chao entered Chang'an as emperor of Qi and the sovereign fled to Shu; in the
+  3rd year of Zhonghe Li Keyong and the others destroyed Chao and recovered Chang'an;
+  returning to the capital, he died in the 1st year of Wende.
+tags:
+- 黄巢之乱
+- 幸蜀
+- 田令孜
+- 唐亡前奏
+tags_en:
+- The Huang Chao Rebellion
+- Flight to Shu
+- Tian Lingzi
+- Prelude to the Fall of Tang
+portrait:
+  primary: assets/portraits/tang-xi-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲播迁之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-xi-zong.md
+timeline:
+- year: '862'
+  date_note: 咸通三年
+  date_note_en: 3rd year of Xiantong
+  title: 生
+  title_en: Birth
+  summary: 懿宗第五子。
+  summary_en: Fifth son of Yizong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷019下·僖宗纪
+  card_id: E001
+- year: '873'
+  date_note: 咸通十四年
+  date_note_en: 14th year of Xiantong
+  title: 即位
+  title_en: Accession
+  summary: 年十二即位，改元乾符。
+  summary_en: He took the throne at twelve, changing the era to Qianfu.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '875'
+  date_note: 乾符二年
+  date_note_en: 2nd year of Qianfu
+  title: 黄巢起兵
+  title_en: Huang Chao Rises
+  summary: 王仙芝、黄巢起于曹濮，天下大乱。
+  summary_en: Wang Xianzhi and Huang Chao rose in Cao and Pu — the realm fell into
+    chaos.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '880'
+  date_note: 广明元年
+  date_note_en: 1st year of Guangming
+  title: 黄巢入长安
+  title_en: Huang Chao Enters Chang'an
+  summary: 巢陷京师称齐，帝幸蜀。
+  summary_en: Chao took the capital as emperor of Qi, and the sovereign fled to Shu.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '883'
+  date_note: 中和三年
+  date_note_en: 3rd year of Zhonghe
+  title: 收复长安
+  title_en: Recovering Chang'an
+  summary: 李克用等破巢，帝将还。
+  summary_en: Li Keyong and the others broke Chao; the emperor was to return.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '888'
+  date_note: 文德元年
+  date_note_en: 1st year of Wende
+  title: 僖宗崩
+  title_en: Death of Emperor Xizong
+  summary: 还京后崩，昭宗继。
+  summary_en: He died after returning to the capital; Zhaozong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-yi-zong
+  note: 咸通十四年懿宗崩，第五子儇即位
+- type: successor
+  target_id: tang-zhao-zong
+  note: 文德元年崩，第七子晔即位
+- type: kinship
+  target_id: tang-yi-zong
+  note: 懿宗第五子
+routes:
+- group: 都城
+  order: 1
+  year: '873'
+  place_id: chang-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '875'
+  place_id: null
+  event: 黄巢起兵
+- group: 都城
+  order: 3
+  year: '880'
+  place_id: chang-an
+  event: 黄巢入长安
+- group: 都城
+  order: 4
+  year: '883'
+  place_id: chang-an
+  event: 收复长安
+- group: 都城
+  order: 5
+  year: '888'
+  place_id: chang-an
+  event: 僖宗崩
+sources:
+- title: 旧唐书·僖宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 黄巢编年
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第二十帝，正史立纪。
+  synced_from_cards: true

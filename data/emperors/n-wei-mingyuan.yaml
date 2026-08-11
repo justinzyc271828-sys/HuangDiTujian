@@ -1,0 +1,160 @@
+id: n-wei-mingyuan
+tier: emperor
+sort_key: 北魏-002
+names:
+  display: 明元帝
+  display_en: Emperor Mingyuan of Northern Wei
+  personal: 拓跋嗣
+  personal_en: Tuoba Si
+  temple: 太宗
+  posthumous: 明元皇帝
+  aliases:
+  - 拓跋木末
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 2
+reign:
+  start: '409'
+  end: '423'
+  eras:
+  - 永兴
+  - 神瑞
+  - 泰常
+life:
+  birth: '392'
+  death: '423'
+  birth_place_id: null
+  death_place_id: ping-cheng
+summary: 道武帝长子，父被弑后平乱即位；乘刘裕灭后秦之机取河南，尽有司兖豫淮北之地；立太子监国制，泰常八年崩。
+summary_en: Eldest son of Daowu, he put down the rebellion after his father's slaying
+  and took the throne; riding Liu Yu's conquest of Later Qin, he took Henan and held
+  Si, Yan, Yu, and the Huai north; he established the heir's regency and died in the
+  8th year of Taichang.
+tags:
+- 取河南
+- 太子监国
+- 乘乱拓疆
+- 守成
+tags_en:
+- Taking Henan
+- The Heir's Regency
+- Expansion in the Chaos
+- Stewardship
+portrait:
+  primary: assets/portraits/n-wei-mingyuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现守成拓疆的君主之态，衣冠从北魏初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-mingyuan.md
+timeline:
+- year: '392'
+  date_note: 登国七年
+  date_note_en: 7th year of Dengguo
+  title: 生
+  title_en: Birth
+  summary: 道武帝长子。
+  summary_en: Eldest son of Emperor Daowu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷003·太宗纪
+  card_id: E001
+- year: '409'
+  date_note: 永兴元年
+  date_note_en: 1st year of Yongxing
+  title: 即位
+  title_en: Accession
+  summary: 平清河王绍乱，即位改元永兴。
+  summary_en: He put down the Prince of Qinghe's rising, took the throne, and changed
+    the era to Yongxing.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '416'
+  date_note: 泰常元年
+  date_note_en: 1st year of Taichang
+  title: 刘裕北伐关中
+  title_en: Liu Yu's Western Campaign
+  summary: 裕灭后秦，魏伺机争河南。
+  summary_en: As Yu destroyed Later Qin, Wei watched for its chance at Henan.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '422'
+  date_note: 泰常七年
+  date_note_en: 7th year of Taichang
+  title: 取河南
+  title_en: Taking Henan
+  summary: 遣军取滑台、虎牢等，尽有司兖豫淮北。
+  summary_en: His armies took Huatai, Hulao, and the rest — Si, Yan, Yu, and the Huai
+    north were his.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '423'
+  date_note: 泰常八年
+  date_note_en: 8th year of Taichang
+  title: 明元帝崩
+  title_en: Death of Emperor Mingyuan
+  summary: 崩，太子焘继，是为太武帝。
+  summary_en: He died; his heir Tao succeeded — Emperor Taiwu.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '423'
+  date_note: 制度
+  date_note_en: institutions
+  title: 太子监国
+  title_en: The Heir's Regency
+  summary: 立焘为太子监国，为北魏储制重要。
+  summary_en: He made Tao heir and regent — an important step in Northern Wei's succession
+    system.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-daowu
+  note: 天赐六年道武遇弑，长子嗣即位
+- type: successor
+  target_id: n-wei-taiwu
+  note: 泰常八年崩，太子焘即位
+- type: kinship
+  target_id: n-wei-daowu
+  note: 道武帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '409'
+  place_id: ping-cheng
+  event: 即位
+- group: 其他
+  order: 2
+  year: '422'
+  place_id: null
+  event: 取河南
+- group: 都城
+  order: 3
+  year: '423'
+  place_id: ping-cheng
+  event: 明元帝崩
+sources:
+- title: 魏书·太宗纪
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 刘裕北伐互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第二帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,156 @@
+id: n-qi-wucheng
+tier: emperor
+sort_key: 北齐-004
+names:
+  display: 武成帝
+  display_en: Emperor Wucheng of Northern Qi
+  personal: 高湛
+  personal_en: Gao Zhan
+  temple: 世祖
+  posthumous: 武成皇帝
+  aliases:
+  - 高步落稽
+dynasty:
+  id: n-qi
+  label: 北齐
+  sequence: 4
+reign:
+  start: '561'
+  end: '565'
+  eras:
+  - 太宁
+  - 河清
+life:
+  birth: '537'
+  death: '569'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 高欢第九子，孝昭崩后即位，改元太宁、河清，颁律令；然荒淫委任佞幸，河清四年禅位太子纬，自称太上皇，天统五年崩。
+summary_en: Ninth son of Gao Huan, he took the throne after Xiaozhao's death, changing
+  the eras to Taining and Heqing and issuing the statutes; but he gave himself to
+  debauchery and trusted flatterers, and in the 4th year of Heqing abdicated to his
+  heir Wei, styling himself Grand Emperor. He died in the 5th year of Tiantong.
+tags:
+- 承兄即位
+- 颁布律令
+- 荒淫
+- 太上皇
+tags_en:
+- Succeeding His Brother
+- Issuing the Statutes
+- Debauchery
+- Grand Emperor
+portrait:
+  primary: assets/portraits/n-qi-wucheng/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现荒纵的君主之态，衣冠从北齐中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-qi-wucheng.md
+timeline:
+- year: '537'
+  date_note: 天平四年
+  date_note_en: 4th year of Tianping
+  title: 生
+  title_en: Birth
+  summary: 高欢第九子。
+  summary_en: Ninth son of Gao Huan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北齐书·卷007·武成纪
+  card_id: E001
+- year: '561'
+  date_note: 太宁元年
+  date_note_en: 1st year of Taining
+  title: 即位
+  title_en: Accession
+  summary: 孝昭崩，湛即位，改元太宁。
+  summary_en: On Xiaozhao's death Zhan took the throne and changed the era to Taining.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '562'
+  date_note: 河清元年
+  date_note_en: 1st year of Heqing
+  title: 改元河清
+  title_en: The Heqing Era
+  summary: 颁布律令等。
+  summary_en: He issued the statutes and the like.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '565'
+  date_note: 河清四年
+  date_note_en: 4th year of Heqing
+  title: 禅位太子
+  title_en: Abdication to the Heir
+  summary: 传位太子纬，自称太上皇。
+  summary_en: He passed the throne to his heir Wei and styled himself Grand Emperor.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '569'
+  date_note: 天统五年
+  date_note_en: 5th year of Tiantong
+  title: 武成崩
+  title_en: Death of Emperor Wucheng
+  summary: 以太上皇崩。
+  summary_en: He died as Grand Emperor.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '569'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 武成总评
+  title_en: Final Verdict
+  summary: 荒淫委任佞幸，为齐衰张本。
+  summary_en: Debauched and trusting flatterers, he laid the ground of Qi's decline.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-qi-xiaozhao
+  note: 皇建二年孝昭伤重崩，弟湛即位
+- type: successor
+  target_id: n-qi-houzhu
+  note: 河清四年禅位太子纬
+- type: kinship
+  target_id: n-qi-wenxuan
+  note: 文宣帝弟，高欢第九子
+routes:
+- group: 都城
+  order: 1
+  year: '561'
+  place_id: ye-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '565'
+  place_id: ye-cheng
+  event: 禅位太子
+- group: 都城
+  order: 3
+  year: '569'
+  place_id: ye-cheng
+  event: 武成崩
+sources:
+- title: 北齐书·武成纪
+  note: 主叙事
+- title: 北齐书·后主纪
+  note: 禅位互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北齐第四帝，正史立纪。
+  synced_from_cards: true

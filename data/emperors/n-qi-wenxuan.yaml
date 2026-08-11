@@ -1,0 +1,165 @@
+id: n-qi-wenxuan
+tier: emperor
+sort_key: 北齐-001
+names:
+  display: 文宣帝
+  display_en: Emperor Wenxuan of Northern Qi
+  personal: 高洋
+  personal_en: Gao Yang
+  temple: 显祖
+  posthumous: 文宣皇帝
+  aliases:
+  - 高子进
+dynasty:
+  id: n-qi
+  label: 北齐
+  sequence: 1
+reign:
+  start: '550'
+  end: '559'
+  eras:
+  - 天保
+life:
+  birth: '529'
+  death: '559'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 高欢第二子，受禅代东魏称帝，国号齐，都邺；初勤政、北讨山胡契丹、筑长城，后以酒狂杀戮，史极言之；天保十年崩。
+summary_en: Second son of Gao Huan, he received the abdication of Eastern Wei and
+  took the throne as Qi with its capital at Ye; diligent at first — campaigning north
+  against the mountain Hu and the Khitan and building the Great Wall — he later drowned
+  in wine and killed without measure, the histories condemning him utterly. He died
+  in the 10th year of Tianbao.
+tags:
+- 受禅开齐
+- 筑长城
+- 酒狂
+- 暴君
+tags_en:
+- The Abdication and the Founding of Qi
+- Building the Great Wall
+- Drunken Madness
+- Tyrant
+portrait:
+  primary: assets/portraits/n-qi-wenxuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现初勤后暴的君主之态，衣冠从北齐初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-qi-wenxuan.md
+timeline:
+- year: '529'
+  date_note: 永安二年
+  date_note_en: 2nd year of Yong'an
+  title: 生
+  title_en: Birth
+  summary: 高欢第二子，字子进。
+  summary_en: Second son of Gao Huan, styled Zijin.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北齐书·卷004·文宣纪
+  card_id: E001
+- year: '550'
+  date_note: 天保元年
+  date_note_en: 1st year of Tianbao
+  title: 受禅称帝
+  title_en: The Abdication Throne
+  summary: 孝静禅位，洋即皇帝位，国号齐，都邺。
+  summary_en: Emperor Xiaojing abdicated; Yang took the throne, styled the realm Qi,
+    and made Ye his capital.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '553'
+  date_note: 天保中
+  date_note_en: mid-Tianbao
+  title: 破库莫奚等
+  title_en: Breaking the Kumo Xi
+  summary: 北讨山胡、契丹等，拓边。
+  summary_en: He campaigned north against the mountain Hu and the Khitan, extending
+    the border.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '555'
+  date_note: 天保六年
+  date_note_en: 6th year of Tianbao
+  title: 筑长城
+  title_en: Building the Great Wall
+  summary: 发民夫筑长城，自西河至海。
+  summary_en: He drove the people to build the Great Wall from the Xi River to the
+    sea.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '559'
+  date_note: 天保十年
+  date_note_en: 10th year of Tianbao
+  title: 文宣崩
+  title_en: Death of Emperor Wenxuan
+  summary: 崩，子殷继，是为废帝。
+  summary_en: He died; his son Yin succeeded — the Deposed Emperor.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '559'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 文宣总评
+  title_en: Final Verdict
+  summary: 初勤政，后以酒狂杀戮，史极言之。
+  summary_en: Diligent at first, he later slew in drunken madness — the histories
+    condemn him utterly.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-wei-xiaojing
+  note: 天保元年受禅于东魏孝静帝
+- type: successor
+  target_id: n-qi-fei
+  note: 天保十年崩，子殷即位
+- type: related_emperor
+  target_id: n-zhou-wu
+  note: 与北周对峙，后为周武帝所灭
+routes:
+- group: 都城
+  order: 1
+  year: '550'
+  place_id: ye-cheng
+  event: 受禅称帝
+- group: 亲征
+  order: 2
+  year: '553'
+  place_id: null
+  event: 破库莫奚等
+- group: 其他
+  order: 3
+  year: '555'
+  place_id: null
+  event: 筑长城
+- group: 都城
+  order: 4
+  year: '559'
+  place_id: ye-cheng
+  event: 文宣崩
+sources:
+- title: 北齐书·文宣纪
+  note: 主叙事
+- title: 资治通鉴·陈纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北齐开国皇帝，正史立纪。
+  synced_from_cards: true

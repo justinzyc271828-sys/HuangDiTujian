@@ -1,0 +1,161 @@
+id: tang-shun-zong
+tier: emperor
+sort_key: 唐-013
+names:
+  display: 唐顺宗
+  display_en: Emperor Shunzong of Tang
+  personal: 李诵
+  personal_en: Li Song
+  temple: 顺宗
+  posthumous: 至德大圣大安孝皇帝
+  aliases: []
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 13
+reign:
+  start: '805'
+  end: '805'
+  eras:
+  - 永贞
+life:
+  birth: '761'
+  death: '806'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 德宗长子；贞元二十一年即位，改元永贞；王叔文、王伾等用事，谋夺宦官兵权，史称永贞革新；疾甚，同年禅位太子纯（宪宗），称太上皇，元和元年崩。
+summary_en: Eldest son of Dezong; he took the throne in the 21st year of Zhenyuan,
+  changing the era to Yongzhen; Wang Shuwen and Wang Pi held power and sought to take
+  the eunuchs' armies — the Yongzhen reform; gravely ill, he abdicated that same year
+  to his heir Chun (Xianzong), styled himself Grand Emperor, and died in the 1st year
+  of Yuanhe.
+tags:
+- 永贞革新
+- 二王八司马
+- 禅位宪宗
+- 短祚
+tags_en:
+- The Yongzhen Reform
+- The Two Kings and Eight Marshals
+- Abdication to Xianzong
+- Brief Reign
+portrait:
+  primary: assets/portraits/tang-shun-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现抱病让位之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-shun-zong.md
+timeline:
+- year: '761'
+  date_note: 上元二年
+  date_note_en: 2nd year of Shangyuan
+  title: 生
+  title_en: Birth
+  summary: 德宗长子。
+  summary_en: Eldest son of Dezong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷014·顺宗纪
+  card_id: E001
+- year: '805'
+  date_note: 贞元二十一年
+  date_note_en: 21st year of Zhenyuan
+  title: 即位
+  title_en: Accession
+  summary: 德宗崩，诵即位，改元永贞。
+  summary_en: Dezong died; Song took the throne and changed the era to Yongzhen.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '805'
+  date_note: 永贞元年
+  date_note_en: 1st year of Yongzhen
+  title: 二王八司马
+  title_en: The Two Kings and Eight Marshals
+  summary: 王叔文、王伾等用事，谋夺宦官兵权。
+  summary_en: Wang Shuwen and Wang Pi held power, seeking to take the eunuchs' armies.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '805'
+  date_note: 同年
+  date_note_en: same year
+  title: 禅位宪宗
+  title_en: Abdication to Xianzong
+  summary: 疾甚，传位太子纯，称太上皇。
+  summary_en: Gravely ill, he yielded the throne to his heir Chun and styled himself
+    Grand Emperor.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '806'
+  date_note: 元和元年
+  date_note_en: 1st year of Yuanhe
+  title: 太上皇崩
+  title_en: Death of the Grand Emperor
+  summary: 崩。
+  summary_en: He died.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '806'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 顺宗总评
+  title_en: Final Verdict
+  summary: 在位日浅，志在除弊而未成。
+  summary_en: His reign was brief; he meant to clear the abuses and could not finish.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-de-zong
+  note: 贞元二十一年德宗崩，太子诵即位
+- type: successor
+  target_id: tang-xian-zong
+  note: 永贞元年禅位太子纯（宪宗）
+- type: kinship
+  target_id: tang-de-zong
+  note: 德宗长子
+routes:
+- group: 都城
+  order: 1
+  year: '805'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '805'
+  place_id: chang-an
+  event: 二王八司马
+- group: 都城
+  order: 3
+  year: '805'
+  place_id: chang-an
+  event: 禅位宪宗
+- group: 都城
+  order: 4
+  year: '806'
+  place_id: chang-an
+  event: 太上皇崩
+sources:
+- title: 旧唐书·顺宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 永贞革新编年
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十三帝，正史立纪。
+  synced_from_cards: true

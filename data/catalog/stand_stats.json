@@ -2368,6 +2368,906 @@
       "cry_en": "The Jingyang well, and the rouge tears were spent.",
       "ability_en": "Raised the pavilions and wrote the verse of a lost realm.",
       "weakness_en": "Drowned in wine and women, and lost the realm."
+    },
+    "n-wei-daowu": {
+      "stand_name": "【复国开魏】",
+      "stand_type": "开国之君",
+      "cry": "参合一役，燕师尽坑。",
+      "scores": {
+        "wugong": 75,
+        "wenzhi": 40,
+        "taolue": 70,
+        "guozuo": 60,
+        "houxiao": 80,
+        "yuedan": 55
+      },
+      "ability": "复国开魏；离散部落。",
+      "weakness": "晚年猜暴；遇弑宫闱。",
+      "stand_name_en": "Restorer and Founder",
+      "stand_type_en": "Founding Sovereign",
+      "cry_en": "One battle at the Canhe marshes, and the Yan host was buried.",
+      "ability_en": "Restored the state, founded Wei, and dissolved the tribes into a nation.",
+      "weakness_en": "Jealous and cruel in his last years, he was slain in the palace."
+    },
+    "n-wei-mingyuan": {
+      "stand_name": "【乘乱拓疆】",
+      "stand_type": "守成之主",
+      "cry": "裕灭后秦，魏收河南。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 45,
+        "taolue": 50,
+        "guozuo": 55,
+        "houxiao": 55,
+        "yuedan": 50
+      },
+      "ability": "平乱即位；取河南地。",
+      "weakness": "享祚不永；储嗣早定。",
+      "stand_name_en": "Expansion in the Chaos",
+      "stand_type_en": "Steward of the Realm",
+      "cry_en": "Yu destroyed Later Qin, and Wei took Henan.",
+      "ability_en": "Took the throne in the turmoil and carried the border to Henan.",
+      "weakness_en": "His reign was brief and the succession fixed too early."
+    },
+    "n-wei-wencheng": {
+      "stand_name": "【云冈开窟】",
+      "stand_type": "宽和守成",
+      "cry": "昙曜奏开，武周山窟。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 55,
+        "taolue": 35,
+        "guozuo": 55,
+        "houxiao": 65,
+        "yuedan": 55
+      },
+      "ability": "复佛安民；云冈开窟。",
+      "weakness": "武功不振；享年不永。",
+      "stand_name_en": "The Yungang Caves",
+      "stand_type_en": "Lenient Stewardship",
+      "cry_en": "At Tanyao's plea, the caves of Wuzhou Mountain were opened.",
+      "ability_en": "Restored the faith, calmed the people, and opened Yungang.",
+      "weakness_en": "Weak in arms, and his years were few."
+    },
+    "n-wei-xianwen": {
+      "stand_name": "【志在恬退】",
+      "stand_type": "禅位之君",
+      "cry": "年十七而禅，慕浮屠之虚。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 40,
+        "taolue": 35,
+        "guozuo": 35,
+        "houxiao": 40,
+        "yuedan": 40
+      },
+      "ability": "诛浑亲政；志在恬退。",
+      "weakness": "禅位过早；暴崩可疑。",
+      "stand_name_en": "The Abdicating Sovereign",
+      "stand_type_en": "Withdrawal from the Throne",
+      "cry_en": "Abdicated at seventeen, enamored of the Buddha's emptiness.",
+      "ability_en": "Slew Yi Hun, ruled in person, and then withdrew.",
+      "weakness_en": "Abdicated too early and died suddenly, the histories suspect."
+    },
+    "n-wei-xuanwu": {
+      "stand_name": "【洛阳伽蓝】",
+      "stand_type": "崇佛守成",
+      "cry": "伽蓝千余，钟磬相闻。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 50,
+        "taolue": 40,
+        "guozuo": 65,
+        "houxiao": 50,
+        "yuedan": 40
+      },
+      "ability": "亲政罢辅；南伐争淮。",
+      "weakness": "佞佛崇寺；储嗣未立。",
+      "stand_name_en": "The Luoyang Monasteries",
+      "stand_type_en": "Buddhist Stewardship",
+      "cry_en": "A thousand monasteries, bells and stones answering each other.",
+      "ability_en": "Ruled in person and contended with Liang for the Huai.",
+      "weakness_en": "Doted on Buddhism and its temples; the succession was unsecured."
+    },
+    "n-wei-xiaoming": {
+      "stand_name": "【六镇之乱】",
+      "stand_type": "幼主衰世",
+      "cry": "沃野兵起，魏室将倾。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 15,
+        "taolue": 10,
+        "guozuo": 55,
+        "houxiao": 60,
+        "yuedan": 25
+      },
+      "ability": "冲年嗣位；母后临朝。",
+      "weakness": "权在母后；暴崩致乱。",
+      "stand_name_en": "The Six Garrisons Rising",
+      "stand_type_en": "Child Sovereign in Decline",
+      "cry_en": "The Woye garrison rose, and the Wei house was near its fall.",
+      "ability_en": "Took the throne as a child under his mother's regency.",
+      "weakness_en": "The power was his mother's; his sudden death loosed the storm."
+    },
+    "n-wei-xiaozhuang": {
+      "stand_name": "【手刃尔朱】",
+      "stand_type": "复仇之君",
+      "cry": "明光殿上，手刃权臣。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 25,
+        "taolue": 40,
+        "guozuo": 15,
+        "houxiao": 45,
+        "yuedan": 45
+      },
+      "ability": "河阴践祚；手刃尔朱。",
+      "weakness": "力不从心；被弑晋阳。",
+      "stand_name_en": "The Avenger's Knife",
+      "stand_type_en": "Sovereign of Revenge",
+      "cry_en": "In the Mingguang Hall, his own hand against the strong minister.",
+      "ability_en": "Took the throne amid the Heyin massacre and slew Erzhu Rong.",
+      "weakness_en": "The strength did not match; he was slain at Jinyang."
+    },
+    "n-wei-jemin": {
+      "stand_name": "【佯聋全身】",
+      "stand_type": "傀儡短祚",
+      "cry": "佯聋避祸，终亦不免。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 25,
+        "taolue": 20,
+        "guozuo": 5,
+        "houxiao": 25,
+        "yuedan": 30
+      },
+      "ability": "佯聋避祸；被立为帝。",
+      "weakness": "傀儡尔朱；见废遇害。",
+      "stand_name_en": "Feigning Deafness",
+      "stand_type_en": "Puppet of a Year",
+      "cry_en": "He feigned deafness to escape, and could not escape in the end.",
+      "ability_en": "Hid by feigned deafness, then was set on the throne.",
+      "weakness_en": "The Erzhu's puppet, deposed and done to death."
+    },
+    "n-wei-xiaowu": {
+      "stand_name": "【西奔长安】",
+      "stand_type": "魏分之人",
+      "cry": "一奔关中，魏分东西。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 25,
+        "taolue": 25,
+        "guozuo": 15,
+        "houxiao": 45,
+        "yuedan": 30
+      },
+      "ability": "高欢所立；西奔长安。",
+      "weakness": "受制权臣；遇鸩而亡。",
+      "stand_name_en": "The Flight West",
+      "stand_type_en": "The Split of Wei",
+      "cry_en": "One flight into the pass, and Wei split into east and west.",
+      "ability_en": "Set up by Gao Huan, he fled west to Chang'an.",
+      "weakness_en": "Bound by the strong ministers, he died by poison."
+    },
+    "e-wei-xiaojing": {
+      "stand_name": "【邺城傀儡】",
+      "stand_type": "十六年守位",
+      "cry": "聪慧好文，终为高氏所制。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 35,
+        "taolue": 15,
+        "guozuo": 60,
+        "houxiao": 45,
+        "yuedan": 40
+      },
+      "ability": "迁邺受制；聪慧好文。",
+      "weakness": "傀儡高氏；禅后遇害。",
+      "stand_name_en": "The Puppet of Ye",
+      "stand_type_en": "Sixteen Years on the Throne",
+      "cry_en": "Sharp and fond of letters, in the end the Gao house's captive.",
+      "ability_en": "Moved the capital to Ye and kept the sovereign's bearing.",
+      "weakness_en": "The Gao house's puppet, slain after the abdication."
+    },
+    "w-wei-wen": {
+      "stand_name": "【关中垂拱】",
+      "stand_type": "西魏守文",
+      "cry": "沙苑一胜，西魏立足。",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 35,
+        "taolue": 25,
+        "guozuo": 60,
+        "houxiao": 55,
+        "yuedan": 40
+      },
+      "ability": "长安践祚；垂拱泰政。",
+      "weakness": "受制宇文；身不由己。",
+      "stand_name_en": "The Folded Hands of Guanzhong",
+      "stand_type_en": "Sovereign of Western Wei",
+      "cry_en": "One victory at Shayuan, and Western Wei stood.",
+      "ability_en": "Took the throne at Chang'an and reigned with folded hands.",
+      "weakness_en": "Bound by the Yuwens, not his own master."
+    },
+    "w-wei-fei": {
+      "stand_name": "【欲振而败】",
+      "stand_type": "见废之君",
+      "cry": "密谋诛泰，事泄身亡。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 20,
+        "taolue": 15,
+        "guozuo": 20,
+        "houxiao": 25,
+        "yuedan": 30
+      },
+      "ability": "嗣位长安；欲自振作。",
+      "weakness": "谋泄见废；遇害而终。",
+      "stand_name_en": "The Failed Rising",
+      "stand_type_en": "Sovereign Deposed",
+      "cry_en": "He plotted against Tai, the plot leaked, and he died.",
+      "ability_en": "Took the throne at Chang'an and would have stood alone.",
+      "weakness_en": "The plot leaked; he was deposed and done to death."
+    },
+    "w-wei-gong": {
+      "stand_name": "【西魏终章】",
+      "stand_type": "末代禅君",
+      "cry": "禅位于周，关陇易主。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 15,
+        "taolue": 5,
+        "guozuo": 15,
+        "houxiao": 40,
+        "yuedan": 25
+      },
+      "ability": "受命继统；坐视禅代。",
+      "weakness": "政归宇文；禅后遇害。",
+      "stand_name_en": "The Last Chapter of Western Wei",
+      "stand_type_en": "Sovereign of the Final Abdication",
+      "cry_en": "He abdicated to Zhou, and Guanzhong changed masters.",
+      "ability_en": "Took the throne by succession and watched the realm pass.",
+      "weakness_en": "The power was the Yuwens'; he was slain after the abdication."
+    },
+    "n-qi-wenxuan": {
+      "stand_name": "【酒狂开国】",
+      "stand_type": "英暴两兼",
+      "cry": "初政清明，末年酒狂。",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 35,
+        "taolue": 55,
+        "guozuo": 55,
+        "houxiao": 45,
+        "yuedan": 15
+      },
+      "ability": "受禅开齐；筑城拓边。",
+      "weakness": "酒狂杀戮；史极言之。",
+      "stand_name_en": "The Drunken Founder",
+      "stand_type_en": "Hero and Tyrant in One",
+      "cry_en": "Clear in his first years, mad with wine in his last.",
+      "ability_en": "Founded Qi by abdication; built the Wall and extended the border.",
+      "weakness_en": "Slew in drunken madness — the histories condemn him utterly."
+    },
+    "n-qi-fei": {
+      "stand_name": "【好学见废】",
+      "stand_type": "冲主失位",
+      "cry": "幼而好学，不能自固。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 25,
+        "taolue": 5,
+        "guozuo": 10,
+        "houxiao": 20,
+        "yuedan": 30
+      },
+      "ability": "幼而好学；嗣位一年。",
+      "weakness": "不能自固；见废遇害。",
+      "stand_name_en": "The Studious Deposed",
+      "stand_type_en": "Child Sovereign Cast Down",
+      "cry_en": "Studious from youth, unable to hold his own.",
+      "ability_en": "Studious and gentle, he reigned a single year.",
+      "weakness_en": "Could not hold his own, and was deposed and slain."
+    },
+    "n-qi-xiaozhao": {
+      "stand_name": "【短祚明君】",
+      "stand_type": "革弊而亡",
+      "cry": "明察俭约，欲革文宣之弊。",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 40,
+        "taolue": 40,
+        "guozuo": 10,
+        "houxiao": 35,
+        "yuedan": 45
+      },
+      "ability": "废侄自立；留心政事。",
+      "weakness": "北讨坠马；短祚早崩。",
+      "stand_name_en": "The Brief Bright Sovereign",
+      "stand_type_en": "Reformer Cut Short",
+      "cry_en": "Clear-sighted and frugal, set on repairing Wenxuan's evils.",
+      "ability_en": "Took the throne by deposition and attended to government.",
+      "weakness_en": "Fell from his horse on campaign and died in his year."
+    },
+    "n-qi-wucheng": {
+      "stand_name": "【荒纵衰政】",
+      "stand_type": "为齐衰张本",
+      "cry": "委任佞幸，齐政之衰自此始。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 25,
+        "taolue": 20,
+        "guozuo": 45,
+        "houxiao": 35,
+        "yuedan": 15
+      },
+      "ability": "承兄即位；颁布律令。",
+      "weakness": "荒淫委佞；齐衰之渐。",
+      "stand_name_en": "The Licentious Decline",
+      "stand_type_en": "Ground of Qi's Ruin",
+      "cry_en": "He trusted flatterers, and the decline of Qi's government began here.",
+      "ability_en": "Succeeded his brother and issued the statutes.",
+      "weakness_en": "Debauched and trusting flatterers, the first step of Qi's decline."
+    },
+    "n-qi-houzhu": {
+      "stand_name": "【无愁天子】",
+      "stand_type": "亡国之君",
+      "cry": "弹无愁曲，齐祚以终。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 25,
+        "taolue": 5,
+        "guozuo": 60,
+        "houxiao": 55,
+        "yuedan": 5
+      },
+      "ability": "无愁天子；艳曲自娱。",
+      "weakness": "杀斛律光；北齐速亡。",
+      "stand_name_en": "The Sorrowless Sovereign",
+      "stand_type_en": "Sovereign of a Lost Realm",
+      "cry_en": "He played the song without sorrow, and the fortunes of Qi were at an end.",
+      "ability_en": "The Sorrowless Sovereign, lost in his own music.",
+      "weakness_en": "Slew Hulü Guang, and Qi fell swiftly."
+    },
+    "n-zhou-xiao-min": {
+      "stand_name": "【受禅而弑】",
+      "stand_type": "开国即亡",
+      "cry": "天王受禅，权臣弑之。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 5,
+        "houxiao": 20,
+        "yuedan": 25
+      },
+      "ability": "受禅称王；幼冲在位。",
+      "weakness": "谋泄见废；身死略阳。",
+      "stand_name_en": "The Abdication and the Slaying",
+      "stand_type_en": "Founder Slain at Once",
+      "cry_en": "He took the heavenly kingship by abdication, and the minister slew him.",
+      "ability_en": "Received the abdication as a child sovereign.",
+      "weakness_en": "His plot leaked; he was deposed and slain."
+    },
+    "n-zhou-ming": {
+      "stand_name": "【好学被鸩】",
+      "stand_type": "文雅受制",
+      "cry": "宽明仁厚，而见鸩于权臣。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 45,
+        "taolue": 20,
+        "guozuo": 25,
+        "houxiao": 30,
+        "yuedan": 45
+      },
+      "ability": "宽明仁厚；好学能诗。",
+      "weakness": "权在晋公；见鸩而崩。",
+      "stand_name_en": "The Poet Poisoned",
+      "stand_type_en": "Letters under the Minister's Grip",
+      "cry_en": "Generous and kind, and poisoned by the strong minister.",
+      "ability_en": "Generous, learned, and a poet.",
+      "weakness_en": "The power with the Duke of Jin, he died by poison."
+    },
+    "n-zhou-wu": {
+      "stand_name": "【灭齐一统】",
+      "stand_type": "一代雄主",
+      "cry": "亲征克邺，北方复统。",
+      "scores": {
+        "wugong": 80,
+        "wenzhi": 50,
+        "taolue": 75,
+        "guozuo": 70,
+        "houxiao": 75,
+        "yuedan": 70
+      },
+      "ability": "诛护亲政；灭齐一统。",
+      "weakness": "灭佛毁道；早崩遗祸。",
+      "stand_name_en": "The Unifier of the North",
+      "stand_type_en": "Hero of the Age",
+      "cry_en": "He took Ye in person, and the north was one again.",
+      "ability_en": "Slew Yuwen Hu, ruled in person, and destroyed Qi to unite the north.",
+      "weakness_en": "Proscribed Buddhism and Daoism; his early death loosed the disaster."
+    },
+    "n-zhou-xuan": {
+      "stand_name": "【天元侈暴】",
+      "stand_type": "自毁其国",
+      "cry": "自比上帝，刑杀无度。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 20,
+        "taolue": 5,
+        "guozuo": 15,
+        "houxiao": 45,
+        "yuedan": 5
+      },
+      "ability": "天元自比；立四皇后。",
+      "weakness": "侈暴无度；杨坚乘隙。",
+      "stand_name_en": "The Tianyuan's Excess",
+      "stand_type_en": "Ruin by His Own Hand",
+      "cry_en": "He compared himself to Heaven and slew without measure.",
+      "ability_en": "Styled himself the Tianyuan Emperor and set up four empresses.",
+      "weakness_en": "Extravagant and cruel, he let Yang Jian through the gap."
+    },
+    "n-zhou-jing": {
+      "stand_name": "【禅位成隋】",
+      "stand_type": "末代幼主",
+      "cry": "幼冲当禅，身成隋基。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 15,
+        "houxiao": 40,
+        "yuedan": 20
+      },
+      "ability": "幼冲即位；坐视禅代。",
+      "weakness": "国柄归杨；禅后遇害。",
+      "stand_name_en": "The Abdication That Made Sui",
+      "stand_type_en": "Last Child Sovereign",
+      "cry_en": "A child in the abdication, his life the foundation of Sui.",
+      "ability_en": "Sat the throne as a child and watched the realm pass.",
+      "weakness_en": "The power was Yang Jian's; he was slain after the abdication."
+    },
+    "sui-gong": {
+      "stand_name": "【隋祚终章】",
+      "stand_type": "末代傀儡",
+      "cry": "幼冲被立，禅位于唐。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 10,
+        "taolue": 3,
+        "guozuo": 10,
+        "houxiao": 35,
+        "yuedan": 20
+      },
+      "ability": "幼冲被立；坐视禅代。",
+      "weakness": "炀帝之孙；禅后早薨。",
+      "stand_name_en": "The Last Chapter of Sui",
+      "stand_type_en": "Last Figurehead",
+      "cry_en": "Set up as a child, he abdicated to Tang.",
+      "ability_en": "Set on the throne as a child, he watched the realm pass.",
+      "weakness_en": "Grandson of Emperor Yang, he died soon after the abdication."
+    },
+    "tang-gao-zu": {
+      "stand_name": "【太原开唐】",
+      "stand_type": "开国之君",
+      "cry": "太原起兵，大唐肇基。",
+      "scores": {
+        "wugong": 60,
+        "wenzhi": 40,
+        "taolue": 65,
+        "guozuo": 70,
+        "houxiao": 60,
+        "yuedan": 55
+      },
+      "ability": "太原起兵；开创大唐。",
+      "weakness": "玄武门变；让位而终。",
+      "stand_name_en": "The Taiyuan Founder",
+      "stand_type_en": "Founding Sovereign",
+      "cry_en": "He rose at Taiyuan, and the Tang began.",
+      "ability_en": "Rose at Taiyuan and founded the Tang.",
+      "weakness_en": "The Xuanwu Gate; he ended as a yielded throne."
+    },
+    "tang-gao-zong": {
+      "stand_name": "【永徽承统】",
+      "stand_type": "承平之君",
+      "cry": "永徽遗风，政归中宫。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 55,
+        "taolue": 45,
+        "guozuo": 80,
+        "houxiao": 60,
+        "yuedan": 50
+      },
+      "ability": "永徽承统；平丽定疆。",
+      "weakness": "风眩委政；武后坐大。",
+      "stand_name_en": "The Yonghui Heir",
+      "stand_type_en": "Sovereign of the Peace",
+      "cry_en": "The Yonghui air, and the government passing to the inner palace.",
+      "ability_en": "Carried the Yonghui legacy; subdued Goguryeo and fixed the borders.",
+      "weakness_en": "His vertigo gave the government to Wu, who grew great."
+    },
+    "tang-zhong-zong-a": {
+      "stand_name": "【月余而废】",
+      "stand_type": "武后废立",
+      "cry": "欲任外戚，见废房州。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 15,
+        "taolue": 5,
+        "guozuo": 5,
+        "houxiao": 35,
+        "yuedan": 25
+      },
+      "ability": "嗣位月余；权在武后。",
+      "weakness": "妄任外戚；见废房州。",
+      "stand_name_en": "A Month and Deposed",
+      "stand_type_en": "Wu's Deposition",
+      "cry_en": "He would raise his wife's kin, and was deposed to Fangzhou.",
+      "ability_en": "A month on the throne, the power with Empress Wu.",
+      "weakness_en": "Raised his wife's kin recklessly and was deposed to Fangzhou."
+    },
+    "tang-rui-zong-a": {
+      "stand_name": "【武周前夜】",
+      "stand_type": "傀儡过渡",
+      "cry": "政事皆决，降为皇嗣。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 20,
+        "taolue": 10,
+        "guozuo": 40,
+        "houxiao": 40,
+        "yuedan": 35
+      },
+      "ability": "傀儡践祚；武后临朝。",
+      "weakness": "政事皆决；降为皇嗣。",
+      "stand_name_en": "Eve of the Wu Zhou",
+      "stand_type_en": "Puppet of Transition",
+      "cry_en": "Every matter decided by Wu, he was reduced to heir.",
+      "ability_en": "Sat as a puppet under Wu's regency.",
+      "weakness_en": "The government was Wu's; he was reduced to heir."
+    },
+    "tang-zhong-zong-b": {
+      "stand_name": "【神龙复位】",
+      "stand_type": "庸懦再立",
+      "cry": "复位不能振，终死宫闱。",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 25,
+        "taolue": 20,
+        "guozuo": 45,
+        "houxiao": 45,
+        "yuedan": 25
+      },
+      "ability": "神龙复位；还都长安。",
+      "weakness": "韦后斜封；暴崩宫闱。",
+      "stand_name_en": "The Shenlong Restoration",
+      "stand_type_en": "Restored, Unable to Rise",
+      "cry_en": "Restored but unable to revive the court, he died within the palace.",
+      "ability_en": "Restored by the Shenlong coup and returned the capital to Chang'an.",
+      "weakness_en": "Empress Wei's slanted letters; he died suddenly in the palace."
+    },
+    "tang-shang": {
+      "stand_name": "【唐隆让位】",
+      "stand_type": "月内傀儡",
+      "cry": "韦后所立，唐隆让位。",
+      "scores": {
+        "wugong": 3,
+        "wenzhi": 8,
+        "taolue": 3,
+        "guozuo": 3,
+        "houxiao": 20,
+        "yuedan": 20
+      },
+      "ability": "韦后所立；唐隆让位。",
+      "weakness": "幼冲傀儡；旋遭废黜。",
+      "stand_name_en": "The Tanglong Yield",
+      "stand_type_en": "Puppet of a Month",
+      "cry_en": "Empress Wei's choice, he yielded in the Tanglong coup.",
+      "ability_en": "Set up by Empress Wei, he yielded within the month.",
+      "weakness_en": "A child puppet, deposed at once."
+    },
+    "tang-rui-zong-b": {
+      "stand_name": "【让位贤子】",
+      "stand_type": "知进退者",
+      "cry": "能让位贤子，史有令名。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 35,
+        "taolue": 30,
+        "guozuo": 15,
+        "houxiao": 45,
+        "yuedan": 55
+      },
+      "ability": "唐隆复位；传位贤子。",
+      "weakness": "政出太平；两朝傀儡。",
+      "stand_name_en": "Yielding to the Worthy Son",
+      "stand_type_en": "He Who Knew to Withdraw",
+      "cry_en": "He yielded to his worthy son — a good name in history.",
+      "ability_en": "Restored after Tanglong, he yielded to his worthy son.",
+      "weakness_en": "The princess ruled; twice a puppet."
+    },
+    "tang-xuan-zong": {
+      "stand_name": "【开元天宝】",
+      "stand_type": "盛世之主",
+      "cry": "开元励精，天宝骄怠。",
+      "scores": {
+        "wugong": 65,
+        "wenzhi": 80,
+        "taolue": 70,
+        "guozuo": 90,
+        "houxiao": 80,
+        "yuedan": 75
+      },
+      "ability": "开元之治；盛世之君。",
+      "weakness": "天宝骄怠；安史祸国。",
+      "stand_name_en": "Kaiyuan and Tianbao",
+      "stand_type_en": "Sovereign of the Golden Age",
+      "cry_en": "Kaiyuan diligent, Tianbao complacent.",
+      "ability_en": "Brought the Kaiyuan golden age.",
+      "weakness_en": "Complacent in the Tianbao years, he loosed the An–Shi rebellion."
+    },
+    "tang-su-zong": {
+      "stand_name": "【灵武中兴】",
+      "stand_type": "艰难复国",
+      "cry": "两京虽复，河北未靖。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 30,
+        "taolue": 40,
+        "guozuo": 55,
+        "houxiao": 50,
+        "yuedan": 45
+      },
+      "ability": "灵武即位；克复两京。",
+      "weakness": "河北未靖；宫闱不宁。",
+      "stand_name_en": "The Lingwu Restoration",
+      "stand_type_en": "Restoration through Hardship",
+      "cry_en": "The two capitals recovered, but Hebei unquiet.",
+      "ability_en": "Took the throne at Lingwu and recovered the two capitals.",
+      "weakness_en": "Hebei unsettled, and the palace in disorder."
+    },
+    "tang-dai-zong": {
+      "stand_name": "【平乱守成】",
+      "stand_type": "藩镇坐大",
+      "cry": "安史既平，河朔遂割。",
+      "scores": {
+        "wugong": 45,
+        "wenzhi": 30,
+        "taolue": 40,
+        "guozuo": 70,
+        "houxiao": 45,
+        "yuedan": 40
+      },
+      "ability": "平乱守成；代宗之政。",
+      "weakness": "元载专权；佞佛失道。",
+      "stand_name_en": "Peace after the Storm",
+      "stand_type_en": "The Feudatories Grow",
+      "cry_en": "The An–Shi rebellion ended, and the Heshuo was cut off.",
+      "ability_en": "Ended the rebellion and held the realm.",
+      "weakness_en": "Yuan Zai in power, and Buddhism adored beyond reason."
+    },
+    "tang-de-zong": {
+      "stand_name": "【两税奉天】",
+      "stand_type": "削藩挫志",
+      "cry": "奉天播迁，罪己而还。",
+      "scores": {
+        "wugong": 40,
+        "wenzhi": 45,
+        "taolue": 45,
+        "guozuo": 75,
+        "houxiao": 50,
+        "yuedan": 40
+      },
+      "ability": "行两税法；初欲削藩。",
+      "weakness": "奉天播迁；晚多猜忌。",
+      "stand_name_en": "Two Taxes and Fengtian",
+      "stand_type_en": "The Broken Will to Cut the Feudatories",
+      "cry_en": "Exiled at Fengtian, he returned by an edict of self-blame.",
+      "ability_en": "Introduced the two-tax system and would have cut the feudatories.",
+      "weakness_en": "The Fengtian exile, and suspicion and greed in his last years."
+    },
+    "tang-shun-zong": {
+      "stand_name": "【永贞革新】",
+      "stand_type": "除弊未成",
+      "cry": "百日革新，二王八马。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 40,
+        "taolue": 30,
+        "guozuo": 5,
+        "houxiao": 45,
+        "yuedan": 50
+      },
+      "ability": "永贞革新；志在除弊。",
+      "weakness": "疾甚禅位；革新未成。",
+      "stand_name_en": "The Yongzhen Reform",
+      "stand_type_en": "The Unfinished Clearing",
+      "cry_en": "A hundred days of reform, the Two Kings and Eight Marshals.",
+      "ability_en": "Launched the Yongzhen reform, meaning to clear the abuses.",
+      "weakness_en": "Too ill to hold the throne; the reform unfinished."
+    },
+    "tang-mu-zong": {
+      "stand_name": "【销兵误国】",
+      "stand_type": "河北复叛",
+      "cry": "元和之功，一朝尽失。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 20,
+        "taolue": 15,
+        "guozuo": 35,
+        "houxiao": 40,
+        "yuedan": 20
+      },
+      "ability": "即位承统；游宴怠政。",
+      "weakness": "销兵误国；河北再乱。",
+      "stand_name_en": "The Disbanding That Misled",
+      "stand_type_en": "Hebei Rises Again",
+      "cry_en": "The gains of Yuanhe, lost in a day.",
+      "ability_en": "Succeeded to the throne and played it away.",
+      "weakness_en": "Disbanding the armies misled the realm; Hebei rose again."
+    },
+    "tang-jing-zong": {
+      "stand_name": "【童心见弑】",
+      "stand_type": "阉寺之祸",
+      "cry": "夜猎还宫，身死阉寺。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 15,
+        "taolue": 5,
+        "guozuo": 20,
+        "houxiao": 30,
+        "yuedan": 15
+      },
+      "ability": "嗣位年少；游猎无度。",
+      "weakness": "童心未化；身死阉寺。",
+      "stand_name_en": "A Child Slain",
+      "stand_type_en": "The Eunuch Disaster",
+      "cry_en": "Home from the night hunt, he died by the eunuchs' hand.",
+      "ability_en": "A young sovereign who played without limit.",
+      "weakness_en": "A child at heart, slain by the eunuchs."
+    },
+    "tang-wen-zong": {
+      "stand_name": "【甘露之变】",
+      "stand_type": "除宦败局",
+      "cry": "欲除家奴，反受其制。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 55,
+        "taolue": 30,
+        "guozuo": 65,
+        "houxiao": 50,
+        "yuedan": 45
+      },
+      "ability": "恭俭好文；有意除宦。",
+      "weakness": "甘露事败；受制阉宦。",
+      "stand_name_en": "The Ganlu Incident",
+      "stand_type_en": "The Failed Strike at the Eunuchs",
+      "cry_en": "He would destroy his own servants, and was bound by them instead.",
+      "ability_en": "Frugal and scholarly, he meant to destroy the eunuchs.",
+      "weakness_en": "The Ganlu plot failed; he was bound by the eunuchs."
+    },
+    "tang-wu-zong": {
+      "stand_name": "【会昌中兴】",
+      "stand_type": "昙花之盛",
+      "cry": "任德裕而中兴，服丹药而暴崩。",
+      "scores": {
+        "wugong": 55,
+        "wenzhi": 45,
+        "taolue": 55,
+        "guozuo": 55,
+        "houxiao": 60,
+        "yuedan": 45
+      },
+      "ability": "会昌中兴；平泽潞藩。",
+      "weakness": "灭佛毁教；服丹暴崩。",
+      "stand_name_en": "The Huichang Revival",
+      "stand_type_en": "A Flash of Glory",
+      "cry_en": "With Deyu the revival; with the elixirs, the sudden death.",
+      "ability_en": "Brought the Huichang revival and destroyed Zelu.",
+      "weakness_en": "The persecution of Buddhism, and death by the elixirs."
+    },
+    "tang-xuan-zong-ii": {
+      "stand_name": "【大中之治】",
+      "stand_type": "小太宗",
+      "cry": "精于听断，察察为明。",
+      "scores": {
+        "wugong": 30,
+        "wenzhi": 70,
+        "taolue": 55,
+        "guozuo": 65,
+        "houxiao": 60,
+        "yuedan": 70
+      },
+      "ability": "大中之治；精于听断。",
+      "weakness": "察察为明；用相不终。",
+      "stand_name_en": "The Dazhong Recovery",
+      "stand_type_en": "The Little Taizong",
+      "cry_en": "Sharp in judgment, seeing all too clearly.",
+      "ability_en": "Brought the Dazhong recovery and judged sharply.",
+      "weakness_en": "Saw into everything; his chancellors did not last."
+    },
+    "tang-yi-zong": {
+      "stand_name": "【奢侈佞佛】",
+      "stand_type": "盗贼始炽",
+      "cry": "迎佛骨而民怨，纵宴乐而政衰。",
+      "scores": {
+        "wugong": 15,
+        "wenzhi": 20,
+        "taolue": 15,
+        "guozuo": 65,
+        "houxiao": 45,
+        "yuedan": 15
+      },
+      "ability": "承平嗣位；宴乐无度。",
+      "weakness": "奢侈佞佛；盗贼始炽。",
+      "stand_name_en": "Extravagance and the Relic",
+      "stand_type_en": "The Bandits Flame Up",
+      "cry_en": "The relic welcomed and the people resentful; the feasting endless and the government failing.",
+      "ability_en": "Succeeded to the peace and spent it in pleasure.",
+      "weakness_en": "Extravagant and Buddhist-mad, he let the bandits flame up."
+    },
+    "tang-xi-zong": {
+      "stand_name": "【黄巢之乱】",
+      "stand_type": "幸蜀播迁",
+      "cry": "黄巢入京，再幸成都。",
+      "scores": {
+        "wugong": 10,
+        "wenzhi": 15,
+        "taolue": 10,
+        "guozuo": 65,
+        "houxiao": 55,
+        "yuedan": 15
+      },
+      "ability": "冲龄践祚；政在令孜。",
+      "weakness": "黄巢入京；幸蜀播迁。",
+      "stand_name_en": "The Huang Chao Rebellion",
+      "stand_type_en": "Exile in Shu",
+      "cry_en": "Huang Chao entered the capital, and the emperor fled again to Chengdu.",
+      "ability_en": "A child on the throne, the government with Tian Lingzi.",
+      "weakness_en": "Huang Chao took the capital, and the emperor fled to Shu."
+    },
+    "tang-zhao-zong": {
+      "stand_name": "【欲振而弑】",
+      "stand_type": "唐亡前夜",
+      "cry": "有心兴复，无力回天。",
+      "scores": {
+        "wugong": 20,
+        "wenzhi": 40,
+        "taolue": 35,
+        "guozuo": 65,
+        "houxiao": 50,
+        "yuedan": 45
+      },
+      "ability": "有意兴复；屡图自振。",
+      "weakness": "强藩环伺；迁洛被弑。",
+      "stand_name_en": "The Would-Be Restorer",
+      "stand_type_en": "Eve of the Fall",
+      "cry_en": "He had the will to restore, not the strength to turn the tide.",
+      "ability_en": "Meant to restore the realm and tried again and again.",
+      "weakness_en": "Ringed by the feudatories, taken to Luoyang and slain."
+    },
+    "tang-ai-di": {
+      "stand_name": "【唐祚终章】",
+      "stand_type": "末代禅君",
+      "cry": "白马投河，禅位于梁。",
+      "scores": {
+        "wugong": 5,
+        "wenzhi": 10,
+        "taolue": 5,
+        "guozuo": 25,
+        "houxiao": 45,
+        "yuedan": 20
+      },
+      "ability": "幼冲受禅；坐视唐亡。",
+      "weakness": "白马之祸；禅后遇害。",
+      "stand_name_en": "The Last Chapter of Tang",
+      "stand_type_en": "Sovereign of the Final Abdication",
+      "cry_en": "The Baima drowning, and the abdication to Liang.",
+      "ability_en": "A child on the abdicating throne, watching Tang die.",
+      "weakness_en": "The Baimayi disaster, and death after the abdication."
     }
   }
 }

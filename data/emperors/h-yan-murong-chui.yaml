@@ -129,8 +129,8 @@ relations:
   target_id: q-qin-fu-jian
   note: 曾仕苻坚，淝水后叛秦复国
 - type: related_emperor
-  target_id: dai-shiyijian
-  note: 参合陂败于北魏拓跋珪
+  target_id: n-wei-daowu
+  note: 参合陂之役败于北魏道武帝拓跋珪
 routes:
 - group: 都城
   order: 1

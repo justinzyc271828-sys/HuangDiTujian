@@ -4,9 +4,9 @@ names:
   modern: 山西省大同市
   english: Pingcheng
 coords:
-  lng: 113.30
+  lng: 113.3
   lat: 40.08
-  precision: approximate
+  precision: schematic
 map:
   region: 代北
-notes: ""
+notes: 北魏前期都城，道武帝迁都于此，云冈石窟在其西郊

@@ -1,0 +1,159 @@
+id: n-zhou-xuan
+tier: emperor
+sort_key: 北周-005
+names:
+  display: 北周宣帝
+  display_en: Emperor Xuan of Northern Zhou
+  personal: 宇文赟
+  personal_en: Yuwen Yun
+  temple: 宣帝
+  posthumous: 宣皇帝
+  aliases:
+  - 宇文乾伯
+dynasty:
+  id: n-zhou
+  label: 北周
+  sequence: 4
+reign:
+  start: '578'
+  end: '580'
+  eras:
+  - 大成
+  - 大象
+life:
+  birth: '559'
+  death: '580'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 武帝长子，即位后自比上帝，立四皇后，刑杀无度，史称天元侈暴；大象元年禅位太子阐，自称天元皇帝，大象二年崩，杨坚辅政。
+summary_en: Eldest son of Emperor Wu, on the throne he compared himself to God, set
+  up four empresses at once, and punished and slew without measure — the histories
+  call him the extravagant Heavenly Sovereign; in the 1st year of Daxiang he abdicated
+  to his heir Chan, styling himself the Heavenly Emperor Tianyuan, and died in the
+  2nd year, leaving Yang Jian regent.
+tags:
+- 天元皇帝
+- 立四皇后
+- 侈暴
+- 杨坚辅政
+tags_en:
+- The Tianyuan Emperor
+- Four Empresses
+- Extravagance and Cruelty
+- Yang Jian Regent
+portrait:
+  primary: assets/portraits/n-zhou-xuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现骄侈自大的君主之态，衣冠从北周末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-zhou-xuan.md
+timeline:
+- year: '559'
+  date_note: 武成元年
+  date_note_en: 1st year of Wucheng
+  title: 生
+  title_en: Birth
+  summary: 武帝长子，字乾伯。
+  summary_en: Eldest son of Emperor Wu, styled Qianbo.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 周书·卷007·宣帝纪
+  card_id: E001
+- year: '578'
+  date_note: 宣政元年
+  date_note_en: 1st year of Xuanzheng
+  title: 即位
+  title_en: Accession
+  summary: 武帝崩，赟即位。
+  summary_en: On Emperor Wu's death Yun took the throne.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '579'
+  date_note: 大象元年
+  date_note_en: 1st year of Daxiang
+  title: 禅位太子
+  title_en: Abdication to the Heir
+  summary: 传位太子阐，自称天元皇帝。
+  summary_en: He passed the throne to his heir Chan and styled himself the Tianyuan
+    Emperor.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '579'
+  date_note: 大象
+  date_note_en: Daxiang
+  title: 立四皇后
+  title_en: Four Empresses
+  summary: 同时立四后，礼制崩坏。
+  summary_en: He set up four empresses at once — the rites fell apart.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '580'
+  date_note: 大象二年
+  date_note_en: 2nd year of Daxiang
+  title: 宣帝崩
+  title_en: Death of Emperor Xuan
+  summary: 崩，杨坚辅政之局形成。
+  summary_en: He died, and the regency of Yang Jian took shape.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '580'
+  date_note: 政风
+  date_note_en: governance
+  title: 天元侈暴
+  title_en: The Tianyuan's Excess
+  summary: 史载自比上帝，刑杀无度。
+  summary_en: The records say he compared himself to God and punished and slew without
+    measure.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-zhou-wu
+  note: 宣政元年武帝崩，子赟即位
+- type: successor
+  target_id: n-zhou-jing
+  note: 大象元年禅位太子阐
+- type: kinship
+  target_id: n-zhou-wu
+  note: 武帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '578'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '579'
+  place_id: chang-an
+  event: 禅位太子
+- group: 都城
+  order: 3
+  year: '580'
+  place_id: chang-an
+  event: 宣帝崩
+sources:
+- title: 周书·宣帝纪
+  note: 主叙事
+- title: 隋书·高祖纪
+  note: 杨坚辅政互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北周第四帝，正史立纪。
+  synced_from_cards: true

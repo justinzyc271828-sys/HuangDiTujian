@@ -1,0 +1,9 @@
+# Emperor Daowu of Northern Wei · Principal Deeds
+
+Tuoba Gui was the grandson of Shiyijian. When Former Qin destroyed the Dai state, Gui wandered with his mother. After the Fei River defeat broke Former Qin, he restored the state: at the great assembly at Niuchuan in the 1st year of Dengguo he took the kingship of Dai, soon restyled King of Wei — the beginning of Northern Wei. In the restoration he "dissolved the tribes, allotted them lands to settle, and forbade migration," and allotted land by mouth and urged farming — the passage of the Xianbei tribal league into a state, the very foundation of Northern Wei.
+
+In the 10th year of Dengguo he met Murong Bao of Later Yan at the Canhe marshes, shattered the Yan army, and buried forty or fifty thousand prisoners alive — Later Yan never recovered; in the 1st year of Huangshi he took Jinyang and Bingzhou and reached for Hebei. In the 1st year of Tianxing he moved the capital to Pingcheng, took the imperial throne, and fixed the realm's name as Wei — the foundations of Northern Wei were laid. He also began the sinicization: with the Han gentry, Cui Hao and the rest, he established doctors and a grand academy and set the offices on the Han model.
+
+But in his last years, "taking the cold-food powder, he was moody without measure," jealous of his meritorious ministers and slaying beyond reason; in the 6th year of Tianci his son, the Prince of Qinghe, Shao, slew him, aged thirty-nine. The historians say of him: "though a barbarian, he could employ the worthy and able, and opened the foundations of Wei" — the restoration, the conquests, and the making of the state were the root of Northern Wei's unification of the north.
+
+> Local references: the punctuated critical edition of the *Weishu*, ch. 2 ("Benji of Emperor Daowu"), ch. 1 ("Prefatory Annals") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

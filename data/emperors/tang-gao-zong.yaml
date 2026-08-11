@@ -1,0 +1,196 @@
+id: tang-gao-zong
+tier: emperor
+sort_key: 唐-003
+names:
+  display: 唐高宗
+  display_en: Emperor Gaozong of Tang
+  personal: 李治
+  personal_en: Li Zhi
+  temple: 高宗
+  posthumous: 天皇大帝
+  aliases:
+  - 李为善
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 3
+reign:
+  start: '649'
+  end: '683'
+  eras:
+  - 永徽
+  - 显庆
+  - 龙朔
+  - 麟德
+  - 乾封
+  - 总章
+  - 咸亨
+  - 上元
+  - 仪凤
+  - 调露
+  - 永隆
+  - 开耀
+  - 永淳
+  - 弘道
+life:
+  birth: '628'
+  death: '683'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 太宗第九子，长孙皇后所生；永徽年间承贞观遗风；废王立武、立武后，显庆后风眩委政于武后；总章元年平高丽；弘道元年崩，武后临朝。
+summary_en: Ninth son of Emperor Taizong by Empress Zhangsun; his Yonghui years carried
+  on the Zhenguan legacy; deposing Empress Wang for Wu, he made Wu empress and, from
+  the Xianqing years, troubled by vertigo, left the government to her; in the 1st
+  year of Zongzhang Goguryeo was subdued. He died in the 1st year of Hongdao; Empress
+  Wu took the regency.
+tags:
+- 永徽之治
+- 废王立武
+- 武后临朝
+- 平高丽
+tags_en:
+- Yonghui Recovery
+- Empress Wu
+- Wu's Regency
+- Subduing Goguryeo
+portrait:
+  primary: assets/portraits/tang-gao-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现仁弱而承平的君主之态，衣冠从唐初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-gao-zong.md
+timeline:
+- year: '628'
+  date_note: 贞观二年
+  date_note_en: 2nd year of Zhenguan
+  title: 生
+  title_en: Birth
+  summary: 太宗第九子，字为善。长孙皇后所生。
+  summary_en: Ninth son of Taizong, styled Weishan, born of Empress Zhangsun.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷004·高宗纪
+  card_id: E001
+- year: '649'
+  date_note: 贞观二十三年
+  date_note_en: 23rd year of Zhenguan
+  title: 即位
+  title_en: Accession
+  summary: 太宗崩，治即位，改元永徽。
+  summary_en: On Taizong's death Zhi took the throne and changed the era to Yonghui.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '655'
+  date_note: 永徽六年
+  date_note_en: 6th year of Yonghui
+  title: 废王立武
+  title_en: Wang Deposed, Wu Made Empress
+  summary: 废王皇后，立武昭仪为皇后。
+  summary_en: He deposed Empress Wang and made the Consort Wu his empress.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '660'
+  date_note: 显庆五年
+  date_note_en: 5th year of Xianqing
+  title: 风眩委政
+  title_en: Vertigo and the Regency
+  summary: 帝苦风眩，百司奏事或令武后参决。
+  summary_en: Plagued by vertigo, he had the offices report to Empress Wu for decision.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '668'
+  date_note: 总章元年
+  date_note_en: 1st year of Zongzhang
+  title: 平高丽
+  title_en: Subduing Goguryeo
+  summary: 李勣等平高丽，置安东都护。
+  summary_en: Li Ji and the others subdued Goguryeo, and the Protectorate of Andong
+    was set up.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '683'
+  date_note: 弘道元年
+  date_note_en: 1st year of Hongdao
+  title: 高宗崩
+  title_en: Death of Emperor Gaozong
+  summary: 崩于东都贞观殿；中宗继，武后临朝。
+  summary_en: He died in the Zhenguan Hall at the eastern capital; Zhongzong succeeded,
+    with Empress Wu as regent.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '683'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 高宗总评
+  title_en: Final Verdict
+  summary: 永徽有贞观遗风；中年以后政归武后。
+  summary_en: The Yonghui years carried the Zhenguan air; after his middle years the
+    government passed to Empress Wu.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: tang-tai-zong
+  note: 贞观二十三年太宗崩，第九子治即位
+- type: successor
+  target_id: tang-zhong-zong-a
+  note: 弘道元年崩，太子显即位
+- type: kinship
+  target_id: tang-tai-zong
+  note: 太宗第九子
+- type: related_emperor
+  target_id: zhou-wu-zetian
+  note: 皇后武氏，后建武周
+routes:
+- group: 都城
+  order: 1
+  year: '649'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '655'
+  place_id: chang-an
+  event: 废王立武
+- group: 都城
+  order: 3
+  year: '660'
+  place_id: chang-an
+  event: 风眩委政
+- group: 其他
+  order: 4
+  year: '668'
+  place_id: null
+  event: 平高丽
+- group: 都城
+  order: 5
+  year: '683'
+  place_id: luoyang
+  event: 高宗崩
+sources:
+- title: 旧唐书·高宗纪
+  note: 主叙事
+- title: 新唐书·高宗纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第三帝，正史立纪。
+  synced_from_cards: true

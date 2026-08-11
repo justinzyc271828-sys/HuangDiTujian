@@ -1,0 +1,164 @@
+id: e-wei-xiaojing
+tier: emperor
+sort_key: 东魏-001
+names:
+  display: 孝静帝
+  display_en: Emperor Xiaojing of Eastern Wei
+  personal: 元善见
+  personal_en: Yuan Shanjian
+  temple: 孝静帝
+  posthumous: 孝静皇帝
+  aliases:
+  - 拓跋善见
+dynasty:
+  id: e-wei
+  label: 东魏
+  sequence: 1
+reign:
+  start: '534'
+  end: '550'
+  eras:
+  - 天平
+  - 元象
+  - 兴和
+  - 武定
+life:
+  birth: '524'
+  death: '551'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 清河王亶子，孝武西奔后高欢立之，迁都邺，东魏始；聪慧好文，然傀儡于高氏，武定八年禅位高洋，寻遇害。
+summary_en: Son of the Prince of Qinghe, Yuan Dan; set up by Gao Huan after Xiaowu
+  fled west, he moved the capital to Ye — the beginning of Eastern Wei. Sharp and
+  fond of letters, he sat as the Gao house's puppet, abdicated to Gao Yang in the
+  8th year of Wuding, and was soon done to death.
+tags:
+- 迁都邺
+- 高欢傀儡
+- 聪慧好文
+- 禅位北齐
+tags_en:
+- Capital at Ye
+- Gao Huan's Puppet
+- Sharp and Lettered
+- Abdication to Qi
+portrait:
+  primary: assets/portraits/e-wei-xiaojing/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现聪慧受制的君主之态，衣冠从东魏制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-wei-xiaojing.md
+timeline:
+- year: '524'
+  date_note: 正光五年
+  date_note_en: 5th year of Zhengguang
+  title: 生
+  title_en: Birth
+  summary: 清河王亶子。
+  summary_en: Son of the Prince of Qinghe, Yuan Dan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷012·孝静纪
+  card_id: E001
+- year: '534'
+  date_note: 天平元年
+  date_note_en: 1st year of Tianping
+  title: 即位迁邺
+  title_en: Throne and Move to Ye
+  summary: 高欢立善见，迁都邺，东魏始。
+  summary_en: Gao Huan set up Shanjian and moved the capital to Ye — the beginning
+    of Eastern Wei.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '543'
+  date_note: 武定中
+  date_note_en: mid-Wuding
+  title: 沙苑邙山后
+  title_en: After Shayuan and Mangshan
+  summary: 与西魏多次大战，互有胜负。
+  summary_en: He fought Western Wei again and again — fortunes divided.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '550'
+  date_note: 武定八年
+  date_note_en: 8th year of Wuding
+  title: 禅位北齐
+  title_en: Abdication to Northern Qi
+  summary: 禅位于高洋，东魏亡。
+  summary_en: He abdicated to Gao Yang, and Eastern Wei perished.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '551'
+  date_note: 天保二年
+  date_note_en: 2nd year of Tianbao
+  title: 遇害
+  title_en: Done to Death
+  summary: 禅后被杀。
+  summary_en: He was slain after the abdication.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '551'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 孝静总评
+  title_en: Final Verdict
+  summary: 聪慧好文，终为高氏所制。
+  summary_en: Sharp and fond of letters, in the end the Gao house's captive.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-xiaowu
+  note: 孝武西奔后，高欢立孝静于邺
+- type: successor
+  target_id: n-qi-wenxuan
+  note: 武定八年禅位于高洋，东魏亡
+- type: related_emperor
+  target_id: w-wei-wen
+  note: 与西魏文帝并立，魏分东西
+routes:
+- group: 都城
+  order: 1
+  year: '534'
+  place_id: ye-cheng
+  event: 即位迁邺
+- group: 其他
+  order: 2
+  year: '543'
+  place_id: sha-yuan
+  event: 沙苑邙山后
+- group: 都城
+  order: 3
+  year: '550'
+  place_id: ye-cheng
+  event: 禅位北齐
+- group: 都城
+  order: 4
+  year: '551'
+  place_id: ye-cheng
+  event: 遇害
+sources:
+- title: 魏书·孝静纪
+  note: 主叙事
+- title: 北齐书·神武纪
+  note: 高欢专权互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东魏唯一皇帝，正史立纪。
+  synced_from_cards: true

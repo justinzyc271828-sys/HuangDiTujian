@@ -1,0 +1,236 @@
+id: tang-xuan-zong
+tier: emperor
+sort_key: 唐-009
+names:
+  display: 唐玄宗
+  display_en: Emperor Xuanzong of Tang
+  personal: 李隆基
+  personal_en: Li Longji
+  temple: 玄宗
+  posthumous: 至道大圣大明孝皇帝
+  aliases:
+  - 唐明皇
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 9
+reign:
+  start: '712'
+  end: '756'
+  eras:
+  - 先天
+  - 开元
+  - 天宝
+life:
+  birth: '685'
+  death: '762'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 睿宗第三子；唐隆政变诛韦后，先天元年即位，开元元年诛太平公主亲政；开元年间姚崇宋璟为相，史称开元盛世；天宝年间宠杨贵妃、任安禄山，安史之乱起，马嵬赐死贵妃，幸蜀，太上皇归，宝应元年崩。
+summary_en: Third son of Ruizong; after the Tanglong coup slew Empress Wei he took
+  the throne in the 1st year of Xiantian, and in the 1st year of Kaiyuan destroyed
+  the Princess Taiping to rule in person; with Yao Chong and Song Jing as chancellors,
+  the Kaiyuan years are called a golden age; in the Tianbao years he doted on Consort
+  Yang and trusted An Lushan until the An–Shi rebellion broke, at Mawei he had the
+  consort put to death, fled to Shu, and returned as Grand Emperor, dying in the 1st
+  year of Baoying.
+tags:
+- 开元盛世
+- 安史之乱
+- 杨贵妃
+- 盛衰之君
+tags_en:
+- The Kaiyuan Golden Age
+- The An–Shi Rebellion
+- Consort Yang
+- The Rise and Fall of an Age
+portrait:
+  primary: assets/portraits/tang-xuan-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现盛年英主至晚年衰颓之变化，衣冠从盛唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-xuan-zong.md
+timeline:
+- year: '685'
+  date_note: 垂拱元年
+  date_note_en: 1st year of Chuigong
+  title: 生
+  title_en: Birth
+  summary: 睿宗第三子，母窦德妃。
+  summary_en: Third son of Ruizong by the Consort Dou.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷008·玄宗纪
+  card_id: E001
+- year: '710'
+  date_note: 唐隆元年
+  date_note_en: 1st year of Tanglong
+  title: 诛韦后
+  title_en: Slewing Empress Wei
+  summary: 与太平公主等发动唐隆政变。
+  summary_en: With the Princess Taiping and the others he staged the Tanglong coup.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '712'
+  date_note: 先天元年
+  date_note_en: 1st year of Xiantian
+  title: 即位
+  title_en: Accession
+  summary: 睿宗传位，隆基即位。
+  summary_en: Ruizong yielded the throne; Longji took it.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '713'
+  date_note: 开元元年
+  date_note_en: 1st year of Kaiyuan
+  title: 诛太平归政
+  title_en: The Taiping Party Destroyed
+  summary: 赐死太平公主，改元开元，真正亲政。
+  summary_en: He had the Princess Taiping put to death, changed the era to Kaiyuan,
+    and ruled in truth.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '720'
+  date_note: 开元中
+  date_note_en: mid-Kaiyuan
+  title: 开元之治
+  title_en: The Kaiyuan Golden Age
+  summary: 姚崇宋璟等相，赋役相对稳定，史称盛世。
+  summary_en: With Yao Chong and Song Jing as chancellors and the levies steady, the
+    histories call it a golden age.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '745'
+  date_note: 天宝四载
+  date_note_en: 4th year of Tianbao
+  title: 杨太真为贵妃
+  title_en: Yang Taizhen Made Consort
+  summary: 册杨氏为贵妃，后戚用事渐深。
+  summary_en: He made the Lady Yang his consort, and her kin's power grew.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '755'
+  date_note: 天宝十四载
+  date_note_en: 14th year of Tianbao
+  title: 安史之乱起
+  title_en: The An–Shi Rebellion Begins
+  summary: 安禄山反于范阳，陷洛阳称帝。
+  summary_en: An Lushan rose at Fanyang, took Luoyang, and styled himself emperor.
+  place_id: fan-yang
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+- year: '756'
+  date_note: 至德元载
+  date_note_en: 1st year of Zhide
+  title: 马嵬与幸蜀
+  title_en: Mawei and the Flight to Shu
+  summary: 潼关失守，幸蜀，马嵬兵变，赐死贵妃；太子即位灵武。
+  summary_en: Tongguan fell; he fled to Shu; at Mawei the soldiers mutinied and the
+    consort was put to death; his heir took the throne at Lingwu.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E008
+- year: '762'
+  date_note: 宝应元年
+  date_note_en: 1st year of Baoying
+  title: 太上皇崩
+  title_en: Death of the Grand Emperor
+  summary: 崩于神龙殿。
+  summary_en: He died in the Shenlong Hall.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E009
+- year: '762'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 玄宗总评
+  title_en: Final Verdict
+  summary: 开元励精，天宝骄怠，一身盛衰。
+  summary_en: Kaiyuan diligent, Tianbao complacent — one life, a whole age's rise
+    and fall.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: tang-rui-zong-b
+  note: 先天元年睿宗传位，太子隆基即位
+- type: successor
+  target_id: tang-su-zong
+  note: 至德元载太子即位灵武，尊为太上皇
+- type: kinship
+  target_id: tang-rui-zong-b
+  note: 睿宗第三子
+- type: related_emperor
+  target_id: zhou-wu-zetian
+  note: 武后时垂拱年间出生，历经武周
+routes:
+- group: 都城
+  order: 1
+  year: '710'
+  place_id: chang-an
+  event: 诛韦后
+- group: 都城
+  order: 2
+  year: '712'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 3
+  year: '713'
+  place_id: chang-an
+  event: 诛太平归政
+- group: 都城
+  order: 4
+  year: '720'
+  place_id: chang-an
+  event: 开元之治
+- group: 都城
+  order: 5
+  year: '745'
+  place_id: chang-an
+  event: 杨太真为贵妃
+- group: 其他
+  order: 6
+  year: '755'
+  place_id: fan-yang
+  event: 安史之乱起
+- group: 其他
+  order: 7
+  year: '756'
+  place_id: null
+  event: 马嵬与幸蜀
+- group: 都城
+  order: 8
+  year: '762'
+  place_id: chang-an
+  event: 太上皇崩
+sources:
+- title: 旧唐书·玄宗纪
+  note: 主叙事
+- title: 新唐书·玄宗纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第九帝，开元盛世之主，正史立纪。
+  synced_from_cards: true

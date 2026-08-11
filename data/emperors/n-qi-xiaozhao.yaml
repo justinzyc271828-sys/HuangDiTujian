@@ -1,0 +1,158 @@
+id: n-qi-xiaozhao
+tier: emperor
+sort_key: 北齐-003
+names:
+  display: 孝昭帝
+  display_en: Emperor Xiaozhao of Northern Qi
+  personal: 高演
+  personal_en: Gao Yan
+  temple: 肃宗
+  posthumous: 孝昭皇帝
+  aliases:
+  - 高延安
+dynasty:
+  id: n-qi
+  label: 北齐
+  sequence: 3
+reign:
+  start: '560'
+  end: '561'
+  eras:
+  - 皇建
+life:
+  birth: '535'
+  death: '561'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 高欢第六子，废侄高殷自立；留心政事、明察俭约，欲革文宣之弊；皇建二年亲征库莫奚，坠马伤重而崩，传位弟湛。
+summary_en: Sixth son of Gao Huan, he deposed his nephew Yin to take the throne; attentive
+  to government, clear-sighted and frugal, he meant to repair Wenxuan's evils; in
+  the 2nd year of Huangjian, campaigning in person against the Kumo Xi, he fell from
+  his horse, his hurt mortal, and died, passing the throne to his brother Zhan.
+tags:
+- 废侄自立
+- 留心政事
+- 明察俭约
+- 短祚
+tags_en:
+- Deposing the Nephew
+- Attentive to Government
+- Clear-Sighted and Frugal
+- Brief Reign
+portrait:
+  primary: assets/portraits/n-qi-xiaozhao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现明察俭约的君主之态，衣冠从北齐中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-qi-xiaozhao.md
+timeline:
+- year: '535'
+  date_note: 天平二年
+  date_note_en: 2nd year of Tianping
+  title: 生
+  title_en: Birth
+  summary: 高欢第六子，字延安。
+  summary_en: Sixth son of Gao Huan, styled Yan'an.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北齐书·卷006·孝昭纪
+  card_id: E001
+- year: '560'
+  date_note: 皇建元年
+  date_note_en: 1st year of Huangjian
+  title: 即位
+  title_en: Accession
+  summary: 废高殷自立，改元皇建。
+  summary_en: He deposed Gao Yin, took the throne, and changed the era to Huangjian.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '560'
+  date_note: 即位初
+  date_note_en: early reign
+  title: 大赦改元
+  title_en: Amnesty and Era
+  summary: 安定政局，任用旧臣。
+  summary_en: He steadied the government and employed the old ministers.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '561'
+  date_note: 皇建二年
+  date_note_en: 2nd year of Huangjian
+  title: 北讨库莫奚
+  title_en: Against the Kumo Xi
+  summary: 亲征有功，坠马受伤。
+  summary_en: His personal campaign succeeded, but he fell from his horse and was
+    hurt.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '561'
+  date_note: 同年
+  date_note_en: same year
+  title: 孝昭崩
+  title_en: Death of Emperor Xiaozhao
+  summary: 伤重崩，传位弟湛，是为武成。
+  summary_en: His hurt mortal, he died, passing the throne to his brother Zhan — Emperor
+    Wucheng.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '561'
+  date_note: 政风
+  date_note_en: governance
+  title: 留心政事
+  title_en: Attentive to Government
+  summary: 史称明察俭约，欲革文宣弊。
+  summary_en: The histories call him clear-sighted and frugal, set on repairing Wenxuan's
+    evils.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-qi-fei
+  note: 皇建元年废侄高殷自立
+- type: successor
+  target_id: n-qi-wucheng
+  note: 皇建二年伤重崩，传位弟湛
+- type: kinship
+  target_id: n-qi-wenxuan
+  note: 文宣帝弟，高欢第六子
+routes:
+- group: 都城
+  order: 1
+  year: '560'
+  place_id: ye-cheng
+  event: 即位
+- group: 亲征
+  order: 2
+  year: '561'
+  place_id: null
+  event: 北讨库莫奚
+- group: 都城
+  order: 3
+  year: '561'
+  place_id: ye-cheng
+  event: 孝昭崩
+sources:
+- title: 北齐书·孝昭纪
+  note: 主叙事
+- title: 资治通鉴·陈纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北齐第三帝，正史立纪。
+  synced_from_cards: true

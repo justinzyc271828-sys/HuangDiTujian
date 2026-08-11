@@ -1,0 +1,168 @@
+id: tang-zhong-zong-b
+tier: emperor
+sort_key: 唐-006
+names:
+  display: 唐中宗（复位）
+  display_en: Emperor Zhongzong of Tang (Restored)
+  personal: 李显
+  personal_en: Li Xian
+  temple: 中宗
+  posthumous: 孝和皇帝
+  aliases:
+  - 李哲
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 6
+reign:
+  start: '705'
+  end: '710'
+  eras:
+  - 神龙
+  - 景龙
+life:
+  birth: '656'
+  death: '710'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 神龙元年张柬之等发动神龙政变，逼武后退位，中宗复位，复国号唐；还都长安后武三思等用事，韦后安乐公主卖官斜封；景龙四年暴崩，韦后临朝。
+summary_en: In the 1st year of Shenlong, Zhang Jianzhi and the others staged the Shenlong
+  coup, forced Empress Wu to abdicate, and restored Zhongzong; the realm's name reverted
+  to Tang. After the return to Chang'an, Wu Sansi and the rest held power, and Empress
+  Wei and the Princess Anle sold offices by "slanted letters"; in the 4th year of
+  Jinglong he died suddenly, and Empress Wei took the regency.
+tags:
+- 神龙政变
+- 复位
+- 韦后
+- 暴崩
+tags_en:
+- The Shenlong Coup
+- Restoration
+- Empress Wei
+- The Sudden Death
+portrait:
+  primary: assets/portraits/tang-zhong-zong-b/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现庸懦受制的君主之态，衣冠从唐中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-zhong-zong-b.md
+timeline:
+- year: '705'
+  date_note: 神龙元年
+  date_note_en: 1st year of Shenlong
+  title: 复位
+  title_en: The Restoration
+  summary: 张柬之等发动神龙政变，逼武后退位，中宗复位，复国号唐。
+  summary_en: Zhang Jianzhi and the others staged the Shenlong coup, forced Empress
+    Wu to abdicate, and restored Zhongzong; the realm reverted to Tang.
+  place_id: luoyang
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷007·中宗纪
+  card_id: E001
+- year: '706'
+  date_note: 神龙二年
+  date_note_en: 2nd year of Shenlong
+  title: 迁还长安
+  title_en: Return to Chang'an
+  summary: 还都长安，武三思等用事。
+  summary_en: The capital returned to Chang'an, and Wu Sansi and the rest held power.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '707'
+  date_note: 景龙元年
+  date_note_en: 1st year of Jinglong
+  title: 节愍太子兵变
+  title_en: The Crown Prince's Rising
+  summary: 太子重俊起兵杀武三思，败死。
+  summary_en: The heir Chongjun rose and slew Wu Sansi, then fell and died.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '710'
+  date_note: 景龙四年
+  date_note_en: 4th year of Jinglong
+  title: 中宗崩
+  title_en: Death of Emperor Zhongzong
+  summary: 暴崩，韦后临朝，立温王重茂。
+  summary_en: He died suddenly; Empress Wei took the regency and set up the Prince
+    of Wen, Chongmao.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '710'
+  date_note: 政风
+  date_note_en: governance
+  title: 韦后与斜封
+  title_en: Empress Wei and the Slanted Letters
+  summary: 安乐公主、韦后卖官斜封，政纲紊乱。
+  summary_en: The Princess Anle and Empress Wei sold offices by slanted letters, and
+    the government fell into disorder.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '710'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 中宗复位总评
+  title_en: Final Verdict
+  summary: 复位而不能振，终死宫闱。
+  summary_en: Restored but unable to revive the court, he died within the palace.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: zhou-wu-zetian
+  note: 神龙元年神龙政变，武后退位中宗复位
+- type: successor
+  target_id: tang-shang
+  note: 景龙四年暴崩，韦后立温王重茂
+- type: related_emperor
+  target_id: tang-zhong-zong-a
+  note: 首次在位被废，此为复位
+- type: kinship
+  target_id: zhou-wu-zetian
+  note: 武后之子
+routes:
+- group: 都城
+  order: 1
+  year: '705'
+  place_id: luoyang
+  event: 复位
+- group: 都城
+  order: 2
+  year: '706'
+  place_id: chang-an
+  event: 迁还长安
+- group: 都城
+  order: 3
+  year: '707'
+  place_id: chang-an
+  event: 节愍太子兵变
+- group: 都城
+  order: 4
+  year: '710'
+  place_id: chang-an
+  event: 中宗崩
+sources:
+- title: 旧唐书·中宗纪
+  note: 主叙事
+- title: 旧唐书·则天皇后纪
+  note: 神龙政变互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第四帝（复位在位），正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,152 @@
+id: n-zhou-xiao-min
+tier: emperor
+sort_key: 北周-001
+names:
+  display: 孝闵帝
+  display_en: Emperor Xiaomin of Northern Zhou
+  personal: 宇文觉
+  personal_en: Yuwen Jue
+  temple: 孝闵帝
+  posthumous: 孝闵皇帝
+  aliases:
+  - 宇文陀罗尼
+dynasty:
+  id: n-zhou
+  label: 北周
+  sequence: 1
+reign:
+  start: '557'
+  end: '557'
+  eras: []
+life:
+  birth: '542'
+  death: '557'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宇文泰第三子，泰卒后受西魏恭帝禅位称天王，国号周；初称天王未称皇帝；同年谋宇文护事泄，废为略阳公，旋被弑。
+summary_en: Third son of Yuwen Tai, after Tai's death he received the abdication of
+  the Gong emperor of Western Wei, taking the title Heavenly King of the realm Zhou;
+  he bore the title of king, not yet emperor; that same year his plot against Yuwen
+  Hu leaked, he was deposed as Duke of Lüeyang, and soon slain.
+tags:
+- 受禅开周
+- 天王
+- 宇文护
+- 见弑
+tags_en:
+- The Abdication and the Founding of Zhou
+- Heavenly King
+- Yuwen Hu
+- Slain
+portrait:
+  primary: assets/portraits/n-zhou-xiao-min/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲受禅的少年君主之态，衣冠从北周初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-zhou-xiao-min.md
+timeline:
+- year: '542'
+  date_note: 大统八年
+  date_note_en: 8th year of Datong
+  title: 生
+  title_en: Birth
+  summary: 宇文泰第三子，字陀罗尼。
+  summary_en: Third son of Yuwen Tai, styled Tuoluoni.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 周书·卷003·孝闵帝纪
+  card_id: E001
+- year: '556'
+  date_note: 前一年
+  date_note_en: the year before
+  title: 宇文泰卒
+  title_en: Death of Yuwen Tai
+  summary: 泰卒，觉嗣太师等职，旋受禅。
+  summary_en: Tai died; Jue took his offices and soon received the abdication.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 周书·文帝纪
+  card_id: E002
+- year: '557'
+  date_note: 元年
+  date_note_en: 1st year
+  title: 受禅称天王
+  title_en: The Abdication, the Title of King
+  summary: 西魏恭帝禅位，觉即天王位，国号周。
+  summary_en: The Gong emperor of Western Wei abdicated; Jue took the heavenly kingship
+    of the realm Zhou.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '557'
+  date_note: 同年
+  date_note_en: same year
+  title: 被废弑
+  title_en: Deposed and Slain
+  summary: 谋宇文护事泄，废为略阳公，旋弑。
+  summary_en: His plot against Yuwen Hu leaked; he was deposed as Duke of Lüeyang
+    and soon slain.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '557'
+  date_note: 名分
+  date_note_en: status
+  title: 天王
+  title_en: Heavenly King
+  summary: 初称天王，未称皇帝。
+  summary_en: He first took the title Heavenly King, not yet emperor.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '557'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 孝闵总评
+  title_en: Final Verdict
+  summary: 幼冲受禅，权在晋公护。
+  summary_en: A child receiving the abdication, the power with the Duke of Jin, Hu.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: w-wei-gong
+  note: 西魏恭帝禅位，受禅开周
+- type: successor
+  target_id: n-zhou-ming
+  note: 同年被废弑，宇文护立毓
+- type: kinship
+  target_id: n-zhou-wu
+  note: 武帝之兄，宇文泰第三子
+routes:
+- group: 都城
+  order: 1
+  year: '557'
+  place_id: chang-an
+  event: 受禅称天王
+- group: 都城
+  order: 2
+  year: '557'
+  place_id: chang-an
+  event: 被废弑
+sources:
+- title: 周书·孝闵帝纪
+  note: 主叙事
+- title: 周书·晋荡公护传
+  note: 废立互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北周开国皇帝，正史立纪。
+  synced_from_cards: true

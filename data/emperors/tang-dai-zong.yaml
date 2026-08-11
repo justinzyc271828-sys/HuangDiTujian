@@ -1,0 +1,168 @@
+id: tang-dai-zong
+tier: emperor
+sort_key: 唐-011
+names:
+  display: 唐代宗
+  display_en: Emperor Daizong of Tang
+  personal: 李豫
+  personal_en: Li Yu
+  temple: 代宗
+  posthumous: 睿文孝武皇帝
+  aliases:
+  - 李俶
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 11
+reign:
+  start: '762'
+  end: '779'
+  eras:
+  - 宝应
+  - 广德
+  - 永泰
+  - 大历
+life:
+  birth: '727'
+  death: '779'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 肃宗长子；宝应元年即位，史朝义平，安史之乱大致结束；广德元年吐蕃入长安，帝幸陕；永泰元年仆固怀恩引回纥吐蕃入寇，郭子仪单骑盟回纥；大历十四年崩。
+summary_en: Eldest son of Suzong; on the throne in the 1st year of Baoying, he saw
+  Shi Chaoyi destroyed and the An–Shi rebellion roughly ended; in the 1st year of
+  Guangde the Tibetans entered Chang'an and the emperor fled to Shan; in the 1st year
+  of Yongtai Pugu Huaien drew in the Uyghurs and Tibetans, and Guo Ziyi rode alone
+  to make peace with the Uyghurs. He died in the 14th year of Dali.
+tags:
+- 平安史
+- 吐蕃入长安
+- 郭子仪
+- 藩镇坐大
+tags_en:
+- Ending the An–Shi Rebellion
+- The Tibetans at Chang'an
+- Guo Ziyi
+- The Feudatories Grow
+portrait:
+  primary: assets/portraits/tang-dai-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现守成之君之态，衣冠从盛唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-dai-zong.md
+timeline:
+- year: '727'
+  date_note: 开元十五年
+  date_note_en: 15th year of Kaiyuan
+  title: 生
+  title_en: Birth
+  summary: 肃宗长子，初名俶。
+  summary_en: Eldest son of Suzong, first named Chu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷011·代宗纪
+  card_id: E001
+- year: '762'
+  date_note: 宝应元年
+  date_note_en: 1st year of Baoying
+  title: 即位
+  title_en: Accession
+  summary: 肃宗崩，豫即位；史朝义平，安史乱大致结束。
+  summary_en: Suzong died; Yu took the throne; Shi Chaoyi was destroyed and the rebellion
+    roughly ended.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '763'
+  date_note: 广德元年
+  date_note_en: 1st year of Guangde
+  title: 吐蕃入长安
+  title_en: The Tibetans at Chang'an
+  summary: 吐蕃入京师，帝幸陕，郭子仪收复。
+  summary_en: The Tibetans entered the capital; the emperor fled to Shan, and Guo
+    Ziyi recovered it.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '765'
+  date_note: 永泰元年
+  date_note_en: 1st year of Yongtai
+  title: 仆固怀恩引寇
+  title_en: Pugu Huaien Draws the Invaders
+  summary: 怀恩引回纥吐蕃，子仪单骑盟回纥。
+  summary_en: Huaien drew in the Uyghurs and Tibetans; Ziyi rode alone and made peace
+    with the Uyghurs.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '779'
+  date_note: 大历十四年
+  date_note_en: 14th year of Dali
+  title: 代宗崩
+  title_en: Death of Emperor Daizong
+  summary: 崩，德宗继。
+  summary_en: He died; Dezong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '779'
+  date_note: 政风
+  date_note_en: governance
+  title: 元载与佛教
+  title_en: Yuan Zai and Buddhism
+  summary: 元载专权；代宗好佛，史有批评。
+  summary_en: Yuan Zai held power; the emperor doted on Buddhism — the histories censure
+    it.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-su-zong
+  note: 宝应元年肃宗崩，太子豫即位
+- type: successor
+  target_id: tang-de-zong
+  note: 大历十四年崩，太子适即位
+- type: kinship
+  target_id: tang-su-zong
+  note: 肃宗长子
+routes:
+- group: 都城
+  order: 1
+  year: '762'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '763'
+  place_id: chang-an
+  event: 吐蕃入长安
+- group: 其他
+  order: 3
+  year: '765'
+  place_id: null
+  event: 仆固怀恩引寇
+- group: 都城
+  order: 4
+  year: '779'
+  place_id: chang-an
+  event: 代宗崩
+sources:
+- title: 旧唐书·代宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十一帝，正史立纪。
+  synced_from_cards: true

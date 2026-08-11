@@ -25,7 +25,9 @@ life:
   birth_place_id: null
   death_place_id: jian-kang
 summary: 孙亮废后迎立，与张布、丁奉设谋诛孙綝，亲政后立学校、置博士；永安六年崩，年三十。
-summary_en: Installed after Sun Liang's deposition, he and Zhang Bu and Ding Feng laid the plot that slew Sun Chen; governing himself, he founded schools and chairs of learning, and died in the 6th year of Yong'an, aged thirty.
+summary_en: Installed after Sun Liang's deposition, he and Zhang Bu and Ding Feng
+  laid the plot that slew Sun Chen; governing himself, he founded schools and chairs
+  of learning, and died in the 6th year of Yong'an, aged thirty.
 tags:
 - 诛孙綝
 - 立学校
@@ -40,7 +42,7 @@ portrait:
   primary: assets/portraits/wu-jing/primary.png
   variants: []
   style_version: v1
-  appearance_basis: '史载无形貌描写。画像宜表现沉静有谋的壮年君主之态，衣冠从孙吴后制。属艺术想象。'
+  appearance_basis: 史载无形貌描写。画像宜表现沉静有谋的壮年君主之态，衣冠从孙吴后制。属艺术想象。
   prompt_ref: tools/prompts/portrait-v1.md
   disclaimer: 艺术想象，非考古复原
 bio:
@@ -64,7 +66,8 @@ timeline:
   title: 即位
   title_en: Accession
   summary: 孙綝废亮，迎立琅琊王休，改元永安。
-  summary_en: Sun Chen deposed Liang and brought in the Prince of Langya; the era was changed to Yong'an.
+  summary_en: Sun Chen deposed Liang and brought in the Prince of Langya; the era
+    was changed to Yong'an.
   place_id: jian-kang
   related_person_ids:
   - wu-kuaiji
@@ -77,7 +80,8 @@ timeline:
   title: 诛孙綝
   title_en: The Slaying of Sun Chen
   summary: 与张布、丁奉密谋，于朝会席间诛孙綝，夷三族，遂亲政。
-  summary_en: Plotting with Zhang Bu and Ding Feng, he slew Sun Chen at a court banquet, exterminated his kin, and at last ruled in person.
+  summary_en: Plotting with Zhang Bu and Ding Feng, he slew Sun Chen at a court banquet,
+    exterminated his kin, and at last ruled in person.
   place_id: jian-kang
   related_person_ids: []
   sources:
@@ -90,19 +94,21 @@ timeline:
   title: 立学校
   title_en: The Schools Established
   summary: 诏立五经博士，置学官，教战守之宜。
-  summary_en: He decreed chairs of the Five Classics, established academies, and taught the arts of war and defense.
+  summary_en: He decreed chairs of the Five Classics, established academies, and taught
+    the arts of war and defense.
   place_id: null
   related_person_ids: []
   sources:
   - 三国志·卷048·三嗣主传
   card_id: E004
 - year: '264'
-  date_note: 永安六年七月
-  date_note_en: 7th month, 6th year of Yong'an
+  date_note: 永安七年七月
+  date_note_en: 7th month, 7th year of Yong'an
   title: 休崩
   title_en: Death of Sun Xiu
   summary: 病卒，年三十；太子年幼，群臣迎立乌程侯皓。
-  summary_en: He died of illness, aged thirty; the crown prince being a child, the court brought in Sun Hao, marquis of Wucheng.
+  summary_en: He died of illness, aged thirty; the crown prince being a child, the
+    court brought in Sun Hao, marquis of Wucheng.
   place_id: jian-kang
   related_person_ids:
   - wu-wucheng
@@ -115,7 +121,9 @@ timeline:
   title: 休之政
   title_en: The Rule of Sun Xiu
   summary: 史评称休励精图治而用刑失当，诛张布无由，惜乎其未能保全忠良。
-  summary_en: The histories credit his diligence yet fault his misuse of punishment — the groundless slaying of Zhang Bu — lamenting that he could not keep his loyal men safe.
+  summary_en: The histories credit his diligence yet fault his misuse of punishment
+    — the groundless slaying of Zhang Bu — lamenting that he could not keep his loyal
+    men safe.
   place_id: null
   related_person_ids: []
   sources:

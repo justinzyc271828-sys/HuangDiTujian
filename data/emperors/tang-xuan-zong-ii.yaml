@@ -1,0 +1,163 @@
+id: tang-xuan-zong-ii
+tier: emperor
+sort_key: 唐-018
+names:
+  display: 唐宣宗
+  display_en: Emperor Xuanzong of Tang
+  personal: 李忱
+  personal_en: Li Chen
+  temple: 宣宗
+  posthumous: 元圣至明成武献文睿智章仁神聪懿道大孝皇帝
+  aliases:
+  - 李怡
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 18
+reign:
+  start: '846'
+  end: '859'
+  eras:
+  - 大中
+life:
+  birth: '810'
+  death: '859'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宪宗第十三子；武宗崩后宦官立之，改元大中；大中元年罢李德裕，牛李党争格局变化；大中中张议潮归义，收复河湟部分；史称大中之治、小太宗；大中十三年崩。
+summary_en: Thirteenth son of Xianzong, set up by the eunuchs after Wuzong's death,
+  changing the era to Dazhong; in the 1st year he dismissed Li Deyu and the Niu–Li
+  factional balance shifted; in mid-Dazhong Zhang Yichao's submission recovered part
+  of the Hehuang; the histories call his reign the Dazhong recovery and him the "Little
+  Taizong." He died in the 13th year of Dazhong.
+tags:
+- 大中之治
+- 小太宗
+- 罢李德裕
+- 收复河湟
+tags_en:
+- The Dazhong Recovery
+- The Little Taizong
+- Dismissing Li Deyu
+- Recovering the Hehuang
+portrait:
+  primary: assets/portraits/tang-xuan-zong-ii/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现精察之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-xuan-zong-ii.md
+timeline:
+- year: '810'
+  date_note: 元和五年
+  date_note_en: 5th year of Yuanhe
+  title: 生
+  title_en: Birth
+  summary: 宪宗第十三子。
+  summary_en: Thirteenth son of Xianzong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷018下·宣宗纪
+  card_id: E001
+- year: '846'
+  date_note: 会昌六年
+  date_note_en: 6th year of Huichang
+  title: 即位
+  title_en: Accession
+  summary: 武宗崩，宦官立忱，改元大中。
+  summary_en: Wuzong died; the eunuchs set up Chen, changing the era to Dazhong.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '847'
+  date_note: 大中元年
+  date_note_en: 1st year of Dazhong
+  title: 罢李德裕
+  title_en: Dismissing Li Deyu
+  summary: 贬德裕，牛李党争格局变化。
+  summary_en: He exiled Deyu, and the Niu–Li factional balance shifted.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '848'
+  date_note: 大中中
+  date_note_en: mid-Dazhong
+  title: 收复河湟部分
+  title_en: Recovering Part of the Hehuang
+  summary: 张议潮等归义，河西部分州县来归。
+  summary_en: Zhang Yichao and the others submitted, and part of the Hexi prefectures
+    returned.
+  place_id: dun-huang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '859'
+  date_note: 大中十三年
+  date_note_en: 13th year of Dazhong
+  title: 宣宗崩
+  title_en: Death of Emperor Xuanzong
+  summary: 崩，懿宗继。
+  summary_en: He died; Yizong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '859'
+  date_note: 政风
+  date_note_en: governance
+  title: 大中之治
+  title_en: The Dazhong Recovery
+  summary: 史称精于听断，察察为明，唐室小安。
+  summary_en: The histories say he judged sharply, saw clearly — the Tang house enjoyed
+    a small peace.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-wu-zong
+  note: 会昌六年武宗崩，宦官立宪宗第十三子忱
+- type: successor
+  target_id: tang-yi-zong
+  note: 大中十三年崩，长子漼即位
+- type: kinship
+  target_id: tang-xian-zong
+  note: 宪宗第十三子
+routes:
+- group: 都城
+  order: 1
+  year: '846'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '847'
+  place_id: chang-an
+  event: 罢李德裕
+- group: 其他
+  order: 3
+  year: '848'
+  place_id: dun-huang
+  event: 收复河湟部分
+- group: 都城
+  order: 4
+  year: '859'
+  place_id: chang-an
+  event: 宣宗崩
+sources:
+- title: 旧唐书·宣宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十八帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,167 @@
+id: n-qi-houzhu
+tier: emperor
+sort_key: 北齐-005
+names:
+  display: 北齐后主
+  display_en: The Last Sovereign of Northern Qi
+  personal: 高纬
+  personal_en: Gao Wei
+  temple: null
+  posthumous: null
+  aliases:
+  - 高仁纲
+dynasty:
+  id: n-qi
+  label: 北齐
+  sequence: 5
+reign:
+  start: '565'
+  end: '577'
+  eras:
+  - 天统
+  - 武平
+  - 隆化
+life:
+  birth: '556'
+  death: '577'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 武成长子，十岁即位；好弹琵琶作无愁曲，史称「无愁天子」；武平三年听谗杀名将斛律光，周武帝乘隙灭齐，被俘，北齐亡。
+summary_en: Eldest son of Wucheng, he took the throne at ten; fond of the pipa and
+  its "song without sorrow," the histories call him the "Sorrowless Sovereign"; in
+  the 3rd year of Wuping, on slander, he slew the great general Hulü Guang, and Emperor
+  Wu of Zhou struck through the gap and destroyed Qi — he was taken, and Northern
+  Qi was no more.
+tags:
+- 无愁天子
+- 杀斛律光
+- 周灭北齐
+- 亡国
+tags_en:
+- The Sorrowless Sovereign
+- Slewing Hulü Guang
+- The Zhou Conquest
+- Fall of the Realm
+portrait:
+  primary: assets/portraits/n-qi-houzhu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现无愁自娱的末代君主之态，衣冠从北齐末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-qi-houzhu.md
+timeline:
+- year: '556'
+  date_note: 天保七年
+  date_note_en: 7th year of Tianbao
+  title: 生
+  title_en: Birth
+  summary: 武成长子，字仁纲。
+  summary_en: Eldest son of Wucheng, styled Rengang.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北齐书·卷008·后主纪
+  card_id: E001
+- year: '565'
+  date_note: 天统元年
+  date_note_en: 1st year of Tiantong
+  title: 即位
+  title_en: Accession
+  summary: 武成禅位，纬即位。
+  summary_en: Wucheng abdicated; Wei took the throne.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '572'
+  date_note: 武平三年
+  date_note_en: 3rd year of Wuping
+  title: 杀斛律光
+  title_en: Slewing Hulü Guang
+  summary: 听谗杀名将斛律光，国之干城尽。
+  summary_en: On slander he slew the great general Hulü Guang — the realm's shield
+    was gone.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '576'
+  date_note: 武平七年
+  date_note_en: 7th year of Wuping
+  title: 周师深入
+  title_en: The Zhou Armies Come Deep
+  summary: 周武帝伐齐，晋州等失，帝奔邺。
+  summary_en: Emperor Wu of Zhou invaded; Jinzhou and the rest fell, and the emperor
+    fled to Ye.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '577'
+  date_note: 承光元年
+  date_note_en: 1st year of Chengguang
+  title: 齐亡
+  title_en: The Fall of Qi
+  summary: 传位幼主，旋被俘，北齐亡。
+  summary_en: He passed the throne to the infant sovereign and was soon taken — Northern
+    Qi was no more.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '577'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 无愁天子
+  title_en: The Sorrowless Sovereign
+  summary: 好弹琵琶作无愁曲，史称无愁天子。
+  summary_en: He loved the pipa and its song without sorrow — the histories call him
+    the Sorrowless Sovereign.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-qi-wucheng
+  note: 河清四年武成禅位，太子纬即位
+- type: successor
+  target_id: n-zhou-wu
+  note: 承光元年被俘，周武帝灭北齐
+- type: kinship
+  target_id: n-qi-wucheng
+  note: 武成长子
+routes:
+- group: 都城
+  order: 1
+  year: '565'
+  place_id: ye-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '572'
+  place_id: ye-cheng
+  event: 杀斛律光
+- group: 其他
+  order: 3
+  year: '576'
+  place_id: null
+  event: 周师深入
+- group: 都城
+  order: 4
+  year: '577'
+  place_id: ye-cheng
+  event: 齐亡
+sources:
+- title: 北齐书·后主纪
+  note: 主叙事
+- title: 周书·武帝纪
+  note: 灭齐互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北齐末帝，被周所俘，正史立纪。
+  synced_from_cards: true

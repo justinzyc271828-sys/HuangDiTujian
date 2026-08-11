@@ -1,0 +1,12 @@
+id: fan-yang
+names:
+  historical: 范阳
+  modern: 北京市
+  english: Fanyang
+coords:
+  lng: 116.4
+  lat: 39.9
+  precision: schematic
+map:
+  region: 河北
+notes: 安禄山起兵处，范阳节度使治所

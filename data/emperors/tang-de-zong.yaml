@@ -1,0 +1,181 @@
+id: tang-de-zong
+tier: emperor
+sort_key: 唐-012
+names:
+  display: 唐德宗
+  display_en: Emperor Dezong of Tang
+  personal: 李适
+  personal_en: Li Kuo
+  temple: 德宗
+  posthumous: 神武孝文皇帝
+  aliases: []
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 12
+reign:
+  start: '779'
+  end: '805'
+  eras:
+  - 建中
+  - 兴元
+  - 贞元
+life:
+  birth: '742'
+  death: '805'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 代宗长子；建中元年杨炎行两税法；建中四年泾原兵变、朱泚据长安称帝，帝幸奉天；兴元元年下罪己诏，李晟收复长安；晚年猜忌聚敛；贞元二十一年崩。
+summary_en: Eldest son of Daizong; in the 1st year of Jianzhong Yang Yan introduced
+  the two-tax system; in the 4th year the Jingyuan mutiny saw Zhu Ci take Chang'an
+  as emperor and the sovereign flee to Fengtian; in the 1st year of Xingyuan the edict
+  of self-blame was issued and Li Sheng recovered Chang'an; in his last years he grew
+  suspicious and grasping. He died in the 21st year of Zhenyuan.
+tags:
+- 两税法
+- 奉天之难
+- 削藩失败
+- 罪己诏
+tags_en:
+- The Two-Tax System
+- The Fengtian Crisis
+- The Failed Campaign against the Feudatories
+- The Edict of Self-Blame
+portrait:
+  primary: assets/portraits/tang-de-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现刚愎多疑之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-de-zong.md
+timeline:
+- year: '742'
+  date_note: 天宝元年
+  date_note_en: 1st year of Tianbao
+  title: 生
+  title_en: Birth
+  summary: 代宗长子。
+  summary_en: Eldest son of Daizong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷012·德宗纪
+  card_id: E001
+- year: '779'
+  date_note: 大历十四年
+  date_note_en: 14th year of Dali
+  title: 即位
+  title_en: Accession
+  summary: 代宗崩，适即位，改元建中。
+  summary_en: Daizong died; Kuo took the throne and changed the era to Jianzhong.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '780'
+  date_note: 建中元年
+  date_note_en: 1st year of Jianzhong
+  title: 行两税法
+  title_en: The Two-Tax System
+  summary: 杨炎作两税法，税制大变。
+  summary_en: Yang Yan made the two-tax system — the tax order was transformed.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '783'
+  date_note: 建中四年
+  date_note_en: 4th year of Jianzhong
+  title: 奉天之难
+  title_en: The Fengtian Crisis
+  summary: 泾原兵变，朱泚据长安称帝，帝幸奉天。
+  summary_en: 'The Jingyuan mutiny: Zhu Ci took Chang''an as emperor, and the sovereign
+    fled to Fengtian.'
+  place_id: feng-tian
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '784'
+  date_note: 兴元元年
+  date_note_en: 1st year of Xingyuan
+  title: 罪己与还京
+  title_en: Self-Blame and the Return
+  summary: 下兴元赦书，李晟收复长安。
+  summary_en: He issued the Xingyuan amnesty of self-blame, and Li Sheng recovered
+    Chang'an.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '805'
+  date_note: 贞元二十一年
+  date_note_en: 21st year of Zhenyuan
+  title: 德宗崩
+  title_en: Death of Emperor Dezong
+  summary: 崩，顺宗继。
+  summary_en: He died; Shunzong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '805'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 德宗总评
+  title_en: Final Verdict
+  summary: 初欲削藩，中遭播迁，晚多猜忌聚敛。
+  summary_en: He would cut the feudatories at first, suffered exile in the middle,
+    and grew suspicious and grasping at the last.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: tang-dai-zong
+  note: 大历十四年代宗崩，太子适即位
+- type: successor
+  target_id: tang-shun-zong
+  note: 贞元二十一年崩，太子诵即位
+- type: kinship
+  target_id: tang-dai-zong
+  note: 代宗长子
+routes:
+- group: 都城
+  order: 1
+  year: '779'
+  place_id: chang-an
+  event: 即位
+- group: 都城
+  order: 2
+  year: '780'
+  place_id: chang-an
+  event: 行两税法
+- group: 都城
+  order: 3
+  year: '783'
+  place_id: feng-tian
+  event: 奉天之难
+- group: 都城
+  order: 4
+  year: '784'
+  place_id: chang-an
+  event: 罪己与还京
+- group: 都城
+  order: 5
+  year: '805'
+  place_id: chang-an
+  event: 德宗崩
+sources:
+- title: 旧唐书·德宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十二帝，正史立纪。
+  synced_from_cards: true

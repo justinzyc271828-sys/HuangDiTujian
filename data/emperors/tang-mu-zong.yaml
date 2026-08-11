@@ -1,0 +1,164 @@
+id: tang-mu-zong
+tier: emperor
+sort_key: 唐-014
+names:
+  display: 唐穆宗
+  display_en: Emperor Muzong of Tang
+  personal: 李恒
+  personal_en: Li Heng
+  temple: 穆宗
+  posthumous: 睿圣文惠孝皇帝
+  aliases: []
+dynasty:
+  id: tang
+  label: 唐
+  sequence: 14
+reign:
+  start: '820'
+  end: '824'
+  eras:
+  - 长庆
+life:
+  birth: '795'
+  death: '824'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宪宗第三子；元和十五年宪宗崩（或云为宦官所弑），恒即位，改元长庆；长庆元年河北三镇复叛，元和之功尽失；长庆二年销兵之议，藩镇乘机坐大；游宴怠政，长庆四年崩。
+summary_en: Third son of Xianzong; on Xianzong's death in the 15th year of Yuanhe
+  — by the eunuchs' hand, some say — Heng took the throne, changing the era to Changqing;
+  in the 1st year of Changqing the three garrisons of Hebei rose again, and the gains
+  of Yuanhe were lost; in the 2nd year the debate over disbanding the armies let the
+  feudatories grow. He played and feasted, neglecting government, and died in the
+  4th year of Changqing.
+tags:
+- 河北再乱
+- 销兵
+- 游宴怠政
+- 元和功废
+tags_en:
+- Hebei Rises Again
+- Disbanding the Armies
+- Play and Feasting
+- The Yuanhe Gains Lost
+portrait:
+  primary: assets/portraits/tang-mu-zong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宴乐怠政之君之态，衣冠从中唐制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/tang-mu-zong.md
+timeline:
+- year: '795'
+  date_note: 贞元十一年
+  date_note_en: 11th year of Zhenyuan
+  title: 生
+  title_en: Birth
+  summary: 宪宗第三子。
+  summary_en: Third son of Xianzong.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 旧唐书·卷016·穆宗纪
+  card_id: E001
+- year: '820'
+  date_note: 元和十五年
+  date_note_en: 15th year of Yuanhe
+  title: 即位
+  title_en: Accession
+  summary: 宪宗崩（或云内官弑），恒即位，改元长庆。
+  summary_en: Xianzong died — by the eunuchs, some say; Heng took the throne and changed
+    the era to Changqing.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '821'
+  date_note: 长庆元年
+  date_note_en: 1st year of Changqing
+  title: 河北再乱
+  title_en: Hebei Rises Again
+  summary: 卢龙、成德等复叛，元和所复藩镇多失。
+  summary_en: Lulong, Chengde, and the rest rose again — most of the feudatories recovered
+    under Yuanhe were lost.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '822'
+  date_note: 长庆二年
+  date_note_en: 2nd year of Changqing
+  title: 销兵争议
+  title_en: The Debate on Disbanding the Armies
+  summary: 崔植等议销兵，藩镇乘机。
+  summary_en: Cui Zhi and the others proposed disbanding the armies, and the feudatories
+    seized the chance.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '824'
+  date_note: 长庆四年
+  date_note_en: 4th year of Changqing
+  title: 穆宗崩
+  title_en: Death of Emperor Muzong
+  summary: 崩，敬宗继。
+  summary_en: He died; Jingzong succeeded.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '824'
+  date_note: 政风
+  date_note_en: governance
+  title: 游宴怠政
+  title_en: Play and Feasting
+  summary: 史载好击球宴乐，不亲政事。
+  summary_en: The histories record his polo and feasting, and his neglect of government.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: tang-xian-zong
+  note: 元和十五年宪宗崩，第三子恒即位
+- type: successor
+  target_id: tang-jing-zong
+  note: 长庆四年崩，长子湛即位
+- type: kinship
+  target_id: tang-xian-zong
+  note: 宪宗第三子
+routes:
+- group: 都城
+  order: 1
+  year: '820'
+  place_id: chang-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '821'
+  place_id: null
+  event: 河北再乱
+- group: 都城
+  order: 3
+  year: '822'
+  place_id: chang-an
+  event: 销兵争议
+- group: 都城
+  order: 4
+  year: '824'
+  place_id: chang-an
+  event: 穆宗崩
+sources:
+- title: 旧唐书·穆宗纪
+  note: 主叙事
+- title: 资治通鉴·唐纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 唐朝第十四帝，正史立纪。
+  synced_from_cards: true

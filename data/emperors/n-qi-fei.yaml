@@ -1,0 +1,152 @@
+id: n-qi-fei
+tier: emperor
+sort_key: 北齐-002
+names:
+  display: 北齐废帝
+  display_en: The Deposed Emperor of Northern Qi
+  personal: 高殷
+  personal_en: Gao Yin
+  temple: null
+  posthumous: null
+  aliases:
+  - 济南王
+dynasty:
+  id: n-qi
+  label: 北齐
+  sequence: 2
+reign:
+  start: '559'
+  end: '560'
+  eras:
+  - 乾明
+life:
+  birth: '545'
+  death: '561'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 文宣长子，十五岁即位；幼而好学，然不能自固，皇建元年为叔父常山王演所废为济南王，旋遇害。
+summary_en: Eldest son of Wenxuan, he took the throne at fifteen; studious from youth
+  but unable to hold his own, in the 1st year of Huangjian his uncle the Prince of
+  Changshan, Yan, deposed him as Prince of Jinan, and he was soon done to death.
+tags:
+- 幼主
+- 见废
+- 济南王
+- 叔父篡立
+tags_en:
+- Child Sovereign
+- Deposed
+- Prince of Jinan
+- The Uncle's Usurpation
+portrait:
+  primary: assets/portraits/n-qi-fei/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现好学而孱弱的少年君主之态，衣冠从北齐初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-qi-fei.md
+timeline:
+- year: '545'
+  date_note: 武定三年
+  date_note_en: 3rd year of Wuding
+  title: 生
+  title_en: Birth
+  summary: 文宣长子。
+  summary_en: Eldest son of Emperor Wenxuan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北齐书·卷005·废帝纪
+  card_id: E001
+- year: '559'
+  date_note: 乾明元年
+  date_note_en: 1st year of Qianming
+  title: 即位
+  title_en: Accession
+  summary: 文宣崩，殷即位。
+  summary_en: On Wenxuan's death Yin took the throne.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '560'
+  date_note: 在位
+  date_note_en: in reign
+  title: 改元乾明
+  title_en: The Qianming Era
+  summary: 一年而废。
+  summary_en: A year, and he was deposed.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '560'
+  date_note: 皇建元年
+  date_note_en: 1st year of Huangjian
+  title: 被废
+  title_en: Deposed
+  summary: 常山王演废帝为济南王，自即帝位。
+  summary_en: The Prince of Changshan, Yan, deposed him as Prince of Jinan and took
+    the throne himself.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '561'
+  date_note: 皇建二年
+  date_note_en: 2nd year of Huangjian
+  title: 遇害
+  title_en: Done to Death
+  summary: 废后遇害。
+  summary_en: He was done to death after the deposition.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '561'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 废帝总评
+  title_en: Final Verdict
+  summary: 幼而好学，不能自固。
+  summary_en: Studious from youth, but unable to hold his own.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-qi-wenxuan
+  note: 天保十年文宣崩，子殷即位
+- type: successor
+  target_id: n-qi-xiaozhao
+  note: 皇建元年被废，常山王演自立
+routes:
+- group: 都城
+  order: 1
+  year: '559'
+  place_id: ye-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '560'
+  place_id: ye-cheng
+  event: 被废
+- group: 都城
+  order: 3
+  year: '561'
+  place_id: ye-cheng
+  event: 遇害
+sources:
+- title: 北齐书·废帝纪
+  note: 主叙事
+- title: 北齐书·孝昭纪
+  note: 废立互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北齐第二帝，正史立纪。
+  synced_from_cards: true

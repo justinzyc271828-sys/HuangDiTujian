@@ -1,0 +1,163 @@
+id: n-zhou-jing
+tier: emperor
+sort_key: 北周-006
+names:
+  display: 北周静帝
+  display_en: Emperor Jing of Northern Zhou
+  personal: 宇文阐
+  personal_en: Yuwen Chan
+  temple: 静帝
+  posthumous: 静皇帝
+  aliases:
+  - 宇文衍
+dynasty:
+  id: n-zhou
+  label: 北周
+  sequence: 5
+reign:
+  start: '579'
+  end: '581'
+  eras:
+  - 大象
+  - 大定
+life:
+  birth: '573'
+  death: '581'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宣帝长子，七岁即位，杨坚为左大丞相；大象二年平尉迟迥等反抗；大定元年禅位于杨坚，周亡隋立，禅后遇害。
+summary_en: Eldest son of Xuan, he took the throne at seven with Yang Jian as grand
+  chancellor of the left; in the 2nd year of Daxiang the risings of Yuchi Jiong and
+  the rest were put down; in the 1st year of Dading he abdicated to Yang Jian — Zhou
+  perished, Sui arose, and he was done to death after the abdication.
+tags:
+- 幼主
+- 杨坚
+- 禅位隋
+- 北周亡
+tags_en:
+- Child Sovereign
+- Yang Jian
+- Abdication to Sui
+- Fall of Northern Zhou
+portrait:
+  primary: assets/portraits/n-zhou-jing/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼冲恭顺的末代君主之态，衣冠从北周末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-zhou-jing.md
+timeline:
+- year: '573'
+  date_note: 建德二年
+  date_note_en: 2nd year of Jiande
+  title: 生
+  title_en: Birth
+  summary: 宣帝长子，初名衍。
+  summary_en: Eldest son of Xuan, first named Yan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 周书·卷008·静帝纪
+  card_id: E001
+- year: '579'
+  date_note: 大象元年
+  date_note_en: 1st year of Daxiang
+  title: 即位
+  title_en: Accession
+  summary: 年幼即位，杨坚为左大丞相。
+  summary_en: He took the throne young, with Yang Jian as grand chancellor of the
+    left.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '580'
+  date_note: 大象二年
+  date_note_en: 2nd year of Daxiang
+  title: 平尉迟迥
+  title_en: Yuchi Jiong Destroyed
+  summary: 坚遣韦孝宽平邺城尉迟迥等反抗。
+  summary_en: Jian sent Wei Xiaokuan to destroy the rising of Yuchi Jiong at Ye and
+    the rest.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '581'
+  date_note: 大定元年
+  date_note_en: 1st year of Dading
+  title: 禅位隋
+  title_en: Abdication to Sui
+  summary: 禅位于杨坚，周亡，隋立。
+  summary_en: He abdicated to Yang Jian — Zhou perished and Sui arose.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '581'
+  date_note: 开皇元年
+  date_note_en: 1st year of Kaihuang
+  title: 遇害
+  title_en: Done to Death
+  summary: 禅后遇害。
+  summary_en: He was done to death after the abdication.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '581'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 静帝总评
+  title_en: Final Verdict
+  summary: 幼冲当禅，身成隋基。
+  summary_en: A child in the abdication, his life the foundation of Sui.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-zhou-xuan
+  note: 大象元年宣帝禅位，太子阐即位
+- type: successor
+  target_id: sui-wen
+  note: 大定元年禅位于杨坚，北周亡
+- type: kinship
+  target_id: n-zhou-xuan
+  note: 宣帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '579'
+  place_id: chang-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '580'
+  place_id: ye-cheng
+  event: 平尉迟迥
+- group: 都城
+  order: 3
+  year: '581'
+  place_id: chang-an
+  event: 禅位隋
+- group: 都城
+  order: 4
+  year: '581'
+  place_id: chang-an
+  event: 遇害
+sources:
+- title: 周书·静帝纪
+  note: 主叙事
+- title: 隋书·高祖纪
+  note: 禅代互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北周末帝，禅位于隋，正史立纪。
+  synced_from_cards: true

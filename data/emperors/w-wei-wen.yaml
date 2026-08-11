@@ -1,0 +1,163 @@
+id: w-wei-wen
+tier: emperor
+sort_key: 西魏-001
+names:
+  display: 西魏文帝
+  display_en: Emperor Wen of Western Wei
+  personal: 元宝炬
+  personal_en: Yuan Baoju
+  temple: 文帝
+  posthumous: 文皇帝
+  aliases:
+  - 拓跋宝炬
+dynasty:
+  id: w-wei
+  label: 西魏
+  sequence: 1
+reign:
+  start: '535'
+  end: '551'
+  eras:
+  - 大统
+life:
+  birth: '507'
+  death: '551'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 京兆王愉之子，孝文帝孙；孝武遇鸩后宇文泰立之，都长安，西魏始；大统三年沙苑之战破高欢，西魏立足，府兵制萌芽；大统十七年崩。
+summary_en: Son of the Prince of Jingzhao, Yuan Yu, grandson of Emperor Xiaowen; after
+  Xiaowu's poisoning Yuwen Tai set him up at Chang'an — the beginning of Western Wei.
+  In the 3rd year of Datong the Shayuan battle broke Gao Huan and Western Wei stood;
+  the fubing system began to take shape. He died in the 17th year of Datong.
+tags:
+- 长安践祚
+- 沙苑之战
+- 府兵萌芽
+- 宇文泰
+tags_en:
+- Throne at Chang'an
+- The Shayuan Battle
+- Dawn of the Fubing
+- Yuwen Tai
+portrait:
+  primary: assets/portraits/w-wei-wen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恭默守位的君主之态，衣冠从西魏制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/w-wei-wen.md
+timeline:
+- year: '507'
+  date_note: 正始四年
+  date_note_en: 4th year of Zhengshi
+  title: 生
+  title_en: Birth
+  summary: 京兆王愉子，孝文帝孙。
+  summary_en: Son of the Prince of Jingzhao, Yuan Yu; grandson of Emperor Xiaowen.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 北史·卷005
+  card_id: E001
+- year: '535'
+  date_note: 大统元年
+  date_note_en: 1st year of Datong
+  title: 即位
+  title_en: Accession
+  summary: 宇文泰立宝炬于长安，西魏始，改元大统。
+  summary_en: Yuwen Tai set up Baoju at Chang'an — the beginning of Western Wei —
+    changing the era to Datong.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '537'
+  date_note: 大统三年
+  date_note_en: 3rd year of Datong
+  title: 沙苑之战
+  title_en: The Shayuan Battle
+  summary: 宇文泰破高欢于沙苑，西魏立足。
+  summary_en: Yuwen Tai broke Gao Huan at Shayuan, and Western Wei stood its ground.
+  place_id: sha-yuan
+  related_person_ids: []
+  sources: &id002
+  - 周书·文帝纪
+  card_id: E003
+- year: '543'
+  date_note: 大统九年
+  date_note_en: 9th year of Datong
+  title: 邙山之战
+  title_en: The Mangshan Battle
+  summary: 与东魏大战邙山，互有胜负。
+  summary_en: He fought Eastern Wei at Mangshan — fortunes divided.
+  place_id: mang-shan
+  related_person_ids: []
+  sources: *id002
+  card_id: E004
+- year: '551'
+  date_note: 大统十七年
+  date_note_en: 17th year of Datong
+  title: 文帝崩
+  title_en: Death of Emperor Wen
+  summary: 崩，子钦继，是为废帝。
+  summary_en: He died; his son Qin succeeded — the Deposed Emperor.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '551'
+  date_note: 制度
+  date_note_en: institutions
+  title: 府兵萌芽
+  title_en: Dawn of the Fubing
+  summary: 大统中六军、二十四军与府兵制相关。
+  summary_en: In mid-Datong the six and twenty-four armies foreshadowed the fubing
+    system.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-xiaowu
+  note: 孝武遇鸩后，宇文泰立宝炬于长安
+- type: successor
+  target_id: w-wei-fei
+  note: 大统十七年崩，子钦即位
+- type: kinship
+  target_id: n-wei-xiaowen
+  note: 孝文帝孙
+routes:
+- group: 都城
+  order: 1
+  year: '535'
+  place_id: chang-an
+  event: 即位
+- group: 其他
+  order: 2
+  year: '537'
+  place_id: sha-yuan
+  event: 沙苑之战
+- group: 其他
+  order: 3
+  year: '543'
+  place_id: mang-shan
+  event: 邙山之战
+- group: 都城
+  order: 4
+  year: '551'
+  place_id: chang-an
+  event: 文帝崩
+sources:
+- title: 北史·魏本纪
+  note: 主叙事
+- title: 周书·文帝纪
+  note: 沙苑邙山互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西魏开国皇帝，正史立纪。
+  synced_from_cards: true

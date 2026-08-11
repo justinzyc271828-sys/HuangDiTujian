@@ -1,0 +1,165 @@
+id: n-wei-wencheng
+tier: emperor
+sort_key: 北魏-003
+names:
+  display: 文成帝
+  display_en: Emperor Wencheng of Northern Wei
+  personal: 拓跋濬
+  personal_en: Tuoba Jun
+  temple: 高宗
+  posthumous: 文成皇帝
+  aliases:
+  - 拓跋乌雷
+dynasty:
+  id: n-wei
+  label: 北魏
+  sequence: 3
+reign:
+  start: '452'
+  end: '465'
+  eras:
+  - 兴安
+  - 兴光
+  - 太安
+  - 和平
+life:
+  birth: '440'
+  death: '465'
+  birth_place_id: null
+  death_place_id: ping-cheng
+summary: 太武帝孙，宗爱弑太武后入定乱即位；兴安二年下诏复佛法，和平元年昙曜开云冈石窟，与民休息；和平六年崩。
+summary_en: Grandson of Emperor Taiwu, he entered and steadied the realm after Zong
+  Ai slew Taiwu; in the 2nd year of Xing'an he restored the Buddhist law by edict,
+  and in the 1st year of Heping Tanyao opened the Yungang caves; he let the people
+  rest. He died in the 6th year of Heping.
+tags:
+- 复佛法
+- 云冈石窟
+- 与民休息
+- 守成
+tags_en:
+- Restoring Buddhism
+- The Yungang Caves
+- Letting the People Rest
+- Stewardship
+portrait:
+  primary: assets/portraits/n-wei-wencheng/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽和守成的君主之态，衣冠从北魏中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-wei-wencheng.md
+timeline:
+- year: '440'
+  date_note: 太平真君元年
+  date_note_en: 1st year of Taipingzhenjun
+  title: 生
+  title_en: Birth
+  summary: 太武帝孙，景穆太子晃子。
+  summary_en: Grandson of Emperor Taiwu, son of the heir Huang.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 魏书·卷005·高宗纪
+  card_id: E001
+- year: '452'
+  date_note: 兴安元年
+  date_note_en: 1st year of Xing'an
+  title: 即位
+  title_en: Accession
+  summary: 宗爱弑太武，濬入定乱即位。
+  summary_en: Zong Ai slew Taiwu; Jun entered, steadied the realm, and took the throne.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '453'
+  date_note: 兴安二年
+  date_note_en: 2nd year of Xing'an
+  title: 复佛法
+  title_en: Restoring Buddhism
+  summary: 下诏复佛，一改太武灭佛。
+  summary_en: By edict he restored the faith — a reversal of Taiwu's persecution.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '460'
+  date_note: 和平元年
+  date_note_en: 1st year of Heping
+  title: 云冈开窟
+  title_en: The Yungang Caves Opened
+  summary: 昙曜奏开武周山石窟（云冈），为名场面。
+  summary_en: 'At Tanyao''s plea the Wuzhou Mountain caves — Yungang — were opened:
+    the age''s great scene.'
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '465'
+  date_note: 和平六年
+  date_note_en: 6th year of Heping
+  title: 文成帝崩
+  title_en: Death of Emperor Wencheng
+  summary: 崩，子弘继，是为献文帝。
+  summary_en: He died; his son Hong succeeded — Emperor Xianwen.
+  place_id: ping-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '465'
+  date_note: 政风
+  date_note_en: governance
+  title: 与民休息
+  title_en: Letting the People Rest
+  summary: 史称宽刑简政，民力稍苏。
+  summary_en: The histories note his lenient punishments and simple government; the
+    people's strength revived.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: n-wei-taiwu
+  note: 宗爱弑太武，濬入定乱即位
+- type: successor
+  target_id: n-wei-xianwen
+  note: 和平六年崩，子弘即位
+- type: kinship
+  target_id: n-wei-taiwu
+  note: 太武帝孙，景穆太子之子
+routes:
+- group: 都城
+  order: 1
+  year: '452'
+  place_id: ping-cheng
+  event: 即位
+- group: 都城
+  order: 2
+  year: '453'
+  place_id: ping-cheng
+  event: 复佛法
+- group: 都城
+  order: 3
+  year: '460'
+  place_id: ping-cheng
+  event: 云冈开窟
+- group: 都城
+  order: 4
+  year: '465'
+  place_id: ping-cheng
+  event: 文成帝崩
+sources:
+- title: 魏书·高宗纪
+  note: 主叙事
+- title: 魏书·释老志
+  note: 云冈开窟互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北魏第三帝，正史立纪。
+  synced_from_cards: true
