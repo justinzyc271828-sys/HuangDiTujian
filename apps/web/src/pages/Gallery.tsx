@@ -109,17 +109,15 @@ export default function Gallery({ site }: Props) {
               <Link
                 key={e.id}
                 to={`/emperor/${e.id}`}
-                className={`g-card ${isFeatured ? "is-draft is-featured" : "is-stub"}`}
+                className={`g-card is-draft ${isFeatured ? "is-featured" : ""} ${isQuasi ? "is-quasi" : ""}`}
               >
-                {isFeatured && (
-                  <div className="g-illu">
-                    {e.illustration ? (
-                      <img src={`/${e.illustration}`} alt="" loading="lazy" />
-                    ) : (
-                      <div className="g-illu-pending">{t("gallery.portraitPending")}</div>
-                    )}
-                  </div>
-                )}
+                <div className="g-illu">
+                  {e.illustration ? (
+                    <img src={`/${e.illustration}`} alt="" loading="lazy" />
+                  ) : (
+                    <div className="g-illu-pending">{t("gallery.portraitPending")}</div>
+                  )}
+                </div>
                 <div className="g-card-body">
                   <div className="g-card-top">
                     <h2 className="g-name">{display}</h2>
@@ -137,7 +135,7 @@ export default function Gallery({ site }: Props) {
                     {e.names.personal ? ` · ${e.names.personal}` : ""} ·{" "}
                     {e.reign.start || "?"}—{e.reign.end || "?"}
                   </div>
-                  {isFeatured && tags.length > 0 && (
+                  {tags.length > 0 && (
                     <div className="g-tags">
                       {tags.slice(0, 4).map((t) => (
                         <span key={t} className="g-tag">
@@ -146,7 +144,7 @@ export default function Gallery({ site }: Props) {
                       ))}
                     </div>
                   )}
-                  {isFeatured && <p className="g-summary">{summary}</p>}
+                  <p className="g-summary">{summary}</p>
                   <div className="g-status">
                     {read.includes(e.id) && <span className="st-read">{t("st.read")}</span>}
                     {starred.includes(e.id) && <span className="st-star">{t("st.star")}</span>}
