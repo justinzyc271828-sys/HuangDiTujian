@@ -3986,7 +3986,7 @@
       "tier": "quasi",
       "sort_key": "汉-003",
       "names": {
-        "display": "前少帝",
+        "display": "汉前少帝",
         "display_en": "Former Young Emperor",
         "personal": "刘恭",
         "personal_en": "Liu Gong",
@@ -4273,7 +4273,7 @@
       "tier": "quasi",
       "sort_key": "汉-004",
       "names": {
-        "display": "后少帝",
+        "display": "汉后少帝",
         "display_en": "Later Young Emperor",
         "personal": "刘弘",
         "personal_en": "Liu Hong",
@@ -6193,7 +6193,7 @@
       "tier": "quasi",
       "sort_key": "汉-009",
       "names": {
-        "display": "昌邑王贺",
+        "display": "汉昌邑王贺",
         "display_en": "Prince He of Changyi",
         "personal": "刘贺",
         "personal_en": "Liu He",
@@ -8481,7 +8481,7 @@
       "tier": "quasi",
       "sort_key": "汉-015",
       "names": {
-        "display": "孺子婴",
+        "display": "汉孺子婴",
         "display_en": "Ruzi Ying (The Infant)",
         "personal": "刘婴",
         "personal_en": "Liu Ying",
@@ -11454,7 +11454,7 @@
       "tier": "quasi",
       "sort_key": "东汉-007",
       "names": {
-        "display": "北乡侯",
+        "display": "汉北乡侯",
         "display_en": "Marquis of Beixiang",
         "personal": "刘懿",
         "personal_en": "Liu Yi",
@@ -14884,7 +14884,7 @@
       "tier": "emperor",
       "sort_key": "曹魏-003",
       "names": {
-        "display": "齐王芳",
+        "display": "魏齐王芳",
         "display_en": "Cao Fang, Prince of Qi",
         "personal": "曹芳",
         "personal_en": "Cao Fang",
@@ -15122,7 +15122,7 @@
       "tier": "emperor",
       "sort_key": "曹魏-004",
       "names": {
-        "display": "高贵乡公",
+        "display": "魏高贵乡公",
         "display_en": "The Duke of Gaogui District",
         "personal": "曹髦",
         "personal_en": "Cao Mao",
@@ -16665,7 +16665,7 @@
       "tier": "emperor",
       "sort_key": "孙吴-002",
       "names": {
-        "display": "会稽王",
+        "display": "吴会稽王",
         "display_en": "The Prince of Kuajji",
         "personal": "孙亮",
         "personal_en": "Sun Liang",
@@ -22779,7 +22779,7 @@
       "tier": "emperor",
       "sort_key": "刘宋-005",
       "names": {
-        "display": "前废帝",
+        "display": "宋前废帝",
         "display_en": "The Former Deposed Emperor",
         "personal": "刘子业",
         "personal_en": "Liu Ziye",
@@ -23215,7 +23215,7 @@
       "tier": "emperor",
       "sort_key": "刘宋-007",
       "names": {
-        "display": "后废帝",
+        "display": "宋后废帝",
         "display_en": "The Later Deposed Emperor",
         "personal": "刘昱",
         "personal_en": "Liu Yu",
@@ -24092,7 +24092,7 @@
       "tier": "emperor",
       "sort_key": "南齐-003",
       "names": {
-        "display": "郁林王",
+        "display": "齐郁林王",
         "display_en": "The Prince of Yulin",
         "personal": "萧昭业",
         "personal_en": "Xiao Zhaoye",
@@ -24310,7 +24310,7 @@
       "tier": "emperor",
       "sort_key": "南齐-004",
       "names": {
-        "display": "海陵王",
+        "display": "齐海陵王",
         "display_en": "The Prince of Hailing",
         "personal": "萧昭文",
         "personal_en": "Xiao Zhaowen",
@@ -24738,7 +24738,7 @@
       "tier": "emperor",
       "sort_key": "南齐-006",
       "names": {
-        "display": "东昏侯",
+        "display": "齐东昏侯",
         "display_en": "The Marquis of Donghun",
         "personal": "萧宝卷",
         "personal_en": "Xiao Baojuan",
@@ -25792,7 +25792,7 @@
       "tier": "quasi",
       "sort_key": "梁-003",
       "names": {
-        "display": "豫章王栋",
+        "display": "梁豫章王栋",
         "display_en": "Xiao Dong, Prince of Yuzhang",
         "personal": "萧栋",
         "personal_en": "Xiao Dong",
@@ -27605,7 +27605,7 @@
       "tier": "emperor",
       "sort_key": "北魏-001",
       "names": {
-        "display": "道武帝",
+        "display": "北魏道武帝",
         "display_en": "Emperor Daowu of Northern Wei",
         "personal": "拓跋珪",
         "personal_en": "Tuoba Gui",
@@ -27860,7 +27860,7 @@
       "tier": "emperor",
       "sort_key": "北魏-002",
       "names": {
-        "display": "明元帝",
+        "display": "北魏明元帝",
         "display_en": "Emperor Mingyuan of Northern Wei",
         "personal": "拓跋嗣",
         "personal_en": "Tuoba Si",
@@ -28085,7 +28085,7 @@
       "tier": "emperor",
       "sort_key": "北魏-003",
       "names": {
-        "display": "太武帝",
+        "display": "北魏太武帝",
         "display_en": "Emperor Taiwu of Northern Wei",
         "personal": "拓跋焘",
         "personal_en": "Tuoba Tao",
@@ -28476,7 +28476,7 @@
       "tier": "emperor",
       "sort_key": "北魏-003",
       "names": {
-        "display": "文成帝",
+        "display": "北魏文成帝",
         "display_en": "Emperor Wencheng of Northern Wei",
         "personal": "拓跋濬",
         "personal_en": "Tuoba Jun",
@@ -28709,7 +28709,7 @@
       "tier": "emperor",
       "sort_key": "北魏-004",
       "names": {
-        "display": "献文帝",
+        "display": "北魏献文帝",
         "display_en": "Emperor Xianwen of Northern Wei",
         "personal": "拓跋弘",
         "personal_en": "Tuoba Hong",
@@ -28933,7 +28933,7 @@
       "tier": "emperor",
       "sort_key": "北魏-006",
       "names": {
-        "display": "孝文帝",
+        "display": "北魏孝文帝",
         "display_en": "Emperor Xiaowen of Northern Wei",
         "personal": "元宏",
         "personal_en": "Yuan Hong",
@@ -29303,7 +29303,7 @@
       "tier": "emperor",
       "sort_key": "北魏-005",
       "names": {
-        "display": "宣武帝",
+        "display": "北魏宣武帝",
         "display_en": "Emperor Xuanwu of Northern Wei",
         "personal": "元恪",
         "personal_en": "Yuan Ke",
@@ -29536,7 +29536,7 @@
       "tier": "emperor",
       "sort_key": "北魏-006",
       "names": {
-        "display": "孝明帝",
+        "display": "北魏孝明帝",
         "display_en": "Emperor Xiaoming of Northern Wei",
         "personal": "元诩",
         "personal_en": "Yuan Xu",
@@ -29770,7 +29770,7 @@
       "tier": "emperor",
       "sort_key": "北魏-007",
       "names": {
-        "display": "孝庄帝",
+        "display": "北魏孝庄帝",
         "display_en": "Emperor Xiaozhuang of Northern Wei",
         "personal": "元子攸",
         "personal_en": "Yuan Ziyou",
@@ -29996,7 +29996,7 @@
       "tier": "quasi",
       "sort_key": "北魏-008",
       "names": {
-        "display": "节闵帝",
+        "display": "北魏节闵帝",
         "display_en": "Emperor Jiemin of Northern Wei",
         "personal": "元恭",
         "personal_en": "Yuan Gong",
@@ -30215,7 +30215,7 @@
       "tier": "emperor",
       "sort_key": "北魏-009",
       "names": {
-        "display": "孝武帝",
+        "display": "北魏孝武帝",
         "display_en": "Emperor Xiaowu of Northern Wei",
         "personal": "元修",
         "personal_en": "Yuan Xiu",
@@ -30441,7 +30441,7 @@
       "tier": "emperor",
       "sort_key": "东魏-001",
       "names": {
-        "display": "孝静帝",
+        "display": "东魏孝静帝",
         "display_en": "Emperor Xiaojing of Eastern Wei",
         "personal": "元善见",
         "personal_en": "Yuan Shanjian",
@@ -31348,7 +31348,7 @@
       "tier": "emperor",
       "sort_key": "北齐-001",
       "names": {
-        "display": "文宣帝",
+        "display": "北齐文宣帝",
         "display_en": "Emperor Wenxuan of Northern Qi",
         "personal": "高洋",
         "personal_en": "Gao Yang",
@@ -31796,7 +31796,7 @@
       "tier": "emperor",
       "sort_key": "北齐-003",
       "names": {
-        "display": "孝昭帝",
+        "display": "北齐孝昭帝",
         "display_en": "Emperor Xiaozhao of Northern Qi",
         "personal": "高演",
         "personal_en": "Gao Yan",
@@ -32019,7 +32019,7 @@
       "tier": "emperor",
       "sort_key": "北齐-004",
       "names": {
-        "display": "武成帝",
+        "display": "北齐武成帝",
         "display_en": "Emperor Wucheng of Northern Qi",
         "personal": "高湛",
         "personal_en": "Gao Zhan",
@@ -32475,7 +32475,7 @@
       "tier": "emperor",
       "sort_key": "北周-001",
       "names": {
-        "display": "孝闵帝",
+        "display": "北周孝闵帝",
         "display_en": "Emperor Xiaomin of Northern Zhou",
         "personal": "宇文觉",
         "personal_en": "Yuwen Jue",
@@ -33612,7 +33612,7 @@
       "tier": "quasi",
       "sort_key": "汉（前赵）-001",
       "names": {
-        "display": "汉（前赵）高祖",
+        "display": "汉赵高祖",
         "display_en": "Liu Yuan, Founder of Han (Former Zhao)",
         "personal": "刘渊",
         "personal_en": "Liu Yuan",
@@ -33834,7 +33834,7 @@
       "tier": "quasi",
       "sort_key": "汉（前赵）-002",
       "names": {
-        "display": "汉（前赵）烈宗",
+        "display": "汉赵烈宗",
         "display_en": "Liu Cong, Ancestor Lie of Han (Former Zhao)",
         "personal": "刘聪",
         "personal_en": "Liu Cong",
@@ -34069,7 +34069,7 @@
       "tier": "quasi",
       "sort_key": "赵（前赵）-001",
       "names": {
-        "display": "赵（前赵）主",
+        "display": "前赵末帝",
         "display_en": "Liu Yao, Sovereign of Zhao (Former Zhao)",
         "personal": "刘曜",
         "personal_en": "Liu Yao",
@@ -60710,7 +60710,7 @@
       "tier": "emperor",
       "sort_key": "",
       "names": {
-        "display": "天祚帝",
+        "display": "辽天祚帝",
         "display_en": "Emperor Tianzuo of Liao",
         "personal": "耶律延禧",
         "personal_en": "Yelü Yanxi",
@@ -61754,7 +61754,7 @@
       "tier": "emperor",
       "sort_key": "",
       "names": {
-        "display": "海陵王",
+        "display": "金海陵王",
         "display_en": "Prince Hailing of Jin",
         "personal": "完颜亮",
         "personal_en": "Wanyan Liang",
@@ -62567,7 +62567,7 @@
       "tier": "emperor",
       "sort_key": "",
       "names": {
-        "display": "卫绍王",
+        "display": "金卫绍王",
         "display_en": "Prince Weishao of Jin",
         "personal": "完颜允济",
         "personal_en": "Wanyan Yunji",
@@ -65575,7 +65575,7 @@
       "tier": "emperor",
       "sort_key": "元-009",
       "names": {
-        "display": "泰定帝",
+        "display": "元泰定帝",
         "display_en": "Emperor Taiding of Yuan",
         "personal": "孛儿只斤也孙铁木儿",
         "personal_en": "Borjigin Yesun Temur",
@@ -65839,7 +65839,7 @@
       "tier": "quasi",
       "sort_key": "元-010",
       "names": {
-        "display": "天顺帝",
+        "display": "元天顺帝",
         "display_en": "Emperor Tianshun of Yuan",
         "personal": "孛儿只斤阿速吉八",
         "personal_en": "Borjigin Arigaba",
@@ -67248,7 +67248,7 @@
       "tier": "emperor",
       "sort_key": "明-002",
       "names": {
-        "display": "建文帝",
+        "display": "明建文帝",
         "display_en": "Jianwen Emperor",
         "personal": "朱允炆",
         "personal_en": "Zhu Yunwen",
@@ -68242,7 +68242,7 @@
       "tier": "emperor",
       "sort_key": "明-006",
       "names": {
-        "display": "明英宗",
+        "display": "明英宗（正统）",
         "display_en": "Emperor Yingzong of Ming (Zhengtong)",
         "personal": "朱祁镇",
         "personal_en": "Zhu Qizhen",
@@ -68790,7 +68790,7 @@
       "tier": "emperor",
       "sort_key": "明-008",
       "names": {
-        "display": "明英宗(天顺)",
+        "display": "明英宗（天顺）",
         "display_en": "Emperor Yingzong of Ming (Tianshun)",
         "personal": "朱祁镇",
         "personal_en": "Zhu Qizhen",
@@ -74062,7 +74062,7 @@
       "tier": "emperor",
       "sort_key": "清-012",
       "names": {
-        "display": "宣统帝",
+        "display": "清宣统帝",
         "display_en": "Emperor Xuantong of Qing (Puyi)",
         "personal": "爱新觉罗溥仪",
         "personal_en": "Aisin Gioro Puyi",
