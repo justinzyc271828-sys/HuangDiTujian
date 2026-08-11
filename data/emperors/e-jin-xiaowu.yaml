@@ -1,0 +1,258 @@
+id: e-jin-xiaowu
+tier: emperor
+sort_key: 东晋-009
+names:
+  display: 晋孝武帝
+  display_en: Emperor Xiaowu of Jin
+  personal: 司马曜
+  personal_en: Sima Yao
+  temple: 烈宗
+  posthumous: 孝武皇帝
+  aliases:
+  - 晋孝武帝司马曜
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 9
+reign:
+  start: '372'
+  end: '396'
+  eras:
+  - 宁康
+  - 太元
+life:
+  birth: '362'
+  death: '396'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 十一岁即位，桓温卒后谢安执政，太元八年淝水之战大破苻坚，乘胜北伐；谢安卒后荒于酒色，太元二十一年醉后为张贵人弑于宫中。
+summary_en: Ascending at eleven, he saw Huan Wen die and Xie An govern; in the 8th
+  year of Taiyuan the Battle of the Fei River broke Fu Jian utterly, and he pressed
+  north on the victory; after Xie An's death he gave himself to wine and women, and
+  in the 21st year of Taiyuan, drunk, he was slain in his palace by Lady Zhang.
+tags:
+- 淝水之战
+- 谢安
+- 北伐
+- 被弑
+tags_en:
+- Battle of the Fei River
+- Xie An
+- Northern Campaigns
+- Slain
+portrait:
+  primary: assets/portraits/e-jin-xiaowu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 晋书载「帝幼而聪悟」。画像宜表现淝水之战的少年天子至纵酒中年的变化之态，衣冠从东晋中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-xiaowu.md
+timeline:
+- year: '362'
+  date_note: 隆和元年
+  date_note_en: 1st year of Longhe
+  title: 生
+  title_en: Birth
+  summary: 简文帝子，母李氏。
+  summary_en: Son of Emperor Jianwen by Lady Li.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E001
+- year: '372'
+  date_note: 咸安二年
+  date_note_en: 2nd year of Xian'an
+  title: 即位
+  title_en: Accession
+  summary: 简文帝崩，曜即位，年十一，褚太后曾临朝，谢安等执政。
+  summary_en: On Emperor Jianwen's death Yao took the throne at eleven; Empress Chu
+    held court for a time and Xie An governed.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-jianwen
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E002
+- year: '373'
+  date_note: 宁康元年
+  date_note_en: 1st year of Ningkang
+  title: 桓温卒
+  title_en: Death of Huan Wen
+  summary: 桓温死，禅代之威胁消。
+  summary_en: Huan Wen died, and the menace of abdication was gone.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·桓温传
+  card_id: E003
+- year: '376'
+  date_note: 太元元年
+  date_note_en: 1st year of Taiyuan
+  title: 皇太后归政
+  title_en: The Empress Dowager Returns the Government
+  summary: 帝始亲政。
+  summary_en: The emperor at last governed in person.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E004
+- year: '379'
+  date_note: 太元四年
+  date_note_en: 4th year of Taiyuan
+  title: 秦攻襄阳
+  title_en: Qin Besieges Xiangyang
+  summary: 苻坚遣军攻襄阳，朱序固守逾年方陷。
+  summary_en: Fu Jian's army besieged Xiangyang, which Zhu Xu held for over a year
+    before it fell.
+  place_id: xiang-yang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E005
+- year: '383'
+  date_note: 太元八年
+  date_note_en: 8th year of Taiyuan
+  title: 淝水之战
+  title_en: The Battle of the Fei River
+  summary: 苻坚大举南下，谢石、谢玄等以八万兵破其百万之众于淝水，东晋转危为安。
+  summary_en: Fu Jian came south in overwhelming force; Xie Shi and Xie Xuan, with
+    eighty thousand men, broke his million at the Fei River, turning Eastern Jin's
+    danger into safety.
+  place_id: fei-shui
+  related_person_ids:
+  - q-qin-fu-jian-jian
+  sources:
+  - 晋书·卷009·孝武帝纪
+  - 晋书·谢玄传
+  card_id: E006
+- year: '384'
+  date_note: 太元九年
+  date_note_en: 9th year of Taiyuan
+  title: 北伐有功
+  title_en: The Victorious North
+  summary: 乘胜北伐，取河南诸城，然得而复失。
+  summary_en: Pressing north on the victory, he took the cities of Henan — won and
+    lost again.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E007
+- year: '385'
+  date_note: 太元十年
+  date_note_en: 10th year of Taiyuan
+  title: 谢安卒
+  title_en: Death of Xie An
+  summary: 谢安卒，司马道子执政，政道渐衰。
+  summary_en: Xie An died; Sima Daozi governed, and the way of government decayed.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E008
+- year: '387'
+  date_note: 太元十二年
+  date_note_en: 12th year of Taiyuan
+  title: 立国学
+  title_en: The National Academy
+  summary: 增修学校，立国学。
+  summary_en: He rebuilt the schools and established the national academy.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E009
+- year: '390'
+  date_note: 太元十五年
+  date_note_en: 15th year of Taiyuan
+  title: 道子王国宝用事
+  title_en: Daozi and Wang Guobao in Power
+  summary: 司马道子、王国宝用事，佞幸乱政。
+  summary_en: Sima Daozi and Wang Guobao held power, and flatterers disordered the
+    government.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E010
+- year: '396'
+  date_note: 太元二十一年
+  date_note_en: 21st year of Taiyuan
+  title: 帝被弑
+  title_en: The Emperor Slain
+  summary: 醉后辱张贵人，为贵人使婢以被蒙面弑之；安帝德宗即位。
+  summary_en: Drunk, he mocked Lady Zhang, who had her maids smother him; Emperor
+    An (Sima Dezong) succeeded.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-an
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E011
+- year: '396'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 孝武总评
+  title_en: Final Verdict
+  summary: 初赖谢安，淝水一战保江南；后溺于酒色，委政道子，东晋由盛转衰。
+  summary_en: Relying on Xie An at first, the Fei River battle saved the south; later
+    he drowned in wine and women, left government to Daozi, and turned Eastern Jin
+    from strength to decline.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·孝武帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: e-jin-jianwen
+  note: 咸安二年简文帝崩，子曜即位
+- type: successor
+  target_id: e-jin-an
+  note: 太元二十一年被弑，长子德宗即位
+- type: kinship
+  target_id: e-jin-jianwen
+  note: 简文帝子
+routes:
+- group: 都城
+  order: 1
+  year: '372'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '379'
+  place_id: xiang-yang
+  event: 秦攻襄阳
+- group: 其他
+  order: 3
+  year: '383'
+  place_id: fei-shui
+  event: 淝水之战
+- group: 其他
+  order: 4
+  year: '384'
+  place_id: luoyang
+  event: 北伐有功
+- group: 都城
+  order: 5
+  year: '396'
+  place_id: jian-kang
+  event: 帝被弑
+sources:
+- title: 晋书·孝武帝纪
+  note: 主叙事
+- title: 晋书·谢玄传
+  note: 淝水互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第九帝，正史立纪。
+  synced_from_cards: true

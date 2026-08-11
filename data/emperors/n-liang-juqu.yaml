@@ -1,0 +1,165 @@
+id: n-liang-juqu
+tier: quasi
+sort_key: 北凉-002
+names:
+  display: 北凉武宣王
+  display_en: Juqu Mengxun, King Wuxuan of Northern Liang
+  personal: 沮渠蒙逊
+  personal_en: Juqu Mengxun
+  temple: 太祖
+  posthumous: 武宣王
+  aliases: []
+dynasty:
+  id: n-liang
+  label: 北凉
+  sequence: 2
+reign:
+  start: '401'
+  end: '433'
+  eras:
+  - 永安
+  - 玄始
+  - 承玄
+  - 义和
+life:
+  birth: '368'
+  death: '433'
+  birth_place_id: null
+  death_place_id: gu-zang
+summary: 临松卢水胡，博涉群史；推段业为凉州牧，旋杀业自立，称凉州牧、张掖公，北凉实始；迁都姑臧称河西王，玄始十年破敦煌灭西凉，一统河西大部；义和三年崩。
+summary_en: A Lushui Hu of Linsong, learned in the histories; he pushed Duan Ye to
+  the governorship of Liangzhou, then slew Ye and stood himself, styling himself Governor
+  of Liangzhou and Duke of Zhangye — the real beginning of Northern Liang. Moving
+  the capital to Guzang, he took the title King of Hexi; in the 10th year of Xuanshi
+  he broke Dunhuang, destroyed Western Liang, and united most of Hexi. He died in
+  the 3rd year of Yihe.
+tags:
+- 卢水胡
+- 杀段业
+- 灭西凉
+- 一统河西
+tags_en:
+- Lushui Hu
+- Slewing Duan Ye
+- Destroying Western Liang
+- Uniting Hexi
+portrait:
+  primary: assets/portraits/n-liang-juqu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现深沉有权略的君主之态，衣冠从卢水胡入华制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/n-liang-juqu.md
+timeline:
+- year: '368'
+  date_note: 约年
+  date_note_en: c. 368
+  title: 生
+  title_en: Birth
+  summary: 临松卢水胡。博涉群史，有权变。
+  summary_en: A Lushui Hu of Linsong; learned in the histories, resourceful in crisis.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷129·沮渠蒙逊载记
+  card_id: E001
+- year: '397'
+  date_note: 龙飞二年
+  date_note_en: 2nd year of Longfei
+  title: 推段业
+  title_en: Pushing Duan Ye
+  summary: 与兄男成等推段业为凉州牧，后杀业。
+  summary_en: With his brother Nancheng he pushed Duan Ye to the governorship, later
+    slaying him.
+  place_id: zhang-ye
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '401'
+  date_note: 永安元年
+  date_note_en: 1st year of Yong'an
+  title: 杀业自立
+  title_en: Slewing Duan Ye
+  summary: 杀段业，称凉州牧、张掖公，北凉实始。
+  summary_en: He slew Duan Ye and styled himself Governor of Liangzhou, Duke of Zhangye
+    — the real beginning of Northern Liang.
+  place_id: zhang-ye
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '412'
+  date_note: 玄始元年
+  date_note_en: 1st year of Xuanshi
+  title: 迁姑臧称王
+  title_en: Capital at Guzang
+  summary: 迁都姑臧，称河西王。
+  summary_en: He moved the capital to Guzang and took the title King of Hexi.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '421'
+  date_note: 玄始十年
+  date_note_en: 10th year of Xuanshi
+  title: 灭西凉
+  title_en: Destroying Western Liang
+  summary: 破敦煌，灭李氏西凉，一统河西大部。
+  summary_en: He broke Dunhuang, destroyed the Li house's Western Liang, and united
+    most of Hexi.
+  place_id: dun-huang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '433'
+  date_note: 义和三年
+  date_note_en: 3rd year of Yihe
+  title: 蒙逊崩
+  title_en: Death of Mengxun
+  summary: 崩，子牧犍继，后降北魏。
+  summary_en: He died; his son Mujian succeeded, and the realm later surrendered to
+    Northern Wei.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: x-liang-li-hao
+  note: 灭西凉李氏，一统河西
+- type: related_emperor
+  target_id: n-wei-taiwu
+  note: 北凉终为北魏所灭
+routes:
+- group: 都城
+  order: 1
+  year: '401'
+  place_id: zhang-ye
+  event: 杀业自立
+- group: 都城
+  order: 2
+  year: '412'
+  place_id: gu-zang
+  event: 迁姑臧称王
+- group: 其他
+  order: 3
+  year: '421'
+  place_id: dun-huang
+  event: 灭西凉
+- group: 都城
+  order: 4
+  year: '433'
+  place_id: gu-zang
+  event: 蒙逊崩
+sources:
+- title: 晋书·沮渠蒙逊载记
+  note: 主叙事
+- title: 魏书·沮渠蒙逊传
+  note: 与北魏关系互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北凉之主，一统河西，图鉴以准帝收录。
+  synced_from_cards: true

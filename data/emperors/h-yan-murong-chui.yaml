@@ -1,0 +1,165 @@
+id: h-yan-murong-chui
+tier: quasi
+sort_key: 后燕-001
+names:
+  display: 后燕成武帝
+  display_en: Murong Chui, Martial Emperor of Later Yan
+  personal: 慕容垂
+  personal_en: Murong Chui
+  temple: 世祖
+  posthumous: 成武皇帝
+  aliases:
+  - 慕容霸
+  - 慕容道明
+dynasty:
+  id: h-yan
+  label: 后燕
+  sequence: 1
+reign:
+  start: '384'
+  end: '396'
+  eras:
+  - 燕元
+  - 建兴
+life:
+  birth: '326'
+  death: '396'
+  birth_place_id: null
+  death_place_id: shang-gu
+summary: 前燕名将，奔秦仕苻坚；淝水败后叛秦，称燕王于荥阳，即帝位于中山，后燕开国；参合陂之败后亲征北魏，病崩于上谷，后燕中衰。
+summary_en: The great general of Former Yan, he fled to serve Fu Jian; after the Fei
+  River defeat he turned on Qin, styled himself King of Yan at Xingyang, and took
+  the throne at Zhongshan — founding Later Yan; after the Canhe marshes disaster he
+  campaigned in person against Northern Wei, fell ill, and died at Shanggu, and Later
+  Yan declined.
+tags:
+- 前燕名将
+- 后燕开国
+- 参合陂
+- 伐魏崩
+tags_en:
+- General of Former Yan
+- Founder of Later Yan
+- The Canhe Marshes
+- Death on the Wei Campaign
+portrait:
+  primary: assets/portraits/h-yan-murong-chui/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现老将复国的沉雄之态，衣冠从慕容部入华制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/h-yan-murong-chui.md
+timeline:
+- year: '326'
+  date_note: 约年
+  date_note_en: c. 326
+  title: 生
+  title_en: Birth
+  summary: 慕容皝子，字道明。前燕名将，后奔秦。
+  summary_en: Son of Murong Huang, styled Daoming; the great general of Former Yan,
+    later a refugee in Qin.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷123·慕容垂载记
+  card_id: E001
+- year: '370'
+  date_note: 太和五年
+  date_note_en: 5th year of Taihe
+  title: 前燕亡后入秦
+  title_en: Into Qin after the Fall of Former Yan
+  summary: 前燕灭，垂仕苻坚，淝水时有异谋记载。
+  summary_en: Former Yan fell; Chui served Fu Jian, the records hinting at designs
+    of his own at the Fei River.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '384'
+  date_note: 燕元元年
+  date_note_en: 1st year of Yanyuan
+  title: 称燕王
+  title_en: King of Yan
+  summary: 淝水后叛秦，称燕王于荥阳，后燕始。
+  summary_en: After the Fei River he turned on Qin and styled himself King of Yan
+    at Xingyang — the beginning of Later Yan.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '386'
+  date_note: 建兴元年
+  date_note_en: 1st year of Jianxing
+  title: 称帝中山
+  title_en: The Throne at Zhongshan
+  summary: 即皇帝位，都中山。
+  summary_en: He took the imperial throne with his capital at Zhongshan.
+  place_id: zhong-shan
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '395'
+  date_note: 建兴十年
+  date_note_en: 10th year of Jianxing
+  title: 参合陂之败
+  title_en: The Disaster at the Canhe Marshes
+  summary: 太子宝伐魏大败于参合陂，国势顿挫。
+  summary_en: His heir Bao campaigned against Wei and was shattered at the Canhe marshes
+    — the realm's power broke.
+  place_id: can-he-po
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '396'
+  date_note: 建兴十一年
+  date_note_en: 11th year of Jianxing
+  title: 伐魏病崩
+  title_en: Death on the Wei Campaign
+  summary: 亲征平城道病，崩于上谷，后燕中衰。
+  summary_en: He campaigned in person toward Pingcheng, fell ill on the road, and
+    died at Shanggu — Later Yan declined.
+  place_id: shang-gu
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: q-qin-fu-jian
+  note: 曾仕苻坚，淝水后叛秦复国
+- type: related_emperor
+  target_id: dai-shiyijian
+  note: 参合陂败于北魏拓跋珪
+routes:
+- group: 都城
+  order: 1
+  year: '384'
+  place_id: null
+  event: 称燕王
+- group: 都城
+  order: 2
+  year: '386'
+  place_id: zhong-shan
+  event: 称帝中山
+- group: 亲征
+  order: 3
+  year: '395'
+  place_id: can-he-po
+  event: 参合陂之败
+- group: 亲征
+  order: 4
+  year: '396'
+  place_id: shang-gu
+  event: 伐魏病崩
+sources:
+- title: 晋书·慕容垂载记
+  note: 主叙事
+- title: 魏书·太祖纪
+  note: 参合陂互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后燕开国君主，图鉴以准帝收录。
+  synced_from_cards: true

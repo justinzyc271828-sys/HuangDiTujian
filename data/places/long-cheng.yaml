@@ -1,0 +1,12 @@
+id: long-cheng
+names:
+  historical: 龙城
+  modern: 辽宁省朝阳市
+  english: Longcheng
+coords:
+  lng: 120.45
+  lat: 41.57
+  precision: schematic
+map:
+  region: 平州
+notes: 前燕慕容皝筑城而都，后燕、北燕都城

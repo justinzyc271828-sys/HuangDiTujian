@@ -1,0 +1,166 @@
+id: wei-yuan
+tier: emperor
+sort_key: 曹魏-005
+names:
+  display: 魏元帝
+  display_en: Emperor Yuan of Wei
+  personal: 曹奂
+  personal_en: Cao Huan
+  temple: null
+  posthumous: 元皇帝（晋追尊）
+  aliases:
+  - 常道乡公
+  - 陈留王
+dynasty:
+  id: wei
+  label: 曹魏
+  sequence: 5
+reign:
+  start: '260'
+  end: '265'
+  eras:
+  - 景元
+  - 咸熙
+life:
+  birth: '246'
+  death: '302'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 高贵乡公被弑后迎立，在位五年，政由司马昭；景元四年灭蜀，咸熙二年禅位于晋，曹魏亡。
+summary_en: Installed after the duke of Gaogui District was slain, he reigned five years while Sima Zhao ruled; in the 4th year of Jingyuan Shu was destroyed, and in the 2nd of Xianxi he abdicated to Jin, ending Wei.
+tags:
+- 灭蜀
+- 禅让
+- 傀儡
+- 魏亡
+tags_en:
+- Conquest of Shu
+- Abdication
+- Figurehead
+- Fall of Wei
+portrait:
+  primary: assets/portraits/wei-yuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现恭顺受禅、社稷尽去的末代君主之态，衣冠从曹魏末制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wei-yuan.md
+timeline:
+- year: '246'
+  date_note: 正始七年
+  date_note_en: 7th year of Zhengshi
+  title: 生
+  title_en: Birth
+  summary: 武帝孙，燕王宇之子。
+  summary_en: Grandson of Emperor Wu, son of Cao Yu, prince of Yan.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E001
+- year: '260'
+  date_note: 甘露五年六月
+  date_note_en: 6th month, 5th year of Ganlu
+  title: 即位
+  title_en: Accession
+  summary: 司马昭迎立常道乡公奂，改元景元。
+  summary_en: Sima Zhao installed Cao Huan, marquis of Changdao District, and the era was changed to Jingyuan.
+  place_id: luoyang
+  related_person_ids:
+  - wei-gaogui
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E002
+- year: '263'
+  date_note: 景元四年
+  date_note_en: 4th year of Jingyuan
+  title: 邓艾钟会灭蜀
+  title_en: Deng Ai and Zhong Hui Destroy Shu
+  summary: 诏钟会、邓艾等伐蜀，邓艾出阴平，刘禅降，蜀亡。
+  summary_en: On the imperial edict Zhong Hui and Deng Ai invaded Shu; Deng Ai came by the Yinping track, Liu Shan surrendered, and Shu perished.
+  place_id: null
+  related_person_ids:
+  - shu-houzhu
+  sources:
+  - 三国志·卷004·三少帝纪
+  - 三国志·蜀书·后主传
+  card_id: E003
+- year: '264'
+  date_note: 景元五年
+  date_note_en: 5th year of Jingyuan
+  title: 钟会反死
+  title_en: Zhong Hui's Revolt and Death
+  summary: 钟会据蜀谋反，兵变被杀，邓艾亦为卫瓘所杀。
+  summary_en: Zhong Hui rebelled from Shu and was killed in a mutiny; Deng Ai too was put to death by Wei Guan.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E004
+- year: '265'
+  date_note: 咸熙二年十二月
+  date_note_en: 12th month, 2nd year of Xianxi
+  title: 禅位于晋
+  title_en: Abdication to Jin
+  summary: 司马炎受禅称帝，奂退位封陈留王，魏亡晋立。
+  summary_en: Sima Yan received the abdication and took the throne; Huan stepped down as Duke of Chenliu, and Wei fell to Jin.
+  place_id: luoyang
+  related_person_ids:
+  - w-jin-wu
+  sources:
+  - 三国志·卷004·三少帝纪
+  - 晋书·卷003·武帝纪
+  card_id: E005
+- year: '302'
+  date_note: 泰安元年
+  date_note_en: 1st year of Tai'an
+  title: 陈留王薨
+  title_en: Death of the Duke of Chenliu
+  summary: 薨于洛阳，谥曰元，以王礼葬邺。
+  summary_en: He died at Luoyang, posthumously styled Yuan, and was buried with princely rites at Ye.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: wei-gaogui
+  note: 甘露五年迎立
+- type: successor
+  target_id: w-jin-wu
+  note: 咸熙二年禅位于晋武帝
+- type: kinship
+  target_id: wei-wen
+  note: 文帝孙
+routes:
+- group: 都城
+  order: 1
+  year: '260'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '265'
+  place_id: luoyang
+  event: 禅位于晋
+- group: 都城
+  order: 3
+  year: '302'
+  place_id: luoyang
+  event: 陈留王薨
+sources:
+- title: 三国志·三少帝纪
+  note: 主叙事
+- title: 晋书·武帝纪
+  note: 禅让互见
+- title: 资治通鉴·魏纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 曹魏末帝，禅位于晋，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,162 @@
+id: e-jin-jianwen
+tier: emperor
+sort_key: 东晋-008
+names:
+  display: 晋简文帝
+  display_en: Emperor Jianwen of Jin
+  personal: 司马昱
+  personal_en: Sima Yu
+  temple: 太宗
+  posthumous: 简文皇帝
+  aliases:
+  - 会稽王
+  - 晋简文帝司马昱
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 8
+reign:
+  start: '371'
+  end: '372'
+  eras:
+  - 咸安
+life:
+  birth: '320'
+  death: '372'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 元帝少子，长期辅政，清虚寡欲、尤善玄言；桓温废奕后迎立，在位不及一年，周旋于桓温禅让之请，忧愤而崩。
+summary_en: Youngest son of Emperor Yuan, long a regent, pure and passionless, a master of metaphysical talk; after Huan Wen deposed Emperor Fei he was brought to the throne, reigned under a year, parried Wen's bid for abdication, and died of grief and vexation.
+tags:
+- 清谈
+- 桓温
+- 傀儡
+- 短祚
+tags_en:
+- Pure Conversation
+- Huan Wen
+- Figurehead
+- Brief Reign
+portrait:
+  primary: assets/portraits/e-jin-jianwen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '晋书载「帝少有风仪，善容止」。画像宜表现清癯玄远的老年君主之态，衣冠从东晋中制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-jianwen.md
+timeline:
+- year: '320'
+  date_note: 大兴三年
+  date_note_en: 3rd year of Daxing
+  title: 生
+  title_en: Birth
+  summary: 元帝少子，封会稽王，长期辅政、好清谈。
+  summary_en: Youngest son of Emperor Yuan, enfeoffed Prince of Kuajji, long a regent and lover of pure conversation.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·简文帝纪
+  card_id: E001
+- year: '366'
+  date_note: 太和中
+  date_note_en: mid-Taihe
+  title: 为丞相录尚书
+  title_en: Chancellor and Grand Secretary
+  summary: 废帝朝已录尚书事，居中辅政。
+  summary_en: Under the deposed emperor he already held the secretariat and governed from the center.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·简文帝纪
+  card_id: E002
+- year: '371'
+  date_note: 咸安元年
+  date_note_en: 1st year of Xian'an
+  title: 即位
+  title_en: Accession
+  summary: 桓温废奕，立昱，改元咸安。
+  summary_en: Huan Wen deposed Yi and set up Yu, changing the era to Xian'an.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-fei
+  sources:
+  - 晋书·卷009·简文帝纪
+  card_id: E003
+- year: '371'
+  date_note: 咸安元年
+  date_note_en: 1st year of Xian'an
+  title: 温求九锡未成
+  title_en: Wen's Bid for the Nine Gifts Fails
+  summary: 桓温望禅让，帝与王坦之等周旋，其请不行。
+  summary_en: Huan Wen looked for an abdication; the emperor, with Wang Tanzhi and the others, played for time until the petition failed.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·桓温传
+  card_id: E004
+- year: '372'
+  date_note: 咸安二年七月
+  date_note_en: 7th month, 2nd year of Xian'an
+  title: 简文帝崩
+  title_en: Death of Emperor Jianwen
+  summary: 崩，遗诏桓温辅政；孝武帝曜即位。
+  summary_en: He died, his will naming Huan Wen regent; Emperor Xiaowu (Sima Yao) succeeded.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-xiaowu
+  sources:
+  - 晋书·卷009·简文帝纪
+  card_id: E005
+- year: '372'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 清虚寡欲
+  title_en: Pure and Passionless
+  summary: 史称其清虚寡欲、尤善玄言，然受制权臣，无尺寸之权。
+  summary_en: The histories call him pure, passionless, and a master of metaphysical talk — yet bound by the strong minister, without an inch of power.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷009·简文帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-jin-fei
+  note: 太和六年桓温废帝，迎立会稽王昱
+- type: successor
+  target_id: e-jin-xiaowu
+  note: 咸安二年崩，子曜即位
+- type: kinship
+  target_id: e-jin-yuan
+  note: 元帝少子
+routes:
+- group: 都城
+  order: 1
+  year: '371'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '371'
+  place_id: jian-kang
+  event: 温求九锡未成
+- group: 都城
+  order: 3
+  year: '372'
+  place_id: jian-kang
+  event: 简文帝崩
+sources:
+- title: 晋书·简文帝纪
+  note: 主叙事
+- title: 晋书·桓温传
+  note: 废立与九锡互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第八帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: zhang-ye
+names:
+  historical: 张掖
+  modern: 甘肃省张掖市
+  english: Zhangye
+coords:
+  lng: 100.45
+  lat: 38.93
+  precision: schematic
+map:
+  region: 凉州
+notes: 沮渠蒙逊初都张掖，后迁姑臧

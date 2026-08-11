@@ -1,0 +1,262 @@
+id: e-jin-an
+tier: emperor
+sort_key: 东晋-010
+names:
+  display: 晋安帝
+  display_en: Emperor An of Jin
+  personal: 司马德宗
+  personal_en: Sima Dezong
+  temple: null
+  posthumous: 安皇帝
+  aliases:
+  - 晋安帝司马德宗
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 10
+reign:
+  start: '396'
+  end: '418'
+  eras:
+  - 隆安
+  - 元兴
+  - 义熙
+life:
+  birth: '382'
+  death: '418'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 不慧，寒暑不辨，在位二十二年而政归权臣：孙恩乱、桓玄篡、刘裕起兵反正，义熙年间裕灭南燕后秦；义熙十四年为刘裕使人缢杀。
+summary_en: 'Dull of mind, unable to tell heat from cold, he reigned twenty-two years while strong ministers ruled: Sun En''s revolt, Huan Xuan''s usurpation, Liu Yu''s rising and restoration — in the Yixi years Yu destroyed Southern Yan and Later Qin, and in the 14th year of Yixi he had the emperor strangled.'
+tags:
+- 不慧
+- 桓玄篡位
+- 刘裕
+- 见弑
+tags_en:
+- Dull of Mind
+- Huan Xuan's Usurpation
+- Liu Yu
+- Strangled
+portrait:
+  primary: assets/portraits/e-jin-an/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现痴愚不慧的傀儡君主之态，衣冠从东晋末制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-an.md
+timeline:
+- year: '382'
+  date_note: 太元七年
+  date_note_en: 7th year of Taiyuan
+  title: 生
+  title_en: Birth
+  summary: 孝武帝长子，不慧。
+  summary_en: Eldest son of Emperor Xiaowu, dull of mind.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E001
+- year: '396'
+  date_note: 太元二十一年
+  date_note_en: 21st year of Taiyuan
+  title: 即位
+  title_en: Accession
+  summary: 孝武帝被弑，德宗即位；帝不辨寒暑，司马道子、元显执政。
+  summary_en: Emperor Xiaowu slain, Dezong took the throne; unable to tell heat from cold, he left government to Sima Daozi and his son Yuanxian.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-xiaowu
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E002
+- year: '399'
+  date_note: 隆安三年
+  date_note_en: 3rd year of Long'an
+  title: 孙恩乱
+  title_en: Sun En's Revolt
+  summary: 孙恩起兵攻会稽，江南大乱。
+  summary_en: Sun En rose against Kuajji, and the south was thrown into turmoil.
+  place_id: kuaiji
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E003
+- year: '402'
+  date_note: 元兴元年
+  date_note_en: 1st year of Yuanxing
+  title: 桓玄入京
+  title_en: Huan Xuan Enters the Capital
+  summary: 桓玄破司马元显，入建康，称太尉总百揆。
+  summary_en: Huan Xuan broke Sima Yuanxian, entered Jiankang, and took the titles of grand commandant over all offices.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E004
+- year: '403'
+  date_note: 元兴二年
+  date_note_en: 2nd year of Yuanxing
+  title: 桓玄篡位
+  title_en: Huan Xuan Usurps
+  summary: 桓玄废帝为平固王，建国号楚。
+  summary_en: Huan Xuan degraded the emperor to Prince of Pinggu and founded his own realm of Chu.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E005
+- year: '404'
+  date_note: 元兴三年
+  date_note_en: 3rd year of Yuanxing
+  title: 刘裕起兵
+  title_en: Liu Yu Rises
+  summary: 刘裕等起兵京口，玄败死，帝反正。
+  summary_en: Liu Yu and the others rose at Jingkou; Xuan was routed and killed, and the emperor was restored.
+  place_id: jing-kou
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E006
+- year: '405'
+  date_note: 义熙元年
+  date_note_en: 1st year of Yixi
+  title: 改元义熙
+  title_en: Era Changed to Yixi
+  summary: 反正后改元义熙。
+  summary_en: After the restoration the era was changed to Yixi.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E007
+- year: '409'
+  date_note: 义熙五年
+  date_note_en: 5th year of Yixi
+  title: 裕灭南燕
+  title_en: Liu Yu Destroys Southern Yan
+  summary: 刘裕克广固，斩慕容超，灭南燕。
+  summary_en: Liu Yu took Guanggu, beheaded Murong Chao, and destroyed Southern Yan.
+  place_id: guang-gu
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E008
+- year: '410'
+  date_note: 义熙六年
+  date_note_en: 6th year of Yixi
+  title: 卢循逼建康
+  title_en: Lu Xun Threatens Jiankang
+  summary: 卢循、徐道覆攻建康，刘裕回师击破之。
+  summary_en: Lu Xun and Xu Daofu attacked Jiankang; Liu Yu hurried back and broke them.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E009
+- year: '416'
+  date_note: 义熙十二年
+  date_note_en: 12th year of Yixi
+  title: 裕北伐后秦
+  title_en: Liu Yu's Campaign against Later Qin
+  summary: 刘裕北伐后秦，入洛阳，明年克长安。
+  summary_en: Liu Yu campaigned against Later Qin, entered Luoyang, and took Chang'an the next year.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E010
+- year: '418'
+  date_note: 义熙十四年
+  date_note_en: 14th year of Yixi
+  title: 安帝被弑
+  title_en: The Murder of Emperor An
+  summary: 刘裕使人缢帝于东堂，立恭帝德文。
+  summary_en: Liu Yu had the emperor strangled in the eastern hall and set up his brother Dewen as Emperor Gong.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-gong
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E011
+- year: '418'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 安帝总评
+  title_en: Final Verdict
+  summary: 帝不惠，至于寒暑不辨，权归台辅，坐致桓玄之篡、刘裕之兴。
+  summary_en: Unfortunate and unable to tell heat from cold, he left all power to the ministers and sat by while Huan Xuan usurped and Liu Yu rose.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·安帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: e-jin-xiaowu
+  note: 太元二十一年孝武帝被弑，长子德宗即位
+- type: successor
+  target_id: e-jin-gong
+  note: 义熙十四年被弑，弟德文即位
+- type: kinship
+  target_id: e-jin-xiaowu
+  note: 孝武帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '396'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '399'
+  place_id: kuaiji
+  event: 孙恩乱
+- group: 都城
+  order: 3
+  year: '402'
+  place_id: jian-kang
+  event: 桓玄入京
+- group: 都城
+  order: 4
+  year: '403'
+  place_id: jian-kang
+  event: 桓玄篡位
+- group: 都城
+  order: 5
+  year: '404'
+  place_id: jing-kou
+  event: 刘裕起兵
+- group: 其他
+  order: 6
+  year: '409'
+  place_id: guang-gu
+  event: 裕灭南燕
+- group: 其他
+  order: 7
+  year: '416'
+  place_id: luoyang
+  event: 裕北伐后秦
+- group: 都城
+  order: 8
+  year: '418'
+  place_id: jian-kang
+  event: 安帝被弑
+sources:
+- title: 晋书·安帝纪
+  note: 主叙事
+- title: 晋书·桓玄传
+  note: 篡位互见
+- title: 晋书·刘裕传（宋书武帝纪）
+  note: 北伐与反正互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第十帝，正史立纪。
+  synced_from_cards: true

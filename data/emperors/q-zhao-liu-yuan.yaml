@@ -1,0 +1,164 @@
+id: q-zhao-liu-yuan
+tier: quasi
+sort_key: 汉（前赵）-001
+names:
+  display: 汉（前赵）高祖
+  display_en: Liu Yuan, Founder of Han (Former Zhao)
+  personal: 刘渊
+  personal_en: Liu Yuan
+  temple: 高祖
+  posthumous: 光文皇帝
+  aliases:
+  - 刘元海
+dynasty:
+  id: q-zhao
+  label: 前赵
+  sequence: 1
+reign:
+  start: '304'
+  end: '310'
+  eras:
+  - 元熙
+  - 永凤
+  - 河瑞
+life:
+  birth: '251'
+  death: '310'
+  birth_place_id: null
+  death_place_id: ping-yang
+summary: 乘八王之乱于离石起兵，称大单于、汉王，以绍汉为号召；永嘉二年称帝迁都平阳，为十六国割据开端之首，史称聪敏好学。
+summary_en: Rising at Lishi amid the War of the Eight Princes, he styled himself Great
+  Chanyu and King of Han in succession to the Han house; in the 2nd year of Yongjia
+  he took the throne and moved his capital to Pingyang, opening the Sixteen States
+  era — the histories praise his quickness and love of learning.
+tags:
+- 五胡开国
+- 绍汉
+- 匈奴
+- 十六国开端
+tags_en:
+- First of the Barbarian States
+- Successor to Han
+- Xiongnu
+- Dawn of the Sixteen States
+portrait:
+  primary: assets/portraits/q-zhao-liu-yuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现胡汉混杂、英武有谋的开国之君之态，衣冠从匈奴汉国初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-zhao-liu-yuan.md
+timeline:
+- year: '251'
+  date_note: 约年
+  date_note_en: c. 251
+  title: 生
+  title_en: Birth
+  summary: 新兴匈奴部人，字元海，冒顿之后。幼好学，习《毛诗》《京氏易》及孙吴兵法。
+  summary_en: A Xiongnu of the Xinxing tribe, styled Yuanhai, descendant of Modu;
+    studious from youth in the Mao Odes, the Jing-school Changes, and Sun–Wu military
+    art.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷101·刘元海载记
+  card_id: E001
+- year: '304'
+  date_note: 永兴元年
+  date_note_en: 1st year of Yongxing
+  title: 离石起兵
+  title_en: Rising at Lishi
+  summary: 乘八王之乱，于离石称大单于，旋称汉王，建元元熙，十六国割据开端之一。
+  summary_en: Riding the War of the Eight Princes, he took the title Great Chanyu
+    at Lishi, then King of Han, opening the era Yuanxi — one of the beginnings of
+    the Sixteen States.
+  place_id: li-shi
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '308'
+  date_note: 永嘉二年
+  date_note_en: 2nd year of Yongjia
+  title: 称帝迁平阳
+  title_en: Throne and Move to Pingyang
+  summary: 即皇帝位，国号汉，迁都平阳，署置百官。
+  summary_en: He took the imperial throne, styled the realm Han, moved the capital
+    to Pingyang, and installed his officials.
+  place_id: ping-yang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '309'
+  date_note: 永嘉三年
+  date_note_en: 3rd year of Yongjia
+  title: 遣将寇洛阳
+  title_en: Lieutenants against Luoyang
+  summary: 遣刘聪、王弥等攻洛阳不克，为日后陷洛铺垫。
+  summary_en: He sent Liu Cong, Wang Mi, and others against Luoyang without success
+    — the prelude to its later fall.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '310'
+  date_note: 永嘉四年
+  date_note_en: 4th year of Yongjia
+  title: 刘渊崩
+  title_en: Death of Liu Yuan
+  summary: 崩于平阳，子和继，旋为聪所杀，聪自立。
+  summary_en: He died at Pingyang; his son He succeeded, was at once slain by Cong,
+    and Cong took the throne.
+  place_id: ping-yang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '310'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 汉甥叙事
+  title_en: The Han Succession Narrative
+  summary: 以汉甥、绍汉自居，争正统；史称聪敏好学。
+  summary_en: Claiming descent through a Han princess to continue the Han line, he
+    contested legitimacy; the histories call him quick and studious.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: successor
+  target_id: q-zhao-liu-cong
+  note: 永嘉四年崩，子和为聪所杀，聪自立
+routes:
+- group: 都城
+  order: 1
+  year: '304'
+  place_id: li-shi
+  event: 离石起兵
+- group: 都城
+  order: 2
+  year: '308'
+  place_id: ping-yang
+  event: 称帝迁平阳
+- group: 其他
+  order: 3
+  year: '309'
+  place_id: luoyang
+  event: 遣将寇洛阳
+- group: 都城
+  order: 4
+  year: '310'
+  place_id: ping-yang
+  event: 刘渊崩
+sources:
+- title: 晋书·刘元海载记
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 匈奴汉国（前赵）开国君主，未入华夏正统序列，图鉴以准帝收录。
+  synced_from_cards: true

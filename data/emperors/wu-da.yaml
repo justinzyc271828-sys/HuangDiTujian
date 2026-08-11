@@ -1,0 +1,260 @@
+id: wu-da
+tier: emperor
+sort_key: 孙吴-001
+names:
+  display: 吴大帝
+  display_en: Emperor Da of Wu
+  personal: 孙权
+  personal_en: Sun Quan
+  temple: 太祖
+  posthumous: 大皇帝
+  aliases:
+  - 孙仲谋
+  - 吴主
+dynasty:
+  id: wu
+  label: 孙吴
+  sequence: 1
+reign:
+  start: '229'
+  end: '252'
+  eras:
+  - 黄龙
+  - 嘉禾
+  - 赤乌
+  - 太元
+  - 神凤
+life:
+  birth: '182'
+  death: '252'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 继兄业据江东，赤壁破曹、袭取荆州、夷陵败备，黄龙元年称帝建业，为吴国开基之主；晚年二宫之争，立嗣两误。
+summary_en: He took up his brother's enterprise in Jiangdong, broke Cao at the Red Cliffs, seized Jingzhou, defeated Bei at Yiling, and in the 1st year of Huanglong took the throne at Jianye as founder of Wu; in old age the two-palace feud wrecked the succession.
+tags:
+- 江东基业
+- 赤壁
+- 称帝
+- 二宫之争
+tags_en:
+- Jiangdong Foundations
+- Red Cliffs
+- Imperial Title
+- Two-Palace Feud
+portrait:
+  primary: assets/portraits/wu-da/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '三国志载「方颐大口，目有精光」。画像宜表现任才尚计的雄主之态，衣冠从孙吴初制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wu-da.md
+timeline:
+- year: '182'
+  date_note: 光和五年
+  date_note_en: 5th year of Guanghe
+  title: 生
+  title_en: Birth
+  summary: 孙坚次子，母吴氏；兄策统事江东时已随军。
+  summary_en: Second son of Sun Jian by Lady Wu; he followed the armies in his elder brother Ce's conquest of Jiangdong.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E001
+- year: '200'
+  date_note: 建安五年
+  date_note_en: 5th year of Jian'an
+  title: 统事
+  title_en: Taking Command
+  summary: 孙策遇刺卒，权继统江东，张昭、周瑜辅之。
+  summary_en: Sun Ce died by an assassin's knife; Quan took command of Jiangdong with Zhang Zhao and Zhou Yu to support him.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E002
+- year: '208'
+  date_note: 建安十三年
+  date_note_en: 13th year of Jian'an
+  title: 赤壁破曹
+  title_en: Breaking Cao at the Red Cliffs
+  summary: 联合刘备，周瑜火攻，大破曹军于赤壁，天下三分之势遂定。
+  summary_en: Allied with Liu Bei, Zhou Yu's fire attack broke the Cao army at the Red Cliffs, fixing the tripartite division of the realm.
+  place_id: chi-bi
+  related_person_ids:
+  - shu-zhaolie
+  sources:
+  - 三国志·卷047·吴主传
+  - 三国志·吴书·周瑜传
+  card_id: E003
+- year: '219'
+  date_note: 建安二十四年
+  date_note_en: 24th year of Jian'an
+  title: 袭取荆州
+  title_en: The Seizure of Jingzhou
+  summary: 吕蒙白衣渡江袭江陵，关羽败亡，吴据有荆州。
+  summary_en: Lü Meng's covert crossing took Jiangling, Guan Yu fell, and Wu held Jingzhou.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  - 三国志·吴书·吕蒙传
+  card_id: E004
+- year: '222'
+  date_note: 黄武元年
+  date_note_en: 1st year of Huangwu
+  title: 夷陵破备
+  title_en: Breaking Bei at Yiling
+  summary: 陆逊于夷陵火攻大破刘备，吴转守为攻。
+  summary_en: Lu Xun's fire attack at Yiling shattered Liu Bei, turning Wu from defense to offense.
+  place_id: yi-ling
+  related_person_ids:
+  - shu-zhaolie
+  sources:
+  - 三国志·卷047·吴主传
+  - 三国志·吴书·陆逊传
+  card_id: E005
+- year: '229'
+  date_note: 黄龙元年
+  date_note_en: 1st year of Huanglong
+  title: 称帝建业
+  title_en: The Throne at Jianye
+  summary: 孙权于武昌即皇帝位，旋还都建业，国号吴。
+  summary_en: Sun Quan took the imperial throne at Wuchang and at once moved the capital back to Jianye, styling the realm Wu.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E006
+- year: '232'
+  date_note: 嘉禾元年
+  date_note_en: 1st year of Jiahe
+  title: 辽东通使
+  title_en: The Liaodong Venture
+  summary: 遣使泛海通辽东公孙渊，欲结外援；渊后杀使背约。
+  summary_en: He sent envoys by sea to Gongsun Yuan of Liaodong seeking an ally; Yuan later slew the envoys and broke the pact.
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E007
+- year: '234'
+  date_note: 嘉禾三年
+  date_note_en: 3rd year of Jiahe
+  title: 合肥新城
+  title_en: The New City of Hefei
+  summary: 亲率大军攻合肥新城，久攻不下，闻魏援至而还。
+  summary_en: He led the host in person against the new city of Hefei, could not take it after long siege, and withdrew on word of Wei relief.
+  place_id: hefei-xincheng
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E008
+- year: '241'
+  date_note: 赤乌四年
+  date_note_en: 4th year of Chiwu
+  title: 太子登卒
+  title_en: Death of the Crown Prince Deng
+  summary: 皇太子孙登病卒，立嗣问题自此始。
+  summary_en: Crown Prince Sun Deng died of illness, and the succession question began.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E009
+- year: '250'
+  date_note: 赤乌十三年
+  date_note_en: 13th year of Chiwu
+  title: 废太子和
+  title_en: The Deposition of He
+  summary: 二宫之争，权废太子和，赐鲁王霸死，陆逊忧愤卒。
+  summary_en: In the two-palace feud Quan deposed the crown prince He, ordered Prince Ba of Lu to die, and Lu Xun died of grief and rage.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  - 三国志·吴书·陆逊传
+  card_id: E010
+- year: '252'
+  date_note: 太元二年四月
+  date_note_en: 4th month, 2nd year of Taiyuan
+  title: 权崩
+  title_en: Death of Sun Quan
+  summary: 立少子孙亮为太子，寻崩，年七十一；亮即位，诸葛恪辅政。
+  summary_en: He named his youngest son, Sun Liang, heir and died, aged seventy-one; Liang took the throne with Zhuge Ke as regent.
+  place_id: jian-kang
+  related_person_ids:
+  - wu-kuaiji
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E011
+- year: '252'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 吴主总评
+  title_en: Final Verdict
+  summary: 陈寿评其任才尚计、有勾践之奇英，而性多嫌忌、果于杀戮，立嗣再误，吴之亡萌于斯。
+  summary_en: Chen Shou praised his use of talent and his stratagems — the rare heroism of a Goujian — while noting his jealousy and readiness to kill; the succession erred twice, and Wu's ruin sprouted here.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷047·吴主传
+  card_id: E012
+relations:
+- type: successor
+  target_id: wu-kuaiji
+  note: 太元二年崩，少子亮即位
+- type: related_emperor
+  target_id: shu-zhaolie
+  note: 赤壁联军而后为敌
+- type: related_emperor
+  target_id: wei-wen
+  note: 称藩于魏以制蜀，后称帝绝交
+routes:
+- group: 都城
+  order: 1
+  year: '208'
+  place_id: chi-bi
+  event: 赤壁破曹
+- group: 其他
+  order: 2
+  year: '222'
+  place_id: yi-ling
+  event: 夷陵破备
+- group: 都城
+  order: 3
+  year: '229'
+  place_id: jian-kang
+  event: 称帝建业
+- group: 其他
+  order: 4
+  year: '232'
+  place_id: liaodong
+  event: 辽东通使
+- group: 亲征
+  order: 5
+  year: '234'
+  place_id: hefei-xincheng
+  event: 合肥新城
+- group: 都城
+  order: 6
+  year: '252'
+  place_id: jian-kang
+  event: 权崩
+sources:
+- title: 三国志·吴主传
+  note: 主叙事
+- title: 三国志·周瑜传
+  note: 赤壁互见
+- title: 三国志·陆逊传
+  note: 夷陵与二宫互见
+- title: 资治通鉴·魏纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 孙吴开国皇帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,159 @@
+id: x-liang-li-hao
+tier: quasi
+sort_key: 西凉-001
+names:
+  display: 西凉太祖
+  display_en: Li Gao, Founder of Western Liang
+  personal: 李暠
+  personal_en: Li Gao
+  temple: 太祖
+  posthumous: 武昭王
+  aliases:
+  - 李玄盛
+dynasty:
+  id: x-liang
+  label: 西凉
+  sequence: 1
+reign:
+  start: '400'
+  end: '417'
+  eras:
+  - 庚子
+  - 建初
+  - 嘉兴
+life:
+  birth: '351'
+  death: '417'
+  birth_place_id: null
+  death_place_id: jiu-quan
+summary: 陇西成纪人，好文学；庚子元年于敦煌称凉公，西凉始；迁都酒泉，立泮宫、增高门学生，劝课农桑；嘉兴元年崩，子歆继，后为沮渠蒙逊所灭。
+summary_en: A man of Chengji in Longxi, a lover of letters; in the 1st year of Gengzi
+  he styled himself Duke of Liang at Dunhuang — the beginning of Western Liang. Moving
+  the capital to Jiuquan, he founded an academy, enlarged the students, and encouraged
+  farming and mulberries. He died in the 1st year of Jiaxing; his son Xin succeeded,
+  and the realm was later destroyed by Juqu Mengxun.
+tags:
+- 称凉公
+- 迁酒泉
+- 兴学劝农
+- 李唐远祖
+tags_en:
+- Duke of Liang
+- Capital at Jiuquan
+- Academy and Farming
+- Ancestor of the Tang Li
+portrait:
+  primary: assets/portraits/x-liang-li-hao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现文雅抚民的君主之态，衣冠从凉州汉式。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/x-liang-li-hao.md
+timeline:
+- year: '351'
+  date_note: 约年
+  date_note_en: c. 351
+  title: 生
+  title_en: Birth
+  summary: 陇西成纪人，字玄盛。好文学。
+  summary_en: A man of Chengji, Longxi, styled Xuansheng; a lover of letters.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷087·凉武昭王传
+  card_id: E001
+- year: '400'
+  date_note: 庚子元年
+  date_note_en: 1st year of Gengzi
+  title: 称凉公
+  title_en: Duke of Liang
+  summary: 于敦煌称凉公，改元庚子，西凉始。
+  summary_en: He styled himself Duke of Liang at Dunhuang and opened the era Gengzi
+    — the beginning of Western Liang.
+  place_id: dun-huang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '405'
+  date_note: 建初元年
+  date_note_en: 1st year of Jianchu
+  title: 迁酒泉
+  title_en: Capital at Jiuquan
+  summary: 迁都酒泉，以图东向。
+  summary_en: He moved the capital to Jiuquan, looking eastward.
+  place_id: jiu-quan
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '410'
+  date_note: 建初中
+  date_note_en: mid-Jianchu
+  title: 兴学劝农
+  title_en: Academy and Farming
+  summary: 立泮宫、增高门学生，劝课农桑。
+  summary_en: He founded an academy, enlarged the students, and encouraged farming
+    and mulberries.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '417'
+  date_note: 嘉兴元年
+  date_note_en: 1st year of Jiaxing
+  title: 李暠崩
+  title_en: Death of Li Gao
+  summary: 崩，子歆继，后为蒙逊所灭。
+  summary_en: He died; his son Xin succeeded, and the realm was later destroyed by
+    Mengxun.
+  place_id: jiu-quan
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '417'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 玄盛总评
+  title_en: Final Verdict
+  summary: 史称少而好学，在位能抚河西。
+  summary_en: The histories call him studious from youth and a healer of Hexi in his
+    reign.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: n-liang-juqu
+  note: 西凉为沮渠蒙逊所灭
+- type: related_emperor
+  target_id: tang-gao-zu
+  note: 李唐自称凉武昭王之后
+routes:
+- group: 都城
+  order: 1
+  year: '400'
+  place_id: dun-huang
+  event: 称凉公
+- group: 都城
+  order: 2
+  year: '405'
+  place_id: jiu-quan
+  event: 迁酒泉
+- group: 都城
+  order: 3
+  year: '417'
+  place_id: jiu-quan
+  event: 李暠崩
+sources:
+- title: 晋书·凉武昭王传
+  note: 主叙事
+- title: 魏书·李暠传
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西凉开国君主，李唐远祖，图鉴以准帝收录。
+  synced_from_cards: true

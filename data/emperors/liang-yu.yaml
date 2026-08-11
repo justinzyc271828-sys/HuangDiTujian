@@ -1,0 +1,159 @@
+id: liang-yu
+tier: quasi
+sort_key: 梁-003
+names:
+  display: 豫章王栋
+  display_en: Xiao Dong, Prince of Yuzhang
+  personal: 萧栋
+  personal_en: Xiao Dong
+  temple: null
+  posthumous: null
+  aliases:
+  - 萧元吉
+dynasty:
+  id: liang
+  label: 梁
+  sequence: 3
+reign:
+  start: '551'
+  end: '551'
+  eras:
+  - 天正
+life:
+  birth: null
+  death: '552'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 昭明太子统之孙，侯景废简文后立为帝，改元天正；在位数月，被迫禅位侯景，侯景败后为元帝方面所害，图鉴作准帝。
+summary_en: Grandson of the Crown Prince Zhaoming, set up by Hou Jing after the deposition
+  of Emperor Jianwen, he changed the era to Tianzheng; after months he was forced
+  to abdicate to Jing, and after Jing's fall was done to death by Emperor Yuan's party
+  — the gazetteer lists him as quasi-emperor.
+tags:
+- 傀儡
+- 侯景工具
+- 禅位
+- 准帝
+tags_en:
+- Puppet
+- Hou Jing's Instrument
+- Abdication
+- Quasi
+portrait:
+  primary: assets/portraits/liang-yu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现幼弱无助的少年之态，衣冠从梁代中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liang-yu.md
+timeline:
+- year: '551'
+  date_note: 天正元年
+  date_note_en: 1st year of Tianzheng
+  title: 被立为帝
+  title_en: Set Up as Emperor
+  summary: 侯景废简文，立萧栋，改元天正。
+  summary_en: Hou Jing deposed Emperor Jianwen, set up Xiao Dong, and changed the
+    era to Tianzheng.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: &id001
+  - 梁书·侯景传
+  card_id: E001
+- year: '551'
+  date_note: 在位
+  date_note_en: in reign
+  title: 改元天正
+  title_en: The Tianzheng Era
+  summary: 年号天正，旋为景所改。
+  summary_en: The era was Tianzheng, soon altered by Jing.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: &id002
+  - 南史·梁本纪
+  card_id: E002
+- year: '551'
+  date_note: 同年
+  date_note_en: same year
+  title: 禅位侯景
+  title_en: Abdication to Hou Jing
+  summary: 被迫禅位于景，景称汉帝。
+  summary_en: Forced to abdicate to Jing, who styled himself Emperor of Han.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '552'
+  date_note: 承圣前后
+  date_note_en: c. Chengsheng
+  title: 遇害
+  title_en: Done to Death
+  summary: 侯景败后，栋等为元帝方面所害。
+  summary_en: After Hou Jing's fall, Dong and the others were done to death by Emperor
+    Yuan's party.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 梁书·卷005·元帝纪
+  card_id: E004
+- year: '552'
+  date_note: 名分
+  date_note_en: status
+  title: 准帝
+  title_en: Quasi Status
+  summary: 图鉴保留序列，实为侯景工具。
+  summary_en: The gazetteer keeps him in the sequence; in fact he was Hou Jing's instrument.
+  place_id: null
+  related_person_ids: []
+  sources: *id002
+  card_id: E005
+- year: '552'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 栋总评
+  title_en: Final Verdict
+  summary: 幼弱无权，身不由己。
+  summary_en: Young, weak, powerless — not his own master.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liang-jianwen
+  note: 大宝二年侯景废简文，立豫章王栋
+- type: successor
+  target_id: liang-yuan
+  note: 栋禅位侯景，景败后元帝正位于江陵
+- type: kinship
+  target_id: liang-wu
+  note: 昭明太子统之孙，武帝曾孙
+routes:
+- group: 都城
+  order: 1
+  year: '551'
+  place_id: jian-kang
+  event: 被立为帝
+- group: 都城
+  order: 2
+  year: '551'
+  place_id: jian-kang
+  event: 禅位侯景
+- group: 都城
+  order: 3
+  year: '552'
+  place_id: jian-kang
+  event: 遇害
+sources:
+- title: 梁书·侯景传
+  note: 主叙事
+- title: 南史·梁本纪
+  note: 互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 梁第三位（准），侯景所立傀儡，图鉴以准帝收录。
+  synced_from_cards: true

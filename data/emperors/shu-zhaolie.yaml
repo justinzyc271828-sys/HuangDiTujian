@@ -1,0 +1,265 @@
+id: shu-zhaolie
+tier: emperor
+sort_key: 蜀汉-001
+names:
+  display: 汉昭烈帝
+  display_en: Emperor Zhaolie of Han
+  personal: 刘备
+  personal_en: Liu Bei
+  temple: 烈祖
+  posthumous: 昭烈皇帝
+  aliases:
+  - 先主
+  - 刘玄德
+dynasty:
+  id: shu
+  label: 蜀汉
+  sequence: 1
+reign:
+  start: '221'
+  end: '223'
+  eras:
+  - 章武
+life:
+  birth: '161'
+  death: '223'
+  birth_place_id: zhuo-jun
+  death_place_id: yong-an
+summary: 少孤贩履，以兴复汉室为志，得诸葛亮而后成三分之业；章武元年称帝，为报关羽之仇伐吴，夷陵大败，崩于永安。
+summary_en: Orphaned young, he hawked straw shoes; with the restoration of Han as his aim, he won the tripartite realm after gaining Zhuge Liang; crowned in the 1st year of Zhangwu, he attacked Wu to avenge Guan Yu, was shattered at Yiling, and died at Yong'an.
+tags:
+- 兴复汉室
+- 仁德
+- 三顾茅庐
+- 夷陵之败
+tags_en:
+- Restoration of Han
+- Benevolence
+- Three Visits to the Thatched Hut
+- Defeat at Yiling
+portrait:
+  primary: assets/portraits/shu-zhaolie/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '三国志载「身长七尺五寸，垂手下膝，顾自见其耳」。画像宜表现宽厚雄毅的中老年君主之态，衣冠从蜀汉初制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/shu-zhaolie.md
+timeline:
+- year: '161'
+  date_note: 延熹四年
+  date_note_en: 4th year of Yanxi
+  title: 生涿郡
+  title_en: Birth at Zhuojun
+  summary: 汉景帝子中山靖王胜之后，家贫，与母贩履织席为业。
+  summary_en: A descendant of Liu Sheng, Prince Jing of Zhongshan, son of Emperor Jing of Han, he grew up poor, selling straw shoes and mats with his mother.
+  place_id: zhuo-jun
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E001
+- year: '184'
+  date_note: 中平元年
+  date_note_en: 1st year of Zhongping
+  title: 与黄巾战
+  title_en: Against the Yellow Turbans
+  summary: 黄巾起，备率徒众从军征讨，以功除安喜尉。
+  summary_en: When the Yellow Turbans rose, Bei led his followers into the army, earning by merit the post of commandant of Anxi.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E002
+- year: '200'
+  date_note: 建安五年
+  date_note_en: 5th year of Jian'an
+  title: 归曹操又叛
+  title_en: Serving Cao Cao, Then Turning
+  summary: 失徐州依曹操，操厚待之；寻与董承谋泄，走归袁绍。
+  summary_en: Losing Xuzhou he took refuge with Cao Cao, who treated him generously; but the plot with Dong Cheng leaked, and he fled to Yuan Shao.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E003
+- year: '208'
+  date_note: 建安十三年
+  date_note_en: 13th year of Jian'an
+  title: 赤壁联合抗曹
+  title_en: The Red Cliffs Alliance
+  summary: 曹操南下，诸葛亮说孙权，孙刘联军大破曹军于赤壁。
+  summary_en: Cao Cao came south; Zhuge Liang persuaded Sun Quan, and the Sun–Liu allies shattered the Cao army at the Red Cliffs.
+  place_id: chi-bi
+  related_person_ids:
+  - wu-da
+  sources:
+  - 三国志·卷032·先主传
+  - 三国志·吴书·吴主传
+  card_id: E004
+- year: '214'
+  date_note: 建安十九年
+  date_note_en: 19th year of Jian'an
+  title: 得益州
+  title_en: Winning Yizhou
+  summary: 刘璋迎备入蜀，备反攻取成都，得益州，自领益州牧。
+  summary_en: Liu Zhang invited Bei into Shu; Bei turned on him, took Chengdu, won Yizhou, and styled himself its governor.
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E005
+- year: '219'
+  date_note: 建安二十四年
+  date_note_en: 24th year of Jian'an
+  title: 汉中称王
+  title_en: King of Hanzhong
+  summary: 与曹操争汉中，大胜，遂于沔阳进位汉中王。
+  summary_en: Vying with Cao Cao for Hanzhong, he won decisively and took the title King of Hanzhong at Mianyang.
+  place_id: han-zhong
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E006
+- year: '219'
+  date_note: 建安二十四年
+  date_note_en: 24th year of Jian'an
+  title: 关羽失荆州
+  title_en: Guan Yu Loses Jingzhou
+  summary: 关羽北伐襄樊，吕蒙袭取江陵，羽败被杀，荆州归吴。
+  summary_en: While Guan Yu campaigned north to Xiangfan, Lü Meng seized Jiangling behind him; Yu fell and was slain, and Jingzhou passed to Wu.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  - 三国志·吴书·吕蒙传
+  card_id: E007
+- year: '221'
+  date_note: 章武元年四月
+  date_note_en: 4th month, 1st year of Zhangwu
+  title: 即皇帝位
+  title_en: Taking the Imperial Throne
+  summary: 闻汉献帝被害（讹传），于成都即皇帝位，国号汉，以续汉统。
+  summary_en: On the rumored death of Emperor Xian, he took the throne at Chengdu, styling his realm Han in continuation of the Han line.
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E008
+- year: '221'
+  date_note: 章武元年七月
+  date_note_en: 7th month, 1st year of Zhangwu
+  title: 伐吴
+  title_en: Campaign against Wu
+  summary: 为关羽复仇，亲率大军伐吴；赵云、诸葛亮等谏不听。
+  summary_en: To avenge Guan Yu he led the host against Wu in person, deaf to the remonstrances of Zhao Yun and Zhuge Liang.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E009
+- year: '222'
+  date_note: 章武二年
+  date_note_en: 2nd year of Zhangwu
+  title: 夷陵之败
+  title_en: The Disaster at Yiling
+  summary: 陆逊火烧连营，备大败，退保白帝城，仅以身免。
+  summary_en: Lu Xun burned the linked camps; Bei was routed, fled to White Emperor City, and escaped with his life alone.
+  place_id: yi-ling
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  - 三国志·吴书·陆逊传
+  card_id: E010
+- year: '223'
+  date_note: 章武三年四月
+  date_note_en: 4th month, 3rd year of Zhangwu
+  title: 崩于永安
+  title_en: Death at Yong'an
+  summary: 病笃，托孤于诸葛亮，崩于永安宫，年六十三，后主禅即位。
+  summary_en: Mortally ill, he entrusted his heir to Zhuge Liang and died in the Yong'an Palace, aged sixty-three; Liu Shan, the Later Sovereign, succeeded.
+  place_id: yong-an
+  related_person_ids:
+  - shu-houzhu
+  sources:
+  - 三国志·卷032·先主传
+  - 三国志·蜀书·诸葛亮传
+  card_id: E011
+- year: '223'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 先主总评
+  title_en: Final Verdict
+  summary: 陈寿评其弘毅宽厚、知人待士，有高祖之风、英雄之器，惜机权干略不逮。
+  summary_en: Chen Shou praised his magnanimity, his discernment of men, and his treatment of officers — the manner of Gaozu and the bearing of a hero — while regretting that his cunning and resource fell short.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷032·先主传
+  card_id: E012
+relations:
+- type: successor
+  target_id: shu-houzhu
+  note: 章武三年崩，太子禅即位
+- type: related_emperor
+  target_id: e-han-xian
+  note: 以续汉统为号，称帝于成都
+- type: related_emperor
+  target_id: wu-da
+  note: 赤壁联军，后为夷陵之战的对手
+routes:
+- group: 都城
+  order: 1
+  year: '161'
+  place_id: zhuo-jun
+  event: 生涿郡
+- group: 其他
+  order: 2
+  year: '208'
+  place_id: chi-bi
+  event: 赤壁联合抗曹
+- group: 都城
+  order: 3
+  year: '214'
+  place_id: cheng-du
+  event: 得益州
+- group: 都城
+  order: 4
+  year: '219'
+  place_id: han-zhong
+  event: 汉中称王
+- group: 都城
+  order: 5
+  year: '221'
+  place_id: cheng-du
+  event: 即皇帝位
+- group: 亲征
+  order: 6
+  year: '221'
+  place_id: null
+  event: 伐吴
+- group: 亲征
+  order: 7
+  year: '222'
+  place_id: yi-ling
+  event: 夷陵之败
+- group: 都城
+  order: 8
+  year: '223'
+  place_id: yong-an
+  event: 崩于永安
+sources:
+- title: 三国志·先主传
+  note: 主叙事
+- title: 三国志·诸葛亮传
+  note: 托孤互见
+- title: 三国志·陆逊传
+  note: 夷陵互见
+- title: 资治通鉴·汉纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 蜀汉开国皇帝，正史立纪。
+  synced_from_cards: true

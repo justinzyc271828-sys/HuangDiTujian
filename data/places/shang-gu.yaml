@@ -1,0 +1,12 @@
+id: shang-gu
+names:
+  historical: 上谷
+  modern: 河北省张家口市怀来县
+  english: Shanggu
+coords:
+  lng: 115.52
+  lat: 40.4
+  precision: schematic
+map:
+  region: 幽州
+notes: 慕容垂伐魏病崩于上谷祖阳

@@ -1,0 +1,12 @@
+id: jie-ting
+names:
+  historical: 街亭
+  modern: 甘肃省天水市秦安县陇城镇
+  english: Jieting
+coords:
+  lng: 105.67
+  lat: 34.92
+  precision: schematic
+map:
+  region: 凉州
+notes: 马谡失街亭处，诸葛亮首次北伐转折点

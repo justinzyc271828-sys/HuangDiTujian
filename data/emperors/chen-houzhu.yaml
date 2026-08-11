@@ -1,0 +1,165 @@
+id: chen-houzhu
+tier: emperor
+sort_key: 陈-005
+names:
+  display: 陈后主
+  display_en: The Last Sovereign of Chen
+  personal: 陈叔宝
+  personal_en: Chen Shubao
+  temple: null
+  posthumous: 长城炀公（隋赠）
+  aliases:
+  - 陈元秀
+dynasty:
+  id: chen
+  label: 陈
+  sequence: 5
+reign:
+  start: '582'
+  end: '589'
+  eras:
+  - 至德
+  - 祯明
+life:
+  birth: '553'
+  death: '604'
+  birth_place_id: null
+  death_place_id: chang-an
+summary: 宣帝长子，大营临春、结绮、望仙诸阁，与张丽华游宴，艳诗《玉树后庭花》成亡国之音；祯明三年隋军入建康，出降，陈亡，南朝终结。
+summary_en: Eldest son of Emperor Xuan, he raised the Linchun, Jieqi, and Wangxian
+  pavilions and feasted with Zhang Lihua; his *Jade Trees and Rear-Court Flowers*
+  became the song of a lost realm. In the 3rd year of Zhenming the Sui armies entered
+  Jiankang; he surrendered, Chen perished, and the Southern Dynasties were at an end.
+tags:
+- 玉树后庭花
+- 张丽华
+- 亡国之音
+- 南朝终章
+tags_en:
+- Jade Trees and Rear-Court Flowers
+- Zhang Lihua
+- The Song of a Lost Realm
+- End of the Southern Dynasties
+portrait:
+  primary: assets/portraits/chen-houzhu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现风流纵乐的末代君主之态，衣冠从陈末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/chen-houzhu.md
+timeline:
+- year: '553'
+  date_note: 承圣二年
+  date_note_en: 2nd year of Chengsheng
+  title: 生
+  title_en: Birth
+  summary: 宣帝长子，字元秀。
+  summary_en: Eldest son of Emperor Xuan, styled Yuanxiu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 陈书·卷006·后主纪
+  card_id: E001
+- year: '582'
+  date_note: 太建十四年
+  date_note_en: 14th year of Taijian
+  title: 即位
+  title_en: Accession
+  summary: 宣帝崩，叔宝即位，改元至德。
+  summary_en: On Emperor Xuan's death Shubao took the throne and changed the era to
+    Zhide.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '584'
+  date_note: 至德中
+  date_note_en: mid-Zhide
+  title: 临春结绮
+  title_en: The Three Pavilions
+  summary: 大营临春、结绮、望仙诸阁，与张丽华等游宴。
+  summary_en: He raised the Linchun, Jieqi, and Wangxian pavilions and feasted with
+    Zhang Lihua and the rest.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '589'
+  date_note: 祯明三年
+  date_note_en: 3rd year of Zhenming
+  title: 隋灭陈
+  title_en: The Sui Conquest
+  summary: 贺若弼、韩擒虎入建康，后主降，陈亡，南朝终。
+  summary_en: He Ruobi and Han Qinhu entered Jiankang; the Last Sovereign surrendered,
+    Chen perished, and the Southern Dynasties ended.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '589'
+  date_note: 文学
+  date_note_en: letters
+  title: 玉树后庭花
+  title_en: The Song of the Lost Realm
+  summary: 与江总等为艳诗，史以为亡国之音象征。
+  summary_en: With Jiang Zong and the others he wrote the sensual verse the histories
+    mark as the song of a lost realm.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '604'
+  date_note: 仁寿四年
+  date_note_en: 4th year of Renshou
+  title: 卒于长安
+  title_en: Death at Chang'an
+  summary: 入隋后卒于洛阳。
+  summary_en: Taken into Sui, he died at Luoyang.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+relations:
+- type: predecessor
+  target_id: chen-xuan
+  note: 太建十四年宣帝崩，子叔宝即位
+- type: successor
+  target_id: sui-wen
+  note: 祯明三年降隋，陈亡
+- type: kinship
+  target_id: chen-xuan
+  note: 宣帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '582'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '584'
+  place_id: jian-kang
+  event: 临春结绮
+- group: 都城
+  order: 3
+  year: '589'
+  place_id: jian-kang
+  event: 隋灭陈
+- group: 都城
+  order: 4
+  year: '604'
+  place_id: chang-an
+  event: 卒于长安
+sources:
+- title: 陈书·后主纪
+  note: 主叙事
+- title: 隋书·高祖纪
+  note: 平陈互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 陈朝末帝，降隋亡国，南朝终结，正史立纪。
+  synced_from_cards: true

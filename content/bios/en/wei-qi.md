@@ -1,0 +1,9 @@
+# Cao Fang, Prince of Qi · Principal Deeds
+
+Cao Fang, styled Lanqing, was Emperor Ming's adopted son, said to be a son of Cao Kai of Rencheng. In the first month of the 3rd year of Jingchu, in Ming's last illness, he was named crown prince and at once took the throne at eight, changing the era to Zhengshi, with Cao Shuang and Sima Yi as co-regents by the late edict. In the first month of the 10th year of Zhengshi, while the emperor and Shuang paid homage at the Gaopingling tombs, Sima Yi seized the armies on forged decrees and exterminated Shuang's kin — the Gaopingling incident. From that day Wei's government lay with the Simas, and the emperor sat on the throne without a voice.
+
+Wang Ling's plot to set up Prince Biao of Chu failed, and Ling took his own life; Li Feng and Zhang Ji, plotting against Sima Shi, were executed with their kin. Through Zhengshi and Jiaping, fifteen years, every turn of court affairs was the rise and fall of Sima's house, and the emperor had not one word in it. In the 6th year of Jiaping, Sima Shi petitioned the empress dowager to depose Fang for "dissolute excess"; Fang was set aside as Prince of Qi and moved to Henei.
+
+The Duke of Gaogui District succeeded him, and Fang lived out his days as Prince of Qi, dying in the 10th year of Jin Taishi. The historians' judgment: a child sovereign could do nothing, yet the slaying of Cao Shuang began the Sima usurpation — the Gaopingling incident deposed more than one man; it was the fate of the Wei dynasty. Fang's fall was blamed on himself by the official historians, but a child emperor's "fault" was only the strong minister's will.
+
+> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 9 (biography of Cao Shuang), ch. 44 (biography of Sima Yi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

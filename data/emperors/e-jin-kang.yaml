@@ -1,0 +1,159 @@
+id: e-jin-kang
+tier: emperor
+sort_key: 东晋-004
+names:
+  display: 晋康帝
+  display_en: Emperor Kang of Jin
+  personal: 司马岳
+  personal_en: Sima Yue
+  temple: null
+  posthumous: 康皇帝
+  aliases:
+  - 晋康帝司马岳
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 4
+reign:
+  start: '342'
+  end: '344'
+  eras:
+  - 建元
+life:
+  birth: '322'
+  death: '344'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 成帝崩后兄终弟及，在位二年；庾翼经营襄阳欲北伐，未竟而崩，国事仍归门阀。
+summary_en: Succeeding his brother Emperor Cheng, he reigned two years; Yu Yi's plans for a northern expedition from Xiangyang were unfinished when he died, and the government stayed in the great clans' hands.
+tags:
+- 短祚
+- 兄终弟及
+- 庾翼北伐议
+tags_en:
+- Brief Reign
+- Brother Succeeding Brother
+- Yu Yi's Northern Plan
+portrait:
+  primary: assets/portraits/e-jin-kang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现短祚守成的年轻君主之态，衣冠从东晋初制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-kang.md
+timeline:
+- year: '322'
+  date_note: 永昌元年
+  date_note_en: 1st year of Yongchang
+  title: 生
+  title_en: Birth
+  summary: 明帝子，成帝弟，封琅邪王。
+  summary_en: Son of Emperor Ming, younger brother of Emperor Cheng, enfeoffed Prince of Langya.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E001
+- year: '342'
+  date_note: 咸康八年
+  date_note_en: 8th year of Xiankang
+  title: 即位
+  title_en: Accession
+  summary: 成帝崩，岳即位，改元建元。
+  summary_en: On Emperor Cheng's death Yue took the throne and changed the era to Jianyuan.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-cheng
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E002
+- year: '342'
+  date_note: 咸康八年
+  date_note_en: 8th year of Xiankang
+  title: 以何充辅政
+  title_en: He Chong as Regent
+  summary: 以何充等辅政，中枢人事重组。
+  summary_en: He Chong and the others were made regents, and the court was reshaped.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E003
+- year: '343'
+  date_note: 建元元年
+  date_note_en: 1st year of Jianyuan
+  title: 庾翼北伐议
+  title_en: Yu Yi's Northern Plan
+  summary: 庾翼欲北伐，经营襄阳，移镇武昌。
+  summary_en: Yu Yi, planning a northern expedition, built up Xiangyang and moved his seat to Wuchang.
+  place_id: wu-chang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E004
+- year: '344'
+  date_note: 建元二年九月
+  date_note_en: 9th month, 2nd year of Jianyuan
+  title: 康帝崩
+  title_en: Death of Emperor Kang
+  summary: 崩，年二十三；穆帝聃即位。
+  summary_en: He died at twenty-three; Emperor Mu (Sima Dan) succeeded.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-mu
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E005
+- year: '344'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 康帝短祚
+  title_en: The Brief Reign
+  summary: 在位二年而崩，国事多仍门阀之旧。
+  summary_en: He died after two years, the government largely as the great clans had left it.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·康帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-jin-cheng
+  note: 咸康八年成帝崩，弟岳即位
+- type: successor
+  target_id: e-jin-mu
+  note: 建元二年崩，子聃即位
+- type: kinship
+  target_id: e-jin-ming
+  note: 明帝子
+routes:
+- group: 都城
+  order: 1
+  year: '342'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '343'
+  place_id: wu-chang
+  event: 庾翼北伐议
+- group: 都城
+  order: 3
+  year: '344'
+  place_id: jian-kang
+  event: 康帝崩
+sources:
+- title: 晋书·康帝纪
+  note: 主叙事
+- title: 晋书·庾翼传
+  note: 北伐议互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第四帝，正史立纪。
+  synced_from_cards: true

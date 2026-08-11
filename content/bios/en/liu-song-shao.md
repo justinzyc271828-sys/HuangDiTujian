@@ -1,0 +1,9 @@
+# The Young Emperor of Song · Principal Deeds
+
+Liu Yifu, styled Chebing, was the eldest son of Emperor Wu. On his father's death in the 3rd year of Yongchu he took the throne at seventeen, changing the era to Jingping, with Xu Xianzhi, Fu Liang, Xie Hui, and Tan Daoji governing by the late will. The Young Emperor "played endlessly and neglected government": the records show him at play with the palace women, opening a wine shop in the Huayuan park and pricing the wine himself — a young sovereign without an ounce of the sovereign's bearing.
+
+In the 1st year of Jingping Wei came south, and the commanderies of Si, Yan, and Yu mostly fell; the emperor took no heed, leaving the armies and the government to his ministers. In the fifth month of the 2nd year of Jingping, Xu Xianzhi and the others, by the empress dowager's edict, deposed him as Prince of Yingyang, confined him in Wu, and soon had him slain, aged nineteen. With Wu's sons still children, the ministers brought in the Prince of Yidu, Liu Yilong — Emperor Wen.
+
+His deposition opened the southern dynasties' practice of deposition by ministers: for three centuries to come, deposed sovereigns and murdered lords were common, from Xiao Daocheng's slaying of the Later Deposed Emperor to Xiao Luan's deposition of the Princes of Yulin and Hailing. That a young emperor lost his realm to play was his own doing; but the pattern — a child on the throne, strong ministers usurping — began with Liu Song: Wu's jealousy and the Young Emperor's frivolity together colored the politics of the age.
+
+> Local references: the punctuated critical edition of the *Songshu*, ch. 4 ("Benji of the Young Emperor"), ch. 43 (biography of Xu Xianzhi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

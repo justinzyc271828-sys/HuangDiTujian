@@ -1,0 +1,161 @@
+id: liang-yuan
+tier: emperor
+sort_key: 梁-004
+names:
+  display: 梁元帝
+  display_en: Emperor Yuan of Liang
+  personal: 萧绎
+  personal_en: Xiao Yi
+  temple: 世祖
+  posthumous: 孝元皇帝
+  aliases:
+  - 萧世诚
+  - 萧七符
+dynasty:
+  id: liang
+  label: 梁
+  sequence: 4
+reign:
+  start: '552'
+  end: '554'
+  eras:
+  - 承圣
+life:
+  birth: '508'
+  death: '554'
+  birth_place_id: null
+  death_place_id: jiang-ling
+summary: 武帝第七子，平侯景称帝于江陵；承圣二年讨平武陵王纪，承圣三年西魏破江陵，城破被俘杀，聚书十四万卷焚于兵火。
+summary_en: Seventh son of Emperor Wu, he destroyed Hou Jing and took the throne at
+  Jiangling; in the 2nd year of Chengsheng he put down the Prince of Wuling, and in
+  the 3rd year Western Wei broke Jiangling — he was taken and slain, and his library
+  of 140,000 volumes perished in the flames.
+tags:
+- 平侯景
+- 金楼子
+- 江陵焚书
+- 西魏破城
+tags_en:
+- Ending Hou Jing
+- The Jinlouzi
+- The Jiangling Book-Burning
+- The Fall of Jiangling
+portrait:
+  primary: assets/portraits/liang-yuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载「帝聪悟俊朗，目有精光」。画像宜表现好学而猜忌的君主之态，衣冠从梁代中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liang-yuan.md
+timeline:
+- year: '508'
+  date_note: 天监七年
+  date_note_en: 7th year of Tianjian
+  title: 生
+  title_en: Birth
+  summary: 武帝第七子，字世诚，小字七符。好读书。
+  summary_en: Seventh son of Emperor Wu, styled Shicheng, childhood name Qifu; a lover
+    of books.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 梁书·卷005·元帝纪
+  card_id: E001
+- year: '552'
+  date_note: 承圣元年
+  date_note_en: 1st year of Chengsheng
+  title: 平侯景称帝
+  title_en: Hou Jing Destroyed, the Throne
+  summary: 王僧辩等灭景，绎即位于江陵，改元承圣。
+  summary_en: Wang Sengbian and the others destroyed Jing; Yi took the throne at Jiangling
+    and changed the era to Chengsheng.
+  place_id: jiang-ling
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '553'
+  date_note: 承圣二年
+  date_note_en: 2nd year of Chengsheng
+  title: 与益州萧纪相攻
+  title_en: Against Xiao Ji of Yizhou
+  summary: 武陵王纪称帝蜀中，绎讨平之。
+  summary_en: The Prince of Wuling, Ji, took the throne in Shu; Yi destroyed him.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '554'
+  date_note: 承圣三年
+  date_note_en: 3rd year of Chengsheng
+  title: 西魏破江陵
+  title_en: Western Wei Breaks Jiangling
+  summary: 于谨等破江陵，俘杀元帝，尽收图籍。
+  summary_en: Yujin and the others broke Jiangling, took and slew the emperor, and
+    carried off the books.
+  place_id: jiang-ling
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '554'
+  date_note: 文化
+  date_note_en: culture
+  title: 金楼子与藏书
+  title_en: The Jinlouzi and the Library
+  summary: 著《金楼子》，聚书十四万卷，城破多毁。
+  summary_en: He wrote the *Jinlouzi* and gathered 140,000 volumes, most destroyed
+    when the city fell.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '554'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 元帝总评
+  title_en: Final Verdict
+  summary: 聪悟好学，而多猜忌，失在不能早复建康。
+  summary_en: Sharp and studious, but jealous; his error was not returning to Jiankang
+    in time.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liang-yu
+  note: 栋禅位侯景，景败后元帝正位于江陵
+- type: successor
+  target_id: liang-jing
+  note: 承圣三年江陵陷，子方智即位于建康
+- type: kinship
+  target_id: liang-wu
+  note: 武帝第七子
+routes:
+- group: 都城
+  order: 1
+  year: '552'
+  place_id: jiang-ling
+  event: 平侯景称帝
+- group: 其他
+  order: 2
+  year: '553'
+  place_id: null
+  event: 与益州萧纪相攻
+- group: 都城
+  order: 3
+  year: '554'
+  place_id: jiang-ling
+  event: 西魏破江陵
+sources:
+- title: 梁书·元帝纪
+  note: 主叙事
+- title: 周书·于谨传
+  note: 破江陵互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 梁第四帝，正史立纪。
+  synced_from_cards: true

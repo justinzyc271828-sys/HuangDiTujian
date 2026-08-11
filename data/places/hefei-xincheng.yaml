@@ -1,0 +1,12 @@
+id: hefei-xincheng
+names:
+  historical: 合肥新城
+  modern: 安徽省合肥市庐阳区一带
+  english: Xincheng of Hefei
+coords:
+  lng: 117.25
+  lat: 31.89
+  precision: schematic
+map:
+  region: 扬州
+notes: 曹魏合肥防御堡垒，孙吴屡攻不下

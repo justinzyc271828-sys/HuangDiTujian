@@ -1,0 +1,12 @@
+id: wu-chang
+names:
+  historical: 武昌
+  modern: 湖北省鄂州市
+  english: Wuchang
+coords:
+  lng: 114.89
+  lat: 30.4
+  precision: schematic
+map:
+  region: 扬州
+notes: 孙权曾迁都武昌，孙皓一度再迁

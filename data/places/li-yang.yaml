@@ -1,0 +1,12 @@
+id: li-yang
+names:
+  historical: 历阳
+  modern: 安徽省马鞍山市和县
+  english: Liyang
+coords:
+  lng: 118.35
+  lat: 31.74
+  precision: schematic
+map:
+  region: 扬州
+notes: 后赵南寇历阳，江淮戒严

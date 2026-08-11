@@ -1,0 +1,164 @@
+id: chen-wu
+tier: emperor
+sort_key: 陈-001
+names:
+  display: 陈武帝
+  display_en: Emperor Wu of Chen
+  personal: 陈霸先
+  personal_en: Chen Baxian
+  temple: 高祖
+  posthumous: 武皇帝
+  aliases:
+  - 陈兴国
+dynasty:
+  id: chen
+  label: 陈
+  sequence: 1
+reign:
+  start: '557'
+  end: '559'
+  eras:
+  - 永定
+life:
+  birth: '503'
+  death: '559'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 吴兴寒族起家，讨侯景、破北齐，杀王僧辩专朝政；永定元年受禅称帝，国号陈，三年崩，侄蒨继。
+summary_en: Rising from a common house of Wuxing, he destroyed Hou Jing, broke the
+  Qi armies, slew Wang Sengbian, and took the government; in the 1st year of Yongding
+  he received the abdication and founded Chen. He died in the 3rd year; his nephew
+  Qian succeeded.
+tags:
+- 讨侯景
+- 破北齐
+- 受禅开陈
+- 寒族开国
+tags_en:
+- Ending Hou Jing
+- Breaking Northern Qi
+- Abdication and the Founding of Chen
+- Common Founder
+portrait:
+  primary: assets/portraits/chen-wu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现寒门起家的雄主之态，衣冠从陈初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/chen-wu.md
+timeline:
+- year: '503'
+  date_note: 天监二年
+  date_note_en: 2nd year of Tianjian
+  title: 生
+  title_en: Birth
+  summary: 吴兴长城人，字兴国。
+  summary_en: A man of Changcheng, Wuxing, styled Xingguo.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 陈书·卷001·高祖纪
+  card_id: E001
+- year: '549'
+  date_note: 太清三年
+  date_note_en: 3rd year of Taiqing
+  title: 讨侯景起家
+  title_en: Rising against Hou Jing
+  summary: 自岭南起兵，与王僧辩会师平景。
+  summary_en: He rose from Lingnan and joined Wang Sengbian to destroy Jing.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '555'
+  date_note: 绍泰元年
+  date_note_en: 1st year of Shaotai
+  title: 杀王僧辩
+  title_en: Slewing Wang Sengbian
+  summary: 反对迎贞阳侯，袭杀僧辩，专朝政。
+  summary_en: Against receiving the Marquis of Zhenyang, he struck down Sengbian and
+    took the government.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '556'
+  date_note: 太平元年
+  date_note_en: 1st year of Taiping
+  title: 破北齐兵
+  title_en: Breaking the Qi Armies
+  summary: 拒齐军于建康附近，稳定江东。
+  summary_en: He held the Qi armies near Jiankang and steadied Jiangdong.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '557'
+  date_note: 永定元年
+  date_note_en: 1st year of Yongding
+  title: 受禅称帝
+  title_en: The Abdication Throne
+  summary: 梁敬帝禅位，霸先即皇帝位，国号陈。
+  summary_en: Emperor Jing of Liang abdicated; Baxian took the throne and styled the
+    realm Chen.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '559'
+  date_note: 永定三年
+  date_note_en: 3rd year of Yongding
+  title: 武帝崩
+  title_en: Death of Emperor Wu
+  summary: 崩，侄蒨继，是为文帝。
+  summary_en: He died; his nephew Qian succeeded as Emperor Wen.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liang-jing
+  note: 永定元年受禅于梁敬帝
+- type: successor
+  target_id: chen-wen
+  note: 永定三年崩，侄蒨即位
+routes:
+- group: 都城
+  order: 1
+  year: '549'
+  place_id: jian-kang
+  event: 讨侯景起家
+- group: 都城
+  order: 2
+  year: '555'
+  place_id: jian-kang
+  event: 杀王僧辩
+- group: 其他
+  order: 3
+  year: '556'
+  place_id: jian-kang
+  event: 破北齐兵
+- group: 都城
+  order: 4
+  year: '557'
+  place_id: jian-kang
+  event: 受禅称帝
+- group: 都城
+  order: 5
+  year: '559'
+  place_id: jian-kang
+  event: 武帝崩
+sources:
+- title: 陈书·高祖纪
+  note: 主叙事
+- title: 梁书·敬帝纪
+  note: 禅代互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 陈朝开国皇帝，正史立纪。
+  synced_from_cards: true

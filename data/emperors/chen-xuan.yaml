@@ -1,0 +1,161 @@
+id: chen-xuan
+tier: emperor
+sort_key: 陈-004
+names:
+  display: 陈宣帝
+  display_en: Emperor Xuan of Chen
+  personal: 陈顼
+  personal_en: Chen Xu
+  temple: 高宗
+  posthumous: 孝宣皇帝
+  aliases:
+  - 陈绍世
+dynasty:
+  id: chen
+  label: 陈
+  sequence: 4
+reign:
+  start: '568'
+  end: '582'
+  eras:
+  - 太建
+life:
+  birth: '530'
+  death: '582'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 文帝弟，废侄伯宗自立；太建五年吴明彻北伐，尽复淮南；北齐亡后争徐兖，吕梁之败，淮南复失，功败垂成；太建十四年崩。
+summary_en: Younger brother of Emperor Wen, he deposed his nephew Bozong; in the 5th
+  year of Taijian Wu Mingche's expedition recovered all the Huainan; after Northern
+  Qi fell he contended for Xu and Yan, was shattered at Lüliang, and the Huainan was
+  lost again — the enterprise failed at the last. He died in the 14th year of Taijian.
+tags:
+- 北伐淮南
+- 吕梁之败
+- 废侄自立
+- 功败垂成
+tags_en:
+- The Huainan Recovery
+- The Lüliang Disaster
+- Deposing the Nephew
+- Failure at the Last
+portrait:
+  primary: assets/portraits/chen-xuan/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现雄略有为之君之态，衣冠从陈中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/chen-xuan.md
+timeline:
+- year: '530'
+  date_note: 中大通二年
+  date_note_en: 2nd year of Zhongdatong
+  title: 生
+  title_en: Birth
+  summary: 始兴昭烈王第二子，文帝弟。
+  summary_en: Second son of the Prince Zhaolie of Shixing, Emperor Wen's younger brother.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 陈书·卷005·宣帝纪
+  card_id: E001
+- year: '568'
+  date_note: 太建元年
+  date_note_en: 1st year of Taijian
+  title: 即位
+  title_en: Accession
+  summary: 废伯宗自立，改元太建。
+  summary_en: He deposed Bozong, took the throne, and changed the era to Taijian.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '573'
+  date_note: 太建五年
+  date_note_en: 5th year of Taijian
+  title: 北伐淮南
+  title_en: The Huainan Recovery
+  summary: 吴明彻等北伐，尽复淮南地。
+  summary_en: Wu Mingche and the others campaigned north and recovered all the Huainan.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '577'
+  date_note: 太建九年
+  date_note_en: 9th year of Taijian
+  title: 北齐亡后失利
+  title_en: Loss after Northern Qi Fell
+  summary: 周灭齐后陈争徐兖，吕梁之败，淮南复失。
+  summary_en: After Zhou destroyed Qi, Chen contended for Xu and Yan and was shattered
+    at Lüliang — the Huainan lost again.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '582'
+  date_note: 太建十四年
+  date_note_en: 14th year of Taijian
+  title: 宣帝崩
+  title_en: Death of Emperor Xuan
+  summary: 崩，子叔宝继，是为后主。
+  summary_en: He died; his son Shubao succeeded — the Last Sovereign.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '582'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 宣帝总评
+  title_en: Final Verdict
+  summary: 志在河南，功败垂成。
+  summary_en: His aim was Henan; the enterprise failed at the last step.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: chen-fei
+  note: 光大二年废侄伯宗自立
+- type: successor
+  target_id: chen-houzhu
+  note: 太建十四年崩，子叔宝即位
+- type: kinship
+  target_id: chen-wu
+  note: 武帝侄，文帝弟
+routes:
+- group: 都城
+  order: 1
+  year: '568'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '573'
+  place_id: null
+  event: 北伐淮南
+- group: 其他
+  order: 3
+  year: '577'
+  place_id: null
+  event: 北齐亡后失利
+- group: 都城
+  order: 4
+  year: '582'
+  place_id: jian-kang
+  event: 宣帝崩
+sources:
+- title: 陈书·宣帝纪
+  note: 主叙事
+- title: 资治通鉴·陈纪
+  note: 北伐编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 陈朝第四帝，正史立纪。
+  synced_from_cards: true

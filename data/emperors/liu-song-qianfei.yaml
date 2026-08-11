@@ -1,0 +1,154 @@
+id: liu-song-qianfei
+tier: emperor
+sort_key: 刘宋-005
+names:
+  display: 前废帝
+  display_en: The Former Deposed Emperor
+  personal: 刘子业
+  personal_en: Liu Ziye
+  temple: null
+  posthumous: null
+  aliases: []
+dynasty:
+  id: liu-song
+  label: 刘宋
+  sequence: 5
+reign:
+  start: '464'
+  end: '465'
+  eras:
+  - 永光
+  - 景和
+life:
+  birth: '449'
+  death: '465'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 孝武长子，十六岁即位，一年数改元，诛杀大臣宗室，朝野震恐；景和元年十一月为寿寂之等弑于华林园，在位一年。
+summary_en: Eldest son of Emperor Xiaowu, he took the throne at sixteen, changed eras
+  several times in a year, and slew ministers and princes until court and realm trembled;
+  in the eleventh month of the 1st year of Jinghe he was slain by Shou Jizhi and the
+  others in the Hualin Park — one year on the throne.
+tags:
+- 暴君
+- 一年而亡
+- 诛杀宗室
+- 被弑
+tags_en:
+- Tyrant
+- One Year and Gone
+- Slaying the Princes
+- Slain
+portrait:
+  primary: assets/portraits/liu-song-qianfei/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现乖戾暴虐的少年暴君之态，衣冠从刘宋末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liu-song-qianfei.md
+timeline:
+- year: '449'
+  date_note: 元嘉二十六年
+  date_note_en: 26th year of Yuanjia
+  title: 生
+  title_en: Birth
+  summary: 孝武帝长子。
+  summary_en: Eldest son of Emperor Xiaowu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 宋书·卷007·前废帝纪
+  card_id: E001
+- year: '464'
+  date_note: 大明八年
+  date_note_en: 8th year of Daming
+  title: 即位
+  title_en: Accession
+  summary: 孝武崩，子业即位。
+  summary_en: On Emperor Xiaowu's death Ziye took the throne.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '465'
+  date_note: 永光/景和
+  date_note_en: Yongguang / Jinghe
+  title: 改元
+  title_en: The Eras Changed
+  summary: 一年数改元，政局混乱。
+  summary_en: Era changed several times in a single year; the government fell into
+    confusion.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '465'
+  date_note: 景和元年
+  date_note_en: 1st year of Jinghe
+  title: 诛杀大臣宗室
+  title_en: Ministers and Princes Slain
+  summary: 杀戴法兴、刘义恭等，朝野震恐。
+  summary_en: He slew Dai Faxing, Liu Yigong, and the rest until court and realm trembled.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '465'
+  date_note: 景和元年十一月
+  date_note_en: 11th month, 1st year of Jinghe
+  title: 被弑
+  title_en: Slain
+  summary: 寿寂之等弑帝于华林园，湘东王彧即位。
+  summary_en: Shou Jizhi and the others slew him in the Hualin Park; the Prince of
+    Xiangdong, Yu, took the throne.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '465'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 前废帝总评
+  title_en: Final Verdict
+  summary: 史极言其无道，在位一年。
+  summary_en: The histories condemn his depravity utterly; he reigned one year.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liu-song-xiao
+  note: 大明八年孝武崩，长子子业即位
+- type: successor
+  target_id: liu-song-ming
+  note: 景和元年被弑，湘东王彧即位
+routes:
+- group: 都城
+  order: 1
+  year: '464'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '465'
+  place_id: jian-kang
+  event: 诛杀大臣宗室
+- group: 都城
+  order: 3
+  year: '465'
+  place_id: jian-kang
+  event: 被弑
+sources:
+- title: 宋书·前废帝纪
+  note: 主叙事
+- title: 资治通鉴·宋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 刘宋第五帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: wuzhang-yuan
+names:
+  historical: 五丈原
+  modern: 陕西省宝鸡市岐山县
+  english: Wuzhang Plain
+coords:
+  lng: 107.55
+  lat: 34.27
+  precision: schematic
+map:
+  region: 雍州
+notes: 诸葛亮屯军病卒处，渭水南岸

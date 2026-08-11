@@ -1,0 +1,9 @@
+# Emperor Cheng of Jin · Principal Deeds
+
+Sima Yan, styled Shigen, was the eldest son of Emperor Ming by Empress Yu. On Ming's death in the 3rd year of Taining he took the throne at five, with Empress Yu holding court and Yu Liang the government. Sharp and mature beyond his years, he nonetheless sat under the Yu clan's rule: Yu Liang's move to strip Su Jun and Zu Yue of their troops set off the storm — in the 2nd year of Xianhe the two rose, and in the 3rd stormed the palace, the emperor carried off, until Wen Qiao and Tao Kan raised the loyal armies and in the 4th year of Xianhe Su Jun was destroyed and the emperor returned.
+
+After the Su Jun revolt the center was spent: the child emperor left government to his ministers, the Yu brothers governing in turn with the armies outside the capital. In the Xiankang years Shi Hu of Later Zhao raided Liyang and the Jiang-Huai went on alert; Murong Huang styled himself King of Yan and Liaodong grew strong. The emperor ordered the household registers filled, and the talk of local registration began — but no great reform came of it.
+
+In the sixth month of the 8th year of Xiankang he died at twenty-two. On his deathbed, Yu Bing — "with strong enemies abroad, a grown sovereign should be raised" — had his younger brother Yue brought in, opening the Eastern Jin practice of brother succeeding brother. The historians judge Cheng a modest sovereign who left government to his ministers; his reign saw the greatest upheaval since the founding, the Su Jun revolt, restored by Tao Kan and the great officers — and the great clans' grip on government only tightened.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 7 ("Benji of Emperor Cheng"), ch. 73 (biography of Yu Liang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

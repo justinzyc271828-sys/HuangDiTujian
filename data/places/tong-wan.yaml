@@ -1,12 +1,12 @@
 id: tong-wan
 names:
   historical: 统万
-  modern: 陕西省榆林市靖边县北（统万城遗址）
+  modern: 陕西省榆林市靖边县红墩界镇
   english: Tongwan
 coords:
-  lng: 108.85
-  lat: 37.97
-  precision: approximate
+  lng: 108.78
+  lat: 37.98
+  precision: schematic
 map:
-  region: 陕北
-notes: 胡夏都城，太武帝始光四年攻取
+  region: 夏州
+notes: 赫连勃勃筑统万城，胡夏都城

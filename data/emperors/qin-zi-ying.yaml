@@ -1,0 +1,161 @@
+id: qin-zi-ying
+tier: quasi
+sort_key: 秦-003
+names:
+  display: 秦王子婴
+  display_en: Ziying, King of Qin
+  personal: 子婴
+  personal_en: Ziying
+  temple: null
+  posthumous: null
+  aliases:
+  - 秦王子婴
+dynasty:
+  id: qin
+  label: 秦
+  sequence: 3
+reign:
+  start: '-207'
+  end: '-206'
+  eras: []
+life:
+  birth: null
+  death: '-206'
+  birth_place_id: null
+  death_place_id: xianyang
+summary: 赵高弑二世后立，在位四十六日，诛高降汉，旋为项羽所杀；未称帝号，图鉴作准帝。
+summary_en: Installed by Zhao Gao after the murder of the Second Emperor, he reigned forty-six days, slew Gao, surrendered to Han, and was put to death by Xiang Yu; never bearing the imperial title, the gazetteer lists him as quasi-emperor.
+tags:
+- 短祚
+- 名分
+- 四十六日
+- 秦亡
+tags_en:
+- Brief Reign
+- Disputed Title
+- Forty-six Days
+- Fall of Qin
+portrait:
+  primary: assets/portraits/qin-zi-ying/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现亡国之际仓皇受玺的宗室之态，衣冠从秦制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qin-zi-ying.md
+timeline:
+- year: '-207'
+  date_note: 二世三年
+  date_note_en: 3rd year of the Second Emperor
+  title: 赵高立子婴
+  title_en: Zhao Gao Sets Up Ziying
+  summary: 赵高弑二世，立子婴，去帝号称王，秦政尽在赵高。
+  summary_en: Zhao Gao murdered the Second Emperor, set up Ziying, and dropped the imperial title for that of king; all Qin governance lay in Zhao Gao's hands.
+  place_id: xianyang
+  related_person_ids: []
+  sources:
+  - 史记·卷006·秦始皇本纪
+  card_id: E002
+- year: '-207'
+  date_note: 二世三年
+  date_note_en: 3rd year of the Second Emperor
+  title: 诛杀赵高
+  title_en: Putting Zhao Gao to Death
+  summary: 子婴与其二子及宦者韩谈谋，刺杀赵高于斋宫，夷三族。
+  summary_en: Ziying conspired with his two sons and the eunuch Han Tan, struck down Zhao Gao in the fasting palace, and exterminated his kin.
+  place_id: xianyang
+  related_person_ids: []
+  sources:
+  - 史记·卷006·秦始皇本纪
+  card_id: E001
+- year: '-207'
+  date_note: 二世三年
+  date_note_en: 3rd year of the Second Emperor
+  title: 降刘邦
+  title_en: Surrender to Liu Bang
+  summary: 刘邦入武关至霸上，子婴系颈以组、奉玺降于轵道旁，秦亡。
+  summary_en: Liu Bang entered by the Wu Pass and came to Bashang; Ziying, a silk cord about his neck, surrendered with the seals beside the Zhidao road, and Qin was no more.
+  place_id: xianyang
+  related_person_ids: []
+  sources:
+  - 史记·卷006·秦始皇本纪
+  - 史记·卷008·高祖本纪
+  card_id: E003
+- year: '-207'
+  date_note: 名分
+  date_note_en: title
+  title: 秦王非帝
+  title_en: King, Not Emperor
+  summary: 子婴去帝号称秦王，不系帝统，图鉴以名分不成立而作准帝。
+  summary_en: Ziying bore the title of king, not emperor, and so stands outside the imperial line; the gazetteer treats him as quasi on grounds of title.
+  place_id: xianyang
+  related_person_ids: []
+  sources:
+  - 史记·卷006·秦始皇本纪
+  card_id: E005
+- year: '-206'
+  date_note: 汉元年
+  date_note_en: 1st year of Han
+  title: 项羽杀子婴
+  title_en: Xiang Yu Puts Ziying to Death
+  summary: 项羽入关屠咸阳，杀子婴，烧秦宫室，秦社稷绝。
+  summary_en: Xiang Yu entered the pass, sacked Xianyang, killed Ziying, and burned the Qin palaces; the Qin altars were cut off forever.
+  place_id: xianyang
+  related_person_ids: []
+  sources:
+  - 史记·卷007·项羽本纪
+  card_id: E004
+- year: '-206'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 子婴总评
+  title_en: Final Verdict
+  summary: 国祚短促而能诛高，然承积弊、无兵可恃，终不免于亡。
+  summary_en: His reign was brief yet able to slay Zhao Gao; but he inherited a broken state without troops to lean on, and ruin was not to be escaped.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 史记·卷006·秦始皇本纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: qin-er-shi
+  note: 二世被弑后，赵高立子婴
+- type: related_emperor
+  target_id: qin-shi-huang
+  note: 秦室宗亲，身世史有异说（二世兄子/始皇弟）
+routes:
+- group: 都城
+  order: 1
+  year: '-207'
+  place_id: xianyang
+  event: 赵高立子婴
+- group: 都城
+  order: 2
+  year: '-207'
+  place_id: xianyang
+  event: 诛杀赵高
+- group: 都城
+  order: 3
+  year: '-207'
+  place_id: xianyang
+  event: 降刘邦
+- group: 都城
+  order: 4
+  year: '-206'
+  place_id: xianyang
+  event: 项羽杀子婴
+sources:
+- title: 史记·秦始皇本纪
+  note: 主叙事
+- title: 史记·高祖本纪
+  note: 轵道受降互见
+- title: 史记·项羽本纪
+  note: 入关杀婴互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 秦末代秦王，去帝号，名分不成立；正史记入本纪，图鉴以准帝收录。
+  synced_from_cards: true

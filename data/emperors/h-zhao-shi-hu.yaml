@@ -1,0 +1,174 @@
+id: h-zhao-shi-hu
+tier: quasi
+sort_key: 后赵-001
+names:
+  display: 后赵武帝
+  display_en: Shi Hu, Martial Emperor of Later Zhao
+  personal: 石虎
+  personal_en: Shi Hu
+  temple: null
+  posthumous: 武皇帝
+  aliases:
+  - 石季龙
+dynasty:
+  id: h-zhao
+  label: 后赵
+  sequence: 2
+reign:
+  start: '334'
+  end: '349'
+  eras:
+  - 延熙
+  - 建武
+  - 太宁
+life:
+  birth: '295'
+  death: '349'
+  birth_place_id: null
+  death_place_id: ye-cheng
+summary: 石勒侄，废杀石弘自立，迁都邺，后赵武功极盛；然暴虐著称，营宫室、兴大役、好杀伐，死后诸子争立，后赵迅即崩溃。
+summary_en: Nephew of Shi Le, he deposed and slew Shi Hong to take the throne, moved
+  the capital to Ye, and carried Later Zhao to its height of power; but his tyranny
+  is proverbial — palaces, corvée, and slaughter — and after his death his sons fought,
+  and Later Zhao collapsed at once.
+tags:
+- 暴君
+- 迁都邺
+- 后赵极盛
+- 苛政
+tags_en:
+- Tyrant
+- Capital at Ye
+- Height of Later Zhao
+- Harsh Rule
+portrait:
+  primary: assets/portraits/h-zhao-shi-hu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现雄武而暴戾的中老年君主之态，衣冠从后赵制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/h-zhao-shi-hu.md
+timeline:
+- year: '295'
+  date_note: 约年
+  date_note_en: c. 295
+  title: 生
+  title_en: Birth
+  summary: 石勒侄，字季龙。骁勇善战，为勒方面大将。
+  summary_en: Nephew of Shi Le, styled Jilong; a fierce warrior and one of Le's field
+    commanders.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷106·石季龙载记
+  card_id: E001
+- year: '333'
+  date_note: 咸和八年
+  date_note_en: 8th year of Xianhe
+  title: 受遗辅政
+  title_en: Regent by the Late Will
+  summary: 石勒崩，虎受遗辅石弘，旋专权。
+  summary_en: Shi Le died; Hu, by the late will, assisted Shi Hong — and at once seized
+    power.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '334'
+  date_note: 咸和九年
+  date_note_en: 9th year of Xianhe
+  title: 废杀石弘自立
+  title_en: Deposing Shi Hong
+  summary: 废弘自立，称居摄赵天王，后称帝。
+  summary_en: He deposed Hong and took power himself, calling himself Heavenly King
+    of Zhao Regent, later emperor.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '335'
+  date_note: 咸康元年
+  date_note_en: 1st year of Xiankang
+  title: 迁都于邺
+  title_en: Capital Moved to Ye
+  summary: 自襄国迁邺，大营宫殿苑囿。
+  summary_en: He moved the capital from Xiangguo to Ye and raised palaces and parks
+    on a grand scale.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '340'
+  date_note: 咸康前后
+  date_note_en: c. Xiankang
+  title: 大役与东宫
+  title_en: Great Works and the Eastern Palace
+  summary: 发民夫营宫室、猎场，史称百姓愁怨。
+  summary_en: He drove the people to build palaces and hunting grounds — the histories
+    record their grief and rage.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '349'
+  date_note: 永和五年
+  date_note_en: 5th year of Yonghe
+  title: 石虎崩
+  title_en: Death of Shi Hu
+  summary: 崩，诸子争立，后赵迅即崩溃。
+  summary_en: He died; his sons fought for the throne, and Later Zhao fell apart at
+    once.
+  place_id: ye-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '349'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 季龙总评
+  title_en: Final Verdict
+  summary: 史臣极言其虐；武功拓地与虐政并载。
+  summary_en: The historians dwell on his cruelty; his conquests and his tyranny are
+    recorded together.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+relations:
+- type: predecessor
+  target_id: h-zhao-shi-le
+  note: 石勒崩后受遗辅政，废杀石弘自立
+routes:
+- group: 都城
+  order: 1
+  year: '334'
+  place_id: null
+  event: 废杀石弘自立
+- group: 都城
+  order: 2
+  year: '335'
+  place_id: ye-cheng
+  event: 迁都于邺
+- group: 都城
+  order: 3
+  year: '340'
+  place_id: ye-cheng
+  event: 大役与东宫
+- group: 都城
+  order: 4
+  year: '349'
+  place_id: ye-cheng
+  event: 石虎崩
+sources:
+- title: 晋书·石季龙载记
+  note: 主叙事
+- title: 晋书·石勒载记
+  note: 受遗辅政互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后赵第二主，暴君典型，图鉴以准帝收录。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: lian-chuan
+names:
+  historical: 廉川
+  modern: 青海省海东市民和县
+  english: Lianchuan
+coords:
+  lng: 102.8
+  lat: 36.32
+  precision: schematic
+map:
+  region: 凉州
+notes: 南凉秃发乌孤筑廉川堡为都

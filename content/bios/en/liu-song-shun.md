@@ -1,0 +1,9 @@
+# Emperor Shun of Song · Principal Deeds
+
+Liu Zhun, styled Zhongmou, was the third son of Emperor Ming. After the Later Deposed Emperor's slaying in the 5th year of Yuanhui, Xiao Daocheng set Zhun on the throne at ten, changing the era to Shengming. Shun was "a child figurehead caught in the abdication": the power lay wholly with Daocheng; in the 2nd year of Shengming Shen Youzhi of Jingzhou rose, Daocheng destroyed him, and the Song house stood more alone than ever. In the third month of the 3rd year of Shengming, Daocheng's men pressed for the abdication.
+
+The edict of abdication made, Shun "wept as he mounted the carriage"; leaving the palace he asked his attendants, "Why is the band not playing today?" — the records have him saying, "In life after life, may I never again be born into an imperial house" — and he yielded to Daocheng: Liu Song, eight sovereigns and sixty years, was no more. Enfeoffed Prince of Ruyin and settled at Danyang, he was soon done to death by Daocheng's men, aged thirteen.
+
+His abdication follows the same road as Gong's, as the abdications of Han and Wei: the name of abdication masking the fact of usurpation, and the abdicated sovereign slain to complete it. Liu Yu took the Jin and slew Emperor Gong; Xiao Daocheng took the Song and slew Emperor Shun — the mask wearing ever thinner. The historians absolve Shun: a ten-year-old watching his grandfather's realm pass, it was not his fault; Liu Song fell to its family slaughters and its overgrown ministers, long before he sat the throne.
+
+> Local references: the punctuated critical edition of the *Songshu*, ch. 10 ("Benji of Emperor Shun"), and the *Nanqishu*, ch. 1 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

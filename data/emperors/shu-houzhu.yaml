@@ -1,0 +1,257 @@
+id: shu-houzhu
+tier: emperor
+sort_key: 蜀汉-002
+names:
+  display: 蜀后主
+  display_en: The Later Sovereign of Shu
+  personal: 刘禅
+  personal_en: Liu Shan
+  temple: null
+  posthumous: 孝怀皇帝（晋追谥）
+  aliases:
+  - 后主
+  - 阿斗
+dynasty:
+  id: shu
+  label: 蜀汉
+  sequence: 2
+reign:
+  start: '223'
+  end: '263'
+  eras:
+  - 建兴
+  - 延熙
+  - 景耀
+  - 炎兴
+life:
+  birth: '207'
+  death: '271'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 先主崩后继位，任诸葛亮而蜀汉得治；亮卒后信黄皓、北伐无成，景耀六年邓艾入蜀，衔璧出降，封安乐公，「乐不思蜀」留笑史。
+summary_en: Succeeding the First Sovereign, he governed well while trusting Zhuge Liang; after Liang's death he heeded Huang Hao and the northern wars failed, until Deng Ai entered Shu in the 6th year of Jingyao and he surrendered with the seal in his mouth, enfeoffed Duke of Anle — his "happier here than in Shu" staying a byword.
+tags:
+- 乐不思蜀
+- 任贤则治
+- 降魏
+- 黄皓
+tags_en:
+- Happier Here Than in Shu
+- Rule by Good Counsel
+- Surrender to Wei
+- Huang Hao
+portrait:
+  primary: assets/portraits/shu-houzhu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现温厚平庸的中年君主之态，衣冠从蜀汉后制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/shu-houzhu.md
+timeline:
+- year: '207'
+  date_note: 建安十二年
+  date_note_en: 12th year of Jian'an
+  title: 生
+  title_en: Birth
+  summary: 先主子，母甘夫人；长坂之役赖赵云得免于难。
+  summary_en: Son of the First Sovereign by Lady Gan; saved at the Changban disaster by Zhao Yun.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E001
+- year: '223'
+  date_note: 章武三年五月
+  date_note_en: 5th month, 3rd year of Zhangwu
+  title: 即位
+  title_en: Accession
+  summary: 先主崩，禅即位于成都，改元建兴；诸葛亮受遗诏辅政。
+  summary_en: On the First Sovereign's death, Shan took the throne at Chengdu and changed the era to Jianxing; Zhuge Liang governed as regent by the late will.
+  place_id: cheng-du
+  related_person_ids:
+  - shu-zhaolie
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E002
+- year: '225'
+  date_note: 建兴三年
+  date_note_en: 3rd year of Jianxing
+  title: 亮南征
+  title_en: Zhuge Liang's Southern Expedition
+  summary: 诸葛亮南征四郡，七擒孟获，南中平。
+  summary_en: Zhuge Liang campaigned into the southern commanderies, capturing Meng Huo seven times, and pacified the south.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 三国志·蜀书·诸葛亮传
+  card_id: E003
+- year: '227'
+  date_note: 建兴五年
+  date_note_en: 5th year of Jianxing
+  title: 出师北伐
+  title_en: The Northern Expeditions
+  summary: 亮上出师表，屯汉中，连年北伐曹魏。
+  summary_en: Zhuge Liang memorialized the *Chu Shi Biao*, garrisoned Hanzhong, and year after year campaigned north against Wei.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 三国志·蜀书·诸葛亮传
+  card_id: E004
+- year: '234'
+  date_note: 建兴十二年
+  date_note_en: 12th year of Jianxing
+  title: 诸葛亮卒
+  title_en: Death of Zhuge Liang
+  summary: 亮病卒于五丈原，蒋琬、费祎相继执政。
+  summary_en: Liang died of illness at the Wuzhang Plain; Jiang Wan and Fei Yi governed in turn.
+  place_id: wuzhang-yuan
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 三国志·蜀书·诸葛亮传
+  card_id: E005
+- year: '253'
+  date_note: 延熙十六年
+  date_note_en: 16th year of Yanxi
+  title: 姜维屡北伐
+  title_en: Jiang Wei's Repeated Campaigns
+  summary: 费祎死，姜维掌军，连年出陇西，多无大功，国力日耗。
+  summary_en: After Fei Yi's death Jiang Wei took the armies and campaigned into Longxi year after year with little gain, draining the state.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 三国志·蜀书·姜维传
+  card_id: E006
+- year: '261'
+  date_note: 景耀四年
+  date_note_en: 4th year of Jingyao
+  title: 黄皓用事
+  title_en: Huang Hao in Power
+  summary: 中常侍黄皓专权，政事日坏，姜维避祸屯田沓中。
+  summary_en: The eunuch Huang Hao dominated court affairs as they decayed; Jiang Wei, avoiding his malice, went to farm at Tazhong.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E007
+- year: '263'
+  date_note: 景耀六年
+  date_note_en: 6th year of Jingyao
+  title: 邓艾入蜀
+  title_en: Deng Ai Enters Shu
+  summary: 魏军三路大举，邓艾出阴平越险，克绵竹，兵临成都。
+  summary_en: Wei invaded on three roads; Deng Ai came by the Yinping track over impossible ground, took Mianzhu, and reached the gates of Chengdu.
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 三国志·魏书·邓艾传
+  card_id: E009
+- year: '263'
+  date_note: 景耀六年
+  date_note_en: 6th year of Jingyao
+  title: 刘禅降
+  title_en: The Surrender of Liu Shan
+  summary: 谯周劝降，禅舆榇出降，蜀汉亡，姜维假降后与钟会同败死。
+  summary_en: On Qiao Zhou's counsel Shan surrendered in his cart with the coffin; Shu Han perished, and Jiang Wei, feigning submission, perished with Zhong Hui.
+  place_id: cheng-du
+  related_person_ids:
+  - wei-yuan
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E008
+- year: '264'
+  date_note: 咸熙元年
+  date_note_en: 1st year of Xianxi
+  title: 封安乐公
+  title_en: Duke of Anle
+  summary: 举家迁洛阳，魏封安乐公，宴间答「此间乐，不思蜀」。
+  summary_en: Brought with his house to Luoyang, he was made Duke of Anle by Wei; at a banquet he answered, "I am happy here, and do not think of Shu."
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  - 汉晋春秋（裴注引）
+  card_id: E010
+- year: '271'
+  date_note: 泰始七年
+  date_note_en: 7th year of Taishi
+  title: 薨于洛阳
+  title_en: Death at Luoyang
+  summary: 薨于洛阳，晋谥曰思。
+  summary_en: He died at Luoyang and was posthumously styled Si by Jin.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E011
+- year: '271'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 任贤则治
+  title_en: Rule by Good Counsel
+  summary: 史评称任贤相则为循理之君，惑阉竖则为昏暗之后，政在得人。
+  summary_en: The histories judge that with worthy ministers he was a right-reasoning sovereign and, beguiled by eunuchs, a darkened one — governance lay in the men he chose.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷033·后主传
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: shu-zhaolie
+  note: 章武三年先主崩，太子禅即位
+- type: related_emperor
+  target_id: wei-yuan
+  note: 景耀六年降魏，受封安乐公
+routes:
+- group: 都城
+  order: 1
+  year: '223'
+  place_id: cheng-du
+  event: 即位
+- group: 其他
+  order: 2
+  year: '234'
+  place_id: wuzhang-yuan
+  event: 诸葛亮卒
+- group: 都城
+  order: 3
+  year: '263'
+  place_id: cheng-du
+  event: 邓艾入蜀
+- group: 都城
+  order: 4
+  year: '263'
+  place_id: cheng-du
+  event: 刘禅降
+- group: 都城
+  order: 5
+  year: '264'
+  place_id: luoyang
+  event: 封安乐公
+- group: 都城
+  order: 6
+  year: '271'
+  place_id: luoyang
+  event: 薨于洛阳
+sources:
+- title: 三国志·后主传
+  note: 主叙事
+- title: 三国志·诸葛亮传
+  note: 北伐与托孤互见
+- title: 三国志·姜维传
+  note: 北伐互见
+- title: 汉晋春秋（裴注引）
+  note: 乐不思蜀互见
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 蜀汉末帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,162 @@
+id: chen-wen
+tier: emperor
+sort_key: 陈-002
+names:
+  display: 陈文帝
+  display_en: Emperor Wen of Chen
+  personal: 陈蒨
+  personal_en: Chen Qian
+  temple: 世祖
+  posthumous: 文皇帝
+  aliases:
+  - 陈子华
+dynasty:
+  id: chen
+  label: 陈
+  sequence: 2
+reign:
+  start: '559'
+  end: '566'
+  eras:
+  - 天嘉
+  - 天康
+life:
+  birth: '522'
+  death: '566'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 武帝侄，永定三年即位，破王琳、安集江南，劝农省役，史称天嘉称治；天康元年崩，子伯宗继。
+summary_en: Nephew of Emperor Wu, he took the throne in the 3rd year of Yongding,
+  broke Wang Lin, and settled the south, urging farming and lightening corvée — the
+  "Tianjia recovery" of the histories. He died in the 1st year of Tiankang; his son
+  Bozong succeeded.
+tags:
+- 破王琳
+- 天嘉称治
+- 劝农省役
+- 保江表
+tags_en:
+- Breaking Wang Lin
+- Tianjia Recovery
+- Farming and Light Levies
+- Holding the South
+portrait:
+  primary: assets/portraits/chen-wen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现勤于政事的君主之态，衣冠从陈初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/chen-wen.md
+timeline:
+- year: '522'
+  date_note: 普通三年
+  date_note_en: 3rd year of Putong
+  title: 生
+  title_en: Birth
+  summary: 始兴昭烈王道谭长子，武帝侄。
+  summary_en: Eldest son of Xiao Daotan, Prince Zhaolie of Shixing, Emperor Wu's nephew.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 陈书·卷003·世祖纪
+  card_id: E001
+- year: '559'
+  date_note: 永定三年
+  date_note_en: 3rd year of Yongding
+  title: 即位
+  title_en: Accession
+  summary: 武帝崩，蒨即位，改元天嘉。
+  summary_en: On Emperor Wu's death Qian took the throne and changed the era to Tianjia.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '560'
+  date_note: 天嘉元年
+  date_note_en: 1st year of Tianjia
+  title: 破王琳
+  title_en: Breaking Wang Lin
+  summary: 王琳引齐兵败，陈疆稍定。
+  summary_en: Wang Lin, with Qi aid, was beaten, and Chen's borders were roughly fixed.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '563'
+  date_note: 天嘉中
+  date_note_en: mid-Tianjia
+  title: 安集江南
+  title_en: Settling the South
+  summary: 劝农省役，史称天嘉称治。
+  summary_en: Farming urged, corvée lightened — the histories call the Tianjia years
+    well governed.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '566'
+  date_note: 天康元年
+  date_note_en: 1st year of Tiankang
+  title: 文帝崩
+  title_en: Death of Emperor Wen
+  summary: 崩，子伯宗继，是为废帝。
+  summary_en: He died; his son Bozong succeeded — the Deposed Emperor.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '566'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 文帝总评
+  title_en: Final Verdict
+  summary: 有武略，能保江表。
+  summary_en: Of real military ability, he held the south of the river.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: chen-wu
+  note: 永定三年武帝崩，侄蒨即位
+- type: successor
+  target_id: chen-fei
+  note: 天康元年崩，子伯宗即位
+- type: kinship
+  target_id: chen-wu
+  note: 武帝侄，始兴昭烈王之子
+routes:
+- group: 都城
+  order: 1
+  year: '559'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '560'
+  place_id: null
+  event: 破王琳
+- group: 都城
+  order: 3
+  year: '563'
+  place_id: jian-kang
+  event: 安集江南
+- group: 都城
+  order: 4
+  year: '566'
+  place_id: jian-kang
+  event: 文帝崩
+sources:
+- title: 陈书·世祖纪
+  note: 主叙事
+- title: 资治通鉴·陈纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 陈朝第二帝，正史立纪。
+  synced_from_cards: true

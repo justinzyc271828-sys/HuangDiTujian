@@ -1,0 +1,149 @@
+id: liu-song-shao
+tier: emperor
+sort_key: 刘宋-002
+names:
+  display: 宋少帝
+  display_en: The Young Emperor of Song
+  personal: 刘义符
+  personal_en: Liu Yifu
+  temple: null
+  posthumous: null
+  aliases:
+  - 营阳王
+dynasty:
+  id: liu-song
+  label: 刘宋
+  sequence: 2
+reign:
+  start: '422'
+  end: '424'
+  eras:
+  - 景平
+life:
+  birth: '406'
+  death: '424'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 武帝长子，十七岁即位，游戏无度、不亲政事；景平二年为徐羡之等废为营阳王，旋被弑，开南朝权臣废立之例。
+summary_en: Eldest son of Emperor Wu, he took the throne at seventeen, playing endlessly
+  and neglecting government; in the 2nd year of Jingping Xu Xianzhi and the others
+  deposed him as Prince of Yingyang and soon slew him — the first deposition by ministers
+  of the southern dynasties.
+tags:
+- 幼主
+- 见废
+- 权臣废立
+- 游戏无度
+tags_en:
+- Young Sovereign
+- Deposed
+- Ministers' Deposition
+- Endless Play
+portrait:
+  primary: assets/portraits/liu-song-shao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现少年天子的轻佻之态，衣冠从刘宋初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liu-song-shao.md
+timeline:
+- year: '406'
+  date_note: 义熙二年
+  date_note_en: 2nd year of Yixi
+  title: 生
+  title_en: Birth
+  summary: 武帝长子，字车兵。
+  summary_en: Eldest son of Emperor Wu, styled Chebing.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 宋书·卷004·少帝纪
+  card_id: E001
+- year: '422'
+  date_note: 永初三年
+  date_note_en: 3rd year of Yongchu
+  title: 即位
+  title_en: Accession
+  summary: 武帝崩，义符即位，改元景平。
+  summary_en: On Emperor Wu's death Yifu took the throne and changed the era to Jingping.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '422'
+  date_note: 即位初
+  date_note_en: early reign
+  title: 辅政格局
+  title_en: The Regency
+  summary: 徐羡之、傅亮、谢晦、檀道济受遗辅政。
+  summary_en: Xu Xianzhi, Fu Liang, Xie Hui, and Tan Daoji governed by the late will.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '423'
+  date_note: 景平元年
+  date_note_en: 1st year of Jingping
+  title: 北魏取河南
+  title_en: Wei Takes Henan
+  summary: 司、兖、豫诸郡多陷魏，边事紧急。
+  summary_en: The commanderies of Si, Yan, and Yu mostly fell to Wei; the border was
+    in crisis.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '424'
+  date_note: 景平二年
+  date_note_en: 2nd year of Jingping
+  title: 被废弑
+  title_en: Deposed and Slain
+  summary: 徐羡之等废帝为营阳王，旋弑之，迎立义隆。
+  summary_en: Xu Xianzhi and the others deposed him as Prince of Yingyang and slew
+    him, bringing in Yilong.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '424'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 少帝总评
+  title_en: Final Verdict
+  summary: 史称游戏无度，不亲政事。
+  summary_en: The histories say he played endlessly and neglected government.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liu-song-wu
+  note: 永初三年武帝崩，太子义符即位
+- type: successor
+  target_id: liu-song-wen
+  note: 景平二年被废，迎立宜都王义隆
+routes:
+- group: 都城
+  order: 1
+  year: '422'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '424'
+  place_id: jian-kang
+  event: 被废弑
+sources:
+- title: 宋书·少帝纪
+  note: 主叙事
+- title: 资治通鉴·宋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 刘宋第二帝，正史立纪。
+  synced_from_cards: true

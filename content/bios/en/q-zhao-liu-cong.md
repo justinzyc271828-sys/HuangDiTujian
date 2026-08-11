@@ -1,0 +1,9 @@
+# Liu Cong, Ancestor Lie of Han (Former Zhao) · Principal Deeds
+
+Liu Cong, styled Zaiming, was the fourth son of Liu Yuan. In the 4th year of Yongjia he slew his brother He to take the throne, changing the era to Guangxing. His eight years reached the height of arms: in the 5th year of Yongjia he sent Liu Yao and Wang Mi to break Luoyang, capturing Emperor Huai and slaying over thirty thousand princes, officials, and people — the summit of the Yongjia disaster; in the 1st year of Jianxing the captive emperor, made to serve wine in servant's dress, was put to death at Pingyang; in the 4th year of Jianxing Liu Yao took Chang'an and captured Emperor Min — Western Jin was at an end, and the north had passed to the barbarian and half-barbarian states.
+
+His rule was tyranny: the records harp on his boundless hunting and extravagant harem, his favoring of the flatterer Jin Zhun; and he put Emperor Min to death without scruple. In the 3rd year of Linjia he died; his son Can succeeded and was at once slain by Jin Zhun, and the realm split — Liu Yao took the throne at Chang'an and renamed the realm Zhao, while Shi Le styled himself King of Zhao at Xiangguo: the age of Former Zhao and Later Zhao had begun.
+
+For destroying the Jin, Cong stands first in arms among the Five Barbarian sovereigns; but he "won the realm without benevolence," and his tyranny brought the Xiongnu Han state low within two generations. His destruction of Western Jin opened the full age of the Sixteen States: the north would know no unity, and the southern courts' long isolation was fixed.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 102 (records of Liu Cong), ch. 5 ("Benji of Emperor Huai") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

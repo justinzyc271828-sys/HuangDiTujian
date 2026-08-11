@@ -1,0 +1,9 @@
+# Emperor Yuan of Wei · Principal Deeds
+
+Cao Huan, styled Jingming, was a grandson of Emperor Wu, son of Cao Yu, prince of Yan, enfeoffed Marquis of Changdao District. After the slaying of the Duke of Gaogui District, Sima Zhao installed Huan at fifteen, changing the era to Jingyuan. Mindful of his predecessor's fate, Huan kept a compliant silence, assenting to everything: in the 4th year of Jingyuan, on his edict, Zhong Hui and Deng Ai invaded and destroyed Shu; in the 5th year, Zhong Hui rebelled from Shu and was killed in a mutiny, and Deng Ai was put to death by Wei Guan. The conquest of Shu redounded wholly to the Simas; the emperor only nodded.
+
+In the eighth month of the 2nd year of Xianxi Sima Zhao died, and his son Yan succeeded to the kingship of Jin. That December Yan received the abdication; Huan stepped down, was enfeoffed Duke of Chenliu, and the Wei altars, after forty-five years, came to an end. In the 1st year of Tai'an he died at Luoyang at fifty-seven, and Jin buried him with princely rites at Ye, posthumously styled Yuan.
+
+Wei did not fall to its last emperor but to the long drift that began at Gaopingling: from Fang to Mao to Huan, three sovereigns sat at the mercy of deposition. The historians write that Wei's loss of government began with Wen and Ming's regency trust and was completed at Gaopingling. Huan's abdication mirrors his house's own act — Emperor Xian had abdicated to Cao, and Cao Huan abdicated to the Simas: the wheel turned, and the historians mark the irony that Wen of Wei, who took the throne on the Fanyang altar, saw his descendants bow to the south as vassals.
+
+> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 3 ("Benji of Emperor Ming"), and the *Jinshu*, ch. 3 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

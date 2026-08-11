@@ -1,0 +1,12 @@
+id: fang-tou
+names:
+  historical: 枋头
+  modern: 河南省鹤壁市浚县西南
+  english: Fangtou
+coords:
+  lng: 114.3
+  lat: 35.68
+  precision: schematic
+map:
+  region: 司州
+notes: 桓温北伐前燕粮尽败退处

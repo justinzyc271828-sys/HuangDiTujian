@@ -1,0 +1,161 @@
+id: q-zhao-liu-yao
+tier: quasi
+sort_key: 赵（前赵）-001
+names:
+  display: 赵（前赵）主
+  display_en: Liu Yao, Sovereign of Zhao (Former Zhao)
+  personal: 刘曜
+  personal_en: Liu Yao
+  temple: null
+  posthumous: null
+  aliases:
+  - 刘永明
+dynasty:
+  id: q-zhao
+  label: 前赵
+  sequence: 3
+reign:
+  start: '318'
+  end: '329'
+  eras:
+  - 光初
+life:
+  birth: null
+  death: '329'
+  birth_place_id: null
+  death_place_id: null
+summary: 靳准之乱后即帝位，迁都长安，改国号赵，立太学、造浑仪；太宁三年与石勒决战洛阳，兵败被俘，翌年遇害，前赵亡。
+summary_en: After the Jin Zhun troubles he took the throne, moved the capital to Chang'an,
+  and changed the realm's name to Zhao, founding an academy and casting an armillary
+  sphere; in the 3rd year of Taining he met Shi Le at Luoyang, was taken prisoner,
+  and died the next year — Former Zhao was at an end.
+tags:
+- 定都长安
+- 兴学
+- 洛阳败亡
+- 前赵末主
+tags_en:
+- Capital at Chang'an
+- Founding an Academy
+- Ruin at Luoyang
+- Last of Former Zhao
+portrait:
+  primary: assets/portraits/q-zhao-liu-yao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现勇武而少谋的胡族君主之态，衣冠从汉赵制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-zhao-liu-yao.md
+timeline:
+- year: '318'
+  date_note: 太兴元年
+  date_note_en: 1st year of Taixing
+  title: 继位改号赵
+  title_en: The Throne and the Name Zhao
+  summary: 靳准之乱后，曜即皇帝位，迁都长安，改国号赵。
+  summary_en: After the Jin Zhun troubles Yao took the throne, moved the capital to
+    Chang'an, and renamed the realm Zhao.
+  place_id: chang-an
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷103·刘曜载记
+  card_id: E001
+- year: '320'
+  date_note: 太兴前后
+  date_note_en: c. Taixing
+  title: 关中经营
+  title_en: Holding Guanzhong
+  summary: 讨平关中氐羌等反抗，巩固长安基地。
+  summary_en: He subdued the Di and Qiang risings in Guanzhong and secured his base
+    at Chang'an.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '328'
+  date_note: 太宁三年
+  date_note_en: 3rd year of Taining
+  title: 洛阳大战
+  title_en: The Battle of Luoyang
+  summary: 与石勒决战洛阳城西，兵败被俘。
+  summary_en: He fought Shi Le to the west of Luoyang, was routed, and taken prisoner.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '329'
+  date_note: 太宁四年
+  date_note_en: 4th year of Taining
+  title: 被杀国亡
+  title_en: Death and the Fall of the Realm
+  summary: 刘曜被杀，前赵亡于后赵。
+  summary_en: Liu Yao was put to death, and Former Zhao fell to Later Zhao.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '329'
+  date_note: 文化
+  date_note_en: culture
+  title: 兴学与碑
+  title_en: Academy and Instruments
+  summary: 史载立太学、造浑仪等；亦以好杀见讥。
+  summary_en: The records credit him with founding an academy and casting instruments
+    — and censure his love of killing.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '329'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 曜总评
+  title_en: Final Verdict
+  summary: 勇武有余，谋略不逮石勒，终败洛阳。
+  summary_en: His courage exceeded his counsel, which fell short of Shi Le's — and
+    so he perished at Luoyang.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: q-zhao-liu-cong
+  note: 靳准之乱后即帝位于长安
+- type: related_emperor
+  target_id: h-zhao-shi-le
+  note: 与后赵石勒争雄，败亡洛阳
+routes:
+- group: 都城
+  order: 1
+  year: '318'
+  place_id: chang-an
+  event: 继位改号赵
+- group: 其他
+  order: 2
+  year: '320'
+  place_id: chang-an
+  event: 关中经营
+- group: 亲征
+  order: 3
+  year: '328'
+  place_id: luoyang
+  event: 洛阳大战
+- group: 都城
+  order: 4
+  year: '329'
+  place_id: null
+  event: 被杀国亡
+sources:
+- title: 晋书·刘曜载记
+  note: 主叙事
+- title: 晋书·石勒载记
+  note: 洛阳决战互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 前赵末主，败亡于后赵，图鉴以准帝收录。
+  synced_from_cards: true

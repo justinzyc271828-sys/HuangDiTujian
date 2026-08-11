@@ -1,0 +1,164 @@
+id: h-liang-lv-guang
+tier: quasi
+sort_key: 后凉-001
+names:
+  display: 后凉懿武帝
+  display_en: Lü Guang, Martial Emperor of Later Liang
+  personal: 吕光
+  personal_en: Lü Guang
+  temple: 太祖
+  posthumous: 懿武皇帝
+  aliases:
+  - 吕世明
+dynasty:
+  id: h-liang
+  label: 后凉
+  sequence: 1
+reign:
+  start: '386'
+  end: '399'
+  eras:
+  - 太安
+  - 麟嘉
+  - 龙飞
+life:
+  birth: '338'
+  death: '399'
+  birth_place_id: null
+  death_place_id: gu-zang
+summary: 略阳氐，苻坚大将；建元十九年征西域，破龟兹，得鸠摩罗什；东还闻苻坚败，据姑臧自立，称凉州牧，后称三河王、天王；承康元年崩，诸子争立，后凉分裂。
+summary_en: A Di of Lüeyang and a general of Fu Jian; in the 19th year of Jianyuan
+  he campaigned in the Western Regions, broke Kucha, and brought back Kumarajiva;
+  returning east on word of Fu Jian's fall, he held Guzang, styled himself Governor
+  of Liangzhou, then King of the Three Rivers and Heavenly King. He died in the 1st
+  year of Chengkang as his sons fought — Later Liang split apart.
+tags:
+- 征西域
+- 据姑臧
+- 后凉开国
+- 分裂
+tags_en:
+- The Western Campaign
+- Holding Guzang
+- Founder of Later Liang
+- Dismemberment
+portrait:
+  primary: assets/portraits/h-liang-lv-guang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现远征老将的雄武之态，衣冠从氐族入华制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/h-liang-lv-guang.md
+timeline:
+- year: '338'
+  date_note: 约年
+  date_note_en: c. 338
+  title: 生
+  title_en: Birth
+  summary: 略阳氐，苻坚大将。
+  summary_en: A Di of Lüeyang, a general of Fu Jian.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷122·吕光载记
+  card_id: E001
+- year: '383'
+  date_note: 建元十九年
+  date_note_en: 19th year of Jianyuan
+  title: 征西域
+  title_en: The Western Campaign
+  summary: 奉坚命征西域，破龟兹，得鸠摩罗什。
+  summary_en: By Fu Jian's order he campaigned in the Western Regions, broke Kucha,
+    and gained Kumarajiva.
+  place_id: xi-yu
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '385'
+  date_note: 太安元年
+  date_note_en: 1st year of Tai'an
+  title: 还据凉州
+  title_en: Holding Liangzhou
+  summary: 东还闻坚败，据姑臧自立。
+  summary_en: Returning east on word of Jian's fall, he held Guzang and stood on his
+    own.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '386'
+  date_note: 太安二年
+  date_note_en: 2nd year of Tai'an
+  title: 称凉州牧
+  title_en: Governor of Liangzhou
+  summary: 自号凉州牧、酒泉公等。
+  summary_en: He styled himself Governor of Liangzhou, Duke of Jiuquan, and the rest.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '396'
+  date_note: 龙飞元年
+  date_note_en: 1st year of Longfei
+  title: 称天王
+  title_en: Heavenly King
+  summary: 即三河王位，后称天王。
+  summary_en: He took the title King of the Three Rivers, later Heavenly King.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '399'
+  date_note: 承康元年
+  date_note_en: 1st year of Chengkang
+  title: 吕光崩
+  title_en: Death of Lü Guang
+  summary: 崩，诸子争立，后凉分裂。
+  summary_en: He died; his sons fought, and Later Liang split apart.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: q-qin-fu-jian
+  note: 苻坚大将，坚败后据凉自立
+routes:
+- group: 其他
+  order: 1
+  year: '383'
+  place_id: xi-yu
+  event: 征西域
+- group: 都城
+  order: 2
+  year: '385'
+  place_id: gu-zang
+  event: 还据凉州
+- group: 都城
+  order: 3
+  year: '386'
+  place_id: gu-zang
+  event: 称凉州牧
+- group: 都城
+  order: 4
+  year: '396'
+  place_id: gu-zang
+  event: 称天王
+- group: 都城
+  order: 5
+  year: '399'
+  place_id: gu-zang
+  event: 吕光崩
+sources:
+- title: 晋书·吕光载记
+  note: 主叙事
+- title: 高僧传·鸠摩罗什
+  note: 征西域得罗什互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 后凉开国君主，图鉴以准帝收录。
+  synced_from_cards: true

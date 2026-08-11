@@ -1,0 +1,156 @@
+id: q-yan-murong-huang
+tier: quasi
+sort_key: 前燕-001
+names:
+  display: 前燕文明帝
+  display_en: Murong Huang, Emperor Wenming of Former Yan
+  personal: 慕容皝
+  personal_en: Murong Huang
+  temple: 太祖
+  posthumous: 文明皇帝
+  aliases:
+  - 慕容元真
+dynasty:
+  id: q-yan
+  label: 前燕
+  sequence: 1
+reign:
+  start: '337'
+  end: '348'
+  eras:
+  - 燕王元年
+  - 燕元
+life:
+  birth: '297'
+  death: '348'
+  birth_place_id: null
+  death_place_id: long-cheng
+summary: 慕容廆之子，嗣辽东公，自称燕王，筑龙城而都之，破宇文部、拓辽西，前燕王政自此始；永和四年崩，子儁继。
+summary_en: Son of Murong Hui, he succeeded as Duke of Liaodong, styled himself King
+  of Yan, built Longcheng as his capital, broke the Yuwen tribe, and extended Liaoxi
+  — the kingship of Former Yan began here; he died in the 4th year of Yonghe and his
+  son Jun succeeded.
+tags:
+- 辽东称王
+- 筑龙城
+- 破宇文
+- 鲜卑慕容
+tags_en:
+- King of Liaodong
+- Building Longcheng
+- Breaking the Yuwen
+- The Murong Xianbei
+portrait:
+  primary: assets/portraits/q-yan-murong-huang/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现英武有略的鲜卑君主之态，衣冠从慕容部制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-yan-murong-huang.md
+timeline:
+- year: '297'
+  date_note: 约年
+  date_note_en: c. 297
+  title: 生
+  title_en: Birth
+  summary: 慕容廆子，字元真。鲜卑慕容部。
+  summary_en: Son of Murong Hui, styled Yuanzhen, of the Murong Xianbei.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷109·慕容皝载记
+  card_id: E001
+- year: '333'
+  date_note: 咸和八年
+  date_note_en: 8th year of Xianhe
+  title: 嗣辽东公
+  title_en: Duke of Liaodong
+  summary: 廆死，皝嗣，讨平内乱。
+  summary_en: Hui died; Huang succeeded and put down the internal troubles.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '337'
+  date_note: 咸康三年
+  date_note_en: 3rd year of Xiankang
+  title: 称燕王
+  title_en: King of Yan
+  summary: 自称燕王，前燕王政开始。
+  summary_en: He styled himself King of Yan — the kingship of Former Yan began.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '342'
+  date_note: 建元前后
+  date_note_en: c. Jianyuan
+  title: 迁都龙城
+  title_en: Capital at Longcheng
+  summary: 筑龙城而都之，开拓辽西。
+  summary_en: He built Longcheng and made it his capital, opening up Liaoxi.
+  place_id: long-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '344'
+  date_note: 建元中
+  date_note_en: mid-Jianyuan
+  title: 破宇文等
+  title_en: Breaking the Yuwen
+  summary: 破宇文部等，辽东霸权巩固。
+  summary_en: He broke the Yuwen tribe and the rest, and his hegemony in Liaodong
+    was fixed.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '348'
+  date_note: 永和四年
+  date_note_en: 4th year of Yonghe
+  title: 慕容皝崩
+  title_en: Death of Murong Huang
+  summary: 崩，子儁继。
+  summary_en: He died; his son Jun succeeded.
+  place_id: long-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: successor
+  target_id: q-yan-murong-jun
+  note: 永和四年崩，子儁继位
+routes:
+- group: 都城
+  order: 1
+  year: '337'
+  place_id: null
+  event: 称燕王
+- group: 都城
+  order: 2
+  year: '342'
+  place_id: long-cheng
+  event: 迁都龙城
+- group: 其他
+  order: 3
+  year: '344'
+  place_id: null
+  event: 破宇文等
+- group: 都城
+  order: 4
+  year: '348'
+  place_id: long-cheng
+  event: 慕容皝崩
+sources:
+- title: 晋书·慕容皝载记
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 前燕开国之王，图鉴以准帝收录。
+  synced_from_cards: true

@@ -1,0 +1,244 @@
+id: e-jin-cheng
+tier: emperor
+sort_key: 东晋-003
+names:
+  display: 晋成帝
+  display_en: Emperor Cheng of Jin
+  personal: 司马衍
+  personal_en: Sima Yan
+  temple: 显宗
+  posthumous: 成皇帝
+  aliases:
+  - 晋成帝司马衍
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 3
+reign:
+  start: '325'
+  end: '342'
+  eras:
+  - 咸和
+  - 咸康
+life:
+  birth: '321'
+  death: '342'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 五岁即位，庾后临朝、庾亮执政；咸和年间苏峻之乱，台城倾覆、帝蒙尘，赖陶侃等平乱复辟；后委政大臣，在位十七年。
+summary_en: Ascending at five, he sat under Empress Yu's regency and Yu Liang's government; in the Xianhe years the Su Jun revolt saw the palace taken and the emperor carried off, until Tao Kan and the others put it down; thereafter he left rule to his ministers, reigning seventeen years.
+tags:
+- 幼主
+- 苏峻之乱
+- 台城蒙尘
+- 庾氏执政
+tags_en:
+- Child Sovereign
+- Su Jun Revolt
+- The Palace Taken
+- Yu Clan Regency
+portrait:
+  primary: assets/portraits/e-jin-cheng/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '晋书载「帝少而聪敏，有成人之量」。画像宜表现冲龄即位、渐至成年的君主之态，衣冠从东晋初制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-cheng.md
+timeline:
+- year: '321'
+  date_note: 太兴四年
+  date_note_en: 4th year of Taixing
+  title: 生
+  title_en: Birth
+  summary: 明帝长子，母庾皇后。
+  summary_en: Eldest son of Emperor Ming by Empress Yu.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E001
+- year: '325'
+  date_note: 太宁三年
+  date_note_en: 3rd year of Taining
+  title: 即位
+  title_en: Accession
+  summary: 明帝崩，衍即位，年五岁，庾太后临朝，庾亮执政。
+  summary_en: On Emperor Ming's death Yan took the throne at five, Empress Yu holding court and Yu Liang the government.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-ming
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E002
+- year: '326'
+  date_note: 咸和元年
+  date_note_en: 1st year of Xianhe
+  title: 庾亮欲征苏峻
+  title_en: Yu Liang Moves against Su Jun
+  summary: 庾亮谋夺苏峻兵权，决策激变。
+  summary_en: Yu Liang's move to strip Su Jun of his troops set off the storm.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·庾亮传
+  card_id: E003
+- year: '327'
+  date_note: 咸和二年
+  date_note_en: 2nd year of Xianhe
+  title: 苏峻反
+  title_en: Su Jun's Revolt
+  summary: 苏峻、祖约起兵反，庾亮败。
+  summary_en: Su Jun and Zu Yue rose in revolt, and Yu Liang was beaten.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E004
+- year: '328'
+  date_note: 咸和三年
+  date_note_en: 3rd year of Xianhe
+  title: 建康倾覆
+  title_en: The Fall of Jiankang
+  summary: 峻攻陷台城，帝蒙尘，温峤、陶侃起兵。
+  summary_en: Jun stormed the palace, the emperor was carried off, and Wen Qiao and Tao Kan rose in arms.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E005
+- year: '329'
+  date_note: 咸和四年
+  date_note_en: 4th year of Xianhe
+  title: 平苏峻
+  title_en: The Pacification of Su Jun
+  summary: 陶侃等讨平苏峻，帝还宫。
+  summary_en: Tao Kan and the others destroyed Su Jun, and the emperor returned to his palace.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E006
+- year: '330'
+  date_note: 咸和五年
+  date_note_en: 5th year of Xianhe
+  title: 修苑城
+  title_en: Rebuilding the Palace Parks
+  summary: 乱后修复宫苑。
+  summary_en: He rebuilt the palace and parks after the war.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E007
+- year: '335'
+  date_note: 咸康元年
+  date_note_en: 1st year of Xiankang
+  title: 石虎寇历阳
+  title_en: Shi Hu Raids Liyang
+  summary: 后赵石虎南寇历阳，江淮戒严。
+  summary_en: Shi Hu of Later Zhao raided Liyang, and the Jiang-Huai region went on alert.
+  place_id: li-yang
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E008
+- year: '338'
+  date_note: 咸康四年
+  date_note_en: 4th year of Xiankang
+  title: 慕容皝称燕王
+  title_en: Murong Huang King of Yan
+  summary: 辽东慕容皝称燕王，坐大。
+  summary_en: Murong Huang of Liaodong styled himself King of Yan and grew strong.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E009
+- year: '341'
+  date_note: 咸康七年
+  date_note_en: 7th year of Xiankang
+  title: 实编户
+  title_en: Registering the People
+  summary: 诏实编户，土断议论渐起。
+  summary_en: He ordered the household registers filled, and the talk of local registration began.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E010
+- year: '342'
+  date_note: 咸康八年六月
+  date_note_en: 6th month, 8th year of Xiankang
+  title: 成帝崩
+  title_en: Death of Emperor Cheng
+  summary: 崩，弟岳即位（康帝）。
+  summary_en: He died, and his younger brother Yue took the throne as Emperor Kang.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-kang
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E011
+- year: '342'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 成帝总评
+  title_en: Final Verdict
+  summary: 史臣评其少即大位，苏峻乱后委政大臣，谦恭而已。
+  summary_en: The historians note his accession in childhood and, after the Su Jun revolt, his leaving government to the ministers — a modest sovereign and nothing more.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷007·成帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: e-jin-ming
+  note: 太宁三年明帝崩，太子衍即位
+- type: successor
+  target_id: e-jin-kang
+  note: 咸康八年崩，弟岳即位
+- type: kinship
+  target_id: e-jin-ming
+  note: 明帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '325'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '328'
+  place_id: jian-kang
+  event: 建康倾覆
+- group: 都城
+  order: 3
+  year: '329'
+  place_id: jian-kang
+  event: 平苏峻
+- group: 其他
+  order: 4
+  year: '335'
+  place_id: li-yang
+  event: 石虎寇历阳
+- group: 都城
+  order: 5
+  year: '342'
+  place_id: jian-kang
+  event: 成帝崩
+sources:
+- title: 晋书·成帝纪
+  note: 主叙事
+- title: 晋书·庾亮传
+  note: 苏峻事互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第三帝，正史立纪。
+  synced_from_cards: true

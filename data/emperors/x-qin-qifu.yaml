@@ -1,0 +1,150 @@
+id: x-qin-qifu
+tier: quasi
+sort_key: 西秦-001
+names:
+  display: 西秦烈祖
+  display_en: Qifu Guoren, Ancestor Lie of Western Qin
+  personal: 乞伏国仁
+  personal_en: Qifu Guoren
+  temple: 烈祖
+  posthumous: 宣烈王
+  aliases: []
+dynasty:
+  id: x-qin
+  label: 西秦
+  sequence: 1
+reign:
+  start: '385'
+  end: '388'
+  eras:
+  - 建义
+life:
+  birth: null
+  death: '388'
+  birth_place_id: null
+  death_place_id: null
+summary: 陇西鲜卑乞伏部首领，淝水战后据苑川称大单于，击破邻近鲜卑诸部，受前秦官爵；建义四年崩，弟乾归继，西秦延续。
+summary_en: Chief of the Qifu Xianbei of Longxi, after the Fei River defeat he held
+  Yuanchuan and styled himself Great Chanyu, broke the neighboring Xianbei tribes,
+  and accepted Former Qin's titles; he died in the 4th year of Jianyi, his brother
+  Gangui carrying on Western Qin.
+tags:
+- 陇西鲜卑
+- 据苑川
+- 草创
+- 短祚
+tags_en:
+- Longxi Xianbei
+- Holding Yuanchuan
+- Rough Founding
+- Brief Reign
+portrait:
+  primary: assets/portraits/x-qin-qifu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现草创之主的质朴勇武，衣冠从乞伏部制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/x-qin-qifu.md
+timeline:
+- year: '385'
+  date_note: 建义元年
+  date_note_en: 1st year of Jianyi
+  title: 称大单于
+  title_en: Great Chanyu
+  summary: 陇西鲜卑，淝水后据苑川，称大单于。
+  summary_en: A Longxi Xianbei, after the Fei River he held Yuanchuan and styled himself
+    Great Chanyu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷125·乞伏国仁载记
+  card_id: E001
+- year: '386'
+  date_note: 建义二年
+  date_note_en: 2nd year of Jianyi
+  title: 讨鲜卑诸部
+  title_en: Against the Xianbei Tribes
+  summary: 击破邻近鲜卑部落，拓地。
+  summary_en: He broke the neighboring Xianbei tribes and extended his lands.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '387'
+  date_note: 建义中
+  date_note_en: mid-Jianyi
+  title: 受前秦官爵
+  title_en: Titles from Former Qin
+  summary: 苻登拜苑川王等，与关陇诸政权互动。
+  summary_en: Fu Deng made him King of Yuanchuan and the like, as he dealt with the
+    powers of Guanzhong and Longxi.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '388'
+  date_note: 建义四年
+  date_note_en: 4th year of Jianyi
+  title: 国仁崩
+  title_en: Death of Guoren
+  summary: 崩，弟乾归继，西秦延续。
+  summary_en: He died; his brother Gangui succeeded, and Western Qin continued.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '388'
+  date_note: 族属
+  date_note_en: tribe
+  title: 陇西鲜卑
+  title_en: The Longxi Xianbei
+  summary: 乞伏部世居陇西，为西秦政权基础。
+  summary_en: The Qifu tribe dwelt long in Longxi — the foundation of Western Qin.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '388'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 国仁总评
+  title_en: Final Verdict
+  summary: 开国草创，享国短促。
+  summary_en: A rough founding, and the realm's years were few.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: q-qin-fu-jian
+  note: 受前秦官爵，与关陇诸政权互动
+routes:
+- group: 都城
+  order: 1
+  year: '385'
+  place_id: null
+  event: 称大单于
+- group: 其他
+  order: 2
+  year: '386'
+  place_id: null
+  event: 讨鲜卑诸部
+- group: 都城
+  order: 3
+  year: '388'
+  place_id: null
+  event: 国仁崩
+sources:
+- title: 晋书·乞伏国仁载记
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西秦开国君主，图鉴以准帝收录。
+  synced_from_cards: true

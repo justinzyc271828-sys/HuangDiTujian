@@ -1,0 +1,204 @@
+id: liu-song-wen
+tier: emperor
+sort_key: 刘宋-003
+names:
+  display: 宋文帝
+  display_en: Emperor Wen of Song
+  personal: 刘义隆
+  personal_en: Liu Yilong
+  temple: 太祖
+  posthumous: 文皇帝
+  aliases:
+  - 刘车儿
+dynasty:
+  id: liu-song
+  label: 刘宋
+  sequence: 3
+reign:
+  start: '424'
+  end: '453'
+  eras:
+  - 元嘉
+life:
+  birth: '407'
+  death: '453'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 少帝废后自江陵入继，诛徐羡之等亲政；元嘉三十年治世，劝农兴学、户口蕃息，史称「元嘉之治」；然元嘉北伐两败，晚年立嗣不明，为太子劭所弑。
+summary_en: Entering from Jiangling after the Young Emperor's deposition, he slew
+  Xu Xianzhi and the others to rule in person; his thirty years of the Yuanjia era
+  — encouraging farming and learning, households multiplying — are the celebrated
+  "Yuanjia recovery"; but the Yuanjia expeditions failed twice, and in his last years,
+  his succession unsecured, he was slain by his own heir Shao.
+tags:
+- 元嘉之治
+- 劝农兴学
+- 北伐
+- 见弑
+tags_en:
+- Yuanjia Recovery
+- Farming and Learning
+- Northern Expeditions
+- Slain
+portrait:
+  primary: assets/portraits/liu-song-wen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现仁厚而多疑的中年君主之态，衣冠从刘宋中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liu-song-wen.md
+timeline:
+- year: '407'
+  date_note: 义熙三年
+  date_note_en: 3rd year of Yixi
+  title: 生
+  title_en: Birth
+  summary: 武帝第三子，字车儿。
+  summary_en: Third son of Emperor Wu, styled Che'er.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 宋书·卷005·文帝纪
+  card_id: E001
+- year: '424'
+  date_note: 元嘉元年
+  date_note_en: 1st year of Yuanjia
+  title: 即位
+  title_en: Accession
+  summary: 少帝废，义隆自江陵入建康即位，改元元嘉。
+  summary_en: The Young Emperor deposed, Yilong came from Jiangling to Jiankang, took
+    the throne, and changed the era to Yuanjia.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '426'
+  date_note: 元嘉三年
+  date_note_en: 3rd year of Yuanjia
+  title: 讨徐羡之等
+  title_en: Against Xu Xianzhi and the Rest
+  summary: 诛徐羡之、傅亮，讨谢晦于江陵，亲政。
+  summary_en: He slew Xu Xianzhi and Fu Liang, marched against Xie Hui at Jiangling,
+    and ruled in person.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '430'
+  date_note: 元嘉七年
+  date_note_en: 7th year of Yuanjia
+  title: 到彦之北伐
+  title_en: Dao Yanzhi's Expedition
+  summary: 遣到彦之北伐，初复河南，冬复失。
+  summary_en: He sent Dao Yanzhi north; Henan was at first recovered, then lost again
+    that winter.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '439'
+  date_note: 元嘉十六年
+  date_note_en: 16th year of Yuanjia
+  title: 立四学
+  title_en: The Four Academies
+  summary: 玄、史、文、儒四学并建。
+  summary_en: He established the four academies of Metaphysics, History, Letters,
+    and Confucianism.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '445'
+  date_note: 元嘉中
+  date_note_en: mid-Yuanjia
+  title: 元嘉之治
+  title_en: The Yuanjia Recovery
+  summary: 劝农兴学，史称「余粮栖亩」，为南朝小康。
+  summary_en: Farming encouraged, learning furthered, "grain left standing in the
+    fields" — the southern dynasties' one era of modest plenty.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '450'
+  date_note: 元嘉二十七年
+  date_note_en: 27th year of Yuanjia
+  title: 北伐与魏太武南牧
+  title_en: The Expedition and the Emperor Taiwu's Ride South
+  summary: 遣王玄谟等北伐败绩，太武帝拓跋焘南抵瓜步。
+  summary_en: Wang Xuanmo's expedition failed; Emperor Taiwu of Wei rode south to
+    Guabu itself.
+  place_id: gua-bu
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+- year: '453'
+  date_note: 元嘉三十年
+  date_note_en: 30th year of Yuanjia
+  title: 为太子劭所弑
+  title_en: Slain by the Heir Shao
+  summary: 太子刘劭弑帝于合殿，武陵王骏起兵讨之。
+  summary_en: The heir Liu Shao slew the emperor in the He Hall; the Prince of Wuling,
+    Jun, rose against him.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E008
+- year: '453'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 文帝总评
+  title_en: Final Verdict
+  summary: 史称聪明仁厚，元嘉称治；北伐操之过急。
+  summary_en: The histories call him sharp and benevolent, his Yuanjia years well
+    governed — but his expeditions were too hasty.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E009
+relations:
+- type: predecessor
+  target_id: liu-song-shao
+  note: 少帝废，自江陵入继
+- type: successor
+  target_id: liu-song-xiao
+  note: 元嘉三十年见弑，武陵王骏讨逆即位
+routes:
+- group: 都城
+  order: 1
+  year: '424'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '439'
+  place_id: jian-kang
+  event: 立四学
+- group: 都城
+  order: 3
+  year: '445'
+  place_id: jian-kang
+  event: 元嘉之治
+- group: 其他
+  order: 4
+  year: '450'
+  place_id: gua-bu
+  event: 北伐与魏太武南牧
+- group: 都城
+  order: 5
+  year: '453'
+  place_id: jian-kang
+  event: 为太子劭所弑
+sources:
+- title: 宋书·文帝纪
+  note: 主叙事
+- title: 魏书·世祖纪
+  note: 瓜步之役互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 刘宋第三帝，元嘉之治之主，正史立纪。
+  synced_from_cards: true

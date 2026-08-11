@@ -1,0 +1,12 @@
+id: xi-yu
+names:
+  historical: 西域
+  modern: 今新疆及中亚一带
+  english: The Western Regions
+coords:
+  lng: 86.0
+  lat: 41.0
+  precision: schematic
+map:
+  region: 西域
+notes: 吕光征西域破龟兹，得鸠摩罗什

@@ -1,0 +1,12 @@
+id: yong-an
+names:
+  historical: 永安
+  modern: 重庆市奉节县
+  english: Yongan
+coords:
+  lng: 109.46
+  lat: 31.02
+  precision: schematic
+map:
+  region: 益州
+notes: 刘备病崩于此，鱼复改名永安

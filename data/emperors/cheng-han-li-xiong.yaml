@@ -1,0 +1,156 @@
+id: cheng-han-li-xiong
+tier: quasi
+sort_key: 成汉-001
+names:
+  display: 成汉太宗
+  display_en: Li Xiong, Grand Ancestor of Cheng Han
+  personal: 李雄
+  personal_en: Li Xiong
+  temple: 太宗
+  posthumous: 武皇帝
+  aliases:
+  - 李仲俊
+dynasty:
+  id: cheng-han
+  label: 成汉
+  sequence: 1
+reign:
+  start: '304'
+  end: '334'
+  eras:
+  - 建兴
+  - 晏平
+  - 玉衡
+life:
+  birth: '274'
+  death: '334'
+  birth_place_id: null
+  death_place_id: cheng-du
+summary: 巴氐流民首领李特之子，继统部众，称成都王、即帝位，国号大成，都成都；在位三十年，赋役较轻、蜀人安之，为十六国中最善治者之一。
+summary_en: Son of the Ba-Di refugee leader Li Te, he took over the host, styled himself
+  King of Chengdu, then emperor of the realm Dacheng with its capital at Chengdu;
+  in thirty years of light levies and easy rule the Shu people were content — one
+  of the most benign of the Sixteen States' sovereigns.
+tags:
+- 宽政
+- 巴氐
+- 成汉开国
+- 安蜀
+tags_en:
+- Benevolent Rule
+- Ba-Di People
+- Founder of Cheng Han
+- Pacifying Shu
+portrait:
+  primary: assets/portraits/cheng-han-li-xiong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽厚有度的开国之君之态，衣冠从成汉制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/cheng-han-li-xiong.md
+timeline:
+- year: '274'
+  date_note: 约年
+  date_note_en: c. 274
+  title: 生
+  title_en: Birth
+  summary: 巴氐李特子，字仲俊。随特入蜀。
+  summary_en: Son of the Ba-Di leader Li Te, styled Zhongjun; he followed Te into
+    Shu.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷121·李雄载记
+  card_id: E001
+- year: '303'
+  date_note: 太安二年
+  date_note_en: 2nd year of Tai'an
+  title: 继统流民军
+  title_en: Command of the Refugee Host
+  summary: 李特死，雄继统部众，与罗尚等相攻。
+  summary_en: Li Te died; Xiong took command and fought Luo Shang and the others.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '304'
+  date_note: 建兴元年
+  date_note_en: 1st year of Jianxing
+  title: 称成都王
+  title_en: King of Chengdu
+  summary: 即成都王位，建元，成汉政权成形。
+  summary_en: He took the title King of Chengdu, opened an era, and the Cheng Han
+    state took shape.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '306'
+  date_note: 晏平元年
+  date_note_en: 1st year of Yanping
+  title: 称帝
+  title_en: The Imperial Throne
+  summary: 即皇帝位，国号大成，都成都。
+  summary_en: He took the imperial throne, styled the realm Dacheng, and made Chengdu
+    his capital.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '314'
+  date_note: 玉衡前后
+  date_note_en: c. Yuheng
+  title: 宽政安蜀
+  title_en: Benevolent Rule in Shu
+  summary: 史称赋役较轻，蜀人安之。
+  summary_en: The histories record light levies and corvée, and the people of Shu
+    at peace.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '334'
+  date_note: 玉衡二十四年
+  date_note_en: 24th year of Yuheng
+  title: 李雄崩
+  title_en: Death of Li Xiong
+  summary: 崩，兄子班继，旋政变，成汉中衰。
+  summary_en: He died; his nephew Ban succeeded and was at once overthrown — the decline
+    of Cheng Han began.
+  place_id: cheng-du
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: e-jin-mu
+  note: 与东晋并世，成汉后为桓温所灭
+routes:
+- group: 都城
+  order: 1
+  year: '304'
+  place_id: cheng-du
+  event: 称成都王
+- group: 都城
+  order: 2
+  year: '306'
+  place_id: cheng-du
+  event: 称帝
+- group: 都城
+  order: 3
+  year: '334'
+  place_id: cheng-du
+  event: 李雄崩
+sources:
+- title: 晋书·李雄载记
+  note: 主叙事
+- title: 晋书·李特载记
+  note: 流民军互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 成汉开国君主，偏安巴蜀，图鉴以准帝收录。
+  synced_from_cards: true

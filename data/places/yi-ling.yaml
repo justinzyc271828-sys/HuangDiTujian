@@ -1,0 +1,12 @@
+id: yi-ling
+names:
+  historical: 夷陵
+  modern: 湖北省宜昌市
+  english: Yiling
+coords:
+  lng: 111.29
+  lat: 30.69
+  precision: schematic
+map:
+  region: 荆州
+notes: 夷陵之战主战场

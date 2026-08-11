@@ -1,0 +1,223 @@
+id: liu-song-wu
+tier: emperor
+sort_key: 刘宋-001
+names:
+  display: 宋武帝
+  display_en: Emperor Wu of Song
+  personal: 刘裕
+  personal_en: Liu Yu
+  temple: 高祖
+  posthumous: 武皇帝
+  aliases:
+  - 刘寄奴
+dynasty:
+  id: liu-song
+  label: 刘宋
+  sequence: 1
+reign:
+  start: '420'
+  end: '422'
+  eras:
+  - 永初
+life:
+  birth: '363'
+  death: '422'
+  birth_place_id: jing-kou
+  death_place_id: jian-kang
+summary: 寒门起家，讨桓玄复晋室，灭南燕、破卢循、灭后秦，武功冠于南朝；永初元年受禅称帝，国号宋，为南朝第一帝。
+summary_en: Rising from a common house, he destroyed Huan Xuan to restore the Jin,
+  then destroyed Southern Yan, broke Lu Xun, and ended Later Qin — arms without equal
+  in the southern dynasties; in the 1st year of Yongchu he received the abdication
+  and founded Song, first emperor of the Southern Dynasties.
+tags:
+- 寒门天子
+- 灭后秦
+- 北伐
+- 开国
+tags_en:
+- Emperor from the Common House
+- Ending Later Qin
+- Northern Expeditions
+- Founder
+portrait:
+  primary: assets/portraits/liu-song-wu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 宋书载「帝身长七尺六寸，风骨奇特」。画像宜表现寒门起家的雄主之态，衣冠从刘宋初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liu-song-wu.md
+timeline:
+- year: '363'
+  date_note: 兴宁元年
+  date_note_en: 1st year of Xingning
+  title: 生京口
+  title_en: Birth at Jingkou
+  summary: 彭城人侨居京口，字德舆，小字寄奴。家贫，以农耕渔樵为业。
+  summary_en: A man of Pengcheng settled at Jingkou, styled Deyu, childhood name Jinu;
+    poor, he farmed, fished, and cut wood.
+  place_id: jing-kou
+  related_person_ids: []
+  sources: &id001
+  - 宋书·卷001·武帝纪
+  card_id: E001
+- year: '404'
+  date_note: 元兴三年
+  date_note_en: 3rd year of Yuanxing
+  title: 起兵讨桓玄
+  title_en: Rising against Huan Xuan
+  summary: 与刘毅、何无忌等起兵京口，平桓玄，迎安帝复辟。
+  summary_en: With Liu Yi, He Wuji, and the others he rose at Jingkou, destroyed Huan
+    Xuan, and restored Emperor An.
+  place_id: jing-kou
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '409'
+  date_note: 义熙五年
+  date_note_en: 5th year of Yixi
+  title: 灭南燕
+  title_en: Destroying Southern Yan
+  summary: 北伐灭慕容超，克广固，屠其城。
+  summary_en: He campaigned north, destroyed Murong Chao, took Guanggu, and massacred
+    the city.
+  place_id: guang-gu
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '410'
+  date_note: 义熙六年
+  date_note_en: 6th year of Yixi
+  title: 破卢循
+  title_en: Breaking Lu Xun
+  summary: 卢循逼建康，裕还救，大破之。
+  summary_en: Lu Xun pressed Jiankang; Yu hurried back and broke him utterly.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '416'
+  date_note: 义熙十二年
+  date_note_en: 12th year of Yixi
+  title: 北伐启行
+  title_en: The Great Expedition
+  summary: 自建康启行，北伐后秦。
+  summary_en: He set out from Jiankang against Later Qin.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '417'
+  date_note: 义熙十三年
+  date_note_en: 13th year of Yixi
+  title: 灭后秦
+  title_en: Ending Later Qin
+  summary: 入长安，姚泓降，留子义真镇关中，旋失。
+  summary_en: He entered Chang'an; Yao Hong surrendered; leaving his son Yizhen to
+    hold Guanzhong, it was soon lost.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+- year: '420'
+  date_note: 永初元年
+  date_note_en: 1st year of Yongchu
+  title: 受禅称帝
+  title_en: The Abdication Throne
+  summary: 晋恭帝禅位，裕即皇帝位，国号宋，改元永初。
+  summary_en: Emperor Gong of Jin abdicated; Yu took the throne, styled the realm
+    Song, and changed the era to Yongchu.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E007
+- year: '422'
+  date_note: 永初三年
+  date_note_en: 3rd year of Yongchu
+  title: 武帝崩
+  title_en: Death of Emperor Wu
+  summary: 崩于西殿，年六十；少帝义符继。
+  summary_en: He died in the western hall at sixty; the Young Emperor Yifu succeeded.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E008
+- year: '422'
+  date_note: 政风
+  date_note_en: governance
+  title: 土断与集权
+  title_en: Registration and Centralization
+  summary: 义熙土断、抑制豪强，为「元嘉之治」张本。
+  summary_en: The Yixi registration and the checking of the powerful prepared the
+    Yuanjia recovery.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E009
+- year: '422'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 武帝总评
+  title_en: Final Verdict
+  summary: 史称奇才远略，功百晋宣；然性猜忌，功臣多不终。
+  summary_en: The histories call him a rare genius of far-seeing strategy, his merit
+    a hundred times Sima Yi's; but he was jealous, and few of his功臣 came to good end.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E010
+relations:
+- type: predecessor
+  target_id: e-jin-gong
+  note: 永初元年受禅于晋恭帝
+- type: successor
+  target_id: liu-song-shao
+  note: 永初三年崩，太子义符即位
+routes:
+- group: 都城
+  order: 1
+  year: '404'
+  place_id: jing-kou
+  event: 起兵讨桓玄
+- group: 亲征
+  order: 2
+  year: '409'
+  place_id: guang-gu
+  event: 灭南燕
+- group: 亲征
+  order: 3
+  year: '410'
+  place_id: jian-kang
+  event: 破卢循
+- group: 亲征
+  order: 4
+  year: '416'
+  place_id: null
+  event: 北伐启行
+- group: 亲征
+  order: 5
+  year: '417'
+  place_id: chang-an
+  event: 灭后秦
+- group: 都城
+  order: 6
+  year: '420'
+  place_id: jian-kang
+  event: 受禅称帝
+- group: 都城
+  order: 7
+  year: '422'
+  place_id: jian-kang
+  event: 武帝崩
+sources:
+- title: 宋书·武帝纪
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 北伐编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 刘宋开国皇帝，正史立纪。
+  synced_from_cards: true

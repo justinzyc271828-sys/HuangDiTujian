@@ -1,0 +1,12 @@
+id: ping-yang
+names:
+  historical: 平阳
+  modern: 山西省临汾市
+  english: Pingyang
+coords:
+  lng: 111.52
+  lat: 36.08
+  precision: schematic
+map:
+  region: 司州
+notes: 刘聪匈奴汉都，晋怀帝、愍帝遇害处

@@ -1,0 +1,153 @@
+id: q-liang-zhang-gui
+tier: quasi
+sort_key: 前凉-001
+names:
+  display: 前凉武王
+  display_en: Zhang Gui, Martial King of Former Liang
+  personal: 张轨
+  personal_en: Zhang Gui
+  temple: 太祖
+  posthumous: 武公
+  aliases:
+  - 张士彦
+dynasty:
+  id: q-liang
+  label: 前凉
+  sequence: 1
+reign:
+  start: '301'
+  end: '314'
+  eras: []
+life:
+  birth: '255'
+  death: '314'
+  birth_place_id: null
+  death_place_id: gu-zang
+summary: 安定乌氏人，永宁元年出为凉州刺史，据河西；破鲜卑若罗拔能，威行河西；中原大乱中保境安民、贡献不绝，前凉基业始；建兴二年卒，谥武公。
+summary_en: A man of Wushi in Anding, in the 1st year of Yongning he was made governor
+  of Liangzhou and held Hexi; breaking the Xianbei Ruoluo Baneng, his name ran through
+  Hexi; amid the collapse of the Central Plains he kept his borders and his people
+  and never ceased tribute — the foundations of Former Liang. He died in the 2nd year
+  of Jianxing, posthumously Duke Wu.
+tags:
+- 出镇凉州
+- 保境奉晋
+- 前凉基业
+- 避乱乐土
+tags_en:
+- Governor of Liangzhou
+- Holding the Borders for Jin
+- Foundations of Former Liang
+- Refuge from the Storm
+portrait:
+  primary: assets/portraits/q-liang-zhang-gui/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现守边能吏的儒雅之态，衣冠从西晋凉州制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-liang-zhang-gui.md
+timeline:
+- year: '255'
+  date_note: 约年
+  date_note_en: c. 255
+  title: 生
+  title_en: Birth
+  summary: 安定乌氏人，字士彦。
+  summary_en: A man of Wushi, Anding, styled Shiyan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷086·张轨传
+  card_id: E001
+- year: '301'
+  date_note: 永宁元年
+  date_note_en: 1st year of Yongning
+  title: 出为凉州刺史
+  title_en: Governor of Liangzhou
+  summary: 请为凉州，据河西，前凉基业始。
+  summary_en: He asked for Liangzhou, held Hexi, and the foundations of Former Liang
+    began.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '305'
+  date_note: 永兴中
+  date_note_en: mid-Yongxing
+  title: 破鲜卑若罗拔能
+  title_en: Breaking the Ruoluo Baneng
+  summary: 击鲜卑，威行河西。
+  summary_en: He struck the Xianbei, and his name ran through Hexi.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '308'
+  date_note: 永嘉中
+  date_note_en: mid-Yongjia
+  title: 保境奉晋
+  title_en: Holding the Borders for Jin
+  summary: 中原大乱，轨保境安民，贡献不绝。
+  summary_en: With the Central Plains in chaos, Gui kept his borders and people, and
+    the tribute never stopped.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '314'
+  date_note: 建兴二年
+  date_note_en: 2nd year of Jianxing
+  title: 张轨卒
+  title_en: Death of Zhang Gui
+  summary: 卒，谥武公，子寔继；前凉张氏世有凉州。
+  summary_en: He died, posthumously Duke Wu; his son Shi succeeded, and the Zhang
+    house held Liangzhou for generations.
+  place_id: gu-zang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '314'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 轨总评
+  title_en: Final Verdict
+  summary: 史称怀抚羌胡，化行河右。
+  summary_en: The histories say he cherished the Qiang and Hu and carried civilization
+    through the river lands.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: w-jin-huai
+  note: 永嘉乱中保境奉晋，贡献不绝
+routes:
+- group: 都城
+  order: 1
+  year: '301'
+  place_id: gu-zang
+  event: 出为凉州刺史
+- group: 其他
+  order: 2
+  year: '305'
+  place_id: null
+  event: 破鲜卑若罗拔能
+- group: 都城
+  order: 3
+  year: '314'
+  place_id: gu-zang
+  event: 张轨卒
+sources:
+- title: 晋书·张轨传
+  note: 主叙事
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 前凉开创者，割据河西，图鉴以准帝收录。
+  synced_from_cards: true

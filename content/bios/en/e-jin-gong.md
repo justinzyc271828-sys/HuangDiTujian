@@ -1,0 +1,9 @@
+# Emperor Gong of Jin · Principal Deeds
+
+Sima Dewen, younger brother of Emperor An, was enfeoffed Prince of Langya. In the 14th year of Yixi, after Liu Yu had Emperor An strangled, Dewen was brought to the throne, changing the era to Yuanxi. He was thirty-three and knew Liu Yu's mind: in the 1st year of Yuanxi Yu was made King of Song with the nine gifts complete — the abdication was prepared.
+
+In the sixth month of the 2nd year of Yuanxi, Liu Yu had men hint at abdication; Emperor Gong, seeing no escape, wrote the abdication edict himself and yielded to Song — Eastern Jin, eleven sovereigns and one hundred and four years from Yuan's crossing south, was no more. The former emperor was enfeoffed Duke of Lingling and settled at Moling, ordered his household to avoid marriage with the Liu house, and hid himself utterly; but in the ninth month of the 2nd year of Yongchu Liu Yu sent men with poisoned wine. "The Buddhists say one who dies by his own hand cannot be reborn a man," said the emperor, refusing; the messengers smothered him with a blanket. He was thirty-six.
+
+The fall of Jin, like the fall of Han and Wei, wore the name of abdication — but the sequence of Han yielding to Wei, Wei to Jin, and Jin to Song showed the mask wearing thin. Gong was murdered a year after his abdication, unlike Emperor Xian of Han, who ended his days in peace, or Emperor Yuan of Wei, who was spared. The historians say Jin fell not to Gong but to the accumulated disease of aristocratic politics; and in Liu Yu, a common soldier, taking the Sima realm, the age of the great clans began its turn.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 10 ("Benji of Emperor Gong"), and the *Songshu*, ch. 1 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

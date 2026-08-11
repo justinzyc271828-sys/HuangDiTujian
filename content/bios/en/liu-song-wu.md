@@ -1,0 +1,9 @@
+# Emperor Wu of Song · Principal Deeds
+
+Liu Yu, styled Deyu, childhood name Jinu, was a man of Pengcheng settled at Jingkou. Of common birth, "he rose from the cloth and took the realm by arms": a general of the Northern Garrison, in the 3rd year of Yuanxing he rose at Jingkou with Liu Yi and He Wuji, destroyed Huan Xuan, and restored Emperor An — the "re-founding of the Jin house" was his work.
+
+In the Yixi years, holding the government, he reached the height of arms: in the 5th year he destroyed Southern Yan, taking Guanggu and beheading Murong Chao; in the 6th he hurried back to break Lu Xun and Xu Daofu and save Jiankang; in the 12th he campaigned against Later Qin, entering Chang'an the next year as Yao Hong surrendered — the Central Plains, lost to the barbarians, were recovered for a moment. But his son Yizhen, left to hold Guanzhong, was soon driven out by Helian Bobo: "won and lost again." His registration of the displaced and his checking of the powerful prepared the centralization of the southern courts.
+
+In the 1st year of Yongchu Emperor Gong of Jin abdicated; Yu took the throne, styled the realm Song, and changed the era — Jin fell, Song rose, and the Southern Dynasties began. He died in the western hall in the 3rd year of Yongchu at sixty. The histories call him "a rare genius of far-seeing strategy, his merit a hundred times Sima Yi's"; but he was jealous, and "few of his meritorious ministers came to a good end" — Liu Yi, Zhuge Changmin, and the rest were slain. A common man who took the realm, he broke the great clans' monopoly; the age of "Wang and Sima sharing the realm" gave way to the ascendancy of the humble — his founding measures were the greatest of the Southern Dynasties.
+
+> Local references: the punctuated critical edition of the *Songshu*, ch. 1 and 2 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

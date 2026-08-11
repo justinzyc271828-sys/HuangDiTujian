@@ -1,0 +1,12 @@
+id: han-zhong
+names:
+  historical: 汉中
+  modern: 陕西省汉中市
+  english: Hanzhong
+coords:
+  lng: 107.03
+  lat: 33.07
+  precision: schematic
+map:
+  region: 益州
+notes: 刘备称汉中王处，蜀汉北防门户

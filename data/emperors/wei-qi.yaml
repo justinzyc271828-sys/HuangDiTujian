@@ -1,0 +1,167 @@
+id: wei-qi
+tier: emperor
+sort_key: 曹魏-003
+names:
+  display: 齐王芳
+  display_en: Cao Fang, Prince of Qi
+  personal: 曹芳
+  personal_en: Cao Fang
+  temple: null
+  posthumous: 厉公（晋追贬）
+  aliases:
+  - 齐王
+dynasty:
+  id: wei
+  label: 曹魏
+  sequence: 3
+reign:
+  start: '239'
+  end: '254'
+  eras:
+  - 正始
+  - 嘉平
+life:
+  birth: '232'
+  death: '274'
+  birth_place_id: null
+  death_place_id: null
+summary: 明帝养子即位，年甫八岁，权归曹爽司马懿；高平陵变后司马氏专权，嘉平六年被废为齐王。
+summary_en: Adopted heir of Emperor Ming, he came to the throne at eight, power resting with Cao Shuang and Sima Yi; after the Gaopingling incident Sima's house ruled alone, and in the 6th year of Jiaping he was deposed as Prince of Qi.
+tags:
+- 幼主
+- 高平陵变
+- 被废
+- 司马专权
+tags_en:
+- Child Sovereign
+- Gaopingling Incident
+- Deposed
+- Sima Supremacy
+portrait:
+  primary: assets/portraits/wei-qi/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现冲龄即位、少年被废的君主之态，衣冠从曹魏正始制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wei-qi.md
+timeline:
+- year: '232'
+  date_note: 太和六年
+  date_note_en: 6th year of Taihe
+  title: 生
+  title_en: Birth
+  summary: 明帝养子，一说任城王楷之子，母不详。
+  summary_en: Adopted son of Emperor Ming, said to be a son of Cao Kai of Rencheng; his mother is unknown.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E001
+- year: '239'
+  date_note: 景初三年正月
+  date_note_en: 1st month, 3rd year of Jingchu
+  title: 即位
+  title_en: Accession
+  summary: 明帝疾笃立为皇太子，寻即帝位，改元正始；曹爽、司马懿辅政。
+  summary_en: Made heir in Emperor Ming's last illness, he took the throne and changed the era to Zhengshi, with Cao Shuang and Sima Yi as regents.
+  place_id: luoyang
+  related_person_ids:
+  - wei-ming
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E002
+- year: '249'
+  date_note: 正始十年正月改元嘉平
+  date_note_en: 1st month, 10th year of Zhengshi, era changed to Jiaping
+  title: 高平陵之变
+  title_en: The Gaopingling Incident
+  summary: 司马懿趁帝与爽谒陵，矫诏收兵权，诛曹爽三族，魏权尽归司马氏。
+  summary_en: While the emperor and Cao Shuang were at the tombs, Sima Yi seized the armies on forged edicts and exterminated Shuang's kin; Wei's power passed wholly to the Simas.
+  place_id: gao-ping
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  - 晋书·卷001·宣帝纪
+  card_id: E003
+- year: '251'
+  date_note: 嘉平三年
+  date_note_en: 3rd year of Jiaping
+  title: 王凌谋废立败
+  title_en: Wang Ling's Plot Fails
+  summary: 太尉王凌谋立楚王彪，事泄，司马懿收凌，凌自杀。
+  summary_en: The grand commandant Wang Ling plotted to set up Prince Biao of Chu; the plot leaked, Sima Yi seized him, and Ling took his own life.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E004
+- year: '254'
+  date_note: 嘉平六年
+  date_note_en: 6th year of Jiaping
+  title: 李丰张缉谋泄
+  title_en: The Li Feng–Zhang Ji Conspiracy
+  summary: 中书令李丰等谋除司马师，事泄族诛，牵连及帝舅张缉。
+  summary_en: The palace secretary Li Feng and others plotted against Sima Shi; the plot leaked, they were executed with their kin, and the emperor's uncle Zhang Ji was swept in.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E006
+- year: '254'
+  date_note: 嘉平六年
+  date_note_en: 6th year of Jiaping
+  title: 废为齐王
+  title_en: Deposed as Prince of Qi
+  summary: 司马师以帝荒淫无度，奏请太后废帝，芳出居齐王位。
+  summary_en: Sima Shi, charging the emperor with dissolute excess, petitioned the empress dowager to depose him; Fang was set aside as Prince of Qi.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E005
+relations:
+- type: predecessor
+  target_id: wei-ming
+  note: 景初三年明帝崩，养子芳即位
+- type: successor
+  target_id: wei-gaogui
+  note: 嘉平六年被废，立高贵乡公
+- type: kinship
+  target_id: wei-ming
+  note: 明帝养子
+routes:
+- group: 都城
+  order: 1
+  year: '239'
+  place_id: luoyang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '249'
+  place_id: gao-ping
+  event: 高平陵之变
+- group: 都城
+  order: 3
+  year: '254'
+  place_id: luoyang
+  event: 废为齐王
+- group: 都城
+  order: 4
+  year: '254'
+  place_id: luoyang
+  event: 李丰张缉谋泄
+sources:
+- title: 三国志·三少帝纪
+  note: 主叙事
+- title: 晋书·宣帝纪
+  note: 高平陵互见
+- title: 资治通鉴·魏纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 曹魏第四帝，正史立纪。
+  synced_from_cards: true

@@ -1,0 +1,154 @@
+id: liang-jianwen
+tier: emperor
+sort_key: 梁-002
+names:
+  display: 梁简文帝
+  display_en: Emperor Jianwen of Liang
+  personal: 萧纲
+  personal_en: Xiao Gang
+  temple: 太宗
+  posthumous: 简文皇帝
+  aliases:
+  - 萧世缵
+  - 萧六通
+dynasty:
+  id: liang
+  label: 梁
+  sequence: 2
+reign:
+  start: '549'
+  end: '551'
+  eras:
+  - 大宝
+life:
+  birth: '503'
+  death: '551'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 武帝第三子，工诗赋，倡宫体；侯景陷台城后即位，为景傀儡，大宝二年被废遇害，梁室中衰。
+summary_en: Third son of Emperor Wu, a fine poet who championed the palace style;
+  enthroned after Hou Jing took the palace, he sat as Jing's puppet and was deposed
+  and slain in the 2nd year of Dabao — the decline of Liang.
+tags:
+- 宫体诗
+- 侯景之乱
+- 傀儡
+- 被弑
+tags_en:
+- Palace Style Poetry
+- Hou Jing's Rebellion
+- Puppet
+- Slain
+portrait:
+  primary: assets/portraits/liang-jianwen/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现文弱雅致的君主之态，衣冠从梁代中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liang-jianwen.md
+timeline:
+- year: '503'
+  date_note: 天监二年
+  date_note_en: 2nd year of Tianjian
+  title: 生
+  title_en: Birth
+  summary: 武帝第三子，字世缵，小字六通。工诗赋。
+  summary_en: Third son of Emperor Wu, styled Shizuan, childhood name Liutong; a fine
+    poet.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 梁书·卷004·简文帝纪
+  card_id: E001
+- year: '549'
+  date_note: 太清三年
+  date_note_en: 3rd year of Taiqing
+  title: 即位
+  title_en: Accession
+  summary: 侯景陷台城，武帝崩，纲即位，改元大宝。
+  summary_en: Hou Jing took the palace; Emperor Wu died; Gang took the throne and
+    changed the era to Dabao.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '550'
+  date_note: 大宝元年
+  date_note_en: 1st year of Dabao
+  title: 侯景专权
+  title_en: Hou Jing Rules
+  summary: 景自为相国，帝为傀儡。
+  summary_en: Jing made himself chancellor, and the emperor was his puppet.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '551'
+  date_note: 大宝二年
+  date_note_en: 2nd year of Dabao
+  title: 被废遇害
+  title_en: Deposed and Slain
+  summary: 景废帝为晋安王，旋弑之；立豫章王栋。
+  summary_en: Jing degraded the emperor as Prince of Jin'an and soon slew him, setting
+    up the Prince of Yuzhang, Dong.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '551'
+  date_note: 文学
+  date_note_en: letters
+  title: 宫体诗
+  title_en: The Palace Style
+  summary: 与徐摛等倡宫体，文学史重要。
+  summary_en: With Xu Chi and the others he championed the palace style — a landmark
+    of literary history.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '551'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 简文总评
+  title_en: Final Verdict
+  summary: 文雅有余，遭乱不能振。
+  summary_en: Letters in plenty, but in the storm he could not rise.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liang-wu
+  note: 太清三年武帝崩，太子纲即位
+- type: successor
+  target_id: liang-yu
+  note: 大宝二年被废，侯景立豫章王栋
+- type: kinship
+  target_id: liang-wu
+  note: 武帝第三子
+routes:
+- group: 都城
+  order: 1
+  year: '549'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '551'
+  place_id: jian-kang
+  event: 被废遇害
+sources:
+- title: 梁书·简文帝纪
+  note: 主叙事
+- title: 梁书·侯景传
+  note: 废立互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 梁第二帝，侯景傀儡，正史立纪。
+  synced_from_cards: true

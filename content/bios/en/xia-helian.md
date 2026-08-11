@@ -1,0 +1,9 @@
+# Helian Bobo, Ancestor Shi of Xia · Principal Deeds
+
+Helian Bobo, originally Liu Bobo, was a Tie Fu Xiongnu, son of Liu Weichen. His father was destroyed by Northern Wei, and Bobo fled to serve Yao Xing of Later Qin. In the 1st year of Longsheng he turned against Later Qin, styled himself Heavenly King and Great Chanyu, and founded the realm Great Xia — "Xia" to history. Taking the surname Helian — "the Son of Heaven, linked to Heaven" — he built his state on war.
+
+In the 1st year of Fengxiang he drove a hundred thousand laborers to build Tongwan: the earth was steamed and pounded, and if an awl could pierce it a finger's depth, the builder was slain — "of the builders, none escaped death." In the 1st year of Changwu, riding Liu Yu's withdrawal south after taking Chang'an, Bobo seized the city and the imperial throne, with Tongwan as his seat. At its height Xia "held Chang'an in the south and faced the great desert in the north"; and its tyranny was the worst of the age: the records say he tested his weapons by their workmanship — if an arrow failed to pierce armor the bowyer died, if it pierced, the armorer — killing thousands of craftsmen a day.
+
+He died in the 7th year of Zhenxing; his son Helian Chang succeeded, and in the 3rd year of Cheng'guang Emperor Taiwu of Northern Wei broke Tongwan and took Chang. Xia, fleeing west, was finally destroyed in the 4th year of Dingsheng. The historians say: "of more than common ferocity, cruel and loving slaughter — among the Xiongnu there was none worse." Tongwan's walls still stand in the northern Shaanxi sands — the monument of his tyranny.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 130 (records of Helian Bobo), ch. 131 (records of Helian Chang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

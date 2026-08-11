@@ -1,0 +1,12 @@
+id: gu-zang
+names:
+  historical: 姑臧
+  modern: 甘肃省武威市
+  english: Guzang
+coords:
+  lng: 102.64
+  lat: 37.93
+  precision: schematic
+map:
+  region: 凉州
+notes: 前凉、后凉、南凉、北凉都城，河西中心

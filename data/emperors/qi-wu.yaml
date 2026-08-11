@@ -1,0 +1,161 @@
+id: qi-wu
+tier: emperor
+sort_key: 南齐-002
+names:
+  display: 齐武帝
+  display_en: Emperor Wu of Qi
+  personal: 萧赜
+  personal_en: Xiao Ze
+  temple: 世祖
+  posthumous: 武皇帝
+  aliases:
+  - 萧宣远
+dynasty:
+  id: qi
+  label: 南齐
+  sequence: 2
+reign:
+  start: '482'
+  end: '493'
+  eras:
+  - 永明
+life:
+  birth: '440'
+  death: '493'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 高帝长子，永明十一年治世，劝农减役、百姓丰乐，史称「永明之治」；与竟陵王西邸文士相善，文学史称永明体；北讨无大功，永明十一年崩。
+summary_en: Eldest son of Emperor Gao, his eleven years of the Yongming era — farming
+  encouraged, corvée lightened, the people prosperous — are the celebrated "Yongming
+  recovery"; his friendship with the writers of the Prince of Jingling's western mansion
+  gave the literary age its "Yongming style." The northern campaigns gained nothing,
+  and he died in the 11th year of Yongming.
+tags:
+- 永明之治
+- 劝农减役
+- 永明体
+- 南朝小康
+tags_en:
+- Yongming Recovery
+- Farming and Light Levies
+- Yongming Style
+- The Southern Peace
+portrait:
+  primary: assets/portraits/qi-wu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽厚守成的君主之态，衣冠从南齐中制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qi-wu.md
+timeline:
+- year: '440'
+  date_note: 元嘉十七年
+  date_note_en: 17th year of Yuanjia
+  title: 生
+  title_en: Birth
+  summary: 高帝长子，字宣远。
+  summary_en: Eldest son of Emperor Gao, styled Xuanyuan.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 南齐书·卷003·武帝纪
+  card_id: E001
+- year: '482'
+  date_note: 建元四年
+  date_note_en: 4th year of Jianyuan
+  title: 即位
+  title_en: Accession
+  summary: 高帝崩，赜即位，改元永明。
+  summary_en: On Emperor Gao's death Ze took the throne and changed the era to Yongming.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '485'
+  date_note: 永明中
+  date_note_en: mid-Yongming
+  title: 永明之治
+  title_en: The Yongming Recovery
+  summary: 劝农减役，史称百姓丰乐，号永明。
+  summary_en: Farming encouraged, corvée lightened — the histories say the people
+    prospered, and the era was called Yongming.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '487'
+  date_note: 永明五年
+  date_note_en: 5th year of Yongming
+  title: 北讨无大功
+  title_en: The North Gains Nothing
+  summary: 缘边与魏相持，互有胜负。
+  summary_en: Along the border he held the line against Wei, the fortunes of war ebbing
+    and flowing.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '493'
+  date_note: 永明十一年
+  date_note_en: 11th year of Yongming
+  title: 武帝崩
+  title_en: Death of Emperor Wu
+  summary: 崩，太孙昭业继（郁林王）。
+  summary_en: He died; his grandson Zhaoye, the Prince of Yulin, succeeded.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '493'
+  date_note: 文化
+  date_note_en: culture
+  title: 永明体
+  title_en: The Yongming Style
+  summary: 与竟陵王西邸文士相关，文学史称永明体。
+  summary_en: Tied to the writers of the Prince of Jingling's western mansion — the
+    "Yongming style" of literary history.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: qi-gao
+  note: 建元四年高帝崩，太子赜即位
+- type: successor
+  target_id: qi-yulin
+  note: 永明十一年崩，太孙昭业即位
+routes:
+- group: 都城
+  order: 1
+  year: '482'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '485'
+  place_id: jian-kang
+  event: 永明之治
+- group: 其他
+  order: 3
+  year: '487'
+  place_id: null
+  event: 北讨无大功
+- group: 都城
+  order: 4
+  year: '493'
+  place_id: jian-kang
+  event: 武帝崩
+sources:
+- title: 南齐书·武帝纪
+  note: 主叙事
+- title: 南齐书·文学传
+  note: 永明体互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 南齐第二帝，永明之治之主，正史立纪。
+  synced_from_cards: true

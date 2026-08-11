@@ -1,0 +1,148 @@
+id: b-yan-feng-ba
+tier: quasi
+sort_key: 北燕-001
+names:
+  display: 北燕文成帝
+  display_en: Feng Ba, Emperor Wencheng of Northern Yan
+  personal: 冯跋
+  personal_en: Feng Ba
+  temple: 太祖
+  posthumous: 文成皇帝
+  aliases: []
+dynasty:
+  id: b-yan
+  label: 北燕
+  sequence: 1
+reign:
+  start: '409'
+  end: '430'
+  eras:
+  - 太平
+life:
+  birth: null
+  death: '430'
+  birth_place_id: null
+  death_place_id: long-cheng
+summary: 汉人冯氏，杀后燕慕容熙，推高云，云被杀后即天王位，都龙城；省徭薄赋、安集流民，与柔然和亲，保境二十余年；太平二十二年崩，弟弘杀太子自立，后亡于魏。
+summary_en: A Han of the Feng house, he slew the Later Yan emperor Murong Xi, set
+  up Gao Yun, and when Yun was slain took the heavenly throne himself at Longcheng;
+  lightening corvée and taxes and gathering the refugees, he married peace with the
+  Rouran and held his borders over twenty years. He died in the 22nd year of Taiping;
+  his brother Hong slew the heir to take the throne, and Wei later destroyed the realm.
+tags:
+- 汉人政权
+- 安集流民
+- 保境
+- 龙城
+tags_en:
+- A Han Regime
+- Gathering Refugees
+- Holding the Borders
+- Longcheng
+portrait:
+  primary: assets/portraits/b-yan-feng-ba/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现宽和守成的汉化君主之态，衣冠从北燕汉式。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/b-yan-feng-ba.md
+timeline:
+- year: '409'
+  date_note: 太平元年
+  date_note_en: 1st year of Taiping
+  title: 杀慕容熙自立
+  title_en: Slewing Murong Xi
+  summary: 于龙城杀后燕慕容熙，推高云，旋云被杀，跋即天王位。
+  summary_en: At Longcheng he slew the Later Yan emperor Murong Xi and set up Gao
+    Yun; Yun was soon slain, and Ba took the heavenly throne.
+  place_id: long-cheng
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷125·冯跋载记
+  card_id: E001
+- year: '410'
+  date_note: 太平中
+  date_note_en: mid-Taiping
+  title: 安集辽西
+  title_en: Gathering Liaoxi
+  summary: 省徭薄赋，安集流民。
+  summary_en: He lightened corvée and taxes and gathered the refugees.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '414'
+  date_note: 太平中
+  date_note_en: mid-Taiping
+  title: 与柔然和亲
+  title_en: Peace with the Rouran
+  summary: 遣使柔然等，稳定北边。
+  summary_en: He sent envoys to the Rouran and the rest, steadying the northern border.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '430'
+  date_note: 太平二十二年
+  date_note_en: 22nd year of Taiping
+  title: 冯跋崩
+  title_en: Death of Feng Ba
+  summary: 崩，弟弘杀太子自立，后亡于魏。
+  summary_en: He died; his brother Hong slew the heir to take the throne, and the
+    realm later fell to Wei.
+  place_id: long-cheng
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '430'
+  date_note: 国号
+  date_note_en: realm name
+  title: 北燕
+  title_en: Northern Yan
+  summary: 史称北燕以别后燕；汉人冯氏政权。
+  summary_en: The histories call it Northern Yan to distinguish it from Later Yan;
+    a Han regime under the Feng house.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '430'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 跋总评
+  title_en: Final Verdict
+  summary: 保境安民，不能进取中原。
+  summary_en: He held his borders and cared for his people, but could not press into
+    the Central Plains.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: n-wei-taiwu
+  note: 北燕终为北魏所灭
+routes:
+- group: 都城
+  order: 1
+  year: '409'
+  place_id: long-cheng
+  event: 杀慕容熙自立
+- group: 都城
+  order: 2
+  year: '430'
+  place_id: long-cheng
+  event: 冯跋崩
+sources:
+- title: 晋书·冯跋载记
+  note: 主叙事
+- title: 魏书·冯跋传
+  note: 北魏灭燕互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 北燕之主，汉人政权，图鉴以准帝收录。
+  synced_from_cards: true

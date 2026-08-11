@@ -1,0 +1,168 @@
+id: e-jin-gong
+tier: emperor
+sort_key: 东晋-011
+names:
+  display: 晋恭帝
+  display_en: Emperor Gong of Jin
+  personal: 司马德文
+  personal_en: Sima Dewen
+  temple: null
+  posthumous: 恭皇帝
+  aliases:
+  - 晋恭帝司马德文
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 11
+reign:
+  start: '418'
+  end: '420'
+  eras:
+  - 元熙
+life:
+  birth: '386'
+  death: '421'
+  birth_place_id: null
+  death_place_id: null
+summary: 安帝被弑后即位，元熙二年禅位于刘裕，东晋亡；封零陵王，永初二年为刘裕所害。
+summary_en: Ascending after Emperor An's murder, he abdicated to Liu Yu in the 2nd
+  year of Yuanxi, ending Eastern Jin; enfeoffed Duke of Lingling, he was done to death
+  by Liu Yu in the 2nd year of Yongchu.
+tags:
+- 禅让
+- 东晋亡
+- 零陵王
+- 遇害
+tags_en:
+- Abdication
+- Fall of Eastern Jin
+- Duke of Lingling
+- Done to Death
+portrait:
+  primary: assets/portraits/e-jin-gong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现恭顺让国、终遭杀害的末代君主之态，衣冠从东晋末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-gong.md
+timeline:
+- year: '386'
+  date_note: 太元十一年
+  date_note_en: 11th year of Taiyuan
+  title: 生
+  title_en: Birth
+  summary: 安帝弟，封琅邪王。
+  summary_en: Younger brother of Emperor An, enfeoffed Prince of Langya.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·恭帝纪
+  card_id: E001
+- year: '418'
+  date_note: 义熙十四年
+  date_note_en: 14th year of Yixi
+  title: 即位
+  title_en: Accession
+  summary: 安帝遇害，德文即位，改元元熙。
+  summary_en: Emperor An murdered, Dewen took the throne and changed the era to Yuanxi.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-an
+  sources:
+  - 晋书·卷010·恭帝纪
+  card_id: E002
+- year: '419'
+  date_note: 元熙元年
+  date_note_en: 1st year of Yuanxi
+  title: 裕进爵宋王
+  title_en: Liu Yu Made King of Song
+  summary: 刘裕进爵宋王，九锡备，禅代前奏。
+  summary_en: Liu Yu was raised to King of Song with the nine gifts complete — the
+    prelude to abdication.
+  place_id: jian-kang
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 晋书·卷010·恭帝纪
+  card_id: E003
+- year: '420'
+  date_note: 元熙二年六月
+  date_note_en: 6th month, 2nd year of Yuanxi
+  title: 禅位于宋
+  title_en: Abdication to Song
+  summary: 帝禅位于刘裕，东晋亡。
+  summary_en: The emperor abdicated to Liu Yu, and Eastern Jin perished.
+  place_id: jian-kang
+  related_person_ids:
+  - n-song-tai-zu
+  sources:
+  - 晋书·卷010·恭帝纪
+  - 宋书·武帝纪
+  card_id: E004
+- year: '421'
+  date_note: 永初二年
+  date_note_en: 2nd year of Yongchu
+  title: 零陵王遇害
+  title_en: Death of the Duke of Lingling
+  summary: 封零陵王，居秣陵，刘裕使人暗害之。
+  summary_en: Enfeoffed Duke of Lingling and settled at Moling, he was secretly done
+    to death by Liu Yu's men.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·恭帝纪
+  card_id: E005
+- year: '421'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 恭帝总评
+  title_en: Final Verdict
+  summary: 晋祚至恭帝而终，禅让之际，国祚已移于刘氏。
+  summary_en: With Emperor Gong the Jin line ended; by the abdication the mandate
+    had already passed to the Liu house.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷010·恭帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-jin-an
+  note: 义熙十四年安帝被弑，弟德文即位
+- type: successor
+  target_id: liu-song-wu
+  note: 元熙二年禅位于刘裕，东晋亡
+- type: kinship
+  target_id: e-jin-xiaowu
+  note: 孝武帝子
+routes:
+- group: 都城
+  order: 1
+  year: '418'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '419'
+  place_id: jian-kang
+  event: 裕进爵宋王
+- group: 都城
+  order: 3
+  year: '420'
+  place_id: jian-kang
+  event: 禅位于宋
+sources:
+- title: 晋书·恭帝纪
+  note: 主叙事
+- title: 宋书·武帝纪
+  note: 禅让互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋末帝，禅位于宋，正史立纪。
+  synced_from_cards: true

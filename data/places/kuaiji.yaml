@@ -1,0 +1,12 @@
+id: kuaiji
+names:
+  historical: 会稽
+  modern: 浙江省绍兴市
+  english: Kuajji
+coords:
+  lng: 120.58
+  lat: 30.0
+  precision: schematic
+map:
+  region: 扬州
+notes: 孙亮被废为会稽王后居此，后自杀

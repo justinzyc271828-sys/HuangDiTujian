@@ -1,0 +1,161 @@
+id: w-jin-huai
+tier: emperor
+sort_key: 西晋-003
+names:
+  display: 晋怀帝
+  display_en: Emperor Huai of Jin
+  personal: 司马炽
+  personal_en: Sima Chi
+  temple: null
+  posthumous: 孝怀皇帝
+  aliases:
+  - 晋怀帝司马炽
+dynasty:
+  id: w-jin
+  label: 西晋
+  sequence: 3
+reign:
+  start: '306'
+  end: '311'
+  eras:
+  - 永嘉
+life:
+  birth: '284'
+  death: '313'
+  birth_place_id: null
+  death_place_id: ping-yang
+summary: 惠帝崩后继位，好学博综，然东海王越专权；永嘉五年刘曜破洛阳，帝蒙尘，后于平阳被杀，西晋元气尽丧。
+summary_en: Succeeding Emperor Hui, he was a student of wide learning, but the Prince of Donghai ruled; in the 5th year of Yongjia Liu Yao broke Luoyang, the emperor was carried off, and he was put to death at Pingyang — the strength of Western Jin was spent.
+tags:
+- 永嘉之乱
+- 蒙尘
+- 好学
+- 西晋衰亡
+tags_en:
+- Yongjia Disaster
+- Carried Off
+- Scholarly
+- Decline of Western Jin
+portrait:
+  primary: assets/portraits/w-jin-huai/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现好学而受制权臣的君主之态，衣冠从西晋末制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/w-jin-huai.md
+timeline:
+- year: '284'
+  date_note: 太康五年
+  date_note_en: 5th year of Taikang
+  title: 生
+  title_en: Birth
+  summary: 武帝第二十五子，封豫章王。
+  summary_en: Twenty-fifth son of Emperor Wu, enfeoffed Prince of Yuzhang.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E001
+- year: '306'
+  date_note: 光熙元年
+  date_note_en: 1st year of Guangxi
+  title: 即位
+  title_en: Accession
+  summary: 惠帝崩，炽即位，改元永嘉。
+  summary_en: On Emperor Hui's death Chi took the throne and changed the era to Yongjia.
+  place_id: luoyang
+  related_person_ids:
+  - w-jin-hui
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E002
+- year: '307'
+  date_note: 永嘉元年
+  date_note_en: 1st year of Yongjia
+  title: 东海王越辅政
+  title_en: The Prince of Donghai Governs
+  summary: 东海王越专权辅政，帝拱手听命。
+  summary_en: The Prince of Donghai, Sima Yue, dominated the government, and the emperor folded his hands.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E003
+- year: '310'
+  date_note: 永嘉四年
+  date_note_en: 4th year of Yongjia
+  title: 刘聪继位匈奴汉
+  title_en: Liu Cong Succeeds in Han
+  summary: 刘渊卒，刘聪继立，寇逼洛阳。
+  summary_en: Liu Yuan died and Liu Cong succeeded, pressing toward Luoyang.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E004
+- year: '311'
+  date_note: 永嘉五年
+  date_note_en: 5th year of Yongjia
+  title: 洛阳倾覆
+  title_en: The Fall of Luoyang
+  summary: 刘曜、王弥等破洛阳，烧宫室，百官士民死者三万余，帝蒙尘。
+  summary_en: Liu Yao and Wang Mi broke Luoyang, burned the palaces, and slew over thirty thousand officials and people; the emperor was carried off.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E005
+- year: '313'
+  date_note: 建兴前
+  date_note_en: before Jianxing
+  title: 平阳遇害
+  title_en: Death at Pingyang
+  summary: 帝被送至平阳，青衣行酒后为刘聪所杀。
+  summary_en: Brought to Pingyang, made to serve wine in servant's dress, he was put to death by Liu Cong.
+  place_id: ping-yang
+  related_person_ids:
+  - w-jin-min
+  sources:
+  - 晋书·卷005·怀帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: w-jin-hui
+  note: 光熙元年惠帝崩，弟炽即位
+- type: successor
+  target_id: w-jin-min
+  note: 平阳遇害后，愍帝即位于长安
+- type: kinship
+  target_id: w-jin-wu
+  note: 武帝第二十五子
+routes:
+- group: 都城
+  order: 1
+  year: '306'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '311'
+  place_id: luoyang
+  event: 洛阳倾覆
+- group: 流徙
+  order: 3
+  year: '313'
+  place_id: ping-yang
+  event: 平阳遇害
+sources:
+- title: 晋书·怀帝纪
+  note: 主叙事
+- title: 晋书·刘聪载记
+  note: 平阳遇害互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西晋第三帝，正史立纪。
+  synced_from_cards: true

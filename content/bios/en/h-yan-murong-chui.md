@@ -1,0 +1,9 @@
+# Murong Chui, Martial Emperor of Later Yan · Principal Deeds
+
+Murong Chui, styled Daoming, was the fifth son of Murong Huang. He followed his father's campaigns from thirteen, "first in valor of the whole army," the great general of Former Yan; at Fangtou he shattered Huan Wen, and his name ran through the Central Plains. But Murong Ping's jealousy drove him out; when Former Yan fell he took refuge with Fu Jian of Qin. At the Fei River, his was the one army left whole; he escorted the defeated Fu Jian back to Luoyang — but his designs were already formed.
+
+In the 1st year of Yanyuan he turned on Qin, styled himself King of Yan at Xingyang, and Later Yan began. In the 1st year of Jianxing he took the imperial throne at Zhongshan. His restoration swept away the Zhai-Wei and Western Yan, and he broke Huan Chong of Eastern Jin; in the 10th year of Jianxing his heir Bao campaigned against Northern Wei and was shattered at the Canhe marshes, tens of thousands dead — the hinge of his fortunes. In the 11th year, campaigning in person to avenge the marshes, he fell ill at Zuyang in Shanggu and died, aged seventy-one.
+
+As a general he was without equal in his age; as a sovereign he restored the Yan line. But "the Canhe disaster, though not his own campaign, broke his edge" — with his death Later Yan declined, and within years Wei destroyed it. The historians say he was "marked from youth for greatness, seven feet seven tall, his hands hanging past his knees," yet "benevolent without being martial, unable to cut down the heroes of the age": a veteran who rebuilt a state, only to see his heirs and his enemies undo it.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 123 (records of Murong Chui), ch. 124 (records of Murong Bao) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

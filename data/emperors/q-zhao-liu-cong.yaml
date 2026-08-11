@@ -1,0 +1,169 @@
+id: q-zhao-liu-cong
+tier: quasi
+sort_key: 汉（前赵）-002
+names:
+  display: 汉（前赵）烈宗
+  display_en: Liu Cong, Ancestor Lie of Han (Former Zhao)
+  personal: 刘聪
+  personal_en: Liu Cong
+  temple: 烈宗
+  posthumous: 昭武皇帝
+  aliases:
+  - 刘载明
+dynasty:
+  id: q-zhao
+  label: 前赵
+  sequence: 2
+reign:
+  start: '310'
+  end: '318'
+  eras:
+  - 光兴
+  - 嘉平
+  - 建元
+  - 麟嘉
+life:
+  birth: null
+  death: '318'
+  birth_place_id: null
+  death_place_id: ping-yang
+summary: 杀兄和自立，在位八年；永嘉五年陷洛阳俘怀帝，建兴四年陷长安灭西晋，武功极盛；然游猎无度、后宫侈靡，史载记批评之甚。
+summary_en: He slew his brother He to take the throne and reigned eight years; in
+  the 5th year of Yongjia he took Luoyang and captured Emperor Huai, and in the 4th
+  of Jianxing took Chang'an and ended Western Jin — his arms at their height; but
+  his hunting and his harem drew the historians' sharpest censure.
+tags:
+- 灭西晋
+- 陷洛阳
+- 永嘉之乱
+- 暴君
+tags_en:
+- Destroyer of Western Jin
+- The Fall of Luoyang
+- Yongjia Disaster
+- Tyrant
+portrait:
+  primary: assets/portraits/q-zhao-liu-cong/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现骄盈暴虐的胡族君主之态，衣冠从匈奴汉国制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/q-zhao-liu-cong.md
+timeline:
+- year: '310'
+  date_note: 永嘉四年
+  date_note_en: 4th year of Yongjia
+  title: 即位
+  title_en: Accession
+  summary: 杀兄和自立，改元光兴，是为烈宗。
+  summary_en: He slew his brother He and took the throne, changing the era to Guangxing.
+  place_id: ping-yang
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷102·刘聪载记
+  card_id: E001
+- year: '311'
+  date_note: 永嘉五年
+  date_note_en: 5th year of Yongjia
+  title: 陷洛阳
+  title_en: The Fall of Luoyang
+  summary: 刘曜、王弥等破洛阳，俘怀帝，杀王公士民，史称永嘉之乱高峰。
+  summary_en: Liu Yao and Wang Mi broke Luoyang, captured Emperor Huai, and slew the
+    princes and people — the summit of the Yongjia disaster.
+  place_id: luoyang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '313'
+  date_note: 建兴元年
+  date_note_en: 1st year of Jianxing
+  title: 杀怀帝于平阳
+  title_en: Emperor Huai Slain at Pingyang
+  summary: 怀帝被俘至平阳，青衣行酒，为聪所杀。
+  summary_en: Emperor Huai, brought to Pingyang in captivity, was made to serve wine
+    in servant's dress, then put to death by Cong.
+  place_id: ping-yang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '316'
+  date_note: 建兴四年
+  date_note_en: 4th year of Jianxing
+  title: 陷长安灭西晋
+  title_en: Chang'an Taken, Western Jin Ended
+  summary: 刘曜破长安，愍帝出降，西晋亡。
+  summary_en: Liu Yao took Chang'an, Emperor Min surrendered, and Western Jin was
+    no more.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '318'
+  date_note: 麟嘉三年
+  date_note_en: 3rd year of Linjia
+  title: 刘聪崩
+  title_en: Death of Liu Cong
+  summary: 崩，子粲继，旋为靳准所杀，政权分裂。
+  summary_en: He died; his son Can succeeded and was at once slain by Jin Zhun, and
+    the realm split.
+  place_id: ping-yang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '318'
+  date_note: 政风
+  date_note_en: governance
+  title: 游猎与后宫
+  title_en: Hunting and the Harem
+  summary: 史载游猎无度、后宫侈靡，为载记批评焦点。
+  summary_en: The records harp on his boundless hunting and his extravagant harem.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: q-zhao-liu-yuan
+  note: 永嘉四年杀兄和自立
+- type: successor
+  target_id: q-zhao-liu-yao
+  note: 麟嘉三年靳准之乱后，曜即帝位于长安
+routes:
+- group: 都城
+  order: 1
+  year: '310'
+  place_id: ping-yang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '311'
+  place_id: luoyang
+  event: 陷洛阳
+- group: 都城
+  order: 3
+  year: '313'
+  place_id: ping-yang
+  event: 杀怀帝于平阳
+- group: 其他
+  order: 4
+  year: '316'
+  place_id: chang-an
+  event: 陷长安灭西晋
+- group: 都城
+  order: 5
+  year: '318'
+  place_id: ping-yang
+  event: 刘聪崩
+sources:
+- title: 晋书·刘聪载记
+  note: 主叙事
+- title: 晋书·怀帝纪
+  note: 陷洛与遇害互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 匈奴汉国第二主，灭西晋之君，未入华夏正统序列，图鉴以准帝收录。
+  synced_from_cards: true

@@ -1,0 +1,12 @@
+id: jing-kou
+names:
+  historical: 京口
+  modern: 江苏省镇江市
+  english: Jingkou
+coords:
+  lng: 119.42
+  lat: 32.2
+  precision: schematic
+map:
+  region: 扬州
+notes: 北府兵驻地，刘裕起兵处

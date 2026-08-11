@@ -1,0 +1,12 @@
+id: dun-huang
+names:
+  historical: 敦煌
+  modern: 甘肃省酒泉市敦煌市
+  english: Dunhuang
+coords:
+  lng: 94.66
+  lat: 40.14
+  precision: schematic
+map:
+  region: 凉州
+notes: 西凉李暠初都，沮渠蒙逊灭西凉处

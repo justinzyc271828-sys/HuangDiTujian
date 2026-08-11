@@ -1,0 +1,263 @@
+id: wei-ming
+tier: emperor
+sort_key: 曹魏-002
+names:
+  display: 魏明帝
+  display_en: Emperor Ming of Wei
+  personal: 曹叡
+  personal_en: Cao Rui
+  temple: 烈祖
+  posthumous: 明皇帝
+  aliases:
+  - 魏明帝曹叡
+dynasty:
+  id: wei
+  label: 曹魏
+  sequence: 2
+reign:
+  start: '226'
+  end: '239'
+  eras:
+  - 太和
+  - 青龙
+  - 景初
+life:
+  birth: '204'
+  death: '239'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 在位十三年，拒诸葛亮北伐、平辽东公孙渊，然大兴宫室，托孤曹爽司马懿，开高平陵之变伏线。
+summary_en: In thirteen years he repelled Zhuge Liang's northern expeditions and subdued Gongsun Yuan in Liaodong, yet built palaces on a grand scale and entrusted his heir to Cao Shuang and Sima Yi, laying the fuse of the Gaopingling incident.
+tags:
+- 拒蜀
+- 平辽
+- 托孤
+- 大兴宫室
+tags_en:
+- Repelling Shu
+- Subduing Liaodong
+- Regency Trust
+- Palace Building
+portrait:
+  primary: assets/portraits/wei-ming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载「天姿秀出」。画像宜表现沈毅好断的壮年君主之态，衣冠从曹魏中制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wei-ming.md
+timeline:
+- year: '204'
+  date_note: 建安九年
+  date_note_en: 9th year of Jian'an
+  title: 生
+  title_en: Birth
+  summary: 文帝子，母甄氏；幼有岐嶷之姿。
+  summary_en: Son of Emperor Wen by Lady Zhen; marked from childhood for unusual promise.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E001
+- year: '226'
+  date_note: 黄初七年
+  date_note_en: 7th year of Huangchu
+  title: 即位
+  title_en: Accession
+  summary: 文帝崩，叡即皇帝位，改元太和。
+  summary_en: On Emperor Wen's death, Rui took the throne and changed the era to Taihe.
+  place_id: luoyang
+  related_person_ids:
+  - wei-wen
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E002
+- year: '228'
+  date_note: 太和二年
+  date_note_en: 2nd year of Taihe
+  title: 街亭与诸葛亮北伐
+  title_en: Jieting and Zhuge Liang's Expedition
+  summary: 诸葛亮首出祁山，张郃破马谡于街亭，蜀军退还。
+  summary_en: In Zhuge Liang's first expedition from Qishan, Zhang He broke Ma Su at Jieting, and the Shu army withdrew.
+  place_id: jie-ting
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  - 三国志·蜀书·诸葛亮传
+  card_id: E003
+- year: '230'
+  date_note: 太和四年
+  date_note_en: 4th year of Taihe
+  title: 曹真伐蜀无功
+  title_en: Cao Zhen's Fruitless Invasion of Shu
+  summary: 曹真等大举伐蜀，会霖雨路断而还，无功。
+  summary_en: Cao Zhen's great invasion of Shu met weeks of rain, the roads collapsed, and the army returned without result.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E004
+- year: '231'
+  date_note: 太和五年
+  date_note_en: 5th year of Taihe
+  title: 司马懿拒蜀
+  title_en: Sima Yi Holds the Line
+  summary: 诸葛亮四出祁山，司马懿坚壁不出，蜀粮尽退。
+  summary_en: Zhuge Liang came a fourth time from Qishan; Sima Yi refused battle behind his walls until Shu ran out of grain and withdrew.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E005
+- year: '234'
+  date_note: 青龙二年
+  date_note_en: 2nd year of Qinglong
+  title: 诸葛亮卒于渭南
+  title_en: Zhuge Liang Dies at the Weinan
+  summary: 诸葛亮屯五丈原，与懿相持百馀日，病卒军中，蜀退。
+  summary_en: Zhuge Liang camped on the Wuzhang Plain and faced Sima Yi for over a hundred days before dying of illness in camp; Shu withdrew.
+  place_id: wuzhang-yuan
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  - 三国志·蜀书·诸葛亮传
+  card_id: E006
+- year: '235'
+  date_note: 青龙三年
+  date_note_en: 3rd year of Qinglong
+  title: 张掖柳谷口瑞石
+  title_en: The Portent Stone at Liugu Pass
+  summary: 张掖柳谷口出瑞石，群臣奏符瑞，帝受之。
+  summary_en: A stone of good omen appeared at Liugu Pass in Zhangye; the courtiers offered it as a portent, and the emperor accepted it.
+  place_id: hexi
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E007
+- year: '237'
+  date_note: 青龙五年三月改元
+  date_note_en: 5th year of Qinglong, era changed in the 3rd month
+  title: 改元景初
+  title_en: Era Changed to Jingchu
+  summary: 以青龙纪年不合历象，改元景初，建丑为正月。
+  summary_en: Deeming the Qinglong count out of step with the calendar, he changed the era to Jingchu and made the 12th month the first of the year.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E008
+- year: '237'
+  date_note: 景初元年
+  date_note_en: 1st year of Jingchu
+  title: 大营宫室
+  title_en: The Great Palace Works
+  summary: 起洛阳宫、昭阳殿、太极殿，役民数万，谏者多被诛。
+  summary_en: He raised the Luoyang Palace, the Zhaoyang and Taiji halls, driving tens of thousands to labor, and put many remonstrants to death.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E009
+- year: '238'
+  date_note: 景初二年
+  date_note_en: 2nd year of Jingchu
+  title: 司马懿平辽东
+  title_en: Sima Yi Subdues Liaodong
+  summary: 司马懿攻襄平，斩公孙渊，辽东悉平，魏地至朝鲜边境。
+  summary_en: Sima Yi stormed Xiangping, beheaded Gongsun Yuan, and pacified all Liaodong, carrying Wei's bounds to the Korean frontier.
+  place_id: liaodong
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E010
+- year: '239'
+  date_note: 景初三年正月
+  date_note_en: 1st month, 3rd year of Jingchu
+  title: 明帝崩托孤
+  title_en: Death and the Regency Trust
+  summary: 疾笃立养子齐王芳为嗣，托孤曹爽、司马懿，寻崩。
+  summary_en: Mortally ill, he made his adopted son, Cao Fang of Qi, heir and entrusted him to Cao Shuang and Sima Yi, then died.
+  place_id: luoyang
+  related_person_ids:
+  - wei-qi
+  - wei-wen
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E011
+- year: '239'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 毅然 果断
+  title_en: Decisive, Self-Assured
+  summary: 陈寿评明帝沈毅好断、任意不恤下人，能奋其威明而不尽礼于太后。
+  summary_en: Chen Shou judged the emperor resolute and self-assured, heedless of others beneath him — able to display his stern brilliance yet wanting in duty to the empress dowager.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷003·明帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: wei-wen
+  note: 黄初七年文帝崩，太子叡即位
+- type: successor
+  target_id: wei-qi
+  note: 景初三年崩，养子芳即位
+- type: kinship
+  target_id: wei-wen
+  note: 文帝子
+routes:
+- group: 都城
+  order: 1
+  year: '226'
+  place_id: luoyang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '228'
+  place_id: jie-ting
+  event: 街亭与诸葛亮北伐
+- group: 其他
+  order: 3
+  year: '234'
+  place_id: wuzhang-yuan
+  event: 诸葛亮卒于渭南
+- group: 都城
+  order: 4
+  year: '235'
+  place_id: hexi
+  event: 张掖柳谷口瑞石
+- group: 都城
+  order: 5
+  year: '237'
+  place_id: luoyang
+  event: 改元景初
+- group: 都城
+  order: 6
+  year: '237'
+  place_id: luoyang
+  event: 大营宫室
+- group: 其他
+  order: 7
+  year: '238'
+  place_id: liaodong
+  event: 司马懿平辽东
+- group: 都城
+  order: 8
+  year: '239'
+  place_id: luoyang
+  event: 明帝崩托孤
+sources:
+- title: 三国志·明帝纪
+  note: 主叙事
+- title: 三国志·诸葛亮传
+  note: 北伐与渭南互见
+- title: 资治通鉴·魏纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 曹魏第三帝，正史立纪。
+  synced_from_cards: true

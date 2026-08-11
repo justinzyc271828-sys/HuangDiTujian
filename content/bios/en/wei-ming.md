@@ -1,0 +1,9 @@
+# Emperor Ming of Wei · Principal Deeds
+
+Cao Rui, styled Yuanzhong, son of Emperor Wen by Lady Zhen, showed unusual promise from childhood. On Emperor Wen's death in the 7th year of Huangchu he took the throne at twenty-two. His reign was defined by holding the west and pacifying the northeast: in the 2nd year of Taihe (228), in Zhuge Liang's first northern expedition, Zhang He broke Ma Su at Jieting; the later expeditions gained nothing, and in the 2nd year of Qinglong Liang camped on the Wuzhang Plain, faced Sima Yi for over a hundred days, and died of illness in camp — the Shu offensive never recovered. In the 2nd year of Jingchu Sima Yi marched forty thousand men on Liaodong, stormed Xiangping, beheaded Gongsun Yuan, and carried Wei's border to the Korean frontier.
+
+Ming's failing was the great palace works: the Luoyang Palace and the Zhaoyang and Taiji halls rose on tens of thousands of laborers while remonstrants were put to death. His changes of era and calendar showed the same self-willed decisiveness. Chen Shou's verdict — "resolute and self-assured, heedless of those beneath him, able to display his stern brilliance" — concedes his power while noting his want of duty to the empress dowager.
+
+In the first month of the 3rd year of Jingchu, mortally ill, he summoned Sima Yi from Liaodong, took his hand, named his adopted son Cao Fang heir, and entrusted him to Cao Shuang and Sima Yi; he died at thirty-six. Ten years later came the Gaopingling incident, and Wei's power passed wholly to the Simas. His regency trust was the hinge of Wei's fate: Sima Yi, the man who won Liaodong and held Zhuge Liang at bay, was the same man whose house would take the realm.
+
+> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 3 ("Benji of Emperor Ming"), ch. 35 (biography of Zhuge Liang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

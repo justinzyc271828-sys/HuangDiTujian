@@ -1,0 +1,155 @@
+id: qi-gao
+tier: emperor
+sort_key: 南齐-001
+names:
+  display: 齐高帝
+  display_en: Emperor Gao of Qi
+  personal: 萧道成
+  personal_en: Xiao Daocheng
+  temple: 太祖
+  posthumous: 高皇帝
+  aliases:
+  - 萧绍伯
+dynasty:
+  id: qi
+  label: 南齐
+  sequence: 1
+reign:
+  start: '479'
+  end: '482'
+  eras:
+  - 建元
+life:
+  birth: '427'
+  death: '482'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 仕宋积军功，平桂阳王休范、沈攸之之乱，废宋自立；受禅称帝，国号齐；性节俭、定礼仪官制，建元四年崩。
+summary_en: Rising by arms under Song, he put down the revolts of the Prince of Guiyang
+  and Shen Youzhi, and took the Song throne; receiving the abdication, he founded
+  Qi. Frugal by nature, he fixed the rites and institutions, and died in the 4th year
+  of Jianyuan.
+tags:
+- 受禅开齐
+- 节俭
+- 定礼制
+- 平乱
+tags_en:
+- Abdication and the Founding of Qi
+- Frugality
+- The Rites Fixed
+- Ending the Revolts
+portrait:
+  primary: assets/portraits/qi-gao/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现俭朴有度的开国之君之态，衣冠从南齐初制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/qi-gao.md
+timeline:
+- year: '427'
+  date_note: 元嘉四年
+  date_note_en: 4th year of Yuanjia
+  title: 生
+  title_en: Birth
+  summary: 南兰陵人，字绍伯。仕宋积军功。
+  summary_en: A man of Nanlanling, styled Shaobo; he rose by merit under Song.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 南齐书·卷001·高帝纪
+  card_id: E001
+- year: '477'
+  date_note: 元徽五年
+  date_note_en: 5th year of Yuanhui
+  title: 弑后废帝立顺帝
+  title_en: The Deposed Emperor Slain
+  summary: 心腹弑刘昱，立顺帝，道成总朝政。
+  summary_en: His men slew Liu Yu and set up Emperor Shun, with Daocheng governing
+    all.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '478'
+  date_note: 升明二年
+  date_note_en: 2nd year of Shengming
+  title: 平沈攸之
+  title_en: Shen Youzhi Destroyed
+  summary: 讨平荆州沈攸之，翦除异己。
+  summary_en: He destroyed Shen Youzhi of Jingzhou, cutting away his rivals.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '479'
+  date_note: 建元元年
+  date_note_en: 1st year of Jianyuan
+  title: 受禅称帝
+  title_en: The Abdication Throne
+  summary: 宋顺帝禅位，道成即皇帝位，国号齐，改元建元。
+  summary_en: Emperor Shun of Song abdicated; Daocheng took the throne, styled the
+    realm Qi, and changed the era to Jianyuan.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '482'
+  date_note: 建元四年
+  date_note_en: 4th year of Jianyuan
+  title: 高帝崩
+  title_en: Death of Emperor Gao
+  summary: 崩，遗诏太子赜继，是为武帝。
+  summary_en: He died, his will naming the heir Ze, who became Emperor Wu.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '482'
+  date_note: 政风
+  date_note_en: governance
+  title: 节俭与制度
+  title_en: Frugality and Institutions
+  summary: 史称身不御精细之物，欲以身范物；定礼仪官制。
+  summary_en: The histories say he would not use fine things, wishing to set an example;
+    he fixed the rites and offices.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liu-song-shun
+  note: 建元元年受禅于宋顺帝
+- type: successor
+  target_id: qi-wu
+  note: 建元四年崩，太子赜即位
+routes:
+- group: 都城
+  order: 1
+  year: '477'
+  place_id: jian-kang
+  event: 弑后废帝立顺帝
+- group: 都城
+  order: 2
+  year: '479'
+  place_id: jian-kang
+  event: 受禅称帝
+- group: 都城
+  order: 3
+  year: '482'
+  place_id: jian-kang
+  event: 高帝崩
+sources:
+- title: 南齐书·高帝纪
+  note: 主叙事
+- title: 宋书·顺帝纪
+  note: 禅代互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 南齐开国皇帝，正史立纪。
+  synced_from_cards: true

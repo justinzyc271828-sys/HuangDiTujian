@@ -1,0 +1,244 @@
+id: e-jin-mu
+tier: emperor
+sort_key: 东晋-005
+names:
+  display: 晋穆帝
+  display_en: Emperor Mu of Jin
+  personal: 司马聃
+  personal_en: Sima Dan
+  temple: 孝宗
+  posthumous: 穆皇帝
+  aliases:
+  - 晋穆帝司马聃
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 5
+reign:
+  start: '344'
+  end: '361'
+  eras:
+  - 永和
+  - 升平
+life:
+  birth: '343'
+  death: '361'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 两岁即位，褚太后临朝；永和年间桓温灭成汉、北伐关中复洛阳，殷浩、谢万北伐皆败；升平五年崩，年十九。
+summary_en: Ascending at two under Empress Chu's regency, his Yonghe years saw Huan Wen destroy Cheng Han, march into Guanzhong, and restore Luoyang, while Yin Hao's and Xie Wan's expeditions failed; he died in the 5th year of Shengping at nineteen.
+tags:
+- 幼主
+- 桓温北伐
+- 灭成汉
+- 太后临朝
+tags_en:
+- Child Sovereign
+- Huan Wen's Expeditions
+- Conquest of Cheng Han
+- Empress Regent
+portrait:
+  primary: assets/portraits/e-jin-mu/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现冲龄即位、英年早逝的君主之态，衣冠从东晋中制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-mu.md
+timeline:
+- year: '343'
+  date_note: 建元元年
+  date_note_en: 1st year of Jianyuan
+  title: 生
+  title_en: Birth
+  summary: 康帝子。
+  summary_en: Son of Emperor Kang.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E001
+- year: '344'
+  date_note: 建元二年
+  date_note_en: 2nd year of Jianyuan
+  title: 即位
+  title_en: Accession
+  summary: 康帝崩，聃即位，年二岁，褚太后临朝。
+  summary_en: On Emperor Kang's death Dan took the throne at two, with Empress Chu as regent.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-kang
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E002
+- year: '345'
+  date_note: 永和元年
+  date_note_en: 1st year of Yonghe
+  title: 改元永和
+  title_en: Era Changed to Yonghe
+  summary: 太后临朝改元永和。
+  summary_en: The empress regent changed the era to Yonghe.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E003
+- year: '347'
+  date_note: 永和三年
+  date_note_en: 3rd year of Yonghe
+  title: 桓温灭成汉
+  title_en: Huan Wen Destroys Cheng Han
+  summary: 桓温伐蜀，李势降，成汉亡。
+  summary_en: Huan Wen invaded Shu, Li Shi surrendered, and Cheng Han perished.
+  place_id: cheng-du
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E004
+- year: '349'
+  date_note: 永和五年
+  date_note_en: 5th year of Yonghe
+  title: 石虎死中原乱
+  title_en: Shi Hu's Death and the Ruin of the North
+  summary: 石虎死，后赵大乱，东晋有恢复之机。
+  summary_en: Shi Hu died, Later Zhao fell into chaos, and Eastern Jin saw its chance of recovery.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E005
+- year: '350'
+  date_note: 永和六年
+  date_note_en: 6th year of Yonghe
+  title: 殷浩北伐败
+  title_en: Yin Hao's Failed Expedition
+  summary: 殷浩出师北伐，溃败，桓温势更盛。
+  summary_en: Yin Hao's northern expedition collapsed, and Huan Wen's power grew the greater.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E006
+- year: '354'
+  date_note: 永和十年
+  date_note_en: 10th year of Yonghe
+  title: 桓温北伐关中
+  title_en: Huan Wen Marches on Guanzhong
+  summary: 桓温北伐至霸上，持重不进，粮尽后撤。
+  summary_en: Huan Wen reached Bashang, hesitated, and withdrew when his grain ran out.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·桓温传
+  card_id: E007
+- year: '356'
+  date_note: 永和十二年
+  date_note_en: 12th year of Yonghe
+  title: 温复洛阳
+  title_en: Huan Wen Restores Luoyang
+  summary: 桓温败姚襄，收复洛阳，修谒诸陵。
+  summary_en: Huan Wen defeated Yao Xiang, recovered Luoyang, and repaired the imperial tombs.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·桓温传
+  card_id: E008
+- year: '357'
+  date_note: 升平元年
+  date_note_en: 1st year of Shengping
+  title: 谢万北征败
+  title_en: Xie Wan's Failed Campaign
+  summary: 谢万北征，溃败，许昌、颍川等地复失。
+  summary_en: Xie Wan's campaign fell apart, and Xuchang, Yingchuan, and the like were lost again.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E009
+- year: '360'
+  date_note: 升平四年
+  date_note_en: 4th year of Shengping
+  title: 谢安出仕
+  title_en: Xie An Enters Office
+  summary: 谢安始出仕，为桓温司马。
+  summary_en: Xie An first entered office, as Huan Wen's military adviser.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·谢安传
+  card_id: E010
+- year: '361'
+  date_note: 升平五年五月
+  date_note_en: 5th month, 5th year of Shengping
+  title: 穆帝崩
+  title_en: Death of Emperor Mu
+  summary: 崩，年十九；哀帝丕即位。
+  summary_en: He died at nineteen; Emperor Ai (Sima Pi) succeeded.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-ai
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E011
+- year: '361'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 穆帝总评
+  title_en: Final Verdict
+  summary: 幼冲嗣位，政在强臣，桓温北伐之功皆其朝事。
+  summary_en: A child on the throne with strong ministers in charge, the deeds of his reign — Huan Wen's campaigns — were the work of his court.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷008·穆帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: e-jin-kang
+  note: 建元二年康帝崩，子聃即位
+- type: successor
+  target_id: e-jin-ai
+  note: 升平五年崩，从兄弟丕即位
+- type: kinship
+  target_id: e-jin-kang
+  note: 康帝子
+routes:
+- group: 都城
+  order: 1
+  year: '344'
+  place_id: jian-kang
+  event: 即位
+- group: 其他
+  order: 2
+  year: '347'
+  place_id: cheng-du
+  event: 桓温灭成汉
+- group: 其他
+  order: 3
+  year: '354'
+  place_id: chang-an
+  event: 桓温北伐关中
+- group: 其他
+  order: 4
+  year: '356'
+  place_id: luoyang
+  event: 温复洛阳
+- group: 都城
+  order: 5
+  year: '361'
+  place_id: jian-kang
+  event: 穆帝崩
+sources:
+- title: 晋书·穆帝纪
+  note: 主叙事
+- title: 晋书·桓温传
+  note: 北伐互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第五帝，正史立纪。
+  synced_from_cards: true

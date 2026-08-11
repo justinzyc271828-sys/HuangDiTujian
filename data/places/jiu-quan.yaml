@@ -1,0 +1,12 @@
+id: jiu-quan
+names:
+  historical: 酒泉
+  modern: 甘肃省酒泉市
+  english: Jiuquan
+coords:
+  lng: 98.49
+  lat: 39.73
+  precision: schematic
+map:
+  region: 凉州
+notes: 西凉李暠迁都酒泉，兴学劝农之地

@@ -1,0 +1,9 @@
+# Emperor Mu of Jin · Principal Deeds
+
+Sima Dan, styled Pengzi, was the son of Emperor Kang. On Kang's death in the 2nd year of Jianyuan he took the throne at two, with Empress Chu as regent and the era changed to Yonghe. Mu's reign was in fact Huan Wen's: in the 3rd year of Yonghe Wen conquered Shu, destroyed Cheng Han, and took Li Shi's surrender, rejoining Bashu to Eastern Jin; in the 5th year Shi Hu died and Later Zhao collapsed, and Yin Hao's expedition of the 6th year failed, leaving Wen stronger than ever; in the 10th year Wen marched to Bashang, where the elders of Guanzhong came out with wine and meat to welcome him — but he hesitated, ran out of grain, and withdrew; in the 12th year he defeated Yao Xiang, restored Luoyang, and repaired the imperial tombs. The northern enterprise flourished as never before.
+
+In the Shengping years Wen held Jingzhou and Yangzhou, commanding the court from afar; Xie Wan's campaign of the 1st year collapsed and Xuchang and Yingchuan were lost again; in the 4th year Xie An first entered office, as Wen's military adviser. Eastern Jin's politics turned on the struggle of the Xie and Huan houses.
+
+In the fifth month of the 5th year of Shengping Mu died at nineteen. The historians say: "A child on the throne, the government with the strong ministers." Huan Wen's northern victories were deeds of the reign, not of the sovereign; yet a two-year-old holding the throne seventeen years without the state's collapse was thanks to Empress Chu and the great officers. Eastern Jin, through five sovereigns, had settled into its pattern — the great clans contending, and Huan Wen's northern glory becoming the springboard of his ambition.
+
+> Local references: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of Emperor Mu"), ch. 98 (biography of Huan Wen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.

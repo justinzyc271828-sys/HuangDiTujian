@@ -1,0 +1,251 @@
+id: wu-wucheng
+tier: emperor
+sort_key: 孙吴-004
+names:
+  display: 吴末帝
+  display_en: The Last Sovereign of Wu
+  personal: 孙皓
+  personal_en: Sun Hao
+  temple: null
+  posthumous: null
+  aliases:
+  - 归命侯
+  - 乌程侯
+dynasty:
+  id: wu
+  label: 孙吴
+  sequence: 4
+reign:
+  start: '264'
+  end: '280'
+  eras:
+  - 元兴
+  - 甘露
+  - 宝鼎
+  - 建衡
+  - 凤凰
+  - 天册
+  - 天玺
+  - 天纪
+life:
+  birth: '242'
+  death: '283'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 孙休崩后迎立，初有善政，旋以暴虐著称：杀张尚、任何定、改元无度；天纪四年晋六路伐吴，面缚出降，吴亡，封归命侯。
+summary_en: 'Installed after Sun Xiu''s death, he governed well at first, then grew notorious for cruelty: slaying Zhang Shang, favoring He Ding, changing eras without count; in the 4th year of Tianji, with Jin invading on six roads, he surrendered bound and bare, ending Wu, and was enfeoffed Marquis of Guiming.'
+tags:
+- 暴虐
+- 面缚降晋
+- 吴亡
+- 归命侯
+tags_en:
+- Tyranny
+- Surrender to Jin
+- Fall of Wu
+- Marquis of Guiming
+portrait:
+  primary: assets/portraits/wu-wucheng/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载「皓之为人，心性凶悖」。画像宜表现骄盈暴戾的末代君主之态，衣冠从孙吴末制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wu-wucheng.md
+timeline:
+- year: '242'
+  date_note: 赤乌五年
+  date_note_en: 5th year of Chiwu
+  title: 生
+  title_en: Birth
+  summary: 孙权孙，太子和之子，封乌程侯。
+  summary_en: Grandson of Sun Quan, son of the crown prince He, enfeoffed Marquis of Wucheng.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E001
+- year: '264'
+  date_note: 元兴元年
+  date_note_en: 1st year of Yuanxing
+  title: 即位
+  title_en: Accession
+  summary: 孙休崩，群臣迎立乌程侯皓，改元元兴；初有令誉，旋露凶暴。
+  summary_en: On Sun Xiu's death the court brought in the Marquis of Wucheng; after a good start his savagery showed itself.
+  place_id: jian-kang
+  related_person_ids:
+  - wu-jing
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E002
+- year: '264'
+  date_note: 元兴元年
+  date_note_en: 1st year of Yuanxing
+  title: 诛濮阳兴张布
+  title_en: Puru Yangxing and Zhang Bu Slain
+  summary: 迎立功臣濮阳兴、张布以谏被诛，凶虐之端自此。
+  summary_en: The ministers who brought him in, Puru Yangxing and Zhang Bu, were slain for remonstrance — the first marks of his tyranny.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E003
+- year: '265'
+  date_note: 甘露元年
+  date_note_en: 1st year of Ganlu
+  title: 迁都武昌旋还
+  title_en: The Capital Moved to Wuchang and Back
+  summary: 迁都武昌，民怨「宁饮建业水，不食武昌鱼」，寻还建业。
+  summary_en: He moved the capital to Wuchang; the people grumbled "rather drink Jianye's water than eat Wuchang's fish," and he soon returned.
+  place_id: wu-chang
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E004
+- year: '269'
+  date_note: 建衡元年
+  date_note_en: 1st year of Jianheng
+  title: 陆抗守西陵
+  title_en: Lu Kang Defends Xiling
+  summary: 步阐降晋，陆抗率军收复西陵，晋援不克。
+  summary_en: Bu Chan defected to Jin; Lu Kang retook Xiling, and the Jin relief failed.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  - 三国志·吴书·陆抗传
+  card_id: E005
+- year: '270'
+  date_note: 建衡二年
+  date_note_en: 2nd year of Jianheng
+  title: 何定弄权
+  title_en: He Ding in Power
+  summary: 佞臣何定用事，典兵擅权，众皆侧目。
+  summary_en: The flatterer He Ding came to power, commanded troops, and overreached, drawing every eye against him.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E006
+- year: '273'
+  date_note: 凤凰二年
+  date_note_en: 2nd year of Fenghuang
+  title: 杀张尚等
+  title_en: Zhang Shang and Others Slain
+  summary: 侍中张尚以言语忤旨被诛，谏诤之路遂绝。
+  summary_en: The attendant Zhang Shang was put to death for words that offended, and the road of remonstrance closed.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E007
+- year: '276'
+  date_note: 天册元年
+  date_note_en: 1st year of Tiance
+  title: 改元频繁
+  title_en: Eras Changed Recklessly
+  summary: 数年间频改元以应符瑞，朝纲愈乱。
+  summary_en: Year after year he changed the era to match portents, and the government fell further into disorder.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E008
+- year: '280'
+  date_note: 天纪四年三月
+  date_note_en: 3rd month, 4th year of Tianji
+  title: 晋六路伐吴
+  title_en: Jin Invades on Six Roads
+  summary: 晋武帝命王濬、杜预等六路伐吴，建业震动。
+  summary_en: Emperor Wu of Jin sent Wang Jun, Du Yu, and others against Wu on six roads, shaking Jianye itself.
+  place_id: null
+  related_person_ids:
+  - w-jin-wu
+  sources:
+  - 三国志·卷048·三嗣主传
+  - 晋书·卷003·武帝纪
+  card_id: E010
+- year: '280'
+  date_note: 天纪四年
+  date_note_en: 4th year of Tianji
+  title: 孙皓降
+  title_en: The Surrender of Sun Hao
+  summary: 皓面缚舆榇，出降于王濬军前，吴亡，封归命侯。
+  summary_en: Bound bare with the coffin at his cart, Hao surrendered before Wang Jun's army; Wu perished, and he was made Marquis of Guiming.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  - 晋书·卷003·武帝纪
+  card_id: E009
+- year: '283'
+  date_note: 太康四年
+  date_note_en: 4th year of Taikang
+  title: 薨于洛阳
+  title_en: Death at Luoyang
+  summary: 举家迁洛阳，年四十二卒于洛阳。
+  summary_en: Brought with his house to Luoyang, he died there at forty-two.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E011
+- year: '283'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 粗暴骄盈
+  title_en: Brutal and Arrogant
+  summary: 史评称皓凶顽骄暴，虐杀朝臣，亲昵小人，吴之亡实由其自取。
+  summary_en: The histories call Hao brutal and arrogant, slaying his courtiers, clinging to petty men — Wu's ruin self-inflicted.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷048·三嗣主传
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: wu-jing
+  note: 永安六年休崩，迎立乌程侯皓
+- type: successor
+  target_id: w-jin-wu
+  note: 天纪四年降晋，吴亡
+- type: kinship
+  target_id: wu-da
+  note: 孙权孙，废太子和之子
+routes:
+- group: 都城
+  order: 1
+  year: '264'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '265'
+  place_id: wu-chang
+  event: 迁都武昌旋还
+- group: 都城
+  order: 3
+  year: '280'
+  place_id: jian-kang
+  event: 孙皓降
+- group: 都城
+  order: 4
+  year: '283'
+  place_id: luoyang
+  event: 薨于洛阳
+sources:
+- title: 三国志·三嗣主传
+  note: 主叙事
+- title: 晋书·武帝纪
+  note: 平吴互见
+- title: 三国志·陆抗传
+  note: 西陵互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 孙吴末帝，降晋亡国，正史立纪。
+  synced_from_cards: true

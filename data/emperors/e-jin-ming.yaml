@@ -1,0 +1,161 @@
+id: e-jin-ming
+tier: emperor
+sort_key: 东晋-002
+names:
+  display: 晋明帝
+  display_en: Emperor Ming of Jin
+  personal: 司马绍
+  personal_en: Sima Shao
+  temple: 肃宗
+  posthumous: 明皇帝
+  aliases:
+  - 晋明帝司马绍
+dynasty:
+  id: e-jin
+  label: 东晋
+  sequence: 2
+reign:
+  start: '322'
+  end: '325'
+  eras:
+  - 太宁
+life:
+  birth: '299'
+  death: '325'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 元帝长子，性至孝、有文武才略；太宁二年亲征讨平王敦之乱，江东复安，寻崩，年二十七。
+summary_en: Eldest son of Emperor Yuan, devoted to his parents and gifted in arms and letters; in the 2nd year of Taining he campaigned in person against Wang Dun and restored peace to Jiangdong, then died at twenty-seven.
+tags:
+- 讨平王敦
+- 亲征
+- 文武才略
+- 短祚
+tags_en:
+- Subduing Wang Dun
+- Personal Campaign
+- Gifts of Arms and Letters
+- Brief Reign
+portrait:
+  primary: assets/portraits/e-jin-ming/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '晋书载「帝幼而聪哲，为元帝所宠异，年数岁，尝坐置膝前，属长安使来，因问帝曰：汝谓日与长安孰远」。画像宜表现英锐的少年天子之态，衣冠从东晋初制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/e-jin-ming.md
+timeline:
+- year: '299'
+  date_note: 元康九年
+  date_note_en: 9th year of Yuankang
+  title: 生
+  title_en: Birth
+  summary: 元帝长子，母荀氏。
+  summary_en: Eldest son of Emperor Yuan by Lady Xun.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E001
+- year: '322'
+  date_note: 永昌元年
+  date_note_en: 1st year of Yongchang
+  title: 即位
+  title_en: Accession
+  summary: 元帝崩，绍即位，改元太宁。
+  summary_en: On Emperor Yuan's death Shao took the throne and changed the era to Taining.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-yuan
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E002
+- year: '323'
+  date_note: 太宁元年
+  date_note_en: 1st year of Taining
+  title: 以王导辅政
+  title_en: Wang Dao as Regent
+  summary: 敦乱后调整中枢，以王导辅政。
+  summary_en: After the Dun troubles he reorganized the court, making Wang Dao regent.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E003
+- year: '324'
+  date_note: 太宁二年
+  date_note_en: 2nd year of Taining
+  title: 讨平王敦
+  title_en: The Subjugation of Wang Dun
+  summary: 帝亲征，破王敦之党，敦病卒军败，江东复安。
+  summary_en: He campaigned in person, broke Wang Dun's party — Dun dying of illness as his army collapsed — and Jiangdong was at peace again.
+  place_id: jian-kang
+  related_person_ids: []
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E004
+- year: '325'
+  date_note: 太宁三年闰月
+  date_note_en: intercalary month, 3rd year of Taining
+  title: 明帝崩
+  title_en: Death of Emperor Ming
+  summary: 崩，年二十七；成帝衍即位，庾后临朝。
+  summary_en: He died at twenty-seven; Emperor Cheng (Sima Yan) succeeded with Empress Yu as regent.
+  place_id: jian-kang
+  related_person_ids:
+  - e-jin-cheng
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E005
+- year: '325'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 明帝英断
+  title_en: The Resolute Ming
+  summary: 史称性至孝，有文武才略，剪平大憝，惜享年不永。
+  summary_en: The histories praise his filial devotion and his gifts of arms and letters, and his cutting down of the great villain — pity his years were so few.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷006·明帝纪
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: e-jin-yuan
+  note: 永昌元年元帝崩，太子绍即位
+- type: successor
+  target_id: e-jin-cheng
+  note: 太宁三年崩，太子衍即位
+- type: kinship
+  target_id: e-jin-yuan
+  note: 元帝长子
+routes:
+- group: 都城
+  order: 1
+  year: '322'
+  place_id: jian-kang
+  event: 即位
+- group: 亲征
+  order: 2
+  year: '324'
+  place_id: jian-kang
+  event: 讨平王敦
+- group: 都城
+  order: 3
+  year: '325'
+  place_id: jian-kang
+  event: 明帝崩
+sources:
+- title: 晋书·明帝纪
+  note: 主叙事
+- title: 晋书·王敦传
+  note: 讨平互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 东晋第二帝，正史立纪。
+  synced_from_cards: true

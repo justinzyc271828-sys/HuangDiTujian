@@ -1,0 +1,263 @@
+id: w-jin-hui
+tier: emperor
+sort_key: 西晋-002
+names:
+  display: 晋惠帝
+  display_en: Emperor Hui of Jin
+  personal: 司马衷
+  personal_en: Sima Zhong
+  temple: null
+  posthumous: 孝惠皇帝
+  aliases:
+  - 晋惠帝司马衷
+dynasty:
+  id: w-jin
+  label: 西晋
+  sequence: 2
+reign:
+  start: '290'
+  end: '306'
+  eras:
+  - 永熙
+  - 永平
+  - 元康
+  - 永康
+  - 永宁
+  - 太安
+  - 永安
+  - 建武
+  - 永兴
+  - 光熙
+life:
+  birth: '259'
+  death: '306'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 武帝子，性愚钝，在位十六年而八王之乱起，天下大乱；「何不食肉糜」为史所讥，光熙元年还洛后崩，或云被毒杀。
+summary_en: Son of Emperor Wu, dull-witted, he sat sixteen years while the War of the Eight Princes tore the realm apart; his "why not eat minced meat?" became a byword for his folly, and in the 1st year of Guangxi he died after returning to Luoyang — by poison, some say.
+tags:
+- 愚帝
+- 八王之乱
+- 何不食肉糜
+- 贾后
+tags_en:
+- The Fool Emperor
+- War of the Eight Princes
+- Why Not Eat Minced Meat
+- Empress Jia
+portrait:
+  primary: assets/portraits/w-jin-hui/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现昏聩木讷的中年君主之态，衣冠从西晋制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/w-jin-hui.md
+timeline:
+- year: '259'
+  date_note: 甘露四年
+  date_note_en: 4th year of Ganlu
+  title: 生
+  title_en: Birth
+  summary: 武帝子，母杨皇后；史称其愚钝，闻蛙鸣而问为官为私。
+  summary_en: Son of Emperor Wu by Empress Yang; the histories call him dull — hearing frogs croak, he asked whether they croaked for office or for private gain.
+  place_id: null
+  related_person_ids:
+  - w-jin-wu
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E001
+- year: '290'
+  date_note: 太熙元年
+  date_note_en: 1st year of Taixi
+  title: 即位
+  title_en: Accession
+  summary: 武帝崩，衷即位，杨骏辅政，贾后干政渐起。
+  summary_en: On Emperor Wu's death Zhong took the throne with Yang Jun as regent; Empress Jia's meddling in government began.
+  place_id: luoyang
+  related_person_ids:
+  - w-jin-wu
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E002
+- year: '291'
+  date_note: 元康元年
+  date_note_en: 1st year of Yuankang
+  title: 诛杨骏
+  title_en: Yang Jun Executed
+  summary: 贾后杀杨骏，汝南王亮、卫瓘辅政旋亦死，贾氏专政。
+  summary_en: Empress Jia slew Yang Jun; the Princes of Runan, Sima Liang, and Wei Guan, who then governed, died in turn, and the Jia clan ruled.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E003
+- year: '291'
+  date_note: 元康元年
+  date_note_en: 1st year of Yuankang
+  title: 八王之乱开端
+  title_en: The War of the Eight Princes Begins
+  summary: 诸王同姓相屠自此始，延十余年，为永嘉之祸张本。
+  summary_en: The princes' mutual slaughter began here, running over ten years and preparing the disaster of Yongjia.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E004
+- year: '300'
+  date_note: 永康元年
+  date_note_en: 1st year of Yongkang
+  title: 杀太子遹
+  title_en: The Heir Yu Slain
+  summary: 贾后诬太子司马遹谋反杀之，赵王伦等起兵讨贾。
+  summary_en: Empress Jia charged the heir Sima Yu with revolt and slew him; the Prince of Zhao, Sima Lun, and others rose against her.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E005
+- year: '301'
+  date_note: 永康二年
+  date_note_en: 2nd year of Yongkang
+  title: 赵王伦篡
+  title_en: Sima Lun Usurps
+  summary: 赵王伦废帝自立，改元建始；齐王冏等三王讨伦。
+  summary_en: The Prince of Zhao deposed the emperor and took the throne himself, changing the era to Jianshi; the Prince of Qi and two others marched against Lun.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E006
+- year: '301'
+  date_note: 永宁元年
+  date_note_en: 1st year of Yongning
+  title: 帝反正
+  title_en: Restoration of the Emperor
+  summary: 齐王冏等诛伦，迎帝还宫复辟。
+  summary_en: The Prince of Qi and the others slew Lun and brought the emperor back to the palace.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E007
+- year: '302'
+  date_note: 太安元年
+  date_note_en: 1st year of Taian
+  title: 长沙王乂杀冏
+  title_en: Sima Ai Slays Sima Jiong
+  summary: 长沙王乂杀齐王冏，诸王相攻不止。
+  summary_en: The Prince of Changsha, Sima Ai, slew the Prince of Qi, and the princes' wars went on.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E008
+- year: '304'
+  date_note: 永安/建武
+  date_note_en: Yong'an / Jianwu
+  title: 帝迁长安
+  title_en: The Emperor Moved to Chang'an
+  summary: 张方劫帝入长安，河间、成都诸王交兵。
+  summary_en: Zhang Fang seized the emperor and carried him to Chang'an while the Princes of Hejian and Chengdu fought.
+  place_id: chang-an
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E009
+- year: '304'
+  date_note: 永兴元年
+  date_note_en: 1st year of Yongxing
+  title: 李雄刘渊起
+  title_en: Li Xiong and Liu Yuan Rise
+  summary: 李雄据蜀称帝，刘渊据离石称汉王，五胡乱华前奏。
+  summary_en: Li Xiong took Shu, and Liu Yuan styled himself king of Han — the prelude to the Five Barbarian invasions.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E010
+- year: '306'
+  date_note: 光熙元年
+  date_note_en: 1st year of Guangxi
+  title: 还洛崩
+  title_en: Death on Returning to Luoyang
+  summary: 东海王越迎帝还洛阳，帝寻崩，或云为越毒杀。
+  summary_en: The Prince of Donghai, Sima Yue, brought the emperor back to Luoyang, where he died — poisoned by Yue, some say.
+  place_id: luoyang
+  related_person_ids:
+  - w-jin-huai
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E011
+- year: '306'
+  date_note: 名句
+  date_note_en: famous saying
+  title: 肉糜
+  title_en: The Minced Meat
+  summary: 天下荒乱百姓饿死，帝曰「何不食肉糜」，史以为愚暗之证。
+  summary_en: In the great famine, told that the people were starving to death, he asked, "Why do they not eat minced meat?" — the historians' proof of his darkness.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 晋书·卷004·惠帝纪
+  card_id: E012
+relations:
+- type: predecessor
+  target_id: w-jin-wu
+  note: 太熙元年武帝崩，太子衷即位
+- type: successor
+  target_id: w-jin-huai
+  note: 光熙元年崩，弟炽即位
+- type: kinship
+  target_id: w-jin-wu
+  note: 武帝子
+routes:
+- group: 都城
+  order: 1
+  year: '290'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '291'
+  place_id: luoyang
+  event: 诛杨骏
+- group: 都城
+  order: 3
+  year: '300'
+  place_id: luoyang
+  event: 杀太子遹
+- group: 都城
+  order: 4
+  year: '301'
+  place_id: luoyang
+  event: 赵王伦篡
+- group: 都城
+  order: 5
+  year: '301'
+  place_id: luoyang
+  event: 帝反正
+- group: 流徙
+  order: 6
+  year: '304'
+  place_id: chang-an
+  event: 帝迁长安
+- group: 都城
+  order: 7
+  year: '306'
+  place_id: luoyang
+  event: 还洛崩
+sources:
+- title: 晋书·惠帝纪
+  note: 主叙事
+- title: 晋书·后妃传
+  note: 贾后互见
+- title: 资治通鉴·晋纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 西晋第二帝，正史立纪。
+  synced_from_cards: true

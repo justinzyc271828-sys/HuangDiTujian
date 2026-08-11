@@ -1,0 +1,163 @@
+id: wei-gaogui
+tier: emperor
+sort_key: 曹魏-004
+names:
+  display: 高贵乡公
+  display_en: The Duke of Gaogui District
+  personal: 曹髦
+  personal_en: Cao Mao
+  temple: null
+  posthumous: 高贵乡公（废帝）
+  aliases:
+  - 曹髦
+dynasty:
+  id: wei
+  label: 曹魏
+  sequence: 4
+reign:
+  start: '254'
+  end: '260'
+  eras:
+  - 正元
+  - 甘露
+life:
+  birth: '241'
+  death: '260'
+  birth_place_id: null
+  death_place_id: luoyang
+summary: 齐王芳废后迎立，好学明经，志在剪除司马氏；甘露五年率宿卫讨司马昭，于南阙下被弑，时年二十。
+summary_en: Called to the throne after Cao Fang's deposition, he was a scholar-emperor set on rooting out the Simas; in the 5th year of Ganlu he led his guards against Sima Zhao and was slain beneath the southern gate, aged twenty.
+tags:
+- 讨逆
+- 被弑
+- 司马昭之心
+- 好学
+tags_en:
+- Rising Against the Simas
+- Slain
+- Sima Zhao's Ambition
+- Scholarly
+portrait:
+  primary: assets/portraits/wei-gaogui/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: '史载无形貌描写。画像宜表现英锐尚学、不甘傀儡的少年君主之态，衣冠从曹魏甘露制。属艺术想象。'
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/wei-gaogui.md
+timeline:
+- year: '241'
+  date_note: 正始二年
+  date_note_en: 2nd year of Zhengshi
+  title: 生
+  title_en: Birth
+  summary: 文帝孙，东海定王霖之子。
+  summary_en: Grandson of Emperor Wen, son of Cao Lin, Prince Ding of Donghai.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E001
+- year: '254'
+  date_note: 嘉平六年十月
+  date_note_en: 10th month, 6th year of Jiaping
+  title: 即位
+  title_en: Accession
+  summary: 齐王芳废，司马师迎立高贵乡公，改元正元。
+  summary_en: With Cao Fang deposed, Sima Shi summoned the duke of Gaogui District to the throne; the era was changed to Zhengyuan.
+  place_id: luoyang
+  related_person_ids:
+  - wei-qi
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E002
+- year: '255'
+  date_note: 正元二年
+  date_note_en: 2nd year of Zhengyuan
+  title: 毌丘俭文钦反
+  title_en: The Guanqiu Jian–Wen Qin Rising
+  summary: 扬州都督毌丘俭、文钦起兵讨司马师，师亲征平之，俭死钦奔吴。
+  summary_en: The Yangzhou commander Guanqiu Jian and Wen Qin rose against Sima Shi; Shi campaigned in person, Jian died, and Qin fled to Wu.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E003
+- year: '257'
+  date_note: 甘露二年
+  date_note_en: 2nd year of Ganlu
+  title: 诸葛诞反
+  title_en: The Zhuge Dan Rising
+  summary: 征东大将军诸葛诞据寿春反，司马昭围城年馀，诞败死。
+  summary_en: The general Zhuge Dan rose from Shouchun; Sima Zhao besieged the city for over a year until Dan fell and died.
+  place_id: null
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E004
+- year: '260'
+  date_note: 甘露五年五月
+  date_note_en: 5th month, 5th year of Ganlu
+  title: 讨司马昭被弑
+  title_en: The Rising against Sima Zhao and the Slaying
+  summary: 帝率殿中宿卫鼓噪出讨，司马昭党贾充命成济弑帝于南阙下；事见汉晋春秋裴注。
+  summary_en: The emperor sallied forth with his palace guards, and Jia Chong of Sima Zhao's party ordered Cheng Ji to slay him beneath the southern gate — as the Han–Jin Annals, quoted by Pei Songzhi, records.
+  place_id: luoyang
+  related_person_ids: []
+  sources:
+  - 三国志·卷004·三少帝纪
+  - 汉晋春秋（裴注引）
+  card_id: E006
+- year: '260'
+  date_note: 甘露五年
+  date_note_en: 5th year of Ganlu
+  title: 立常道乡公
+  title_en: The Changdao Marquis Installed
+  summary: 弑帝后，司马昭迎立常道乡公奂，即魏元帝。
+  summary_en: After the slaying, Sima Zhao installed Cao Huan, marquis of Changdao District, who became the last Wei emperor.
+  place_id: luoyang
+  related_person_ids:
+  - wei-yuan
+  sources:
+  - 三国志·卷004·三少帝纪
+  card_id: E005
+relations:
+- type: predecessor
+  target_id: wei-qi
+  note: 嘉平六年废齐王芳，迎立高贵乡公
+- type: successor
+  target_id: wei-yuan
+  note: 甘露五年被弑，立常道乡公奂
+- type: kinship
+  target_id: wei-wen
+  note: 文帝孙
+routes:
+- group: 都城
+  order: 1
+  year: '254'
+  place_id: luoyang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '260'
+  place_id: luoyang
+  event: 讨司马昭被弑
+- group: 都城
+  order: 3
+  year: '260'
+  place_id: luoyang
+  event: 立常道乡公
+sources:
+- title: 三国志·三少帝纪
+  note: 主叙事
+- title: 汉晋春秋（裴注）
+  note: 弑帝细节互见
+- title: 资治通鉴·魏纪
+  note: 编年对照
+meta:
+  status: draft
+  confidence: high
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 曹魏第五帝，正史立纪。
+  synced_from_cards: true

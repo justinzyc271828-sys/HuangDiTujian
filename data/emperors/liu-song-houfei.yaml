@@ -1,0 +1,156 @@
+id: liu-song-houfei
+tier: emperor
+sort_key: 刘宋-007
+names:
+  display: 后废帝
+  display_en: The Later Deposed Emperor
+  personal: 刘昱
+  personal_en: Liu Yu
+  temple: null
+  posthumous: null
+  aliases: []
+dynasty:
+  id: liu-song
+  label: 刘宋
+  sequence: 7
+reign:
+  start: '472'
+  end: '477'
+  eras:
+  - 元徽
+life:
+  birth: '463'
+  death: '477'
+  birth_place_id: null
+  death_place_id: jian-kang
+summary: 明帝长子，十岁即位，游戏虐杀无度，朝政归权臣萧道成；元徽五年为道成心腹弑于宫中，立安成王准。
+summary_en: Eldest son of Emperor Ming, he took the throne at ten, playing and killing
+  without limit while the strong minister Xiao Daocheng governed; in the 5th year
+  of Yuanhui Daocheng's men slew him in the palace and set up the Prince of Ancheng,
+  Zhun.
+tags:
+- 幼主
+- 游戏虐杀
+- 萧道成
+- 被弑
+tags_en:
+- Child Sovereign
+- Play and Slaughter
+- Xiao Daocheng
+- Slain
+portrait:
+  primary: assets/portraits/liu-song-houfei/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现暴戾少年之态，衣冠从刘宋末制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/liu-song-houfei.md
+timeline:
+- year: '463'
+  date_note: 大明七年
+  date_note_en: 7th year of Daming
+  title: 生
+  title_en: Birth
+  summary: 明帝长子。
+  summary_en: Eldest son of Emperor Ming.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 宋书·卷009·后废帝纪
+  card_id: E001
+- year: '472'
+  date_note: 泰豫元年
+  date_note_en: 1st year of Taiyu
+  title: 即位
+  title_en: Accession
+  summary: 年十岁即位，褚渊、袁粲、萧道成等辅。
+  summary_en: He took the throne at ten, with Chu Yuan, Yuan Can, Xiao Daocheng, and
+    the others assisting.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '474'
+  date_note: 元徽二年
+  date_note_en: 2nd year of Yuanhui
+  title: 桂阳王休范反
+  title_en: The Prince of Guiyang's Revolt
+  summary: 休范袭建康，萧道成等平之，道成威望起。
+  summary_en: Xiufan struck at Jiankang; Xiao Daocheng and the others put it down,
+    and Daocheng's prestige rose.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '476'
+  date_note: 元徽中
+  date_note_en: mid-Yuanhui
+  title: 游戏无度
+  title_en: Play without Limit
+  summary: 纪载微行、虐戏，朝政归权臣。
+  summary_en: The records tell of his secret jaunts and cruel games while government
+    fell to the strong minister.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '477'
+  date_note: 元徽五年
+  date_note_en: 5th year of Yuanhui
+  title: 被弑
+  title_en: Slain
+  summary: 为萧道成心腹所弑，立安成王准。
+  summary_en: He was slain by Xiao Daocheng's men, who set up the Prince of Ancheng,
+    Zhun.
+  place_id: jian-kang
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '477'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 后废帝总评
+  title_en: Final Verdict
+  summary: 史称无道好杀，在位五年。
+  summary_en: The histories call him lawless and fond of killing; he reigned five
+    years.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: predecessor
+  target_id: liu-song-ming
+  note: 泰豫元年明帝崩，太子昱即位
+- type: successor
+  target_id: liu-song-shun
+  note: 元徽五年被弑，立安成王准
+routes:
+- group: 都城
+  order: 1
+  year: '472'
+  place_id: jian-kang
+  event: 即位
+- group: 都城
+  order: 2
+  year: '474'
+  place_id: jian-kang
+  event: 桂阳王休范反
+- group: 都城
+  order: 3
+  year: '477'
+  place_id: jian-kang
+  event: 被弑
+sources:
+- title: 宋书·后废帝纪
+  note: 主叙事
+- title: 南齐书·高帝纪
+  note: 废立互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 刘宋第七帝，正史立纪。
+  synced_from_cards: true

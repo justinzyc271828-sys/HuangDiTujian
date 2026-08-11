@@ -1,0 +1,162 @@
+id: xia-helian
+tier: quasi
+sort_key: 胡夏-001
+names:
+  display: 夏世祖
+  display_en: Helian Bobo, Ancestor Shi of Xia
+  personal: 赫连勃勃
+  personal_en: Helian Bobo
+  temple: 世祖
+  posthumous: 武烈皇帝
+  aliases:
+  - 刘勃勃
+dynasty:
+  id: xia
+  label: 胡夏
+  sequence: 1
+reign:
+  start: '407'
+  end: '425'
+  eras:
+  - 龙升
+  - 凤翔
+  - 昌武
+  - 真兴
+life:
+  birth: '381'
+  death: '425'
+  birth_place_id: null
+  death_place_id: tong-wan
+summary: 匈奴铁弗部，刘卫辰子；叛后秦称天王、大单于，国号大夏；发民夫十万筑统万城，蒸土夯筑，极侈且酷；乘刘裕北还取长安称帝；真兴七年崩，子昌继，后为魏所灭。
+summary_en: A Tie Fu Xiongnu, son of Liu Weichen; turning against Later Qin, he styled
+  himself Heavenly King and Great Chanyu of the realm Great Xia; driving a hundred
+  thousand laborers, he built Tongwan with steamed earth pounded hard — sumptuous
+  and cruel beyond measure; riding Liu Yu's return north, he took Chang'an and the
+  imperial throne. He died in the 7th year of Zhenxing; his son Chang succeeded, and
+  Wei destroyed the realm.
+tags:
+- 筑统万
+- 铁弗匈奴
+- 取长安
+- 残暴
+tags_en:
+- Building Tongwan
+- Tie Fu Xiongnu
+- Taking Chang'an
+- Cruelty
+portrait:
+  primary: assets/portraits/xia-helian/primary.png
+  variants: []
+  style_version: v1
+  appearance_basis: 史载无形貌描写。画像宜表现雄武酷烈的匈奴君主之态，衣冠从铁弗部制。属艺术想象。
+  prompt_ref: tools/prompts/portrait-v1.md
+  disclaimer: 艺术想象，非考古复原
+bio:
+  file: content/bios/xia-helian.md
+timeline:
+- year: '381'
+  date_note: 约年
+  date_note_en: c. 381
+  title: 生
+  title_en: Birth
+  summary: 匈奴铁弗部，刘卫辰子，原名刘勃勃。
+  summary_en: A Tie Fu Xiongnu, son of Liu Weichen, originally named Liu Bobo.
+  place_id: null
+  related_person_ids: []
+  sources: &id001
+  - 晋书·卷130·赫连勃勃载记
+  card_id: E001
+- year: '407'
+  date_note: 龙升元年
+  date_note_en: 1st year of Longsheng
+  title: 称大夏天王
+  title_en: Heavenly King of Xia
+  summary: 叛后秦，称天王、大单于，国号大夏。
+  summary_en: Turning against Later Qin, he styled himself Heavenly King and Great
+    Chanyu of the realm Great Xia.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E002
+- year: '413'
+  date_note: 凤翔元年
+  date_note_en: 1st year of Fengxiang
+  title: 筑统万城
+  title_en: Building Tongwan
+  summary: 发民夫十万筑统万，蒸土夯筑，极侈且酷。
+  summary_en: He drove a hundred thousand laborers to build Tongwan, pounded earth
+    steamed — extravagant and cruel beyond measure.
+  place_id: tong-wan
+  related_person_ids: []
+  sources: *id001
+  card_id: E003
+- year: '418'
+  date_note: 昌武元年
+  date_note_en: 1st year of Changwu
+  title: 取长安称帝
+  title_en: Chang'an Taken, the Throne
+  summary: 乘刘裕北还，取长安，即皇帝位。
+  summary_en: Riding Liu Yu's return north, he took Chang'an and the imperial throne.
+  place_id: chang-an
+  related_person_ids: []
+  sources: *id001
+  card_id: E004
+- year: '425'
+  date_note: 真兴七年
+  date_note_en: 7th year of Zhenxing
+  title: 勃勃崩
+  title_en: Death of Bobo
+  summary: 崩，子昌继，后为魏所灭。
+  summary_en: He died; his son Chang succeeded, and Wei destroyed the realm.
+  place_id: tong-wan
+  related_person_ids: []
+  sources: *id001
+  card_id: E005
+- year: '425'
+  date_note: 史评
+  date_note_en: verdict of the histories
+  title: 勃勃总评
+  title_en: Final Verdict
+  summary: 雄武有余，残忍好杀，史极言之。
+  summary_en: His ferocity exceeded his virtue; his cruelty and love of killing the
+    histories condemn utterly.
+  place_id: null
+  related_person_ids: []
+  sources: *id001
+  card_id: E006
+relations:
+- type: related_emperor
+  target_id: n-wei-taiwu
+  note: 胡夏为北魏所灭，统万城破
+routes:
+- group: 都城
+  order: 1
+  year: '407'
+  place_id: null
+  event: 称大夏天王
+- group: 都城
+  order: 2
+  year: '413'
+  place_id: tong-wan
+  event: 筑统万城
+- group: 其他
+  order: 3
+  year: '418'
+  place_id: chang-an
+  event: 取长安称帝
+- group: 都城
+  order: 4
+  year: '425'
+  place_id: tong-wan
+  event: 勃勃崩
+sources:
+- title: 晋书·赫连勃勃载记
+  note: 主叙事
+- title: 魏书·铁弗刘虎传
+  note: 北魏灭夏互见
+meta:
+  status: draft
+  confidence: medium
+  last_reviewed: '2026-08-10'
+  inclusion_reason: 胡夏开国君主，暴君典型，图鉴以准帝收录。
+  synced_from_cards: true
