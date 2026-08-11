@@ -15,7 +15,7 @@ dynasty:
   label: 西晋
   sequence: 1
 reign:
-  start: '265'
+  start: '266'
   end: '290'
   eras:
   - 泰始

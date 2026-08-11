@@ -3183,7 +3183,7 @@
       },
       "reign": {
         "start": "-207",
-        "end": "-206",
+        "end": "-207",
         "eras": []
       },
       "life": {
@@ -6704,7 +6704,7 @@
           "card_id": "E010"
         },
         {
-          "year": "-48",
+          "year": "-49",
           "date_note": "政风",
           "date_note_en": "Governance Style",
           "title": "信赏必罚吏治",
@@ -6719,7 +6719,7 @@
           "card_id": "E011"
         },
         {
-          "year": "-48",
+          "year": "-49",
           "date_note": "施政总评",
           "date_note_en": "Overall Assessment",
           "title": "综核名实",
@@ -17491,7 +17491,7 @@
         "sequence": 1
       },
       "reign": {
-        "start": "265",
+        "start": "266",
         "end": "290",
         "eras": [
           "泰始",
@@ -31144,7 +31144,7 @@
       },
       "reign": {
         "start": "554",
-        "end": "557",
+        "end": "556",
         "eras": []
       },
       "life": {
@@ -33174,7 +33174,7 @@
       },
       "reign": {
         "start": "578",
-        "end": "580",
+        "end": "579",
         "eras": [
           "大成",
           "大象"
@@ -41039,7 +41039,7 @@
       },
       "dynasty": {
         "id": "chu",
-        "label": "楚",
+        "label": "马楚",
         "sequence": 1
       },
       "reign": {
@@ -42361,11 +42361,11 @@
       },
       "dynasty": {
         "id": "jingnan",
-        "label": "南平",
+        "label": "荆南",
         "sequence": 1
       },
       "reign": {
-        "start": "907",
+        "start": "924",
         "end": "928",
         "eras": []
       },
@@ -55285,16 +55285,7 @@
         },
         {
           "type": "text",
-          "value": ", ascended in 1067 at twenty, determined to make the state rich and strong.\n\nIn 1069 he elevated "
-        },
-        {
-          "type": "link",
-          "id": "wang-anshi",
-          "label": "Wang Anshi"
-        },
-        {
-          "type": "text",
-          "value": ", established the Three-Service Finance Commission, and rolled out the green sprouts, hired service, militia, and equal transport laws - the Xining Reforms. They rebuilt finances and armies, but charges of burdening the people and seizing profits followed at once, and the court split into reform and conservative camps. Wang Anshi resigned for good in 1076; the reforms continued while the reform camp itself split. The Yuanfeng restructuring of offices completed the recentralization.\n\nMilitarily Shenzong dreamed of expansion: the Xining campaigns opened the Longyou lands of Western Xia, but in 1081 five columns invaded Xia and lost tens of thousands at Lingzhou and Yongle. The western war came to nothing, and the emperor mourned the Yongle disaster openly at court.\n\nHe died in 1085; his son Zhao Xu succeeded under the regency of Empress Gao, becoming "
+          "value": ", ascended in 1067 at twenty, determined to make the state rich and strong.\n\nIn 1069 he elevated Wang Anshi, established the Three-Service Finance Commission, and rolled out the green sprouts, hired service, militia, and equal transport laws - the Xining Reforms. They rebuilt finances and armies, but charges of burdening the people and seizing profits followed at once, and the court split into reform and conservative camps. Wang Anshi resigned for good in 1076; the reforms continued while the reform camp itself split. The Yuanfeng restructuring of offices completed the recentralization.\n\nMilitarily Shenzong dreamed of expansion: the Xining campaigns opened the Longyou lands of Western Xia, but in 1081 five columns invaded Xia and lost tens of thousands at Lingzhou and Yongle. The western war came to nothing, and the emperor mourned the Yongle disaster openly at court.\n\nHe died in 1085; his son Zhao Xu succeeded under the regency of Empress Gao, becoming "
         },
         {
           "type": "link",
@@ -55869,16 +55860,7 @@
         },
         {
           "type": "text",
-          "value": ", ascended in 1100. He is among the greatest artists ever to sit on a Chinese throne: the slender-gold calligraphic script, bird-and-flower painting, the Xuanhe Painting Academy - his artistry crowned the age. As an emperor, however, his record is the ruin of Northern Song.\n\nIn 1102 he made "
-        },
-        {
-          "type": "link",
-          "id": "cai-jing",
-          "label": "Cai Jing"
-        },
-        {
-          "type": "text",
-          "value": " chancellor, erected the stele proscribing the Yuanyou faction, and launched the Flower-and-Rock Network that stripped the southeast of its finest stones and plants, breeding seething resentment. In 1120 Fang La rose in Muzhou and shook the southeast. Abroad he allied with the Jin to destroy Liao, recovering the empty city of Yanjing in 1123 on tribute terms - in reality inviting the wolf into the house.\n\nIn 1125, with Jin armies advancing, Huizong abdicated hastily to his son Zhao Huan, "
+          "value": ", ascended in 1100. He is among the greatest artists ever to sit on a Chinese throne: the slender-gold calligraphic script, bird-and-flower painting, the Xuanhe Painting Academy - his artistry crowned the age. As an emperor, however, his record is the ruin of Northern Song.\n\nIn 1102 he made Cai Jing chancellor, erected the stele proscribing the Yuanyou faction, and launched the Flower-and-Rock Network that stripped the southeast of its finest stones and plants, breeding seething resentment. In 1120 Fang La rose in Muzhou and shook the southeast. Abroad he allied with the Jin to destroy Liao, recovering the empty city of Yanjing in 1123 on tribute terms - in reality inviting the wolf into the house.\n\nIn 1125, with Jin armies advancing, Huizong abdicated hastily to his son Zhao Huan, "
         },
         {
           "type": "link",
@@ -56153,16 +56135,7 @@
         },
         {
           "type": "text",
-          "value": ", received the abdication in 1125 as Jin armies advanced, and changed the era to Jingkang.\n\nIn 1126 the Jin besieged Kaifeng. "
-        },
-        {
-          "type": "link",
-          "id": "li-gang",
-          "label": "Li Gang"
-        },
-        {
-          "type": "text",
-          "value": " organized the defense and rejected peace terms, but was soon sidelined by the chancellors; the court veered between war and peace, and relief armies lost their chance through indecision. In the eleventh month the city fell. In 1127 the Jin carried off both emperors with the imperial clan - the end of Northern Song. Zhang Bangchang's puppet regime lasted weeks before collapsing.\n\nQinzong was taken north, enfeoffed Duke of Tianshui, and died in Jin lands in 1161. His younger brother Kang Wang "
+          "value": ", received the abdication in 1125 as Jin armies advanced, and changed the era to Jingkang.\n\nIn 1126 the Jin besieged Kaifeng. Li Gang organized the defense and rejected peace terms, but was soon sidelined by the chancellors; the court veered between war and peace, and relief armies lost their chance through indecision. In the eleventh month the city fell. In 1127 the Jin carried off both emperors with the imperial clan - the end of Northern Song. Zhang Bangchang's puppet regime lasted weeks before collapsing.\n\nQinzong was taken north, enfeoffed Duke of Tianshui, and died in Jin lands in 1161. His younger brother Kang Wang "
         },
         {
           "type": "link",
@@ -56478,16 +56451,7 @@
         },
         {
           "type": "text",
-          "value": ", held the title Prince Kang. After the two emperors were taken north in 1127 he was enthroned at Yingtian (modern Shangqiu), era Jianyan - the founding of Southern Song.\n\nThe Jianyan years were a desperate flight. The Miao-Liu mutiny forced his temporary abdication; when Jin troops advanced he fled to sea, drifting along the Zhejiang coast. In 1138 he fixed the temporary capital at Lin'an (modern Hangzhou), settling the southern state. In 1140 "
-        },
-        {
-          "type": "link",
-          "id": "yue-fei",
-          "label": "Yue Fei"
-        },
-        {
-          "type": "text",
-          "value": " and others won victories at Yingchang and Yancheng - until Gaozong recalled the armies with \"twelve gold edicts.\" In 1141 the Shaoxing Treaty made Song a vassal along the Huai River with annual tribute; Yue Fei was imprisoned and executed. The treaty brought twenty years of peace, but the \"trumped-up charge\" remains an eternal grievance.\n\nIn 1162 Gaozong abdicated to his adopted son Zhao Shen, "
+          "value": ", held the title Prince Kang. After the two emperors were taken north in 1127 he was enthroned at Yingtian (modern Shangqiu), era Jianyan - the founding of Southern Song.\n\nThe Jianyan years were a desperate flight. The Miao-Liu mutiny forced his temporary abdication; when Jin troops advanced he fled to sea, drifting along the Zhejiang coast. In 1138 he fixed the temporary capital at Lin'an (modern Hangzhou), settling the southern state. In 1140 Yue Fei and others won victories at Yingchang and Yancheng - until Gaozong recalled the armies with \"twelve gold edicts.\" In 1141 the Shaoxing Treaty made Song a vassal along the Huai River with annual tribute; Yue Fei was imprisoned and executed. The treaty brought twenty years of peace, but the \"trumped-up charge\" remains an eternal grievance.\n\nIn 1162 Gaozong abdicated to his adopted son Zhao Shen, "
         },
         {
           "type": "link",
@@ -57630,16 +57594,7 @@
         },
         {
           "type": "text",
-          "value": " hanged himself and Jin fell. After Shi Miyuan's death Lizong governed in person: he changed the era to Duanping, posthumously honored Zhu Xi and the Cheng brothers, and carried Neo-Confucianism to its official apogee - the \"reverence for dao-learning\" that defined his political style. That same year, however, his troops marched to recover the Three Capitals, the \"Duanping recovery,\" and were routed by the Mongols; the Song-Mongol compact broke and Mongolia became the great neighbor. Lizong's energy then waned; in his later years he entrusted "
-        },
-        {
-          "type": "link",
-          "id": "jia-si-dao",
-          "label": "Jia Sidao"
-        },
-        {
-          "type": "text",
-          "value": " while Mongol armies pressed south.\n\nHe died in 1264; his nephew Zhao Qi became "
+          "value": " hanged himself and Jin fell. After Shi Miyuan's death Lizong governed in person: he changed the era to Duanping, posthumously honored Zhu Xi and the Cheng brothers, and carried Neo-Confucianism to its official apogee - the \"reverence for dao-learning\" that defined his political style. That same year, however, his troops marched to recover the Three Capitals, the \"Duanping recovery,\" and were routed by the Mongols; the Song-Mongol compact broke and Mongolia became the great neighbor. Lizong's energy then waned; in his later years he entrusted Jia Sidao while Mongol armies pressed south.\n\nHe died in 1264; his nephew Zhao Qi became "
         },
         {
           "type": "link",
@@ -57909,16 +57864,7 @@
         },
         {
           "type": "text",
-          "value": ", was made heir and ascended in 1264, era Xianchun.\n\nFor all ten years of his reign power lay with "
-        },
-        {
-          "type": "link",
-          "id": "jia-si-dao",
-          "label": "Jia Sidao"
-        },
-        {
-          "type": "text",
-          "value": ": state affairs were settled in the chancellor's mansion while the emperor lived deep in the palace, lost in wine and women. In 1268 the Mongols besieged Xiangyang and Fancheng; relief was weak, and the defender Lü Wenhuan held for five years. In 1273 Xiangyang fell and Lü surrendered; the gateway of the Yangtze-Han region was flung open, and the doom of Southern Song was sealed.\n\nHe died in 1274; his son Zhao Xian became "
+          "value": ", was made heir and ascended in 1264, era Xianchun.\n\nFor all ten years of his reign power lay with Jia Sidao: state affairs were settled in the chancellor's mansion while the emperor lived deep in the palace, lost in wine and women. In 1268 the Mongols besieged Xiangyang and Fancheng; relief was weak, and the defender Lü Wenhuan held for five years. In 1273 Xiangyang fell and Lü surrendered; the gateway of the Yangtze-Han region was flung open, and the doom of Southern Song was sealed.\n\nHe died in 1274; his son Zhao Xian became "
         },
         {
           "type": "link",
@@ -58442,16 +58388,7 @@
         },
         {
           "type": "text",
-          "value": ", held the title Prince Yi. After Lin'an surrendered in 1276 the two princes fled south; Zhang Shijie and Lu Xiufu enthroned Shi at Fuzhou, era Jingyan - the Song cause held on.\n\nHis two years (1276-1278) were spent drifting: "
-        },
-        {
-          "type": "link",
-          "id": "wen-tianxiang",
-          "label": "Wen Tianxiang"
-        },
-        {
-          "type": "text",
-          "value": " raised troops in Jiangxi and was soon captured; the court moved by sea through Fujian and Guangdong, caught between land and wave. In 1278 Duanzong died at Naozhou; his younger brother Zhao Bing succeeded as "
+          "value": ", held the title Prince Yi. After Lin'an surrendered in 1276 the two princes fled south; Zhang Shijie and Lu Xiufu enthroned Shi at Fuzhou, era Jingyan - the Song cause held on.\n\nHis two years (1276-1278) were spent drifting: Wen Tianxiang raised troops in Jiangxi and was soon captured; the court moved by sea through Fujian and Guangdong, caught between land and wave. In 1278 Duanzong died at Naozhou; his younger brother Zhao Bing succeeded as "
         },
         {
           "type": "link",
@@ -63200,7 +63137,7 @@
         "sequence": 9
       },
       "reign": {
-        "start": "1223",
+        "start": "1224",
         "end": "1234",
         "eras": [
           "正大",

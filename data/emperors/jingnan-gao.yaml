@@ -12,10 +12,10 @@ names:
   - 高贻孙
 dynasty:
   id: jingnan
-  label: 南平
+  label: 荆南
   sequence: 1
 reign:
-  start: '907'
+  start: '924'
   end: '928'
   eras: []
 life:

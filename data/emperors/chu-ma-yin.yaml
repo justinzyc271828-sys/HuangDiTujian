@@ -12,7 +12,7 @@ names:
   - 马霸图
 dynasty:
   id: chu
-  label: 楚
+  label: 马楚
   sequence: 1
 reign:
   start: '907'

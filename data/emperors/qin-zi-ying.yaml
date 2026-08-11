@@ -16,7 +16,7 @@ dynasty:
   sequence: 3
 reign:
   start: '-207'
-  end: '-206'
+  end: '-207'
   eras: []
 life:
   birth: null
