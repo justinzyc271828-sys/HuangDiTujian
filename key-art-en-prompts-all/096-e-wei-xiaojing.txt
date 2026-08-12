@@ -4,8 +4,8 @@ ORDER: 96
 PERSONAL_NAME_ZH: 元善见
 DISPLAY_ZH: 孝静帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S108-KNEE-SIDE-MS-LONGWATCH
-COLOR_CODE: C108-YELONG-CITYWALL-BRONZE-G0
+SHOT_CODE: S108-LOW-REAR3Q-MCU-SEALNOTPASSED
+COLOR_CODE: C108-SEALNOTPASSED-ASHWHITE-SEALJADE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\096-e-wei-xiaojing.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a composed weary East Asian man in his twenties, Eastern Wei emperor Xiaojing Yuan Shanjian type: tired noble face, neat beard, patient posture; COSTUME: dark Wei imperial robe with red trim, dark cap; ACCESSORIES: both hands resting on the city wall parapet.
+a composed weary East Asian man in his mid-twenties, Eastern Wei emperor Xiaojing Yuan Shanjian type: tired noble face, neat beard, patient posture held upright for the last rite; COSTUME: dark Wei imperial robe with red trim, dark cap; ACCESSORIES: both hands holding the imperial seal with its braided ribbons out before his chest.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xiaojing, standing on the wall of Ye in the sixteen years of his watch, looks down at the city below and the evening watch bell has not yet rung.
+Freeze the instant when Emperor Xiaojing, standing below the throne dais of Ye at the abdication rite, holds the seal and ribbons out over the waiting hands of Gao Yang's envoy — the cords not yet slipped from his fingers, the envoy's palms not yet touching the jade.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S108-KNEE-SIDE-MS-LONGWATCH
-- Elevation and pitch: knee height from the wall walk, looking across the city.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the city, about half readable.
-- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height with the city below.
+- Shot code: S108-LOW-REAR3Q-MCU-SEALNOTPASSED
+- Elevation and pitch: low, from the hall floor behind the emperor, looking up about ten degrees past his shoulder toward the envoy.
+- Subject azimuth and orientation: rear three-quarter over-the-shoulder view of the standing emperor; the seal, its ribbons and the envoy's waiting hands readable beyond his sleeve.
+- Shot scale and lens behavior: 70 mm medium-close shot; the emperor occupies about sixty-two percent of frame height from cap to seal.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a wall guard standing behind the emperor, watching a ruler who has learned to wait rather than rule.
+the viewer is a young Wei courtier kneeling directly behind the emperor, close enough to count the braids of the seal ribbons as they leave the dynasty's hands.
 
 EVENT MOTION THROUGH THE FRAME:
-the city smoke and the evening light move past the standing emperor.
+the seal ribbons fall forward toward the envoy while the ranked bowed heads tilt in the same slow direction.
 
 EXTREME FOREGROUND DESIGN:
-the parapet stone and one banner edge.
+the emperor's shoulder seam and one hanging ribbon end, with the envoy's cropped fingertips below.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C108-YELONG-CITYWALL-BRONZE-G0
-- Dominant palette: Ye long city wall gray, bronze evening light, dark robe and pale smoke.
-- Gold allocation: G0 no gold leaf; banner fittings are dark bronze.
-- Lighting logic: low evening light over the city, warm and fading.
-- Surface rhythm: wall stone grain, dry-brush smoke bands and long wall shadows.
+- Color code: C108-SEALNOTPASSED-ASHWHITE-SEALJADE-G0
+- Dominant palette: ash-white ceremony silk, pale seal jade, charcoal-dark robe, dull vermilion ribbon cords and cold morning light.
+- Gold allocation: G0 no gold leaf; the seal cords are dyed silk and the fittings dark bronze.
+- Lighting logic: flat cold morning light through the hall gates, white on the silk and weak on the jade.
+- Surface rhythm: broad white silk planes, dry-brush ribbon strands and one pale jade face catching the light.
 
 HISTORICAL EVENT ENVIRONMENT:
-the city wall of Ye: the standing emperor, evening banners, city roofs below, the distant gate.
+the abdication hall of Ye: the empty throne dais above, ranked bowing officials as low-detail masses, Gao Yang's envoy standing below the steps with both hands raised.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign measured in patience: the emperor on the wall, watching sixteen years pass without a decision of his own.
+Use the emotional implication of a puppet performing his one decisive act: the hands that never ruled now let go with perfect manners.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

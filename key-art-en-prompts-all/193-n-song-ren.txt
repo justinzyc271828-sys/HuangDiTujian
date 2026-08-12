@@ -4,8 +4,8 @@ ORDER: 193
 PERSONAL_NAME_ZH: 赵祯
 DISPLAY_ZH: 宋仁宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S194-KNEE-SIDE-MS-OPENHALL
-COLOR_CODE: C194-RENHALL-PALEBLUE-PAPER-G0
+SHOT_CODE: S194-KNEE-REAR3Q-MC-QINGLIREFORM
+COLOR_CODE: C194-QINGLIREFORM-PALEBLUE-PAPER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\193-n-song-ren.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late forties, Song emperor Renzong Zhao Zhen type: kind composed face, neat gray-streaked beard, gentle upright posture; COSTUME: dark red Song imperial robe with black edges, black cap, plain dignified dress; ACCESSORIES: both hands resting on the armrests, leaning slightly toward the hall.
+an East Asian man in his early thirties, Song emperor Renzong Zhao Zhen type: kind composed face, neat dark beard, gentle upright posture; COSTUME: dark red Song imperial robe with black edges, black cap, plain dignified dress; ACCESSORIES: both hands resting on the armrests, leaning slightly toward the hall.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Renzong, at the audience, listens to the complaint of an ordinary clerk and the petition has not yet been answered.
+Freeze the instant when Emperor Renzong, at the reform court of the Qingli era, receives the ten-article memorial from Fan Zhongyan and Fu Bi and his answer has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S194-KNEE-SIDE-MS-OPENHALL
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the petitioner, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S194-KNEE-REAR3Q-MC-QINGLIREFORM
+- Elevation and pitch: knee height from beside the throne, looking down the hall axis toward the standing reformers.
+- Subject azimuth and orientation: rear three-quarter view over the emperor's shoulder; the ten-article memorial in Fan Zhongyan's raised hands beyond, the emperor's profile barely readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's shoulder to the memorial; he occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a clerk standing at the hall side, the man watching the most patient emperor of the dynasty hear a commoner's case.
+the viewer is a young court official standing at the hall side, watching the most patient emperor of the dynasty take up the boldest memorial of the reign.
 
 EVENT MOTION THROUGH THE FRAME:
-the petition and the emperor's forward lean move toward each other across the hall.
+the raised memorial and the emperor's forward lean move toward each other across the hall.
 
 EXTREME FOREGROUND DESIGN:
-the petition edge and one official's shoulder.
+the emperor's sleeve edge and the memorial in Fan Zhongyan's hands.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C194-RENHALL-PALEBLUE-PAPER-G0
-- Dominant palette: Ren hall pale blue, paper pale, dark robe, official cloth and soft hall light.
+- Color code: C194-QINGLIREFORM-PALEBLUE-PAPER-G0
+- Dominant palette: reform hall pale blue, memorial paper pale, dark red robe, official cloth and soft hall light.
 - Gold allocation: G0 no gold leaf; everything is cloth and paper.
-- Lighting logic: soft even hall light, gentle on the hall.
-- Surface rhythm: hall stone, dry-brush petition edges and mat grain.
+- Lighting logic: soft even hall light, expectant over the session.
+- Surface rhythm: hall stone, dry-brush memorial edges and official robe folds.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Song audience hall in the Jiayou era: seated emperor, the petition, ranked officials, soft light.
+the Song audience hall in the Qingli era: the listening emperor, Fan Zhongyan and Fu Bi with the ten-article memorial, ranked officials, soft light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the dynasty's most humane reign: the emperor leaning toward a clerk's paper, patience as the highest art of rule.
+Use the emotional implication of a gentle reign attempting its sharpest turn: the ten articles that offended the court's entrenched interests and would be withdrawn within the year.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

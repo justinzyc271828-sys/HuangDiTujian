@@ -4,7 +4,7 @@ ORDER: 106
 PERSONAL_NAME_ZH: 宇文毓
 DISPLAY_ZH: 明帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S118-KNEE-SIDE-MC-CUPOFNIGHT
+SHOT_CODE: S118-EYE-FRONT-MC-CUPOFNIGHT
 COLOR_CODE: C118-POISONNIGHT-AMBER-WINE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\106-n-zhou-ming.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,9 +27,9 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Ming, at the night table with his verse scroll, watches the wine cup being filled and the cup has not yet been lifted.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S118-KNEE-SIDE-MC-CUPOFNIGHT
-- Elevation and pitch: knee height from the side of the table, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the cup, about half readable.
+- Shot code: S118-EYE-FRONT-MC-CUPOFNIGHT
+- Elevation and pitch: eye level from across the table, through the candle flame.
+- Subject azimuth and orientation: near-frontal view of the seated emperor; the face raised from the scroll toward the attendant, readable.
 - Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the cup; he occupies about sixty-five percent of frame height.
 - Camera roll: level horizon.
 

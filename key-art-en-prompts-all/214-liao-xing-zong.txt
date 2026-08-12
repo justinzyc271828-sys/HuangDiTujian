@@ -4,8 +4,8 @@ ORDER: 214
 PERSONAL_NAME_ZH: 耶律宗真
 DISPLAY_ZH: 辽兴宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S215-KNEE-SIDE-MS-CULTUREDCOURT
-COLOR_CODE: C215-CULTUREDCOURT-CINNABAR-SCROLL-G0
+SHOT_CODE: S215-KNEE-SIDE-MWS-GUANNANDEMAND
+COLOR_CODE: C215-GUANNANDEMAND-SABLE-SILK-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\214-liao-xing-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early thirties, Liao emperor Xingzong Yelv Zongzhen type: refined composed face, neat beard, cultured posture; COSTUME: dark Khitan court robe with fur collar and Han-style silk trim, dark cap, the dress of the sinicized court; ACCESSORIES: one hand holding an open scroll of verse, the other resting on the table.
+an East Asian man in his mid-twenties, Liao emperor Xingzong Yelv Zongzhen type: refined composed face, neat short beard, cool measuring posture; COSTUME: dark Khitan court robe with fur collar and Han-style silk trim, dark cap, the dress of the sinicized court; ACCESSORIES: one hand resting on the sealed state letter on the table, the other gesturing toward the waiting envoy.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xingzong, at the cultural court session, reads the opening line of the verse and the assembled scholars' first response has not yet been spoken.
+Freeze the instant when Emperor Xingzong, at the audience of the Guannan demand, holds the state letter claiming the ten counties of Guannan and the envoy's departure for the Song court has not yet begun.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S215-KNEE-SIDE-MS-CULTUREDCOURT
-- Elevation and pitch: knee height from the hall floor, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the scroll, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S215-KNEE-SIDE-MWS-GUANNANDEMAND
+- Elevation and pitch: knee height from the hall floor beside the envoy, looking up slightly toward the standing emperor.
+- Subject azimuth and orientation: left-side three-quarter view; the face turned toward the envoy, about half readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about sixty percent of frame height with the envoy at the frame edge.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Han scholar standing at the hall edge, watching the northern court write verse in the language of the south.
+the viewer is the Liao envoy waiting beside the letter table, the man who will carry the demand for the Guannan counties south.
 
 EVENT MOTION THROUGH THE FRAME:
-the reading gaze and the scholars' poised brushes hold the quiet of the cultured court.
+the sealed letter and the envoy's waiting bow hold the pressure of a demand the south will pay to refuse.
 
 EXTREME FOREGROUND DESIGN:
-the scroll edge and one scholar's sleeve.
+the envoy's shoulder and the letter table's edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C215-CULTUREDCOURT-CINNABAR-SCROLL-G0
-- Dominant palette: cultured court cinnabar trim, scroll pale, dark robe, fur white and soft hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and paper.
-- Lighting logic: soft even hall light, calm and literary.
-- Surface rhythm: scroll fiber, dry-brush verse edges and table grain.
+- Color code: C215-GUANNANDEMAND-SABLE-SILK-G0
+- Dominant palette: demand court sable brown, letter silk pale, bronze dark, fur white and cold hall light.
+- Gold allocation: G0 no gold leaf; everything is fur, bronze and silk.
+- Lighting logic: cold even hall light, hard on the letter table.
+- Surface rhythm: table grain, dry-brush fur edges and long shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the cultural court of the Liao: seated emperor, scholars, scrolls, soft light.
+the Liao audience hall in the Chongxi era: the standing emperor, the sealed state letter, the waiting envoy, ranked officials, cold light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the steppe court learning the south's letters: the northern emperor reading verse as a state art.
+Use the emotional implication of pressure without war: the young northern emperor pricing the ten counties of Guannan against the south's silver and silk.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

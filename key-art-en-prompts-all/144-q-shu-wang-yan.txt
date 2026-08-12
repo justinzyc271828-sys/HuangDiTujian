@@ -4,8 +4,8 @@ ORDER: 144
 PERSONAL_NAME_ZH: 王衍
 DISPLAY_ZH: 前蜀后主
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S152-HIGH-DOWN-FRONT-MWS-PLAYTHRONE
-COLOR_CODE: C152-PLAYTHRONE-BROCADE-LANTERN-G0
+SHOT_CODE: S152-KNEE-SIDE-MC-WHITESURRENDER
+COLOR_CODE: C152-WHITESURRENDER-MOURN-COLDGRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\144-q-shu-wang-yan.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a vain young East Asian man in his mid-twenties, Former Shu emperor Wang Yan type: soft pretty face, delicate build, indulgent dress; COSTUME: ornate brocade robe in purple and green, jade belt, high ornate cap, the dress of the pleasure court; ACCESSORIES: one hand holding a wine cup, the other raised toward the dancers.
+a young East Asian man in his mid-twenties, Former Shu emperor Wang Yan type: soft pretty face drained of color, delicate build; COSTUME: plain white mourning robe of the surrender, no cap, hair loosened, his arms roped behind his back; ACCESSORIES: the straw rope binding his arms, the white mourning sash at his waist.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor, at the palace banquet, raises the wine cup toward the dancers and the report of the enemy crossing the mountains has not yet reached the hall.
+Freeze the instant when Wang Yan, roped in white at the gate of Chengdu, steps toward the Tang envoy who has come to receive the surrender and the coffin cart behind him has not yet passed the gate.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S152-HIGH-DOWN-FRONT-MWS-PLAYTHRONE
-- Elevation and pitch: high, looking down about twenty-five degrees from the gallery onto the banquet.
-- Subject azimuth and orientation: near-frontal view of the seated emperor; the face raised toward the dancers, readable.
-- Shot scale and lens behavior: 40 mm medium shot; the emperor occupies about fifty percent of frame height.
+- Shot code: S152-KNEE-SIDE-MC-WHITESURRENDER
+- Elevation and pitch: knee height from beside the coffin cart's wheel inside the gate passage, looking slightly up toward the white figure.
+- Subject azimuth and orientation: right-side three-quarter view of the bound emperor; the face turned toward the envoy beyond the gate, about half readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the mourning sash to the gate arch above; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a palace attendant at the banquet edge, the man who has heard the mountain passes are falling.
+the viewer is a Shu clerk kneeling at the gate side, the man who must hand the registers of the kingdom to the Tang envoy.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised cup and the dancers' turning movement circle the seated figure.
+the bound white line of emperor and ministers and the waiting envoy face each other across the gate threshold, the coffin cart halted between them.
 
 EXTREME FOREGROUND DESIGN:
-one dancer's sleeve and the cup edge.
+the coffin cart's wheel rim and one loose rope end.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C152-PLAYTHRONE-BROCADE-LANTERN-G0
-- Dominant palette: play throne brocade, lantern warm, jade green, wine red and dim banquet light.
-- Gold allocation: G0 no gold leaf; the cup is plain bronze.
-- Lighting logic: warm banquet lamps, dim toward the hall edges.
-- Surface rhythm: banquet silk, dry-brush sleeve edges and lamp haze.
+- Color code: C152-WHITESURRENDER-MOURN-COLDGRAY-G0
+- Dominant palette: mourning white, coffin wood pale, rope hemp brown, gate shadow gray and cold overcast light.
+- Gold allocation: G0 no gold leaf; everything is cloth, rope and raw wood.
+- Lighting logic: cold overcast light inside the gate passage, the world outside paler still.
+- Surface rhythm: gate stone, dry-brush rope fibers and raw coffin wood grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the palace banquet hall: dancers, musicians, the seated emperor, lamps, the shadowed doors.
+the inner gate passage of Chengdu: the white-clad bound emperor, his ministers roped the same, the coffin cart, the Tang envoy with the surrender edict beyond the gate, cold sky.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a kingdom lost between dances: the cup raised to the music, the mountains already crossed.
+Use the emotional implication of a kingdom walked out in mourning cloth: the pleasure court ending in a white rope at its own gate.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

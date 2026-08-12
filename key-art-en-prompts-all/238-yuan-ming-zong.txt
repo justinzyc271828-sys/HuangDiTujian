@@ -4,7 +4,7 @@ ORDER: 238
 PERSONAL_NAME_ZH: 和世㻋
 DISPLAY_ZH: 元明宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S238-SADDLE-HIGH-FRONT3Q-MWS-RETURNWEST
+SHOT_CODE: S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST
 COLOR_CODE: C238-RETURNWEST-STEPPE-SUNSET-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\238-yuan-ming-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,14 +27,14 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the returning emperor, riding east from the western steppe to claim the throne, crests the ridge and the banners of the welcome have not yet appeared on the horizon.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S238-SADDLE-HIGH-FRONT3Q-MWS-RETURNWEST
-- Elevation and pitch: saddle height from beside the ridge road, looking across the steppe.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted emperor; the face turned toward the east, readable.
+- Shot code: S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST
+- Elevation and pitch: high, from the ridge crest, looking down about twenty degrees onto the road.
+- Subject azimuth and orientation: rear three-quarter view of the mounted emperor; the face turned toward the eastern horizon, the profile readable.
 - Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Mongol escort riding beside the emperor, the man who rode west with him and now rides back to a throne of six months.
+the viewer is a Mongol escort halted on the ridge crest, the man who rode west with him and now rides back to a throne of six months.
 
 EVENT MOTION THROUGH THE FRAME:
 the eastward ride and the steppe wind travel together toward the distant capital.

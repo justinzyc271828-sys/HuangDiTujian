@@ -4,7 +4,7 @@ ORDER: 231
 PERSONAL_NAME_ZH: 铁穆耳
 DISPLAY_ZH: 元成宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S231-KNEE-SIDE-MS-PEACEDECREE
+SHOT_CODE: S231-EYE-PROFILE-MC-PEACEDECREE
 COLOR_CODE: C231-DADE-CALM-SILVER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\231-yuan-cheng-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,16 +21,16 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early forties, Yuan emperor Chengzong Temur type: composed broad face, neat beard, settled dignity; COSTUME: dark Mongol court robe with silver-trimmed belt, fur collar, dark cap; ACCESSORIES: one hand holding an open decree of the peace, the other resting on the table.
+an East Asian man in his late thirties, Yuan emperor Chengzong Temur type: composed broad face, neat beard, settled dignity; COSTUME: dark Mongol court robe with silver-trimmed belt, fur collar, dark cap; ACCESSORIES: one hand holding an open decree of the peace, the other resting on the table.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Chengzong, at the court of the Dade era, opens the decree that confirms the peace of the realm and the first official's response has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S231-KNEE-SIDE-MS-PEACEDECREE
-- Elevation and pitch: knee height from the hall floor, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the decree, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S231-EYE-PROFILE-MC-PEACEDECREE
+- Elevation and pitch: eye level from the hall side, looking levelly at the seated emperor.
+- Subject azimuth and orientation: full left profile of the seated emperor; the face turned down toward the decree, the profile line readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the decree hand; he occupies about sixty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -40,7 +40,7 @@ EVENT MOTION THROUGH THE FRAME:
 the open decree and the officials' bows hold the quiet rhythm of the peace.
 
 EXTREME FOREGROUND DESIGN:
-the decree edge and one official's shoulder.
+the decree edge and the silver-trimmed belt tassel.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C231-DADE-CALM-SILVER-G0

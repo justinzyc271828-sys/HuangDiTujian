@@ -4,7 +4,7 @@ ORDER: 123
 PERSONAL_NAME_ZH: 乞伏国仁
 DISPLAY_ZH: 西秦烈祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S133-SADDLE-LOW-FRONT3Q-MWS-SINGLEORDOM
+SHOT_CODE: S133-LOW-SIDE-MS-GRASSASSEMBLY
 COLOR_CODE: C133-LONGSHAN-STEPPE-DUST-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\123-x-qin-qifu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,14 +27,14 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Qifu Guoren, at the head of the assembled Longxi tribes, accepts the title of Grand Chanyu and the first tribal banner has not yet been raised.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S133-SADDLE-LOW-FRONT3Q-MWS-SINGLEORDOM
-- Elevation and pitch: saddle level from beside the mounted group, looking across the assembly.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted chief; the face turned toward the tribes, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the chief and horse occupy about fifty-five percent of frame height.
+- Shot code: S133-LOW-SIDE-MS-GRASSASSEMBLY
+- Elevation and pitch: low, from the trampled grass at the assembly edge, looking up about fifteen degrees.
+- Subject azimuth and orientation: right-side three-quarter view of the mounted chief; the face turned toward the tribes, about half readable.
+- Shot scale and lens behavior: 50 mm medium shot; the chief and horse occupy about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Longxi herder standing at the edge of the assembly, watching his tribe become a kingdom for a season.
+the viewer is a Longxi herder crouched in the trampled grass at the edge of the assembly, watching his tribe become a kingdom for a season.
 
 EVENT MOTION THROUGH THE FRAME:
 the tribal banners' rise and the crowd's answering surge move inward around the mounted chief.

@@ -4,7 +4,7 @@ ORDER: 121
 PERSONAL_NAME_ZH: 姚兴
 DISPLAY_ZH: 后秦高祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S131-HIGH-DOWN-FRONT3Q-MWS-SUTRACARRIAGE
+SHOT_CODE: S131-EYE-SIDE-MCU-SUTRACARRIAGE
 COLOR_CODE: C131-SUTRAJOURNEY-GOLDEN-BUDDHARED-G1
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\121-h-qin-yao-xing.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,17 +27,17 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Yao Xing, standing in the high hall of Chang'an, watches the carriage bearing the monk Kumarajiva enter the city and the carriage has not yet reached the gate.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S131-HIGH-DOWN-FRONT3Q-MWS-SUTRACARRIAGE
-- Elevation and pitch: high, looking down about twenty degrees from the hall toward the approaching carriage.
-- Subject azimuth and orientation: front-left three-quarter view of the emperor; the face turned toward the carriage, readable.
-- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the city below.
+- Shot code: S131-EYE-SIDE-MCU-SUTRACARRIAGE
+- Elevation and pitch: eye level at the hall rail beside the emperor.
+- Subject azimuth and orientation: right-side three-quarter profile view of the emperor; the face turned toward the approaching carriage, readable, the carriage small on the road beyond his face.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to his hands on the rail; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a young monk standing at the road edge, watching his teacher arrive in the capital of the Qin.
+the viewer is a court attendant standing at the hall rail beside the emperor, watching the carriage that brings the teacher into the city.
 
 EVENT MOTION THROUGH THE FRAME:
-the carriage and the escort travel toward the gate while the emperor's gaze meets them from above.
+the carriage and the escort travel toward the gate while the emperor's gaze rests on them from the rail.
 
 EXTREME FOREGROUND DESIGN:
 the hall railing and one banner edge.

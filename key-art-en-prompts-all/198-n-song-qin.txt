@@ -4,7 +4,7 @@ ORDER: 198
 PERSONAL_NAME_ZH: 赵桓
 DISPLAY_ZH: 宋钦宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S199-EYE-REAR3Q-MS-GATEVIGIL
+SHOT_CODE: S199-LOW-RIGHT3Q-MWS-GATEVIGIL
 COLOR_CODE: C199-GATEVIGIL-DAWN-IRON-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\198-n-song-qin.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, at the gate of the besieged capital, watches the first dawn of the siege and the defenders' positions have not yet been fully set.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S199-EYE-REAR3Q-MS-GATEVIGIL
-- Elevation and pitch: eye level from the gate passage, looking up slightly toward the standing emperor.
-- Subject azimuth and orientation: rear three-quarter view of the standing emperor; the face turned toward the gate, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S199-LOW-RIGHT3Q-MWS-GATEVIGIL
+- Elevation and pitch: low, from the gate passage floor, looking up the gate timber toward the standing emperor.
+- Subject azimuth and orientation: right-side three-quarter view of the standing emperor; the face turned toward the gate, the lantern-lit profile readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -51,10 +51,10 @@ COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Surface rhythm: gate timber grain, dry-brush dawn haze and iron texture.
 
 HISTORICAL EVENT ENVIRONMENT:
-the gate of the besieged capital: the emperor, defenders, lanterns, the gate, pale dawn.
+the gate of the besieged capital: Li Gang directing the defense below, the watching emperor above, defenders, lanterns, the gate, pale dawn.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign that began at a besieged gate: the emperor's night vigil, the capital already lost in the calendar.
+Use the emotional implication of a reign that began at a besieged gate: Li Gang holding the defense of the wall while the emperor keeps his night vigil, the capital already lost in the calendar.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

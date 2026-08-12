@@ -4,8 +4,8 @@ ORDER: 05
 PERSONAL_NAME_ZH: 刘盈
 DISPLAY_ZH: 汉惠帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S024-KNEE-SIDE-WIDE-LATERAL
-COLOR_CODE: C024-CITYEARTH-RAMMEDGRAY-UMBER-G0
+SHOT_CODE: S024-LOW-SIDE-MCU-POISONEDCUP
+COLOR_CODE: C024-POISONEDCUP-LACQUERBLACK-AMBER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\005-han-hui-di.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a slender mild-mannered East Asian man in his early twenties, Han emperor Hui type: gentle narrow face, soft brows, no beard or a light moustache, quiet posture; COSTUME: dark gray-blue Han emperor's deep robe with dark red collar band, plain black silk cap, no ceremonial crown, reflecting the modest reign; ACCESSORIES: both hands resting on the railing of the unfinished city wall, no weapon.
+a slender mild-mannered East Asian youth of seventeen, Han emperor Hui type: gentle narrow face, soft brows, no beard, a quiet nature startled upright; COSTUME: dark gray-blue Han emperor's deep robe with dark red collar band, plain black silk cap, no ceremonial crown, reflecting the modest reign; ACCESSORIES: both hands around a raised red-black lacquer wine goblet, lifted for the toast.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Hui, standing on the near-finished Chang'an wall, watches the last section of rammed-earth wall being raised into place and the report of completion has not yet been delivered.
+Freeze the instant when the young Emperor Hui has risen from his mat with the goblet lifted to toast his brother the King of Qi, and Empress Dowager Lü has half-risen from the host's seat with one arm striking toward the poisoned cup — her hand not yet on the lacquer, the wine not yet spilled.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S024-KNEE-SIDE-WIDE-LATERAL
-- Elevation and pitch: knee height from the wall walk beside the emperor, looking across the rising wall line.
-- Subject azimuth and orientation: clean right-facing side profile, the face turned only slightly toward the work below so the profile and one eye remain readable.
-- Shot scale and lens behavior: 35 mm wide shot; the emperor occupies about fifty-five percent of frame height and the wall construction spreads below him.
+- Shot code: S024-LOW-SIDE-MCU-POISONEDCUP
+- Elevation and pitch: low, from the banquet mat at the King of Qi's side of the hall, looking slightly upward across the low tables.
+- Subject azimuth and orientation: clean left-facing side profile of the rising emperor; the face turned toward his brother, the profile and one eye readable.
+- Shot scale and lens behavior: 70 mm medium-close shot; the emperor occupies about sixty-five percent of frame height, the empress dowager's half-risen form crossing the far edge.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a master builder standing on the wall walk beside the emperor, holding the final marking cord.
+the viewer is an attendant of the King of Qi kneeling at the mat edge, close enough to see the wine tremble in the raised goblet.
 
 EVENT MOTION THROUGH THE FRAME:
-the rammers and wall line travel left-to-right along the horizon while dust drifts downward with the wind.
+the empress dowager's arm and sleeve cut diagonally across the frame toward the goblet while the lamp flames lean with the sudden movement.
 
 EXTREME FOREGROUND DESIGN:
-the unfinished parapet edge, one marking cord and a cropped rammer head below.
+the low table edge, the second standing goblet and a cropped sleeve of the King of Qi.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C024-CITYEARTH-RAMMEDGRAY-UMBER-G0
-- Dominant palette: rammed-earth yellow, gray wall plaster, umber brown, deep gray-blue robe and pale dust sky.
-- Gold allocation: G0 no gold leaf or gilded trim; fittings are plain wood, iron and earth.
-- Lighting logic: flat late-afternoon daylight, dusty and even, from the upper right.
-- Surface rhythm: layered rammed-earth strata, dry-brush dust plumes and one long shadow line along the wall walk.
+- Color code: C024-POISONEDCUP-LACQUERBLACK-AMBER-G0
+- Dominant palette: red-black lacquer, wine amber, dark gray-blue robe, bronze lamp glow and deep hall shadow.
+- Gold allocation: G0 no gold leaf or gilded trim; fittings are lacquer, bronze and plain silk.
+- Lighting logic: warm low banquet lamps from the left, the hall falling into brown shadow behind the seats.
+- Surface rhythm: lacquer gloss bands, dry-brush sleeve edges and one hard lamp-lit line along the raised goblet.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Chang'an city wall under construction: timber scaffolding, rammers, carrying workers as small distant figures, carts of earth, the city spread within.
+a family banquet hall in the Chang'an palace: low lacquer tables, seated mats, bronze lamps, the King of Qi half-turned on the far side, attendants frozen at the edges.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of quiet construction under a heavy shadow: the city rising while the court above the emperor stays clouded, gentleness without triumph.
+Use the emotional implication of a gentle son walking into his mother's trap: the toast still open and kind while the arm that must save him by force is already cutting across it.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

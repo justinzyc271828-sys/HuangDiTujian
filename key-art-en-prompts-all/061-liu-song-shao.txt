@@ -4,7 +4,7 @@ ORDER: 61
 PERSONAL_NAME_ZH: 刘义符
 DISPLAY_ZH: 宋少帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S076-HIGH-DOWN-FRONT3Q-MS-MERRYGAME
+SHOT_CODE: S076-EYE-FRONT3Q-MS-MERRYGAME
 COLOR_CODE: C076-GAMECOURT-DUSK-GAMEPIECES-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\061-liu-song-shao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,8 +27,8 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, at the game court in the garden, pauses between rounds of his games and the attendant's report has not yet been heard.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S076-HIGH-DOWN-FRONT3Q-MS-MERRYGAME
-- Elevation and pitch: high, looking down about twenty degrees from the garden wall onto the court.
+- Shot code: S076-EYE-FRONT3Q-MS-MERRYGAME
+- Elevation and pitch: eye level from across the game board, at the companion's seat.
 - Subject azimuth and orientation: front-left three-quarter view of the standing youth; the face turned toward the attendant, readable.
 - Shot scale and lens behavior: 40 mm medium shot; the youth occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.

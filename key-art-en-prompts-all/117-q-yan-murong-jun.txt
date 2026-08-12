@@ -21,10 +21,10 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early forties, Former Yan emperor Murong Jun type: strong stern face, braided Xianbei hair under a bronze cap, broad shoulders; COSTUME: Xianbei ceremonial coat with fur trim and iron lamellar chest, dark trousers, high boots, the northern imperial dress of the Yan house; ACCESSORIES: one hand resting on the chariot rail, the other on his sword.
+an East Asian man in his late thirties, Former Yan emperor Murong Jun type: strong stern face, braided Xianbei hair under a bronze cap, broad shoulders; COSTUME: Xianbei ceremonial coat with fur trim and iron lamellar chest, dark trousers, high boots, the northern imperial dress of the Yan house; ACCESSORIES: one hand resting on the chariot rail, the other on his sword.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Murong Jun's chariot enters the surrendered city of Ye through the main gate and the city elders' bows have not yet been completed.
+Freeze the instant when Emperor Murong Jun's chariot enters the former Zhao capital held for five years through the main gate and the city elders' bows have not yet been completed.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S128-HIGH-SIDE-MWS-CAPITALENTRY
@@ -34,7 +34,7 @@ CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Ye commoner standing behind the elder rows, watching the northern king take the former capital of the Zhao.
+the viewer is a Ye commoner standing behind the elder rows, watching the northern king claim the former capital of the Zhao.
 
 EVENT MOTION THROUGH THE FRAME:
 the chariot column travels through the gate axis while the elders' bows sink along the sides.

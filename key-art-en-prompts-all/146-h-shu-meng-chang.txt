@@ -4,7 +4,7 @@ ORDER: 146
 PERSONAL_NAME_ZH: 孟昶
 DISPLAY_ZH: 后蜀后主
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S154-KNEE-SIDE-MC-SCHOLARHALL
+SHOT_CODE: S154-KNEE-FRONTR3Q-MS-SCHOLARHALL
 COLOR_CODE: C154-SCHOLARHALL-BAMBOO-PAPER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\146-h-shu-meng-chang.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,16 +21,16 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late thirties, Later Shu emperor Meng Chang type: refined cultured face, neat beard, elegant calm; COSTUME: dark scholar-ruler's robe with white collar, plain cap, the dress of the cultural court; ACCESSORIES: one hand holding an open scroll of the stone classics, the other resting on the desk.
+an East Asian man in his early thirties, Later Shu emperor Meng Chang type: refined cultured face, neat beard, elegant calm; COSTUME: dark scholar-ruler's robe with white collar, plain cap, the dress of the cultural court; ACCESSORIES: one hand holding an open scroll of the stone classics, the other resting on the desk.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Meng Chang, at the hall of the stone classics, reads the first column of the newly engraved text and the ink has not yet dried on the final stone.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S154-KNEE-SIDE-MC-SCHOLARHALL
-- Elevation and pitch: knee height from the side of the desk, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the scroll, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the scroll; he occupies about sixty-five percent of frame height.
+- Shot code: S154-KNEE-FRONTR3Q-MS-SCHOLARHALL
+- Elevation and pitch: knee height from the front of the desk, looking across at the seated emperor.
+- Subject azimuth and orientation: front-right three-quarter view; the face turned down toward the scroll, about half readable.
+- Shot scale and lens behavior: 50 mm medium shot from the emperor's cap to the scroll; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

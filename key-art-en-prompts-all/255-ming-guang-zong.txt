@@ -4,7 +4,7 @@ ORDER: 255
 PERSONAL_NAME_ZH: 朱常洛
 DISPLAY_ZH: 明光宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S255-EYE-REAR3Q-MS-REDPILL
+SHOT_CODE: S255-HIGH-DOWN-REAR3Q-MC-REDPILL
 COLOR_CODE: C255-TAICHANG-CANDLE-PILL-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\255-ming-guang-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,16 +21,16 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late thirties, Ming emperor Guangzong Zhu Changluo type: pale tired face, dark beard, reclining posture; COSTUME: dark Ming imperial robe loosened at the collar, no cap, hair bound, the dress of the month-long reign; ACCESSORIES: one hand resting on the small red pill on the table, the other gripping the armrest.
+an East Asian man in his late thirties, Ming emperor Guangzong Zhu Changluo type: pale tired face, dark beard, reclining posture; COSTUME: dark Ming imperial robe loosened at the collar, no cap, hair bound, the dress of the month-long reign; ACCESSORIES: one elbow propping him on the daybed, the other hand resting near the small red pill on the side table.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the emperor of the short reign, at the night table, looks at the small red pill and the hand has not yet reached for it.
+Freeze the instant when the emperor of the short reign, propped on one elbow at the daybed's side table, looks at the small red pill and the hand has not yet reached for it.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S255-EYE-REAR3Q-MS-REDPILL
-- Elevation and pitch: eye level from the night table side, looking across at the seated emperor.
-- Subject azimuth and orientation: rear three-quarter view of the seated emperor; the face turned down toward the pill, the profile readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's brow to the table; he occupies about sixty-five percent of frame height.
+- Shot code: S255-HIGH-DOWN-REAR3Q-MC-REDPILL
+- Elevation and pitch: slightly high from the head of the daybed, looking down about fifteen degrees.
+- Subject azimuth and orientation: rear three-quarter view of the half-reclining emperor propped on one elbow; the face turned toward the pill on the low side table, the profile readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's brow to the side table; he occupies about sixty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -50,7 +50,7 @@ COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Surface rhythm: table grain, dry-brush cloth folds and long candle shadow.
 
 HISTORICAL EVENT ENVIRONMENT:
-the night chamber of the month-long reign: table, the red pill, candle, the seated emperor, dim windows.
+the night chamber of the month-long reign: the daybed's side table, the red pill, candle, the half-reclining emperor, dim windows.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of a reign measured in a medicine: the small red pill on the table of the emperor who ruled for a month.

@@ -4,7 +4,7 @@ ORDER: 264
 PERSONAL_NAME_ZH: 颙琰
 DISPLAY_ZH: 清仁宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S264-EYE-REAR3Q-MS-CONFISCATION
+SHOT_CODE: S264-HIGH-DOWN-OTS-MS-CONFISCATION
 COLOR_CODE: C264-JIAQING-BRONZE-EDICT-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\264-qing-ren-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,9 +27,9 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Jiaqing, at the audience after the fall of the chief minister, holds the edict of the confiscation and the first ledger has not yet been opened.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S264-EYE-REAR3Q-MS-CONFISCATION
-- Elevation and pitch: eye level from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: rear three-quarter view of the seated emperor; the face turned down toward the ledgers, the profile readable.
+- Shot code: S264-HIGH-DOWN-OTS-MS-CONFISCATION
+- Elevation and pitch: high, from directly behind the throne, looking down about twenty-five degrees over the emperor's shoulder onto the ledger stack.
+- Subject azimuth and orientation: high over-the-shoulder rear view; the face in downward profile over the ledgers, partially readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 

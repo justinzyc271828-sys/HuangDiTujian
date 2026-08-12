@@ -4,8 +4,8 @@ ORDER: 129
 PERSONAL_NAME_ZH: 冯跋
 DISPLAY_ZH: 北燕文成帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S139-EYE-SIDE-MWS-BORDERPEACE
-COLOR_CODE: C139-LIAOXI-FIELDBROWN-PALEWALL-G0
+SHOT_CODE: S139-LOW-SIDE-MS-KINGMAKER
+COLOR_CODE: C139-KINGMAKER-PREDAWN-TORCHAMBER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\129-b-yan-feng-ba.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early sixties, Northern Yan emperor Feng Ba type: gentle weathered face, gray beard, plain solid build; COSTUME: dark Han-style robe with leather belt under a plain coat, cloth cap, the dress of a Han ruler of the northeast; ACCESSORIES: both hands resting on the field railing before him.
+an East Asian man of mature unrecorded years, the Later Yan officer Feng Ba type: weathered steady face, streaked beard, plain solid build; COSTUME: dark officer's lamellar armor under a plain coat, cloth cap, the dress of a palace-guard commander and not yet a ruler; ACCESSORIES: one hand resting on his sword hilt, the other half-raised toward the dais.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Feng Ba, standing at the edge of the settled fields of Liaoxi, watches the returning harvest carts and the first cart has not yet reached the granary.
+Freeze the instant when Feng Ba stands beside the newly raised Gao Yun on the palace dais of Longcheng, his hand on his sword hilt, and the order to seize the fleeing Murong Xi has not yet left his lips — the gate guards not yet moving, the former emperor not yet taken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S139-EYE-SIDE-MWS-BORDERPEACE
-- Elevation and pitch: eye level from the field edge, looking across the settled land.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the carts, about half readable.
-- Shot scale and lens behavior: 45 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height with the fields behind.
+- Shot code: S139-LOW-SIDE-MS-KINGMAKER
+- Elevation and pitch: low, from the hall floor among the ranked guards, looking up about twelve degrees toward the dais side.
+- Subject azimuth and orientation: clean right-facing side profile of the standing Feng Ba; the face turned toward the open gate, the profile and one eye readable.
+- Shot scale and lens behavior: 50 mm medium shot; Feng Ba occupies about sixty percent of frame height, Gao Yun a half-cropped figure on the dais behind him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a farmer standing at the field edge, watching the emperor of the north check the harvest with his own eyes.
+the viewer is a palace guard in the front rank, torch in fist, waiting for the order that has not yet been given.
 
 EVENT MOTION THROUGH THE FRAME:
-the harvest carts travel left-to-right while the wind moves the grain in the same direction.
+torch flames and the guards' leaning shadows tilt toward the open gate while the hall dust hangs unmoved.
 
 EXTREME FOREGROUND DESIGN:
-the field railing and one grain stalk cluster.
+one guard's shoulder and the rim of a torch bracket at the frame edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C139-LIAOXI-FIELDBROWN-PALEWALL-G0
-- Dominant palette: Liaoxi field brown, grain gold-brown, pale wall gray, plain robe dark and warm daylight.
-- Gold allocation: G0 no gold leaf; everything is field, wood and cloth.
-- Lighting logic: warm late-afternoon daylight, kind on the fields.
-- Surface rhythm: field furrow lines, dry-brush grain strokes and cart-track shadows.
+- Color code: C139-KINGMAKER-PREDAWN-TORCHAMBER-G0
+- Dominant palette: pre-dawn blue-black, torch amber, iron armor gray, worn leather and cold gate light.
+- Gold allocation: G0 no gold leaf; fittings are iron and dark bronze.
+- Lighting logic: hard torchlight from the left against blue-black pre-dawn shadow at the open gate.
+- Surface rhythm: armor lamella strokes, dry-brush smoke and long torch shadows across the floor stones.
 
 HISTORICAL EVENT ENVIRONMENT:
-the settled fields of Liaoxi: harvest carts, granary buildings, field paths, the emperor at the field edge, warm sky.
+the palace hall of Longcheng before dawn: the dais with the newly raised Gao Yun, ranked guards with torches, the open gate toward the dark city, the fallen house's banners still hanging.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a Han house holding the northeast by growing grain: the emperor at the field edge, watching peace arrive in carts.
+Use the emotional implication of the careful man at the exact moment he wins: Feng Ba does not raise his sword — the coup completes itself around his stillness.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

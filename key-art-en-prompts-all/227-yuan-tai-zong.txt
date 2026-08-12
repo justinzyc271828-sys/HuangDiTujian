@@ -4,7 +4,7 @@ ORDER: 227
 PERSONAL_NAME_ZH: 窝阔台
 DISPLAY_ZH: 元太宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S228-HIGH-DOWN-FRONT3Q-MWS-CONQUESTMAP
+SHOT_CODE: S228-KNEE-REAR3Q-MS-CONQUESTMAP
 COLOR_CODE: C228-CONQUESTMAP-EARTH-BRONZE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\227-yuan-tai-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,15 +21,15 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early forties, Yuan emperor Taizong Ogedei type: broad composed face, dark beard, generous commanding build; COSTUME: dark Mongol court robe with fur collar over inner armor, dark fur-trimmed cap; ACCESSORIES: one hand resting on the map of the campaigns, the other on the armrest.
+an East Asian man in his late forties, Yuan emperor Taizong Ogedei type: broad composed face, dark beard, generous commanding build; COSTUME: dark Mongol court robe with fur collar over inner armor, dark fur-trimmed cap; ACCESSORIES: one hand resting on the map of the campaigns, the other on the armrest.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Taizong, at the campaign council, lays his hand on the map of the final conquest and the report of the fall has not yet arrived.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S228-HIGH-DOWN-FRONT3Q-MWS-CONQUESTMAP
-- Elevation and pitch: high, looking down about twenty degrees from the tent rear onto the map table.
-- Subject azimuth and orientation: front-left three-quarter view of the seated emperor; the face turned down toward the map, readable.
+- Shot code: S228-KNEE-REAR3Q-MS-CONQUESTMAP
+- Elevation and pitch: knee height from the map table's near edge, looking across the map.
+- Subject azimuth and orientation: rear three-quarter over-the-shoulder view of the seated emperor, the map readable past his shoulder.
 - Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 

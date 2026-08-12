@@ -4,7 +4,7 @@ ORDER: 131
 PERSONAL_NAME_ZH: 拓跋什翼犍
 DISPLAY_ZH: 代王
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S141-LOW-FRONT-MS-LEGALSTONE
+SHOT_CODE: S141-LOW-FRONT-MS-OATHSTONE
 COLOR_CODE: C141-DAIBEITRIBAL-STONEGRAY-FELT-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\131-dai-shiyijian.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,26 +21,26 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a broad East Asian man in his late forties, Dai king Tuoba Shiyijian type: strong weathered face, heavy braids, powerful build; COSTUME: dark Tuoba leather coat with fur collar, felt wrap, leather trousers, high boots; ACCESSORIES: one hand resting on a large stone tablet, the other raised toward the assembled tribes.
+a broad East Asian young king of twenty, Dai king Tuoba Shiyijian type: strong young face, heavy braids, powerful build; COSTUME: dark Tuoba leather coat with fur collar, felt wrap, leather trousers, high boots; ACCESSORIES: one hand resting on a plain unwritten oath stone, the other raised toward the assembled tribes.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the Dai king, at the tribal assembly, raises his hand toward the newly erected stone of the laws and the first tribe's acknowledgment has not yet been given.
+Freeze the instant when the Dai king, at the tribal assembly, raises his hand toward the newly erected plain oath stone and the first tribe's acknowledgment has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S141-LOW-FRONT-MS-LEGALSTONE
+- Shot code: S141-LOW-FRONT-MS-OATHSTONE
 - Elevation and pitch: low, from among the assembled tribal leaders, looking up about ten degrees.
 - Subject azimuth and orientation: front three-quarter view of the standing king; the face turned toward the assembly, readable.
 - Shot scale and lens behavior: 50 mm medium shot; the king occupies about sixty-five percent of frame height with the stone beside him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a tribal elder standing in the front row, watching laws replace oaths on the northern steppe.
+the viewer is a tribal elder standing in the front row, watching an oath bind the tribes of the northern steppe.
 
 EVENT MOTION THROUGH THE FRAME:
 the raised hand and the tribal salutes move inward toward the stone at the center.
 
 EXTREME FOREGROUND DESIGN:
-two elder shoulders and the stone tablet edge.
+two elder shoulders and the plain stone edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C141-DAIBEITRIBAL-STONEGRAY-FELT-G0
@@ -50,10 +50,10 @@ COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Surface rhythm: rough stone, dry-brush felt edges and trampled grass.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Daibei assembly ground: stone tablet, the king, ringed tribal leaders, felt tents, horses, overcast sky.
+the Daibei assembly ground: the plain oath stone, the king, ringed tribal leaders, felt tents, horses, overcast sky.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the northern state learning law: the first stone of the house that will become the Northern Wei.
+Use the emotional implication of a northern state giving its law by word of mouth: the plain oath stone of the house that will become the Northern Wei.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

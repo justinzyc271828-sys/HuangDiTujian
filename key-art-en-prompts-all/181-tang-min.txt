@@ -4,7 +4,7 @@ ORDER: 181
 PERSONAL_NAME_ZH: 李从厚
 DISPLAY_ZH: 后唐闵帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S184-HIGH-DOWN-SIDE-MS-REBELDUST
+SHOT_CODE: S184-HIGH-DOWN-SIDE-MC-REBELDUST
 COLOR_CODE: C184-REBELDUST-ROAD-SPRINGGRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\181-tang-min.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, at the palace gate, watches the dust of the rebel column approaching on the road and the order to close the gates has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S184-HIGH-DOWN-SIDE-MS-REBELDUST
+- Shot code: S184-HIGH-DOWN-SIDE-MC-REBELDUST
 - Elevation and pitch: high, looking down about twenty degrees from the gate tower onto the road.
 - Subject azimuth and orientation: right-side view of the standing emperor; the face turned toward the dust, the profile readable.
-- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty percent of frame height.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the rail; he occupies about sixty-eight percent of frame height, the road dust soft beyond him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

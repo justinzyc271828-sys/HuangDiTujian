@@ -4,7 +4,7 @@ ORDER: 195
 PERSONAL_NAME_ZH: 赵顼
 DISPLAY_ZH: 宋神宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S196-KNEE-FRONT3Q-MC-REFORMDECREE
+SHOT_CODE: S196-EYE-FRONT3Q-MWS-REFORMDECREE
 COLOR_CODE: C196-REFORMDAY-GREEN-PALE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\195-n-song-shen.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, at the council, unrolls the reform decree before the ministers and the first response has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S196-KNEE-FRONT3Q-MC-REFORMDECREE
-- Elevation and pitch: knee height from the council floor, looking up slightly toward the seated emperor.
+- Shot code: S196-EYE-FRONT3Q-MWS-REFORMDECREE
+- Elevation and pitch: eye level from across the council table, looking levelly at the seated emperor over the ministers' shoulders.
 - Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the decree, about seventy percent readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the decree; he occupies about sixty-eight percent of frame height.
+- Shot scale and lens behavior: 40 mm medium-wide shot across the table; the ministers' tensed backs fill the near third, the emperor about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -40,7 +40,7 @@ EVENT MOTION THROUGH THE FRAME:
 the unrolling decree and the ministers' tensed stillness face each other across the table.
 
 EXTREME FOREGROUND DESIGN:
-the decree edge and one minister's shoulder.
+one minister's tensed back and the far edge of the unrolling decree.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C196-REFORMDAY-GREEN-PALE-G0

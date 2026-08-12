@@ -4,7 +4,7 @@ ORDER: 241
 PERSONAL_NAME_ZH: 朱元璋
 DISPLAY_ZH: 明太祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S241-KNEE-REAR3Q-MS-BAMBOOHUT
+SHOT_CODE: S241-KNEE-REAR3Q-MC-YINGTIANHALL
 COLOR_CODE: C241-HONGWU-EARTH-SCARLET-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\241-ming-tai-zu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,23 +21,23 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his forties, Ming founder Zhu Yuanzhang type: broad weathered face, heavy jaw, dark beard, powerful build; COSTUME: dark Ming campaign robe over iron lamellar armor, leather belt, dark cloth cap, the dress of the commoner general; ACCESSORIES: one hand on the map table, the other holding a brush with the founding edict.
+an East Asian man in his forties, Ming founder Zhu Yuanzhang type: broad weathered face, heavy jaw, dark beard, powerful build; COSTUME: dark founding-era imperial robe with scarlet trim, black cap; ACCESSORIES: one hand on the edict table, the other holding a brush with the founding edict.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Zhu Yuanzhang, at the campaign table of the founding, sets the brush to the edict that names the new dynasty and the first character has not yet been written.
+Freeze the instant when Zhu Yuanzhang, in the new palace hall at Yingtian, sets the brush to the edict that names the new dynasty and the first character has not yet been written.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S241-KNEE-REAR3Q-MS-BAMBOOHUT
-- Elevation and pitch: knee height from the tent door, looking slightly up across the campaign table.
+- Shot code: S241-KNEE-REAR3Q-MC-YINGTIANHALL
+- Elevation and pitch: knee height from the hall steps, looking slightly up across the edict table.
 - Subject azimuth and orientation: rear three-quarter view of the standing founder; the face turned down toward the edict, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the founder occupies about sixty percent of frame height.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the edict hand; he occupies about sixty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a veteran soldier standing at the tent door, the man who followed the founder from the refugee camp to the throne of the realm.
+the viewer is a veteran soldier standing at the hall entrance, the man who followed the founder from the refugee camp to the throne of the realm.
 
 EVENT MOTION THROUGH THE FRAME:
-the poised brush and the tent lamp face each other across the edict.
+the poised brush and the hall lamp face each other across the edict.
 
 EXTREME FOREGROUND DESIGN:
 the edict edge and one lamp.
@@ -47,10 +47,10 @@ COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Dominant palette: Hongwu earth, scarlet trim, edict pale, iron black and warm lamp light.
 - Gold allocation: G0 no gold leaf; everything is cloth, wood and iron.
 - Lighting logic: one lamp on the table, warm on the edict.
-- Surface rhythm: rough table grain, dry-brush edict edges and tent canvas.
+- Surface rhythm: rough table grain, dry-brush edict edges and hall timber.
 
 HISTORICAL EVENT ENVIRONMENT:
-the campaign tent of the founding: map table, the edict, lamp, the standing founder, tent walls.
+the new palace hall at Yingtian: edict table, the edict, lamp, the standing founder, hall columns.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of the commoner dynasty's first line: the brush of the man who rose from begging, naming the realm he would rule for thirty years.

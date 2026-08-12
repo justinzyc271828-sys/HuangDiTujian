@@ -4,8 +4,8 @@ ORDER: 142
 PERSONAL_NAME_ZH: 刘䶮
 DISPLAY_ZH: 南汉高祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S150-EYE-SIDE-MS-LAWBOOK
-COLOR_CODE: C150-LAWBOOK-IRON-CRIMSON-G0
+SHOT_CODE: S150-EYE-SIDE-MS-PUNISHSLIPS
+COLOR_CODE: C150-PUNISHSLIPS-IRON-CRIMSON-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\142-n-han-liu-yan.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early fifties, Southern Han emperor Liu Yan type: hard cruel face, dark beard, heavy build; COSTUME: dark Southern Han imperial robe with red trim, dark cap, the dress of the stern lawmaker; ACCESSORIES: one hand on a thick law book, the other raised in a teaching gesture.
+an East Asian man in his late thirties, Southern Han emperor Liu Yan type: hard cruel face, dark beard, heavy build; COSTUME: dark Southern Han imperial robe with red trim, dark cap, the dress of the severe ruler; ACCESSORIES: one hand on a stack of punishment slips, the other raised in a teaching gesture.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Liu Yan, at the audience, raises the hand that orders the new punishments read aloud and the first sentence of the code has not yet been spoken.
+Freeze the instant when Emperor Liu Yan, at the audience, raises the hand that orders the new punishments read aloud and the first punishment slip has not yet been read.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S150-EYE-SIDE-MS-LAWBOOK
+- Shot code: S150-EYE-SIDE-MS-PUNISHSLIPS
 - Elevation and pitch: eye level from the hall floor, looking up slightly toward the seated emperor.
 - Subject azimuth and orientation: right-side three-quarter view; the face turned toward the officials, about half readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a clerk kneeling at the hall side, the man who will write the code's next page.
+the viewer is a clerk kneeling at the hall side, the man who will copy the next punishment slip.
 
 EVENT MOTION THROUGH THE FRAME:
 the raised hand and the officials' stillness face each other across the hall.
 
 EXTREME FOREGROUND DESIGN:
-the law book and one official's shoulder.
+the stack of punishment slips and one official's shoulder.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C150-LAWBOOK-IRON-CRIMSON-G0
-- Dominant palette: law book iron gray, crimson trim, dark robe, book leather and cold hall light.
-- Gold allocation: G0 no gold leaf; the book fittings are dark bronze.
+- Color code: C150-PUNISHSLIPS-IRON-CRIMSON-G0
+- Dominant palette: punishment slip bamboo, iron gray hall stone, crimson trim, dark robe and cold hall light.
+- Gold allocation: G0 no gold leaf; the slip cords and hall fittings are dark bronze.
 - Lighting logic: cold even hall light, harsh on the officials.
-- Surface rhythm: hall stone, dry-brush robe edges and leather book grain.
+- Surface rhythm: hall stone, dry-brush robe edges and brushed bamboo grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Southern Han audience hall: the seated emperor, the law book, ranked officials, cold light.
+the Southern Han audience hall: the seated emperor, the stack of punishment slips, ranked officials, cold light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a code written in severity: the law book as the real crown of the southern tyranny.
+Use the emotional implication of punishment written out slip by slip: the punishment slips as the real crown of the southern tyranny.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

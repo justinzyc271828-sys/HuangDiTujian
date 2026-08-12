@@ -4,8 +4,8 @@ ORDER: 210
 PERSONAL_NAME_ZH: 耶律阮
 DISPLAY_ZH: 辽世宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S211-EYE-SIDE-MS-SOUTHERNWATCH
-COLOR_CODE: C211-SOUTHWATCH-STEPPE-BRONZE-G0
+SHOT_CODE: S211-LOW-REAR3Q-MC-RIVERSTANDOFF
+COLOR_CODE: C211-RIVERSTANDOFF-SEDGE-IRON-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\210-liao-shi-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Liao emperor Shizong Yelv Ruan type: keen young face, short beard, alert posture; COSTUME: dark Khitan leather coat over armor, fur collar, iron cap; ACCESSORIES: one hand resting on a watch tower rail, the other holding a rolled campaign order.
+an East Asian man in his late twenties, Liao emperor Shizong Yelv Ruan type: keen young face, short beard, tense alert posture; COSTUME: dark Khitan leather coat over armor, fur collar, iron cap; ACCESSORIES: one hand on the reins, the other half-raised toward the far bank in an unfinished parley gesture.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Shizong, on the watch tower of the southern border, studies the road south and the campaign order has not yet been unrolled.
+Freeze the instant when the newly acclaimed Emperor Shizong, at the river crossing facing the host of Empress Dowager Shulv, holds his army at the bank and the first charge has not yet been loosed.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S211-EYE-SIDE-MS-SOUTHERNWATCH
-- Elevation and pitch: eye level from the watch tower, looking across the border plain.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the south, about half readable.
-- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height.
+- Shot code: S211-LOW-REAR3Q-MC-RIVERSTANDOFF
+- Elevation and pitch: ground level from the trampled riverbank, looking up toward the mounted young emperor.
+- Subject azimuth and orientation: rear three-quarter view over the horse's neck; the face turned toward the far bank, the profile barely readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the far bank; horse and rider occupy about sixty percent of frame height, the opposing host soft beyond.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a watch soldier standing behind the emperor, watching a short reign begin with a long reach.
+the viewer is a Khitan cavalryman of the new emperor's guard, one of the men who acclaimed him at Zhenyang and now face the dowager's host across the water.
 
 EVENT MOTION THROUGH THE FRAME:
-the border wind and the campaign order's edge move together toward the south.
+the two armies' banners and the river wind press toward each other across the crossing while the raised hand holds.
 
 EXTREME FOREGROUND DESIGN:
-the tower rail and one banner edge.
+the horse's mane and one banner edge of the guard.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C211-SOUTHWATCH-STEPPE-BRONZE-G0
-- Dominant palette: south watch steppe gray, bronze fittings dark, fur white, leather brown and cold light.
-- Gold allocation: G0 no gold leaf; the tower fittings are dark bronze.
-- Lighting logic: cold clear light over the border plain.
-- Surface rhythm: tower timber grain, dry-brush wind strokes and rail shadow.
+- Color code: C211-RIVERSTANDOFF-SEDGE-IRON-G0
+- Dominant palette: river standoff sedge green, water pale, dark leather, iron gray and flat overcast light.
+- Gold allocation: G0 no gold leaf; fittings are iron and leather.
+- Lighting logic: flat overcast light over the river, dull on the water.
+- Surface rhythm: trampled bank earth, dry-brush river strokes and iron plate grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the southern border watch tower: the emperor, the campaign order, the plain, banners, cold sky.
+the river crossing of the succession crisis: the mounted young emperor, his guard, the dowager's host on the far bank, banners, gray water.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign reaching for the south it would not live to hold: the watch tower view of a campaign that ended with its maker.
+Use the emotional implication of a throne contested between grandmother and grandson: the army's emperor holding the bank against the dowager who had made and unmade kings.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,7 +4,7 @@ ORDER: 166
 PERSONAL_NAME_ZH: 李诵
 DISPLAY_ZH: 唐顺宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S170-KNEE-SIDE-MC-DYINGREFORM
+SHOT_CODE: S170-KNEE-REAR3Q-MWS-DYINGREFORM
 COLOR_CODE: C170-REFORMNIGHT-CANDLE-SCROLL-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\166-tang-shun-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the ailing emperor, propped in the sickbed chair, reaches toward the edict of the reform measures and the hand has not yet touched the scroll.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S170-KNEE-SIDE-MC-DYINGREFORM
-- Elevation and pitch: knee height from the side of the chair, looking across at the reclining figure.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the edict, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's brow to the table; he occupies about sixty-five percent of frame height.
+- Shot code: S170-KNEE-REAR3Q-MWS-DYINGREFORM
+- Elevation and pitch: knee height from behind the head of the bed chair, looking along the reclining figure toward the table.
+- Subject azimuth and orientation: rear three-quarter view over the emperor's thin shoulder; the edict and the candle beyond him, only a sliver of the pale face readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot from the bed head to the table; the reclining figure occupies about fifty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

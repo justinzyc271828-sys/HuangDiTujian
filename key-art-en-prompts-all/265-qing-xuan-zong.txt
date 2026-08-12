@@ -4,8 +4,8 @@ ORDER: 265
 PERSONAL_NAME_ZH: 旻宁
 DISPLAY_ZH: 清宣宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S265-HIGH-DOWN-FRONT3Q-MWS-SMOKEMELT
-COLOR_CODE: C265-DAOCHUANG-SEAWHITE-SMOKE-G0
+SHOT_CODE: S265-HIGH-DOWN-FRONT3Q-MWS-NIGHTREPORT
+COLOR_CODE: C265-DAOCHUANG-NIGHTLAMP-AMBER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\265-qing-xuan-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late fifties, Qing emperor Xuanzong Daoguang type: grave frugal face, dark beard, formal posture; COSTUME: dark Manchu imperial robe with dragon roundels, court cap with red tassel; ACCESSORIES: one hand resting on the sea wall rail, the other holding a rolled edict.
+an East Asian man in his late fifties, Qing emperor Xuanzong Daoguang type: grave frugal face, dark beard, formal posture; COSTUME: dark Manchu imperial robe with dragon roundels, court cap with red tassel; ACCESSORIES: one hand holding the opened report from Canton, the other holding the vermilion brush above the paper.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xuanzong, at the sea wall of the destruction of the opium, watches the smoke rise from the pits and the last chest has not yet been emptied.
+Freeze the instant when Emperor Xuanzong, in the night study of the capital palace, reads the report of the opium destruction from Canton and the vermilion brush of the endorsement has not yet fallen.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S265-HIGH-DOWN-FRONT3Q-MWS-SMOKEMELT
-- Elevation and pitch: high, looking down about twenty degrees from the sea wall onto the smoking pits.
-- Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face turned toward the smoke, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the pits below.
+- Shot code: S265-HIGH-DOWN-FRONT3Q-MWS-NIGHTREPORT
+- Elevation and pitch: high, looking down about twenty degrees from above the study onto the seated emperor and the report.
+- Subject azimuth and orientation: front-left three-quarter view of the seated emperor; the face turned down toward the report, readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the study around him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a coastal official standing at the wall edge, watching the emperor's resolve burn in the smoke of the destroyed drug.
+the viewer is a night-duty attendant standing at the study door, watching the emperor weigh the news from the southern sea.
 
 EVENT MOTION THROUGH THE FRAME:
-the smoke and the workers' movement rise and flow past the standing emperor.
+the lamp flame and the held vermilion brush hold the moment before the endorsement.
 
 EXTREME FOREGROUND DESIGN:
-the rail and one banner edge.
+the opened report from Canton and the draft prohibition edict beside the vermilion brush.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C265-DAOCHUANG-SEAWHITE-SMOKE-G0
-- Dominant palette: Daoguang sea white, smoke gray, dark robe, pit earth and cold coastal light.
-- Gold allocation: G0 no gold leaf; everything is cloth, earth and smoke.
-- Lighting logic: cold coastal light, the smoke gray against the sea.
-- Surface rhythm: sea wall stone, dry-brush smoke bands and pit earth.
+- Color code: C265-DAOCHUANG-NIGHTLAMP-AMBER-G0
+- Dominant palette: Daoguang night amber, report pale, dark robe, deep window shadow and lamp glow.
+- Gold allocation: G0 no gold leaf; everything is paper, wood and cloth.
+- Lighting logic: one lamp over the desk, warm on the report, dark beyond.
+- Surface rhythm: paper fiber, dry-brush robe edges and desk lacquer.
 
 HISTORICAL EVENT ENVIRONMENT:
-the sea wall of the destruction: the standing emperor, the smoking pits, workers, the sea, cold sky.
+the night study of the palace: the seated emperor, the desk, the lamps, the report from Canton, the prohibition edict draft, dark windows.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the dynasty's last great assertion: the emperor watching the opium burn, the war that would follow already waiting beyond the horizon.
+Use the emotional implication of the dynasty's last great assertion: the emperor reading that the opium burns in Canton, the war that would follow already crossing the sea.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

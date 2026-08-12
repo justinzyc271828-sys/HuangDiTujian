@@ -4,8 +4,8 @@ ORDER: 103
 PERSONAL_NAME_ZH: 高湛
 DISPLAY_ZH: 武成帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S115-KNEE-SIDE-MS-DECLINECOURT
-COLOR_CODE: C115-DECLINECOURT-VIOLET-DARKGOLD-G0
+SHOT_CODE: S115-KNEE-SIDE-MWS-HEIRWAITING
+COLOR_CODE: C115-HEIRWAITING-CINNABAR-DAWNGRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\103-n-qi-wucheng.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-twenties, Northern Qi emperor Wucheng Gao Zhan type: handsome dissipated face, neat beard, languid posture; COSTUME: ornate violet robe with gold-thread trim, jade belt, dark cap; ACCESSORIES: one hand on a wine cup, the other on the armrest.
+an East Asian man in his late twenties, Northern Qi emperor Wucheng Gao Zhan type: handsome dissipated face, neat beard, a rare decisive posture; COSTUME: ornate violet robe with dull gold-thread trim, jade belt, dark cap, still the reigning emperor this morning; ACCESSORIES: one hand resting on the boy heir's shoulder, the other half-open toward the empty throne.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Wucheng, at the court banquet, lifts the wine cup toward the dancers and the memorial on the table remains unopened.
+Freeze the instant when Emperor Wucheng, risen from the throne by his own choice, guides the boy heir Wei toward the empty seat and the boy's foot has not yet touched the dais step, the abdication edict on its lectern not yet read aloud.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S115-KNEE-SIDE-MS-DECLINECOURT
-- Elevation and pitch: knee height from the banquet floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the dancers, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S115-KNEE-SIDE-MWS-HEIRWAITING
+- Elevation and pitch: knee height from the side aisle of the hall, looking across the open floor between the figures and the throne.
+- Subject azimuth and orientation: clean right-facing side profile of the standing emperor; the face turned down toward the boy, the profile and one eye readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty-eight percent of frame height, the small heir and the empty throne completing the line.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a secretary standing at the banquet edge, holding the memorial the emperor has not opened.
+the viewer is a young chamberlain kneeling at the side aisle, watching an emperor do by choice what this court has only ever seen done by force.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised cup and the dancers' movement travel together in a lazy circle.
+the emperor's guiding hand and the boy's lifted robe hem travel together toward the throne while the motionless court leans after them.
 
 EXTREME FOREGROUND DESIGN:
-the wine cup and one dancer's sleeve.
+the aisle carpet edge and the cropped shoulder of a kneeling official.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C115-DECLINECOURT-VIOLET-DARKGOLD-G0
-- Dominant palette: decline court violet, dark gold thread, wine red, dancer silk and banquet lamp light.
-- Gold allocation: G0 no gold leaf; the thread is dull, not bright gold.
-- Lighting logic: warm banquet lamps, dim toward the tables of papers.
-- Surface rhythm: banquet silk, dry-brush sleeve edges and lamp-warm haze.
+- Color code: C115-HEIRWAITING-CINNABAR-DAWNGRAY-G0
+- Dominant palette: cinnabar ceremony red, dark aubergine-violet robe, dawn gray light and white jade dais steps.
+- Gold allocation: G0 no gold leaf; the thread trim stays dull and the jade a plain white.
+- Lighting logic: cool dawn light through the tall doors, warming only on the cinnabar pillars.
+- Surface rhythm: long silk fall lines, dry-brush pillar red and pale stone step edges.
 
 HISTORICAL EVENT ENVIRONMENT:
-the court banquet hall: dancers, musicians, wine tables, the seated emperor, the table of unopened memorials.
+the audience hall of Ye at dawn: the empty throne on the dais, the unrolled edict on its lectern, ranked officials as low-detail masses, the boy heir in a small court robe.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign choosing pleasure with both hands: the cup raised while the papers wait in the shadow.
+Use the emotional implication of appetite retiring early on its own terms: a man of twenty-eight hands away the seat he has grown bored of, and the hall cannot tell abdication from whim.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,7 +4,7 @@ ORDER: 141
 PERSONAL_NAME_ZH: 马殷
 DISPLAY_ZH: 楚武穆王
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S149-HIGH-DOWN-SIDE-MWS-TEAROAD
+SHOT_CODE: S149-LOW-FRONT3Q-MS-TEAROAD
 COLOR_CODE: C149-TEAROAD-GREEN-BAMBOO-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\141-chu-ma-yin.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Ma Yin, at the tea market of Changsha, raises his hand toward the traders' caravan and the first pack horse has not yet been loaded.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S149-HIGH-DOWN-SIDE-MWS-TEAROAD
-- Elevation and pitch: high, looking down about twenty degrees from the market gate onto the yard.
-- Subject azimuth and orientation: right-side view of the standing ruler; the face turned toward the traders, the profile readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; Ma Yin occupies about fifty percent of frame height with the caravan behind.
+- Shot code: S149-LOW-FRONT3Q-MS-TEAROAD
+- Elevation and pitch: low, from among the tea sacks at yard level, looking up about twelve degrees.
+- Subject azimuth and orientation: front-left three-quarter view of the standing ruler; the face turned toward the traders, readable.
+- Shot scale and lens behavior: 50 mm medium shot; Ma Yin occupies about fifty percent of frame height with the caravan behind.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

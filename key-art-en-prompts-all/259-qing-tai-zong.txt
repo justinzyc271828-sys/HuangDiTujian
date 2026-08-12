@@ -4,7 +4,7 @@ ORDER: 259
 PERSONAL_NAME_ZH: 皇太极
 DISPLAY_ZH: 清太宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S259-KNEE-FRONT3Q-MS-NAMEINGCHANGE
+SHOT_CODE: S259-HIGH-DOWN-FRONT3Q-MS-NAMEINGCHANGE
 COLOR_CODE: C259-NAMEINGCHANGE-GOLDEN-CINNABAR-G1
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\259-qing-tai-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,9 +27,9 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Taizong, at the ceremony of the new name, holds the decree that changes the state's title and the first reading has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S259-KNEE-FRONT3Q-MS-NAMEINGCHANGE
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the decree, about seventy percent readable.
+- Shot code: S259-HIGH-DOWN-FRONT3Q-MS-NAMEINGCHANGE
+- Elevation and pitch: high, looking down about forty degrees from above the throne dais onto the seated emperor and the held decree.
+- Subject azimuth and orientation: front-left three-quarter view; the face lifted toward the ranked officials, about half readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 

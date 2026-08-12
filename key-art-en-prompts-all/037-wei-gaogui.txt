@@ -5,7 +5,7 @@ PERSONAL_NAME_ZH: 曹髦
 DISPLAY_ZH: 高贵乡公
 STATUS: DRAFT-PENDING-REVIEW
 SHOT_CODE: S052-EYE-REAR3Q-MS-COLUMNCHARGE
-COLOR_CODE: C052-GATEBLACK-YOUTHCRIMSON-BLADE-G0
+COLOR_CODE: C052-TOWERSHADOW-YOUTHCRIMSON-BLADE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\037-wei-gaogui.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,40 +21,40 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a fierce young East Asian man of nineteen, Duke of Gaogui Cao Mao type: bold face, burning eyes, slight beard, upright in the carriage holding a sword; COSTUME: dark crimson Wei imperial robe over plain inner clothes, sword belt, cap bound tight; ACCESSORIES: one hand holding a drawn sword raised at the gate, the other on the carriage rail.
+a fierce young East Asian man of nineteen, Duke of Gaogui Cao Mao type: bold face, burning eyes, slight beard, upright in the carriage holding a sword; COSTUME: dark crimson Wei imperial robe over plain inner clothes, sword belt, cap bound tight; ACCESSORIES: one hand holding a drawn sword raised toward the closing vanguard, the other on the carriage rail.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor's carriage, with his loyal servants around it, reaches the palace gate of his own doomed sortie and the gate is still closed, the sword raised toward it.
+Freeze the instant when the young emperor's carriage, with his loyal servants around it, has rolled out of the palace gate onto the road below the southern watchtowers on his doomed sortie, and Jia Chong's vanguard is closing in ahead but has not yet reached the carriage.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S052-EYE-REAR3Q-MS-COLUMNCHARGE
-- Elevation and pitch: eye level from inside the gate, looking out at the approaching carriage.
-- Subject azimuth and orientation: rear three-quarter view of the carriage and its standing emperor moving toward the gate; the face turned forward, the profile and one eye readable.
+- Elevation and pitch: eye level from inside the gate, looking out at the carriage now on the outer road.
+- Subject azimuth and orientation: rear three-quarter view of the carriage and its standing emperor moving away down the outer road toward the closing vanguard; the face turned forward, the profile and one eye readable.
 - Shot scale and lens behavior: 45 mm medium shot; the emperor and carriage occupy about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is one of the loyal servants running beside the carriage, the last men to follow an emperor to a gate that will not open.
+the viewer is one of the loyal servants running beside the carriage, the last men to follow an emperor riding out against the regent's army.
 
 EVENT MOTION THROUGH THE FRAME:
-the carriage and the raised sword travel straight toward the gate while the gate's shadow extends to meet them.
+the carriage and the raised sword travel straight down the outer road toward the vanguard while the watchtowers' shadow stretches behind them.
 
 EXTREME FOREGROUND DESIGN:
 a running servant's shoulder and one horse's neck at the lower edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C052-GATEBLACK-YOUTHCRIMSON-BLADE-G0
-- Dominant palette: gate shadow black, youth's crimson robe, blade silver, plain gray servants' clothes and cold daylight.
+- Color code: C052-TOWERSHADOW-YOUTHCRIMSON-BLADE-G0
+- Dominant palette: watchtower shadow black, youth's crimson robe, blade silver, plain gray servants' clothes and cold daylight.
 - Gold allocation: G0 no gold leaf; the sword is plain iron.
 - Blood allowance: restrained dark blood accents are permitted on blades, armor, the ground and battle-worn cloth where historically attested; no wounds in close-up, no suffering faces as the focal point, no gore.
-- Lighting logic: cold daylight from the gate opening, silhouetting the approaching carriage.
-- Surface rhythm: gate timber grain, dry-brush robe edges and long road shadows.
+- Lighting logic: cold daylight along the outer road, the southern watchtowers' shadow falling across the paving behind the carriage.
+- Surface rhythm: watchtower timber grain, dry-brush robe edges and long road shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the outer gate of Luoyang palace: closed timber doors, stone paving, the small column of loyal servants, one carriage, cold light.
+the road below the southern watchtowers outside the Luoyang palace gate: the open gate behind, stone paving, the small column of loyal servants, one carriage, Jia Chong's vanguard closing in ahead, cold light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of courage measured against certainty: a young emperor riding at a gate he cannot open, dignity without hope.
+Use the emotional implication of courage measured against certainty: a young emperor riding out against an army he cannot beat, dignity without hope.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

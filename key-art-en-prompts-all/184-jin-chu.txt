@@ -4,7 +4,7 @@ ORDER: 184
 PERSONAL_NAME_ZH: 石重贵
 DISPLAY_ZH: 后晋出帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S187-SADDLE-HIGH-FRONT3Q-MWS-FIRSTDECLARATION
+SHOT_CODE: S187-EYE-REAR3Q-MC-FIRSTDECLARATION
 COLOR_CODE: C187-FIRSTDECLARATION-IRON-RED-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\184-jin-chu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,16 +21,16 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Later Jin emperor Chu Shi Chonggui type: young defiant face, short beard, armored posture; COSTUME: dark campaign robe over iron armor, iron cap, the dress of the war declaration; ACCESSORIES: one hand holding a raised war edict, the other on the reins.
+an East Asian man of thirty, Later Jin emperor Chu Shi Chonggui type: young defiant face, short beard, armored posture; COSTUME: dark campaign robe over iron armor, iron cap, the dress of the war declaration; ACCESSORIES: one hand holding a raised war edict, the other on the reins.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Chu, mounted before the army, raises the edict of war against the northern court and the first answering cry has not yet finished.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S187-SADDLE-HIGH-FRONT3Q-MWS-FIRSTDECLARATION
-- Elevation and pitch: saddle height from beside the mounted group, looking up slightly toward the raised edict.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted emperor; the face raised, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
+- Shot code: S187-EYE-REAR3Q-MC-FIRSTDECLARATION
+- Elevation and pitch: eye level from within the cavalry rank behind the emperor.
+- Subject azimuth and orientation: rear three-quarter view; the face half-turned toward the rank, about half readable.
+- Shot scale and lens behavior: 70 mm medium-close shot; he occupies about sixty percent of frame height, the raised edict over the ranks.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

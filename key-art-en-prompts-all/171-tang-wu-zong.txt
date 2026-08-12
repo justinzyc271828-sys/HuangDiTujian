@@ -4,7 +4,7 @@ ORDER: 171
 PERSONAL_NAME_ZH: 李炎
 DISPLAY_ZH: 唐武宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S174-HIGH-DOWN-FRONT3Q-MWS-TEMPLESKULL
+SHOT_CODE: S174-HIGH-DOWN-FRONT3Q-MWS-LAYMONKS
 COLOR_CODE: C174-TEMPLECLOSE-ASH-IRON-GRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\171-tang-wu-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,13 +21,13 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early thirties, Tang emperor Wuzong Li Yan type: hard stern face, dark beard, iron posture; COSTUME: dark Tang imperial robe over lamellar armor, dark cap, the dress of the soldier-emperor; ACCESSORIES: one hand raised in a firm gesture, the other holding a rolled edict.
+an East Asian man in his early thirties, Tang emperor Wuzong Li Yan type: hard stern face, dark beard, iron posture; COSTUME: dark Tang imperial robe over lamellar armor, dark cap, the dress of the soldier-emperor; ACCESSORIES: one hand holding the temple register, the other resting on the gate post.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Wuzong, at the temple court, raises the hand that orders the closing of the monasteries and the first seal has not yet been pressed onto the gates.
+Freeze the instant when Emperor Wuzong, from the temple gate height, watches the first file of monks in lay clothes leaving through the court below and the temple register in his hand has not yet closed.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S174-HIGH-DOWN-FRONT3Q-MWS-TEMPLESKULL
+- Shot code: S174-HIGH-DOWN-FRONT3Q-MWS-LAYMONKS
 - Elevation and pitch: high, looking down about twenty degrees from the temple gate onto the court.
 - Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face raised toward the temple, readable.
 - Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the temple behind.
@@ -37,10 +37,10 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a court officer standing at the gate, the man who will seal the doors.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised hand and the temple doors' stillness face each other across the court.
+the departing file of monks moves down the court steps while the emperor's gaze follows.
 
 EXTREME FOREGROUND DESIGN:
-one officer's shoulder and the gate post.
+one monk's folded robe left on the rail and the gate post.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C174-TEMPLECLOSE-ASH-IRON-GRAY-G0

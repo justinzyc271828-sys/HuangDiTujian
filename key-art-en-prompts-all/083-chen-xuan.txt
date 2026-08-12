@@ -4,8 +4,8 @@ ORDER: 83
 PERSONAL_NAME_ZH: 陈顼
 DISPLAY_ZH: 陈宣帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S097-EYE-REAR3Q-MWS-MAPLEAN
-COLOR_CODE: C097-HUAINAN-SEASON-IRON-BLUE-G0
+SHOT_CODE: S097-EYE-REAR3Q-MWS-WARCOUNCIL
+COLOR_CODE: C097-WARMAP-PALE-IRONBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\083-chen-xuan.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,20 +21,20 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his forties, Chen emperor Xuan Chen Xu type: broad determined face, neat beard, military posture; COSTUME: dark campaign robe over leather armor, dark cap, the dress of the northern campaigns; ACCESSORIES: both hands on the edge of the map table, leaning over the Huai valley.
+an East Asian man in his forties, Chen emperor Xuan Chen Xu type: broad determined face, neat beard, military posture; COSTUME: dark robe of military cut over leather, dark cap, the dress of a war council in the capital; ACCESSORIES: both hands on the edge of the map table, leaning over the Huai valley.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xuan, at the northern campaign headquarters, leans over the map of the Huai valley and the order for the advance has not yet been given.
+Freeze the instant when Emperor Xuan, in the war-council map room of the Jiankang palace, leans over the map of the Huai valley and the edict ordering the northern advance has not yet been sent.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S097-EYE-REAR3Q-MWS-MAPLEAN
+- Shot code: S097-EYE-REAR3Q-MWS-WARCOUNCIL
 - Elevation and pitch: eye level from the table side, looking across the war room.
 - Subject azimuth and orientation: rear three-quarter view of the leaning emperor; the face turned down toward the map, the profile readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height with the map before him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the southern army's messenger at the tent door, the man who will carry the order that has not yet been spoken.
+the viewer is the palace messenger waiting at the map-room door, the man who will carry the sealed edict out of the capital to the northern armies.
 
 EVENT MOTION THROUGH THE FRAME:
 the leaning posture and the map lines hold a charged stillness before the advance.
@@ -43,14 +43,14 @@ EXTREME FOREGROUND DESIGN:
 the map edge and one commander's shoulder.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C097-HUAINAN-SEASON-IRON-BLUE-G0
-- Dominant palette: Huainan season gray-blue, iron black, map pale, leather brown and tent daylight.
+- Color code: C097-WARMAP-PALE-IRONBLUE-G0
+- Dominant palette: war map pale, iron blue, dark robe black, lacquered wood and cool palace light.
 - Gold allocation: G0 no gold leaf; fittings are iron and leather.
-- Lighting logic: clear tent daylight, hard on the map.
-- Surface rhythm: map fiber, dry-brush ink lines and leather strap textures.
+- Lighting logic: cool palace daylight through the shutters, hard on the map.
+- Surface rhythm: map fiber, dry-brush ink lines and lacquered wood grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the northern campaign headquarters: map table, commanders, tent walls, rolled charts, daylight.
+the war-council map room in the Jiankang palace: map table, commanders, rolled charts, the waiting messenger, cool daylight.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of the south's last northern ambition: the map of the Huai under a hand that would come within one season of the Yellow River.

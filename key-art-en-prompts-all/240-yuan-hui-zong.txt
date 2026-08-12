@@ -5,7 +5,7 @@ PERSONAL_NAME_ZH: 妥欢贴睦尔
 DISPLAY_ZH: 元惠宗
 STATUS: DRAFT-PENDING-REVIEW
 SHOT_CODE: S240-EYE-REAR3Q-MS-NORTHFLEE
-COLOR_CODE: C240-NORTHFLEE-SNOW-CLOAK-G0
+COLOR_CODE: C240-NORTHFLEE-AUTUMNDUST-CLOAK-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\240-yuan-hui-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,10 +21,10 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late forties, Yuan emperor Huizong Toghon Temur type: heavy weary face, gray-streaked beard, travel-worn dress; COSTUME: dark Mongol riding robe under a fur cloak, fur cap, dust and snow on the shoulders; ACCESSORIES: one hand on the saddle, the other holding a rolled edict.
+an East Asian man in his late forties, Yuan emperor Huizong Toghon Temur type: heavy weary face, gray-streaked beard, travel-worn dress; COSTUME: dark Mongol riding robe under a fur cloak, fur cap, road dust on the shoulders; ACCESSORIES: one hand on the saddle, the other holding a rolled edict.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Huizong, riding north from the fallen capital, looks back at the walls behind the snow and the capital has not yet disappeared from view.
+Freeze the instant when Emperor Huizong, riding north from the fallen capital, looks back at the walls through the autumn dust and the capital has not yet disappeared from view.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S240-EYE-REAR3Q-MS-NORTHFLEE
@@ -34,23 +34,23 @@ CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Mongol guard riding beside the emperor, the man who will follow the court into the steppe exile.
+the viewer is a Han porter of the abandoned capital standing at the roadside milestone, watching the court he served ride out of the world.
 
 EVENT MOTION THROUGH THE FRAME:
-the northward ride and the backward glance move in opposite directions along the road.
+the column streams north past the roadside watcher while the emperor's backward glance trails toward the walls.
 
 EXTREME FOREGROUND DESIGN:
-one guard's horse neck and the cloak edge.
+a half-buried road marker and a loose horseshoe in the dust.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C240-NORTHFLEE-SNOW-CLOAK-G0
-- Dominant palette: north flee snow pale, cloak gray, fur brown, edict white and cold winter light.
+- Color code: C240-NORTHFLEE-AUTUMNDUST-CLOAK-G0
+- Dominant palette: north flee autumn dust, cloak gray, fur brown, edict pale and dry wind light.
 - Gold allocation: G0 no gold leaf; everything is cloth, fur and leather.
-- Lighting logic: cold winter light, pale and flat.
-- Surface rhythm: snow ground, dry-brush horse mane and wind strokes.
+- Lighting logic: dry wind and pale flat light over the road.
+- Surface rhythm: road dust, dry-brush horse mane and wind strokes.
 
 HISTORICAL EVENT ENVIRONMENT:
-the northern road out of the capital: the riding emperor, the escort, snow, the receding walls, cold sky.
+the northern road out of the capital: the riding emperor, the escort, autumn dust, the receding walls, dry wind.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of the Yuan leaving the middle kingdom: the emperor riding into the steppe, the dynasty continuing without its capital.

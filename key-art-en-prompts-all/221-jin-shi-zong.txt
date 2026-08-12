@@ -4,8 +4,8 @@ ORDER: 221
 PERSONAL_NAME_ZH: 完颜雍
 DISPLAY_ZH: 金世宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S222-EYE-FRONT3Q-MS-GRANARYKING
-COLOR_CODE: C222-GRANARYKING-EARTH-GOLDEN-G0
+SHOT_CODE: S222-EYE-FRONT3Q-MWS-GRAININSPECT
+COLOR_CODE: C222-GRAININSPECT-EARTH-GOLDEN-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\221-jin-shi-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,15 +21,15 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late thirties, Jin emperor Shizong Wanyan Yong type: plain honest face, short beard, solid build; COSTUME: dark simple Jin court robe with leather belt, plain cloth cap, deliberately modest; ACCESSORIES: both hands resting on the granary rail before him.
+an East Asian man in his late forties, Jin emperor Shizong Wanyan Yong type: plain honest face, short beard, solid build; COSTUME: dark simple Jin court robe with leather belt, plain cloth cap, deliberately modest; ACCESSORIES: one hand holding a handful of grain above the open sack, the other steadying the sack edge.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Shizong, at the granary review of the Dading era, watches the grain carts enter the storehouses and the first cart has not yet reached the gate.
+Freeze the instant when Emperor Shizong stoops over an open grain sack at the storehouse gate and lifts a handful of grain toward the light, the clerk's tally not yet recorded.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S222-EYE-FRONT3Q-MS-GRANARYKING
-- Elevation and pitch: eye level from the granary yard, looking across at the standing emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face turned toward the carts, about seventy percent readable.
+- Shot code: S222-EYE-FRONT3Q-MWS-GRAININSPECT
+- Elevation and pitch: eye level from the granary yard, looking across at the stooping emperor.
+- Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the sack, about seventy percent readable.
 - Shot scale and lens behavior: 45 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
@@ -37,20 +37,20 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a granary clerk standing at the yard edge, watching the emperor of the peace count the harvest that fills the realm.
 
 EVENT MOTION THROUGH THE FRAME:
-the grain carts and the yard workers move toward the granary while the emperor watches.
+the trickling grain and the clerk's waiting brush hold the inspection's pause.
 
 EXTREME FOREGROUND DESIGN:
-the rail and one grain sack.
+one open grain sack and the clerk's tally board.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C222-GRANARYKING-EARTH-GOLDEN-G0
-- Dominant palette: granary king earth, golden grain, sack cloth gray, plain robe and warm daylight.
+- Color code: C222-GRAININSPECT-EARTH-GOLDEN-G0
+- Dominant palette: granary earth, golden grain, sack cloth gray, plain robe and warm daylight.
 - Gold allocation: G0 no gold leaf; everything is earth, wood and cloth.
 - Lighting logic: warm clear daylight over the granary yard.
 - Surface rhythm: yard earth, dry-brush grain edges and timber grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the granary yard: grain carts, storehouses, the standing emperor, clerks, warm sky.
+the storehouse gate of the granary yard: open grain sacks, storehouses, the stooping emperor, clerks, warm sky.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of the north's most honest reign: the emperor of the golden age counting grain with his own eyes.

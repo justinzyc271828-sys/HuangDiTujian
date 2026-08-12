@@ -4,8 +4,8 @@ ORDER: 115
 PERSONAL_NAME_ZH: 李雄
 DISPLAY_ZH: 成汉太宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S126-KNEE-SIDE-MWS-OPENCOURT
-COLOR_CODE: C126-SHUPEACE-JADE-WOOD-G0
+SHOT_CODE: S126-LOW-REAR3Q-WS-REFUGEEHOST
+COLOR_CODE: C126-REFUGEEHOST-DUSTOCHER-ASHGRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\115-cheng-han-li-xiong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a plain-mannered East Asian man in his late fifties, Cheng Han emperor Li Xiong type: weathered kind face, gray-streaked beard, simple dignified posture; COSTUME: plain dark brown Cheng Han ruler's robe with leather belt, simple cloth cap, deliberately unostentatious; ACCESSORIES: both hands resting on the low wooden rail before him.
+a weathered East Asian man in his late twenties, the refugee commander Li Xiong type: broad plain face, short beard, dust-stained and steady; COSTUME: worn leather armor over a coarse hemp robe, cloth headwrap, no crown, the dress of a refugee host's new leader and not yet a king; ACCESSORIES: one hand half-raised to answer the acclamation, the other resting on the plain sword at his waist.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Li Xiong, seated on the open court platform of Chengdu, hears the common people's petition read aloud and the first petitioner has not yet finished speaking.
+Freeze the instant when Li Xiong, standing on a grain cart in the refugee camp after his father Li Te's death, turns to face the host acclaiming him — the command banner halfway passed toward him, his hand not yet closed on its staff.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S126-KNEE-SIDE-MWS-OPENCOURT
-- Elevation and pitch: knee height from the court yard, looking slightly upward across the open space.
-- Subject azimuth and orientation: right-side three-quarter view of the seated emperor; the face turned toward the petitioners, about sixty percent readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height with the open yard before him.
+- Shot code: S126-LOW-REAR3Q-WS-REFUGEEHOST
+- Elevation and pitch: low, from the trampled ground among the front rank, looking up about fifteen degrees at the cart and the camp beyond.
+- Subject azimuth and orientation: rear three-quarter view of the standing commander; the half-turned face giving a partial profile, the rising host readable beyond him.
+- Shot scale and lens behavior: 28 mm wide shot; Li Xiong occupies about forty-eight percent of frame height with the refugee host spreading across the camp.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is one of the Shu commoners standing in the open yard, watching an emperor who receives petitions without walls.
+the viewer is a refugee spearman in the front rank, shouting with the rest while watching whether the son can carry the father's host.
 
 EVENT MOTION THROUGH THE FRAME:
-the petition scroll and the petitioners' hands travel forward toward the platform while the emperor leans in.
+raised spears and lifting arms travel upward through the frame toward the cart while cook smoke drifts across them the other way.
 
 EXTREME FOREGROUND DESIGN:
-two commoner shoulders and the wooden rail.
+a cropped spear shaft, one raised fist and the cart wheel's lower rim.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C126-SHUPEACE-JADE-WOOD-G0
-- Dominant palette: Shu peace green, jade pale, wood brown, plain cloth gray and soft southern light.
-- Gold allocation: G0 no gold leaf; the rail is plain wood.
-- Lighting logic: soft warm southern daylight, open and kind.
-- Surface rhythm: wood grain, dry-brush cloth folds and leaf shadows.
+- Color code: C126-REFUGEEHOST-DUSTOCHER-ASHGRAY-G0
+- Dominant palette: dust ocher, camp-ash gray, worn leather brown, hemp cloth and a pale hard sky.
+- Gold allocation: G0 no gold leaf; everything is leather, hemp, wood and iron.
+- Lighting logic: flat midday light through camp haze, dusty and even, from above.
+- Surface rhythm: trampled ground strokes, dry-brush smoke bands and the cart's raw wood grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the open court of Chengdu: low platform, wooden rail, common petitioners, simple banners, Shu hills beyond.
+the refugee host's camp in the Shu basin: tethered carts, mat shelters, stacked spears, cook smoke, the massed host in worn cloth before the cart, hills beyond.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of gentleness as statecraft: an open yard, an old ruler, and a kingdom that lasted by being kind.
+Use the emotional implication of a state beginning as a crowd of the displaced: the founding moment of Cheng Han is not a coronation but a survival vote around a grain cart.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

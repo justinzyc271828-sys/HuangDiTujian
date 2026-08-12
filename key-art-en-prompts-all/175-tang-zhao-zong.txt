@@ -4,8 +4,8 @@ ORDER: 175
 PERSONAL_NAME_ZH: 李晔
 DISPLAY_ZH: 唐昭宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S178-EYE-REAR3Q-MS-HOPELESSPLAN
-COLOR_CODE: C178-HOPELESSPLAN-BLACK-CANDLE-G0
+SHOT_CODE: S178-HIGH-DOWN-REAR3Q-MWS-FORCEDWEST
+COLOR_CODE: C178-FORCEDWEST-IRONBLACK-WINTERPALE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\175-tang-zhao-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-thirties, Tang emperor Zhaozong Li Ye type: gaunt intense face, dark beard, sleepless eyes; COSTUME: dark Tang imperial robe, no cap, hair bound, the dress of the last anxious years; ACCESSORIES: one hand resting on a map of the realm, the other gripping a candle stand.
+an East Asian man in his mid-thirties, Tang emperor Zhaozong Li Ye type: gaunt intense face, dark beard, sleepless eyes; COSTUME: dark Tang imperial robe, no cap, hair bound, the dress of the last anxious years; ACCESSORIES: both hands on the reins, the knuckles tight.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Zhaozong, alone at night over the map of the fragmenting realm, lowers the candle toward the southern provinces and the plan has not yet been spoken to anyone.
+Freeze the instant when Emperor Zhaozong, mounted in the eunuch escort hurrying the court west toward Fengxiang, turns toward the escort commander and the order to turn back has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S178-EYE-REAR3Q-MS-HOPELESSPLAN
-- Elevation and pitch: eye level from the map room door, looking across at the seated figure.
-- Subject azimuth and orientation: rear three-quarter view of the seated emperor; the face turned down toward the map, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S178-HIGH-DOWN-REAR3Q-MWS-FORCEDWEST
+- Elevation and pitch: high, from the ridge above the west road, looking down about thirty degrees onto the column.
+- Subject azimuth and orientation: rear three-quarter view of the mounted emperor; the face turned back toward the escort commander, the profile readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the mounted emperor occupies about fifty-five percent of frame height, the eunuch column pressing around him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a eunuch standing at the map room door, the man who will report the vigil.
+the viewer is a eunuch rider crowding the emperor's flank, the man who will not let the column turn back.
 
 EVENT MOTION THROUGH THE FRAME:
-the lowering candle and the map's edge hold a long, unshared deliberation.
+the turned head and the escort's unbroken stride hold the order that has not been spoken.
 
 EXTREME FOREGROUND DESIGN:
-the map edge and the candle.
+the horse's flank and the escort's spear shafts.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C178-HOPELESSPLAN-BLACK-CANDLE-G0
-- Dominant palette: hopeless plan black, candle amber, map pale, dark robe and deep night shadow.
-- Gold allocation: G0 no gold leaf; the candle stand is dark bronze.
-- Lighting logic: one candle over the map, the room in darkness.
-- Surface rhythm: map fiber, dry-brush ink lines and long candle shadow.
+- Color code: C178-FORCEDWEST-IRONBLACK-WINTERPALE-G0
+- Dominant palette: forced west iron black, winter pale sky, road dust gray, dark robe and colorless daylight.
+- Gold allocation: G0 no gold leaf; the harness fittings are dark iron.
+- Lighting logic: low winter daylight over the open road, hard and colorless.
+- Surface rhythm: road dust, dry-brush banner edges and wind-driven streaks.
 
 HISTORICAL EVENT ENVIRONMENT:
-the night map room: the realm's map, one candle, the seated emperor, dark windows.
+the west road to Fengxiang: the mounted emperor, the eunuch escort column, bare winter hills, cold daylight.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a ruler planning against his own doom: the candle over the map of the empire that no plan would save.
+Use the emotional implication of a ruler carried off by his own servants: the Son of Heaven riding west inside an escort that is his cage.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

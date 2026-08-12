@@ -4,7 +4,7 @@ ORDER: 258
 PERSONAL_NAME_ZH: 努尔哈赤
 DISPLAY_ZH: 清太祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S258-LOW-FRONT3Q-MS-THIRTEENARMOR
+SHOT_CODE: S258-EYE-SIDE-MWS-THIRTEENARMOR
 COLOR_CODE: C258-THIRTEENARMOR-IRON-DARKBANNER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\258-qing-tai-zu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,20 +27,20 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Nurhaci, at the head of the thirteen sets of armor, raises the war banner toward the Jurchen settlement and the first answering cry has not yet finished.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S258-LOW-FRONT3Q-MS-THIRTEENARMOR
-- Elevation and pitch: low, from among the assembled warriors, looking up about twelve degrees.
-- Subject azimuth and orientation: front-left three-quarter view of the standing chief; the face raised toward the banner, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the chief occupies about sixty percent of frame height.
+- Shot code: S258-EYE-SIDE-MWS-THIRTEENARMOR
+- Elevation and pitch: eye level from the palisade gate, looking across at the standing chief.
+- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the raised banner, about half readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the chief occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
 the viewer is a Jurchen warrior of the thirteen-armor uprising, the man who will follow the founder from the tribal feud to the building of a state.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised banner and the warriors' salutes move upward together.
+the banner rises against the palisade sky while the warriors' cry gathers below.
 
 EXTREME FOREGROUND DESIGN:
-two warrior shoulders and a spear shaft.
+the stacked edges of the thirteen armor sets and one banner pole base.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C258-THIRTEENARMOR-IRON-DARKBANNER-G0

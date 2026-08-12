@@ -4,8 +4,8 @@ ORDER: 63
 PERSONAL_NAME_ZH: 刘骏
 DISPLAY_ZH: 宋孝武帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S078-EYE-REAR3Q-MS-TERRIBLEGLANCE
-COLOR_CODE: C078-HALLDARK-CRIMSON-GOLDLEAF-G0
+SHOT_CODE: S078-HIGH-DOWN-FRONT3Q-MWS-UNSENTPROCLAMATION
+COLOR_CODE: C078-DAWNCAMP-IRON-CRIMSONBANNER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\063-liu-song-xiao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,7 +21,7 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-thirties, Liu Song emperor Xiao Liu Jun type: hard thin face, cold eyes, neat short beard; COSTUME: dark red imperial robe with black edges, black cap; ACCESSORIES: one hand resting on the armrest, the other holding a memorial scroll.
+an East Asian man in his early twenties, Liu Song emperor Xiao Liu Jun type: hard thin young face, cold eyes, a light short beard; COSTUME: dark lamellar armor over a crimson battle robe, military cap, the dress of the punitive campaign; ACCESSORIES: one hand holding the drafted proclamation, the other resting on the sword at his side.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Xiao, at the audience, lowers the memorial scroll and turns his gaze toward the official ranks, the reply not yet given.

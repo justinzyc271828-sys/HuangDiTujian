@@ -4,8 +4,8 @@ ORDER: 202
 PERSONAL_NAME_ZH: 赵扩
 DISPLAY_ZH: 宋宁宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S203-HIGH-DOWN-SIDE-MS-SILENTTHRONE
-COLOR_CODE: C203-SILENTTHRONE-GRAY-GOLDTRIM-G0
+SHOT_CODE: S203-EYE-FRONT-MWS-SILENTTHRONE
+COLOR_CODE: C203-SILENTTHRONE-BRONZE-GRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\202-s-song-ning.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -24,33 +24,33 @@ SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
 an East Asian man in his late twenties, Song emperor Ningzong Zhao Kuo type: quiet mild face, thin beard, passive posture; COSTUME: dark Song imperial robe with red trim, black cap; ACCESSORIES: both hands resting on the armrests, still.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Ningzong, at the audience, watches the regent's envoy enter the hall and the first matter of the session has not yet been raised.
+Freeze the instant when Emperor Ningzong, at the audience, watches the chief minister's envoy enter the hall and the first matter of the session has not yet been raised.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S203-HIGH-DOWN-SIDE-MS-SILENTTHRONE
-- Elevation and pitch: high, looking down about twenty degrees from the hall rear onto the throne.
-- Subject azimuth and orientation: right-side view of the seated emperor; the face turned toward the envoy, the profile readable.
-- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty percent of frame height.
+- Shot code: S203-EYE-FRONT-MWS-SILENTTHRONE
+- Elevation and pitch: eye level from the hall floor behind the entering envoy, looking levelly toward the throne.
+- Subject azimuth and orientation: near-frontal view of the seated emperor, framed by the envoy's silhouetted shoulder in the near foreground; the small face turned toward the envoy, readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the envoy's back fills the near third, the emperor about forty-five percent of frame height at the axis end.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a clerk standing at the hall side, watching a reign conducted entirely by the man at the door.
+the viewer walks one step behind the chief minister's envoy, carrying the file into the silent hall.
 
 EVENT MOTION THROUGH THE FRAME:
 the envoy's approach and the emperor's stillness face each other along the hall axis.
 
 EXTREME FOREGROUND DESIGN:
-one pillar base and the envoy's shoulder.
+the envoy's shoulder and the file's edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C203-SILENTTHRONE-GRAY-GOLDTRIM-G0
-- Dominant palette: silent throne gray, gold trim hint, envoy cloth, dark robe and dim hall light.
+- Color code: C203-SILENTTHRONE-BRONZE-GRAY-G0
+- Dominant palette: silent throne dull bronze, hall gray, envoy cloth, dark robe and dim hall light.
 - Gold allocation: G0 no gold leaf; the trim glint is dull bronze tone.
 - Lighting logic: dim even hall light, heavy on the session.
 - Surface rhythm: hall stone, dry-brush robe edges and long shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Song audience hall in the regency era: the seated emperor, the envoy, officials, dim light.
+the Song audience hall in the era of the chief ministers: the seated emperor, the envoy, officials, dim light.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of a reign kept in silence: the emperor as a signature, the power standing at the door.

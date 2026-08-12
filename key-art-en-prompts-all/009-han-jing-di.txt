@@ -40,12 +40,12 @@ EVENT MOTION THROUGH THE FRAME:
 the rolled edict and the emperor's raised hand hold the frame still while the messenger's shadow slides forward along the floor.
 
 EXTREME FOREGROUND DESIGN:
-the messenger's cropped shoulder and one bronze censer.
+the messenger's dust-caked boots and one bronze tally at the threshold, just in from the Eastern Market.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C028-COURTBLACK-EDICTWHITE-IRON-G0
 - Dominant palette: court black, edict white, iron gray, dark red robe, cold hall light and one pale scroll.
-- Gold allocation: G0 no gold leaf; censer and fittings are dark bronze.
+- Gold allocation: G0 no gold leaf; tally and fittings are dark bronze.
 - Lighting logic: cold even hall light from the high windows, merciless on the seated figure.
 - Surface rhythm: dark lacquer panels, dry-brush robe folds and one long floor shadow from the messenger.
 

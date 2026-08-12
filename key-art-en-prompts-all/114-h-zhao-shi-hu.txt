@@ -21,15 +21,15 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a broad brutal East Asian man in his forties, Later Zhao emperor Shi Hu type: heavy jaw, small fierce eyes, thick black beard, massive build; COSTUME: dark red Zhao court robe with leather inner armor, dark cap, the dress of a warlord seated in a palace; ACCESSORIES: one hand resting on a ceremonial axe, the other gripping the armrest.
+a broad brutal East Asian man in his forties, Later Zhao regent-heavenly-king Shi Hu type: heavy jaw, small fierce eyes, thick black beard, massive build; COSTUME: dark red Zhao court robe with leather inner armor, dark cap, the dress of a warlord seated in a palace; ACCESSORIES: one hand resting on a ceremonial axe, the other gripping the edge of the sitting dais.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Shi Hu, alone in the great hall after ordering the removal of his predecessor's family, watches the shadows of the guards move across the far wall, the sentence still being carried out beyond the doors.
+Freeze the instant when the regent-heavenly-king Shi Hu, alone in the great hall after ordering the removal of his predecessor's family, watches the shadows of the guards move across the far wall, the sentence still being carried out beyond the doors.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S125-EYE-SIDE-MCU-SHADOWTHRONE
 - Elevation and pitch: eye level from the far end of the hall, through the ranked empty mats.
-- Subject azimuth and orientation: right-side three-quarter view of the seated emperor; the face turned toward the far wall, about half readable.
+- Subject azimuth and orientation: right-side three-quarter view of the seated regent-heavenly-king; the face turned toward the far wall, about half readable.
 - Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the axe; he occupies about sixty-eight percent of frame height.
 - Camera roll: level horizon.
 
@@ -37,10 +37,10 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a court eunuch waiting at the hall door, the man who must pretend he has heard nothing.
 
 EVENT MOTION THROUGH THE FRAME:
-the guard shadows slide across the far wall while the emperor remains motionless in the foreground.
+the guard shadows slide across the far wall while the regent-heavenly-king remains motionless in the foreground.
 
 EXTREME FOREGROUND DESIGN:
-the ceremonial axe edge and the armrest.
+the ceremonial axe head and the edge of the sitting dais.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C125-PURGECOURT-CRIMSON-SMOKE-G0
@@ -50,7 +50,7 @@ COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Surface rhythm: polished floor reflections, dry-brush robe folds and sliding shadow bands.
 
 HISTORICAL EVENT ENVIRONMENT:
-the great hall of Ye: empty mats, dark columns, one light shaft, moving guard shadows on the far wall, the seated emperor.
+the great hall of Xiangguo: empty mats, dark columns, one light shaft, moving guard shadows on the far wall, the seated regent-heavenly-king.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of a throne built on the silence of halls: the ruler alone with the shadows he has ordered.

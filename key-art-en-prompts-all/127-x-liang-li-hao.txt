@@ -4,7 +4,7 @@ ORDER: 127
 PERSONAL_NAME_ZH: 李暠
 DISPLAY_ZH: 西凉太祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S137-KNEE-SIDE-MC-CALLIGRAPHYEDICT
+SHOT_CODE: S137-EYE-FRONT3Q-MS-CALLIGRAPHYEDICT
 COLOR_CODE: C137-STUDYGREEN-BAMBOOBOOK-PAPER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\127-x-liang-li-hao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,20 +21,20 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late forties, Western Liang founder Li Gao type: refined scholarly face, long neat beard, calm upright posture; COSTUME: plain dark scholar-ruler's robe with leather belt, cloth cap, the dress of a bookish prince; ACCESSORIES: one hand holding a brush above a writing board, the other steadying a bamboo slip.
+an East Asian man in his late fifties, Western Liang founder Li Gao type: refined scholarly face, long neat beard, calm upright posture; COSTUME: plain dark scholar-ruler's robe with leather belt, cloth cap, the dress of a bookish prince; ACCESSORIES: one hand holding a brush above a writing board, the other steadying a bamboo slip.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Li Gao, in his study at Jiuquan, writes the decree for the schools and the brush has not yet completed the character, the lamp beside him burning low.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S137-KNEE-SIDE-MC-CALLIGRAPHYEDICT
-- Elevation and pitch: knee height from the side of the low desk, looking across at the seated ruler.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the board, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the ruler's cap to the desk; he occupies about sixty-five percent of frame height.
+- Shot code: S137-EYE-FRONT3Q-MS-CALLIGRAPHYEDICT
+- Elevation and pitch: eye level from the front of the low desk, looking across the writing board at the seated ruler.
+- Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the board, about seventy percent readable, the lamp between the viewer and the dusk window.
+- Shot scale and lens behavior: 50 mm medium shot from the desk edge to the window; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the court scribe kneeling at the desk side, watching his prince write the future of Hexi learning.
+the viewer is the court scribe kneeling at the front of the low desk, watching his prince write the future of Hexi learning.
 
 EVENT MOTION THROUGH THE FRAME:
 the brush's slow travel and the lamp smoke rise together in a quiet rhythm.

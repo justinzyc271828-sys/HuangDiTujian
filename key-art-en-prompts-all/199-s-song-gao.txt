@@ -4,7 +4,7 @@ ORDER: 199
 PERSONAL_NAME_ZH: 赵构
 DISPLAY_ZH: 宋高宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S200-HIGH-DOWN-FRONT3Q-MWS-SHIPBOARDTHRONE
+SHOT_CODE: S200-HIGH-DOWN-SIDE-MS-STERNWAKE
 COLOR_CODE: C200-SHIPBOARD-SEAGRAY-ROYALBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\199-s-song-gao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, on the ship of the fleeing court, watches the coast recede and the first settlement of the new southern capital has not yet been chosen.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S200-HIGH-DOWN-FRONT3Q-MWS-SHIPBOARDTHRONE
-- Elevation and pitch: high, looking down about twenty degrees from the ship deck onto the water.
-- Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face turned toward the coast, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the sea before him.
+- Shot code: S200-HIGH-DOWN-SIDE-MS-STERNWAKE
+- Elevation and pitch: high, looking down about twenty degrees from the ship's stern castle onto the afterdeck.
+- Subject azimuth and orientation: right-side view of the standing emperor at the stern rail; the face turned toward the receding coast, the profile readable.
+- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height with the wake stretching behind.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -40,7 +40,7 @@ EVENT MOTION THROUGH THE FRAME:
 the receding coast and the ship's wake move in opposite directions across the water.
 
 EXTREME FOREGROUND DESIGN:
-the rail and one banner edge.
+the stern rail and the great tiller arm.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C200-SHIPBOARD-SEAGRAY-ROYALBLUE-G0

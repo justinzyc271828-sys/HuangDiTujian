@@ -4,7 +4,7 @@ ORDER: 174
 PERSONAL_NAME_ZH: 李儇
 DISPLAY_ZH: 唐僖宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S177-HIGH-DOWN-SIDE-MWS-FLIGHTSOUTH
+SHOT_CODE: S177-LOW-FRONT-MC-FLIGHTSOUTH
 COLOR_CODE: C177-FLIGHTSOUTH-DUST-CLOAKED-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\174-tang-xi-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,20 +27,20 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, riding south toward Shu with the fleeing court, looks back at the capital behind the dust and the road has not yet turned the last corner.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S177-HIGH-DOWN-SIDE-MWS-FLIGHTSOUTH
-- Elevation and pitch: high, from the ridge above the road, looking down about eighteen degrees onto the column.
-- Subject azimuth and orientation: right-side view of the mounted emperor; the face turned back, the profile readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
+- Shot code: S177-LOW-FRONT-MC-FLIGHTSOUTH
+- Elevation and pitch: ground level from the road dust, looking up about twenty degrees.
+- Subject azimuth and orientation: near-frontal view of the mounted young emperor; the face turned back over the shoulder, readable.
+- Shot scale and lens behavior: 70 mm medium-close shot; the emperor and the horse's head occupy about sixty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
 the viewer is a court eunuch riding behind the emperor, the man who watched the capital fall behind the dust.
 
 EVENT MOTION THROUGH THE FRAME:
-the southward column and the backward glance move in opposite directions along the road.
+the column hurries south past the lens while the emperor's backward glance holds against the dust.
 
 EXTREME FOREGROUND DESIGN:
-one eunuch's horse neck and the banner edge.
+roadside weeds and one fallen banner cord.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C177-FLIGHTSOUTH-DUST-CLOAKED-G0

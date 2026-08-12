@@ -4,8 +4,8 @@ ORDER: 172
 PERSONAL_NAME_ZH: 李忱
 DISPLAY_ZH: 唐宣宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S175-EYE-SIDE-MS-SMALLTAIZONG
-COLOR_CODE: C175-DACHUNG-CALM-GREEN-SCROLL-G0
+SHOT_CODE: S175-EYE-REAR3Q-MC-HEXIMAP
+COLOR_CODE: C175-HEXIMAP-OCHRE-SILK-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\172-tang-xuan-zong-ii.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late thirties, Tang emperor Xuanzong the second Li Chen type: composed keen face, long thin beard, attentive posture; COSTUME: dark Tang imperial robe with red trim, black cap; ACCESSORIES: one hand holding an open memorial, the other resting on the table.
+an East Asian man in his late thirties, Tang emperor Xuanzong the second Li Chen type: composed keen face, long thin beard, attentive posture; COSTUME: dark Tang imperial robe with red trim, black cap; ACCESSORIES: one hand holding the near edge of a half-unrolled map scroll, the other raised toward the kneeling envoy.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xuanzong, at the daily audience, reads the memorial on the frontier and the responding official has not yet finished his bow.
+Freeze the instant when Emperor Xuanzong, at the audience receiving the Guiyi army's envoys, takes the map of the returned Hexi prefectures from the envoy's raised hands and the scroll has not yet been fully unrolled.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S175-EYE-SIDE-MS-SMALLTAIZONG
-- Elevation and pitch: eye level from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the memorial, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S175-EYE-REAR3Q-MC-HEXIMAP
+- Elevation and pitch: eye level from beside the map bearers, looking across the half-unrolled scroll toward the standing emperor.
+- Subject azimuth and orientation: rear three-quarter view over the emperor's shoulder; the face turned down toward the map, the profile barely readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the scroll; he occupies about sixty percent of frame height, the kneeling envoy soft beyond.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a young official at the hall side, watching the ruler the court called the Little Taizong.
+the viewer is a Guiyi army envoy kneeling at the hall side, one of the men who carried the map of the Hexi prefectures through the desert to the Tang court.
 
 EVENT MOTION THROUGH THE FRAME:
-the reading gaze and the official's bow hold the quiet rhythm of a serious reign.
+the unrolling scroll and the envoy's raised hands move toward each other across the hall floor.
 
 EXTREME FOREGROUND DESIGN:
-one official's shoulder and the memorial edge.
+the emperor's shoulder and the scroll's unrolling edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C175-DACHUNG-CALM-GREEN-SCROLL-G0
-- Dominant palette: Dachung calm green, memorial pale, dark robe, red trim and soft hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and paper.
-- Lighting logic: soft even hall light, steady and clear.
-- Surface rhythm: memorial fiber, dry-brush robe edges and column shadows.
+- Color code: C175-HEXIMAP-OCHRE-SILK-G0
+- Dominant palette: Hexi map ochre, silk pale, dark robe, red trim and warm hall light.
+- Gold allocation: G0 no gold leaf; everything is cloth, paper and map silk.
+- Lighting logic: warm even hall light on the unrolling silk.
+- Surface rhythm: map silk grain, dry-brush robe edges and column shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Tang audience hall in the Dazhong era: seated emperor, memorials, ranked officials, soft light.
+the Tang audience hall in the Dazhong era: the standing emperor, the half-unrolled Hexi map, kneeling frontier envoys, ranked officials, warm light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign restored by attention: the emperor reading every line, the court learning to be serious again.
+Use the emotional implication of the lost west returning on its own: the court called him the Little Taizong, and now the map of the Hexi prefectures unrolls in his hands.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

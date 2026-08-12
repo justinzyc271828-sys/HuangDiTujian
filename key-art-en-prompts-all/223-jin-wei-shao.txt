@@ -4,8 +4,8 @@ ORDER: 223
 PERSONAL_NAME_ZH: 完颜永济
 DISPLAY_ZH: 卫绍王
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S224-EYE-REAR3Q-MS-PLAINWATCH
-COLOR_CODE: C224-PLAINWATCH-STEPPE-ASH-G0
+SHOT_CODE: S224-EYE-REAR3Q-MS-ZHONGDUWALL
+COLOR_CODE: C224-ZHONGDUWALL-STONE-ASH-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\223-jin-wei-shao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,20 +21,20 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-forties, Jin emperor Weishao Wanyan Yongji type: plain ordinary face, short beard, hesitant posture; COSTUME: dark plain Jin court robe, cloth cap, no ornament; ACCESSORIES: both hands resting on the watch tower rail.
+an East Asian man in his mid-forties, Jin emperor Weishao Wanyan Yongji type: plain ordinary face, short beard, hesitant posture; COSTUME: dark plain Jin court robe, cloth cap, no ornament; ACCESSORIES: both hands resting on the wall tower rail.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Weishao, on the watch tower of the northern border, studies the horizon from which the Mongol army will come and the first dust has not yet appeared.
+Freeze the instant when Emperor Weishao, on the wall tower of Zhongdu, studies the northern horizon as the report of the Yehuling defeat is brought in and the messenger has not yet reached the tower.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S224-EYE-REAR3Q-MS-PLAINWATCH
-- Elevation and pitch: eye level from the watch tower, looking across the plain.
+- Shot code: S224-EYE-REAR3Q-MS-ZHONGDUWALL
+- Elevation and pitch: eye level from the wall tower of Zhongdu, looking across the northern plain.
 - Subject azimuth and orientation: rear three-quarter view of the standing emperor; the face turned toward the horizon, the profile readable.
 - Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a border soldier standing behind the emperor, watching a plain emperor measure the plain that will end him.
+the viewer is a Zhongdu garrison soldier standing behind the emperor, watching a plain emperor measure the plain that will end him.
 
 EVENT MOTION THROUGH THE FRAME:
 the plain wind and the emperor's stillness face each other across the empty horizon.
@@ -43,17 +43,17 @@ EXTREME FOREGROUND DESIGN:
 the tower rail and one banner edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C224-PLAINWATCH-STEPPE-ASH-G0
-- Dominant palette: plain watch steppe ash, fur gray, leather brown, banner faded and cold light.
+- Color code: C224-ZHONGDUWALL-STONE-ASH-G0
+- Dominant palette: Zhongdu wall stone ash, fur gray, leather brown, banner faded and cold light.
 - Gold allocation: G0 no gold leaf; everything is wood, cloth and leather.
 - Lighting logic: cold flat light over the plain.
 - Surface rhythm: tower timber, dry-brush wind strokes and rail shadow.
 
 HISTORICAL EVENT ENVIRONMENT:
-the northern border watch tower: the emperor, the empty plain, banners, cold sky.
+the wall tower of Zhongdu: the emperor, the empty northern plain, banners, cold sky.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the ordinary emperor facing the extraordinary age: the plain watch over a horizon that would bring the end of the Jin.
+Use the emotional implication of the ordinary emperor facing the extraordinary age: the watch from the wall over a horizon that would bring the end of the Jin.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

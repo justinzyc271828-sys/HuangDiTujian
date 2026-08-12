@@ -4,7 +4,7 @@ ORDER: 85
 PERSONAL_NAME_ZH: 拓跋珪
 DISPLAY_ZH: 道武帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S099-LOW-FRONT3Q-MS-NORTHERNCROWN
+SHOT_CODE: S099-GROUND-FRONT-MWS-NORTHERNCROWN
 COLOR_CODE: C099-STEPPECROWN-FELT-IRONBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\085-n-wei-daowu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,23 +21,23 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Northern Wei founder Tuoba Gui type: strong steppe face, heavy braids, fierce bright eyes; COSTUME: dark Tuoba leather coat with fur collar over iron lamellar armor, leather trousers, high boots; ACCESSORIES: one hand holding a fur-trimmed cap raised toward the sky, the other on the horse's neck.
+an East Asian youth of sixteen, Northern Wei founder Tuoba Gui type: strong steppe face, heavy braids, fierce bright eyes; COSTUME: dark Tuoba leather coat with fur collar over iron lamellar armor, leather trousers, high boots; ACCESSORIES: one hand holding a fur-trimmed cap raised toward the sky, the other on the horse's neck.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Tuoba Gui, at the steppe assembly where the Dai name is restored, raises the cap toward the sky and the tribes' answering shout has not yet finished.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S099-LOW-FRONT3Q-MS-NORTHERNCROWN
-- Elevation and pitch: low, from among the mounted tribes, looking up about twelve degrees.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted chief; the face raised toward the sky, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the chief and horse occupy about fifty-five percent of frame height.
+- Shot code: S099-GROUND-FRONT-MWS-NORTHERNCROWN
+- Elevation and pitch: ground level from the trampled grass, looking up about twenty-five degrees.
+- Subject azimuth and orientation: near-frontal view of the mounted chief; the face raised toward the sky, readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the chief and horse occupy about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
 the viewer is a Tuoba warrior of the restored tribe, watching the house of his grandfather rise again.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised cap and the tribal salutes move upward and inward around the chief.
+the raised cap lifts against the sky while the ring of riders presses inward.
 
 EXTREME FOREGROUND DESIGN:
 two warrior shoulders and a horse's neck.

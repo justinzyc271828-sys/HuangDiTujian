@@ -4,8 +4,8 @@ ORDER: 250
 PERSONAL_NAME_ZH: 朱祐樘
 DISPLAY_ZH: 明孝宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S250-KNEE-FRONT3Q-MC-SINGLECOURT
-COLOR_CODE: C250-HONGZHI-PLAIN-SCHOLARBLUE-G0
+SHOT_CODE: S250-KNEE-FRONT3Q-MC-ONEEMPRESS
+COLOR_CODE: C250-HONGZHI-ONEEMPRESS-SCHOLARBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\250-ming-xiao-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Ming emperor Xiaozong Zhu Youcheng type: plain kind face, neat beard, modest dignified posture; COSTUME: dark Ming imperial robe with red trim, black cap, unornamented; ACCESSORIES: both hands resting on the armrests, leaning toward the memorials.
+an East Asian man in his mid-thirties, Ming emperor Xiaozong Zhu Youcheng type: plain kind face, neat beard, modest dignified posture; COSTUME: dark Ming imperial robe with red trim, black cap, unornamented; ACCESSORIES: one hand resting on the armrest nearest the empress, the other on the morning's unopened memorial.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Xiaozong, at the daily audience, reaches for the memorial of the scholar-officials and the first response has not yet been spoken.
+Freeze the instant when Emperor Xiaozong, at the morning audience with the empress seated beside him, turns toward her and the first memorial of the day has not yet been opened.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S250-KNEE-FRONT3Q-MC-SINGLECOURT
+- Shot code: S250-KNEE-FRONT3Q-MC-ONEEMPRESS
 - Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face turned toward the memorials, about seventy percent readable.
+- Subject azimuth and orientation: front-left three-quarter view; the face turned toward the empress beside him, about seventy percent readable.
 - Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the memorials; he occupies about sixty-eight percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a young official standing at the hall side, watching the one-empress emperor govern by listening.
+the viewer is a young official standing at the hall side, watching the one-empress emperor share the morning audience with his only wife.
 
 EVENT MOTION THROUGH THE FRAME:
-the reaching hand and the memorial stack face each other across the table.
+the emperor's turned gaze and the empress's seated stillness face the empty side halls together.
 
 EXTREME FOREGROUND DESIGN:
-the memorial stack and one official's sleeve.
+the empress's cropped shoulder and sleeve at the near edge, and the unopened memorial stack.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C250-HONGZHI-PLAIN-SCHOLARBLUE-G0
-- Dominant palette: Hongzhi plain, scholar blue, memorial white, dark robe and soft hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and paper.
-- Lighting logic: soft even hall light, clear and honest.
-- Surface rhythm: memorial fiber, dry-brush text edges and hall mat grain.
+- Color code: C250-HONGZHI-ONEEMPRESS-SCHOLARBLUE-G0
+- Dominant palette: Hongzhi plain, scholar blue, memorial white, pale sleeve silk, dark robe and soft morning light.
+- Gold allocation: G0 no gold leaf; the hairpin at the frame edge is pale pearl, everything is cloth and paper.
+- Lighting logic: soft morning hall light, clear and honest.
+- Surface rhythm: memorial fiber, dry-brush sleeve edges and hall mat grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Ming audience hall in the Hongzhi era: seated emperor, memorials, officials, soft light.
+the Ming audience hall in the Hongzhi era: the seated emperor, the empress beside him, memorials, officials, the side halls of the six palaces standing empty, soft light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the dynasty's cleanest reign: the single-empress emperor reaching for the papers of the realm, the court at its quietest.
+Use the emotional implication of the dynasty's only single-marriage reign: the emperor and his one empress at the morning audience, the six palaces behind them never filled.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

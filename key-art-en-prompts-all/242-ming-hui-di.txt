@@ -4,7 +4,7 @@ ORDER: 242
 PERSONAL_NAME_ZH: 朱允炆
 DISPLAY_ZH: 建文帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S242-KNEE-SIDE-MC-INCENSEHALL
+SHOT_CODE: S242-HIGH-DOWN-FRONT3Q-MS-INCENSEHALL
 COLOR_CODE: C242-JIANWEN-PALE-SCHOLARBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\242-ming-hui-di.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Jianwen, at the audience on the reduction of the feudal princes, reads the memorial and the first response has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S242-KNEE-SIDE-MC-INCENSEHALL
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the memorial, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the memorial; he occupies about sixty-five percent of frame height.
+- Shot code: S242-HIGH-DOWN-FRONT3Q-MS-INCENSEHALL
+- Elevation and pitch: high, looking down about twenty-five degrees from the hall's front corner onto the session.
+- Subject azimuth and orientation: front-left three-quarter view of the seated emperor; the face turned down toward the memorial, about half readable.
+- Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height with the scholars ranked below.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

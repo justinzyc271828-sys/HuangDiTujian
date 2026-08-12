@@ -4,8 +4,8 @@ ORDER: 261
 PERSONAL_NAME_ZH: 玄烨
 DISPLAY_ZH: 清圣祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S261-EYE-SIDE-MS-CONTINENTDESK
-COLOR_CODE: C261-KANGXI-DESK-SCHOLARBLUE-G0
+SHOT_CODE: S261-EYE-REAR3Q-MS-TRAPHALL
+COLOR_CODE: C261-KANGXI-TRAPHALL-VERMILION-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\261-qing-sheng-zu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late fifties, Qing emperor Shengzu Kangxi type: composed imperious face, neat beard, imperial scholarly posture; COSTUME: dark Manchu imperial robe with dragon roundels, dark cap with red tassel; ACCESSORIES: one hand holding an open memorial, the other resting on a stack of maps of the realm.
+an East Asian boy in his mid-teens, Qing emperor Shengzu Kangxi type: young composed face, smooth cheeks, still watchful posture; COSTUME: dark Manchu imperial robe with dragon roundels, dark cap with red tassel, the dress of the young sovereign; ACCESSORIES: both hands resting on the armrests, the fingers still on the carved wood.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Kangxi, at the desk of the long reign, reads the memorial from the western frontier and the response has not yet been written.
+Freeze the instant when the fifteen-year-old emperor, on the throne of the audience hall, watches Oboi step into the trap and the wrestling boys behind the screen have not yet risen.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S261-EYE-SIDE-MS-CONTINENTDESK
-- Elevation and pitch: eye level from the desk side, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the memorial, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the maps; he occupies about sixty-five percent of frame height.
+- Shot code: S261-EYE-REAR3Q-MS-TRAPHALL
+- Elevation and pitch: eye level from the hall side, looking across at the seated young emperor.
+- Subject azimuth and orientation: rear three-quarter view of the seated boy-emperor; the face turned toward Oboi below, the profile readable.
+- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height with the hall falling away below.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Han scholar standing at the desk side, watching the emperor who governed by reading and riding.
+the viewer is a young wrestler crouched behind the screen, waiting for the boy emperor's signal.
 
 EVENT MOTION THROUGH THE FRAME:
-the reading gaze and the stacked maps face each other across the desk.
+Oboi's heavy approach and the hidden wrestlers' held breath move toward the same instant.
 
 EXTREME FOREGROUND DESIGN:
-the memorial edge and one map corner.
+the carved screen edge and one wrestler's crouched shoulder.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C261-KANGXI-DESK-SCHOLARBLUE-G0
-- Dominant palette: Kangxi desk scholar blue, memorial pale, dark robe, map parchment and soft study light.
+- Color code: C261-KANGXI-TRAPHALL-VERMILION-G0
+- Dominant palette: Kangxi hall vermilion, screen dark lacquer, robe dark, court cloth and taut daylight.
 - Gold allocation: G0 no gold leaf; the dragon roundels are dark embroidered thread, not gold.
-- Lighting logic: soft even study light, calm and imperial.
-- Surface rhythm: desk wood grain, dry-brush memorial edges and map fiber.
+- Lighting logic: even hall daylight, taut over the waiting trap.
+- Surface rhythm: hall stone, dry-brush screen lacquer and robe grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the imperial study: desk, memorials, maps of the realm, the seated emperor, soft light.
+the audience hall of the palace: the boy-emperor on the throne, Oboi advancing below, the screen with the hidden wrestlers, guards at the edges.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the long reign at its desk: the emperor of the realm's widest map reading the papers that kept it whole.
+Use the emotional implication of the boy who took back power with a wrestling game: the fifteen-year-old emperor watching the overbearing minister walk into the trap.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

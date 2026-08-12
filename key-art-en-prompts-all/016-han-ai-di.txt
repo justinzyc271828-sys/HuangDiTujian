@@ -5,7 +5,7 @@ PERSONAL_NAME_ZH: 刘欣
 DISPLAY_ZH: 汉哀帝
 STATUS: DRAFT-PENDING-REVIEW
 SHOT_CODE: S033-EYE-SIDE-MCU-DUTCH-SLEEVECUT
-COLOR_CODE: C033-NIGHTSILK-MOONLIGHT-CANDLE-G0
+COLOR_CODE: C033-DAYSILK-BLINDLIGHT-BRONZE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\016-han-ai-di.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,10 +21,10 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a handsome young East Asian man of about twenty, Han emperor Ai type: delicate face, long fine brows, slight beard, slender build; COSTUME: white-and-pale-blue Han sleeping robe, loosened collar, hair bound in a plain night cap; ACCESSORIES: one hand holding a short bronze knife at the sleeve, the other bracing on the bed edge.
+a handsome young East Asian man of about twenty, Han emperor Ai type: delicate face, long fine brows, slight beard, slender build; COSTUME: white-and-pale-blue Han sleeping robe, loosened collar, hair bound in a plain soft cap; ACCESSORIES: one hand holding a short bronze knife at the sleeve, the other bracing on the bed edge.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Ai, rising from bed, draws a bronze knife across the sleeve that his sleeping favorite Dong Xian lies upon, so as not to wake him, the blade already touching the cloth before the cut completes.
+Freeze the instant when Emperor Ai, rising from the couch after the midday nap, draws a bronze knife across the sleeve that his sleeping favorite Dong Xian lies upon, so as not to wake him, the blade already touching the cloth before the cut completes.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S033-EYE-SIDE-MCU-DUTCH-SLEEVECUT
@@ -34,23 +34,23 @@ CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO
 - Camera roll: subtle 2-degree clockwise Dutch tilt following the blade line.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the night attendant holding the candle at the bed curtain, the only witness to the gesture that gave history the phrase of the broken sleeve.
+the viewer is the day attendant waiting at the bed curtain, the only witness to the gesture that gave history the phrase of the broken sleeve.
 
 EVENT MOTION THROUGH THE FRAME:
-the knife edge travels along the sleeve toward the lower right while the candle flame leans in the same direction.
+the knife edge travels along the sleeve toward the lower right while the striped bands of daylight through the blinds lie motionless across the bed.
 
 EXTREME FOREGROUND DESIGN:
-the candle flame, one curtain edge and the sleeping favorite's shoulder wrapped in the robe.
+one curtain edge, the hanging blind cord and the sleeping favorite's shoulder wrapped in the robe.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C033-NIGHTSILK-MOONLIGHT-CANDLE-G0
-- Dominant palette: night silk white, moonlight blue, candle amber, pale skin and one bronze glint on the knife.
+- Color code: C033-DAYSILK-BLINDLIGHT-BRONZE-G0
+- Dominant palette: day silk white, pale curtain blue, afternoon light in warm bands, skin tones and one bronze glint on the knife.
 - Gold allocation: G0 no gold leaf; the knife is plain dark bronze.
-- Lighting logic: moonlight through the window on the far side, one small candle near the attendant, split cold-warm light across the emperor's face.
-- Surface rhythm: silk sheet folds, dry-brush hair strokes and soft candle-warm shadow edges.
+- Lighting logic: afternoon daylight through the window blinds in striped bands across the bed and the emperor's face, no lamp or candle lit.
+- Surface rhythm: silk sheet folds, dry-brush hair strokes and the sharp edges of the blind-shadow bands.
 
 HISTORICAL EVENT ENVIRONMENT:
-a private Han imperial bedchamber at night: rolled curtains, lacquered screen, moonlight on the floor, one candle at the bedside.
+a private Han imperial bedchamber in the afternoon: rolled curtains, lacquered screen, window blinds casting striped daylight on the floor, no lamp lit.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of tenderness that unmade a dynasty: an act of small kindness performed with the knife of imperial favoritism.

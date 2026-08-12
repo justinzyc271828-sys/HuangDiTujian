@@ -4,8 +4,8 @@ ORDER: 82
 PERSONAL_NAME_ZH: 陈伯宗
 DISPLAY_ZH: 陈废帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S096-HIGH-DOWN-SIDE-MS-UNCLEAUDIENCE
-COLOR_CODE: C096-UNCLEHALL-GRAY-YOUTHBROWN-G0
+SHOT_CODE: S096-HIGH-DOWN-SIDE-MS-DEPOSITIONEDICT
+COLOR_CODE: C096-REMOVALHALL-GRAY-YOUTHBROWN-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\082-chen-fei.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,7 +21,7 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a small East Asian boy of thirteen, Chen emperor Fei Chen Bozong type: thin quiet face, uncertain eyes, small figure; COSTUME: dark imperial robe with red collar, black cap; ACCESSORIES: both hands resting on the armrests, the fingers gripping slightly.
+a small East Asian boy of fourteen, Chen emperor Fei Chen Bozong type: thin quiet face, uncertain eyes, small figure; COSTUME: dark imperial robe with red collar, black cap; ACCESSORIES: both hands resting on the armrests, the fingers gripping slightly.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when the boy emperor, at the audience, watches his uncle the regent enter the hall and the first question of the session has not yet been asked.

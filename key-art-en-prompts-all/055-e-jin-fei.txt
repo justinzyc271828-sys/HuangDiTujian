@@ -4,7 +4,7 @@ ORDER: 55
 PERSONAL_NAME_ZH: 司马奕
 DISPLAY_ZH: 晋废帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S070-HIGH-DOWN-FRONT-MWS-DEPOSITIONEDICT
+SHOT_CODE: S070-EYE-FRONT-MWS-DEPOSITIONEDICT
 COLOR_CODE: C070-HALLASH-EDICTWHITE-HUANWENVIOLET-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\055-e-jin-fei.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,8 +27,8 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Fei, standing in the audience hall, hears the deposition edict read aloud and the reader has not yet finished, the emperor's gaze fixed on the gathered officials.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S070-HIGH-DOWN-FRONT-MWS-DEPOSITIONEDICT
-- Elevation and pitch: high, looking down about twenty degrees from the rear of the hall over the standing emperor.
+- Shot code: S070-EYE-FRONT-MWS-DEPOSITIONEDICT
+- Elevation and pitch: eye level from among the ranked officials, looking across the floor at the standing emperor.
 - Subject azimuth and orientation: near-frontal view of the standing emperor; the face raised toward the reader, readable.
 - Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty-five percent of frame height with the officials ranked around him.
 - Camera roll: level horizon.

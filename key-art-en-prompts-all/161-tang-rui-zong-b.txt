@@ -4,7 +4,7 @@ ORDER: 161
 PERSONAL_NAME_ZH: 李旦
 DISPLAY_ZH: 唐睿宗(复位)
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S165-EYE-FRONT3Q-MS-ABDICATINGCALM
+SHOT_CODE: S165-EYE-REAR3Q-MS-ABDICATINGCALM
 COLOR_CODE: C165-ABDICATECALM-BLUE-PALEGOLD-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\161-tang-rui-zong-b.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -21,15 +21,15 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late forties, restored Tang emperor Ruizong Li Dan type: serene composed face, gray-streaked beard, unhurried calm; COSTUME: dark blue Tang imperial robe with red trim, black cap; ACCESSORIES: one hand resting on the abdication edict, the other raised gently toward the heir.
+an East Asian man of about fifty, restored Tang emperor Ruizong Li Dan type: serene composed face, gray-streaked beard, unhurried calm; COSTUME: dark blue Tang imperial robe with red trim, black cap; ACCESSORIES: one hand resting on the abdication edict, the other raised gently toward the heir.
 
 SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Ruizong, at the ceremony of his second abdication, lifts the hand that transfers the realm to his son and the edict has not yet been handed over.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S165-EYE-FRONT3Q-MS-ABDICATINGCALM
-- Elevation and pitch: eye level from the side of the ceremony, looking across at the two figures.
-- Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face turned toward the heir, about seventy percent readable.
+- Shot code: S165-EYE-REAR3Q-MS-ABDICATINGCALM
+- Elevation and pitch: eye level from just behind the emperor's shoulder at the side of the ceremony, looking down the raised arm toward the heir.
+- Subject azimuth and orientation: rear three-quarter view of the standing emperor; the face in profile toward the heir, about half readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height with the heir below.
 - Camera roll: level horizon.
 

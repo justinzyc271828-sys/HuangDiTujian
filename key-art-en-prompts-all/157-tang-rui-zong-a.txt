@@ -4,8 +4,8 @@ ORDER: 157
 PERSONAL_NAME_ZH: 李旦
 DISPLAY_ZH: 唐睿宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S162-EYE-SIDE-MS-FIGURETHATRE
-COLOR_CODE: C162-FIGURETHATRE-BLACK-PURPLE-G0
+SHOT_CODE: S162-KNEE-SIDE-MC-THRESHOLDWATCH
+COLOR_CODE: C162-THRESHOLDWATCH-BLACK-PURPLE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\157-tang-rui-zong-a.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -24,36 +24,36 @@ SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
 an East Asian man in his early twenties, Tang emperor Ruizong Li Dan type: pale withdrawn face, gentle fearful eyes, thin shoulders; COSTUME: dark Tang imperial robe with purple inner edge, black cap; ACCESSORIES: both hands folded in the sleeves, deliberately inconspicuous.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor, at the audience conducted from behind the curtain of his mother's regency, watches the officials bow and the first matter of the session has not yet been raised.
+Freeze the instant when the young emperor, kept in a side palace of Luoyang while the realm is discussed behind his mother's curtain, stands at the side doorway gazing toward the empty throne hall and his shadow has not yet crossed the threshold.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S162-EYE-SIDE-MS-FIGURETHATRE
-- Elevation and pitch: eye level from the hall floor, looking up toward the curtained throne.
-- Subject azimuth and orientation: right-side three-quarter view of the seated emperor; the face turned toward the curtain, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about fifty-five percent of frame height behind the thin curtain.
+- Shot code: S162-KNEE-SIDE-MC-THRESHOLDWATCH
+- Elevation and pitch: knee height from the side doorway, looking along the doorway line toward the empty throne hall.
+- Subject azimuth and orientation: right-side three-quarter view of the standing emperor; the face turned toward the distant throne, about half readable.
+- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's folded hands to the doorframe; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a court attendant standing at the curtain side, watching a reign conducted by the shadow behind it.
+the viewer is a palace door-keeper at the side palace, watching an emperor who may not cross his own threshold.
 
 EVENT MOTION THROUGH THE FRAME:
-the officials' bows and the curtain's slight movement face each other through the veil.
+the murmur of government behind the distant curtain and the emperor's stillness at the doorway face each other across the empty hall.
 
 EXTREME FOREGROUND DESIGN:
-the curtain edge and one official's shoulder.
+the doorframe edge and the emperor's shadow halted on the threshold.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C162-FIGURETHATRE-BLACK-PURPLE-G0
-- Dominant palette: figure theatre black, purple inner edge, curtain silk, official gray and dim hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth.
-- Lighting logic: dim even light, the curtain shadowed.
-- Surface rhythm: curtain silk grain, dry-brush robe edges and soft veil shadows.
+- Color code: C162-THRESHOLDWATCH-BLACK-PURPLE-G0
+- Dominant palette: threshold black, purple inner edge, curtain silk gray, cold stone and dim hall light.
+- Gold allocation: G0 no gold leaf; everything is cloth and cold stone.
+- Lighting logic: dim even light, the empty hall beyond colder than the doorway.
+- Surface rhythm: doorframe wood, dry-brush robe edges and cold stone shadow.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Tang audience hall with the regency curtain: the young emperor behind the veil, officials before it, dim light.
+the side palace in Luoyang: the standing emperor at the doorway, the empty throne hall beyond, the regency curtain with voices behind it, dim cold light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a throne held from behind cloth: the emperor visible, the power elsewhere, both in one frame.
+Use the emotional implication of a reign conducted from another room: the throne kept empty in the hall, the emperor halted at his own threshold.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,7 +4,7 @@ ORDER: 208
 PERSONAL_NAME_ZH: 耶律阿保机
 DISPLAY_ZH: 辽太祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S209-SADDLE-HIGH-FRONT3Q-MWS-STEPPECROWN
+SHOT_CODE: S209-KNEE-SIDE-MS-STEPPECROWN
 COLOR_CODE: C209-STEPPECROWN-FELT-IRONBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\208-liao-tai-zu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Abaoji, at the steppe assembly where the khanate becomes a dynasty, raises the bronze scepter and the tribes' answering shout has not yet finished.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S209-SADDLE-HIGH-FRONT3Q-MWS-STEPPECROWN
-- Elevation and pitch: saddle height from beside the assembly, looking up about ten degrees toward the mounted khan.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted khan; the face raised toward the sky, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
+- Shot code: S209-KNEE-SIDE-MS-STEPPECROWN
+- Elevation and pitch: knee height from the assembly edge, looking up about twenty-five degrees toward the mounted khan.
+- Subject azimuth and orientation: right-side view of the mounted khan; the face raised toward the sky, the profile readable.
+- Shot scale and lens behavior: 50 mm medium shot; horse and rider occupy about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

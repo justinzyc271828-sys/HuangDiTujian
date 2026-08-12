@@ -4,7 +4,7 @@ ORDER: 268
 PERSONAL_NAME_ZH: 载湉
 DISPLAY_ZH: 清德宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S268-KNEE-FRONT3Q-MC-HUNDREDDAY
+SHOT_CODE: S268-EYE-SIDE-MWS-HUNDREDDAY
 COLOR_CODE: C268-WUXU-INKSCROLL-GREEN-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\268-qing-de-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Guangxu, at the audience of the reform days, holds the decree of the new policies and the first official's response has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S268-KNEE-FRONT3Q-MC-HUNDREDDAY
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the decree, about seventy percent readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the decree; he occupies about sixty-eight percent of frame height.
+- Shot code: S268-EYE-SIDE-MWS-HUNDREDDAY
+- Elevation and pitch: eye level from the hall floor, looking levelly toward the seated emperor.
+- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the decree, about half readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the scholars' tensed backs edge the near third, the emperor about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

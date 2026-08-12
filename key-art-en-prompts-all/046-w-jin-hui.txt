@@ -21,10 +21,10 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a dull-witted East Asian man in his thirties, Jin emperor Hui Sima Zhong type: blank simple face, loose mouth, unfocused eyes, slack posture; COSTUME: dark Jin imperial robe with faded red collar, black cap set crooked; ACCESSORIES: one hand resting on a bowl of rice porridge, the other held open in a confused questioning gesture.
+a dull-witted East Asian man in his thirties, Jin emperor Hui Sima Zhong type: blank simple face, loose mouth, unfocused eyes, slack posture; COSTUME: dark Jin imperial robe with faded red collar, black cap set crooked; ACCESSORIES: one hand resting on a bowl of meat gruel, the other held open in a confused questioning gesture.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Hui, listening to the report of starving people dying without grain, asks why they do not simply eat porridge, his hand still open in genuine puzzlement, before the courtiers' silence settles.
+Freeze the instant when Emperor Hui, listening to the report of starving people dying without grain, asks why they do not simply eat meat gruel, his hand still open in genuine puzzlement, before the courtiers' silence settles.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
 - Shot code: S061-LOW-SIDE-MCU-GRUELQUESTION
@@ -40,7 +40,7 @@ EVENT MOTION THROUGH THE FRAME:
 the open questioning hand and the reporter's frozen stillness hold the frame in an awkward pause.
 
 EXTREME FOREGROUND DESIGN:
-the reporting official's cropped shoulder and the porridge bowl.
+the reporting official's cropped shoulder and the gruel bowl.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C061-HALLDUSK-PORCELAIN-MEALWARM-G0

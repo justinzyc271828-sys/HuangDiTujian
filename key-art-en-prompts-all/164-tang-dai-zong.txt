@@ -4,7 +4,7 @@ ORDER: 164
 PERSONAL_NAME_ZH: 李豫
 DISPLAY_ZH: 唐代宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S168-HIGH-DOWN-FRONT3Q-MS-EMPTYCAPITAL
+SHOT_CODE: S168-LOW-REAR3Q-MS-EMPTYCAPITAL
 COLOR_CODE: C168-EMPTYCAPITAL-ASH-SMOKE-SILVERGRAY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\164-tang-dai-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,14 +27,14 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Daizong, returned to the emptied capital after the Tibetan occupation, stands at the palace gate and watches the city being resettled, the first returning household not yet at the gate.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S168-HIGH-DOWN-FRONT3Q-MS-EMPTYCAPITAL
-- Elevation and pitch: high, looking down about twenty degrees from the gate tower onto the city.
-- Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face turned toward the city, readable.
-- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the empty city below.
+- Shot code: S168-LOW-REAR3Q-MS-EMPTYCAPITAL
+- Elevation and pitch: low, from the road before the gate, looking up about twelve degrees toward the emperor at the gate rail.
+- Subject azimuth and orientation: rear three-quarter view of the standing emperor at the rail; the face in profile toward the city, partly readable.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the empty city beyond.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a palace guard standing behind the emperor, watching the capital fill again after the flight.
+the viewer is the first returning householder on the road below, seeing the emperor already at the gate.
 
 EVENT MOTION THROUGH THE FRAME:
 the returning households and the smoke drift move toward the gate while the emperor watches.

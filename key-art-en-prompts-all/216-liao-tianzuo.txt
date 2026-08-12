@@ -4,8 +4,8 @@ ORDER: 216
 PERSONAL_NAME_ZH: 耶律延禧
 DISPLAY_ZH: 天祚帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S217-HIGH-DOWN-SIDE-MWS-NORTHBOUND
-COLOR_CODE: C217-NORTHBOUND-SNOW-DUST-G0
+SHOT_CODE: S217-HIGH-DOWN-SIDE-MWS-WESTBOUND
+COLOR_CODE: C217-WESTBOUND-SNOW-DUST-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\216-liao-tianzuo.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -24,10 +24,10 @@ SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
 an East Asian man in his forties, Liao emperor Tianzuo Yelv Yanxi type: haggard defeated face, dark beard, travel-worn dress; COSTUME: dark riding robe under a fur cloak, no cap, hair bound, the dress of the fleeing court; ACCESSORIES: one hand on the saddle, the other holding a small banner of the Liao.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Tianzuo, riding north with the last of the court, looks back at the steppe behind him and the pursuers' dust has not yet appeared on the horizon.
+Freeze the instant when Emperor Tianzuo, riding west with the last of the court, looks back along the mountain road and the pursuers' dust has not yet appeared on the horizon.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S217-HIGH-DOWN-SIDE-MWS-NORTHBOUND
+- Shot code: S217-HIGH-DOWN-SIDE-MWS-WESTBOUND
 - Elevation and pitch: high, from the ridge above the road, looking down about eighteen degrees onto the column.
 - Subject azimuth and orientation: right-side view of the mounted emperor; the face turned back, the profile readable.
 - Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
@@ -37,23 +37,23 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a Khitan officer riding beside his emperor, the man who watched the realm of his fathers narrow to a road.
 
 EVENT MOTION THROUGH THE FRAME:
-the northward column and the backward glance move in opposite directions along the road.
+the westward column and the backward glance move in opposite directions along the road.
 
 EXTREME FOREGROUND DESIGN:
 one horse's neck and the banner edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C217-NORTHBOUND-SNOW-DUST-G0
-- Dominant palette: north bound snow pale, dust gray, cloak brown, banner faded and cold light.
+- Color code: C217-WESTBOUND-SNOW-DUST-G0
+- Dominant palette: westbound snow pale, dust gray, cloak brown, faded banner and cold light.
 - Gold allocation: G0 no gold leaf; the banner is plain cloth.
-- Lighting logic: cold winter light, flat over the steppe road.
+- Lighting logic: cold winter light, flat over the mountain road.
 - Surface rhythm: snow dust ground, dry-brush horse mane and haze bands.
 
 HISTORICAL EVENT ENVIRONMENT:
-the northern steppe road: the riding emperor, the last column, snow, the banner of the Liao, cold sky.
+the western mountain road: the riding emperor, the last column, snow, the banner of the Liao, cold sky.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the steppe empire returning to the steppe: the Liao's last emperor riding toward the captivity that ended it.
+Use the emotional implication of an empire reduced to a westward road: the Liao's last emperor riding toward the captivity that ended it.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

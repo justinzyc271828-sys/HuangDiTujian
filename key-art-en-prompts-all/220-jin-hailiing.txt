@@ -4,7 +4,7 @@ ORDER: 220
 PERSONAL_NAME_ZH: 完颜亮
 DISPLAY_ZH: 海陵王
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S221-SADDLE-LOW-FRONT3Q-MWS-MARCHSOUTH
+SHOT_CODE: S221-EYE-RIGHT3Q-MS-MARCHSOUTH
 COLOR_CODE: C221-MARCHSOUTH-AMBER-IRON-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\220-jin-hailiing.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Hailing, mounted at the head of the southern march, raises his hand toward the Yangtze and the first column has not yet moved.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S221-SADDLE-LOW-FRONT3Q-MWS-MARCHSOUTH
-- Elevation and pitch: saddle level from beside the column, looking up about eight degrees toward the mounted emperor.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted emperor; the face raised toward the south, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
+- Shot code: S221-EYE-RIGHT3Q-MS-MARCHSOUTH
+- Elevation and pitch: eye level from beside the standard bearer, looking across at the mounted emperor.
+- Subject azimuth and orientation: right-side three-quarter view of the mounted emperor; the face turned toward the south, about half readable.
+- Shot scale and lens behavior: 50 mm medium shot; horse and rider occupy about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

@@ -4,7 +4,7 @@ ORDER: 102
 PERSONAL_NAME_ZH: 高演
 DISPLAY_ZH: 孝昭帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S114-EYE-SIDE-MS-BRIEFREIGN
+SHOT_CODE: S114-HIGH-DOWN-REAR3Q-MS-BRIEFREIGN
 COLOR_CODE: C114-BRIEFREIGN-GRAY-JADE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\102-n-qi-xiaozhao.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Xiaozhao, in the late-night study of his short reign, lifts the jade seal toward the night's last paper and the seal has not yet fallen.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S114-EYE-SIDE-MS-BRIEFREIGN
-- Elevation and pitch: eye level from the study door, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the paper, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the papers; he occupies about sixty-five percent of frame height.
+- Shot code: S114-HIGH-DOWN-REAR3Q-MS-BRIEFREIGN
+- Elevation and pitch: high, looking down about forty-five degrees from behind the emperor's shoulder.
+- Subject azimuth and orientation: rear three-quarter over-the-shoulder view of the seated emperor; the lifted seal and the night's last paper readable below.
+- Shot scale and lens behavior: 50 mm medium shot from the emperor's cap to the papers; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

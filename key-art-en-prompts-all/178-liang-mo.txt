@@ -4,8 +4,8 @@ ORDER: 178
 PERSONAL_NAME_ZH: 朱友贞
 DISPLAY_ZH: 后梁末帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S181-HIGH-DOWN-FRONT3Q-MS-LASTCOAST
-COLOR_CODE: C181-LASTCOAST-SEAGRAY-EMPERORBLUE-G0
+SHOT_CODE: S181-HIGH-DOWN-FRONT3Q-MS-RIVERCROSSING
+COLOR_CODE: C181-RIVERCROSSING-COLDGRAY-EMPERORBLUE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\178-liang-mo.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,13 +21,13 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-thirties, Later Liang emperor Mo Zhu Youzhen type: worn worried face, short beard, formal robe; COSTUME: dark blue Later Liang imperial robe with red trim, dark cap; ACCESSORIES: one hand resting on the coastal map, the other gripping the edge of the table.
+an East Asian man in his mid-thirties, Later Liang emperor Mo Zhu Youzhen type: worn worried face, short beard, formal robe; COSTUME: dark blue Later Liang imperial robe with red trim, dark cap; ACCESSORIES: one hand resting on the map of the river crossings, the other gripping the edge of the table.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Mo, at the coastal headquarters, leans over the map of the shrinking realm and the report of the crossing has not yet arrived.
+Freeze the instant when Emperor Mo, in the palace hall in Kaifeng, leans over the map of the shrinking realm and the report of the crossing has not yet arrived.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S181-HIGH-DOWN-FRONT3Q-MS-LASTCOAST
+- Shot code: S181-HIGH-DOWN-FRONT3Q-MS-RIVERCROSSING
 - Elevation and pitch: high, looking down about twenty degrees from the hall rear onto the map table.
 - Subject azimuth and orientation: front-left three-quarter view of the leaning emperor; the face turned down toward the map, readable.
 - Shot scale and lens behavior: 45 mm medium shot; the emperor occupies about fifty-five percent of frame height.
@@ -43,17 +43,17 @@ EXTREME FOREGROUND DESIGN:
 the map edge and one lamp.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C181-LASTCOAST-SEAGRAY-EMPERORBLUE-G0
-- Dominant palette: last coast sea gray, emperor blue robe, map pale, lamp warm and dim hall light.
+- Color code: C181-RIVERCROSSING-COLDGRAY-EMPERORBLUE-G0
+- Dominant palette: Kaifeng palace cold gray, river map pale, emperor blue robe, lamp warm and dim hall light.
 - Gold allocation: G0 no gold leaf; the lamp is bronze.
 - Lighting logic: dim hall light, one lamp over the map.
 - Surface rhythm: map fiber, dry-brush ink lines and long shadow.
 
 HISTORICAL EVENT ENVIRONMENT:
-the coastal headquarters: map table, lamp, the leaning emperor, the messenger at the door, dim light.
+the palace hall in Kaifeng: the map of the river crossings, lamp, the leaning emperor, the messenger at the door, dim light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a realm measured on its last map: the emperor tracing coasts that are already falling.
+Use the emotional implication of a realm measured on its last map: the emperor tracing the river line the Tang army has crossed.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

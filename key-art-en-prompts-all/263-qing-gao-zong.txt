@@ -4,8 +4,8 @@ ORDER: 263
 PERSONAL_NAME_ZH: 弘历
 DISPLAY_ZH: 清高宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S263-HIGH-DOWN-FRONT3Q-MWS-GRANDPALACE
-COLOR_CODE: C263-QIANLONG-CINNABAR-GOLDEN-G2
+SHOT_CODE: S263-CHEST-SIDE-MCU-SEALHANDOVER
+COLOR_CODE: C263-QIANLONG-SEALBOX-GOLDEN-G2
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\263-qing-gao-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early eighties, Qing emperor Gaozong Qianlong type: composed majestic face, long white-streaked beard, imperial grandeur; COSTUME: ornate dark Manchu imperial robe with dragon roundels and golden trim, court cap with red tassel; ACCESSORIES: one hand resting on the palace rail, the other holding a scroll of verse.
+an East Asian man in his mid-eighties, Qing emperor Gaozong Qianlong type: composed aged majestic face, long white beard, imperial grandeur; COSTUME: ornate dark Manchu imperial robe with dragon roundels and golden trim, court cap with red tassel; ACCESSORIES: both hands on the imperial seal box, the fingers not yet lifted.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Qianlong, at the gallery of the grand palace, raises the verse scroll toward the view of the realm and the first line has not yet been read aloud.
+Freeze the instant when Emperor Qianlong, at the abdication ceremony, passes the imperial seal box toward the kneeling heir and his fingers have not yet left the box.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S263-HIGH-DOWN-FRONT3Q-MWS-GRANDPALACE
-- Elevation and pitch: high, looking down about twenty degrees from the palace gallery onto the courtyards.
-- Subject azimuth and orientation: front-left three-quarter view of the standing emperor; the face turned toward the view, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the emperor occupies about fifty percent of frame height with the courtyards below.
+- Shot code: S263-CHEST-SIDE-MCU-SEALHANDOVER
+- Elevation and pitch: chest height from beside the ceremony table, looking levelly at the seated old emperor.
+- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the kneeling heir, about half readable.
+- Shot scale and lens behavior: 85 mm medium close-up from the emperor's cap to the hands on the seal box; he occupies about seventy percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a court attendant standing at the gallery edge, watching the emperor of the fullest age survey the realm at its summit.
+the viewer is a rites official kneeling at the seal table, the man who will carry the box to the new emperor once the old hand lifts.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised scroll and the courtyards' expanse face each other across the gallery.
+the offered seal box and the old fingers' refusal to lift hold the ceremony between two reigns.
 
 EXTREME FOREGROUND DESIGN:
-the rail and one banner edge.
+the seal box's gilt fittings and the old emperor's unmoving fingers.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C263-QIANLONG-CINNABAR-GOLDEN-G2
-- Dominant palette: Qianlong cinnabar, golden trim, scroll pale, courtyard gray and warm light.
-- Gold allocation: G2 restrained, no more than 2 percent, only the golden trim of the robe roundels and the cap tassel; no gold on the sky or courtyards.
-- Lighting logic: warm clear light over the palace, golden on the trim.
-- Surface rhythm: palace rail lacquer, dry-brush robe edges and courtyard haze.
+- Color code: C263-QIANLONG-SEALBOX-GOLDEN-G2
+- Dominant palette: Qianlong ceremony cinnabar, seal-box gilt, robe dark, jade pale and warm hall light.
+- Gold allocation: G2 restrained, no more than 2 percent, only the gilt fittings of the seal box and the rite vessels; no gold on the figures or the sky.
+- Lighting logic: warm ceremony light, steady on the seal box.
+- Surface rhythm: seal-box lacquer, dry-brush robe edges and ceremony cloth.
 
 HISTORICAL EVENT ENVIRONMENT:
-the grand palace gallery: the standing emperor, courtyards below, banners, warm light.
+the abdication hall: the seated old emperor, the seal box on the ceremony table, the kneeling heir below, ranked officials, rite vessels.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the dynasty at its fullest: the emperor of the ten complete campaigns surveying the realm from its highest gallery.
+Use the emotional implication of the retirement that was not a letting go: the seal box passed to Jiaqing while the retired emperor's fingers stay on the gilt fittings.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

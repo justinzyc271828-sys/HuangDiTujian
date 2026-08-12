@@ -4,8 +4,8 @@ ORDER: 105
 PERSONAL_NAME_ZH: 宇文觉
 DISPLAY_ZH: 孝闵帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S117-EYE-REAR3Q-MS-DAYSTHREE
-COLOR_CODE: C117-THREEDAYS-GRAY-CINNABAR-G0
+SHOT_CODE: S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED
+COLOR_CODE: C117-PLOTHALL-GRAY-CINNABAR-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\105-n-zhou-xiao-min.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -24,36 +24,36 @@ SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
 a thin East Asian youth of sixteen, Northern Zhou emperor Xiaomin Yuwen Jue type: pale young face, frightened dignity, small upright figure; COSTUME: dark Zhou imperial robe with red trim, dark cap; ACCESSORIES: both hands resting on the armrests of the new throne.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor, days into his reign, watches the regent's envoy enter the hall and the first command of the regency has not yet been given.
+Freeze the instant when the young Heavenly King, months into his reign, hears that the plot against the regent has leaked and the guards have not yet entered the hall, his hands still on the armrests.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S117-EYE-REAR3Q-MS-DAYSTHREE
-- Elevation and pitch: eye level from the hall floor, looking up slightly toward the throne.
-- Subject azimuth and orientation: rear three-quarter view of the seated youth; the face turned toward the envoy, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the youth occupies about sixty percent of frame height.
+- Shot code: S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED
+- Elevation and pitch: high, from the side gallery of the hall, looking down about twenty degrees toward the throne.
+- Subject azimuth and orientation: front-left three-quarter view of the seated youth; the face turned toward the hall doors, readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot; the youth occupies about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a palace eunuch standing at the throne side, the man who will carry the regency's orders.
+the viewer is the young confidant at the throne steps, the man whose whispered warning has just named the regent.
 
 EVENT MOTION THROUGH THE FRAME:
-the envoy's approach and the youth's stillness face each other along the hall axis.
+the confidant's low whisper and the youth's stillness face each other along the hall axis.
 
 EXTREME FOREGROUND DESIGN:
-one pillar base and the envoy's shoulder.
+one pillar base and the confidant's shoulder.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C117-THREEDAYS-GRAY-CINNABAR-G0
-- Dominant palette: three days gray, cinnabar trim, dark robe, envoy cloth and cold hall light.
+- Color code: C117-PLOTHALL-GRAY-CINNABAR-G0
+- Dominant palette: plot hall gray, cinnabar trim, dark robe, pale wood and cold hall light.
 - Gold allocation: G0 no gold leaf; everything is cloth and wood.
 - Lighting logic: cold even hall light over the new court.
 - Surface rhythm: hall stone, dry-brush robe edges and long shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Zhou audience hall in its first days: new throne, the young emperor, the regency envoy, cold light.
+the Zhou audience hall in the reign's first year: new throne, the young Heavenly King, the warning just spoken, the regent's guards not yet at the doors, cold light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a founding reign measured in days: the new throne, the first order already walking toward it.
+Use the emotional implication of a founding reign measured in months: the new throne, and the plot against the regent already walking toward the doors.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

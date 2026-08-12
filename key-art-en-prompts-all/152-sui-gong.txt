@@ -4,7 +4,7 @@ ORDER: 152
 PERSONAL_NAME_ZH: 杨侑
 DISPLAY_ZH: 隋恭帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S158-EYE-REAR3Q-MS-SUIPLACEMENT
+SHOT_CODE: S158-EYE-REAR3Q-MWS-SUIPLACEMENT
 COLOR_CODE: C158-SUILAST-GRAY-TANGCINNABAR-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\152-sui-gong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the boy emperor, at the transfer ceremony to the Tang, watches the general Li Yuan's envoy approach with the edict and the first word of the abdication has not yet been read.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S158-EYE-REAR3Q-MS-SUIPLACEMENT
+- Shot code: S158-EYE-REAR3Q-MWS-SUIPLACEMENT
 - Elevation and pitch: eye level from the envoy's position, looking up slightly toward the small throne.
 - Subject azimuth and orientation: rear three-quarter view of the seated boy; the face turned toward the envoy, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the boy occupies about fifty-five percent of frame height in the wide hall.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the boy occupies about forty-five percent of frame height in the wide hall.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:

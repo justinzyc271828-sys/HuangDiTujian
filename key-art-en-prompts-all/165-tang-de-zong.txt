@@ -4,8 +4,8 @@ ORDER: 165
 PERSONAL_NAME_ZH: 李适
 DISPLAY_ZH: 唐德宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S169-EYE-REAR3Q-MS-SELFBLAME
-COLOR_CODE: C169-SELFBLAME-RAIN-EDICT-ASH-G0
+SHOT_CODE: S169-EYE-REAR3Q-MS-FENGTIANBLAME
+COLOR_CODE: C169-FENGTIANBLAME-RAIN-EDICT-ASH-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\165-tang-de-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -24,11 +24,11 @@ SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
 an East Asian man in his early forties, Tang emperor Dezong Li Kuo type: gaunt solemn face, dark beard, bowed posture; COSTUME: dark Tang imperial robe with faded trim, black cap; ACCESSORIES: both hands holding an open edict of self-blame before him.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Dezong, on the return road to the capital after the flight, reads the edict of self-blame that will call the soldiers home and the first listening officer has not yet knelt.
+Freeze the instant when Emperor Dezong, at the temporary court of Fengtian after the flight, reads the edict of self-blame that will call the soldiers home and the first listening officer has not yet knelt.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S169-EYE-REAR3Q-MS-SELFBLAME
-- Elevation and pitch: eye level from beside the road, looking across at the standing emperor.
+- Shot code: S169-EYE-REAR3Q-MS-FENGTIANBLAME
+- Elevation and pitch: eye level from the yard of the temporary court, looking across at the standing emperor.
 - Subject azimuth and orientation: rear three-quarter view of the emperor with the edict; the face turned down toward the text, the profile readable.
 - Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
 - Camera roll: level horizon.
@@ -37,7 +37,7 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a soldier of the mutinous army, the man the edict is meant to reach.
 
 EVENT MOTION THROUGH THE FRAME:
-the open edict and the kneeling soldiers' movement meet along the road.
+the open edict and the kneeling soldiers' movement meet across the court yard.
 
 EXTREME FOREGROUND DESIGN:
 the edict edge and one soldier's spear.

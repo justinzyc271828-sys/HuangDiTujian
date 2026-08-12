@@ -4,7 +4,7 @@ ORDER: 244
 PERSONAL_NAME_ZH: 朱高炽
 DISPLAY_ZH: 明仁宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S244-KNEE-FRONT3Q-MC-AMNESTYEDICT
+SHOT_CODE: S244-KNEE-FRONT3Q-MWS-AMNESTYEDICT
 COLOR_CODE: C244-HONGXI-WARM-PAPER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\244-ming-ren-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when Emperor Renzong, at the audience, opens the edict that reduces the corvee and the first official's response has not yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S244-KNEE-FRONT3Q-MC-AMNESTYEDICT
+- Shot code: S244-KNEE-FRONT3Q-MWS-AMNESTYEDICT
 - Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face turned down toward the edict, about seventy percent readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the edict; he occupies about sixty-eight percent of frame height.
+- Subject azimuth and orientation: front-right three-quarter view; the face turned down toward the edict, about seventy percent readable.
+- Shot scale and lens behavior: 40 mm medium-wide shot from the foot of the dais; the officials' bowed backs fill the near third, the emperor about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
@@ -40,7 +40,7 @@ EVENT MOTION THROUGH THE FRAME:
 the open edict and the officials' bows hold the quiet of the merciful reign.
 
 EXTREME FOREGROUND DESIGN:
-the edict edge and one official's shoulder.
+the bowed backs of two officials and the edict's far edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C244-HONGXI-WARM-PAPER-G0

@@ -4,7 +4,7 @@ ORDER: 254
 PERSONAL_NAME_ZH: 朱翊钧
 DISPLAY_ZH: 明神宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S254-KNEE-SIDE-MS-MINISTERSMEET
+SHOT_CODE: S254-EYE-PROFILE-CLOSE-MINISTERSMEET
 COLOR_CODE: C254-WANLI-EDICT-SILVER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\254-ming-shen-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
@@ -27,10 +27,10 @@ SIGNATURE FREEZE MOMENT:
 Freeze the instant when the young emperor, at the audience with the chief minister, holds the edict of the tax reforms and the first implementation order has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S254-KNEE-SIDE-MS-MINISTERSMEET
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the minister, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the edict; he occupies about sixty-five percent of frame height.
+- Shot code: S254-EYE-PROFILE-CLOSE-MINISTERSMEET
+- Elevation and pitch: eye level from the table's end, looking levelly at the young emperor.
+- Subject azimuth and orientation: full right profile of the young emperor; the face turned toward the edict and the bowed minister beyond, the profile readable.
+- Shot scale and lens behavior: 100 mm close shot from the emperor's crown to the hand holding the edict; he occupies about seventy percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
