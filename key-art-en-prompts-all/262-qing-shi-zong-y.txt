@@ -4,8 +4,8 @@ ORDER: 262
 PERSONAL_NAME_ZH: 胤禛
 DISPLAY_ZH: 清世宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S262-KNEE-SIDE-MC-NIGHTMEMORIALS
-COLOR_CODE: C262-YONGZHENG-NIGHT-CANDLE-G0
+SHOT_CODE: S262-LOW-FRONT3Q-FULL-COUNCILROOM
+COLOR_CODE: C262-DUTYROOM-PLASTER-GREY-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\262-qing-shi-zong-y.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-forties, Qing emperor Shizong Yongzheng type: thin stern face, dark beard, sleepless intense posture; COSTUME: dark Manchu imperial robe with dragon roundels, no cap, hair bound, the dress of the working nights; ACCESSORIES: one hand holding a brush above a memorial, the other steadying the paper.
+an East Asian man in his early fifties, Qing emperor Shizong Yongzheng type: thin stern face, dark beard, taut sleepless intensity even in daylight; COSTUME: plain dark Manchu imperial robe with dragon roundels, no ceremonial cap, hair bound, the working dress of the duty room; ACCESSORIES: one hand extending a folded vermilion-edged paper slip downward, the other hand just lifted from the stack of drafted decrees.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Yongzheng, at the night desk of the long sessions, holds the brush above the memorial and the reply has not yet been written.
+Freeze the instant when Emperor Yongzheng, standing in the low duty room of the newly established Grand Council, extends the vermilion-edged edict slip down toward the kneeling grand councillor and the councillor's raised hands have not yet received it.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S262-KNEE-SIDE-MC-NIGHTMEMORIALS
-- Elevation and pitch: knee height from the desk side, looking across at the seated emperor.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the memorial, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's brow to the desk; he occupies about sixty-five percent of frame height.
+- Shot code: S262-LOW-FRONT3Q-FULL-COUNCILROOM
+- Elevation and pitch: low height from beside the kneeling councillors, pitched up at the standing emperor beneath the low ceiling beams.
+- Subject azimuth and orientation: front three-quarter view of the standing emperor; the face turned down toward the kneeling councillor, about three-quarter readable.
+- Shot scale and lens behavior: 35 mm full shot from the crown of his bound hair to his boots; he occupies about seventy percent of frame height, looming over the narrow room that presses in around him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a eunuch standing at the night door, watching the emperor who governed by out-writing his own officials.
+the viewer is the second grand councillor kneeling in the same row, next in line to receive orders.
 
 EVENT MOTION THROUGH THE FRAME:
-the poised brush and the candle flame share the stillness of the working night.
+the descending edict slip and the kneeling councillor's rising hands reach toward each other across the narrow room and have not yet met.
 
 EXTREME FOREGROUND DESIGN:
-the memorial stack and one candle.
+the dark capped crown and shoulders of the kneeling grand councillor, cropped at the near frame edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C262-YONGZHENG-NIGHT-CANDLE-G0
-- Dominant palette: Yongzheng night, candle amber, memorial pale, dark robe and deep night shadow.
-- Gold allocation: G0 no gold leaf; the candle stand is bronze.
-- Lighting logic: one candle on the desk, the study in deep shadow.
-- Surface rhythm: memorial fiber, dry-brush ink strokes and long candle shadow.
+- Color code: C262-DUTYROOM-PLASTER-GREY-G0
+- Dominant palette: duty-room plaster grey, washed daylight pale, raw wood brown, ink-dark robe and one vermilion slip accent.
+- Gold allocation: G0 no gold leaf; the only imperial mark is the vermilion-edged paper slip, not gold.
+- Lighting logic: flat daylight through one small window, the low room evenly lit and unadorned.
+- Surface rhythm: cracked plaster, dry-brush wood grain and the smooth paper slip.
 
 HISTORICAL EVENT ENVIRONMENT:
-the night study of the working emperor: desk, memorial stacks, candle, the seated emperor, dim windows.
+the Grand Council duty room newly set up inside the palace in Beijing in the seventh year of Yongzheng: a low-ceilinged narrow side room, plain desks and stacked drafted decrees, the standing emperor, two kneeling grand councillors, one small day-lit window.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the strictest reign conducted in ink: the emperor at the night desk, ruling the realm one comment at a time.
+Use the emotional implication of an emperor who moved the pivot of the empire into a room plainer than a county clerk's office: majesty compressed under a low ceiling, ruling the realm standing up, one vermilion slip at a time.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

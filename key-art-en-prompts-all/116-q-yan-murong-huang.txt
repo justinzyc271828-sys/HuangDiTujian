@@ -4,8 +4,8 @@ ORDER: 116
 PERSONAL_NAME_ZH: 慕容皝
 DISPLAY_ZH: 前燕文明帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S127-SADDLE-HIGH-FRONT3Q-MWS-KINGMAKE
-COLOR_CODE: C127-LIAODONG-LEATHER-XIANBEIBLUE-G0
+SHOT_CODE: S127-KNEE-REAR3Q-FULL-CITYRISE
+COLOR_CODE: C127-CITYRISE-FROST-DAWNROSE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\116-q-yan-murong-huang.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his forties, Former Yan king Murong Huang type: lean strong face, long braided Xianbei hair, fierce calm eyes; COSTUME: dark Xianbei leather and lamellar armor coat with fur collar, leather trousers and boots, the northern dress of the Murong house; ACCESSORIES: one hand on the horse's neck, the other holding a coiled leather whip.
+an East Asian man in his mid-forties, Former Yan king Murong Huang type: lean strong face, long braided Xianbei hair, fierce calm eyes; COSTUME: dark Xianbei leather and lamellar armor coat with fur collar rimmed with hoarfrost, leather trousers and boots, the northern dress of the Murong house; ACCESSORIES: one hand raised to sight along the unbuilt wall line, the other resting on the pommel of his sword.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Murong Huang, mounted before the assembly of the Liaodong steppe, receives the title of King of Yan and the ritual banner has not yet been raised over the camp.
+Freeze the instant when Murong Huang, standing on the fresh rammed-earth crest of the rising wall of Longcheng, sights the line of the next wall section with one raised hand, and the builders' plumb line below has not yet dropped.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S127-SADDLE-HIGH-FRONT3Q-MWS-KINGMAKE
-- Elevation and pitch: saddle height from beside the horse, looking slightly upward at the mounted king.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted figure; the face turned toward the assembly, readable.
-- Shot scale and lens behavior: 35 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height with the camp behind.
+- Shot code: S127-KNEE-REAR3Q-FULL-CITYRISE
+- Elevation and pitch: knee height on the unfinished wall walkway, looking slightly upward along the crest at the standing king.
+- Subject azimuth and orientation: rear-right three-quarter view of the standing king; the head turned back over his shoulder toward the crews, the face partially readable.
+- Shot scale and lens behavior: 28 mm full shot; the king occupies about sixty-two percent of frame height against the dawn sky, the wall line and crews receding below.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Xianbei warrior of the oath assembly, close enough to see the leather of the king's coat.
+the viewer is a rammed-earth builder on the wall top, straightening from a half-emptied basket as the king turns toward the crews.
 
 EVENT MOTION THROUGH THE FRAME:
-the ritual banner's rise and the warriors' fist salutes move upward and inward around the mounted king.
+the receding wall line, the rope guides and the carrying poles lead inward and upward toward the king, while frost mist drifts across the plain beyond.
 
 EXTREME FOREGROUND DESIGN:
-two warrior shoulders and the horse's mane edge.
+the frost-rimmed wicker edge of an earth basket and one builder's shoulder, with a hanging plumb line.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C127-LIAODONG-LEATHER-XIANBEIBLUE-G0
-- Dominant palette: Liaodong steppe green-gray, leather brown, Xianbei blue cloth, fur white, iron black and overcast light.
+- Color code: C127-CITYRISE-FROST-DAWNROSE-G0
+- Dominant palette: winter frost white, pale dawn rose, rammed-earth tan, charcoal timber, iron black and cold morning air.
 - Gold allocation: G0 no gold leaf; fittings are iron and bone.
-- Lighting logic: overcast northern daylight, even and cool.
-- Surface rhythm: coarse steppe grass, dry-brush mane strokes and leather seam textures.
+- Lighting logic: low cold dawn light from the plain side, frost catching the wall crest, the figures half in shadow.
+- Surface rhythm: layered rammed-earth strata, dry-brush frost strokes and coarse timber grain.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Liaodong camp assembly: mounted king, ringed warriors, ritual banner, felt tents, northern sky.
+the rising wall of the new capital Longcheng: fresh rammed-earth courses between timber frame molds, rope guides, builder crews with baskets and poles, the cold dawn plain and distant winter hills.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a northern house becoming a kingdom: the banner rising over the grass, the Murong name announced to the steppe.
+Use the emotional implication of a steppe house fixing its name in earth: the king on the unfinished crest, the Murong capital rising course by course out of the frost.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,8 +4,8 @@ ORDER: 237
 PERSONAL_NAME_ZH: 图帖睦尔
 DISPLAY_ZH: 元文宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S237-WAIST-FRONT3Q-MWS-PAVILIONLIBRARY
-COLOR_CODE: C237-PAVILIONLIBRARY-GREEN-SCROLL-G0
+SHOT_CODE: S237-KNEE-SIDE-MC-GRANDCANON
+COLOR_CODE: C237-GRANDCANON-INDIGO-PAPER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\237-yuan-wen-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-twenties, Yuan emperor Wenzong Tugh Temur type: refined cultured face, neat beard, scholarly posture; COSTUME: dark Mongol court robe with Han-style trim, dark cap; ACCESSORIES: one hand holding an open scroll from the new library, the other resting on the desk.
+an East Asian man in his mid-twenties, Yuan emperor Wenzong Tugh Temur type: refined cultured face, neat beard, upright scholarly bearing; COSTUME: dark indigo Mongol court robe with Han-style trim, dark cap; ACCESSORIES: both arms extended forward at chest height to receive a stacked wooden book case, sleeves falling with the reach, no scroll in hand.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Wenzong, at the Kuizhang library pavilion, reads the opening of the assembled text and the first scholar's acknowledgment has not yet been spoken.
+Freeze the instant when Emperor Wenzong, standing in the Kuizhang pavilion hall, reaches to receive the first book cases of the newly compiled Grand Canon of the Age as two academicians carry them in; the cases have not yet settled into his hands.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S237-WAIST-FRONT3Q-MWS-PAVILIONLIBRARY
-- Elevation and pitch: waist height from the front of the desk, looking across at the seated emperor.
-- Subject azimuth and orientation: front-left three-quarter view; the face lifted from the scroll toward the scholars, seventy percent readable.
-- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about fifty percent of frame height, the scholars cropped at the frame edge.
+- Shot code: S237-KNEE-SIDE-MC-GRANDCANON
+- Elevation and pitch: knee height at the side of the hall, looking slightly up at the standing emperor.
+- Subject azimuth and orientation: pure side view; the standing emperor in profile facing the incoming carriers, his face turned toward the book cases, profile fully readable.
+- Shot scale and lens behavior: 50 mm medium close shot; the standing emperor occupies about sixty percent of frame height, the two carrying academicians entering cropped at the frame edge.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a scholar standing at the pavilion side, watching the emperor who built a library instead of a faction.
+the viewer is a third academician at knee level beside the carry pole, steadying the next case, watching the emperor who receives books standing as other men receive thrones.
 
 EVENT MOTION THROUGH THE FRAME:
-the reading gaze and the scroll edge hold the quiet of the library.
+the carry pole still flexing under the stacked cases drives a diagonal toward the emperor's reaching hands; his forward lean answers it, the transfer unfinished.
 
 EXTREME FOREGROUND DESIGN:
-the scroll edge and one book stack.
+the cropped end of the carry pole and the nearest book case corner, large and soft, partially occluding the lower frame.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C237-PAVILIONLIBRARY-GREEN-SCROLL-G0
-- Dominant palette: pavilion library green, scroll pale, dark robe, book wood and soft light.
+- Color code: C237-GRANDCANON-INDIGO-PAPER-G0
+- Dominant palette: grand canon indigo, paper pale, case wood brown, hall floor stone gray-blue and one shaft of window light.
 - Gold allocation: G0 no gold leaf; everything is cloth, wood and paper.
-- Lighting logic: soft even light over the library pavilion.
-- Surface rhythm: scroll fiber, dry-brush text edges and book stack grain.
+- Lighting logic: one cool shaft of window light raking across the cases and the emperor's profile.
+- Surface rhythm: wood grain on the cases, paper edges, dry-brush robe folds and plaster cracks.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Kuizhang pavilion: the seated emperor, the scroll, book stacks, scholars, soft light.
+the Kuizhang pavilion hall in Dadu: stacked book cases waiting along the wall, two academicians mid-step with the carry pole, scroll boxes and plain wood shelves, no ornament.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the usurper-emperor's library: the throne taken by arms, the reign spent among books.
+Use the emotional implication of the usurper-emperor's library: the throne taken by arms, the reign spent among books, and now the man standing to receive the compiled age with his own hands.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

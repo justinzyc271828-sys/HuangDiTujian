@@ -4,8 +4,8 @@ ORDER: 153
 PERSONAL_NAME_ZH: 李渊
 DISPLAY_ZH: 唐高祖
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S159-LOW-FRONT3Q-MS-TAIPYUANFLAG
-COLOR_CODE: C159-TAIPYUAN-DAWN-IRON-CINNABAR-G0
+SHOT_CODE: S159-SADDLE-PROFILE-FULL-TAIYUANMUSTER
+COLOR_CODE: C159-TAIYUANMUSTER-MISTWHITE-IRON-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\153-tang-gao-zu.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early fifties, Tang founder Li Yuan type: strong weathered face, long gray-streaked beard, sturdy build; COSTUME: dark Tang military robe over lamellar armor, black lacquered helmet, leather belt, the dress of the northern commander; ACCESSORIES: one hand holding a raised command staff, the other on his sword hilt.
+an East Asian man in his early fifties, Tang founder Li Yuan type: strong weathered face, long gray-streaked beard, sturdy build; COSTUME: dark Tang military robe over lamellar armor, black lacquered helmet, plain dark riding cloak, leather belt, the dress of the northern garrison commander; ACCESSORIES: a drawn straight sword held low and level, pointing west, the other hand gathering the reins of his horse.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Li Yuan, at the head of the army leaving Taiyuan, raises the command staff toward the city gate and the first unit has not yet crossed the threshold.
+Freeze the instant when Li Yuan, at the first-light muster of the Taiyuan uprising, extends his drawn sword toward the west and the ranked army's answering roar has not yet risen.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S159-LOW-FRONT3Q-MS-TAIPYUANFLAG
-- Elevation and pitch: low, from among the forward soldiers, looking up about twelve degrees.
-- Subject azimuth and orientation: front-left three-quarter view of the mounted or standing commander; the face raised toward the gate, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; Li Yuan occupies about sixty percent of frame height with the column behind.
+- Shot code: S159-SADDLE-PROFILE-FULL-TAIYUANMUSTER
+- Elevation and pitch: saddle height, level with the mounted commander, no upward or downward tilt.
+- Subject azimuth and orientation: full profile view of Li Yuan on horseback, facing frame left toward the west; the bearded profile readable against the pale sky.
+- Shot scale and lens behavior: 40 mm full shot; the mounted commander occupies about sixty percent of frame height, the ranked army spreading behind and below him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a soldier of the first column, the man who will march from Taiyuan to Chang'an.
+the viewer is a mounted officer of the first rank beside Li Yuan, one of the men who swore at Taiyuan and will ride west to Chang'an; he has just heard the oath and his own sword is not yet drawn.
 
 EVENT MOTION THROUGH THE FRAME:
-the raised staff and the column's movement travel together toward the gate.
+the level sword, the horse's gathered stride and the leaning forest of spear points travel together toward the western horizon; the army's rising roar hangs suspended in the mist.
 
 EXTREME FOREGROUND DESIGN:
-two spear shafts and one banner edge.
+the cropped mane and ear of the viewer's own horse and one spear butt at the lower frame edge.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C159-TAIPYUAN-DAWN-IRON-CINNABAR-G0
-- Dominant palette: Taiyuan dawn gray, iron black, cinnabar red banner, leather brown and pale morning light.
+- Color code: C159-TAIYUANMUSTER-MISTWHITE-IRON-G0
+- Dominant palette: pre-dawn mist white and pale cold light, iron black armor and horse, dark leather, muted trampled earth, no red anywhere.
 - Gold allocation: G0 no gold leaf; fittings are iron and leather.
-- Lighting logic: pale dawn light, cold and clear over the gate.
-- Surface rhythm: gate stone, dry-brush banner edges and iron plate grain.
+- Lighting logic: cold first light rising behind the ranked army, faces and horse flanks catching the pale edge, breath fog hanging low over the ground.
+- Surface rhythm: frost-dusted packed earth, dry-brush horsehair and lamellar edges, drum hide and spear-wood grain dissolved in mist washes.
 
 HISTORICAL EVENT ENVIRONMENT:
-the gate of Taiyuan at dawn: the commander with the staff, the marching column, banners, city walls, pale sky.
+the open muster ground outside Taiyuan at first light, 617: ranked infantry with leveled spears, war drums at the flank, horse holders, low ground mist and a pale brightening sky; his son Li Shimin rides one rank behind among the officers, rendered as a low-detail background rider; no city wall and no gate in frame.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the Tang beginning as a garrison march: the staff raised at the gate that would open the greatest dynasty.
+Use the emotional implication of the uprising that founded the Tang: a garrison commander becoming a founder, the held breath between the spoken oath and the army's roar, the first stride of the westward march that ends at Chang'an.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

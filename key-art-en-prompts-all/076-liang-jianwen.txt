@@ -4,8 +4,8 @@ ORDER: 76
 PERSONAL_NAME_ZH: 萧纲
 DISPLAY_ZH: 梁简文帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S090-KNEE-SIDE-MC-LAMPWRITING
-COLOR_CODE: C090-POETNIGHT-PALE-SCROLL-AMBER-G0
+SHOT_CODE: S090-WAIST-PROFILE-MWS-WALLSCRIPT
+COLOR_CODE: C090-CELLBLUE-PLASTER-CHARCOAL-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\076-liang-jianwen.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a refined East Asian man in his forties, Liang emperor Jianwen Xiao Gang type: elegant scholarly face, neat beard, graceful posture; COSTUME: dark scholar-ruler's robe with white collar, plain cap, the dress of the palace-poetry school; ACCESSORIES: one hand holding a brush above a scroll of verse, the other steadying the paper.
+a refined East Asian man in his late forties, Liang emperor Jianwen Xiao Gang type: elegant scholarly face, neat beard now loosened by confinement, posture still graceful under house arrest; COSTUME: the plain dark robe of the demoted Prince of Jin'an with white collar and simple cap, no imperial insignia, the dress of the palace-poetry school stripped of rank; ACCESSORIES: one hand holding a short stick of charcoal raised toward the bare wall, the other hand pressed flat against the cold plaster to steady himself.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Jianwen, writing poetry by the lamp while the captive city waits outside, lifts the brush for the last line and the poem has not yet been finished.
+Freeze the instant when the deposed Emperor Jianwen, sealed inside the Yongfu Quarter after Hou Jing has withdrawn his guards, raises the charcoal to the blank cell wall to begin his own final account of himself, and the first stroke has not yet been drawn; the few trial marks already on the plaster remain unreadable black strokes, never legible characters.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S090-KNEE-SIDE-MC-LAMPWRITING
-- Elevation and pitch: knee height from the side of the desk, looking across at the seated figure.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned down toward the scroll, about half readable.
-- Shot scale and lens behavior: 70 mm medium-close shot from the emperor's cap to the desk; he occupies about sixty-five percent of frame height.
+- Shot code: S090-WAIST-PROFILE-MWS-WALLSCRIPT
+- Elevation and pitch: waist height, level, from the empty guard post at the doorway, looking across the bare cell.
+- Subject azimuth and orientation: full profile view; the emperor faces the wall with the charcoal hand raised, his face in profile and half lit by the cold window light.
+- Shot scale and lens behavior: 50 mm medium-wide shot from the simple cap to below the knees, the whole cell corner included; he occupies about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the poet's attendant kneeling at the desk side, watching a reign end between two lines of verse.
+the viewer stands at the unguarded doorway where the withdrawn watch post stood, the last witness before the door closes on the cell.
 
 EVENT MOTION THROUGH THE FRAME:
-the poised brush and the lamp smoke rise together in a quiet circle.
+the raised charcoal hand and the long cold shaft of window light converge on the blank plaster, while the absence of the guards pulls outward through the open door.
 
 EXTREME FOREGROUND DESIGN:
-the scroll edge, the brush and the lamp.
+the dark door frame edge and the empty guard threshold in the near corner.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C090-POETNIGHT-PALE-SCROLL-AMBER-G0
-- Dominant palette: poet night pale, scroll ivory, amber lamp, dark robe and deep evening shadow.
-- Gold allocation: G0 no gold leaf; the lamp is bronze.
-- Lighting logic: one lamp on the desk, warm on the scroll, the room dark beyond.
-- Surface rhythm: scroll fiber, dry-brush ink strokes and soft lamp shadows.
+- Color code: C090-CELLBLUE-PLASTER-CHARCOAL-G0
+- Dominant palette: cold cell blue-green shadow, bone-white plaster, charcoal black strokes, the dark robe and pale cold daylight.
+- Gold allocation: G0 no gold leaf; nothing brighter than a dull iron door ring.
+- Lighting logic: one cold shaft of daylight from a small high window, no lamp, no candle, no fire; the wall half lit, the cell corners in deep shadow.
+- Surface rhythm: rough plaster grain, charcoal dust, dry-brush wall marks and hard cold light edges.
 
 HISTORICAL EVENT ENVIRONMENT:
-the private study in the captive city: desk, scrolls, lamp, the seated poet-emperor, dark windows.
+the Yongfu Quarter confinement room in Jiankang, 551: bare plaster walls, no desk, no lamp, no attendants; Hou Jing's riders keep watch only from beyond the outer wall.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of beauty at the edge of ruin: the last line of the poem, the last line of the reign.
+Use the emotional implication of the palace poet left with no paper: the cell wall itself becomes his last page, begun before the usurper's men return.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

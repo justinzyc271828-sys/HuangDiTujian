@@ -4,8 +4,8 @@ ORDER: 194
 PERSONAL_NAME_ZH: 赵曙
 DISPLAY_ZH: 宋英宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S195-EYE-SIDE-MS-ANCESTORQUEST
-COLOR_CODE: C195-ANCESTORQUEST-PALE-SACRIFICE-G0
+SHOT_CODE: S195-HIGH-FRONT-FULL-PUYIDEBATE
+COLOR_CODE: C195-PUYIDEBATE-INKGRAY-CINNABAR-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\194-n-song-ying.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his mid-thirties, Song emperor Yingzong Zhao Shu type: grave thoughtful face, short beard, formal posture; COSTUME: dark red Song imperial robe, black cap; ACCESSORIES: one hand holding a memorial on the ancestral title question, the other resting on the armrest.
+an East Asian man in his mid-thirties, Song emperor Yingzong Zhao Shu type: grave thoughtful face, short beard, strained upright bearing; COSTUME: dark red Song imperial robe, black cap; ACCESSORIES: one hand holding a folded unissued draft edict against his chest, the other hand half-raised between two rows of officials in an unfinished calming gesture.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Yingzong, at the audience on the ritual question of his father's title, holds the memorial and the scholars' first argument has not yet been concluded.
+Freeze the instant when Emperor Yingzong, standing in the central aisle of the audience hall between the senior councilors urging him to honor his birth father and the remonstrance officials opposing it, holds the handwritten edict that has not yet been issued.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S195-EYE-SIDE-MS-ANCESTORQUEST
-- Elevation and pitch: eye level from the hall floor, looking up slightly toward the throne.
-- Subject azimuth and orientation: right-side three-quarter view; the face turned toward the scholars, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S195-HIGH-FRONT-FULL-PUYIDEBATE
+- Elevation and pitch: high from above the hall entrance, looking down the length of the central aisle toward the standing emperor.
+- Subject azimuth and orientation: near-frontal view down the aisle; the emperor's face turned a quarter toward the remonstrance side, about sixty percent readable.
+- Shot scale and lens behavior: 35 mm full shot; the standing emperor full-length in the aisle, placed just off the central axis, occupying about sixty percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a young scholar standing at the hall edge, watching the court split over a father's title.
+the viewer is a junior remonstrance official in the front rank, close enough that the emperor's half-raised hand seems to ask this very row for silence.
 
 EVENT MOTION THROUGH THE FRAME:
-the held memorial and the scholars' bowing gestures face each other in the long argument.
+the two rows of leaning, gesturing officials press toward the aisle from both sides while the emperor's raised hand and unissued edict hold their motion suspended.
 
 EXTREME FOREGROUND DESIGN:
-the memorial edge and one scholar's sleeve.
+the cropped sleeves and raised tablets of the two nearest opposing officials, one from each side of the aisle.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C195-ANCESTORQUEST-PALE-SACRIFICE-G0
-- Dominant palette: ancestor quest pale, sacrifice cloth, dark robe, memorial white and cold hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and paper.
-- Lighting logic: cold even hall light over the long session.
-- Surface rhythm: hall stone, dry-brush memorial edges and scholar robes.
+- Color code: C195-PUYIDEBATE-INKGRAY-CINNABAR-G0
+- Dominant palette: debate hall ink gray, edict paper white, dark red robe, muted cinnabar seal paste and overcast daylight.
+- Gold allocation: G0 no gold leaf; everything is cloth, paper and hall stone.
+- Lighting logic: flat overcast light through high hall windows, colder on the remonstrance side.
+- Surface rhythm: hall flagstones, dry-brush paper edges and ranked robe folds.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Song audience hall in the ritual debate: seated emperor, scholars, memorials, cold light.
+the Song audience hall at Kaifeng during the Pu-rite debate of the Zhiping era: the emperor standing in the central aisle between two facing rows of officials, the unissued handwritten edict in his hand, overcast light.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign spent proving its own legitimacy: the adopted emperor fighting a war of titles with his own court.
+Use the emotional implication of an adopted emperor's legitimacy war: the ruler who stepped down into the aisle, standing physically between the two halves of his own court.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -5,7 +5,7 @@
 | # | id | display | 场景 | E卡 | Shot | Color | 金 | R1/R2/R3 |
 |---:|---|---|---|---|---|---|---|---|
 | 002 | `qin-er-shi` | 秦二世 | Freeze the scene at the instant the court eunuch Zha | E001 | `S021-EYE-SIDE-MS-DUTCH` | `C021-VERDIGRIS-ASH-CINNABAR-BRONZE-G0` | G0 | 1/0/0 |
-| 003 | `qin-zi-ying` | 秦王子婴 | Freeze the scene at the instant the chamberlain Zhao | E001 | `S022-CHEST-REAR3Q-MS-STATIC` | `C022-LAMPBLACK-WHITE-FIBRE-RUST-G0` | G0 | 0/0/0 |
+| 003 | `qin-zi-ying` | 秦王子婴 | Freeze the instant on the Zhidao post road when the  | E003 | `S022-KNEE-FRONT-FULL-SEALOFFER` | `C022-SNOW-LEADSLATE-CHARCOAL-INDIGO-G0` | G0 | 0/0/0 |
 | 004 | `han-gao-zu` | 汉高祖 | Freeze the instant at Bashang camp when Liu Bang rai | E001 | `S023-WAIST-FRONT3Q-MWS-FORWARD` | `C023-EARTH-CINNABAR-LINEN-BRONZE-G0` | G0 | 1/0/0 |
 | 005 | `han-hui-di` | 汉惠帝 | Freeze the instant when the young Emperor Hui has ri | E001 | `S024-LOW-SIDE-MCU-POISONEDCUP` | `C024-POISONEDCUP-LACQUERBLACK-AMBER-G0` | G0 | 1/0/0 |
 | 006 | `han-qian-shao` | 前少帝 | Freeze the instant when the boy emperor, led by a pa | E001 | `S025-HIGH-DOWN-FRONT-FULL-AXIAL` | `C025-CORRIDORBLUE-PURPLE-TORCH-G0` | G0 | 0/0/0 |
@@ -23,7 +23,7 @@
 | 022 | `e-han-zhang` | 汉章帝 | Freeze the instant when Emperor Zhang, seated at the | E001 | `S037-HIGH-DOWN-FRONT3Q-MWS-SCHOLARS` | `C037-HALLBAMBOO-SCHOLARGRAY-RED-G0` | G0 | 0/0/0 |
 | 023 | `e-han-he` | 汉和帝 | Freeze the instant when the thirteen-year-old empero | E001 | `S038-EYE-LEFT3Q-MCU-CANDLE` | `C038-NIGHTCANDLE-PLAINWHITE-BLUE-G0` | G0 | 0/0/0 |
 | 024 | `e-han-shang` | 汉殇帝 | Freeze the instant when the empress dowager, seated | E001 | `S039-KNEE-FRONT-MCU-SCREEN` | `C039-SCREENSILK-WARMWHITE-CINNABAR-G0` | G0 | 0/0/0 |
-| 025 | `e-han-an` | 汉安帝 | Freeze the instant when Emperor An, after the death  | E001 | `S040-EYE-REAR3Q-MS-SOLITUDE` | `C040-PALACEHALF-EDICTS-PURPLE-G0` | G0 | 0/0/0 |
+| 025 | `e-han-an` | 汉安帝 | Freeze the instant when, at the dusk halt on the roa | E011 | `S040-SADDLE-PROFILE-MWS-SEALEDRETURN` | `C040-DUSKTEAL-CYPRESS-EMBER-G0` | G0 | 0/0/0 |
 | 026 | `e-han-shao-bei` | 北乡侯 | Freeze the instant when the dying boy emperor lies o | E001 | `S041-LOW-FRONT3Q-MS-SICKROOM` | `C041-SICKROOMGRAY-PHARMACY-WINDOW-G0` | G0 | 0/0/0 |
 | 027 | `e-han-shun` | 汉顺帝 | Freeze the instant when the deposed prince Liu Bao,  | E001 | `S042-HIGH-SIDE-MWS-TORCHES` | `C042-NIGHTINDIGO-TORCHRED-WALLRED-G0` | G0 | 0/0/0 |
 | 028 | `e-han-chong` | 汉冲帝 | Freeze the instant when the infant emperor is held u | E001 | `S043-KNEE-REAR3Q-MS-INVESTITURE` | `C043-INVESTITUREBLACK-CINNABAR-CEREMONY-G0` | G0 | 0/0/0 |
@@ -73,10 +73,10 @@
 | 072 | `qi-ming` | 齐明帝 | Freeze the instant when Emperor Ming, alone at night | E001 | `S087-LOW-REAR3Q-MS-NIGHTLIST` | `C087-NIGHTLIST-BLACK-EDICT-G0` | G0 | 1/0/0 |
 | 073 | `qi-donghun` | 东昏侯 | Freeze the instant when the young emperor, walking a | E001 | `S088-HIGH-DOWN-FRONT-MWS-LOTUSPATH` | `C088-LOTUSPATH-GOLDEN-GREEN-CRIMSON-G0` | G0 | 1/0/0 |
 | 074 | `qi-he` | 齐和帝 | Freeze the instant when the boy emperor, in the prov | E001 | `S089-EYE-SIDE-MS-JIANGERNGSEAT` | `C089-JIANGERNG-HALL-PALE-GRAY-G0` | G0 | 0/0/0 |
-| 076 | `liang-jianwen` | 梁简文帝 | Freeze the instant when Emperor Jianwen, writing poe | E001 | `S090-KNEE-SIDE-MC-LAMPWRITING` | `C090-POETNIGHT-PALE-SCROLL-AMBER-G0` | G0 | 0/0/0 |
+| 076 | `liang-jianwen` | 梁简文帝 | Freeze the instant when the deposed Emperor Jianwen, | E004 | `S090-WAIST-PROFILE-MWS-WALLSCRIPT` | `C090-CELLBLUE-PLASTER-CHARCOAL-G0` | G0 | 0/0/0 |
 | 077 | `liang-yu` | 豫章王栋 | Freeze the instant when the boy emperor, placed on t | E001 | `S091-HIGH-DOWN-FRONT3Q-MS-PUPPETCROWN` | `C091-PUPPETHALL-BLACK-PALEGOLD-G0` | G0 | 0/0/0 |
 | 078 | `liang-yuan` | 梁元帝 | Freeze the instant when Emperor Yuan, before the fal | E001 | `S092-EYE-REAR3Q-MS-FIREOFBOOKS` | `C092-FIREBOOKS-SOOT-IVORY-FLAMEORANGE-G0` | G0 | 1/0/0 |
-| 079 | `liang-jing` | 梁敬帝 | Freeze the instant when the boy emperor, at the last | E001 | `S093-LOW-SIDE-MWS-LASTAUDIENCE` | `C093-LASTAUDIENCE-GRAY-SEALRED-G0` | G0 | 0/0/0 |
+| 079 | `liang-jing` | 梁敬帝 | Freeze the instant when the boy emperor, standing at | E004 | `S093-WAIST-PROFILE-MWS-ALTARWIND` | `C093-ALTARWIND-PALEBLUE-BONEWHITE-G0` | G0 | 0/0/0 |
 | 080 | `chen-wu` | 陈武帝 | Freeze the instant when Chen Baxian, entering the ha | E001 | `S094-EYE-FRONT3Q-MS-WARHALLENTRY` | `C094-WARENTRY-LEATHER-CINNABAR-G0` | G0 | 0/0/0 |
 | 081 | `chen-wen` | 陈文帝 | Freeze the instant when Emperor Wen, in the plain ha | E001 | `S095-KNEE-SIDE-MC-HARVESTLEDGER` | `C095-TIANJIA-CALM-GREEN-LEDGER-G0` | G0 | 0/0/0 |
 | 082 | `chen-fei` | 陈废帝 | Freeze the instant when the boy emperor, at the audi | E001 | `S096-HIGH-DOWN-SIDE-MS-DEPOSITIONEDICT` | `C096-REMOVALHALL-GRAY-YOUTHBROWN-G0` | G0 | 0/0/0 |
@@ -93,14 +93,14 @@
 | 095 | `n-wei-xiaowu` | 孝武帝 | Freeze the instant when Emperor Xiaowu, riding west | E001 | `S107-SADDLE-LOW-FRONT3Q-MWS-WESTRIDE` | `C107-WESTRIDE-EVENING-IRON-ROADGRAY-G0` | G0 | 1/0/0 |
 | 096 | `e-wei-xiaojing` | 孝静帝 | Freeze the instant when Emperor Xiaojing, standing b | E001 | `S108-LOW-REAR3Q-MCU-SEALNOTPASSED` | `C108-SEALNOTPASSED-ASHWHITE-SEALJADE-G0` | G0 | 0/0/0 |
 | 097 | `w-wei-wen` | 文帝 | Freeze the instant when Emperor Wen, at the audience | E001 | `S109-EYE-FRONT3Q-MS-BOWEDCOURT` | `C109-GUANZHONGSILENCE-GRAY-INDIGO-G0` | G0 | 0/0/0 |
-| 098 | `w-wei-fei` | 废帝 | Freeze the instant when the young emperor, in the pr | E001 | `S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE` | `C110-BROKENSTRIKE-GRAY-EDICT-G0` | G0 | 0/0/0 |
+| 098 | `w-wei-fei` | 废帝 | Freeze the instant when the young emperor, standing  | E003 | `S110-LOW-PROFILE-MWS-HALLSTANDOFF` | `C110-SUNLITHALL-OCHRE-DUST-G0` | G0 | 0/0/0 |
 | 099 | `w-wei-gong` | 恭帝 | Freeze the instant when the boy emperor, at the cere | E001 | `S111-KNEE-REAR3Q-MC-DOUBLEHAND` | `C111-LASTWEST-GRAY-CINNABAR-G0` | G0 | 0/0/0 |
 | 100 | `n-qi-wenxuan` | 文宣帝 | Freeze the instant when Emperor Wenxuan, touring the | E001 | `S112-LOW-FRONT3Q-MWS-GREATWALL` | `C112-GREATWALL-EARTH-CAMPFIRE-G0` | G0 | 1/0/0 |
 | 101 | `n-qi-fei` | 废帝 | Freeze the instant when the boy emperor, reading in | E001 | `S113-HIGH-DOWN-FRONT3Q-MS-YOUNGREADER` | `C113-YOUNGREADER-PALE-LAMP-G0` | G0 | 0/0/0 |
 | 102 | `n-qi-xiaozhao` | 孝昭帝 | Freeze the instant when Emperor Xiaozhao, in the lat | E001 | `S114-HIGH-DOWN-REAR3Q-MS-BRIEFREIGN` | `C114-BRIEFREIGN-GRAY-JADE-G0` | G0 | 0/0/0 |
 | 103 | `n-qi-wucheng` | 武成帝 | Freeze the instant when Emperor Wucheng, risen from  | E001 | `S115-KNEE-SIDE-MWS-HEIRWAITING` | `C115-HEIRWAITING-CINNABAR-DAWNGRAY-G0` | G0 | 0/0/0 |
 | 104 | `n-qi-houzhu` | 后主 | Freeze the instant when the carefree emperor, in the | E001 | `S116-LOW-FRONT3Q-MS-CARELESSEMPEROR` | `C116-CARELESSHALL-BROCADE-MUSICCOLOR-G0` | G0 | 1/0/0 |
-| 105 | `n-zhou-xiao-min` | 孝闵帝 | Freeze the instant when the young Heavenly King, mon | E001 | `S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED` | `C117-PLOTHALL-GRAY-CINNABAR-G0` | G0 | 0/0/0 |
+| 105 | `n-zhou-xiao-min` | 孝闵帝 | Freeze the instant in the rear drill garden when the | E004 | `S117-KNEE-PROFILE-FULL-GRAPPLEDRILL` | `C117-DUSKGARDEN-INDIGO-EARTH-G0` | G0 | 0/0/0 |
 | 106 | `n-zhou-ming` | 明帝 | Freeze the instant when Emperor Ming, at the night t | E001 | `S118-EYE-FRONT-MC-CUPOFNIGHT` | `C118-POISONNIGHT-AMBER-WINE-G0` | G0 | 1/0/0 |
 | 107 | `n-zhou-wu` | 武帝 | Freeze the instant when Emperor Wu, at the temple ga | E001 | `S119-LOW-FRONT3Q-MS-BUDDHISTPURGE` | `C119-PURGEGRAY-TEMPLEASH-IRON-G0` | G0 | 0/0/0 |
 | 108 | `n-zhou-xuan` | 宣帝 | Freeze the instant when Emperor Xuan, at the ceremon | E001 | `S120-HIGH-DOWN-SIDE-MWS-FOURTHCROWN` | `C120-FOURCROWN-PURPLE-LAMP-G0` | G0 | 0/0/0 |
@@ -110,7 +110,7 @@
 | 112 | `q-zhao-liu-yao` | 赵（前赵）主 | Freeze the instant when Emperor Liu Yao, after the f | E001 | `S124-LOW-FRONT3Q-MS-BATTLEWRECK` | `C124-BATTLEASH-IRONBLUE-DUST-G0` | G0 | 1/0/0 |
 | 114 | `h-zhao-shi-hu` | 后赵武帝 | Freeze the instant when the regent-heavenly-king Shi | E001 | `S125-EYE-SIDE-MCU-SHADOWTHRONE` | `C125-PURGECOURT-CRIMSON-SMOKE-G0` | G0 | 0/0/0 |
 | 115 | `cheng-han-li-xiong` | 成汉太宗 | Freeze the instant when Li Xiong, standing on a grai | E001 | `S126-LOW-REAR3Q-WS-REFUGEEHOST` | `C126-REFUGEEHOST-DUSTOCHER-ASHGRAY-G0` | G0 | 0/0/0 |
-| 116 | `q-yan-murong-huang` | 前燕文明帝 | Freeze the instant when Murong Huang, mounted before | E001 | `S127-SADDLE-HIGH-FRONT3Q-MWS-KINGMAKE` | `C127-LIAODONG-LEATHER-XIANBEIBLUE-G0` | G0 | 1/0/0 |
+| 116 | `q-yan-murong-huang` | 前燕文明帝 | Freeze the instant when Murong Huang, standing on th | E004 | `S127-KNEE-REAR3Q-FULL-CITYRISE` | `C127-CITYRISE-FROST-DAWNROSE-G0` | G0 | 1/0/0 |
 | 117 | `q-yan-murong-jun` | 前燕景昭帝 | Freeze the instant when Emperor Murong Jun's chariot | E001 | `S128-HIGH-SIDE-MWS-CAPITALENTRY` | `C128-YEENTRY-BRONZE-POPPYBROWN-G0` | G0 | 0/0/0 |
 | 118 | `q-qin-fu-jian-jian` | 前秦高祖 | Freeze the instant when Fu Jian, standing on the wal | E001 | `S129-EYE-SIDE-MWS-GATEKEEP` | `C129-GUANZHONG-OCHRE-WALLGRAY-G0` | G0 | 0/0/0 |
 | 120 | `h-qin-yao-chang` | 后秦太祖 | Freeze the instant when Yao Chang, standing at the c | E001 | `S130-LOW-REAR3Q-MS-BETRAYERHILL` | `C130-HILLDARK-CINNABAR-ASH-G0` | G0 | 0/0/0 |
@@ -140,9 +140,9 @@
 | 146 | `h-shu-meng-chang` | 后蜀后主 | Freeze the instant when Emperor Meng Chang, at the h | E001 | `S154-KNEE-FRONTR3Q-MS-SCHOLARHALL` | `C154-SCHOLARHALL-BAMBOO-PAPER-G0` | G0 | 0/0/0 |
 | 147 | `jingnan-gao` | 南平武信王 | Freeze the instant when Gao Jixing, at the gate of J | E001 | `S155-HIGH-DOWN-SIDE-MS-TRIBUTEROUTE` | `C155-TRIBUTEROUTE-MAP-ROADGRAY-G0` | G0 | 0/0/0 |
 | 148 | `b-han-liu-chong` | 北汉世祖 | Freeze the instant when Liu Chong, mounted at the ca | E001 | `S156-SADDLE-LOW-FRONT3Q-MS-NORTHERNLEAN` | `C156-NORTHERNLEAN-STEPPE-IRON-G0` | G0 | 1/0/0 |
-| 149 | `b-han-liu-jun` | 北汉睿宗 | Freeze the instant when Emperor Liu Jun, on the wall | E001 | `S157-LOW-FRONT3Q-MS-GARRISONKEEP` | `C157-GARRISONKEEP-WALLGRAY-BRONZE-G0` | G0 | 0/0/0 |
+| 149 | `b-han-liu-jun` | 北汉睿宗 | Freeze the instant when Emperor Liu Jun, on the wall | E004 | `S157-KNEE-PROFILE-MCU-WALLWORKS` | `C157-WALLWORKS-OCHRE-FROST-G0` | G0 | 0/0/0 |
 | 152 | `sui-gong` | 隋恭帝 | Freeze the instant when the boy emperor, at the tran | E001 | `S158-EYE-REAR3Q-MWS-SUIPLACEMENT` | `C158-SUILAST-GRAY-TANGCINNABAR-G0` | G0 | 0/0/0 |
-| 153 | `tang-gao-zu` | 唐高祖 | Freeze the instant when Li Yuan, at the head of the | E001 | `S159-LOW-FRONT3Q-MS-TAIPYUANFLAG` | `C159-TAIPYUAN-DAWN-IRON-CINNABAR-G0` | G0 | 1/0/0 |
+| 153 | `tang-gao-zu` | 唐高祖 | Freeze the instant when Li Yuan, at the first-light  | E002 | `S159-SADDLE-PROFILE-FULL-TAIYUANMUSTER` | `C159-TAIYUANMUSTER-MISTWHITE-IRON-G0` | G0 | 1/0/0 |
 | 155 | `tang-gao-zong` | 唐高宗 | Freeze the instant when Emperor Gaozong, at the audi | E001 | `S160-KNEE-SIDE-MS-CONSORTPAGEANT` | `C160-PALACEGREEN-JADE-CINNABAR-G0` | G0 | 0/0/0 |
 | 156 | `tang-zhong-zong-a` | 唐中宗 | Freeze the instant when the young emperor, weeks int | E001 | `S161-HIGH-DOWN-SIDE-MWS-MONTHSOON` | `C161-DEPOSEBLUE-CAPEGRAY-G0` | G0 | 0/0/0 |
 | 157 | `tang-rui-zong-a` | 唐睿宗 | Freeze the instant when the young emperor, kept in a | E001 | `S162-KNEE-SIDE-MC-THRESHOLDWATCH` | `C162-THRESHOLDWATCH-BLACK-PURPLE-G0` | G0 | 0/0/0 |
@@ -160,7 +160,7 @@
 | 171 | `tang-wu-zong` | 唐武宗 | Freeze the instant when Emperor Wuzong, from the tem | E001 | `S174-HIGH-DOWN-FRONT3Q-MWS-LAYMONKS` | `C174-TEMPLECLOSE-ASH-IRON-GRAY-G0` | G0 | 0/0/0 |
 | 172 | `tang-xuan-zong-ii` | 唐宣宗 | Freeze the instant when Emperor Xuanzong, at the aud | E001 | `S175-EYE-REAR3Q-MC-HEXIMAP` | `C175-HEXIMAP-OCHRE-SILK-G0` | G0 | 0/0/0 |
 | 173 | `tang-yi-zong` | 唐懿宗 | Freeze the instant when Emperor Yizong, at the head  | E001 | `S176-KNEE-SIDE-MWS-BONEPROCESSION` | `C176-BONEPROCESSION-GOLDEN-BUDDHABROWN-G1` | G1 | 1/0/0 |
-| 174 | `tang-xi-zong` | 唐僖宗 | Freeze the instant when the young emperor, riding so | E001 | `S177-LOW-FRONT-MC-FLIGHTSOUTH` | `C177-FLIGHTSOUTH-DUST-CLOAKED-G0` | G0 | 0/0/0 |
+| 174 | `tang-xi-zong` | 唐僖宗 | Freeze the instant when the young emperor, in the te | E005 | `S177-WAIST-FRONT3Q-MS-VICTORYDISPATCH` | `C177-VICTORYDISPATCH-JADEGREEN-PLASTERWHITE-G0` | G0 | 0/0/0 |
 | 175 | `tang-zhao-zong` | 唐昭宗 | Freeze the instant when Emperor Zhaozong, mounted in | E001 | `S178-HIGH-DOWN-REAR3Q-MWS-FORCEDWEST` | `C178-FORCEDWEST-IRONBLACK-WINTERPALE-G0` | G0 | 0/0/0 |
 | 176 | `tang-ai-di` | 唐哀帝 | Freeze the instant when the boy emperor, at the tran | E001 | `S179-KNEE-FRONT3Q-MC-SEALEDUP` | `C179-SEALEDEND-GRAY-SEALRED-G0` | G0 | 0/0/0 |
 | 177 | `liang-tai-zu` | 后梁太祖 | Freeze the instant when Emperor Zhu Wen, at the new | E001 | `S180-EYE-REAR3Q-MS-SEALEDCITY` | `C180-SEALEDCITY-BLACK-CRIMSON-G0` | G0 | 1/0/0 |
@@ -178,7 +178,7 @@
 | 191 | `n-song-tai-zong` | 宋太宗 | Freeze the instant when Zhao Guangyi, in the inner c | E001 | `S192-EYE-REAR3Q-MS-EMPERORMAKING` | `C192-EMPERORMAKING-DUSK-LACQUERRED-G0` | G0 | 1/0/0 |
 | 192 | `n-song-zhen` | 宋真宗 | Freeze the instant when Emperor Zhenzong, at the Cha | E001 | `S193-HIGH-DOWN-FRONT3Q-MWS-BRIDGEPACT` | `C193-CHANYUAN-SNOW-BRONZE-G0` | G0 | 1/0/0 |
 | 193 | `n-song-ren` | 宋仁宗 | Freeze the instant when Emperor Renzong, at the refo | E001 | `S194-KNEE-REAR3Q-MC-QINGLIREFORM` | `C194-QINGLIREFORM-PALEBLUE-PAPER-G0` | G0 | 0/0/0 |
-| 194 | `n-song-ying` | 宋英宗 | Freeze the instant when Emperor Yingzong, at the aud | E001 | `S195-EYE-SIDE-MS-ANCESTORQUEST` | `C195-ANCESTORQUEST-PALE-SACRIFICE-G0` | G0 | 0/0/0 |
+| 194 | `n-song-ying` | 宋英宗 | Freeze the instant when Emperor Yingzong, standing i | E004 | `S195-HIGH-FRONT-FULL-PUYIDEBATE` | `C195-PUYIDEBATE-INKGRAY-CINNABAR-G0` | G0 | 0/0/0 |
 | 195 | `n-song-shen` | 宋神宗 | Freeze the instant when the young emperor, at the co | E001 | `S196-EYE-FRONT3Q-MWS-REFORMDECREE` | `C196-REFORMDAY-GREEN-PALE-G0` | G0 | 1/0/0 |
 | 196 | `n-song-zhe` | 宋哲宗 | Freeze the instant when Emperor Zhezong, at the audi | E001 | `S197-HIGH-DOWN-SIDE-MS-RESTORATION` | `C197-RESTORATION-BLUE-GRAY-EDICT-G0` | G0 | 0/0/0 |
 | 197 | `n-song-hui` | 宋徽宗 | Freeze the instant when Emperor Huizong, at the pain | E001 | `S198-KNEE-SIDE-MC-BRUSHSPLASH` | `C198-ARTSTUDIO-IVORY-INK-CINNABAR-G2` | G2 | 1/0/0 |
@@ -220,8 +220,8 @@
 | 234 | `yuan-ying-zong` | 元英宗 | Freeze the instant when the young emperor, at the ni | E001 | `S234-EYE-SIDE-MS-REFORMWATCH` | `C234-REFORMWATCH-NIGHT-EDICT-G0` | G0 | 1/0/0 |
 | 235 | `yuan-tai-ding` | 泰定帝 | Freeze the instant when the Prince of Jin, riding in | E001 | `S235-SADDLE-FRONT3Q-MWS-SHANGDUACCESSION` | `C235-SHANGDUACCESSION-STEPPE-FELT-G0` | G0 | 0/0/0 |
 | 236 | `yuan-tian-shun` | 天顺帝 | Freeze the instant when the boy emperor, at the thro | E001 | `S236-EYE-REAR3Q-MS-ONE-MONTH` | `C236-ONEMONTH-FELT-CINNABAR-G0` | G0 | 0/0/0 |
-| 237 | `yuan-wen-zong` | 元文宗 | Freeze the instant when Emperor Wenzong, at the Kuiz | E001 | `S237-WAIST-FRONT3Q-MWS-PAVILIONLIBRARY` | `C237-PAVILIONLIBRARY-GREEN-SCROLL-G0` | G0 | 0/0/0 |
-| 238 | `yuan-ming-zong` | 元明宗 | Freeze the instant when the returning emperor, ridin | E001 | `S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST` | `C238-RETURNWEST-STEPPE-SUNSET-G0` | G0 | 0/0/0 |
+| 237 | `yuan-wen-zong` | 元文宗 | Freeze the instant when Emperor Wenzong, standing in | E006 | `S237-KNEE-SIDE-MC-GRANDCANON` | `C237-GRANDCANON-INDIGO-PAPER-G0` | G0 | 0/0/0 |
+| 238 | `yuan-ming-zong` | 元明宗 | Freeze the instant when the newly enthroned emperor, | E004 | `S238-CHEST-SIDE-MS-TENTMEET` | `C238-TENTMEET-INDIGO-FELT-G0` | G0 | 0/0/0 |
 | 239 | `yuan-ning-zong` | 元宁宗 | Freeze the instant when the boy emperor, placed on t | E001 | `S239-HIGH-DOWN-FRONT-MWS-FORTYDAYS` | `C239-FORTYDAYS-GRAY-GOLDTRIM-G0` | G0 | 0/0/0 |
 | 240 | `yuan-hui-zong` | 元惠宗 | Freeze the instant when Emperor Huizong, riding nort | E001 | `S240-EYE-REAR3Q-MS-NORTHFLEE` | `C240-NORTHFLEE-AUTUMNDUST-CLOAK-G0` | G0 | 1/0/0 |
 | 241 | `ming-tai-zu` | 明太祖 | Freeze the instant when Zhu Yuanzhang, in the new pa | E001 | `S241-KNEE-REAR3Q-MC-YINGTIANHALL` | `C241-HONGWU-EARTH-SCARLET-G0` | G0 | 1/0/0 |
@@ -245,12 +245,12 @@
 | 259 | `qing-tai-zong` | 清太宗 | Freeze the instant when Emperor Taizong, at the cere | E001 | `S259-HIGH-DOWN-FRONT3Q-MS-NAMEINGCHANGE` | `C259-NAMEINGCHANGE-GOLDEN-CINNABAR-G1` | G1 | 1/0/0 |
 | 260 | `qing-shi-zu` | 清世祖 | Freeze the instant when the boy emperor, carried in | E001 | `S260-HIGH-DOWN-FRONT3Q-MWS-GATEPASS` | `C260-RUCHUAN-WALLGRAY-BANNERWHITE-G0` | G0 | 0/0/0 |
 | 261 | `qing-sheng-zu` | 清圣祖 | Freeze the instant when the fifteen-year-old emperor | E001 | `S261-EYE-REAR3Q-MS-TRAPHALL` | `C261-KANGXI-TRAPHALL-VERMILION-G0` | G0 | 0/0/0 |
-| 262 | `qing-shi-zong-y` | 清世宗 | Freeze the instant when Emperor Yongzheng, at the ni | E001 | `S262-KNEE-SIDE-MC-NIGHTMEMORIALS` | `C262-YONGZHENG-NIGHT-CANDLE-G0` | G0 | 0/0/0 |
+| 262 | `qing-shi-zong-y` | 清世宗 | Freeze the instant when Emperor Yongzheng, standing  | E004 | `S262-LOW-FRONT3Q-FULL-COUNCILROOM` | `C262-DUTYROOM-PLASTER-GREY-G0` | G0 | 0/0/0 |
 | 263 | `qing-gao-zong` | 清高宗 | Freeze the instant when Emperor Qianlong, at the abd | E001 | `S263-CHEST-SIDE-MCU-SEALHANDOVER` | `C263-QIANLONG-SEALBOX-GOLDEN-G2` | G2 | 1/0/0 |
 | 264 | `qing-ren-zong` | 清仁宗 | Freeze the instant when Emperor Jiaqing, at the audi | E001 | `S264-HIGH-DOWN-OTS-MS-CONFISCATION` | `C264-JIAQING-BRONZE-EDICT-G0` | G0 | 0/0/0 |
 | 265 | `qing-xuan-zong` | 清宣宗 | Freeze the instant when Emperor Xuanzong, in the nig | E001 | `S265-HIGH-DOWN-FRONT3Q-MWS-NIGHTREPORT` | `C265-DAOCHUANG-NIGHTLAMP-AMBER-G0` | G0 | 1/0/0 |
 | 266 | `qing-wen-zong` | 清文宗 | Freeze the instant when Emperor Xianfeng, at the pal | E001 | `S266-EYE-SIDE-MS-NORTHPALACE` | `C266-XIANFENG-ASH-MOUNTAINGRAY-G0` | G0 | 0/0/0 |
-| 267 | `qing-mu-zong` | 清穆宗 | Freeze the instant when the boy emperor, seated behi | E001 | `S267-KNEE-SIDE-MS-JUVENILECOURT` | `C267-TONGZHI-CURTAIN-EDICT-G0` | G0 | 0/0/0 |
+| 267 | `qing-mu-zong` | 清穆宗 | Freeze the instant when the two empress dowagers' si | E002 | `S267-LOW-FRONT-FULL-DOUBLEVEIL` | `C267-TONGZHI-GAUZE-AMBER-G0` | G0 | 0/0/0 |
 | 268 | `qing-de-zong` | 清德宗 | Freeze the instant when Emperor Guangxu, at the audi | E001 | `S268-EYE-SIDE-MWS-HUNDREDDAY` | `C268-WUXU-INKSCROLL-GREEN-G0` | G0 | 0/0/0 |
 | 269 | `qing-xuan-tong` | 宣统帝 | Freeze the instant when the boy emperor, at the audi | E001 | `S269-EYE-REAR3Q-MS-LASTAUDIENCE` | `C269-XUANTONG-HALLGRAY-PALEGOLD-G0` | G0 | 1/0/0 |
 
@@ -320,3 +320,26 @@ qin-zi-ying、han-qian-shao、han-hou-shao、han-changyi、han-ruzi、e-han-shan
 3. 台账同步:CAMERA-MATRIX.md / PALETTE-MATRIX.md / manifest.json / 本报告总表按 txt 源再生成(累计 118 行;009 码未变其行未动)。
 4. 终验(精修后):audit 0 ERRORS;邻接约束全过(唯一豁免=冻结 150/151);token 验收 69 项 0 fail;金档 G0 239/G1 8/G2 2 不变;同型簇 26→23,高相似对 241→128,最高 0.59(218↔227,军帐地图语义平行、机位差 3 维,属可接受史实镜像)。
 5. 已知可接受残留:149↔148、164↔165 色系相近(机位差≥2 维);REPORT 总表「依据 E 卡」列仍为 E001 占位(历史遗留,不影响出图)。
+
+
+## 成品质检回修记录(2026-08-12,249 张成品全量目检后)
+
+1. 质检方式:规格全验(249/249 PNG、1664×936、无损坏)→ 两个最大机位簇(EYE/REAR3Q/MS 28 张、HIGH/DOWN/FRONT3Q 29 张)人工抽看 12 张 → 10 批并行全量目检 → 打回件全部人工复核(2 处原尺寸放大验证)。
+2. 确认硬伤并回修提示词 5 份(LOCKED GRAMMAR 与 AVOID 逐字未动,仅改 SUBJECT IDENTITY 行与 265 的光源描述):
+   - 011 汉昭帝、032 汉少帝辩、042 会稽王孙亮、048 晋愍帝:少年脸滑向二次元(032/048 提示词原文含 "large eyes" 为主因)——identity 行统一加「与成人同一做旧写实水墨渲染、自然眼比例、禁动漫脸/大眼/美型」约束。
+   - 265 清宣宗:案头出现玻璃罩煤油灯(1853 年才发明、同治年间才入华,道光朝不可能)——prompt 内四处 lamp 表述改为「清宫铜烛台+蜂烛,明火、无玻璃罩」;SHOT_CODE/COLOR_CODE 不变(码内 NIGHTLAMP 仅作标签)。
+3. 复核驳回 1 项:031 汉灵帝疑似「框式算盘」——原尺寸放大确认为木板上摆铜钱记账,非算盘,不重出。
+4. 保留观察(未改提示词,待所有者定夺):016 汉哀帝偏商业国风美型(单张质量高,倾向保留);11 对构图逻辑接近(最优先 237 元文宗 vs 233 元仁宗);033↔类暗殿孤帝等同题材对。
+5. 回修后审计:audit 0 ERRORS;邻接唯一豁免仍为冻结 150/151;金档 G0 239/G1 8/G2 2 不变。待重出 5 张(011/032/042/048/265),其余 244 张定稿。
+
+## 高相似对拆解记录(2026-08-12,所有者指令「相似度高的没有特色的全部修」)
+
+1. 范围:成品质检 10 批报告命中的全部 14 对相似对 + 003/007 暗殿苗头,共重写 15 份提示词;每份由独立修复师读该帝全部史料卡后选独属时刻,LOCKED GRAMMAR 与 AVOID 逐字未动,金档不变(全 G0)。
+2. 新场景与依据:003 子婴=轵道素车白马献玺(E003);025 安帝=叶县乘舆秘不发丧还京(E011);076 简文=永福省幽室炭条题壁(E004);079 敬帝=建康郊坛禅位玺绶未交(E004);098 西魏废帝=朝堂对宇文泰发作事泄(E003);105 孝闵帝=后园与近侍排练擒缚(E004);116 慕容皝=筑龙城督建坠线未落(E004,卡无棘城之战故不用);153 李渊=晋阳拂晓校场誓师(E002,卡无霍邑/宋老生故不用);149 刘钧=太原城防督缮验磙木(E004);194 英宗=濮议两派对峙手诏未下(E004);174 僖宗=蜀中行在闻长安捷报起半未令(E005,卡无击球赌三川故不用);237 文宗=奎章阁立身受《经世大典》书函(E006);238 明宗=王忽察都帐殿兄弟相会宴未开(E004);262 雍正=军机处值房白昼授朱谕(E004,年龄随卡修正为 early fifties);267 同治=两宫垂帘双剪影背光空陛(E002,年龄随卡修正为 6 岁)。
+3. 机械终验:audit 0 ERRORS;邻接唯一豁免仍为冻结 150/151;金档 G0 239/G1 8/G2 2 不变;高相似对 128→105;质检命中的 14 对在相似对榜单中全部消失;头部对仍为 218↔227(0.59,军帐地图语义平行、机位差 3 维,前判可接受,本轮不动)。
+4. 台账:CAMERA-MATRIX.md / PALETTE-MATRIX.md / manifest.json 按 txt 再生成 20 行(含前波 5 份);本报告总表 15 行同步(场景列取 freeze 前 52 字符,E 卡列填真实卡号,与旧行 E001 占位口径不同——旧行历史遗留,未回填)。
+5. 待重出:累计 20 张(前波 011/032/042/048/265 + 本轮 15 张);其余 229 张定稿。
+
+## 重出验收记录(2026-08-12)
+
+出图助手两批共重出 20 张(1672×941,哈希核对仅 20 个 PNG 变化),全部经人工逐张复核验收:第一批 5 张(011/032/042/048 面部画风达标、265 铜烛台蜂烛无玻璃罩);第二批 15 张新场景全部按新版提示词落图,与原相似对彻底拉开,无文字、无血腥、无崩坏、时代服饰无误。249 张成品至此全部定稿。

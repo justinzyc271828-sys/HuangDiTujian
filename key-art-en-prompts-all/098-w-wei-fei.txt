@@ -4,8 +4,8 @@ ORDER: 98
 PERSONAL_NAME_ZH: 元钦
 DISPLAY_ZH: 废帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE
-COLOR_CODE: C110-BROKENSTRIKE-GRAY-EDICT-G0
+SHOT_CODE: S110-LOW-PROFILE-MWS-HALLSTANDOFF
+COLOR_CODE: C110-SUNLITHALL-OCHRE-DUST-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\098-w-wei-fei.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Western Wei deposed emperor Yuan Qin type: grim young face, short beard, tense posture; COSTUME: dark robe with loosened collar, no cap, hair bound plainly; ACCESSORIES: one hand resting on a short sword laid on the table, the other clenched.
+an East Asian man in his late twenties, Western Wei deposed emperor Yuan Qin type: grim young face, short beard, upright angry posture; COSTUME: dark formal court robe with a plain black cap, collar drawn tight; ACCESSORIES: one arm half-raised toward the general across the hall, the sleeve not yet fallen, the other hand clenched at his side.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor, in the private chamber where the plot against the general was discussed, hears the guards' steps at the door and the sword has not yet been touched.
+Freeze the instant when the young emperor, standing in the daylight court of Chang'an, has just spoken his resentment against the general Yuwen Tai before the assembled ministers, and the general has not yet answered.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE
-- Elevation and pitch: high, looking down about twenty degrees from the chamber door onto the seated figure.
-- Subject azimuth and orientation: right-side view of the seated emperor; the face turned toward the door, the profile readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty percent of frame height.
+- Shot code: S110-LOW-PROFILE-MWS-HALLSTANDOFF
+- Elevation and pitch: low, from the hall floor between the rows of officials, looking up at the standing emperor.
+- Subject azimuth and orientation: profile view of the standing emperor; the face in profile toward the general, fully readable along the line of the confrontation.
+- Shot scale and lens behavior: 35 mm medium-wide shot; the emperor occupies about sixty percent of frame height, the general smaller across the hall.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the chamber eunuch holding the inner door, the man who will open it to the guards.
+the viewer is a young official standing rigid in the front row of ministers, eyes lowered, hearing every word the emperor has just said.
 
 EVENT MOTION THROUGH THE FRAME:
-the footsteps at the door and the untouched sword hold a frozen moment of recognition.
+the half-raised arm and the general's unanswered silence hold the spoken accusation hanging in the hall.
 
 EXTREME FOREGROUND DESIGN:
-the table edge and the sword hilt.
+the shoulder and dark cap of the minister directly before the lens, his blank tablet held against his chest.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C110-BROKENSTRIKE-GRAY-EDICT-G0
-- Dominant palette: broken strike gray, edict pale, dark robe, iron dark and dim chamber light.
-- Gold allocation: G0 no gold leaf; the sword is plain iron.
-- Lighting logic: dim chamber light, one lamp near the door.
-- Surface rhythm: dark wood grain, dry-brush robe folds and long shadows.
+- Color code: C110-SUNLITHALL-OCHRE-DUST-G0
+- Dominant palette: sunlit hall ochre, dust pale, dark court robe, iron dark and hard daylight.
+- Gold allocation: G0 no gold leaf; the hall is bare wood and earth.
+- Lighting logic: hard daylight shafts through the hall openings, dust hanging in the light.
+- Surface rhythm: rammed-earth floor grain, dry-brush robe folds and long column shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-a private chamber of the western court: table, the sword, the seated emperor, the door, dim light.
+the Chang'an court hall in daylight: the standing emperor, the general Yuwen Tai facing him, rows of rigid officials, sun shafts and dust.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a strike that never left the table: the young emperor's last plan, measured against the guards' steps.
+Use the emotional implication of resentment spoken aloud before the whole court: the young emperor who said in the open what a puppet was never meant to say.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,8 +4,8 @@ ORDER: 174
 PERSONAL_NAME_ZH: 李儇
 DISPLAY_ZH: 唐僖宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S177-LOW-FRONT-MC-FLIGHTSOUTH
-COLOR_CODE: C177-FLIGHTSOUTH-DUST-CLOAKED-G0
+SHOT_CODE: S177-WAIST-FRONT3Q-MS-VICTORYDISPATCH
+COLOR_CODE: C177-VICTORYDISPATCH-JADEGREEN-PLASTERWHITE-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\174-tang-xi-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a young East Asian man in his late teens, Tang emperor Xizong Li Xuan type: pale youthful face, short beard, travel-weary posture; COSTUME: dark traveling robe under a plain cloak, no cap, dust-covered; ACCESSORIES: one hand on the saddle, the other holding a small imperial banner.
+a young East Asian man in his early twenties, Tang emperor Xizong Li Xuan type: thin youthful face, first short beard, a startled bright expression; COSTUME: plain dark Tang imperial robe of the Shu exile court, simple black gauze cap, none of the full capital regalia; ACCESSORIES: one hand gripping a just-unrolled bundle of wooden dispatch slips, the other hand pressed flat on the mat he is rising from. Render him with the same aged realistic ink handling as the adult emperors of the series: natural eye proportions, no anime-style face, no oversized glossy eyes, no bishounen styling.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young emperor, riding south toward Shu with the fleeing court, looks back at the capital behind the dust and the road has not yet turned the last corner.
+Freeze the instant when the young emperor, in the temporary palace hall of the Shu exile court, rises from his mat with the victory report of the retaken capital in his hand and the order to prepare the return journey has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S177-LOW-FRONT-MC-FLIGHTSOUTH
-- Elevation and pitch: ground level from the road dust, looking up about twenty degrees.
-- Subject azimuth and orientation: near-frontal view of the mounted young emperor; the face turned back over the shoulder, readable.
-- Shot scale and lens behavior: 70 mm medium-close shot; the emperor and the horse's head occupy about sixty-five percent of frame height.
+- Shot code: S177-WAIST-FRONT3Q-MS-VICTORYDISPATCH
+- Elevation and pitch: waist height at the hall threshold, looking up about ten degrees toward the rising emperor.
+- Subject azimuth and orientation: front three-quarter view of the emperor half-risen from the mat; the face readable, eyes lifted from the dispatch slips toward the kneeling messenger.
+- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about sixty-five percent of frame height, the open doorway and bright courtyard behind him.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a court eunuch riding behind the emperor, the man who watched the capital fall behind the dust.
+the viewer is the dust-covered relay rider kneeling at the threshold, the man who carried the news from the retaken capital and now watches it reach the emperor's face.
 
 EVENT MOTION THROUGH THE FRAME:
-the column hurries south past the lens while the emperor's backward glance holds against the dust.
+the emperor's half-finished rise moves upward against the kneeling stillness of the messenger and the green courtyard light beyond the doors.
 
 EXTREME FOREGROUND DESIGN:
-roadside weeds and one fallen banner cord.
+the messenger's dust-caked shoulder and the empty dispatch tube lying on the threshold boards.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C177-FLIGHTSOUTH-DUST-CLOAKED-G0
-- Dominant palette: flight south dust gray, cloak brown, banner faded red, road pale and overcast light.
-- Gold allocation: G0 no gold leaf; the banner is plain cloth.
-- Lighting logic: flat overcast light, dusty and pale.
-- Surface rhythm: road dust, dry-brush horse mane and haze bands.
+- Color code: C177-VICTORYDISPATCH-JADEGREEN-PLASTERWHITE-G0
+- Dominant palette: Shu courtyard jade green, whitewashed plaster, dark lacquer accents, messenger dust gray and warm daylight.
+- Gold allocation: G0 no gold leaf; the exile hall is plaster, wood and plain cloth.
+- Lighting logic: bright late-spring daylight flooding through the open doors, the hall dimmer than the courtyard outside.
+- Surface rhythm: plaster wall grain, dry-brush robe folds and sunlit leaf clusters.
 
 HISTORICAL EVENT ENVIRONMENT:
-the road south of the capital: the riding emperor, the fleeing court, dust, distant capital smoke, overcast sky.
+the temporary palace of the Shu exile court: the half-risen emperor, the kneeling relay rider, plain hall pillars, open doors onto a green courtyard, a few courtiers frozen at the edges.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the Tang court riding away from its own capital: the banner of the dynasty carried south in a cloak of dust.
+Use the emotional implication of the boy who fled his capital receiving its rescue in exile: the news of home arrives faster than the dynasty can heal.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

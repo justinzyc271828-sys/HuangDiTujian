@@ -4,8 +4,8 @@ ORDER: 149
 PERSONAL_NAME_ZH: 刘钧
 DISPLAY_ZH: 北汉睿宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S157-LOW-FRONT3Q-MS-GARRISONKEEP
-COLOR_CODE: C157-GARRISONKEEP-WALLGRAY-BRONZE-G0
+SHOT_CODE: S157-KNEE-PROFILE-MCU-WALLWORKS
+COLOR_CODE: C157-WALLWORKS-OCHRE-FROST-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\149-b-han-liu-jun.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late thirties, Northern Han emperor Liu Jun type: grave enduring face, short beard, plain strong posture; COSTUME: dark plain campaign robe with leather belt, iron cap, the dress of the garrison court; ACCESSORIES: both hands resting on the wall parapet of Taiyuan.
+an East Asian man in his mid-thirties, Northern Han emperor Liu Jun type: grave enduring face, short beard, plain strong posture; COSTUME: dark plain robe with a short fur-lined work cloak against the cold, leather belt, iron cap, the dress of the garrison court; ACCESSORIES: one gloved hand pressed on the frost-rimed end of a newly hoisted rolling log.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when Emperor Liu Jun, on the wall of Taiyuan, watches the southern army's scouts approach and the order to close the gates has not yet been given.
+Freeze the instant when Emperor Liu Jun, on the wall-repair walkway of Taiyuan in the cold before dawn, tests the first hoisted rolling log of the new defense stack and the order to set it into the battlement notch has not yet been given.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S157-LOW-FRONT3Q-MS-GARRISONKEEP
-- Elevation and pitch: low, from the wall stair below the parapet, looking up about fifteen degrees.
-- Subject azimuth and orientation: near-frontal three-quarter view of the emperor at the parapet; the face turned toward the plain, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the emperor occupies about fifty-five percent of frame height with the plain below.
+- Shot code: S157-KNEE-PROFILE-MCU-WALLWORKS
+- Elevation and pitch: knee level from the wall walkway beside the stacked thunder-stones, looking slightly up along the battlement line.
+- Subject azimuth and orientation: full profile view of the emperor facing along the wall toward the haul team; the face in profile, beard and cap line readable.
+- Shot scale and lens behavior: 55 mm medium close-up; the emperor occupies about sixty percent of frame height against the stone stack and timber.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the runner on the wall stair who carries the gate-closing order, one flight below his emperor.
+the viewer is the haul-team foreman at the rope below the walkway, waiting for the emperor's nod before the log is set.
 
 EVENT MOTION THROUGH THE FRAME:
-the scouts' dust and the defenders' stillness face each other across the plain.
+the haul rope's last swing and the workers' breath-mist drift past the emperor's stillness.
 
 EXTREME FOREGROUND DESIGN:
-the stair edge and one hanging banner cord.
+the coiled hauling rope and the frost-rimed ends of the stacked rolling logs.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C157-GARRISONKEEP-WALLGRAY-BRONZE-G0
-- Dominant palette: garrison keep wall gray, bronze fittings dark, iron black, plain robe and cold light.
-- Gold allocation: G0 no gold leaf; fittings are dark bronze and iron.
-- Lighting logic: cold flat light over the plain.
-- Surface rhythm: wall stone, dry-brush dust and banner cloth grain.
+- Color code: C157-WALLWORKS-OCHRE-FROST-G0
+- Dominant palette: cold dawn ochre of fresh rammed earth, frost pale, timber brown, iron black tools, dark plain robe.
+- Gold allocation: G0 no gold leaf; everything is earth, timber, rope and iron.
+- Lighting logic: pale cold pre-dawn light, frost on stone, breath mist in the air.
+- Surface rhythm: fresh rammed-earth patch grain, frost-rimed stone, rope fiber and dry-brush timber.
 
 HISTORICAL EVENT ENVIRONMENT:
-the wall of Taiyuan: the emperor, garrison soldiers, the plain with scouts' dust, Liao relief banners among the wall flags, cold sky.
+the wall-repair worksite of Taiyuan in the years of the Song attacks: the emperor, stacked rolling logs and thunder-stones along the battlement, haul teams with ropes and timber, a fresh rammed-earth patch on the parapet, frost and a cold dawn sky.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a reign spent holding one city: the last loyal garrison of the Han name, watching the south come.
+Use the emotional implication of a reign measured in repairs: able to hold but not to expand, the emperor keeps the one city standing stone by stone.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

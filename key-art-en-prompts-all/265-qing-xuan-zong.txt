@@ -37,20 +37,20 @@ AUDIENCE PARTICIPATION MODE:
 the viewer is a night-duty attendant standing at the study door, watching the emperor weigh the news from the southern sea.
 
 EVENT MOTION THROUGH THE FRAME:
-the lamp flame and the held vermilion brush hold the moment before the endorsement.
+the candle flame and the held vermilion brush hold the moment before the endorsement.
 
 EXTREME FOREGROUND DESIGN:
 the opened report from Canton and the draft prohibition edict beside the vermilion brush.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
 - Color code: C265-DAOCHUANG-NIGHTLAMP-AMBER-G0
-- Dominant palette: Daoguang night amber, report pale, dark robe, deep window shadow and lamp glow.
+- Dominant palette: Daoguang night amber, report pale, dark robe, deep window shadow and candle glow.
 - Gold allocation: G0 no gold leaf; everything is paper, wood and cloth.
-- Lighting logic: one lamp over the desk, warm on the report, dark beyond.
+- Lighting logic: one Qing palace bronze candle stand with a thick beeswax candle on the desk — period-accurate open flame, no glass chimney, no glass-shaded kerosene or oil lamp — warm on the report, dark beyond.
 - Surface rhythm: paper fiber, dry-brush robe edges and desk lacquer.
 
 HISTORICAL EVENT ENVIRONMENT:
-the night study of the palace: the seated emperor, the desk, the lamps, the report from Canton, the prohibition edict draft, dark windows.
+the night study of the palace: the seated emperor, the desk, the bronze candle stand, the report from Canton, the prohibition edict draft, dark windows.
 
 CHARACTER-SPECIFIC ACCENT:
 Use the emotional implication of the dynasty's last great assertion: the emperor reading that the opium burns in Canton, the war that would follow already crossing the sea.

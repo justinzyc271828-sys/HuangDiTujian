@@ -15,7 +15,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C022-LAMPBLACK-WHITE-FIBRE-RUST-G0",
+      "color_code": "C022-SNOW-LEADSLATE-CHARCOAL-INDIGO-G0",
       "display_zh": "秦王子婴",
       "evidence_ecard": "E001",
       "file": "003-qin-zi-ying.txt",
@@ -23,8 +23,8 @@
       "id": "qin-zi-ying",
       "order": "003",
       "personal_zh": "子婴",
-      "shot_code": "S022-CHEST-REAR3Q-MS-STATIC",
-      "signature_moment": "the instant the chamberlain Zhao Gao steps over the threshold of the fasting hal",
+      "shot_code": "S022-KNEE-FRONT-FULL-SEALOFFER",
+      "signature_moment": "the instant on the Zhidao post road when the last king of Qin, standing on foot ",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -249,7 +249,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C040-PALACEHALF-EDICTS-PURPLE-G0",
+      "color_code": "C040-DUSKTEAL-CYPRESS-EMBER-G0",
       "display_zh": "汉安帝",
       "evidence_ecard": "E001",
       "file": "025-e-han-an.txt",
@@ -257,8 +257,8 @@
       "id": "e-han-an",
       "order": "025",
       "personal_zh": "刘祜",
-      "shot_code": "S040-EYE-REAR3Q-MS-SOLITUDE",
-      "signature_moment": "the instant when Emperor An, after the death of the empress dowager, sits alone ",
+      "shot_code": "S040-SADDLE-PROFILE-MWS-SEALEDRETURN",
+      "signature_moment": "the instant when, at the dusk halt on the road north from Wan toward Luoyang by ",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -349,7 +349,7 @@
       "order": "032",
       "personal_zh": "刘辩",
       "shot_code": "S047-LOW-FRONT3Q-MCU-LASTCUP",
-      "signature_moment": "the deposed prince, in the high tower where he has been confined, watches the cu",
+      "signature_moment": "the instant when the deposed prince, in the high tower where he has been confine",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -479,7 +479,7 @@
       "order": "042",
       "personal_zh": "孙亮",
       "shot_code": "S057-HIGH-DOWN-FRONT3Q-MS-DEPOSITION",
-      "signature_moment": "the deposed young emperor, led down the palace steps toward the carriage of exil",
+      "signature_moment": "the instant when the deposed young emperor, led down the palace steps toward the",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -899,7 +899,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C090-POETNIGHT-PALE-SCROLL-AMBER-G0",
+      "color_code": "C090-CELLBLUE-PLASTER-CHARCOAL-G0",
       "display_zh": "梁简文帝",
       "evidence_ecard": "E001",
       "file": "076-liang-jianwen.txt",
@@ -907,8 +907,8 @@
       "id": "liang-jianwen",
       "order": "076",
       "personal_zh": "萧纲",
-      "shot_code": "S090-KNEE-SIDE-MC-LAMPWRITING",
-      "signature_moment": "Emperor Jianwen, writing poetry by the lamp while the captive city waits outside",
+      "shot_code": "S090-WAIST-PROFILE-MWS-WALLSCRIPT",
+      "signature_moment": "the instant when the deposed Emperor Jianwen, sealed inside the Yongfu Quarter a",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -938,7 +938,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C093-LASTAUDIENCE-GRAY-SEALRED-G0",
+      "color_code": "C093-ALTARWIND-PALEBLUE-BONEWHITE-G0",
       "display_zh": "梁敬帝",
       "evidence_ecard": "E001",
       "file": "079-liang-jing.txt",
@@ -946,8 +946,8 @@
       "id": "liang-jing",
       "order": "079",
       "personal_zh": "萧方智",
-      "shot_code": "S093-LOW-SIDE-MWS-LASTAUDIENCE",
-      "signature_moment": "the boy emperor, at the last audience before the transfer, watches the general C",
+      "shot_code": "S093-WAIST-PROFILE-MWS-ALTARWIND",
+      "signature_moment": "the instant when the boy emperor, standing at the edge of the open-air abdicatio",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -1159,7 +1159,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C110-BROKENSTRIKE-GRAY-EDICT-G0",
+      "color_code": "C110-SUNLITHALL-OCHRE-DUST-G0",
       "display_zh": "废帝",
       "evidence_ecard": "E001",
       "file": "098-w-wei-fei.txt",
@@ -1167,8 +1167,8 @@
       "id": "w-wei-fei",
       "order": "098",
       "personal_zh": "元钦",
-      "shot_code": "S110-HIGH-DOWN-SIDE-MS-BROKENSTRIKE",
-      "signature_moment": "the young emperor, in the private chamber where the plot against the general was",
+      "shot_code": "S110-LOW-PROFILE-MWS-HALLSTANDOFF",
+      "signature_moment": "the instant when the young emperor, standing in the daylight court of Chang'an, ",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -1250,7 +1250,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C117-PLOTHALL-GRAY-CINNABAR-G0",
+      "color_code": "C117-DUSKGARDEN-INDIGO-EARTH-G0",
       "display_zh": "孝闵帝",
       "evidence_ecard": "E001",
       "file": "105-n-zhou-xiao-min.txt",
@@ -1258,8 +1258,8 @@
       "id": "n-zhou-xiao-min",
       "order": "105",
       "personal_zh": "宇文觉",
-      "shot_code": "S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED",
-      "signature_moment": "the instant when the young Heavenly King, months into his reign, hears that the ",
+      "shot_code": "S117-KNEE-PROFILE-FULL-GRAPPLEDRILL",
+      "signature_moment": "the instant in the rear drill garden when the sixteen-year-old Heavenly King, re",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -1380,7 +1380,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C127-LIAODONG-LEATHER-XIANBEIBLUE-G0",
+      "color_code": "C127-CITYRISE-FROST-DAWNROSE-G0",
       "display_zh": "前燕文明帝",
       "evidence_ecard": "E001",
       "file": "116-q-yan-murong-huang.txt",
@@ -1388,8 +1388,8 @@
       "id": "q-yan-murong-huang",
       "order": "116",
       "personal_zh": "慕容皝",
-      "shot_code": "S127-SADDLE-HIGH-FRONT3Q-MWS-KINGMAKE",
-      "signature_moment": "Murong Huang, mounted before the assembly of the Liaodong steppe, receives the t",
+      "shot_code": "S127-KNEE-REAR3Q-FULL-CITYRISE",
+      "signature_moment": "the instant when Murong Huang, standing on the fresh rammed-earth crest of the r",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -1770,7 +1770,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C157-GARRISONKEEP-WALLGRAY-BRONZE-G0",
+      "color_code": "C157-WALLWORKS-OCHRE-FROST-G0",
       "display_zh": "北汉睿宗",
       "evidence_ecard": "E001",
       "file": "149-b-han-liu-jun.txt",
@@ -1778,8 +1778,8 @@
       "id": "b-han-liu-jun",
       "order": "149",
       "personal_zh": "刘钧",
-      "shot_code": "S157-LOW-FRONT3Q-MS-GARRISONKEEP",
-      "signature_moment": "the instant when Emperor Liu Jun, on the wall of Taiyuan, watches the southern a",
+      "shot_code": "S157-KNEE-PROFILE-MCU-WALLWORKS",
+      "signature_moment": "the instant when Emperor Liu Jun, on the wall-repair walkway of Taiyuan in the c",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -1796,7 +1796,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C159-TAIPYUAN-DAWN-IRON-CINNABAR-G0",
+      "color_code": "C159-TAIYUANMUSTER-MISTWHITE-IRON-G0",
       "display_zh": "唐高祖",
       "evidence_ecard": "E001",
       "file": "153-tang-gao-zu.txt",
@@ -1804,8 +1804,8 @@
       "id": "tang-gao-zu",
       "order": "153",
       "personal_zh": "李渊",
-      "shot_code": "S159-LOW-FRONT3Q-MS-TAIPYUANFLAG",
-      "signature_moment": "Li Yuan, at the head of the army leaving Taiyuan, raises the command staff towar",
+      "shot_code": "S159-SADDLE-PROFILE-FULL-TAIYUANMUSTER",
+      "signature_moment": "the instant when Li Yuan, at the first-light muster of the Taiyuan uprising, ext",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -2030,7 +2030,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C177-FLIGHTSOUTH-DUST-CLOAKED-G0",
+      "color_code": "C177-VICTORYDISPATCH-JADEGREEN-PLASTERWHITE-G0",
       "display_zh": "唐僖宗",
       "evidence_ecard": "E001",
       "file": "174-tang-xi-zong.txt",
@@ -2038,8 +2038,8 @@
       "id": "tang-xi-zong",
       "order": "174",
       "personal_zh": "李儇",
-      "shot_code": "S177-LOW-FRONT-MC-FLIGHTSOUTH",
-      "signature_moment": "the instant when the young emperor, riding south toward Shu with the fleeing cou",
+      "shot_code": "S177-WAIST-FRONT3Q-MS-VICTORYDISPATCH",
+      "signature_moment": "the instant when the young emperor, in the temporary palace hall of the Shu exil",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -2264,7 +2264,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C195-ANCESTORQUEST-PALE-SACRIFICE-G0",
+      "color_code": "C195-PUYIDEBATE-INKGRAY-CINNABAR-G0",
       "display_zh": "宋英宗",
       "evidence_ecard": "E001",
       "file": "194-n-song-ying.txt",
@@ -2272,8 +2272,8 @@
       "id": "n-song-ying",
       "order": "194",
       "personal_zh": "赵曙",
-      "shot_code": "S195-EYE-SIDE-MS-ANCESTORQUEST",
-      "signature_moment": "Emperor Yingzong, at the audience on the ritual question of his father's title, ",
+      "shot_code": "S195-HIGH-FRONT-FULL-PUYIDEBATE",
+      "signature_moment": "the instant when Emperor Yingzong, standing in the central aisle of the audience",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -2810,7 +2810,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C237-PAVILIONLIBRARY-GREEN-SCROLL-G0",
+      "color_code": "C237-GRANDCANON-INDIGO-PAPER-G0",
       "display_zh": "元文宗",
       "evidence_ecard": "E001",
       "file": "237-yuan-wen-zong.txt",
@@ -2818,12 +2818,12 @@
       "id": "yuan-wen-zong",
       "order": "237",
       "personal_zh": "图帖睦尔",
-      "shot_code": "S237-WAIST-FRONT3Q-MWS-PAVILIONLIBRARY",
-      "signature_moment": "the instant when Emperor Wenzong, at the Kuizhang library pavilion, reads the op",
+      "shot_code": "S237-KNEE-SIDE-MC-GRANDCANON",
+      "signature_moment": "the instant when Emperor Wenzong, standing in the Kuizhang pavilion hall, reache",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C238-RETURNWEST-STEPPE-SUNSET-G0",
+      "color_code": "C238-TENTMEET-INDIGO-FELT-G0",
       "display_zh": "元明宗",
       "evidence_ecard": "E001",
       "file": "238-yuan-ming-zong.txt",
@@ -2831,8 +2831,8 @@
       "id": "yuan-ming-zong",
       "order": "238",
       "personal_zh": "和世㻋",
-      "shot_code": "S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST",
-      "signature_moment": "the instant when the returning emperor, riding east from the western steppe to c",
+      "shot_code": "S238-CHEST-SIDE-MS-TENTMEET",
+      "signature_moment": "the instant when the newly enthroned emperor, meeting his younger brother Wenzon",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -3135,7 +3135,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C262-YONGZHENG-NIGHT-CANDLE-G0",
+      "color_code": "C262-DUTYROOM-PLASTER-GREY-G0",
       "display_zh": "清世宗",
       "evidence_ecard": "E001",
       "file": "262-qing-shi-zong-y.txt",
@@ -3143,8 +3143,8 @@
       "id": "qing-shi-zong-y",
       "order": "262",
       "personal_zh": "胤禛",
-      "shot_code": "S262-KNEE-SIDE-MC-NIGHTMEMORIALS",
-      "signature_moment": "Emperor Yongzheng, at the night desk of the long sessions, holds the brush above",
+      "shot_code": "S262-LOW-FRONT3Q-FULL-COUNCILROOM",
+      "signature_moment": "the instant when Emperor Yongzheng, standing in the low duty room of the newly e",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
@@ -3200,7 +3200,7 @@
       "status": "DRAFT-PENDING-REVIEW"
     },
     {
-      "color_code": "C267-TONGZHI-CURTAIN-EDICT-G0",
+      "color_code": "C267-TONGZHI-GAUZE-AMBER-G0",
       "display_zh": "清穆宗",
       "evidence_ecard": "E001",
       "file": "267-qing-mu-zong.txt",
@@ -3208,8 +3208,8 @@
       "id": "qing-mu-zong",
       "order": "267",
       "personal_zh": "载淳",
-      "shot_code": "S267-KNEE-SIDE-MS-JUVENILECOURT",
-      "signature_moment": "the boy emperor, seated behind the regency curtain, watches the officials' bows ",
+      "shot_code": "S267-LOW-FRONT-FULL-DOUBLEVEIL",
+      "signature_moment": "the instant when the two empress dowagers' silhouettes have just settled behind ",
       "status": "DRAFT-PENDING-REVIEW"
     },
     {

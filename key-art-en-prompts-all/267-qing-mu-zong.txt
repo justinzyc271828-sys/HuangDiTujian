@@ -4,8 +4,8 @@ ORDER: 267
 PERSONAL_NAME_ZH: 载淳
 DISPLAY_ZH: 清穆宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S267-KNEE-SIDE-MS-JUVENILECOURT
-COLOR_CODE: C267-TONGZHI-CURTAIN-EDICT-G0
+SHOT_CODE: S267-LOW-FRONT-FULL-DOUBLEVEIL
+COLOR_CODE: C267-TONGZHI-GAUZE-AMBER-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\267-qing-mu-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a small East Asian boy of eight, Qing emperor Muzong Tongzhi type: small serious face, wide quiet eyes, small body in formal Manchu robes; COSTUME: small dark Manchu court robe with dragon roundels, small court cap with red tassel; ACCESSORIES: both small hands resting on the armrests of the throne behind the curtain.
+a small East Asian boy of six, Qing emperor Muzong Tongzhi type: small serious face, wide quiet eyes, rendered in the same aged realistic ink manner as the adult characters with natural eye proportions, no anime/manga face, no oversized glossy eyes, no bishounen styling; small body in formal Manchu robes; COSTUME: small dark Manchu court robe with dragon roundels, small court cap with red tassel; ACCESSORIES: both small hands gripping the armrests of the throne set before the curtain.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the boy emperor, seated behind the regency curtain, watches the officials' bows begin and the first matter of the session has not yet been raised.
+Freeze the instant when the two empress dowagers' silhouettes have just settled behind the glowing double gauze, the boy emperor sits alone on the throne before it, and no word of the first regency audience has yet been spoken.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S267-KNEE-SIDE-MS-JUVENILECOURT
-- Elevation and pitch: knee height from the hall floor, looking up slightly toward the curtained throne.
-- Subject azimuth and orientation: right-side three-quarter view of the seated boy; the face turned toward the curtain, about half readable.
-- Shot scale and lens behavior: 50 mm medium shot; the boy occupies about fifty-five percent of frame height behind the veil.
+- Shot code: S267-LOW-FRONT-FULL-DOUBLEVEIL
+- Elevation and pitch: low from the empty audience steps, looking up toward the throne dais and the towering lit curtain.
+- Subject azimuth and orientation: front view of the small seated boy; the young face lifted toward the empty hall, fully readable against the glowing gauze.
+- Shot scale and lens behavior: 40 mm full shot; the boy occupies about fifty percent of frame height, the lit double curtain filling the frame behind him and the bare steps falling away below.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a eunuch standing at the curtain side, watching the child emperor of the restoration govern through his mother's hands.
+the viewer is a lone palace attendant standing at the foot of the bare steps, the only witness this regency admits into the emptied hall.
 
 EVENT MOTION THROUGH THE FRAME:
-the officials' bows and the curtain's stillness face each other through the veil.
+the backlit gauze's slow settle and the two silhouettes' held stillness press down on the small figure seated below.
 
 EXTREME FOREGROUND DESIGN:
-the curtain edge and one official's shoulder.
+the bare edge of the lowest audience step and one hanging gauze cord with its tassel.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C267-TONGZHI-CURTAIN-EDICT-G0
-- Dominant palette: Tongzhi curtain silk, edict pale, small robe dark, official cloth and dim hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and wood.
-- Lighting logic: dim even hall light, the curtain shadowed.
-- Surface rhythm: curtain silk grain, dry-brush robe edges and soft veil shadows.
+- Color code: C267-TONGZHI-GAUZE-AMBER-G0
+- Dominant palette: Tongzhi gauze amber, backlight honey, silhouette umber, small robe dark and cold step stone.
+- Gold allocation: G0 no gold leaf; the yellow is dyed gauze silk against lamplight, never metal.
+- Lighting logic: strong backlight behind the double gauze turning it luminous, the hall and the empty steps in cool shadow.
+- Surface rhythm: gauze weave grain, dry-brush robe edges and soft shadow falloff across the steps.
 
 HISTORICAL EVENT ENVIRONMENT:
-the audience hall with the regency curtain: the boy emperor behind the veil, officials before it, dim light.
+the audience hall at the start of the Tongzhi reign: two layers of bright yellow gauze hanging before the dais, lamp stands burning behind them, two seated dowager silhouettes side by side behind the veil, the small throne set before the gauze, the audience steps below swept and empty, no officials admitted.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of the restoration ruled from behind cloth: the child emperor behind the curtain, the recovery conducted in his name.
+Use the emotional implication of the restoration ruled from behind cloth: two mothers' shadows looming larger than the child who gives the reign its name.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

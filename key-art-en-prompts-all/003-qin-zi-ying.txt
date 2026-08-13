@@ -4,8 +4,8 @@ ORDER: 03
 PERSONAL_NAME_ZH: 子婴
 DISPLAY_ZH: 秦王子婴
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S022-CHEST-REAR3Q-MS-STATIC
-COLOR_CODE: C022-LAMPBLACK-WHITE-FIBRE-RUST-G0
+SHOT_CODE: S022-KNEE-FRONT-FULL-SEALOFFER
+COLOR_CODE: C022-SNOW-LEADSLATE-CHARCOAL-INDIGO-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\003-qin-zi-ying.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his early thirties, King Ziying of Qin type: lean austere face with heavy brows, short beard, thin shoulders inside a plain unadorned dark robe, the expression of a man who has just taken a poisoned inheritance; COSTUME: simple black Qin ruler robe with white mourning band on the sleeve, plain black cap, no ornaments; ACCESSORIES: one sheathed short sword lying on the table beside him and a half-rolled bamboo edict scroll.
+an East Asian man in his early thirties, King Ziying of Qin type: lean austere face with heavy brows, short beard, thin shoulders held square with effort inside a plain unadorned dark robe, the expression of a man performing the hardest courtesy of his life; COSTUME: plain black Qin ruler robe with a white mourning band on the sleeve, plain black cap, no ornaments, a dark surrender ribbon looped once around the neck with its ends hanging down the chest, frost gathering on the shoulders and hem; ACCESSORIES: an open plain dark wooden box held forward in both hands at chest height, the pale white-green jade imperial seal of the Son of Heaven lying inside on its dark cord.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the scene at the instant the chamberlain Zhao Gao steps over the threshold of the fasting hall and the king, who has been feigning illness, lets his right hand close on the sword grip beneath the table edge before rising.
+Freeze the instant on the Zhidao post road when the last king of Qin, standing on foot before his halted plain white carriage and white horse, extends the open seal box toward the halted Han vanguard and the nearest shield-bearer has just sunk to one knee, the jade seal offered but not yet received.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S022-CHEST-REAR3Q-MS-STATIC
-- Elevation and pitch: chest height from behind the king's seat, looking slightly downward toward the entering figure.
-- Subject azimuth and orientation: rear three-quarter view of the seated king facing the door, his face turned about thirty-five degrees so one eye and the profile of the jaw remain readable.
-- Shot scale and lens behavior: 50 mm medium shot from the king's upper back to the full door; the king occupies about sixty-five percent of frame height, the entering figure small at the far end of the room.
+- Shot code: S022-KNEE-FRONT-FULL-SEALOFFER
+- Elevation and pitch: knee height from the halted vanguard line, looking only a few degrees upward at the standing king, enough for dignity but never a hero angle.
+- Subject azimuth and orientation: near-frontal view of the standing king, torso square to the road and the Han line, head bowed about twenty degrees so the lowered eyes and the line of the jaw remain readable; a surrendering front view, not a hero front view.
+- Shot scale and lens behavior: 35 mm full-figure framing; the king occupies about sixty-two percent of frame height, the halted white carriage and white horse standing behind him at the left frame edge, the vanguard present only as cropped foreground edges.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the young chamberlain's aide waiting outside the half-open door, the only person who sees both the king's feigned weakness and his concealed hand.
+the viewer is the kneeling Han vanguard shield-bearer, the nearest living man to the fallen king, close enough to read the seal cord but holding position under orders not to reach for it.
 
 EVENT MOTION THROUGH THE FRAME:
-the door draft and Zhao Gao's advancing stride travel straight toward the king while the king's hidden hand moves in the opposite, quiet direction.
+the vanguard column's advance drives in from the right edge and stops against the kneeling viewer, while the king's outstretched arms carry the seal box the opposite way into the gap between them; only the white horse's breath drifts free, backward into the cold air.
 
 EXTREME FOREGROUND DESIGN:
-the half-open door frame, one rolled edict and the edge of the lacquered table.
+the bronze-bound rim of the kneeling viewer's shield, the butt of one grounded spear and blades of frost-stiff roadside grass, all cropped, low-detail and dark against the pale road.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C022-LAMPBLACK-WHITE-FIBRE-RUST-G0
-- Dominant palette: lamp-black shadows, ash-white mourning cloth, fibrous gray-yellow matting, one rust-red cord on the edict and a cold blue-gray daylight wedge from the door.
-- Gold allocation: G0 no gold leaf or gilded trim; the sword hilt is plain dark bronze and ox-leather.
-- Lighting logic: one cold wedge of daylight from the door opposed by a small oil-lamp glow at the king's shoulder.
-- Surface rhythm: coarse fibre mat grain, dry-brush cloth edges and one long shadow crack along the floor toward the entering figure.
+- Color code: C022-SNOW-LEADSLATE-CHARCOAL-INDIGO-G0
+- Dominant palette: wind-scoured snow white and frost over road, field, plain carriage and white horse; lead-slate gray winter sky; charcoal lamp-black Qin robe; one smoky indigo vanguard banner at the far right edge and the pale white-green jade of the seal as the single cool accent.
+- Gold allocation: G0 no gold leaf, gilded trim or gold dust anywhere; the seal box is plain dark wood and the shield rim and fittings are dull dark bronze.
+- Lighting logic: flat cold overcast winter daylight from high behind the viewer, so the white horse and plain carriage form the brightest masses in the frame directly behind the dark-robed king.
+- Surface rhythm: granular frost crust broken by wheel ruts on the rammed road, dry-brush winter stubble, and one long gray shadow of the king cast forward toward the vanguard.
 
 HISTORICAL EVENT ENVIRONMENT:
-a dim fasting hall in the Qin palace: bare plaster, bamboo blinds, a low lacquered table, incense smoke rising, one daylight wedge from the door.
+the Zhidao relay-post road outside Xianyang in early winter, 207 BC: an open rammed-earth post road under frost, pale stubble fields, the low roof of the relay-post station behind bare black trees, the plain unadorned white wooden carriage halted at the verge with its white horse still in harness, and the first ranks of Liu Bang's vanguard massed as low-detail silhouettes at the right edge.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a hunted king baiting his own killer: stillness, concealed violence, the last gamble of a dying dynasty.
+Use the emotional implication of a dynasty ending by courtesy instead of fire: total defeat carried with austere composure, the last king of Qin buying his city's safety with a single offered box.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

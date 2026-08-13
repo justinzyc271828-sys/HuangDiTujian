@@ -4,8 +4,8 @@ ORDER: 105
 PERSONAL_NAME_ZH: 宇文觉
 DISPLAY_ZH: 孝闵帝
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED
-COLOR_CODE: C117-PLOTHALL-GRAY-CINNABAR-G0
+SHOT_CODE: S117-KNEE-PROFILE-FULL-GRAPPLEDRILL
+COLOR_CODE: C117-DUSKGARDEN-INDIGO-EARTH-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\105-n-zhou-xiao-min.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-a thin East Asian youth of sixteen, Northern Zhou emperor Xiaomin Yuwen Jue type: pale young face, frightened dignity, small upright figure; COSTUME: dark Zhou imperial robe with red trim, dark cap; ACCESSORIES: both hands resting on the armrests of the new throne.
+a thin East Asian youth of sixteen, Northern Zhou Heavenly King Xiaomin Yuwen Jue type: pale young face, taut frightened resolve, wiry upright build, standing; rendered in the same aged realistic ink-and-mineral manner as the adult figures, natural eye proportions, no anime/manga face, no oversized glossy eyes, no bishounen styling; COSTUME: dark Zhou royal robe with red trim, the sleeves bound back over the shoulders with plain cord for the drill, forearms bare, the dark cap set aside on the gravel; ACCESSORIES: both hands locked on the sparring partner's wrist and sleeve, mid-grip.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the young Heavenly King, months into his reign, hears that the plot against the regent has leaked and the guards have not yet entered the hall, his hands still on the armrests.
+Freeze the instant in the rear drill garden when the sixteen-year-old Heavenly King, rehearsing the seizure of the regent with his own attendants, has caught his sparring partner's wrist and turned his hip in for the throw, and the partner's body has not yet left the ground.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S117-HIGH-DOWN-FRONT3Q-MWS-PLOTLEAKED
-- Elevation and pitch: high, from the side gallery of the hall, looking down about twenty degrees toward the throne.
-- Subject azimuth and orientation: front-left three-quarter view of the seated youth; the face turned toward the hall doors, readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; the youth occupies about fifty-five percent of frame height.
+- Shot code: S117-KNEE-PROFILE-FULL-GRAPPLEDRILL
+- Elevation and pitch: knee height from the swept gravel beside the kneeling attendant, looking up about ten degrees at the standing youth.
+- Subject azimuth and orientation: profile view of the young king side-on across the frame; the face turned down toward the locked grip, readable in profile.
+- Shot scale and lens behavior: 35 mm full shot; the two drilling figures span the frame height, the young king occupying about fifty-five percent of frame height.
 - Camera roll: level horizon.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is the young confidant at the throne steps, the man whose whispered warning has just named the regent.
+the viewer is the young attendant kneeling at the gravel edge with the coil of binding cord across his palms, the boy whose turn in the grip comes next.
 
 EVENT MOTION THROUGH THE FRAME:
-the confidant's low whisper and the youth's stillness face each other along the hall axis.
+the locked arms and the king's turning hip drag a taut diagonal across the frame while gravel dust still rises from the pivot foot.
 
 EXTREME FOREGROUND DESIGN:
-one pillar base and the confidant's shoulder.
+the kneeling attendant's shoulder and the coiled binding cord on the gravel.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C117-PLOTHALL-GRAY-CINNABAR-G0
-- Dominant palette: plot hall gray, cinnabar trim, dark robe, pale wood and cold hall light.
-- Gold allocation: G0 no gold leaf; everything is cloth and wood.
-- Lighting logic: cold even hall light over the new court.
-- Surface rhythm: hall stone, dry-brush robe edges and long shadows.
+- Color code: C117-DUSKGARDEN-INDIGO-EARTH-G0
+- Dominant palette: dusk garden indigo, trampled earth brown, cypress shadow, sweat-dulled skin and one pale sky band.
+- Gold allocation: G0 no gold leaf; everything is cloth, gravel and skin.
+- Lighting logic: low dusk light raking across the drill ground, the sky a single pale band above the wall.
+- Surface rhythm: kicked gravel, dry-brush sleeve edges and long dusk shadows.
 
 HISTORICAL EVENT ENVIRONMENT:
-the Zhou audience hall in the reign's first year: new throne, the young Heavenly King, the warning just spoken, the regent's guards not yet at the doors, cold light.
+the rear garden drill ground of the Zhou palace at Chang'an in the reign's first year: swept gravel, one old cypress, the shuttered side-hall doors, the young Heavenly King mid-throw with a sparring attendant, two confidants watching the garden gate, the binding cord waiting, dusk.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a founding reign measured in months: the new throne, and the plot against the regent already walking toward the doors.
+Use the emotional implication of a reign measured in months: the boy-king rehearsing with his own hands the arrest of his own regent, the throw unfinished as the plot itself is unfinished.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.

@@ -4,8 +4,8 @@ ORDER: 238
 PERSONAL_NAME_ZH: 和世㻋
 DISPLAY_ZH: 元明宗
 STATUS: DRAFT-PENDING-REVIEW
-SHOT_CODE: S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST
-COLOR_CODE: C238-RETURNWEST-STEPPE-SUNSET-G0
+SHOT_CODE: S238-CHEST-SIDE-MS-TENTMEET
+COLOR_CODE: C238-TENTMEET-INDIGO-FELT-G0
 OUTPUT_PATH: D:\Workspaces\Github\HuangDiTujian\key-art-en-prompts-all\outputs\238-yuan-ming-zong.png
 PRIMARY_STYLE_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\approved\01-qin-shi-huang-final-v1.png
 SECONDARY_MOTION_ANCHOR: D:\Workspaces\Github\HuangDiTujian\assets\style-bible\v1\references\emperor-series-ink-motion-v1.png
@@ -21,39 +21,39 @@ LOCKED SERIES RENDERING GRAMMAR — lock the medium, mark-making and adult chara
 an adult non-photoreal Chinese historical manga illustration fused with a mineral-pigment mural and forceful expressive ink motion; aged plaster and coarse paper; visibly granular mineral pigments selected from a character-specific palette; cracked wall, flaking pigment, dry-brush edges, flying-white ink and directional brush force; fragmented distressed gold leaf appears only when the per-emperor palette plan assigns it and must never become a universal gold-splatter overlay. Use no more than the assigned gold budget. Bold designed silhouette, decisive facial planes, expressive anatomy and controlled exaggeration. The emperor must remain the unmistakable visual subject and normally occupy 48–72 percent of the visual mass, but profile, rear three-quarter, overhead, ground-level, over-the-shoulder and off-center arrangements are all valid when assigned by the per-emperor camera plan. The viewer has a precise position inside the historical event. Participation may come from proximity, occlusion, eyeline, danger crossing the frame, shared movement or spatial pressure; it does not require a hand or prop aimed at the lens. Freeze the scene before the action finishes. Make the cracks, pigment and ink carry the event's direction and force rather than act as a decorative filter. The CAMERA PLAN and COLOR PLAN below are authoritative and must visibly differ from adjacent images.
 
 SUBJECT IDENTITY AND PERIOD CONSTRUCTION:
-an East Asian man in his late twenties, Yuan emperor Mingzong Khoshila type: weathered grave face, dark beard, western steppe dress; COSTUME: dark Mongol riding coat with fur collar, leather belt, fur cap, the dress of the western exile; ACCESSORIES: one hand on the reins, the other holding a small imperial banner.
+an East Asian man in his late twenties, Yuan emperor Mingzong Khoshila type: weathered grave face, dark beard, the hardness of the western exile under new imperial calm; COSTUME: dark Mongol imperial robe with fur collar, leather belt, fur-edged cap, plain and ungilded as befits a reign of months; ACCESSORIES: one hand half-raised toward his entering brother, not yet touching him, the other braced on the edge of the untouched feast table.
 
 SIGNATURE FREEZE MOMENT:
-Freeze the instant when the returning emperor, riding east from the western steppe to claim the throne, crests the ridge and the banners of the welcome have not yet appeared on the horizon.
+Freeze the instant when the newly enthroned emperor, meeting his younger brother Wenzong inside the tent hall at Ongghachadu, rises from the host seat and the welcoming feast has not yet begun, the two men's hands not yet joined.
 
 CAMERA PLAN — LOCKED FOR THIS EMPEROR, DO NOT REVERT TO A GENERIC FRONTAL HERO SHOT:
-- Shot code: S238-HIGH-DOWN-REAR3Q-MWS-RETURNWEST
-- Elevation and pitch: high, from the ridge crest, looking down about twenty degrees onto the road.
-- Subject azimuth and orientation: rear three-quarter view of the mounted emperor; the face turned toward the eastern horizon, the profile readable.
-- Shot scale and lens behavior: 40 mm medium-wide shot; horse and rider occupy about fifty-five percent of frame height.
-- Camera roll: level horizon.
+- Shot code: S238-CHEST-SIDE-MS-TENTMEET
+- Elevation and pitch: chest height, level, from beside the host seat inside the tent hall.
+- Subject azimuth and orientation: side view of the risen emperor; the body side-on to the lens, the grave face turning toward his brother at the tent door, the profile readable against the felt wall.
+- Shot scale and lens behavior: 40 mm medium shot; the emperor occupies about fifty-five percent of frame height, the entering brother smaller at the open tent door.
+- Camera roll: level.
 
 AUDIENCE PARTICIPATION MODE:
-the viewer is a Mongol escort halted on the ridge crest, the man who rode west with him and now rides back to a throne of six months.
+the viewer is a retainer of the western journey standing just inside the felt wall, the one who has drawn up the door curtain for the arriving brother and now holds his breath between the two sovereigns.
 
 EVENT MOTION THROUGH THE FRAME:
-the eastward ride and the steppe wind travel together toward the distant capital.
+the entering brother's step across the threshold and the risen emperor's half-turn move toward each other across the unstarted feast.
 
 EXTREME FOREGROUND DESIGN:
-one escort horse's neck and the banner edge.
+the lifted felt door curtain edge and one retainer's shoulder.
 
 COLOR AND GOLD BUDGET — LOCKED FOR THIS EMPEROR:
-- Color code: C238-RETURNWEST-STEPPE-SUNSET-G0
-- Dominant palette: return west steppe green, sunset amber, fur brown, banner faded and evening light.
-- Gold allocation: G0 no gold leaf; the banner is plain cloth.
-- Lighting logic: low evening light, long shadows over the steppe.
-- Surface rhythm: steppe grass, dry-brush horse mane and sunset haze.
+- Color code: C238-TENTMEET-INDIGO-FELT-G0
+- Dominant palette: tent-night indigo, felt brown, cold iron brazier, dull robe red accent and steppe dusk at the door.
+- Gold allocation: G0 no gold leaf; the feast ware is plain bronze and horn, nothing gilded.
+- Lighting logic: cool dusk light through the open tent door meets the first low glow of the brazier; most of the felt hall remains in indigo shadow.
+- Surface rhythm: felt wall grain, dry-brush robe edges and the dull sheen of untouched dishes.
 
 HISTORICAL EVENT ENVIRONMENT:
-the western steppe ridge: the returning emperor, the escort, the eastern horizon, evening sky.
+the tent hall at Ongghachadu, on the road between the steppe and the capital: the newly enthroned elder brother risen from the host seat, the younger brother Wenzong entering from the dusk outside, the unstarted feast laid between them, retainers as edge silhouettes along the felt wall.
 
 CHARACTER-SPECIFIC ACCENT:
-Use the emotional implication of a throne reached and lost in one season: the westward exile riding home to a reign of months.
+Use the emotional implication of the last meeting of two brothers over one throne: the welcome warm on every face, the sudden death of the elder already waiting days away.
 
 COMPOSITION AND DELIVERY:
 Follow the assigned camera and color plans literally before adding detail. One clearly dominant emperor, with contextual people only as cropped foreground framing, edge silhouettes or distant low-detail figures. Keep the face readable without forcing it frontal. Build at least four separable depth layers for parallax: assigned foreground frame, emperor, event action, distant environment. Preserve some lower-left and upper-right low-detail areas when possible, but never weaken the action merely to create empty overlay boxes. No text is generated inside the image. Before rendering, compare this shot and color code with the adjacent prompt files: at least two camera dimensions must visibly differ, and the dominant hue or gold density must also change. Do not reuse the approved images' black-gold speckle distribution as a series-wide overlay.
