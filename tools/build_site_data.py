@@ -4,7 +4,6 @@ from __future__ import annotations
 
 import json
 import re
-import shutil
 import sys
 from pathlib import Path
 
@@ -17,10 +16,6 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "apps" / "web" / "public" / "data" / "site.json"
 MASTER = ROOT / "data" / "catalog" / "emperors_master.json"
-ILLU_DIRS = [
-    ROOT / "assets" / "video-01" / "emperor-illustrations" / "outputs",
-    ROOT / "key-art-en-prompts-all" / "outputs",
-]
 LINK_RE = re.compile(r"\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]")
 
 
@@ -126,25 +121,17 @@ def main() -> int:
         d["meta"] = meta
         full[d["id"]] = d
 
-    # 已批准插画（video-01 二十幅与全库增补二四九幅）：拷贝到 public/illustrations/ 并写入 illustration 字段
+    # 插画 由 tools/convert_illustrations_webp.py 预生成 webp；此处仅做字段映射
     illu_copied: dict[str, str] = {}
     illu_out = OUT.parent.parent / "illustrations"
-    illu_out.mkdir(parents=True, exist_ok=True)
-    for illu_dir in ILLU_DIRS:
-        if not illu_dir.is_dir():
-            continue
-        for png in sorted(illu_dir.glob("*.png")):
-            m = re.fullmatch(r"\d+-(.+)\.png", png.name)
-            if not m:
-                continue
-            eid = m.group(1)
-            shutil.copy2(png, illu_out / f"{eid}.png")
-            illu_copied[eid] = f"illustrations/{eid}.png"
+    if illu_out.is_dir():
+        for webp in sorted(illu_out.glob("*.webp")):
+            illu_copied[webp.stem] = f"illustrations/{webp.name}"
     for eid, rel in illu_copied.items():
         if eid in full:
             full[eid]["illustration"] = rel
     if illu_copied:
-        print(f"OK -> illustrations copied: {len(illu_copied)}")
+        print(f"OK -> illustrations mapped: {len(illu_copied)}")
 
     master_list: list[dict] = []
     if MASTER.is_file():

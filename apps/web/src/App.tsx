@@ -13,7 +13,7 @@ export default function App() {
   const [err, setErr] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch("/data/site.json")
+    fetch(`${import.meta.env.BASE_URL}data/site.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`${translate(lang, "app.loadError")}: ${r.status}`);
         return r.json();

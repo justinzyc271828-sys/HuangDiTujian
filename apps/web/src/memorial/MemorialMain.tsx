@@ -61,7 +61,7 @@ export default function MemorialMain({
         )}
         {emperor.illustration ? (
           <figure className="hero-illu">
-            <img src={`/${emperor.illustration}`} alt={t("hero.illuAlt", { name: display })} />
+            <img src={`${import.meta.env.BASE_URL}${emperor.illustration}`} alt={t("hero.illuAlt", { name: display })} />
           </figure>
         ) : (
           <div className="hero-illu hero-illu-empty">

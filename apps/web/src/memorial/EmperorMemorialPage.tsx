@@ -26,7 +26,7 @@ export default function EmperorMemorialPage({ site }: Props) {
   const emperor = site.emperors.find((e) => e.id === id);
 
   useEffect(() => {
-    fetch("/data/stand_stats.json")
+    fetch(`${import.meta.env.BASE_URL}data/stand_stats.json`)
       .then((r) => (r.ok ? r.json() : null))
       .then((d: StandStatsFile | null) => setStats(d))
       .catch(() => setStats(null));

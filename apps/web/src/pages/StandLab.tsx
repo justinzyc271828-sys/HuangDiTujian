@@ -67,7 +67,7 @@ export default function StandLab({ site }: Props) {
   const [eid, setEid] = useState(site.featured_ids[0] || "qin-shi-huang");
 
   useEffect(() => {
-    fetch("/data/stand_stats.json")
+    fetch(`${import.meta.env.BASE_URL}data/stand_stats.json`)
       .then((r) => r.json())
       .then(setStats)
       .catch(() => setStats(null));

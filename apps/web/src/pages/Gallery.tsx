@@ -113,7 +113,7 @@ export default function Gallery({ site }: Props) {
               >
                 <div className="g-illu">
                   {e.illustration ? (
-                    <img src={`/${e.illustration}`} alt="" loading="lazy" />
+                    <img src={`${import.meta.env.BASE_URL}${e.illustration}`} alt="" loading="lazy" />
                   ) : (
                     <div className="g-illu-pending">{t("gallery.portraitPending")}</div>
                   )}
