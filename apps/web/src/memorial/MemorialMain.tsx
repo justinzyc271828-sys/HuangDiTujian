@@ -133,7 +133,6 @@ export default function MemorialMain({
                   <div className="tl-year">
                     {evDate || ev.year}
                     {place ? ` · ${placeName}` : ""}
-                    {ev.card_id ? ` · ${ev.card_id}` : ""}
                   </div>
                   <div className="tl-title">{evTitle}</div>
                   <div className="tl-summary">{evSummary}</div>
