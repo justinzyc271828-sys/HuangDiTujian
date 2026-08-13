@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 复核补丁：修正已知年份锚点 + 同年内事件优先级排序，重编号 E###。
+⚠ 注意：本脚本按编年重排并全量重编号 E###；运行后必须同步 data/emperors/*.yaml 的 card_id 回链，否则产品层引用断链。
 """
 from __future__ import annotations
 
@@ -105,6 +106,10 @@ def write_card(path: Path, meta: dict, summary: str, quote: str, sources: list) 
     rel = meta.get("related_ids", "[]")
     rows = "\n".join(f"| {a} | {b} | {c} |" for a, b, c in sources) or "| （待补） | | |"
     q = quote if quote and quote != "—" else "与本纪对读；争议见 06。"
+    # 幂等:剥掉既往 -chrono/-sorted 尾链再补本次后缀(2026-08-13 修复)
+    base_batch = re.sub(r"(?:-(?:chrono|sorted))+$", "", meta.get("batch", "benji-qa-fix"))
+    rel_ids = re.findall(r'"([a-z0-9-]+)"', meta.get("related_ids", "[]"))
+    rel_md = "\n".join(f"- [[{i}]]" for i in rel_ids) if rel_ids else "—"
     content = f"""---
 eid: {meta['eid']}
 person_id: "{meta.get('person_id','')}"
@@ -119,7 +124,7 @@ related_ids: {rel}
 confidence: {meta.get('confidence','medium')}
 enter_product: true
 status: accepted
-batch: {meta.get('batch','benji-qa-fix')}-chrono
+batch: {base_batch}-chrono
 ---
 
 # {meta['eid']} · {meta.get('title','')}
@@ -137,7 +142,7 @@ batch: {meta.get('batch','benji-qa-fix')}-chrono
 
 ## 关联人物
 
-{rel if rel != '[]' else '—'}
+{rel_md}
 
 ## 出处
 

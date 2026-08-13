@@ -6,6 +6,7 @@
 2) 摘要过短（<50 字）补全为可对读叙述
 3) 去掉明显错误/弱表述
 4) 重建 00-史源卡 索引
+⚠ 注意：本脚本按编年重排并全量重编号 E###；运行后必须同步 data/emperors/*.yaml 的 card_id 回链，否则产品层引用断链。
 """
 from __future__ import annotations
 
@@ -62,9 +63,26 @@ def year_key(y: str) -> tuple[int, int]:
         return (1, 10**9)
 
 
-def expand_summary(pid: str, title: str, summary: str, sources: list, year: str, date_note: str) -> str:
+def expand_summary(display: str, title: str, summary: str, sources: list, year: str, date_note: str) -> str:
     s = summary.strip()
     # strip previous auto pad
+    # 幂等:剥掉本函数既往生成的补白尾句,防止重复追加(2026-08-13 修复)
+    _PADS = [
+        r"[^。]*?早年行迹。据[^。]*?为后续即位编年起点。",
+        r"据[^。]*?即帝位/主政，朝廷人事与年号随之更始。",
+        r"据[^。]*?在位结束，储位交接见本纪末及后任纪。",
+        r"综合[^。]*?本纪赞/论，概括在位功过与史臣月旦，非单一事件。",
+        r"综合[^。]*?史臣评论，概括一代政治得失。",
+        r"据[^。]*?·[^。，]*?，系于[^。]*?。",
+        r"「[^」]*?」为本期编年要事，可与同年诏令、相关列传交叉核对。",
+        r"出处见[^。]*?。",
+    ]
+    _prev = None
+    while _prev != s:
+        _prev = s
+        for _p in _PADS:
+            s = re.sub(_p, "", s)
+        s = s.strip().rstrip("。").strip()
     s = re.sub(r"事系本朝编年.*$", "", s).strip()
     s = re.sub(r"本条据正史本纪系年.*$", "", s).strip()
     s = re.sub(r"细节与年月以.*$", "", s).strip()
@@ -78,7 +96,7 @@ def expand_summary(pid: str, title: str, summary: str, sources: list, year: str,
 
     # title-specific boosters
     boost = {
-        "生": f"{pid} 早年行迹。据{book}·{juan}，{yn}前后其人出生/出场，为后续即位编年起点。",
+        "生": f"{display}早年行迹。据{book}·{juan}，{yn}前后其人出生/出场，为后续即位编年起点。",
         "即位": f"据{book}·{juan}，{yn}即帝位/主政，朝廷人事与年号随之更始。",
         "崩": f"据{book}·{juan}，{yn}在位结束，储位交接见本纪末及后任纪。",
         "史评": f"综合{book}本纪赞/论，概括在位功过与史臣月旦，非单一事件。",
@@ -105,6 +123,10 @@ def write_card(path: Path, meta: dict, summary: str, quote: str, sources: list):
     rel = meta.get("related_ids", "[]")
     rows = "\n".join(f"| {a} | {b} | {c} |" for a, b, c in sources) or "| （待补） | | |"
     q = quote if quote and quote != "—" else "与本纪对读；争议见 06。"
+    # 幂等:剥掉既往 -chrono/-sorted 尾链再补本次后缀(2026-08-13 修复)
+    base_batch = re.sub(r"(?:-(?:chrono|sorted))+$", "", meta.get("batch", "benji-qa-fix"))
+    rel_ids = re.findall(r'"([a-z0-9-]+)"', meta.get("related_ids", "[]"))
+    rel_md = "\n".join(f"- [[{i}]]" for i in rel_ids) if rel_ids else "—"
     content = f"""---
 eid: {meta['eid']}
 person_id: "{meta.get('person_id','')}"
@@ -119,7 +141,7 @@ related_ids: {rel}
 confidence: {meta.get('confidence','medium')}
 enter_product: true
 status: accepted
-batch: {meta.get('batch','benji-qa-fix')}-sorted
+batch: {base_batch}-sorted
 ---
 
 # {meta['eid']} · {meta.get('title','')}
@@ -137,7 +159,7 @@ batch: {meta.get('batch','benji-qa-fix')}-sorted
 
 ## 关联人物
 
-{rel if rel != '[]' else '—'}
+{rel_md}
 
 ## 出处
 
@@ -237,7 +259,7 @@ def fix_person(pid: str) -> int:
         if "骨架卡" in summary:
             summary = re.sub(r"骨架卡.*", "", summary).strip()
         summary = expand_summary(
-            pid,
+            display,
             meta.get("title", ""),
             summary,
             sources,

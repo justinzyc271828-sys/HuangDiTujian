@@ -169,7 +169,7 @@ timeline:
   related_person_ids: []
   sources:
   - 隋书·卷004·炀帝纪
-  card_id: E013
+  card_id: E010
 - year: '616'
   date_note: 大业十二年
   date_note_en: Daye 12
@@ -181,7 +181,7 @@ timeline:
   related_person_ids: []
   sources:
   - 隋书·卷004·炀帝纪
-  card_id: E010
+  card_id: E011
 - year: '617'
   date_note: 大业十三年
   date_note_en: Daye 13
@@ -193,7 +193,7 @@ timeline:
   related_person_ids: []
   sources:
   - 隋书·卷004·炀帝纪
-  card_id: E011
+  card_id: E012
 - year: '618'
   date_note: 大业十四年
   date_note_en: Daye 14
@@ -206,7 +206,7 @@ timeline:
   sources:
   - 隋书·卷004·炀帝纪
   - 资治通鉴·隋纪
-  card_id: E012
+  card_id: E013
 relations:
 - type: predecessor
   target_id: sui-wen
@@ -223,41 +223,49 @@ routes:
   year: '589'
   place_id: jian-kang
   event: 晋王平陈
+  event_en: "The Prince of Jin Pacifies Chen"
 - group: 都城
   order: 2
   year: '604'
   place_id: da-xing
   event: 即位改元
+  event_en: "Enthronement and New Era Name"
 - group: 都城
   order: 3
   year: '605'
   place_id: luoyang
   event: 营东都开运河
+  event_en: "Eastern Capital Built, Canal Opened"
 - group: 其他
   order: 4
   year: '605'
   place_id: tong-ji-qu
   event: 开通济渠
+  event_en: "Digging the Tongji Canal"
 - group: 巡狩
   order: 5
   year: '609'
   place_id: hexi
   event: 西巡张掖
+  event_en: "Western Tour to Zhangye"
 - group: 亲征
   order: 6
   year: '612'
   place_id: liaodong
   event: 一征高句丽
+  event_en: "First Goguryeo Campaign"
 - group: 流徙
   order: 7
   year: '616'
   place_id: jiang-du
   event: 幸江都
+  event_en: "Journey to Jiangdu"
 - group: 流徙
   order: 8
   year: '618'
   place_id: jiang-du
   event: 江都之变
+  event_en: "The Jiangdu Coup"
 sources:
 - title: 隋书·炀帝纪（卷003–004）
   note: 年表主据

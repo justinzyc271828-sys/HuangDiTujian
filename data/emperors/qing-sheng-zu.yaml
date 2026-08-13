@@ -126,7 +126,7 @@ timeline:
   sources:
   - 清史稿·本纪
   - 清史稿·相关列传
-  card_id: E008
+  card_id: E006
 - year: '1722'
   date_note: 康熙六十一年
   date_note_en: 康熙六十一年
@@ -139,7 +139,7 @@ timeline:
   sources:
   - 清史稿·本纪
   - 清史稿·相关列传
-  card_id: E006
+  card_id: E007
 - year: '1722'
   date_note: 史评
   date_note_en: verdict of the histories
@@ -152,7 +152,7 @@ timeline:
   sources:
   - 清史稿·本纪
   - 清史稿·相关列传
-  card_id: E007
+  card_id: E008
 relations:
 - type: predecessor
   target_id: qing-shi-zu
@@ -166,26 +166,31 @@ routes:
   year: '1661'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1669'
   place_id: bei-jing
   event: 擒鳌拜
+  event_en: "Oboi Seized"
 - group: 其他
   order: 3
   year: '1683'
   place_id: tai-wan
   event: 统一台湾
+  event_en: "Taiwan United"
 - group: 亲征
   order: 4
   year: '1696'
   place_id: zhao-mo-duo
   event: 征噶尔丹
+  event_en: "Galdan Campaign"
 - group: 都城
   order: 5
   year: '1722'
   place_id: bei-jing
   event: 圣祖崩
+  event_en: "Death of Shengzu"
 sources:
 - title: 清史稿
   note: 年表主据
