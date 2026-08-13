@@ -125,9 +125,11 @@ relations:
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 前秦灭代，其孙拓跋珪后复国建北魏
+  note_en: "Former Qin destroys Dai; his grandson Tuoba Gui later restores the state and founds Northern Wei"
 - type: successor
   target_id: n-wei-daowu
   note: 孙拓跋珪复国建魏，是为道武帝
+  note_en: "The grandson Tuoba Gui restores the state and founds Wei; he is Emperor Daowu"
 routes:
 - group: 都城
   order: 1

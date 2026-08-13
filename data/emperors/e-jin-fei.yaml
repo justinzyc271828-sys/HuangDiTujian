@@ -132,12 +132,15 @@ relations:
 - type: predecessor
   target_id: e-jin-ai
   note: 兴宁三年哀帝崩，弟奕即位
+  note_en: "In the 3rd year of Xingning Emperor Ai dies; his brother Yi takes the throne"
 - type: successor
   target_id: e-jin-jianwen
   note: 太和六年被废，迎立会稽王昱
+  note_en: "Deposed in the sixth year of Taihe; Yu, Prince of Kuaiji, was welcomed and enthroned"
 - type: kinship
   target_id: e-jin-cheng
   note: 成帝子
+  note_en: "Son of Emperor Cheng"
 routes:
 - group: 都城
   order: 1

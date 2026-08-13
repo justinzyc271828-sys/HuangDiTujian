@@ -128,6 +128,7 @@ relations:
 - type: related_emperor
   target_id: n-wei-taiwu
   note: 胡夏为北魏所灭，统万城破
+  note_en: "Hu Xia is destroyed by Northern Wei; Tongwan falls"
 routes:
 - group: 都城
   order: 1

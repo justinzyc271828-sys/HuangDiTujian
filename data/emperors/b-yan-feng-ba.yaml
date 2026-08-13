@@ -124,6 +124,7 @@ relations:
 - type: related_emperor
   target_id: n-wei-taiwu
   note: 北燕终为北魏所灭
+  note_en: "Northern Yan is finally destroyed by Northern Wei"
 routes:
 - group: 都城
   order: 1

@@ -131,12 +131,15 @@ relations:
 - type: predecessor
   target_id: yuan-tai-zu
   note: 太祖第三子，拖雷监国二年后即位
+  note_en: "Third son of Taizu; takes the throne after Tolui's two-year regency"
 - type: successor
   target_id: yuan-ding-zong
   note: 十三年崩，子贵由1246年即位（乃马真后摄政其间）
+  note_en: "Dies in the 13th year; his son Guyuk takes the throne in 1246 (Empress Töregene rules as regent in the interim)"
 - type: rival
   target_id: jin-ai-zong
   note: 六年联宋灭金于蔡州，哀宗自缢，金亡
+  note_en: "In the sixth year he joins Song to destroy Jin at Caizhou; Aizong hangs himself and Jin falls"
 routes:
 - group: 都城
   order: 1

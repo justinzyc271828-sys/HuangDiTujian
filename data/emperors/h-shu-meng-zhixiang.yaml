@@ -121,9 +121,11 @@ relations:
 - type: successor
   target_id: h-shu-meng-chang
   note: 明德元年崩，第三子昶即位
+  note_en: "Dies in Mingde 1; his third son Chang takes the throne"
 - type: related_emperor
   target_id: tang-zhuang
   note: 后唐西川节度使，灭前蜀后镇蜀
+  note_en: "Later Tang military commissioner of Xichuan; after destroying Former Shu, took military charge of Shu"
 routes:
 - group: 都城
   order: 1

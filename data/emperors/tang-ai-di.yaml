@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: tang-zhao-zong
   note: 天祐元年昭宗被弑，朱全忠立辉王祚
+  note_en: "In the first year of Tianyou, Emperor Zhaozong was assassinated; Zhu Quanzhong enthroned Zuo, Prince of Hui"
 - type: successor
   target_id: liang-tai-zu
   note: 天祐四年禅位于朱全忠（后梁太祖），唐亡
+  note_en: "In the fourth year of Tianyou, abdicated to Zhu Quanzhong (Emperor Taizu of Later Liang); the Tang fell"
 - type: kinship
   target_id: tang-zhao-zong
   note: 昭宗第九子
+  note_en: "Ninth son of Emperor Zhaozong"
 routes:
 - group: 都城
   order: 1

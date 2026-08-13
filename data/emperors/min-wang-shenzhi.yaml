@@ -120,9 +120,11 @@ relations:
 - type: successor
   target_id: min-wang-yanjun
   note: 卒后子延翰立，寻被杀，延钧（延翰弟）继
+  note_en: "After his death his son Yanhan is enthroned, soon killed, and Yanjun (Yanhan's brother) succeeds"
 - type: related_emperor
   target_id: liang-tai-zu
   note: 受后梁封闽王
+  note_en: "Enfeoffed as Prince of Min by Later Liang"
 routes:
 - group: 都城
   order: 1

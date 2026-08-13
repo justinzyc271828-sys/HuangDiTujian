@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: liang-yu
   note: 栋禅位侯景，景败后元帝正位于江陵
+  note_en: "Xiao Dong abdicates to Hou Jing; after Jing's defeat, Emperor Yuan formally takes the throne at Jiangling"
 - type: successor
   target_id: liang-jing
   note: 承圣三年江陵陷，子方智即位于建康
+  note_en: "In Chengsheng 3, Jiangling falls; his son Fangzhi takes the throne at Jiankang"
 - type: kinship
   target_id: liang-wu
   note: 武帝第七子
+  note_en: "Emperor Wu's seventh son"
 routes:
 - group: 都城
   order: 1

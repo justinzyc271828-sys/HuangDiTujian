@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: chen-fei
   note: 光大二年废侄伯宗自立
+  note_en: "In the 2nd year of Guangda he deposes his nephew Bozong and takes the throne himself"
 - type: successor
   target_id: chen-houzhu
   note: 太建十四年崩，子叔宝即位
+  note_en: "Dies in the 14th year of Taijian; the son Shubao takes the throne"
 - type: kinship
   target_id: chen-wu
   note: 武帝侄，文帝弟
+  note_en: "Emperor Wu's nephew, Emperor Wen's younger brother"
 routes:
 - group: 都城
   order: 1

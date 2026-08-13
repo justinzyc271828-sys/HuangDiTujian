@@ -120,9 +120,11 @@ relations:
 - type: predecessor
   target_id: qi-donghun
   note: 中兴元年东昏被杀，立南康王宝融
+  note_en: "In the 1st year of Zhongxing the Marquis of Donghun is killed; Baorong, Prince of Nankang, is enthroned"
 - type: successor
   target_id: liang-wu
   note: 中兴二年禅位于萧衍，齐亡
+  note_en: "In the 2nd year of Zhongxing he abdicates to Xiao Yan; Qi falls"
 routes:
 - group: 都城
   order: 1

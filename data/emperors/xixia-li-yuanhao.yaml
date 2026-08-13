@@ -199,18 +199,23 @@ relations:
 - type: predecessor
   target_id: null
   note: 父李德明（页待建），1032 年袭夏王位
+  note_en: "His father Li Deming (page pending); in 1032 he inherits the Xia princely title"
 - type: successor
   target_id: null
   note: 幼子李谅祚（页待建），遇弑后嗣位
+  note_en: "The youngest son Li Liangzuo (page pending), who succeeds after the assassination"
 - type: rival
   target_id: null
   note: 宋仁宗（页待建）：三川口、好水川、定川寨三战与庆历和议
+  note_en: "Emperor Renzong of Song (page pending): the battles of Sanchuankou, Haoshuichuan, and Dingchuanzhai, and the Qingli peace settlement"
 - type: rival
   target_id: null
   note: 辽兴宗（页待建）：辽夏和战，宋辽夏三角
+  note_en: "Emperor Xingzong of Liao (page to be built): Liao–Western Xia peace and war, the Song–Liao–Western Xia triangle"
 - type: related_emperor
   target_id: han-wu-di
   note: 武帝开河西走廊与元昊据河西称帝的长线对照
+  note_en: "Long-range narrative foil: Emperor Wu of Han opens the Hexi Corridor; Yuanhao holds Hexi and proclaims himself emperor"
 routes:
 - group: 都城
   order: 1

@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: jin-xi-zong
   note: 皇统九年弑熙宗自立
+  note_en: "Huangtong 9: assassinates Emperor Xizong and sets himself up"
 - type: successor
   target_id: jin-shi-zong
   note: 正隆六年采石败后被弑，世宗即位（辽阳）
+  note_en: "Zhenglong 6: assassinated after the Caishi defeat; Emperor Shizong takes the throne (at Liaoyang)"
 routes:
 - group: 都城
   order: 1

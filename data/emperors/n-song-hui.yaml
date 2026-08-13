@@ -154,12 +154,15 @@ relations:
 - type: predecessor
   target_id: n-song-zhe
   note: 哲宗弟，元符三年向太后立之
+  note_en: "Emperor Zhezong's younger brother; in the third year of Yuanfu, Empress Dowager Xiang enthroned him"
 - type: successor
   target_id: n-song-qin
   note: 宣和七年金兵南下，内禅太子桓
+  note_en: "In the 7th year of Xuanhe, with Jin forces marching south, he abdicates within the family to the heir apparent Huan"
 - type: rival
   target_id: liao-tianzuo
   note: 联金灭辽，燕云终成引狼入室之局
+  note_en: "Allies with Jin to destroy Liao; the Yan-Yun region ends as a case of inviting the wolf into the house"
 routes:
 - group: 都城
   order: 1

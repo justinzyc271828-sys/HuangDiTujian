@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-wen-zong
   note: 文宗让位，即位于和林道中
+  note_en: "Emperor Wenzong yields the throne; he takes the throne en route at Helin"
 - type: successor
   target_id: yuan-wen-zong
   note: 暴崩后文宗复位
+  note_en: "After his sudden death, Emperor Wenzong is restored to the throne"
 routes:
 - group: 都城
   order: 1

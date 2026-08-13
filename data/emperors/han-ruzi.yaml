@@ -130,12 +130,15 @@ relations:
 - type: predecessor
   target_id: han-ping-di
   note: 平帝崩，立宣帝玄孙婴，莽居摄
+  note_en: "Emperor Ping dies; Ying, a great-great-grandson of Emperor Xuan, is installed, with Mang as acting regent"
 - type: successor
   target_id: xin-wang-mang
   note: 符命禅让，莽称帝，西汉亡
+  note_en: "Through omens and abdication, Wang Mang claims the emperorship; Western Han falls"
 - type: related_emperor
   target_id: e-han-guangwu
   note: 居摄禅代与光武中兴，汉祚两端的对照
+  note_en: "The Jushe usurpation and Guangwu's restoration: the two ends of the Han mandate in contrast"
 routes:
 - group: 都城
   order: 1

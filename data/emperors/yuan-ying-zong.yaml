@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-ren-zong
   note: 仁宗子，延祐七年即位（背约传子）
+  note_en: "Son of Renzong; takes the throne in the 7th year of Yanyou (breaking the pact to pass the throne to a son)"
 - type: successor
   target_id: yuan-tai-ding
   note: 至治三年南坡之变被弑，泰定帝即位
+  note_en: "Assassinated in the Nanpo Coup of the 3rd year of Zhizhi; Emperor Taiding takes the throne"
 routes:
 - group: 都城
   order: 1

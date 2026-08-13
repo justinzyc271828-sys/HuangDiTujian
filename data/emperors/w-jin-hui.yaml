@@ -206,12 +206,15 @@ relations:
 - type: predecessor
   target_id: w-jin-wu
   note: 太熙元年武帝崩，太子衷即位
+  note_en: "In the 1st year of Taixi Emperor Wu dies; the heir apparent Zhong takes the throne"
 - type: successor
   target_id: w-jin-huai
   note: 光熙元年崩，弟炽即位
+  note_en: "Dies in the 1st year of Guangxi; his brother Chi takes the throne"
 - type: kinship
   target_id: w-jin-wu
   note: 武帝子
+  note_en: "Emperor Wu's son"
 routes:
 - group: 都城
   order: 1

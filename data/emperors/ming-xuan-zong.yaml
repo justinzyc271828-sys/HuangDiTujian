@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-ren-zong
   note: 仁宗子，洪熙元年即位
+  note_en: "Son of Renzong; takes the throne in the 1st year of Hongxi"
 - type: successor
   target_id: ming-ying-zong-a
   note: 宣德十年崩，子祁镇即位
+  note_en: "Dies in the 10th year of Xuande; the son Qizhen takes the throne"
 routes:
 - group: 都城
   order: 1

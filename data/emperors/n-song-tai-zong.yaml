@@ -167,12 +167,15 @@ relations:
 - type: predecessor
   target_id: n-song-tai-zu
   note: 太祖弟，继位即帝，金匮之盟为争议层
+  note_en: "Younger brother of Taizu; succeeds to the throne, with the Golden Coffer Pact a disputed layer"
 - type: successor
   target_id: n-song-zhen
   note: 至道三年崩，第三子恒即位
+  note_en: "Dies in the 3rd year of Zhidao; his third son Heng takes the throne"
 - type: rival
   target_id: liao-sheng-zong
   note: 辽圣宗在位时宋辽交兵，高梁河、雍熙皆败
+  note_en: "During Emperor Shengzong of Liao's reign, Song and Liao go to war; Gaoliang River and Yongxi both end in defeat"
 routes:
 - group: 都城
   order: 1

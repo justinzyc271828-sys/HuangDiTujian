@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: liang-mo
   note: 同光元年亲征灭后梁
+  note_en: "In the first year of Tongguang, personally led the campaign that destroyed Later Liang"
 - type: successor
   target_id: tang-ming
   note: 兴教门之变崩，嗣源入洛即位
+  note_en: "Dies in the Xingjiaomen coup; Siyuan enters Luo and takes the throne"
 - type: related_emperor
   target_id: tang-ai-di
   note: 国号唐，自居李唐正统（非李唐宗室）
+  note_en: "Took Tang as the dynastic name and claimed the Li-Tang legitimate line (not of the Li-Tang imperial clan)"
 routes:
 - group: 都城
   order: 1

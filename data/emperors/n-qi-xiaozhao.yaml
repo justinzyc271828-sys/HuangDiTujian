@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: n-qi-fei
   note: 皇建元年废侄高殷自立
+  note_en: "Huangjian 1: deposes his nephew Gao Yin and sets himself up"
 - type: successor
   target_id: n-qi-wucheng
   note: 皇建二年伤重崩，传位弟湛
+  note_en: "Huangjian 2: dies of grave wounds; passes the throne to his brother Zhan"
 - type: kinship
   target_id: n-qi-wenxuan
   note: 文宣帝弟，高欢第六子
+  note_en: "Younger brother of Emperor Wenxuan; sixth son of Gao Huan"
 routes:
 - group: 都城
   order: 1

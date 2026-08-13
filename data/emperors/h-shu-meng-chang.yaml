@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: h-shu-meng-zhixiang
   note: 明德元年知祥崩，第三子昶即位
+  note_en: "In Mingde 1, Zhixiang dies and his third son Chang takes the throne"
 - type: successor
   target_id: n-song-tai-zu
   note: 乾德三年降宋，后蜀亡于宋太祖
+  note_en: "Surrenders to Song in the 3rd year of Qiande; Later Shu falls to Emperor Taizu of Song"
 - type: kinship
   target_id: h-shu-meng-zhixiang
   note: 知祥第三子
+  note_en: "Meng Zhixiang's third son"
 routes:
 - group: 都城
   order: 1

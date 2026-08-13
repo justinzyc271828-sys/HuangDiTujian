@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-gao-zong
   note: 高宗第十五子，嘉庆元年受内禅
+  note_en: "Fifteenth son of Emperor Gaozong, receives the throne by internal abdication in the 1st year of Jiaqing"
 - type: successor
   target_id: qing-xuan-zong
   note: 嘉庆二十五年崩于热河，次子旻宁即位
+  note_en: "Died at Rehe in the twenty-fifth year of Jiaqing; his second son Minning took the throne"
 routes:
 - group: 都城
   order: 1

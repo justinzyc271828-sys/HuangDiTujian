@@ -121,9 +121,11 @@ relations:
 - type: predecessor
   target_id: w-wei-wen
   note: 大统十七年文帝崩，子钦即位
+  note_en: "Emperor Wen died in the seventeenth year of Datong; his son Qin took the throne"
 - type: successor
   target_id: w-wei-gong
   note: 三年被废，宇文泰立齐王廓
+  note_en: "Deposed in the third year; Yuwen Tai enthrones Kuo, Prince of Qi"
 routes:
 - group: 都城
   order: 1

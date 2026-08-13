@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: liu-song-xiao
   note: 大明八年孝武崩，长子子业即位
+  note_en: "Emperor Xiaowu died in the eighth year of Daming; his eldest son Ziye took the throne"
 - type: successor
   target_id: liu-song-ming
   note: 景和元年被弑，湘东王彧即位
+  note_en: "Assassinated in Jinghe 1; Yu, Prince of Xiangdong, takes the throne"
 routes:
 - group: 都城
   order: 1

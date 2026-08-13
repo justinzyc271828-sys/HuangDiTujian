@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: tang-wu-zong
   note: 会昌六年武宗崩，宦官立宪宗第十三子忱
+  note_en: "In the 6th year of Huichang Wuzong dies; the eunuchs enthrone Chen, thirteenth son of Xianzong"
 - type: successor
   target_id: tang-yi-zong
   note: 大中十三年崩，长子漼即位
+  note_en: "Died in the thirteenth year of Dazhong; his eldest son Cui took the throne"
 - type: kinship
   target_id: tang-xian-zong
   note: 宪宗第十三子
+  note_en: "Thirteenth son of Xianzong"
 routes:
 - group: 都城
   order: 1

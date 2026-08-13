@@ -121,9 +121,11 @@ relations:
 - type: successor
   target_id: wu-yang-pu
   note: 卒后子渥、隆演相继（不在目录），武义二年溥即位
+  note_en: "After his death his sons Wo and Longyan succeed in turn (not in the compendium); in the 2nd year of Wuyi Pu takes the throne"
 - type: related_emperor
   target_id: liang-tai-zu
   note: 与后梁并世，杨吴为南方强国
+  note_en: "Contemporary with Later Liang; Yang Wu is a strong southern state"
 routes:
 - group: 都城
   order: 1

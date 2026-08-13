@@ -188,12 +188,15 @@ relations:
 - type: predecessor
   target_id: han-yuan-di
   note: 元帝崩，太子骜即位
+  note_en: "Emperor Yuan dies; Crown Prince Ao takes the throne"
 - type: successor
   target_id: han-ai-di
   note: 成帝无嗣暴崩，定陶王欣入继
+  note_en: "Emperor Cheng dies suddenly without an heir; Xin, Prince of Dingtao, succeeds from a cadet branch"
 - type: related_emperor
   target_id: xin-wang-mang
   note: 王氏外戚势成，直接通向王莽代汉
+  note_en: "The Wang consort clan's power takes shape — the direct road to Wang Mang supplanting Han"
 routes:
 - group: 都城
   order: 1

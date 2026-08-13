@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: tang-yi-zong
   note: 咸通十四年懿宗崩，第五子儇即位
+  note_en: "Emperor Yizong died in the fourteenth year of Xiantong; his fifth son Xuan took the throne"
 - type: successor
   target_id: tang-zhao-zong
   note: 文德元年崩，第七子晔即位
+  note_en: "Dies in Wende 1; his seventh son Ye takes the throne"
 - type: kinship
   target_id: tang-yi-zong
   note: 懿宗第五子
+  note_en: "Fifth son of Emperor Yizong"
 routes:
 - group: 都城
   order: 1

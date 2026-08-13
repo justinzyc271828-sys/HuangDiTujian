@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: tang-mo
   note: 清泰三年联契丹灭后唐
+  note_en: "Qingtai 3: joins the Khitan to destroy Later Tang"
 - type: successor
   target_id: jin-chu
   note: 天福七年崩，侄重贵即位
+  note_en: "Died in the seventh year of Tianfu; his nephew Chonggui took the throne"
 - type: related_emperor
   target_id: liao-tai-zu
   note: 认契丹主为父，割燕云十六州
+  note_en: "Acknowledges the Khitan ruler as his father and cedes the Sixteen Prefectures of Yan and Yun"
 routes:
 - group: 都城
   order: 1

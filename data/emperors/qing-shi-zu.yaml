@@ -131,12 +131,15 @@ relations:
 - type: predecessor
   target_id: qing-tai-zong
   note: 太宗第九子，崇德八年即位，多尔衮辅政
+  note_en: "Ninth son of Taizong; takes the throne in the 8th year of Chongde, with Dorgon as regent"
 - type: successor
   target_id: qing-sheng-zu
   note: 顺治十八年崩，第三子玄烨即位
+  note_en: "Dies in the 18th year of Shunzhi; his third son Xuanye takes the throne"
 - type: rival
   target_id: ming-si-zong
   note: 顺治元年清入关，明亡；思宗甲申自缢（亡国链）
+  note_en: "In the 1st year of Shunzhi, Qing enters the passes and Ming falls; Emperor Sizong hangs himself in the jiashen year (fall-of-dynasty chain)"
 routes:
 - group: 都城
   order: 1

@@ -182,12 +182,15 @@ relations:
 - type: predecessor
   target_id: han-xuan-di
   note: 宣帝崩，太子奭即位
+  note_en: "Emperor Xuan dies; the heir apparent Shi takes the throne"
 - type: successor
   target_id: han-cheng-di
   note: 元帝崩，太子骜即位
+  note_en: "Emperor Yuan dies; Crown Prince Ao takes the throne"
 - type: related_emperor
   target_id: han-wu-di
   note: 武帝开边与元帝守文转衰，长线对照
+  note_en: "Long-range narrative foil: Emperor Wu of Han's frontier expansion against Emperor Yuan's civil-minded rule and the slide into decline"
 routes:
 - group: 都城
   order: 1

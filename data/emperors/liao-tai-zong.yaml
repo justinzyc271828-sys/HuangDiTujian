@@ -133,12 +133,15 @@ relations:
 - type: predecessor
   target_id: liao-tai-zu
   note: 太祖次子，述律太后定策即位
+  note_en: "Second son of Taizu; enthroned by the decision of Empress Dowager Shulü"
 - type: successor
   target_id: liao-shi-zong
   note: 大同元年北返崩于栾城，侄阮即位
+  note_en: "In the first year of Datong, died at Luancheng on the way back north; his nephew Ruan took the throne"
 - type: rival
   target_id: jin-tai-zong
   note: 与后晋石重贵交战，灭之（后世金朝亦名太宗，勿混）
+  note_en: "Fights Shi Chonggui of Later Jin and destroys him (the later Jin dynasty also has a Taizong; do not confuse them)"
 routes:
 - group: 都城
   order: 1

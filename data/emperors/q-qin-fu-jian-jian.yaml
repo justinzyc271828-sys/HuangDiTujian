@@ -123,6 +123,7 @@ relations:
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 苻坚（侄）杀苻生后为前秦雄主，淝水败亡
+  note_en: "Fu Jian (his nephew) kills Fu Sheng and becomes the great ruler of Former Qin, then falls after the defeat at Fei River"
 routes:
 - group: 都城
   order: 1

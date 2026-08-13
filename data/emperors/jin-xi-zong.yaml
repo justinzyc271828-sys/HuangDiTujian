@@ -133,12 +133,15 @@ relations:
 - type: predecessor
   target_id: jin-tai-zong
   note: 太祖孙，天会十三年即位
+  note_en: "Grandson of Taizu; takes the throne in the 13th year of Tianhui"
 - type: successor
   target_id: jin-hailiing
   note: 皇统九年被完颜亮弑，亮自立（弑篡）
+  note_en: "Huangtong 9: assassinated by Wanyan Liang, who sets himself up (regicidal usurpation)"
 - type: treaty
   target_id: s-song-gao
   note: 皇统元年绍兴和议，宋称臣划淮
+  note_en: "Huangtong 1: the Shaoxing peace settlement — Song accepts vassal status and the border is drawn at the Huai"
 routes:
 - group: 都城
   order: 1

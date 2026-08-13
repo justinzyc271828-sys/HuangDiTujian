@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: tang-xuan-zong-ii
   note: 大中十三年宣宗崩，长子漼即位
+  note_en: "Emperor Xuanzong died in the thirteenth year of Dazhong; his eldest son Cui took the throne"
 - type: successor
   target_id: tang-xi-zong
   note: 咸通十四年崩，第五子儇即位
+  note_en: "Died in the fourteenth year of Xiantong; his fifth son Xuan took the throne"
 - type: kinship
   target_id: tang-xuan-zong-ii
   note: 宣宗长子
+  note_en: "Eldest son of Xuanzong"
 routes:
 - group: 都城
   order: 1

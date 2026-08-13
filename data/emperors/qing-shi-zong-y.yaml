@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-sheng-zu
   note: 圣祖第四子，康熙六十一年即位
+  note_en: "Emperor Shengzu's fourth son; took the throne in the sixty-first year of Kangxi"
 - type: successor
   target_id: qing-gao-zong
   note: 雍正十三年崩，第四子弘历即位
+  note_en: "Dies in the 13th year of Yongzheng; his fourth son Hongli takes the throne"
 routes:
 - group: 都城
   order: 1

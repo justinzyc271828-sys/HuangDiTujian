@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: tang-jing-zong
   note: 宝历二年敬宗被弑，宦官立江王涵
+  note_en: "In the 2nd year of Baoli Jingzong is assassinated; eunuchs enthrone Prince Han of Jiang"
 - type: successor
   target_id: tang-wu-zong
   note: 开成五年崩，宦官立穆宗第五子炎
+  note_en: "Dies in Kaicheng 5; the eunuchs enthrone Yan, fifth son of Emperor Muzong"
 - type: kinship
   target_id: tang-mu-zong
   note: 穆宗第二子
+  note_en: "Second son of Emperor Muzong"
 routes:
 - group: 都城
   order: 1

@@ -124,9 +124,11 @@ relations:
 - type: successor
   target_id: h-qin-yao-xing
   note: 建初八年崩，子兴继位
+  note_en: "Dies in Jianchu 8; his son Xing succeeds to the throne"
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 弑前秦苻坚，开两秦仇杀之局
+  note_en: "Slays Fu Jian of Former Qin, opening the blood feud between the two Qins"
 routes:
 - group: 都城
   order: 1

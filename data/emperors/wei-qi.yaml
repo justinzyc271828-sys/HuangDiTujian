@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: wei-ming
   note: 景初三年明帝崩，养子芳即位
+  note_en: "In Jingchu 3, Emperor Ming dies and his adopted son Fang takes the throne"
 - type: successor
   target_id: wei-gaogui
   note: 嘉平六年被废，立高贵乡公
+  note_en: "Deposed in the sixth year of Jiaping; the Duke of Gaoguixiang was enthroned"
 - type: kinship
   target_id: wei-ming
   note: 明帝养子
+  note_en: "Adopted son of Emperor Ming"
 routes:
 - group: 都城
   order: 1

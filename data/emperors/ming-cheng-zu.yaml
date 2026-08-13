@@ -145,9 +145,11 @@ relations:
 - type: predecessor
   target_id: ming-hui-di
   note: 建文四年靖难入南京，夺位称帝
+  note_en: "In Jianwen 4, enters Nanjing in the Jingnan Campaign, seizes the throne, and proclaims himself emperor"
 - type: successor
   target_id: ming-ren-zong
   note: 永乐二十二年崩于榆木川，子高炽即位
+  note_en: "Yongle 22: dies at Yumuchuan; his son Gaochi takes the throne"
 routes:
 - group: 亲征
   order: 1

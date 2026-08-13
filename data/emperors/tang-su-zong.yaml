@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: tang-xuan-zong
   note: 至德元载灵武即位，遥尊玄宗为太上皇
+  note_en: "Takes the throne at Lingwu in the 1st year of Zhide, honoring Emperor Xuanzong from afar as Retired Emperor"
 - type: successor
   target_id: tang-dai-zong
   note: 宝应元年崩，太子豫即位
+  note_en: "Dies in the 1st year of Baoying; the heir apparent Yu takes the throne"
 - type: kinship
   target_id: tang-xuan-zong
   note: 玄宗第三子
+  note_en: "Emperor Xuanzong's third son"
 routes:
 - group: 都城
   order: 1

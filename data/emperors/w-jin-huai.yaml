@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: w-jin-hui
   note: 光熙元年惠帝崩，弟炽即位
+  note_en: "In the 1st year of Guangxi Emperor Hui dies; his brother Chi takes the throne"
 - type: successor
   target_id: w-jin-min
   note: 平阳遇害后，愍帝即位于长安
+  note_en: "After the killing at Pingyang, Emperor Min takes the throne at Chang'an"
 - type: kinship
   target_id: w-jin-wu
   note: 武帝第二十五子
+  note_en: "Emperor Wu's twenty-fifth son"
 routes:
 - group: 都城
   order: 1

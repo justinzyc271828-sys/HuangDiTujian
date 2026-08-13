@@ -130,12 +130,15 @@ relations:
 - type: predecessor
   target_id: tang-xi-zong
   note: 文德元年僖宗崩，第七子晔即位
+  note_en: "In Wende 1, Emperor Xizong dies and his seventh son Ye takes the throne"
 - type: successor
   target_id: tang-ai-di
   note: 天祐元年被弑，朱全忠立辉王祚
+  note_en: "Assassinated in the first year of Tianyou; Zhu Quanzhong enthroned Zuo, Prince of Hui"
 - type: kinship
   target_id: tang-yi-zong
   note: 懿宗第七子
+  note_en: "Seventh son of Emperor Yizong"
 routes:
 - group: 都城
   order: 1

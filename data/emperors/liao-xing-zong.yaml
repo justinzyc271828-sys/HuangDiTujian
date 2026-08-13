@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: liao-sheng-zong
   note: 圣宗长子，太平十一年即位
+  note_en: "Emperor Shengzong's eldest son; took the throne in the eleventh year of Taiping"
 - type: successor
   target_id: liao-dao-zong
   note: 重熙二十四年崩，长子洪基即位
+  note_en: "Dies in the 24th year of Chongxi; his eldest son Hongji takes the throne"
 routes:
 - group: 都城
   order: 1

@@ -120,6 +120,7 @@ relations:
 - type: related_emperor
   target_id: liang-tai-zu
   note: 受后梁封楚王
+  note_en: "Enfeoffed as Prince of Chu by Later Liang"
 routes:
 - group: 都城
   order: 1

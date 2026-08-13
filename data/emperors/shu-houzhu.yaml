@@ -206,9 +206,11 @@ relations:
 - type: predecessor
   target_id: shu-zhaolie
   note: 章武三年先主崩，太子禅即位
+  note_en: "In the 3rd year of Zhangwu, the First Sovereign dies; Crown Prince Shan takes the throne"
 - type: related_emperor
   target_id: wei-yuan
   note: 景耀六年降魏，受封安乐公
+  note_en: "In Jingyao 6, surrenders to Cao Wei and is enfeoffed as Duke of Anle"
 routes:
 - group: 都城
   order: 1

@@ -195,9 +195,11 @@ relations:
 - type: predecessor
   target_id: e-han-zhi
   note: 质帝被鸩，梁冀迎立桓帝
+  note_en: "Emperor Zhi is poisoned; Liang Ji welcomes and enthrones Emperor Huan"
 - type: successor
   target_id: e-han-ling
   note: 桓帝崩无嗣，窦武迎立灵帝
+  note_en: "Emperor Huan dies without an heir; Dou Wu brings in and enthrones Emperor Ling"
 routes:
 - group: 都城
   order: 1

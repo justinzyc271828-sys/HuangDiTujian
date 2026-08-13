@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-dai-zong
   note: 景泰八年夺门复位
+  note_en: "In Jingtai 8, regains the throne through the Gate-Seizing Coup"
 - type: successor
   target_id: ming-xian-zong
   note: 天顺八年崩，子见深即位
+  note_en: "Died in the eighth year of Tianshun; his son Jianshen took the throne"
 routes:
 - group: 都城
   order: 1

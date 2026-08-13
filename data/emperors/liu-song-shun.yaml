@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: liu-song-houfei
   note: 后废帝被弑，立安成王准
+  note_en: "The Later Deposed Emperor was assassinated; Zhun, Prince of Ancheng, was enthroned"
 - type: successor
   target_id: qi-gao
   note: 升明三年禅位于萧道成，宋亡
+  note_en: "In the 3rd year of Shengming he abdicates to Xiao Daocheng; Song falls"
 routes:
 - group: 都城
   order: 1

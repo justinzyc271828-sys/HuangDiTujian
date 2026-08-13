@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: han-zhao-di
   note: 昭帝崩无嗣，霍光迎贺继统
+  note_en: "Emperor Zhao dies without an heir; Huo Guang welcomes He to continue the line"
 - type: successor
   target_id: han-xuan-di
   note: 贺被废后，霍光迎立宣帝
+  note_en: "After Liu He is deposed, Huo Guang welcomes and enthrones Emperor Xuan"
 - type: related_emperor
   target_id: han-wu-di
   note: 武帝曾孙，因废立而显名于史
+  note_en: "Emperor Wu's great-grandson, made famous in the histories by the deposition-and-enthronement affair"
 routes:
 - group: 都城
   order: 1

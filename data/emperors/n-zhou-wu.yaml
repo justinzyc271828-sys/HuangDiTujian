@@ -127,15 +127,19 @@ relations:
 - type: predecessor
   target_id: n-zhou-ming
   note: 武成二年明帝被鸩，遗诏弟邕即位
+  note_en: "Wucheng 2: Emperor Ming is poisoned; his dying edict has his brother Yong take the throne"
 - type: successor
   target_id: n-zhou-xuan
   note: 宣政元年崩，子赟即位
+  note_en: "Dies in the 1st year of Xuanzheng; the son Yun takes the throne"
 - type: related_emperor
   target_id: n-qi-houzhu
   note: 建德六年灭北齐，俘后主
+  note_en: "In Jiande 6, destroys Northern Qi and captures its last ruler"
 - type: related_emperor
   target_id: chen-houzhu
   note: 与陈对峙，北周全盛
+  note_en: "Faces Chen in a standoff; Northern Zhou at its height"
 routes:
 - group: 都城
   order: 1

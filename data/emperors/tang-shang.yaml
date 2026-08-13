@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: tang-zhong-zong-b
   note: 景龙四年中宗暴崩，韦后立温王重茂
+  note_en: "In Jinglong 4, Emperor Zhongzong dies suddenly; Empress Wei enthrones Chongmao, Prince of Wen"
 - type: successor
   target_id: tang-rui-zong-b
   note: 唐隆政变后让位睿宗
+  note_en: "After the Tanglong coup, yielded the throne to Emperor Ruizong"
 - type: kinship
   target_id: tang-zhong-zong-b
   note: 中宗第四子
+  note_en: "Fourth son of Zhongzong"
 routes:
 - group: 都城
   order: 1

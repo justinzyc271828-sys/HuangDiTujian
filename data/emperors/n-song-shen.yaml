@@ -148,12 +148,15 @@ relations:
 - type: predecessor
   target_id: n-song-ying
   note: 英宗长子，治平四年即位
+  note_en: "Eldest son of Emperor Yingzong, takes the throne in the 4th year of Zhiping"
 - type: successor
   target_id: n-song-zhe
   note: 元丰八年崩，第六子煦即位
+  note_en: "Dies in the 8th year of Yuanfeng; his sixth son Xu takes the throne"
 - type: rival
   target_id: xixia-li-yuanhao
   note: 元丰中五路伐夏，灵州、永乐之役丧师
+  note_en: "In the Yuanfeng years five armies march against Xia; the hosts are lost at Lingzhou and Yongle"
 routes:
 - group: 都城
   order: 1

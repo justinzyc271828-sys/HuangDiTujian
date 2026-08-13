@@ -135,12 +135,15 @@ relations:
 - type: predecessor
   target_id: n-song-hui
   note: 徽宗长子，宣和七年受内禅
+  note_en: "Eldest son of Emperor Huizong; receives the throne by his father's abdication in Xuanhe 7"
 - type: successor
   target_id: s-song-gao
   note: 靖康二年金俘二帝北去，弟康王构即位于南京（兄弟相继，非禅让），北宋亡
+  note_en: "In the 2nd year of Jingkang, Jin carries both emperors off captive to the north; his younger brother Gou, Prince of Kang, takes the throne at Nanjing (a brother succeeding a brother, not an abdication), and Northern Song falls"
 - type: kinship
   target_id: n-song-hui
   note: 徽宗长子
+  note_en: "Eldest son of Emperor Huizong"
 routes:
 - group: 都城
   order: 1

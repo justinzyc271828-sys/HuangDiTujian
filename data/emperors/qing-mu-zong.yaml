@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-wen-zong
   note: 文宗独子，咸丰十一年即位，两宫垂帘
+  note_en: "Only son of Emperor Wenzong; takes the throne in Xianfeng 11, with the two empresses dowager ruling from behind the curtain"
 - type: successor
   target_id: qing-de-zong
   note: 同治十三年崩，无子，醇亲王之子载湉即位（光绪）
+  note_en: "Died in the thirteenth year of Tongzhi without a son; Zaitian, son of Prince Chun, took the throne (Guangxu)"
 routes:
 - group: 都城
   order: 1

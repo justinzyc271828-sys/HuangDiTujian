@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: n-wei-jemin
   note: 普泰二年节闵被废，高欢立平阳王修
+  note_en: "In Putai 2, Emperor Jiemin is deposed; Gao Huan enthrones Xiu, Prince of Pingyang"
 - type: successor
   target_id: e-wei-xiaojing
   note: 西奔后遇鸩，高欢另立孝静于邺
+  note_en: "After fleeing west he is poisoned; Gao Huan enthrones Emperor Xiaojing at Ye"
 - type: related_emperor
   target_id: w-wei-wen
   note: 西奔后西魏另立元宝炬于长安
+  note_en: "After he flees west, Western Wei enthrones Yuan Baoju at Chang'an"
 routes:
 - group: 都城
   order: 1

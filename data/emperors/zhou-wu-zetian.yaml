@@ -223,18 +223,23 @@ relations:
 - type: related_emperor
   target_id: tang-tai-zong
   note: 贞观十一年入宫为太宗才人
+  note_en: "Enters the palace in the 11th year of Zhenguan as a cairen (Talented Lady) of Emperor Taizong"
 - type: kinship
   target_id: tang-gao-zong
   note: 夫唐高宗，二圣临朝
+  note_en: "Wife of Emperor Gaozong of Tang; the Two Sages hold court together"
 - type: predecessor
   target_id: tang-rui-zong-a
   note: 载初元年革唐命建周，睿宗降为皇嗣
+  note_en: "In the 1st year of Zaichu, she overturns the Tang mandate and founds Zhou; Emperor Ruizong is demoted to Imperial Heir"
 - type: successor
   target_id: tang-zhong-zong-b
   note: 神龙元年政变退位，中宗复位
+  note_en: "Forced to abdicate in the coup of the 1st year of Shenlong; Emperor Zhongzong is restored"
 - type: related_emperor
   target_id: tang-xian-zong
   note: 武周之后李唐重建至宪宗中兴的长线对照
+  note_en: "Long-range narrative foil: from the Li-Tang restoration after Wu Zhou to Emperor Xianzong's revival"
 routes:
 - group: 都城
   order: 1

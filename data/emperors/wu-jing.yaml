@@ -133,12 +133,15 @@ relations:
 - type: predecessor
   target_id: wu-kuaiji
   note: 太平三年废孙亮，迎立琅琊王休
+  note_en: "In the 3rd year of Taiping he deposes Sun Liang and installs Prince Xiu of Langya"
 - type: successor
   target_id: wu-wucheng
   note: 永安六年崩，迎立乌程侯皓
+  note_en: "Yong'an 6: dies; Hao, Marquis of Wucheng, is welcomed and enthroned"
 - type: kinship
   target_id: wu-da
   note: 孙权第六子
+  note_en: "Sixth son of Sun Quan"
 routes:
 - group: 都城
   order: 1

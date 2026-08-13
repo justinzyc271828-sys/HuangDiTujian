@@ -121,6 +121,7 @@ relations:
 - type: related_emperor
   target_id: liang-tai-zu
   note: 受后梁封荆南节度使
+  note_en: "Appointed military commissioner of Jingnan by Later Liang"
 routes:
 - group: 都城
   order: 1

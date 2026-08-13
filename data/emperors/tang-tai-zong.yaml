@@ -198,15 +198,19 @@ relations:
 - type: related_emperor
   target_id: han-wu-di
   note: 极盛之君的对照阅读
+  note_en: "A comparative reading of rulers at their dynasties' zenith"
 - type: related_emperor
   target_id: qin-shi-huang
   note: 统一帝国传统下的不同治理路径
+  note_en: "Different governance paths within the unified-empire tradition"
 - type: predecessor
   target_id: tang-gao-zu
   note: 高祖次子，玄武门之变后受禅即位
+  note_en: "Second son of Emperor Gaozu, receives the abdication and takes the throne after the Xuanwu Gate Incident"
 - type: successor
   target_id: tang-gao-zong
   note: 太子治即位，是为高宗
+  note_en: "The heir apparent Zhi takes the throne; he is Emperor Gaozong"
 routes:
 - group: 其他
   order: 1

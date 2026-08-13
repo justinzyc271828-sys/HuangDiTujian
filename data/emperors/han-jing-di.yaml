@@ -195,12 +195,15 @@ relations:
 - type: predecessor
   target_id: han-wen-di
   note: 文帝后七年崩，太子启即位
+  note_en: "Dies in the seventh year of Emperor Wen's latter reign; Crown Prince Qi takes the throne"
 - type: successor
   target_id: han-wu-di
   note: 景帝崩，太子彻即位
+  note_en: "Emperor Jing dies; Crown Prince Che takes the throne"
 - type: related_emperor
   target_id: han-gao-zu
   note: 开国定天下与削藩固本，两朝对照
+  note_en: "Founding and pacifying the realm versus cutting the vassals to secure the root: a comparison across two reigns"
 routes:
 - group: 都城
   order: 1

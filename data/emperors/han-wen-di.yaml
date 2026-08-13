@@ -177,15 +177,19 @@ relations:
 - type: predecessor
   target_id: han-hou-shao
   note: 诸吕既诛，后少帝被废，代王迎立
+  note_en: "With the Lü clan destroyed, the Later Shaodi is deposed and the Prince of Dai is welcomed to the throne"
 - type: successor
   target_id: han-jing-di
   note: 后七年崩，太子启即位
+  note_en: "Died seven years later; Crown Prince Qi took the throne"
 - type: kinship
   target_id: han-gao-zu
   note: 高祖第四子
+  note_en: "Fourth son of Emperor Gaozu"
 - type: related_emperor
   target_id: han-wu-di
   note: 与武帝礼制、治国路径长线对照
+  note_en: "A long-range foil to Emperor Wu in ritual institutions and paths of governance"
 routes:
 - group: 都城
   order: 1

@@ -120,9 +120,11 @@ relations:
 - type: predecessor
   target_id: qi-yulin
   note: 郁林废，立海陵王昭文
+  note_en: "The Prince of Yulin is deposed; Zhaowen, Prince of Hailing, is enthroned"
 - type: successor
   target_id: qi-ming
   note: 建武元年被废，萧鸾自立
+  note_en: "In Jianwu 1, is deposed; Xiao Luan proclaims himself emperor"
 routes:
 - group: 都城
   order: 1

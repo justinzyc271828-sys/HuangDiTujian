@@ -203,15 +203,19 @@ relations:
 - type: predecessor
   target_id: n-wei-mingyuan
   note: 父明元帝崩，太子焘即位
+  note_en: "His father Emperor Mingyuan dies; Crown Prince Tao takes the throne"
 - type: kinship
   target_id: n-wei-xiaowen
   note: 后辈孝文帝，汉化后续
+  note_en: "A junior counterpart of Emperor Xiaowen; the continuation of the Sinicization"
 - type: successor
   target_id: n-wei-wencheng
   note: 中常侍宗爱弑帝，南安王余立旋废，孙濬即位，是为文成帝
+  note_en: "The palace eunuch Zong Ai assassinates the emperor; Yu, Prince of Nan'an, is enthroned and soon deposed; the grandson Jun takes the throne, becoming Emperor Wencheng"
 - type: rival
   target_id: liu-song-wen
   note: 南征刘宋至瓜步，与宋文帝隔江对峙
+  note_en: "Marched south against Liu Song as far as Guabu, facing Emperor Wen of Liu Song across the river"
 routes:
 - group: 都城
   order: 1

@@ -132,9 +132,11 @@ relations:
 - type: predecessor
   target_id: yuan-wu-zong
   note: 武宗弟，至大四年即位（兄终弟及之约）
+  note_en: "Emperor Wuzong's younger brother; Zhida 4: takes the throne (the brother-to-brother succession pact)"
 - type: successor
   target_id: yuan-ying-zong
   note: 延祐七年崩，子硕德八剌即位（背约传子）
+  note_en: "Dies in the 7th year of Yanyou; the son Shidebala takes the throne (breaking the pact to pass to a son)"
 routes:
 - group: 都城
   order: 1

@@ -181,12 +181,15 @@ relations:
 - type: predecessor
   target_id: han-cheng-di
   note: 成帝立定陶王欣为太子，崩后继位
+  note_en: "Emperor Cheng names Xin, Prince of Dingtao, as crown prince; after the emperor's death he succeeds"
 - type: successor
   target_id: han-ping-di
   note: 哀帝无子，中山王箕子入继
+  note_en: "Emperor Ai had no son; Jizi, Prince of Zhongshan, succeeded from a cadet branch"
 - type: related_emperor
   target_id: xin-wang-mang
   note: 哀帝朝莽一度退居，帝崩后复起
+  note_en: "Under Emperor Ai, Mang once withdrew from court; after the emperor's death he rose again"
 routes:
 - group: 都城
   order: 1

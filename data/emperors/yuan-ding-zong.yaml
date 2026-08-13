@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-tai-zong
   note: 太宗长子，乃马真后摄政四年后即位
+  note_en: "Eldest son of Taizong; takes the throne after Empress Töregene's four-year regency"
 - type: successor
   target_id: yuan-xian-zong
   note: 崩后汗位空虚三年，1251年蒙哥即位
+  note_en: "After his death the khanship stands vacant for three years; in 1251 Möngke takes the throne"
 routes:
 - group: 都城
   order: 1

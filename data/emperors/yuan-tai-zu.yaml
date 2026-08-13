@@ -134,9 +134,11 @@ relations:
 - type: successor
   target_id: yuan-tai-zong
   note: 二十二年崩于六盘山，拖雷监国二年后，1229年窝阔台即位于忽里台（拖雷不在目录）
+  note_en: "Dies at Mount Liupan in the 22nd year; after Tolui serves as regent for two years, Ogedei takes the throne at the kurultai in 1229 (Tolui not in the compendium)"
 - type: rival
   target_id: jin-wei-shao
   note: 大安三年攻金，野狐岭之役大败金军
+  note_en: "In the third year of Da'an, attacked the Jin; at the Battle of Yehuling, crushed the Jin army"
 routes:
 - group: 亲征
   order: 1

@@ -196,12 +196,15 @@ relations:
 - type: predecessor
   target_id: han-wu-di
   note: 武帝末立少子为太子，遗诏霍光辅政
+  note_en: "In his last years Emperor Wu names his young son crown prince, charging Huo Guang by deathbed edict to assist in government"
 - type: successor
   target_id: han-changyi
   note: 昭帝无嗣，昌邑王贺继统二十七日被废
+  note_en: "Emperor Zhao leaves no heir; He, Prince of Changyi, continues the line for twenty-seven days before being deposed"
 - type: related_emperor
   target_id: han-xuan-di
   note: 霍光之政延及宣帝，合称昭宣之治
+  note_en: "Huo Guang's governance extends into Emperor Xuan's reign; together they are called the Rule of Zhao and Xuan"
 routes:
 - group: 都城
   order: 1

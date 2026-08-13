@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-mu-zong
   note: 穆宗堂弟（醇亲王之子），同治十三年即位，慈禧垂帘
+  note_en: "Cousin of Emperor Muzong (son of Prince Chun), takes the throne in the 13th year of Tongzhi, with Cixi ruling from behind the curtain"
 - type: successor
   target_id: qing-xuan-tong
   note: 光绪三十四年崩，无子，载沣之子溥仪即位（宣统）
+  note_en: "Dies in the 34th year of Guangxu without a son; Puyi, son of Zaifeng, takes the throne (Xuantong)"
 routes:
 - group: 都城
   order: 1

@@ -124,9 +124,11 @@ relations:
 - type: predecessor
   target_id: q-yan-murong-huang
   note: 永和四年嗣燕王
+  note_en: "Yonghe 4: succeeds as Prince of Yan"
 - type: related_emperor
   target_id: e-jin-mu
   note: 与东晋并世，据中原称帝
+  note_en: "Contemporary with Eastern Jin, holding the Central Plain as emperor"
 routes:
 - group: 都城
   order: 1

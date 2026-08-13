@@ -207,15 +207,19 @@ relations:
 - type: predecessor
   target_id: null
   note: 受北周静帝禅让建隋（页待建）
+  note_en: "Received the abdication of Emperor Jing of Northern Zhou and founded the Sui (page to be built)"
 - type: successor
   target_id: sui-yang
   note: 次子杨广继位，即隋炀帝
+  note_en: "His second son Yang Guang succeeds him, becoming Emperor Yang of Sui"
 - type: rival
   target_id: null
   note: 开皇九年灭陈（陈后主），南北混一（页待建）
+  note_en: "In Kaihuang 9, destroys Chen (its last ruler) and unites north and south (page pending)"
 - type: related_emperor
   target_id: qin-shi-huang
   note: 长期分裂后混一、却二世而危的长线对照
+  note_en: "A long-range foil: unified after long division, yet imperiled in the second generation"
 routes:
 - group: 都城
   order: 1

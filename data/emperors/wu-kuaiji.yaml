@@ -128,12 +128,15 @@ relations:
 - type: predecessor
   target_id: wu-da
   note: 太元二年权崩，少子亮即位
+  note_en: "Quan died in the second year of Taiyuan; his youngest son Liang took the throne"
 - type: successor
   target_id: wu-jing
   note: 太平三年被废，立琅琊王休
+  note_en: "Deposed in the 3rd year of Taiping; Prince Xiu of Langya is enthroned"
 - type: kinship
   target_id: wu-da
   note: 孙权少子
+  note_en: "Youngest son of Sun Quan"
 routes:
 - group: 都城
   order: 1

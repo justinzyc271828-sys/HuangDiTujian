@@ -128,12 +128,15 @@ relations:
 - type: predecessor
   target_id: n-wei-xuanwu
   note: 延昌四年宣武崩，子诩即位
+  note_en: "In the 4th year of Yanchang Emperor Xuanwu dies; the son Xu takes the throne"
 - type: successor
   target_id: n-wei-xiaozhuang
   note: 武泰元年暴崩，尔朱荣立子攸
+  note_en: "Wutai 1: dies suddenly; Erzhu Rong enthrones Ziyou"
 - type: kinship
   target_id: n-wei-xuanwu
   note: 宣武帝第二子
+  note_en: "Second son of Emperor Xuanwu"
 routes:
 - group: 都城
   order: 1

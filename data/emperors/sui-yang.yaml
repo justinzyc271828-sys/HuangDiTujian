@@ -211,12 +211,15 @@ relations:
 - type: predecessor
   target_id: sui-wen
   note: 父隋文帝，开皇二十年立广为太子，仁寿四年继位
+  note_en: "His father Emperor Wen of Sui; Kaihuang 20: Guang is made crown prince; Renshou 4: he succeeds"
 - type: successor
   target_id: sui-gong
   note: 江都之难后，李渊入长安立代王侑，是为隋恭帝
+  note_en: "After the Jiangdu catastrophe, Li Yuan enters Chang'an and enthrones You, Prince of Dai — this is Emperor Gong of Sui"
 - type: related_emperor
   target_id: tang-tai-zong
   note: 后效承接，唐承隋制的长线对照
+  note_en: "A successor by institutional emulation; a long-range narrative parallel to the Tang inheriting the Sui system"
 routes:
 - group: 亲征
   order: 1

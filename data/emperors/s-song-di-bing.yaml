@@ -133,12 +133,15 @@ relations:
 - type: predecessor
   target_id: s-song-duan
   note: 端宗弟，景炎三年硇洲即位
+  note_en: "Younger brother of Emperor Duanzong, takes the throne at Naozhou in the 3rd year of Jingyan"
 - type: successor
   target_id: yuan-shi-zu
   note: 祥兴二年崖山之战宋亡，陆秀夫负帝蹈海（亡国链）
+  note_en: "In the 2nd year of Xiangxing, Song falls at the Battle of Yashan; Lu Xiufu carries the emperor on his back and plunges into the sea (fall-of-dynasty chain)"
 - type: kinship
   target_id: s-song-duan
   note: 端宗弟，卫王
+  note_en: "Younger brother of Emperor Duanzong; Prince of Wei"
 routes:
 - group: 都城
   order: 1

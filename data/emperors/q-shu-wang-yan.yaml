@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: q-shu-wang-jian
   note: 光天元年王建崩，幼子衍即位
+  note_en: "In the 1st year of Guangtian Wang Jian dies; his young son Yan takes the throne"
 - type: successor
   target_id: tang-zhuang
   note: 咸康元年降唐，前蜀亡于后唐庄宗
+  note_en: "Surrendered to Tang in the first year of Xiankang; Former Shu fell to Emperor Zhuangzong of Later Tang"
 - type: kinship
   target_id: q-shu-wang-jian
   note: 建幼子
+  note_en: "Youngest son of Jian"
 routes:
 - group: 都城
   order: 1

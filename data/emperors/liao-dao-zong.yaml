@@ -134,9 +134,11 @@ relations:
 - type: predecessor
   target_id: liao-xing-zong
   note: 兴宗长子，重熙二十四年即位
+  note_en: "Eldest son of Xingzong; takes the throne in the 24th year of Chongxi"
 - type: successor
   target_id: liao-tianzuo
   note: 寿昌七年崩，孙延禧即位
+  note_en: "Dies in the 7th year of Shouchang; the grandson Yanxi takes the throne"
 routes:
 - group: 都城
   order: 1

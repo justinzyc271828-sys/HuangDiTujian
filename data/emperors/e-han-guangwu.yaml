@@ -200,18 +200,23 @@ relations:
 - type: rival
   target_id: xin-wang-mang
   note: 新末对手，昆阳大破新军主力
+  note_en: "Rival at the end of Xin; shatters the main Xin army at Kunyang"
 - type: predecessor
   target_id: null
   note: 更始帝刘玄（玄汉，未入图鉴）
+  note_en: "Emperor Gengshi, Liu Xuan (Xuan Han, not in the compendium)"
 - type: successor
   target_id: e-han-ming
   note: 太子庄即位，是为明帝，永平之治
+  note_en: "Crown Prince Zhuang took the throne, becoming Emperor Ming; the good rule of the Yongping era"
 - type: related_emperor
   target_id: han-gao-zu
   note: 开国与中兴，国号续汉的长线对照
+  note_en: "Founding and restoration: a long-range foil of two regimes that continued the Han name"
 - type: related_emperor
   target_id: han-wu-di
   note: 封禅与帝国礼仪的中兴对极盛对照
+  note_en: "Feng-shan rites and imperial ceremony: the restoration set against the high zenith"
 routes:
 - group: 亲征
   order: 1

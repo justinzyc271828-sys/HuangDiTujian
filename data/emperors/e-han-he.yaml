@@ -193,12 +193,15 @@ relations:
 - type: predecessor
   target_id: e-han-zhang
   note: 章帝崩，太子肇即位
+  note_en: "Emperor Zhang dies; Crown Prince Zhao takes the throne"
 - type: successor
   target_id: e-han-shang
   note: 和帝崩，少子隆即位
+  note_en: "Emperor He died; his youngest son Long took the throne"
 - type: related_emperor
   target_id: e-han-ming
   note: 明帝严明治世与和帝永元之政，前后对照
+  note_en: "Emperor Ming's stern governance and Emperor He's Yongyuan-era rule: a before-and-after comparison"
 routes:
 - group: 都城
   order: 1

@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: wu-yang-pu
   note: 昇元元年受吴禅
+  note_en: "In Shengyuan 1, receives the throne by abdication from Wu"
 - type: successor
   target_id: n-tang-yuan-zong
   note: 昇元七年崩，子璟即位
+  note_en: "Dies in Shengyuan 7; his son Jing takes the throne"
 - type: related_emperor
   target_id: tang-zhuang
   note: 自称唐宪宗之后（南唐非李唐正统，仅托名）
+  note_en: "Claims descent from Emperor Xianzong of Tang (Southern Tang is not of the legitimate Li-Tang line; the claim is nominal only)"
 routes:
 - group: 都城
   order: 1

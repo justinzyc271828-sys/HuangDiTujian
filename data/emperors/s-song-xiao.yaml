@@ -150,12 +150,15 @@ relations:
 - type: predecessor
   target_id: s-song-gao
   note: 高宗养子，绍兴三十二年受内禅
+  note_en: "Adopted son of Emperor Gaozong, receives the throne by internal abdication in the 32nd year of Shaoxing"
 - type: successor
   target_id: s-song-guang
   note: 淳熙十六年内禅，第三子惇即位
+  note_en: "Chunxi 16: internal abdication; his third son Dun takes the throne"
 - type: kinship
   target_id: n-song-tai-zu
   note: 太祖七世孙，秀王偁子
+  note_en: "Seventh-generation descendant of Taizu; son of Prince Cheng of Xiu"
 routes:
 - group: 都城
   order: 1

@@ -197,12 +197,15 @@ relations:
 - type: predecessor
   target_id: e-jin-kang
   note: 建元二年康帝崩，子聃即位
+  note_en: "In the 2nd year of Jianyuan Emperor Kang dies; the son Dan takes the throne"
 - type: successor
   target_id: e-jin-ai
   note: 升平五年崩，从兄弟丕即位
+  note_en: "Dies in the 5th year of Shengping; his cousin Pi takes the throne"
 - type: kinship
   target_id: e-jin-kang
   note: 康帝子
+  note_en: "Son of Emperor Kang"
 routes:
 - group: 都城
   order: 1

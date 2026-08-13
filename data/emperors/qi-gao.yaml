@@ -123,9 +123,11 @@ relations:
 - type: predecessor
   target_id: liu-song-shun
   note: 建元元年受禅于宋顺帝
+  note_en: "In Jianyuan 1, receives the throne by abdication from Emperor Shun of Liu Song"
 - type: successor
   target_id: qi-wu
   note: 建元四年崩，太子赜即位
+  note_en: "Dies in Jianyuan 4; Crown Prince Ze takes the throne"
 routes:
 - group: 都城
   order: 1

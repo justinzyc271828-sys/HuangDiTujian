@@ -201,12 +201,15 @@ relations:
 - type: predecessor
   target_id: wei-wen
   note: 黄初七年文帝崩，太子叡即位
+  note_en: "In the 7th year of Huangchu, Emperor Wen dies; Crown Prince Rui takes the throne"
 - type: successor
   target_id: wei-qi
   note: 景初三年崩，养子芳即位
+  note_en: "Dies in Jingchu 3; his adopted son Fang takes the throne"
 - type: kinship
   target_id: wei-wen
   note: 文帝子
+  note_en: "Son of Emperor Wen"
 routes:
 - group: 都城
   order: 1

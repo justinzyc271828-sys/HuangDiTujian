@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: e-wei-xiaojing
   note: 天保元年受禅于东魏孝静帝
+  note_en: "In the first year of Tianbao, received the abdication of Emperor Xiaojing of Eastern Wei"
 - type: successor
   target_id: n-qi-fei
   note: 天保十年崩，子殷即位
+  note_en: "Died in the tenth year of Tianbao; his son Yin took the throne"
 - type: related_emperor
   target_id: n-zhou-wu
   note: 与北周对峙，后为周武帝所灭
+  note_en: "Stands against Northern Zhou, later destroyed by Emperor Wu of Zhou"
 routes:
 - group: 都城
   order: 1

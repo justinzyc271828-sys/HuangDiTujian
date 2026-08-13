@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-cheng-zu
   note: 成祖子，永乐二十二年即位
+  note_en: "Son of Emperor Chengzu; takes the throne in Yongle 22"
 - type: successor
   target_id: ming-xuan-zong
   note: 洪熙元年崩，子瞻基即位
+  note_en: "Hongxi 1: dies; his son Zhanji takes the throne"
 routes:
 - group: 都城
   order: 1

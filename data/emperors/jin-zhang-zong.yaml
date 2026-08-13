@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: jin-shi-zong
   note: 世宗孙，大定二十九年即位
+  note_en: "Grandson of Shizong; takes the throne in the 29th year of Dading"
 - type: successor
   target_id: jin-wei-shao
   note: 泰和八年崩，无子，叔卫绍王允济即位
+  note_en: "Taihe 8: dies sonless; his uncle Yunji, Prince Shao of Wei, takes the throne"
 routes:
 - group: 都城
   order: 1

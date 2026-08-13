@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-xian-zong
   note: 宪宗子，成化二十三年即位
+  note_en: "Son of Xianzong; takes the throne in the 23rd year of Chenghua"
 - type: successor
   target_id: ming-wu-zong
   note: 弘治十八年崩，子厚照即位
+  note_en: "Dies in Hongzhi 18; his son Houzhao takes the throne"
 routes:
 - group: 都城
   order: 1

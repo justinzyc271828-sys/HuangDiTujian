@@ -131,12 +131,15 @@ relations:
 - type: predecessor
   target_id: jin-tai-zu
   note: 太祖弟，天辅七年即位（兄终弟及）
+  note_en: "Younger brother of Taizu; takes the throne in the 7th year of Tianfu (brother succeeding brother)"
 - type: successor
   target_id: jin-xi-zong
   note: 天会十三年崩，太祖孙亶即位
+  note_en: "Died in the thirteenth year of Tianhui; Emperor Taizu's grandson Dan took the throne"
 - type: rival
   target_id: liao-tianzuo
   note: 天会三年灭辽，天祚被俘（辽亡）
+  note_en: "In the third year of Tianhui, destroyed the Liao; Emperor Tianzuo was captured (the Liao fell)"
 routes:
 - group: 都城
   order: 1

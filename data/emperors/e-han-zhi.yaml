@@ -127,9 +127,11 @@ relations:
 - type: predecessor
   target_id: e-han-chong
   note: 冲帝崩，梁冀迎立质帝
+  note_en: "Emperor Chong dies; Liang Ji brings in and enthrones Emperor Zhi"
 - type: successor
   target_id: e-han-huan
   note: 质帝被鸩，梁冀立桓帝
+  note_en: "Emperor Zhi is poisoned; Liang Ji enthrones Emperor Huan"
 routes:
 - group: 都城
   order: 1

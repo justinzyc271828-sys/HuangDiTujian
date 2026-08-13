@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: chen-wu
   note: 永定三年武帝崩，侄蒨即位
+  note_en: "Yongding 3: Emperor Wu dies; his nephew Qian takes the throne"
 - type: successor
   target_id: chen-fei
   note: 天康元年崩，子伯宗即位
+  note_en: "Died in the first year of Tiankang; his son Bozong took the throne"
 - type: kinship
   target_id: chen-wu
   note: 武帝侄，始兴昭烈王之子
+  note_en: "Emperor Wu's nephew, son of Prince Zhaolie of Shixing"
 routes:
 - group: 都城
   order: 1

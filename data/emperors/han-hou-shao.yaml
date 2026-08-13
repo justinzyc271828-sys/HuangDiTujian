@@ -129,12 +129,15 @@ relations:
 - type: predecessor
   target_id: han-qian-shao
   note: 前少帝废杀，恒山王弘入继
+  note_en: "The Former Young Emperor is deposed and killed; Hong, Prince of Hengshan, succeeds from a cadet branch"
 - type: successor
   target_id: han-wen-di
   note: 诸吕既诛，后少帝废，代王迎立
+  note_en: "With the Lü clan destroyed, the Later Shaodi is deposed and the Prince of Dai is welcomed to the throne"
 - type: related_emperor
   target_id: han-hui-di
   note: 吕氏称制贯穿惠帝崩后两代少帝
+  note_en: "The Lü regency spanned the two young emperors after Emperor Hui's death"
 routes:
 - group: 都城
   order: 1

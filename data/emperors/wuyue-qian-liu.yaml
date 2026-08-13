@@ -119,9 +119,11 @@ relations:
 - type: related_emperor
   target_id: liang-tai-zu
   note: 受后梁封吴越王
+  note_en: "Enfeoffed as Prince of Wuyue by Later Liang"
 - type: related_emperor
   target_id: n-song-tai-zu
   note: 钱氏后裔于太平兴国三年纳土归宋
+  note_en: "The Qian heirs surrender their territory to Song in the 3rd year of Taiping Xingguo"
 routes:
 - group: 都城
   order: 1

@@ -124,6 +124,7 @@ relations:
 - type: related_emperor
   target_id: w-jin-huai
   note: 永嘉乱中保境奉晋，贡献不绝
+  note_en: "Amid the Yongjia disorders, guards his domain in Jin's name and keeps tribute coming without cease"
 routes:
 - group: 都城
   order: 1

@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: n-wei-wencheng
   note: 和平六年文成崩，子弘即位
+  note_en: "Emperor Wencheng died in the sixth year of Heping; his son Hong took the throne"
 - type: successor
   target_id: n-wei-xiaowen
   note: 皇兴五年禅位太子宏
+  note_en: "Huangxing 5: abdicates to Crown Prince Hong"
 - type: kinship
   target_id: n-wei-wencheng
   note: 文成帝长子
+  note_en: "Eldest son of Emperor Wencheng"
 routes:
 - group: 都城
   order: 1

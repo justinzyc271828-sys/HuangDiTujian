@@ -126,9 +126,11 @@ relations:
 - type: predecessor
   target_id: h-qin-yao-chang
   note: 皇初元年即位
+  note_en: "Huangchu 1: takes the throne"
 - type: related_emperor
   target_id: liu-song-wu
   note: 后秦为刘裕所灭，与东晋北伐相接
+  note_en: "Later Qin was destroyed by Liu Yu, connecting with Eastern Jin's northern expeditions"
 routes:
 - group: 都城
   order: 1

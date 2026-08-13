@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: tang-min
   note: 清泰元年废闵帝自立
+  note_en: "Qingtai 1: deposes Emperor Min and sets himself up"
 - type: successor
   target_id: jin-gao
   note: 清泰三年石敬瑭联契丹灭后唐
+  note_en: "Qingtai 3: Shi Jingtang joins the Khitan to destroy Later Tang"
 - type: kinship
   target_id: tang-ming
   note: 明宗养子（本姓王）
+  note_en: "Adopted son of Emperor Mingzong (born to the Wang surname)"
 routes:
 - group: 都城
   order: 1

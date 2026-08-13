@@ -200,12 +200,15 @@ relations:
 - type: predecessor
   target_id: han-ai-di
   note: 哀帝无子，中山王箕子入继
+  note_en: "Emperor Ai had no son; Jizi, Prince of Zhongshan, succeeded from a cadet branch"
 - type: successor
   target_id: han-ruzi
   note: 平帝崩，孺子婴立，王莽居摄
+  note_en: "Emperor Ping dies; Ruzi Ying is installed, with Wang Mang as acting regent"
 - type: related_emperor
   target_id: xin-wang-mang
   note: 平帝朝政皆出王莽，禅代之路完成于其身后
+  note_en: "Under Emperor Ping all governance came from Wang Mang; the abdication-usurpation path was completed after his death"
 routes:
 - group: 都城
   order: 1

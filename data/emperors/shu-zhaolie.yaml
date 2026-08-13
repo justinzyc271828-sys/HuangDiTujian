@@ -201,12 +201,15 @@ relations:
 - type: successor
   target_id: shu-houzhu
   note: 章武三年崩，太子禅即位
+  note_en: "Dies in the 3rd year of Zhangwu; Crown Prince Shan takes the throne"
 - type: related_emperor
   target_id: e-han-xian
   note: 以续汉统为号，称帝于成都
+  note_en: "Under the banner of continuing the Han line, proclaims himself emperor at Chengdu"
 - type: related_emperor
   target_id: wu-da
   note: 赤壁联军，后为夷陵之战的对手
+  note_en: "Allies at Red Cliffs, later opponents in the Battle of Yiling"
 routes:
 - group: 都城
   order: 1

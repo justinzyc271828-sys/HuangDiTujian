@@ -191,12 +191,15 @@ relations:
 - type: predecessor
   target_id: e-han-guangwu
   note: 光武崩，太子庄即位
+  note_en: "Guangwu dies; Crown Prince Zhuang takes the throne"
 - type: successor
   target_id: e-han-zhang
   note: 明帝崩，太子炟即位
+  note_en: "Emperor Ming dies; Crown Prince Da takes the throne"
 - type: related_emperor
   target_id: han-wu-di
   note: 汉武开边立制与明帝严明治世，跨朝对照
+  note_en: "Emperor Wu of Han's frontier expansion and institution-building against Emperor Ming of Han's stern, well-ordered rule — a cross-dynasty foil"
 routes:
 - group: 都城
   order: 1

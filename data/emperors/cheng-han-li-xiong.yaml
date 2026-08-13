@@ -127,6 +127,7 @@ relations:
 - type: related_emperor
   target_id: e-jin-mu
   note: 与东晋并世，成汉后为桓温所灭
+  note_en: "Contemporary with Eastern Jin; Cheng Han is later destroyed by Huan Wen"
 routes:
 - group: 都城
   order: 1

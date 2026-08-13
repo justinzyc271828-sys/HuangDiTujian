@@ -128,12 +128,15 @@ relations:
 - type: predecessor
   target_id: e-han-shun
   note: 顺帝崩，太子炳即位
+  note_en: "Emperor Shun dies; Crown Prince Bing takes the throne"
 - type: successor
   target_id: e-han-zhi
   note: 冲帝崩，梁冀迎立质帝
+  note_en: "Emperor Chong dies; Liang Ji brings in and enthrones Emperor Zhi"
 - type: related_emperor
   target_id: e-han-shang
   note: 同为襁褓即位即崩的幼主
+  note_en: "Both were infant rulers enthroned in swaddling clothes who died at once"
 routes:
 - group: 都城
   order: 1

@@ -128,12 +128,15 @@ relations:
 - type: predecessor
   target_id: tang-su-zong
   note: 宝应元年肃宗崩，太子豫即位
+  note_en: "In the 1st year of Baoying Emperor Suzong dies; the heir apparent Yu takes the throne"
 - type: successor
   target_id: tang-de-zong
   note: 大历十四年崩，太子适即位
+  note_en: "Died in the fourteenth year of Dali; Crown Prince Kuo took the throne"
 - type: kinship
   target_id: tang-su-zong
   note: 肃宗长子
+  note_en: "Eldest son of Emperor Suzong"
 routes:
 - group: 都城
   order: 1

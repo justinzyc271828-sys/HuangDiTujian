@@ -124,6 +124,7 @@ relations:
 - type: related_emperor
   target_id: dai-shiyijian
   note: 秃发与拓跋同源，分居河西与代北
+  note_en: "The Tufa and the Tuoba share a common origin, later living apart in Hexi and Daibei"
 routes:
 - group: 都城
   order: 1

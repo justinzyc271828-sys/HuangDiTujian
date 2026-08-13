@@ -144,9 +144,11 @@ relations:
 - type: predecessor
   target_id: ming-mu-zong
   note: 穆宗子，隆庆六年即位
+  note_en: "Son of Emperor Muzong, takes the throne in the 6th year of Longqing"
 - type: successor
   target_id: ming-guang-zong
   note: 万历四十八年崩，子常洛即位
+  note_en: "Dies in the 48th year of Wanli; his son Changluo takes the throne"
 routes:
 - group: 都城
   order: 1

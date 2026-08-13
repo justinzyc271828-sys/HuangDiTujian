@@ -125,6 +125,7 @@ relations:
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 苻坚大将，坚败后据凉自立
+  note_en: "A general of Fu Jian; after Fu Jian's defeat, he holds Liang and declares independence"
 routes:
 - group: 其他
   order: 1

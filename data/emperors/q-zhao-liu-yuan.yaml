@@ -130,6 +130,7 @@ relations:
 - type: successor
   target_id: q-zhao-liu-cong
   note: 永嘉四年崩，子和为聪所杀，聪自立
+  note_en: "Yongjia 4: dies; his son He is killed by Cong, who sets himself up"
 routes:
 - group: 都城
   order: 1

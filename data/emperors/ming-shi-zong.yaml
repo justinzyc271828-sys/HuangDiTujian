@@ -144,9 +144,11 @@ relations:
 - type: predecessor
   target_id: ming-wu-zong
   note: 武宗堂弟，正德十六年入继大统
+  note_en: "Emperor Wuzong's cousin; Zhengde 16: succeeds from a cadet branch"
 - type: successor
   target_id: ming-mu-zong
   note: 嘉靖四十五年崩，第三子载垕即位
+  note_en: "Died in the forty-fifth year of Jiajing; his third son Zaihou took the throne"
 routes:
 - group: 都城
   order: 1

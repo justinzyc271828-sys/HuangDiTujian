@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: w-wei-gong
   note: 西魏恭帝禅位，受禅开周
+  note_en: "Emperor Gong of Western Wei abdicates; he receives the abdication and founds Zhou"
 - type: successor
   target_id: n-zhou-ming
   note: 同年被废弑，宇文护立毓
+  note_en: "Deposed and murdered the same year; Yuwen Hu enthroned Yu"
 - type: kinship
   target_id: n-zhou-wu
   note: 武帝之兄，宇文泰第三子
+  note_en: "Emperor Wu's elder brother, Yuwen Tai's third son"
 routes:
 - group: 都城
   order: 1

@@ -207,12 +207,15 @@ relations:
 - type: predecessor
   target_id: wu-jing
   note: 永安六年休崩，迎立乌程侯皓
+  note_en: "Yong'an 6: Xiu dies; Hao, Marquis of Wucheng, is welcomed and enthroned"
 - type: successor
   target_id: w-jin-wu
   note: 天纪四年降晋，吴亡
+  note_en: "In the fourth year of Tianji, surrendered to the Jin; Eastern Wu fell"
 - type: kinship
   target_id: wu-da
   note: 孙权孙，废太子和之子
+  note_en: "Grandson of Sun Quan; son of the deposed heir apparent He"
 routes:
 - group: 都城
   order: 1

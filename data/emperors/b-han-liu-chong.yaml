@@ -122,12 +122,15 @@ relations:
 - type: kinship
   target_id: han-gao-wu
   note: 后汉高祖知远之弟
+  note_en: "Younger brother of Liu Zhiyuan, Emperor Gaozu of Later Han"
 - type: successor
   target_id: b-han-liu-jun
   note: 乾祐七年卒，次子承钧（钧）即位
+  note_en: "Dies in the 7th year of Qianyou; his second son Chengjun (Jun) takes the throne"
 - type: related_emperor
   target_id: zhou-shi
   note: 高平之战败于后周世宗
+  note_en: "Defeated by Emperor Shizong of Later Zhou at the Battle of Gaoping"
 routes:
 - group: 都城
   order: 1

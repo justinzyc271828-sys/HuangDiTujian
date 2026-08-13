@@ -121,9 +121,11 @@ relations:
 - type: predecessor
   target_id: min-wang-shenzhi
   note: 审知卒后延翰立，寻被杀，延钧继
+  note_en: "After Shenzhi dies Yanhan takes over, is soon killed, and Yanjun succeeds"
 - type: kinship
   target_id: min-wang-shenzhi
   note: 审知次子
+  note_en: "Second son of Shenzhi"
 routes:
 - group: 都城
   order: 1

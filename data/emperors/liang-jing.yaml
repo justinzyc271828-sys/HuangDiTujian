@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: liang-yuan
   note: 承圣三年江陵陷，子方智即位于建康
+  note_en: "In Chengsheng 3, Jiangling falls; his son Fangzhi takes the throne at Jiankang"
 - type: successor
   target_id: chen-wu
   note: 太平二年禅位于陈霸先，梁亡
+  note_en: "In the 2nd year of Taiping he abdicates to Chen Baxian; Liang falls"
 - type: kinship
   target_id: liang-yuan
   note: 元帝第九子
+  note_en: "Ninth son of Emperor Yuan"
 routes:
 - group: 都城
   order: 1

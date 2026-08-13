@@ -127,9 +127,11 @@ relations:
 - type: related_emperor
   target_id: n-liang-juqu
   note: 西凉为沮渠蒙逊所灭
+  note_en: "Western Liang is destroyed by Juqu Mengxun"
 - type: related_emperor
   target_id: tang-gao-zu
   note: 李唐自称凉武昭王之后
+  note_en: "The Li house of Tang claims descent from Prince Wuzhao of Liang"
 routes:
 - group: 都城
   order: 1

@@ -128,9 +128,11 @@ relations:
 - type: related_emperor
   target_id: x-liang-li-hao
   note: 灭西凉李氏，一统河西
+  note_en: "Destroys the Li house of Western Liang, uniting all Hexi under one rule"
 - type: related_emperor
   target_id: n-wei-taiwu
   note: 北凉终为北魏所灭
+  note_en: "Northern Liang is finally destroyed by Northern Wei"
 routes:
 - group: 都城
   order: 1

@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: jin-wei-shao
   note: 卫绍王被弑后，纥石烈执中立之
+  note_en: "After the Prince of Weishao was assassinated, Heshilie Zhizhong enthroned him"
 - type: successor
   target_id: jin-ai-zong
   note: 元光二年崩，第三子守绪即位
+  note_en: "Dies in the 2nd year of Yuanguang; his third son Shouxu takes the throne"
 routes:
 - group: 都城
   order: 1

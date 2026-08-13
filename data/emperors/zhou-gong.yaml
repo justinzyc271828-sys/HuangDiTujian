@@ -122,12 +122,15 @@ relations:
 - type: predecessor
   target_id: zhou-shi
   note: 显德六年世宗崩，第四子宗训即位
+  note_en: "In Xiande 6, Emperor Shizong dies and his fourth son Zongxun takes the throne"
 - type: successor
   target_id: n-song-tai-zu
   note: 显德七年禅位于赵匡胤（宋太祖），五代终
+  note_en: "In Xiande 7, abdicates to Zhao Kuangyin (Emperor Taizu of Song); the Five Dynasties end"
 - type: kinship
   target_id: zhou-shi
   note: 世宗第四子
+  note_en: "Fourth son of Shizong"
 routes:
 - group: 都城
   order: 1

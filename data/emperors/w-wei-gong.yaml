@@ -120,12 +120,15 @@ relations:
 - type: predecessor
   target_id: w-wei-fei
   note: 废帝被废，宇文泰立齐王廓
+  note_en: "The Deposed Emperor is deposed; Yuwen Tai installs Prince Kuo of Qi"
 - type: successor
   target_id: n-zhou-xiao-min
   note: 三年禅位于宇文觉，西魏亡
+  note_en: "In the third year he abdicates to Yuwen Jue; Western Wei falls"
 - type: kinship
   target_id: w-wei-wen
   note: 文帝第四子
+  note_en: "Fourth son of Emperor Wen"
 routes:
 - group: 都城
   order: 1

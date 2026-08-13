@@ -163,12 +163,15 @@ relations:
 - type: predecessor
   target_id: n-song-qin
   note: 徽宗第九子，靖康二年于南京即位（兄被掳，兄弟相继）
+  note_en: "Ninth son of Emperor Huizong; takes the throne at Nanjing in Jingkang 2 (his elder brother carried off, one brother succeeding another)"
 - type: successor
   target_id: s-song-xiao
   note: 绍兴三十二年内禅，养子眘即位
+  note_en: "Abdicates to his adopted son Shen in the 32nd year of Shaoxing"
 - type: kinship
   target_id: n-song-hui
   note: 徽宗第九子，封康王
+  note_en: "Ninth son of Emperor Huizong; enfeoffed as Prince of Kang"
 routes:
 - group: 都城
   order: 1

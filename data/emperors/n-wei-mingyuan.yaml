@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: n-wei-daowu
   note: 天赐六年道武遇弑，长子嗣即位
+  note_en: "Emperor Daowu was assassinated in the sixth year of Tianci; his eldest son Si took the throne"
 - type: successor
   target_id: n-wei-taiwu
   note: 泰常八年崩，太子焘即位
+  note_en: "Taichang 8: dies; Crown Prince Tao takes the throne"
 - type: kinship
   target_id: n-wei-daowu
   note: 道武帝长子
+  note_en: "Eldest son of Emperor Daowu"
 routes:
 - group: 都城
   order: 1

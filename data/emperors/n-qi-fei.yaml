@@ -120,9 +120,11 @@ relations:
 - type: predecessor
   target_id: n-qi-wenxuan
   note: 天保十年文宣崩，子殷即位
+  note_en: "Emperor Wenxuan died in the tenth year of Tianbao; his son Yin took the throne"
 - type: successor
   target_id: n-qi-xiaozhao
   note: 皇建元年被废，常山王演自立
+  note_en: "Huangjian 1: deposed; the Prince of Changshan, Yan, sets himself up"
 routes:
 - group: 都城
   order: 1

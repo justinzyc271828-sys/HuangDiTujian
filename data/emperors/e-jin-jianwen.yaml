@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: e-jin-fei
   note: 太和六年桓温废帝，迎立会稽王昱
+  note_en: "In the sixth year of Taihe, Huan Wen deposed the emperor and welcomed in Yu, Prince of Kuaiji"
 - type: successor
   target_id: e-jin-xiaowu
   note: 咸安二年崩，子曜即位
+  note_en: "Died in the second year of Xian'an; his son Yao took the throne"
 - type: kinship
   target_id: e-jin-yuan
   note: 元帝少子
+  note_en: "Youngest son of Emperor Yuan"
 routes:
 - group: 都城
   order: 1

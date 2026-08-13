@@ -132,12 +132,15 @@ relations:
 - type: predecessor
   target_id: liao-jing-zong
   note: 景宗长子，乾亨四年即位，萧绰摄政
+  note_en: "Eldest son of Emperor Jingzong; takes the throne in Qianheng 4, with Xiao Chuo as regent"
 - type: successor
   target_id: liao-xing-zong
   note: 太平十一年崩，长子宗真即位
+  note_en: "Dies in the 11th year of Taiping; the eldest son Zongzhen takes the throne"
 - type: treaty
   target_id: n-song-zhen
   note: 统和二十二年澶渊之盟，约为兄弟，宋岁输银绢
+  note_en: "In the 22nd year of Tonghe, the Treaty of Chanyuan binds the two as brothers, with Song sending silver and silk yearly"
 routes:
 - group: 都城
   order: 1

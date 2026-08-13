@@ -193,12 +193,15 @@ relations:
 - type: predecessor
   target_id: e-han-shao-bei
   note: 北乡侯薨，孙程等迎立济阴王
+  note_en: "The Marquis of Beixiang dies; Sun Cheng and others bring in and enthrone the Prince of Jiyin"
 - type: successor
   target_id: e-han-chong
   note: 顺帝崩，太子炳即位
+  note_en: "Emperor Shun dies; Crown Prince Bing takes the throne"
 - type: kinship
   target_id: e-han-an
   note: 安帝子，立而复废，卒以宦官迎立
+  note_en: "Son of Emperor An; enthroned then deposed, and finally installed by eunuchs"
 routes:
 - group: 都城
   order: 1

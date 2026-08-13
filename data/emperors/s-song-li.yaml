@@ -155,9 +155,11 @@ relations:
 - type: predecessor
   target_id: s-song-ning
   note: 宁宗侄，史弥远矫诏拥立
+  note_en: "Nephew of Ningzong; enthroned through Shi Miyuan's forged edict"
 - type: successor
   target_id: s-song-du
   note: 景定五年崩，侄禥即位
+  note_en: "Dies in Jingding 5; his nephew Qi takes the throne"
 routes:
 - group: 都城
   order: 1

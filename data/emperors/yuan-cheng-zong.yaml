@@ -132,9 +132,11 @@ relations:
 - type: predecessor
   target_id: yuan-shi-zu
   note: 世祖孙，至元三十一年即位（世祖页冻结）
+  note_en: "Grandson of Shizu; takes the throne in the 31st year of Zhiyuan (Shizu page frozen)"
 - type: successor
   target_id: yuan-wu-zong
   note: 大德十一年崩，侄海山即位
+  note_en: "Died in the eleventh year of Dade; his nephew Haishan took the throne"
 routes:
 - group: 都城
   order: 1

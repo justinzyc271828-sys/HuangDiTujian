@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: chen-xuan
   note: 太建十四年宣帝崩，子叔宝即位
+  note_en: "In the 14th year of Taijian Emperor Xuan dies; the son Shubao takes the throne"
 - type: successor
   target_id: sui-wen
   note: 祯明三年降隋，陈亡
+  note_en: "Surrenders to Sui in the 3rd year of Zhenming; Chen falls"
 - type: kinship
   target_id: chen-xuan
   note: 宣帝长子
+  note_en: "Eldest son of Emperor Xuan"
 routes:
 - group: 都城
   order: 1

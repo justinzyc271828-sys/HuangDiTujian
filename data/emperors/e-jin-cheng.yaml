@@ -197,12 +197,15 @@ relations:
 - type: predecessor
   target_id: e-jin-ming
   note: 太宁三年明帝崩，太子衍即位
+  note_en: "In the 3rd year of Taining Emperor Ming dies; the heir apparent Yan takes the throne"
 - type: successor
   target_id: e-jin-kang
   note: 咸康八年崩，弟岳即位
+  note_en: "Died in the eighth year of Xiankang; his younger brother Yue took the throne"
 - type: kinship
   target_id: e-jin-ming
   note: 明帝长子
+  note_en: "Eldest son of Emperor Ming"
 routes:
 - group: 都城
   order: 1

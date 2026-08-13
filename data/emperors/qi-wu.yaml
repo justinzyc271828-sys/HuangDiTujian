@@ -124,9 +124,11 @@ relations:
 - type: predecessor
   target_id: qi-gao
   note: 建元四年高帝崩，太子赜即位
+  note_en: "In Jianyuan 4, Emperor Gao dies and Crown Prince Ze takes the throne"
 - type: successor
   target_id: qi-yulin
   note: 永明十一年崩，太孙昭业即位
+  note_en: "Yongming 11: dies; the imperial grandson Zhaoye takes the throne"
 routes:
 - group: 都城
   order: 1

@@ -131,12 +131,15 @@ relations:
 - type: predecessor
   target_id: jin-hailiing
   note: 海陵南伐被弑后，于辽阳即位
+  note_en: "After the Prince of Hailing is assassinated on his southern campaign, he takes the throne at Liaoyang"
 - type: successor
   target_id: jin-zhang-zong
   note: 大定二十九年崩，孙璟即位
+  note_en: "Died in the twenty-ninth year of Dading; his grandson Jing took the throne"
 - type: treaty
   target_id: s-song-xiao
   note: 大定四年隆兴和议，金宋改叔侄，岁币减半
+  note_en: "In the fourth year of Dading, the Longxing Peace Accord: Jin and Song changed to uncle-and-nephew terms, and the annual payments were halved"
 routes:
 - group: 都城
   order: 1

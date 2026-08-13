@@ -191,12 +191,15 @@ relations:
 - type: predecessor
   target_id: han-gao-zu
   note: 高祖崩，太子盈即位
+  note_en: "Emperor Gaozu dies; Crown Prince Ying takes the throne"
 - type: successor
   target_id: han-qian-shao
   note: 惠帝崩后，吕后立后宫子为帝并临朝称制
+  note_en: "After Emperor Hui's death, Empress Lü enthrones a son of the harem as emperor and rules as regent"
 - type: related_emperor
   target_id: han-wen-di
   note: 文景休养政策实承惠帝朝之基，可长线对照
+  note_en: "The Wen-Jing policy of recuperation in fact builds on foundations laid in Emperor Hui's reign; it lends itself to a long-range comparison"
 routes:
 - group: 都城
   order: 1

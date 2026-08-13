@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: s-song-xiao
   note: 孝宗第三子，淳熙十六年受内禅
+  note_en: "Third son of Xiaozong; receives the abdication in the 16th year of Chunxi"
 - type: successor
   target_id: s-song-ning
   note: 绍熙五年孝宗崩，赵汝愚等拥嘉王扩，光宗内禅为太上皇
+  note_en: "In the 5th year of Shaoxi, Emperor Xiaozong dies; Zhao Ruyu and others enthrone Kuo, Prince of Jia, and Emperor Guangzong abdicates to become Retired Emperor"
 routes:
 - group: 都城
   order: 1

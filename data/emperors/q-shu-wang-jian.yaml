@@ -124,9 +124,11 @@ relations:
 - type: successor
   target_id: q-shu-wang-yan
   note: 光天元年崩，幼子衍即位
+  note_en: "Dies in the 1st year of Guangtian; his young son Yan takes the throne"
 - type: related_emperor
   target_id: liang-tai-zu
   note: 与后梁并世，拒不称臣称帝于蜀
+  note_en: "Contemporary with Later Liang; refuses to submit and proclaims himself emperor in Shu"
 routes:
 - group: 都城
   order: 1

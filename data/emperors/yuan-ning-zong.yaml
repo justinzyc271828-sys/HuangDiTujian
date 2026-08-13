@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-wen-zong
   note: 文宗崩后，燕铁木儿立之
+  note_en: "After Emperor Wenzong's death, El Temür enthrones him"
 - type: successor
   target_id: yuan-hui-zong
   note: 即位四十余日崩，兄妥欢帖睦尔即位（惠宗）
+  note_en: "Died just over forty days after taking the throne; his elder brother Toghon Temur took the throne (Emperor Huizong)"
 routes:
 - group: 都城
   order: 1

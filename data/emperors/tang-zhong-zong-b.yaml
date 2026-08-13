@@ -125,15 +125,19 @@ relations:
 - type: predecessor
   target_id: zhou-wu-zetian
   note: 神龙元年神龙政变，武后退位中宗复位
+  note_en: "In the Shenlong Coup of the 1st year of Shenlong, Empress Wu abdicates and Emperor Zhongzong is restored"
 - type: successor
   target_id: tang-shang
   note: 景龙四年暴崩，韦后立温王重茂
+  note_en: "Dies suddenly in Jinglong 4; Empress Wei enthrones Chongmao, Prince of Wen"
 - type: related_emperor
   target_id: tang-zhong-zong-a
   note: 首次在位被废，此为复位
+  note_en: "Deposed in his first reign; this is the restoration"
 - type: kinship
   target_id: zhou-wu-zetian
   note: 武后之子
+  note_en: "Son of Empress Wu"
 routes:
 - group: 都城
   order: 1

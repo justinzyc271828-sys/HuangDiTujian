@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: yuan-ning-zong
   note: 宁宗崩后即位
+  note_en: "Takes the throne after Ningzong dies"
 - type: successor
   target_id: ming-tai-zu
   note: 至正二十八年明军克大都，惠宗北奔，元亡（亡国链，波15建页）
+  note_en: "In the 28th year of Zhizheng, Ming forces take Dadu; Emperor Huizong flees north and Yuan falls (fall-of-dynasty chain; page to be built in wave 15)"
 routes:
 - group: 都城
   order: 1

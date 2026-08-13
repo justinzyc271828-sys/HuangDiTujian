@@ -135,9 +135,11 @@ relations:
 - type: predecessor
   target_id: s-song-li
   note: 理宗侄，立为皇太子，景定五年即位
+  note_en: "Emperor Lizong's nephew; named crown prince, takes the throne in Jingding 5"
 - type: successor
   target_id: s-song-gong
   note: 咸淳十年崩，子显即位
+  note_en: "Died in the tenth year of Xianchun; his son Xian took the throne"
 routes:
 - group: 都城
   order: 1

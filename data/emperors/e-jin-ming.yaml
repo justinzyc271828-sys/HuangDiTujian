@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: e-jin-yuan
   note: 永昌元年元帝崩，太子绍即位
+  note_en: "Yongchang 1: Emperor Yuan dies; Crown Prince Shao takes the throne"
 - type: successor
   target_id: e-jin-cheng
   note: 太宁三年崩，太子衍即位
+  note_en: "Dies in the 3rd year of Taining; the heir apparent Yan takes the throne"
 - type: kinship
   target_id: e-jin-yuan
   note: 元帝长子
+  note_en: "Eldest son of Emperor Yuan"
 routes:
 - group: 都城
   order: 1

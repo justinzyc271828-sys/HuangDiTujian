@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-guang-zong
   note: 光宗长子，泰昌元年即位
+  note_en: "Eldest son of Guangzong; takes the throne in the 1st year of Taichang"
 - type: successor
   target_id: ming-si-zong
   note: 天启七年崩，弟由检即位
+  note_en: "Died in the seventh year of Tianqi; his younger brother Youjian took the throne"
 routes:
 - group: 都城
   order: 1

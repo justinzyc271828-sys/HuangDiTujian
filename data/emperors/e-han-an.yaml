@@ -197,12 +197,15 @@ relations:
 - type: predecessor
   target_id: e-han-shang
   note: 殇帝崩，邓后定策迎立
+  note_en: "Emperor Shang dies; Empress Deng settles the succession and enthrones him"
 - type: successor
   target_id: e-han-shao-bei
   note: 安帝崩于叶，阎后立北乡侯
+  note_en: "Emperor An dies at Ye; Empress Yan installs the Marquis of Beixiang"
 - type: kinship
   target_id: e-han-shun
   note: 子保曾立为太子，后废，卒以孙程等迎立即位
+  note_en: "The son Bao was once made heir apparent and later deposed, but finally took the throne when Sun Cheng and others installed him"
 routes:
 - group: 都城
   order: 1

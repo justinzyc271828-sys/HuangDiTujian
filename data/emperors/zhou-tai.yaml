@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: han-yin
   note: 乾祐三年起兵入汴，后汉亡（亡国链）
+  note_en: "Raises an army and enters Bian in the 3rd year of Qianyou; Later Han falls (chain of fallen states)"
 - type: successor
   target_id: zhou-shi
   note: 显德元年崩，养子荣即位（世宗）
+  note_en: "Dies in Xiande 1; his adopted son Rong takes the throne (Emperor Shizong)"
 - type: kinship
   target_id: zhou-shi
   note: 世宗为其内侄兼养子
+  note_en: "Shizong is both his nephew by marriage and his adopted son"
 routes:
 - group: 都城
   order: 1

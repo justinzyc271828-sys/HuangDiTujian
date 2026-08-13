@@ -125,9 +125,11 @@ relations:
 - type: predecessor
   target_id: liu-song-qianfei
   note: 景和元年前废帝被弑，湘东王彧即位
+  note_en: "In Jinghe 1, the Former Deposed Emperor is assassinated; Yu, Prince of Xiangdong, takes the throne"
 - type: successor
   target_id: liu-song-houfei
   note: 泰豫元年崩，太子昱即位
+  note_en: "Taiyu 1: dies; Crown Prince Yu takes the throne"
 routes:
 - group: 都城
   order: 1

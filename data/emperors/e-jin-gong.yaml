@@ -131,12 +131,15 @@ relations:
 - type: predecessor
   target_id: e-jin-an
   note: 义熙十四年安帝被弑，弟德文即位
+  note_en: "In the 14th year of Yixi Emperor An is assassinated; his brother Dewen takes the throne"
 - type: successor
   target_id: liu-song-wu
   note: 元熙二年禅位于刘裕，东晋亡
+  note_en: "In the 2nd year of Yuanxi he abdicates to Liu Yu; Eastern Jin falls"
 - type: kinship
   target_id: e-jin-xiaowu
   note: 孝武帝子
+  note_en: "Son of Emperor Xiaowu"
 routes:
 - group: 都城
   order: 1

@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-ying-zong-b
   note: 英宗子，天顺八年即位
+  note_en: "Son of Emperor Yingzong, takes the throne in the 8th year of Tianshun"
 - type: successor
   target_id: ming-xiao-zong
   note: 成化二十三年崩，子祐樘即位
+  note_en: "Dies in Chenghua 23; his son Youtang takes the throne"
 routes:
 - group: 都城
   order: 1

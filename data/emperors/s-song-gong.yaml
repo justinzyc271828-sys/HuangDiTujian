@@ -135,12 +135,15 @@ relations:
 - type: predecessor
   target_id: s-song-du
   note: 度宗子，咸淳十年即位，谢太后临朝
+  note_en: "Son of Duzong; takes the throne in the 10th year of Xianchun, with Empress Dowager Xie as regent"
 - type: successor
   target_id: yuan-shi-zu
   note: 德祐二年临安降元，帝与太后北狩，封瀛国公（亡国链）
+  note_en: "In Deyou 2, Lin'an surrenders to Yuan; the emperor and the empress dowager are carried off to the north, and he is enfeoffed as Duke of Ying (chain of fallen dynasties)"
 - type: kinship
   target_id: s-song-duan
   note: 恭帝兄益王昰（度宗长子，二王南奔后在福州即位）
+  note_en: "Emperor Gong's elder brother Shi, Prince of Yi (eldest son of Emperor Duzong; took the throne at Fuzhou after the two princes fled south)"
 routes:
 - group: 都城
   order: 1

@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: tang-zhuang
   note: 兴教门之变后入洛即位
+  note_en: "After the Xingjiaomen coup he enters Luo and takes the throne"
 - type: successor
   target_id: tang-min
   note: 长兴四年崩，第三子从厚即位
+  note_en: "Dies in the 4th year of Changxing; his third son Conghou takes the throne"
 - type: kinship
   target_id: tang-zhuang
   note: 李克用养子，与庄宗为养兄弟（非血缘）
+  note_en: "Adopted son of Li Keyong; adoptive brother of Emperor Zhuangzong (no blood relation)"
 routes:
 - group: 都城
   order: 1

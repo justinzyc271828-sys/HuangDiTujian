@@ -205,9 +205,11 @@ relations:
 - type: successor
   target_id: qin-er-shi
   note: 二世胡亥（史载继位过程充满权谋）
+  note_en: "Hu Hai, the Second Emperor (records say the succession was steeped in intrigue)"
 - type: related_emperor
   target_id: han-gao-zu
   note: 秦亡后刘邦建立汉朝（跨朝关联，叙事对照）
+  note_en: "After Qin falls, Liu Bang founds the Han dynasty (cross-dynasty narrative foil)"
 routes:
 - group: 其他
   order: 1

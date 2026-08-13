@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: n-wei-xiaowu
   note: 孝武遇鸩后，宇文泰立宝炬于长安
+  note_en: "After Emperor Xiaowu is poisoned, Yuwen Tai installs Baoju at Chang'an"
 - type: successor
   target_id: w-wei-fei
   note: 大统十七年崩，子钦即位
+  note_en: "Died in the seventeenth year of Datong; his son Qin took the throne"
 - type: kinship
   target_id: n-wei-xiaowen
   note: 孝文帝孙
+  note_en: "Grandson of Emperor Xiaowen"
 routes:
 - group: 都城
   order: 1

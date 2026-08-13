@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: liang-tai-zu
   note: 乾化二年太祖被弑，诛友珪即位
+  note_en: "In the 2nd year of Qianhua Taizu is assassinated; he executes Yougui and takes the throne"
 - type: successor
   target_id: tang-zhuang
   note: 龙德三年唐军入汴，梁亡于后唐庄宗
+  note_en: "In the 3rd year of Longde, Later Tang forces enter Bian; Liang falls to Emperor Zhuangzong of Later Tang"
 - type: kinship
   target_id: liang-tai-zu
   note: 太祖第三子
+  note_en: "Third son of Taizu"
 routes:
 - group: 都城
   order: 1

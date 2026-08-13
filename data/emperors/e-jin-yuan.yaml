@@ -199,12 +199,15 @@ relations:
 - type: predecessor
   target_id: w-jin-min
   note: 愍帝平阳遇害，睿称晋王续统
+  note_en: "Emperor Min is killed at Pingyang; Rui takes the title Prince of Jin to continue the line"
 - type: successor
   target_id: e-jin-ming
   note: 永昌元年崩，太子绍即位
+  note_en: "Yongchang 1: dies; Crown Prince Shao takes the throne"
 - type: kinship
   target_id: w-jin-wu
   note: 武帝从子，琅邪恭王觐之子
+  note_en: "Emperor Wu's nephew, son of Sima Jin, Prince Gong of Langya"
 routes:
 - group: 都城
   order: 1

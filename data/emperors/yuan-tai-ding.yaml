@@ -132,9 +132,11 @@ relations:
 - type: predecessor
   target_id: yuan-ying-zong
   note: 英宗被弑后即位
+  note_en: "Takes the throne after Emperor Yingzong is assassinated"
 - type: successor
   target_id: yuan-tian-shun
   note: 致和元年崩于上都，子阿速吉八即位于上都（两都之变，天顺败）
+  note_en: "Dies at Shangdu in the 1st year of Zhihe; his son Ragibagh takes the throne at Shangdu (War of the Two Capitals; Tianshun's side loses)"
 routes:
 - group: 都城
   order: 1

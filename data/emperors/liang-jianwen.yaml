@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: liang-wu
   note: 太清三年武帝崩，太子纲即位
+  note_en: "In the 3rd year of Taiqing Emperor Wu dies; the heir apparent Gang takes the throne"
 - type: successor
   target_id: liang-yu
   note: 大宝二年被废，侯景立豫章王栋
+  note_en: "Deposed in the second year of Dabao; Hou Jing enthroned Dong, Prince of Yuzhang"
 - type: kinship
   target_id: liang-wu
   note: 武帝第三子
+  note_en: "Emperor Wu's third son"
 routes:
 - group: 都城
   order: 1

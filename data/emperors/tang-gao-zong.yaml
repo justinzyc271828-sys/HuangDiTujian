@@ -148,15 +148,19 @@ relations:
 - type: predecessor
   target_id: tang-tai-zong
   note: 贞观二十三年太宗崩，第九子治即位
+  note_en: "In the 23rd year of Zhenguan, Emperor Taizong dies; his ninth son Zhi takes the throne"
 - type: successor
   target_id: tang-zhong-zong-a
   note: 弘道元年崩，太子显即位
+  note_en: "Dies in Hongdao 1; Crown Prince Xian takes the throne"
 - type: kinship
   target_id: tang-tai-zong
   note: 太宗第九子
+  note_en: "Ninth son of Taizong"
 - type: related_emperor
   target_id: zhou-wu-zetian
   note: 皇后武氏，后建武周
+  note_en: "His empress, of the Wu clan, later founds the Wu Zhou"
 routes:
 - group: 都城
   order: 1

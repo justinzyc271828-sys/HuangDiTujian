@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: e-han-ling
   note: 灵帝崩，太子辩即位
+  note_en: "Emperor Ling dies; Crown Prince Bian takes the throne"
 - type: successor
   target_id: e-han-xian
   note: 董卓废辩立协
+  note_en: "Dong Zhuo deposes Liu Bian and enthrones Liu Xie"
 routes:
 - group: 都城
   order: 1

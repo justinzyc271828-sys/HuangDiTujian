@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-tai-zu
   note: 太祖孙，洪武三十一年即位
+  note_en: "Grandson of Taizu; takes the throne in the 31st year of Hongwu"
 - type: successor
   target_id: ming-cheng-zu
   note: 建文四年南京陷，靖难之变，燕王即位
+  note_en: "In Jianwen 4, Nanjing falls in the Jingnan Campaign and the Prince of Yan takes the throne"
 routes:
 - group: 都城
   order: 1

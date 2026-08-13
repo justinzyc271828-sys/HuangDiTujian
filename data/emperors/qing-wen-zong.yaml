@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-xuan-zong
   note: 宣宗第四子，道光三十年即位
+  note_en: "Fourth son of Xuanzong; takes the throne in the 30th year of Daoguang"
 - type: successor
   target_id: qing-mu-zong
   note: 咸丰十一年崩于热河，子载淳即位（同治）
+  note_en: "Died at Rehe in the eleventh year of Xianfeng; his son Zaichun took the throne (Tongzhi)"
 routes:
 - group: 都城
   order: 1

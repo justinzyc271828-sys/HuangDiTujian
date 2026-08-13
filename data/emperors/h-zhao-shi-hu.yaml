@@ -140,6 +140,7 @@ relations:
 - type: predecessor
   target_id: h-zhao-shi-le
   note: 石勒崩后受遗辅政，废杀石弘自立
+  note_en: "After Shi Le dies, is charged by his last testament to assist the heir; then deposes and kills Shi Hong and sets himself up"
 routes:
 - group: 都城
   order: 1

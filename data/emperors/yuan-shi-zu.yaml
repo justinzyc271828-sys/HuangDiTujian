@@ -187,18 +187,23 @@ relations:
 - type: predecessor
   target_id: yuan-xian-zong
   note: 宪宗蒙哥崩于钓鱼城，与阿里不哥争位胜，建元中统
+  note_en: "Xianzong Möngke dies at Diaoyu City; he wins the succession struggle against Ariq Böke and establishes the Zhongtong era"
 - type: successor
   target_id: yuan-cheng-zong
   note: 孙铁穆耳即位，是为成宗
+  note_en: "The grandson Temür takes the throne; he is Emperor Chengzong"
 - type: rival
   target_id: null
   note: 阿里不哥（汗位战对手，未入图鉴）
+  note_en: "Ariq Böke (rival in the war for the khanship; not in the compendium)"
 - type: related_emperor
   target_id: qin-shi-huang
   note: 两次完成大一统的长线对照
+  note_en: "A long-range foil of two rulers who each completed the grand unification"
 - type: related_emperor
   target_id: n-song-tai-zu
   note: 宋之开国与宋之终结的对读
+  note_en: "A paired reading of the Song founding and the Song end"
 routes:
 - group: 都城
   order: 1

@@ -208,15 +208,19 @@ relations:
 - type: predecessor
   target_id: han-changyi
   note: 昭帝崩无嗣，昌邑王贺立二十七日而废，霍光迎立病已
+  note_en: "Emperor Zhao dies without an heir; He, Prince of Changyi, is enthroned and deposed after twenty-seven days, whereupon Huo Guang welcomes and enthrones Bingyi"
 - type: successor
   target_id: han-yuan-di
   note: 太子奭即位，是为元帝
+  note_en: "Crown Prince Shi took the throne, becoming Emperor Yuan"
 - type: kinship
   target_id: han-wu-di
   note: 曾祖；巫蛊之祸后以皇曾孙入继大统
+  note_en: "Great-grandfather; after the witchcraft calamity, he succeeds to the throne as the imperial great-grandson"
 - type: related_emperor
   target_id: e-han-guangwu
   note: 昭宣中兴与光武中兴对读
+  note_en: "The Zhaoxuan restoration and the Guangwu restoration, read against each other"
 routes:
 - group: 流徙
   order: 1

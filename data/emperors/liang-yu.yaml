@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: liang-jianwen
   note: 大宝二年侯景废简文，立豫章王栋
+  note_en: "In the second year of Dabao, Hou Jing deposed Emperor Jianwen and enthroned Dong, Prince of Yuzhang"
 - type: successor
   target_id: liang-yuan
   note: 栋禅位侯景，景败后元帝正位于江陵
+  note_en: "Xiao Dong abdicates to Hou Jing; after Jing's defeat, Emperor Yuan formally takes the throne at Jiangling"
 - type: kinship
   target_id: liang-wu
   note: 昭明太子统之孙，武帝曾孙
+  note_en: "Grandson of Crown Prince Zhaoming (Tong); great-grandson of Emperor Wu"
 routes:
 - group: 都城
   order: 1

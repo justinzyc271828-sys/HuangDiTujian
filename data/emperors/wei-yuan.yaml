@@ -129,12 +129,15 @@ relations:
 - type: predecessor
   target_id: wei-gaogui
   note: 甘露五年迎立
+  note_en: "Ganlu 5: welcomed and enthroned"
 - type: successor
   target_id: w-jin-wu
   note: 咸熙二年禅位于晋武帝
+  note_en: "In the second year of Xianxi, abdicated to Emperor Wu of Jin"
 - type: kinship
   target_id: wei-wen
   note: 文帝孙
+  note_en: "Grandson of Emperor Wen"
 routes:
 - group: 都城
   order: 1

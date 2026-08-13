@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: han-hui-di
   note: 惠帝崩，吕后立后宫子为帝
+  note_en: "Emperor Hui dies; Empress Lü enthrones a son of the harem as emperor"
 - type: successor
   target_id: han-hou-shao
   note: 前少帝被废杀，更立恒山王弘
+  note_en: "The Former Young Emperor is deposed and killed; Hong, Prince of Hengshan, is enthroned instead"
 - type: related_emperor
   target_id: han-wen-di
   note: 吕氏称制终结后，文帝入立，汉统归刘
+  note_en: "After the Lü clan's regency ended, Emperor Wen was installed and the Han line returned to the Liu house"
 routes:
 - group: 都城
   order: 1

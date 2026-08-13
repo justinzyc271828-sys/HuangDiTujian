@@ -120,12 +120,15 @@ relations:
 - type: predecessor
   target_id: n-zhou-xiao-min
   note: 孝闵被废，宇文护立毓
+  note_en: "Xiaomin deposed, Yuwen Hu enthrones Yu"
 - type: successor
   target_id: n-zhou-wu
   note: 武成二年被鸩，遗诏弟邕即位
+  note_en: "Wucheng 2: poisoned; his dying edict has his brother Yong take the throne"
 - type: kinship
   target_id: n-zhou-wu
   note: 武帝之兄，宇文泰长子
+  note_en: "Emperor Wu's elder brother, Yuwen Tai's eldest son"
 routes:
 - group: 都城
   order: 1

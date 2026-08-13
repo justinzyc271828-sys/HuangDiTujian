@@ -124,9 +124,11 @@ relations:
 - type: predecessor
   target_id: n-wei-xiaoming
   note: 武泰元年孝明暴崩，尔朱荣立子攸
+  note_en: "Wutai 1: Emperor Xiaoming dies suddenly; Erzhu Rong enthrones Ziyou"
 - type: successor
   target_id: n-wei-jemin
   note: 永安三年被弑，尔朱世隆立元恭
+  note_en: "Yong'an 3: assassinated; Erzhu Shilong enthrones Yuan Gong"
 routes:
 - group: 都城
   order: 1

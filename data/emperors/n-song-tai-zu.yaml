@@ -205,12 +205,15 @@ relations:
 - type: predecessor
   target_id: zhou-gong
   note: 后周恭帝在位数月，殿前都点检陈桥兵变受禅建宋
+  note_en: "Emperor Gong of Later Zhou reigned only a few months; the Palace Commandant, in the Chenqiao mutiny, received the abdication and founded the Song"
 - type: successor
   target_id: n-song-tai-zong
   note: 弟太宗即位，金匮之盟为争议层
+  note_en: "His younger brother Emperor Taizong takes the throne; the Golden Coffer Pact remains a disputed layer"
 - type: rival
   target_id: n-tang-houzhu
   note: 开宝八年灭南唐，李煜降
+  note_en: "In Kaibao 8, destroys Southern Tang; Li Yu surrenders"
 routes:
 - group: 都城
   order: 1

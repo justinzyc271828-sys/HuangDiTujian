@@ -132,12 +132,15 @@ relations:
 - type: predecessor
   target_id: yuan-tian-shun
   note: 两都之战胜，大都即位
+  note_en: "Victor in the War of the Two Capitals; takes the throne at Dadu"
 - type: successor
   target_id: yuan-ning-zong
   note: 至顺三年崩，侄懿璘质班即位
+  note_en: "Dies in the 3rd year of Zhishun; his nephew Irinjinbal takes the throne"
 - type: kinship
   target_id: yuan-ming-zong
   note: 武宗长子，文宗让位之兄；明宗暴崩后文宗复位
+  note_en: "Emperor Wuzong's eldest son, the elder brother to whom Emperor Wenzong yielded the throne; after Emperor Mingzong's sudden death, Wenzong returns to the throne"
 routes:
 - group: 都城
   order: 1

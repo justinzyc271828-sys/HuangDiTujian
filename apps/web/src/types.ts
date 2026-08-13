@@ -24,6 +24,7 @@ export type Relation = {
   type: string;
   target_id: string | null;
   note?: string;
+  note_en?: string;
 };
 
 export type RoutePoint = {

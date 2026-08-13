@@ -123,9 +123,11 @@ relations:
 - type: predecessor
   target_id: qi-hailing
   note: 建武元年废海陵自立
+  note_en: "In Jianwu 1, deposes the Prince of Hailing and proclaims himself emperor"
 - type: successor
   target_id: qi-donghun
   note: 永泰元年崩，子宝卷即位
+  note_en: "Yongtai 1: dies; his son Baojuan takes the throne"
 routes:
 - group: 都城
   order: 1

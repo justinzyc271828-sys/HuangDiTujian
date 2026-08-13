@@ -192,12 +192,15 @@ relations:
 - type: predecessor
   target_id: e-han-huan
   note: 桓帝崩无嗣，窦武迎立
+  note_en: "Emperor Huan dies without an heir; Dou Wu brings him in and enthrones him"
 - type: successor
   target_id: e-han-shao-bian
   note: 灵帝崩，太子辩即位
+  note_en: "Emperor Ling dies; Crown Prince Bian takes the throne"
 - type: kinship
   target_id: e-han-xian
   note: 献帝为灵帝次子，东汉末代天子
+  note_en: "Emperor Xian is Emperor Ling's second son, the last Son of Heaven of Eastern Han"
 routes:
 - group: 都城
   order: 1

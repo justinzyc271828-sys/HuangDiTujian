@@ -133,9 +133,11 @@ relations:
 - type: predecessor
   target_id: jin-xuan-zong
   note: 宣宗第三子，元光二年即位
+  note_en: "Third son of Xuanzong; takes the throne in the 2nd year of Yuanguang"
 - type: successor
   target_id: yuan-tai-zong
   note: 天兴三年蔡州城破自缢，金亡（亡国链，亡于蒙古/元，波14建页）
+  note_en: "In the third year of Tianxing, Caizhou fell and he hanged himself; the Jin perished (chain of fallen states; destroyed by the Mongols/Yuan; page to be built in wave 14)"
 routes:
 - group: 都城
   order: 1

@@ -128,9 +128,11 @@ relations:
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 曾仕苻坚，淝水后叛秦复国
+  note_en: "Once served Fu Jian; after the Fei River battle, rebels against Qin and restores his state"
 - type: related_emperor
   target_id: n-wei-daowu
   note: 参合陂之役败于北魏道武帝拓跋珪
+  note_en: "Defeated at the Battle of Canhe Slope by Tuoba Gui, Emperor Daowu of Northern Wei"
 routes:
 - group: 都城
   order: 1

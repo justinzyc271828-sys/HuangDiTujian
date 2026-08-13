@@ -127,12 +127,15 @@ relations:
 - type: predecessor
   target_id: n-qi-wucheng
   note: 河清四年武成禅位，太子纬即位
+  note_en: "Heqing 4: Emperor Wucheng abdicates; Crown Prince Wei takes the throne"
 - type: successor
   target_id: n-zhou-wu
   note: 承光元年被俘，周武帝灭北齐
+  note_en: "Captured in Chengguang 1; Emperor Wu of Northern Zhou destroys Northern Qi"
 - type: kinship
   target_id: n-qi-wucheng
   note: 武成长子
+  note_en: "Eldest son of Emperor Wucheng"
 routes:
 - group: 都城
   order: 1

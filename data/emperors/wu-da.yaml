@@ -206,12 +206,15 @@ relations:
 - type: successor
   target_id: wu-kuaiji
   note: 太元二年崩，少子亮即位
+  note_en: "Died in the second year of Taiyuan; his youngest son Liang took the throne"
 - type: related_emperor
   target_id: shu-zhaolie
   note: 赤壁联军而后为敌
+  note_en: "Allies at Red Cliffs, then foes"
 - type: related_emperor
   target_id: wei-wen
   note: 称藩于魏以制蜀，后称帝绝交
+  note_en: "Declares himself a vassal of Wei to check Shu, later claims the emperorship and breaks off relations"
 routes:
 - group: 都城
   order: 1

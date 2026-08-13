@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: han-gao-wu
   note: 乾祐元年高祖崩，第二子承祐即位
+  note_en: "In the 1st year of Qianyou Gaozu dies; his second son Chengyou takes the throne"
 - type: successor
   target_id: zhou-tai
   note: 乾祐三年郭威入汴，后汉亡（亡国链）
+  note_en: "In the 3rd year of Qianyou Guo Wei enters Bian; Later Han falls (chain of fallen states)"
 - type: kinship
   target_id: han-gao-wu
   note: 高祖第二子
+  note_en: "Second son of Emperor Gaozu"
 routes:
 - group: 都城
   order: 1

@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: jin-zhang-zong
   note: 章宗叔，泰和八年即位
+  note_en: "Uncle of Emperor Zhangzong, takes the throne in the 8th year of Taihe"
 - type: successor
   target_id: jin-xuan-zong
   note: 至宁元年被纥石烈执中弑，立宣宗
+  note_en: "Assassinated by Heshilie Zhizhong in the 1st year of Zhining; Emperor Xuanzong is enthroned"
 routes:
 - group: 都城
   order: 1

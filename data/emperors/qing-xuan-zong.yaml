@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-ren-zong
   note: 仁宗次子，嘉庆二十五年即位
+  note_en: "Second son of Renzong; takes the throne in the 25th year of Jiaqing"
 - type: successor
   target_id: qing-wen-zong
   note: 道光三十年崩，第四子奕詝即位
+  note_en: "Dies in the 30th year of Daoguang; his fourth son Yizhu takes the throne"
 routes:
 - group: 都城
   order: 1

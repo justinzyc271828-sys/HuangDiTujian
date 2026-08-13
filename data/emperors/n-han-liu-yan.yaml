@@ -124,6 +124,7 @@ relations:
 - type: related_emperor
   target_id: n-song-tai-zu
   note: 南汉后为宋所灭（971）
+  note_en: "Southern Han was later destroyed by the Song (971)"
 routes:
 - group: 都城
   order: 1

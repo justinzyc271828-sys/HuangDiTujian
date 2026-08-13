@@ -133,12 +133,15 @@ relations:
 - type: predecessor
   target_id: liao-dao-zong
   note: 道宗孙，寿昌七年即位
+  note_en: "Grandson of Emperor Daozong, takes the throne in the 7th year of Shouchang"
 - type: successor
   target_id: jin-tai-zong
   note: 保大五年被俘，辽亡（亡国链，辽亡于金）
+  note_en: "Captured in the 5th year of Baoda; Liao falls (chain of fallen states: Liao falls to Jin)"
 - type: rival
   target_id: jin-tai-zu
   note: 阿骨打起兵反辽，宁江州之役辽兵大败
+  note_en: "Aguda rises in arms against Liao; the Liao army is crushed at the Battle of Ningjiangzhou"
 routes:
 - group: 都城
   order: 1

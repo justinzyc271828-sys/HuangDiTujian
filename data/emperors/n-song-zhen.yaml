@@ -140,12 +140,15 @@ relations:
 - type: predecessor
   target_id: n-song-tai-zong
   note: 太宗第三子，至道三年即位
+  note_en: "Third son of Taizong; takes the throne in the 3rd year of Zhidao"
 - type: successor
   target_id: n-song-ren
   note: 乾兴元年崩，第六子受益即位
+  note_en: "Dies in the 1st year of Qianxing; his sixth son Shouyi takes the throne"
 - type: treaty
   target_id: liao-sheng-zong
   note: 景德元年澶渊之盟，约为兄弟，岁币银绢
+  note_en: "In Jingde 1, the Treaty of Chanyuan: the two sides swear brotherhood, with annual payments of silver and silk"
 routes:
 - group: 都城
   order: 1

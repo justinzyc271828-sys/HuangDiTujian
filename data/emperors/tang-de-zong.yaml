@@ -136,12 +136,15 @@ relations:
 - type: predecessor
   target_id: tang-dai-zong
   note: 大历十四年代宗崩，太子适即位
+  note_en: "Emperor Daizong died in the fourteenth year of Dali; Crown Prince Kuo took the throne"
 - type: successor
   target_id: tang-shun-zong
   note: 贞元二十一年崩，太子诵即位
+  note_en: "Dies in the 21st year of Zhenyuan; Crown Prince Song takes the throne"
 - type: kinship
   target_id: tang-dai-zong
   note: 代宗长子
+  note_en: "Eldest son of Daizong"
 routes:
 - group: 都城
   order: 1

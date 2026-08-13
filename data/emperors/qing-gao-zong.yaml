@@ -144,9 +144,11 @@ relations:
 - type: predecessor
   target_id: qing-shi-zong-y
   note: 世宗第四子，雍正十三年即位
+  note_en: "Fourth son of Shizong; takes the throne in the 13th year of Yongzheng"
 - type: successor
   target_id: qing-ren-zong
   note: 嘉庆元年内禅，第十五子颙琰即位
+  note_en: "In the first year of Jiaqing, abdicated to his heir; his fifteenth son Yongyan took the throne"
 routes:
 - group: 都城
   order: 1

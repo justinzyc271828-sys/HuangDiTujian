@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-xi-zong
   note: 熹宗弟，天启七年即位
+  note_en: "Emperor Xizong's younger brother; Tianqi 7: takes the throne"
 - type: successor
   target_id: qing-shi-zu
   note: 甲申之变，李自成入京，帝自缢；清入关定鼎（亡国链，李自成不在帝系不建页）
+  note_en: "The Jiashen cataclysm: Li Zicheng enters the capital, the emperor hangs himself; the Qing enter the passes and establish their dynastic rule (chain of dynastic fall — Li Zicheng is not of the imperial line, so no page is built)"
 routes:
 - group: 都城
   order: 1

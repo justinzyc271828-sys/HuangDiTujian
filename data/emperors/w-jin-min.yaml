@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: w-jin-huai
   note: 怀帝平阳遇害，即位于长安
+  note_en: "Emperor Huai is killed at Pingyang; he takes the throne at Chang'an"
 - type: successor
   target_id: e-jin-yuan
   note: 平阳遇害后，琅邪王睿称晋王开东晋
+  note_en: "After the killing at Pingyang, Prince Rui of Langya styles himself Prince of Jin and opens Eastern Jin"
 - type: kinship
   target_id: w-jin-wu
   note: 武帝孙
+  note_en: "Emperor Wu's grandson"
 routes:
 - group: 都城
   order: 1

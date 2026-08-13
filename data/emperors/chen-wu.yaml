@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: liang-jing
   note: 永定元年受禅于梁敬帝
+  note_en: "Yongding 1: receives the throne by abdication from Emperor Jing of Liang"
 - type: successor
   target_id: chen-wen
   note: 永定三年崩，侄蒨即位
+  note_en: "Yongding 3: dies; his nephew Qian takes the throne"
 routes:
 - group: 都城
   order: 1

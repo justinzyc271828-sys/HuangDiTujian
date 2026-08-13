@@ -210,15 +210,19 @@ relations:
 - type: predecessor
   target_id: han-jing-di
   note: 孝景帝第九子，父崩即皇帝位
+  note_en: "Ninth son of Emperor Xiaojing; takes the imperial throne upon his father's death"
 - type: related_emperor
   target_id: qin-shi-huang
   note: 封禅与统一帝国礼仪的长线对照
+  note_en: "A long-line contrast of the feng-shan rites and the ceremonial order of the unified empire"
 - type: related_emperor
   target_id: han-gao-zu
   note: 汉家开国之后的极盛之主
+  note_en: "The most illustrious ruler of the Han house since its founding"
 - type: successor
   target_id: han-zhao-di
   note: 少子弗陵即位，是为昭帝，霍光受遗诏辅政
+  note_en: "The youngest son Fuling takes the throne; he is Emperor Zhao, with Huo Guang serving as regent under the final edict"
 routes:
 - group: 都城
   order: 1

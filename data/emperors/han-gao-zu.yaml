@@ -87,12 +87,15 @@ relations:
   - type: related_emperor
     target_id: qin-shi-huang
     note: 历史序列上承接秦帝国崩溃后的新秩序
+    note_en: "In the historical sequence, inherits the new order after the collapse of the Qin empire"
   - type: related_emperor
     target_id: qin-er-shi
     note: 秦末政治崩解的对照人物
+    note_en: "A contrasting figure in the political collapse of late Qin"
   - type: successor
     target_id: han-hui-di
     note: 太子盈即位，是为惠帝
+    note_en: "The heir apparent Ying takes the throne; he is Emperor Hui"
 
 routes:
   - group: 起兵

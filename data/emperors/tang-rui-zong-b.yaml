@@ -126,15 +126,19 @@ relations:
 - type: predecessor
   target_id: tang-shang
   note: 唐隆政变后，重茂让位睿宗复位
+  note_en: "After the Tanglong coup, Chongmao yielded the throne and Emperor Ruizong was restored"
 - type: successor
   target_id: tang-xuan-zong
   note: 先天元年传位太子隆基
+  note_en: "In the 1st year of Xiantian he hands the throne to Crown Prince Longji"
 - type: related_emperor
   target_id: tang-rui-zong-a
   note: 首次在位降为皇嗣，此为复位
+  note_en: "Demoted to Imperial Heir in his first reign; this is the restoration"
 - type: kinship
   target_id: zhou-wu-zetian
   note: 武后之子
+  note_en: "Son of Empress Wu"
 routes:
 - group: 都城
   order: 1

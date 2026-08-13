@@ -204,15 +204,19 @@ relations:
 - type: predecessor
   target_id: zhou-tai
   note: 养父郭威，周太祖，遗制传位于荣
+  note_en: "His adoptive father Guo Wei, Taizu of Zhou, leaves a testament passing the throne to Rong"
 - type: successor
   target_id: zhou-gong
   note: 子宗训继位，旋禅于宋
+  note_en: "The son Zongxun succeeds but soon abdicates to Song"
 - type: related_emperor
   target_id: n-song-tai-zu
   note: 殿前都点检赵匡胤，陈桥兵变承其后局
+  note_en: "Zhao Kuangyin, commandant of the Palace Guard, takes over the endgame at the Chenqiao Mutiny"
 - type: rival
   target_id: n-tang-yuan-zong
   note: 南唐中主李璟，三征淮南、献江北十四州
+  note_en: "Li Jing, Middle Ruler of Southern Tang; campaigned against three times in Huainan and ceded the fourteen prefectures north of the Yangzi"
 routes:
 - group: 都城
   order: 1

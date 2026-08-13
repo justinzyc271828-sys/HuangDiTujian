@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: wei-qi
   note: 嘉平六年废齐王芳，迎立高贵乡公
+  note_en: "In the sixth year of Jiaping, deposed Fang, Prince of Qi, and welcomed in the Duke of Gaoguixiang"
 - type: successor
   target_id: wei-yuan
   note: 甘露五年被弑，立常道乡公奂
+  note_en: "Ganlu 5: assassinated; Huan, Duke of Changdao Township, is enthroned"
 - type: kinship
   target_id: wei-wen
   note: 文帝孙
+  note_en: "Grandson of Emperor Wen"
 routes:
 - group: 都城
   order: 1

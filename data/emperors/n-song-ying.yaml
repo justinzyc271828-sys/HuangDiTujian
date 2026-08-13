@@ -134,9 +134,11 @@ relations:
 - type: predecessor
   target_id: n-song-ren
   note: 仁宗无嗣，养于宫中，嘉祐八年立为皇子
+  note_en: "Renzong has no heir; raised in the palace and made imperial son in the 8th year of Jiayou"
 - type: successor
   target_id: n-song-shen
   note: 治平四年崩，长子顼即位
+  note_en: "Zhiping 4: dies; his eldest son Xu takes the throne"
 routes:
 - group: 都城
   order: 1

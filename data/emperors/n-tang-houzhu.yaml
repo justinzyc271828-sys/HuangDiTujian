@@ -129,12 +129,15 @@ relations:
 - type: predecessor
   target_id: n-tang-yuan-zong
   note: 中主李璟卒，煜继位
+  note_en: "The Middle Ruler Li Jing dies; Yu succeeds"
 - type: rival
   target_id: n-song-tai-zu
   note: 开宝年间遣曹彬等伐江南，灭南唐
+  note_en: "During the Kaibao era, sends Cao Bin and others against Jiangnan and destroys Southern Tang"
 - type: related_emperor
   target_id: n-song-tai-zong
   note: 太平兴国三年卒于宋太宗朝；赐死传说待考
+  note_en: "Dies in the 3rd year of Taiping Xingguo under Emperor Taizong of Song; the tale of a forced death remains unverified"
 routes:
 - group: 都城
   order: 1

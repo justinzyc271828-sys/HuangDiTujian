@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-cheng-zong
   note: 成宗侄，大德十一年即位
+  note_en: "Nephew of Emperor Chengzong; takes the throne in Dade 11"
 - type: successor
   target_id: yuan-ren-zong
   note: 至大四年崩，弟爱育黎拔力八达即位（兄终弟及之约）
+  note_en: "Dies in the 4th year of Zhida; his younger brother Ayurbarwada takes the throne (under the brother-to-brother succession pact)"
 routes:
 - group: 都城
   order: 1

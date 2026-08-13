@@ -144,9 +144,11 @@ relations:
 - type: predecessor
   target_id: yuan-hui-zong
   note: 元至正二十八年明军克大都，惠宗北奔，明取天下（元亡明兴）
+  note_en: "In the 28th year of Yuan Zhizheng, Ming forces take Dadu; Huizong flees north and Ming wins the realm (Yuan falls, Ming rises)"
 - type: successor
   target_id: ming-hui-di
   note: 洪武三十一年崩，孙允炆即位
+  note_en: "Hongwu 31: dies; his grandson Yunwen takes the throne"
 routes:
 - group: 都城
   order: 1

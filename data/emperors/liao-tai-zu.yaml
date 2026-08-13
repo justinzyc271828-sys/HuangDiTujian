@@ -133,9 +133,11 @@ relations:
 - type: successor
   target_id: liao-tai-zong
   note: 天显元年崩，次子德光即位（述律太后定策）
+  note_en: "Died in the first year of Tianxian; his second son Deguang took the throne (Empress Dowager Shulü decided the succession)"
 - type: rival
   target_id: tang-mo
   note: 五代之世，契丹雄踞北方，与中原王朝并立
+  note_en: "In the Five Dynasties era the Khitan hold the north in strength, standing alongside the Central Plain dynasties"
 routes:
 - group: 都城
   order: 1

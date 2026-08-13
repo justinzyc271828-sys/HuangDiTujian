@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: liu-song-wu
   note: 永初三年武帝崩，太子义符即位
+  note_en: "Yongchu 3: Emperor Wu dies; Crown Prince Yifu takes the throne"
 - type: successor
   target_id: liu-song-wen
   note: 景平二年被废，迎立宜都王义隆
+  note_en: "Deposed in Jingping 2; Yilong, Prince of Yidu, is welcomed to the throne"
 routes:
 - group: 都城
   order: 1

@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: n-tang-lie-zu
   note: 昇元七年烈祖崩，长子璟即位
+  note_en: "In Shengyuan 7, Emperor Liezu dies and his eldest son Jing takes the throne"
 - type: successor
   target_id: n-tang-houzhu
   note: 建隆二年崩，子煜即位于金陵
+  note_en: "Dies in Jianlong 2; his son Yu takes the throne at Jinling"
 - type: kinship
   target_id: n-tang-lie-zu
   note: 烈祖长子
+  note_en: "Eldest son of Emperor Liezu"
 routes:
 - group: 都城
   order: 1

@@ -157,9 +157,11 @@ relations:
 - type: predecessor
   target_id: qing-shi-zu
   note: 世祖第三子，顺治十八年即位，四大臣辅政
+  note_en: "Third son of Shizu; takes the throne in the 18th year of Shunzhi, with four ministers as regents"
 - type: successor
   target_id: qing-shi-zong-y
   note: 康熙六十一年崩，第四子胤禛即位
+  note_en: "Dies in the 61st year of Kangxi; the fourth son Yinzhen takes the throne"
 routes:
 - group: 都城
   order: 1

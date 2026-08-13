@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-ding-zong
   note: 定宗崩后汗位空虚，1251年拖雷长子蒙哥即位于忽里台
+  note_en: "After Dingzong dies the khanship stands vacant; in 1251 Tolui's eldest son Möngke takes the throne at the quriltai"
 - type: successor
   target_id: yuan-shi-zu
   note: 九年崩于钓鱼城下，弟忽必烈1260年即位
+  note_en: "In the ninth year he dies beneath Diaoyu City; his brother Kublai takes the throne in 1260"
 routes:
 - group: 都城
   order: 1

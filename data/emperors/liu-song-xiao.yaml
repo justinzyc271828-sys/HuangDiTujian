@@ -125,9 +125,11 @@ relations:
 - type: predecessor
   target_id: liu-song-wen
   note: 元嘉三十年文帝见弑，起兵诛劭即位
+  note_en: "In the 30th year of Yuanjia Emperor Wen is assassinated; he raises an army, executes Shao, and takes the throne"
 - type: successor
   target_id: liu-song-qianfei
   note: 大明八年崩，长子子业即位
+  note_en: "Died in the eighth year of Daming; his eldest son Ziye took the throne"
 routes:
 - group: 都城
   order: 1

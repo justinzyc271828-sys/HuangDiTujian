@@ -75,9 +75,11 @@ relations:
   - type: predecessor
     target_id: qin-shi-huang
     note: 父（始皇帝）
+    note_en: "His father (the First Emperor)"
   - type: successor
     target_id: qin-zi-ying
     note: 赵高弑二世于望夷宫，立子婴，去帝号称秦王
+    note_en: "Zhao Gao assassinates the Second Emperor at Wangyi Palace and installs Ziying, who drops the imperial title and is styled King of Qin"
 
 routes:
   - group: 都城

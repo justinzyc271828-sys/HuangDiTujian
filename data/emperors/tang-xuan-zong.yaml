@@ -173,15 +173,19 @@ relations:
 - type: predecessor
   target_id: tang-rui-zong-b
   note: 先天元年睿宗传位，太子隆基即位
+  note_en: "In the 1st year of Xiantian Ruizong hands over the throne; Crown Prince Longji takes the throne"
 - type: successor
   target_id: tang-su-zong
   note: 至德元载太子即位灵武，尊为太上皇
+  note_en: "In the 1st year of Zhide, the crown prince takes the throne at Lingwu and honors him as Retired Emperor"
 - type: kinship
   target_id: tang-rui-zong-b
   note: 睿宗第三子
+  note_en: "Emperor Ruizong's third son"
 - type: related_emperor
   target_id: zhou-wu-zetian
   note: 武后时垂拱年间出生，历经武周
+  note_en: "Born in the Chuigong years under Empress Wu, living through the Wu Zhou"
 routes:
 - group: 都城
   order: 1

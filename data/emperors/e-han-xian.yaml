@@ -198,15 +198,19 @@ relations:
 - type: predecessor
   target_id: e-han-shao-bian
   note: 董卓废辩立协
+  note_en: "Dong Zhuo deposes Liu Bian and enthrones Liu Xie"
 - type: successor
   target_id: wei-wen
   note: 延康元年受禅，汉祚终（魏文帝页未建，链灰卡）
+  note_en: "Receives the abdication in the 1st year of Yankang; the Han mandate ends (Emperor Wen of Wei's page not yet built, linked as a grey card)"
 - type: kinship
   target_id: e-han-ling
   note: 灵帝次子
+  note_en: "Emperor Ling's second son"
 - type: related_emperor
   target_id: e-han-guangwu
   note: 光武中兴与献帝之亡，东汉两端对照
+  note_en: "Guangwu's restoration and Emperor Xian's fall: a foil of the two ends of Eastern Han"
 routes:
 - group: 都城
   order: 1

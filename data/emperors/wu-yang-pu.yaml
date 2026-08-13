@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: wu-yang-xingmi
   note: 行密卒后渥、隆演相继（不在目录），武义二年溥即位
+  note_en: "After Xingmi's death, Wo and Longyan succeed in turn (not in the catalog); Pu takes the throne in the 2nd year of Wuyi"
 - type: successor
   target_id: n-tang-lie-zu
   note: 天祚三年禅位于徐知诰（李昪），吴亡
+  note_en: "In the third year of Tianzuo, abdicated to Xu Zhigao (Li Bian); the Wu fell"
 - type: kinship
   target_id: wu-yang-xingmi
   note: 行密第四子
+  note_en: "Fourth son of Xingmi"
 routes:
 - group: 都城
   order: 1

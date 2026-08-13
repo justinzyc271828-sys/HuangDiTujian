@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: n-qi-xiaozhao
   note: 皇建二年孝昭伤重崩，弟湛即位
+  note_en: "Huangjian 2: Emperor Xiaozhao dies of grave wounds; his brother Zhan takes the throne"
 - type: successor
   target_id: n-qi-houzhu
   note: 河清四年禅位太子纬
+  note_en: "Heqing 4: abdicates to Crown Prince Wei"
 - type: kinship
   target_id: n-qi-wenxuan
   note: 文宣帝弟，高欢第九子
+  note_en: "Younger brother of Emperor Wenxuan; ninth son of Gao Huan"
 routes:
 - group: 都城
   order: 1

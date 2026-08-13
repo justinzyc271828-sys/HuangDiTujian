@@ -149,9 +149,11 @@ relations:
 - type: predecessor
   target_id: s-song-guang
   note: 光宗子，绍熙五年受内禅
+  note_en: "Son of Guangzong; receives an abdication within the family in the 5th year of Shaoxi"
 - type: successor
   target_id: s-song-li
   note: 无子，嘉定十七年史弥远矫诏立贵诚（理宗）
+  note_en: "Childless; in Jiading 17, Shi Miyuan enthrones Guicheng on a forged edict (Emperor Lizong)"
 routes:
 - group: 都城
   order: 1

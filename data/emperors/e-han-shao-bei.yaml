@@ -128,9 +128,11 @@ relations:
 - type: predecessor
   target_id: e-han-an
   note: 安帝崩于叶，阎后立北乡侯
+  note_en: "Emperor An dies at Ye; Empress Yan installs the Marquis of Beixiang"
 - type: successor
   target_id: e-han-shun
   note: 北乡侯薨，孙程等十九侯迎立顺帝
+  note_en: "The Marquis of Beixiang dies; Sun Cheng and the nineteen marquises bring in and enthrone Emperor Shun"
 routes:
 - group: 都城
   order: 1

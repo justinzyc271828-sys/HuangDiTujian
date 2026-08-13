@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: n-wei-xiaowu
   note: 孝武西奔后，高欢立孝静于邺
+  note_en: "After Emperor Xiaowu flees west, Gao Huan installs Xiaojing at Ye"
 - type: successor
   target_id: n-qi-wenxuan
   note: 武定八年禅位于高洋，东魏亡
+  note_en: "Wuding 8: abdicates to Gao Yang; Eastern Wei falls"
 - type: related_emperor
   target_id: w-wei-wen
   note: 与西魏文帝并立，魏分东西
+  note_en: "Reigns parallel to Emperor Wen of Western Wei; Wei splits into east and west"
 routes:
 - group: 都城
   order: 1

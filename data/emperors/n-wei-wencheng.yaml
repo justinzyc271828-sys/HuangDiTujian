@@ -125,12 +125,15 @@ relations:
 - type: predecessor
   target_id: n-wei-taiwu
   note: 宗爱弑太武，濬入定乱即位
+  note_en: "Zong Ai assassinates Emperor Taiwu; Jun enters, restores order, and takes the throne"
 - type: successor
   target_id: n-wei-xianwen
   note: 和平六年崩，子弘即位
+  note_en: "Died in the sixth year of Heping; his son Hong took the throne"
 - type: kinship
   target_id: n-wei-taiwu
   note: 太武帝孙，景穆太子之子
+  note_en: "Grandson of Emperor Taiwu; son of Crown Prince Jingmu"
 routes:
 - group: 都城
   order: 1

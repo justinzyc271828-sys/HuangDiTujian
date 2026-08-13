@@ -136,9 +136,11 @@ relations:
 - type: predecessor
   target_id: n-song-shen
   note: 神宗第六子，元丰八年即位，高太后临朝
+  note_en: "Sixth son of Emperor Shenzong, takes the throne in the 8th year of Yuanfeng, with Empress Dowager Gao ruling as regent"
 - type: successor
   target_id: n-song-hui
   note: 无子，元符三年向太后立端王佶
+  note_en: "Childless; in Yuanfu 3, Empress Dowager Xiang enthrones Ji, Prince of Duan"
 routes:
 - group: 都城
   order: 1

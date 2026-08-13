@@ -123,9 +123,11 @@ relations:
 - type: predecessor
   target_id: b-han-liu-chong
   note: 乾祐七年崇卒，次子承钧即位
+  note_en: "In the 7th year of Qianyou Chong dies; his second son Chengjun takes the throne"
 - type: kinship
   target_id: b-han-liu-chong
   note: 崇次子
+  note_en: "Second son of Chong"
 routes:
 - group: 都城
   order: 1

@@ -121,6 +121,7 @@ relations:
 - type: related_emperor
   target_id: q-qin-fu-jian
   note: 受前秦官爵，与关陇诸政权互动
+  note_en: "Received offices and titles from Former Qin and dealt with the various regimes of the Guanlong region"
 routes:
 - group: 都城
   order: 1

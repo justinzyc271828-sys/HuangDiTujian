@@ -132,9 +132,11 @@ relations:
 - type: predecessor
   target_id: qing-tai-zu
   note: 太祖第八子，天命十一年即位
+  note_en: "Eighth son of Taizu; takes the throne in the 11th year of Tianming"
 - type: successor
   target_id: qing-shi-zu
   note: 崇德八年崩，第九子福临即位（多尔衮辅政）
+  note_en: "Dies in the 8th year of Chongde; the ninth son Fulin takes the throne (Dorgon as regent)"
 routes:
 - group: 都城
   order: 1

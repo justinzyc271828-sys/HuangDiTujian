@@ -213,12 +213,15 @@ relations:
 - type: predecessor
   target_id: wei-yuan
   note: 咸熙二年受禅于魏元帝
+  note_en: "In the second year of Xianxi, received the abdication of Emperor Yuan of Wei"
 - type: successor
   target_id: w-jin-hui
   note: 太熙元年崩，太子衷即位
+  note_en: "Dies in the 1st year of Taixi; the heir apparent Zhong takes the throne"
 - type: related_emperor
   target_id: wu-wucheng
   note: 太康元年平吴，孙皓降
+  note_en: "In the 1st year of Taikang Wu is pacified; Sun Hao surrenders"
 routes:
 - group: 都城
   order: 1

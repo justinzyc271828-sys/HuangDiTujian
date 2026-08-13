@@ -201,12 +201,15 @@ relations:
 - type: related_emperor
   target_id: n-wei-taiwu
   note: 先统一后汉化的长线对照
+  note_en: "A long-range foil of unification first, Sinicization later"
 - type: predecessor
   target_id: n-wei-xianwen
   note: 父献文帝内禅，五岁即位，冯太后临朝称制
+  note_en: "His father Emperor Xianwen abdicates internally; he takes the throne at five, Empress Dowager Feng ruling as regent"
 - type: successor
   target_id: n-wei-xuanwu
   note: 太子恪即位，是为宣武帝，汉化路线延续
+  note_en: "The heir apparent Ke takes the throne; he is Emperor Xuanwu, and the Sinicization course continues"
 routes:
 - group: 都城
   order: 1

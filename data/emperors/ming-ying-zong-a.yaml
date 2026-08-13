@@ -143,9 +143,11 @@ relations:
 - type: predecessor
   target_id: ming-xuan-zong
   note: 宣宗长子，宣德十年即位
+  note_en: "Eldest son of Xuanzong; takes the throne in the 10th year of Xuande"
 - type: successor
   target_id: ming-dai-zong
   note: 正统十四年土木被俘，弟郕王监国即位（景泰帝）
+  note_en: "Zhengtong 14: captured at Tumu; his brother the Prince of Cheng governs as regent and takes the throne (the Jingtai Emperor)"
 routes:
 - group: 都城
   order: 1

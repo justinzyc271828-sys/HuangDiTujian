@@ -132,9 +132,11 @@ relations:
 - type: successor
   target_id: jin-tai-zong
   note: 天辅七年崩，弟吴乞买即位（兄终弟及）
+  note_en: "Died in the seventh year of Tianfu; his younger brother Wuqimai took the throne (brother-to-brother succession)"
 - type: rival
   target_id: liao-tianzuo
   note: 起兵反辽，辽末诸役皆大胜
+  note_en: "Rises in arms against Liao and wins every campaign of Liao's final years"
 routes:
 - group: 亲征
   order: 1

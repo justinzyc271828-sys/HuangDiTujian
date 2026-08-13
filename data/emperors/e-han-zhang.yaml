@@ -193,12 +193,15 @@ relations:
 - type: predecessor
   target_id: e-han-ming
   note: 明帝崩，太子炟即位
+  note_en: "Emperor Ming dies; Crown Prince Da takes the throne"
 - type: successor
   target_id: e-han-he
   note: 章帝崩，和帝幼年即位，窦太后临朝
+  note_en: "Emperor Zhang dies; Emperor He takes the throne as a child, and Empress Dowager Dou rules as regent"
 - type: related_emperor
   target_id: e-han-guangwu
   note: 光武创业与明章守文，东汉三代对照
+  note_en: "Guangwu's founding and the civil rule of Ming and Zhang: a foil across three Eastern Han generations"
 routes:
 - group: 都城
   order: 1

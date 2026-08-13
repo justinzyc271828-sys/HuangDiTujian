@@ -126,12 +126,15 @@ relations:
 - type: predecessor
   target_id: n-wei-xiaowen
   note: 太和二十三年孝文崩，子恪即位
+  note_en: "Emperor Xiaowen died in the twenty-third year of Taihe; his son Ke took the throne"
 - type: successor
   target_id: n-wei-xiaoming
   note: 延昌四年崩，子诩即位
+  note_en: "Dies in the 4th year of Yanchang; the son Xu takes the throne"
 - type: kinship
   target_id: n-wei-xiaowen
   note: 孝文帝第二子
+  note_en: "Second son of Emperor Xiaowen"
 routes:
 - group: 都城
   order: 1

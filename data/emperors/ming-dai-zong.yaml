@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-ying-zong-a
   note: 英宗土木被俘，弟郕王监国即位
+  note_en: "Emperor Yingzong is captured at Tumu; his younger brother, the Prince of Cheng, acts as regent and takes the throne"
 - type: successor
   target_id: ming-ying-zong-b
   note: 景泰八年夺门之变，英宗复位
+  note_en: "In Jingtai 8, the Gate-Seizing Coup restores Emperor Yingzong to the throne"
 routes:
 - group: 都城
   order: 1

@@ -189,15 +189,19 @@ relations:
 - type: predecessor
   target_id: tang-shun-zong
   note: 永贞元年顺宗内禅，承其皇位
+  note_en: "Yongzhen 1: Emperor Shunzong abdicates internally; he inherits the throne"
 - type: successor
   target_id: tang-mu-zong
   note: 暴崩后穆宗即位，削藩随之回落
+  note_en: "After his sudden death, Emperor Muzong takes the throne and the drive to cut the vassals recedes"
 - type: related_emperor
   target_id: tang-tai-zong
   note: 同朝盛世范式，"元和中兴"叙事的长线对照
+  note_en: "A flourishing-age paradigm of the same dynasty; a long-range narrative parallel to the 'Yuanhe Restoration'"
 - type: related_emperor
   target_id: zhou-wu-zetian
   note: 唐朝由盛入中长线上的前段坐标
+  note_en: "An early-stage marker on the Tang's long line from its zenith into decline"
 routes:
 - group: 都城
   order: 1

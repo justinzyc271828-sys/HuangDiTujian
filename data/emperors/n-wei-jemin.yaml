@@ -121,9 +121,11 @@ relations:
 - type: predecessor
   target_id: n-wei-xiaozhuang
   note: 孝庄被弑后，尔朱世隆立元恭
+  note_en: "After Xiaozhuang is assassinated, Erzhu Shilong enthrones Yuan Gong"
 - type: successor
   target_id: n-wei-xiaowu
   note: 普泰二年被废，高欢立平阳王修
+  note_en: "Deposed in Putai 2; Gao Huan enthrones Xiu, Prince of Pingyang"
 routes:
 - group: 都城
   order: 1

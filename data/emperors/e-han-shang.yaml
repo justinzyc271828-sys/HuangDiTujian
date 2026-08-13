@@ -129,12 +129,15 @@ relations:
 - type: predecessor
   target_id: e-han-he
   note: 和帝崩，少子隆即位
+  note_en: "Emperor He died; his youngest son Long took the throne"
 - type: successor
   target_id: e-han-an
   note: 殇帝崩，邓后定策迎立安帝
+  note_en: "Emperor Shang dies; Empress Deng settles the succession and enthrones Emperor An"
 - type: related_emperor
   target_id: e-han-chong
   note: 同为襁褓即位的幼主，东汉幼主政治的开端
+  note_en: "Both infant rulers enthroned in swaddling clothes; the beginning of Eastern Han child-emperor politics"
 routes:
 - group: 都城
   order: 1

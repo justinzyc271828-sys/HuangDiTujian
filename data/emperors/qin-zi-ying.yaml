@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: qin-er-shi
   note: 二世被弑后，赵高立子婴
+  note_en: "After the Second Emperor is assassinated, Zhao Gao enthrones Ziying"
 - type: related_emperor
   target_id: qin-shi-huang
   note: 秦室宗亲，身世史有异说（二世兄子/始皇弟）
+  note_en: "A Qin imperial clansman; the records differ on his origins (son of the Second Emperor's elder brother / younger brother of the First Emperor)"
 routes:
 - group: 都城
   order: 1

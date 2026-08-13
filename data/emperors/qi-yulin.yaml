@@ -121,9 +121,11 @@ relations:
 - type: predecessor
   target_id: qi-wu
   note: 永明十一年武帝崩，太孙昭业即位
+  note_en: "Yongming 11: Emperor Wu dies; the imperial grandson Zhaoye takes the throne"
 - type: successor
   target_id: qi-hailing
   note: 隆昌元年见废，立海陵王昭文
+  note_en: "Deposed in the 1st year of Longchang; Zhaowen, Prince of Hailing, is enthroned"
 routes:
 - group: 都城
   order: 1

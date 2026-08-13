@@ -134,12 +134,15 @@ relations:
 - type: predecessor
   target_id: s-song-gong
   note: 度宗长子，恭帝被掳后于福州即位（流亡续祚）
+  note_en: "Eldest son of Duzong; takes the throne at Fuzhou after Emperor Gong is captured (the line continued in exile)"
 - type: successor
   target_id: s-song-di-bing
   note: 景炎三年崩于硇洲，弟昺继
+  note_en: "Dies at Naozhou in Jingyan 3; his younger brother Bing succeeds"
 - type: kinship
   target_id: s-song-gong
   note: 恭帝兄，益王
+  note_en: "Elder brother of Emperor Gong; Prince of Yi"
 routes:
 - group: 都城
   order: 1

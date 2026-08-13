@@ -171,9 +171,11 @@ relations:
 - type: predecessor
   target_id: e-jin-gong
   note: 永初元年受禅于晋恭帝
+  note_en: "Yongchu 1: receives the throne by abdication from Emperor Gong of Jin"
 - type: successor
   target_id: liu-song-shao
   note: 永初三年崩，太子义符即位
+  note_en: "Yongchu 3: dies; Crown Prince Yifu takes the throne"
 routes:
 - group: 都城
   order: 1

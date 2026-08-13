@@ -120,9 +120,11 @@ relations:
 - type: predecessor
   target_id: chen-wen
   note: 天康元年文帝崩，子伯宗即位
+  note_en: "Emperor Wen died in the first year of Tiankang; his son Bozong took the throne"
 - type: successor
   target_id: chen-xuan
   note: 光大二年被废，安成王顼自立
+  note_en: "Deposed in the 2nd year of Guangda; Xu, Prince of Ancheng, takes the throne himself"
 routes:
 - group: 都城
   order: 1

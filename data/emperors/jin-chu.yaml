@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: jin-gao
   note: 天福七年高祖崩，侄重贵即位
+  note_en: "Emperor Gaozu died in the seventh year of Tianfu; his nephew Chonggui took the throne"
 - type: successor
   target_id: han-gao-wu
   note: 开运四年辽灭后晋，刘知远即位于中原（亡国链）
+  note_en: "In Kaiyun 4, Liao destroys Later Jin; Liu Zhiyuan takes the throne in the Central Plains (chain of fallen dynasties)"
 - type: kinship
   target_id: jin-gao
   note: 高祖兄子
+  note_en: "Son of Emperor Gaozu's elder brother"
 routes:
 - group: 都城
   order: 1

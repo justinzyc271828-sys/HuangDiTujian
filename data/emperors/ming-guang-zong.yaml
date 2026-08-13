@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: ming-shen-zong
   note: 神宗长子，万历四十八年即位
+  note_en: "Eldest son of Emperor Shenzong, takes the throne in the 48th year of Wanli"
 - type: successor
   target_id: ming-xi-zong
   note: 泰昌元年崩，子由校即位
+  note_en: "Taichang 1: dies; his son Youxiao takes the throne"
 routes:
 - group: 都城
   order: 1

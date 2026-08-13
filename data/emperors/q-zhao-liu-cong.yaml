@@ -127,9 +127,11 @@ relations:
 - type: predecessor
   target_id: q-zhao-liu-yuan
   note: 永嘉四年杀兄和自立
+  note_en: "Yongjia 4: kills his brother He and sets himself up"
 - type: successor
   target_id: q-zhao-liu-yao
   note: 麟嘉三年靳准之乱后，曜即帝位于长安
+  note_en: "After the Jin Zhun Rebellion in the 3rd year of Linjia, Yao claims the imperial throne at Chang'an"
 routes:
 - group: 都城
   order: 1

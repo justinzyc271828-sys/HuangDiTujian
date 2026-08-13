@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: yuan-tai-ding
   note: 泰定帝子，致和元年即位于上都
+  note_en: "Son of Emperor Taiding; Zhizhi 1: takes the throne at Shangdu"
 - type: successor
   target_id: yuan-wen-zong
   note: 两都之战败，上都降，被废（下落不明）；文宗即真
+  note_en: "Defeated in the War of the Two Capitals; Shangdu surrenders and he is deposed (whereabouts unknown); Wenzong takes the throne in earnest"
 routes:
 - group: 都城
   order: 1

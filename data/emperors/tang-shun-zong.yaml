@@ -121,12 +121,15 @@ relations:
 - type: predecessor
   target_id: tang-de-zong
   note: 贞元二十一年德宗崩，太子诵即位
+  note_en: "In the 21st year of Zhenyuan, Emperor Dezong dies; Crown Prince Song takes the throne"
 - type: successor
   target_id: tang-xian-zong
   note: 永贞元年禅位太子纯（宪宗）
+  note_en: "Yongzhen 1: abdicates to Crown Prince Chun (Emperor Xianzong)"
 - type: kinship
   target_id: tang-de-zong
   note: 德宗长子
+  note_en: "Eldest son of Emperor Dezong"
 routes:
 - group: 都城
   order: 1

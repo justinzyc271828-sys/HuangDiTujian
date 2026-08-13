@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: liao-tai-zong
   note: 太祖长孙，太宗崩后即位
+  note_en: "Eldest grandson of Taizu; takes the throne after Taizong dies"
 - type: successor
   target_id: liao-mu-zong
   note: 天禄五年被察割弑，太宗子璟即位平乱
+  note_en: "Assassinated by Chage in the fifth year of Tianlu; Emperor Taizong's son Jing took the throne and quelled the revolt"
 routes:
 - group: 其他
   order: 1

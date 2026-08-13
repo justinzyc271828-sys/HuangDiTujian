@@ -177,13 +177,14 @@ export default function MemorialMain({
             <tbody>
               {(emperor.relations || []).map((r, i) => {
                 const t2 = r.target_id ? byId[r.target_id] : null;
+                const relNote = isEn ? (r.note_en ?? r.note) : r.note;
                 return (
                   <tr key={i}>
                     <td>{relLabel(r.type, lang)}</td>
                     <td>
-                      {t2 ? <Link to={`/emperor/${t2.id}`}>{nameOf(t2)}</Link> : r.note || t("rel.pending")}
+                      {t2 ? <Link to={`/emperor/${t2.id}`}>{nameOf(t2)}</Link> : relNote || t("rel.pending")}
                     </td>
-                    <td>{r.note || "—"}</td>
+                    <td>{relNote || "—"}</td>
                   </tr>
                 );
               })}

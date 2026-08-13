@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: jin-chu
   note: 辽灭后晋后，知远即位于中原（亡国链）
+  note_en: "After Liao destroys Later Jin, Zhiyuan takes the throne in the Central Plains (fall-of-dynasty chain)"
 - type: successor
   target_id: han-yin
   note: 乾祐元年崩，第二子承祐即位
+  note_en: "Dies in the 1st year of Qianyou; his second son Chengyou takes the throne"
 - type: kinship
   target_id: jin-gao
   note: 尝仕后晋为河东节度使
+  note_en: "Once served Later Jin as military governor of Hedong"
 routes:
 - group: 都城
   order: 1

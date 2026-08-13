@@ -125,15 +125,19 @@ relations:
 - type: predecessor
   target_id: tang-zhong-zong-a
   note: 嗣圣元年中宗被废，武后立豫王旦
+  note_en: "In the first year of Sisheng, Emperor Zhongzong was deposed; Empress Wu enthroned Dan, Prince of Yu"
 - type: successor
   target_id: zhou-wu-zetian
   note: 载初元年武后称帝，旦降为皇嗣
+  note_en: "In the 1st year of Zaichu, Empress Wu claims the emperorship; Dan is demoted to Imperial Heir"
 - type: kinship
   target_id: zhou-wu-zetian
   note: 武后所生第八子
+  note_en: "Eighth son borne by Empress Wu"
 - type: related_emperor
   target_id: tang-rui-zong-b
   note: 唐隆元年复位，同一人二纪
+  note_en: "Restored to the throne in the first year of Tanglong; the same man, a second reign"
 routes:
 - group: 都城
   order: 1

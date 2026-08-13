@@ -123,12 +123,15 @@ relations:
 - type: predecessor
   target_id: n-zhou-xuan
   note: 大象元年宣帝禅位，太子阐即位
+  note_en: "In the first year of Daxiang, Emperor Xuan abdicated; Crown Prince Chan took the throne"
 - type: successor
   target_id: sui-wen
   note: 大定元年禅位于杨坚，北周亡
+  note_en: "In the first year of Dading, abdicated to Yang Jian; Northern Zhou fell"
 - type: kinship
   target_id: n-zhou-xuan
   note: 宣帝长子
+  note_en: "Eldest son of Emperor Xuan"
 routes:
 - group: 都城
   order: 1

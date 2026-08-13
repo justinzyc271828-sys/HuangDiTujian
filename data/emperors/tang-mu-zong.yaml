@@ -124,12 +124,15 @@ relations:
 - type: predecessor
   target_id: tang-xian-zong
   note: 元和十五年宪宗崩，第三子恒即位
+  note_en: "In the 15th year of Yuanhe Xianzong dies; his third son Heng takes the throne"
 - type: successor
   target_id: tang-jing-zong
   note: 长庆四年崩，长子湛即位
+  note_en: "Dies in the 4th year of Changqing; his eldest son Zhan takes the throne"
 - type: kinship
   target_id: tang-xian-zong
   note: 宪宗第三子
+  note_en: "Third son of Xianzong"
 routes:
 - group: 都城
   order: 1

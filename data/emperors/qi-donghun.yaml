@@ -121,9 +121,11 @@ relations:
 - type: predecessor
   target_id: qi-ming
   note: 永泰元年明帝崩，子宝卷即位
+  note_en: "Yongtai 1: Emperor Ming dies; his son Baojuan takes the throne"
 - type: successor
   target_id: qi-he
   note: 中兴元年被废，立南康王宝融
+  note_en: "Deposed in the 1st year of Zhongxing; Baorong, Prince of Nankang, is enthroned"
 routes:
 - group: 都城
   order: 1

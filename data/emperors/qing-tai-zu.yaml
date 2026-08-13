@@ -131,9 +131,11 @@ relations:
 - type: successor
   target_id: qing-tai-zong
   note: 天命十一年宁远败后崩，第八子皇太极即位
+  note_en: "Died in the eleventh year of Tianming after the Ningyuan defeat; his eighth son Hong Taiji took the throne"
 - type: rival
   target_id: ming-shen-zong
   note: 天命四年萨尔浒之战大破明军
+  note_en: "In the fourth year of Tianming, crushed the Ming army at the Battle of Sarhu"
 routes:
 - group: 其他
   order: 1

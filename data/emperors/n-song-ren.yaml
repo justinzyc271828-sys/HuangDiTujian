@@ -156,12 +156,15 @@ relations:
 - type: predecessor
   target_id: n-song-zhen
   note: 真宗第六子，乾兴元年即位，刘太后垂帘
+  note_en: "Emperor Zhenzong's sixth son; Qianxing 1: takes the throne, Empress Dowager Liu holding court behind the curtain"
 - type: successor
   target_id: n-song-ying
   note: 无嗣，嘉祐八年立濮王允让子宗实为嗣
+  note_en: "Without an heir; in Jiayou 8, names Zongshi, son of Yunrang, Prince of Pu, as heir"
 - type: treaty
   target_id: xixia-li-yuanhao
   note: 庆历四年元昊称臣，宋岁赐
+  note_en: "In the 4th year of Qingli Yuanhao submits as a vassal; Song grants annual payments"
 routes:
 - group: 都城
   order: 1

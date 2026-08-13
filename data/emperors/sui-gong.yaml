@@ -122,9 +122,11 @@ relations:
 - type: predecessor
   target_id: sui-yang
   note: 炀帝江都被弑，恭帝先被李渊所立
+  note_en: "Emperor Yang is assassinated at Jiangdu; Emperor Gong had first been enthroned by Li Yuan"
 - type: successor
   target_id: tang-gao-zu
   note: 义宁二年禅位于李渊，隋亡
+  note_en: "In the 2nd year of Yining he abdicates to Li Yuan; Sui falls"
 routes:
 - group: 都城
   order: 1

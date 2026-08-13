@@ -143,9 +143,11 @@ relations:
 - type: predecessor
   target_id: ming-xiao-zong
   note: 孝宗独子，弘治十八年即位
+  note_en: "Only son of Xiaozong; takes the throne in the 18th year of Hongzhi"
 - type: successor
   target_id: ming-shi-zong
   note: 无子，正德十六年崩，堂弟兴献王之子厚熜即位
+  note_en: "Childless; dies in Zhengde 16, and his cousin Houcong, son of the Prince of Xingxian, takes the throne"
 routes:
 - group: 都城
   order: 1

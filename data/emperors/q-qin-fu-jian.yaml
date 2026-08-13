@@ -199,15 +199,19 @@ relations:
 - type: predecessor
   target_id: null
   note: 苻生（坚诛之即位，页待建）
+  note_en: "Fu Sheng (Fu Jian executes him and takes the throne; page to be built)"
 - type: minister
   target_id: null
   note: 王猛（谋臣治世，非帝王不入索引）
+  note_en: "Wang Meng (a statesman of well-ordered rule, not an emperor, so not indexed)"
 - type: rival
   target_id: null
   note: 慕容垂（淝水后独立，页待建）
+  note_en: "Murong Chui (became independent after the Fei River battle, page pending)"
 - type: rival
   target_id: null
   note: 姚苌（苻坚为其所害，页待建）
+  note_en: "Yao Chang (Fu Jian was killed by him; page pending)"
 routes:
 - group: 都城
   order: 1

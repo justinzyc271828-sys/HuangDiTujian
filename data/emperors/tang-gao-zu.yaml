@@ -149,12 +149,15 @@ relations:
 - type: predecessor
   target_id: sui-gong
   note: 武德元年受禅于隋恭帝
+  note_en: "Wude 1: receives the throne by abdication from Emperor Gong of Sui"
 - type: successor
   target_id: tang-tai-zong
   note: 玄武门之变后传位太宗
+  note_en: "After the Xuanwu Gate Incident, passes the throne to Emperor Taizong"
 - type: related_emperor
   target_id: n-zhou-wu
   note: 仕北周、隋，出身后周关陇集团
+  note_en: "Serves Northern Zhou and Sui; from the Guanlong aristocratic bloc of the later Zhou"
 routes:
 - group: 都城
   order: 1

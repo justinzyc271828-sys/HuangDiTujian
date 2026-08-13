@@ -131,9 +131,11 @@ relations:
 - type: predecessor
   target_id: qing-de-zong
   note: 德宗侄（摄政王载沣之子），光绪三十四年即位
+  note_en: "Nephew of Emperor Dezong (son of the Prince Regent Zaifeng); takes the throne in Guangxu 34"
 - type: successor
   target_id: null
   note: 宣统三年（1912）逊位，帝制终结，图鉴以溥仪为末帝收官
+  note_en: "In the 3rd year of Xuantong (1912) he abdicates; imperial rule ends, and the compendium closes with Puyi as the last emperor"
 routes:
 - group: 都城
   order: 1
