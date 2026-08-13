@@ -10,13 +10,14 @@ Run commands from the repository root unless noted:
 
 ```powershell
 python tools/validate_data.py          # Check IDs, references, links, and asset declarations
-python tools/build_site_data.py        # Generate apps/web/public/data/site.json
+python tools/build_site_data.py        # Generate apps/web/public/data/site.json (maps illustrations/<id>.webp when present)
+python tools/convert_illustrations_webp.py  # Convert key-art PNG masters into public/illustrations/*.webp + og/*.jpg
 cd apps/web; npm ci; npm run dev       # Install locked dependencies and start Vite on port 5173
-npm run build                          # Type-check and create the production bundle
-npm run preview                        # Serve the built bundle for final inspection
+npm run build                          # Type-check, create the production bundle, then postbuild per-emperor OG share pages + 404.html
+npm run preview                        # Serve the built bundle for final inspection (base path /HuangDiTujian/)
 ```
 
-`npm run dev` and `npm run build` automatically rebuild site data through their `pre*` scripts.
+`npm run dev` and `npm run build` automatically rebuild site data through their `pre*` scripts. Pushing `master` triggers `.github/workflows/pages.yml`, which builds and deploys `apps/web/dist` to GitHub Pages at `https://justinzyc271828-sys.github.io/HuangDiTujian/`; production builds use base path `/HuangDiTujian/` (dev stays at `/`).
 
 ## Coding Style & Naming Conventions
 
