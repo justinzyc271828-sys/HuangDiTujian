@@ -136,26 +136,31 @@ routes:
   year: '310'
   place_id: ping-yang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '311'
   place_id: luoyang
   event: 陷洛阳
+  event_en: "The Fall of Luoyang"
 - group: 都城
   order: 3
   year: '313'
   place_id: ping-yang
   event: 杀怀帝于平阳
+  event_en: "Emperor Huai Slain at Pingyang"
 - group: 其他
   order: 4
   year: '316'
   place_id: chang-an
   event: 陷长安灭西晋
+  event_en: "Chang'an Taken, Western Jin Ended"
 - group: 都城
   order: 5
   year: '318'
   place_id: ping-yang
   event: 刘聪崩
+  event_en: "Death of Liu Cong"
 sources:
 - title: 晋书·刘聪载记
   note: 主叙事

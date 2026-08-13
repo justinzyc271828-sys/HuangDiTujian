@@ -140,16 +140,19 @@ routes:
   year: '1850'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1860'
   place_id: cheng-de
   event: 英法入京
+  event_en: "Allies Enter Beijing"
 - group: 都城
   order: 3
   year: '1861'
   place_id: cheng-de
   event: 文宗崩
+  event_en: "Death of Wenzong"
 sources:
 - title: 清史稿
   note: 年表主据

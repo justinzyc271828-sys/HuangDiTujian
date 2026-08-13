@@ -138,16 +138,19 @@ routes:
   year: '254'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '260'
   place_id: luoyang
   event: 讨司马昭被弑
+  event_en: "The Rising against Sima Zhao and the Slaying"
 - group: 都城
   order: 3
   year: '260'
   place_id: luoyang
   event: 立常道乡公
+  event_en: "The Changdao Marquis Installed"
 sources:
 - title: 三国志·三少帝纪
   note: 主叙事

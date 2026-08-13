@@ -166,26 +166,31 @@ routes:
   year: '1100'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1102'
   place_id: kai-feng
   event: 蔡京当国
+  event_en: "蔡京当国"
 - group: 都城
   order: 3
   year: '1125'
   place_id: kai-feng
   event: 内禅
+  event_en: "内禅"
 - group: 其他
   order: 4
   year: undated
   place_id: kai-feng
   event: 书画
+  event_en: "书画"
 - group: 流徙
   order: 5
   year: '1135'
   place_id: wu-guo-cheng
   event: 崩于五国城
+  event_en: "崩于五国城"
 sources:
 - title: 宋史
   note: 年表主据

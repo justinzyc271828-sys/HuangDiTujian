@@ -129,16 +129,19 @@ routes:
   year: '559'
   place_id: ye-cheng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '560'
   place_id: ye-cheng
   event: 被废
+  event_en: "Deposed"
 - group: 都城
   order: 3
   year: '561'
   place_id: ye-cheng
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 北齐书·废帝纪
   note: 主叙事

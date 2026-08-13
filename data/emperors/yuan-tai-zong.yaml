@@ -143,16 +143,19 @@ routes:
   year: '1229'
   place_id: helin
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1234'
   place_id: cai-zhou
   event: 灭金
+  event_en: "Destruction of Jin"
 - group: 都城
   order: 3
   year: '1241'
   place_id: helin
   event: 太宗崩
+  event_en: "Death of Taizong"
 sources:
 - title: 元史
   note: 年表主据

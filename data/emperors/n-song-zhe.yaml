@@ -145,21 +145,25 @@ routes:
   year: '1085'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1086'
   place_id: kai-feng
   event: 元祐更化
+  event_en: "元祐更化"
 - group: 都城
   order: 3
   year: '1093'
   place_id: kai-feng
   event: 亲政绍述
+  event_en: "亲政绍述"
 - group: 都城
   order: 4
   year: '1100'
   place_id: kai-feng
   event: 哲宗崩
+  event_en: "哲宗崩"
 sources:
 - title: 宋史
   note: 年表主据

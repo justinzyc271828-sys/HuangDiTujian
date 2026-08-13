@@ -140,21 +140,25 @@ routes:
   year: '1251'
   place_id: helin
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '1253'
   place_id: da-li
   event: 大理与西征
+  event_en: "Dali and the West"
 - group: 亲征
   order: 3
   year: '1258'
   place_id: cheng-du
   event: 攻宋四川
+  event_en: "War on Song in Sichuan"
 - group: 亲征
   order: 4
   year: '1259'
   place_id: diao-yu-cheng
   event: 崩于钓鱼城
+  event_en: "Death at Diaoyucheng"
 sources:
 - title: 元史
   note: 年表主据

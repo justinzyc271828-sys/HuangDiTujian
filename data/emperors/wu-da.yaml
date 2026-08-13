@@ -218,31 +218,37 @@ routes:
   year: '208'
   place_id: chi-bi
   event: 赤壁破曹
+  event_en: "Breaking Cao at the Red Cliffs"
 - group: 其他
   order: 2
   year: '222'
   place_id: yi-ling
   event: 夷陵破备
+  event_en: "Breaking Bei at Yiling"
 - group: 都城
   order: 3
   year: '229'
   place_id: jian-kang
   event: 称帝建业
+  event_en: "The Throne at Jianye"
 - group: 其他
   order: 4
   year: '232'
   place_id: liaodong
   event: 辽东通使
+  event_en: "The Liaodong Venture"
 - group: 亲征
   order: 5
   year: '234'
   place_id: hefei-xincheng
   event: 合肥新城
+  event_en: "The New City of Hefei"
 - group: 都城
   order: 6
   year: '252'
   place_id: jian-kang
   event: 权崩
+  event_en: "Death of Sun Quan"
 sources:
 - title: 三国志·吴主传
   note: 主叙事

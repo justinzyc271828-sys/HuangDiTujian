@@ -133,21 +133,25 @@ routes:
   year: '318'
   place_id: chang-an
   event: 继位改号赵
+  event_en: "The Throne and the Name Zhao"
 - group: 其他
   order: 2
   year: '320'
   place_id: chang-an
   event: 关中经营
+  event_en: "Holding Guanzhong"
 - group: 亲征
   order: 3
   year: '328'
   place_id: luoyang
   event: 洛阳大战
+  event_en: "The Battle of Luoyang"
 - group: 都城
   order: 4
   year: '329'
   place_id: null
   event: 被杀国亡
+  event_en: "Death and the Fall of the Realm"
 sources:
 - title: 晋书·刘曜载记
   note: 主叙事

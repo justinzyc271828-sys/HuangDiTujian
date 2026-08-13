@@ -146,21 +146,25 @@ routes:
   year: '334'
   place_id: null
   event: 废杀石弘自立
+  event_en: "Deposing Shi Hong"
 - group: 都城
   order: 2
   year: '335'
   place_id: ye-cheng
   event: 迁都于邺
+  event_en: "Capital Moved to Ye"
 - group: 都城
   order: 3
   year: '340'
   place_id: ye-cheng
   event: 大役与东宫
+  event_en: "Great Works and the Eastern Palace"
 - group: 都城
   order: 4
   year: '349'
   place_id: ye-cheng
   event: 石虎崩
+  event_en: "Death of Shi Hu"
 sources:
 - title: 晋书·石季龙载记
   note: 主叙事

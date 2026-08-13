@@ -205,41 +205,49 @@ routes:
   year: '88'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '89'
   place_id: yan-ran-shan
   event: 窦宪击匈奴
+  event_en: "Dou Xian Strikes the Xiongnu"
 - group: 都城
   order: 3
   year: '92'
   place_id: luoyang
   event: 诛窦宪
+  event_en: "Dou Xian Destroyed"
 - group: 都城
   order: 4
   year: '92'
   place_id: luoyang
   event: 宦官用权始著
+  event_en: "The Eunuchs' Rise Begins"
 - group: 其他
   order: 5
   year: '94'
   place_id: hexi
   event: 班超焉耆后定
+  event_en: "Ban Chao Settles Yanqi"
 - group: 都城
   order: 6
   year: '97'
   place_id: luoyang
   event: 永元九年蝗灾求言
+  event_en: "Locusts and the Call for Counsel"
 - group: 都城
   order: 7
   year: '102'
   place_id: luoyang
   event: 班超还洛
+  event_en: "Ban Chao Returns"
 - group: 都城
   order: 8
   year: '105'
   place_id: luoyang
   event: 和帝崩
+  event_en: "Death of Emperor He"
 sources:
 - title: 后汉书·和帝纪
   note: 主叙事

@@ -140,26 +140,31 @@ routes:
   year: '1457'
   place_id: bei-jing
   event: 废景帝
+  event_en: "Jingtai Reduced"
 - group: 都城
   order: 2
   year: '1457'
   place_id: bei-jing
   event: 复位
+  event_en: "Restored"
 - group: 都城
   order: 3
   year: '1457'
   place_id: bei-jing
   event: 杀于谦
+  event_en: "Yu Qian Executed"
 - group: 都城
   order: 4
   year: '1461'
   place_id: bei-jing
   event: 曹石之变
+  event_en: "The Cao-Shi Revolt"
 - group: 都城
   order: 5
   year: '1464'
   place_id: bei-jing
   event: 英宗崩
+  event_en: "Death of Yingzong"
 sources:
 - title: 明史
   note: 年表主据

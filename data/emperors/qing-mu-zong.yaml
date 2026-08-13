@@ -140,16 +140,19 @@ routes:
   year: '1861'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1864'
   place_id: ying-tian
   event: 克天京
+  event_en: "Nanjing Retaken"
 - group: 都城
   order: 3
   year: '1875'
   place_id: bei-jing
   event: 穆宗崩
+  event_en: "Death of Muzong"
 sources:
 - title: 清史稿
   note: 年表主据

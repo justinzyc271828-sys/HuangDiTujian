@@ -138,21 +138,25 @@ routes:
   year: '-188'
   place_id: chang-an
   event: 立为帝
+  event_en: "Enthroned"
 - group: 都城
   order: 2
   year: '-187'
   place_id: chang-an
   event: 王诸吕
+  event_en: "The Lü Kings"
 - group: 都城
   order: 3
   year: '-184'
   place_id: chang-an
   event: 自知非惠帝子
+  event_en: "The Secret of His Birth"
 - group: 都城
   order: 4
   year: '-184'
   place_id: chang-an
   event: 前少帝废杀
+  event_en: "Deposed and Slain"
 sources:
 - title: 史记·吕太后本纪
   note: 主叙事

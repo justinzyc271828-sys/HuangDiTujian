@@ -223,26 +223,31 @@ routes:
   year: '372'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '379'
   place_id: xiang-yang
   event: 秦攻襄阳
+  event_en: "Qin Besieges Xiangyang"
 - group: 其他
   order: 3
   year: '383'
   place_id: fei-shui
   event: 淝水之战
+  event_en: "The Battle of the Fei River"
 - group: 其他
   order: 4
   year: '384'
   place_id: luoyang
   event: 北伐有功
+  event_en: "The Victorious North"
 - group: 都城
   order: 5
   year: '396'
   place_id: jian-kang
   event: 帝被弑
+  event_en: "The Emperor Slain"
 sources:
 - title: 晋书·孝武帝纪
   note: 主叙事

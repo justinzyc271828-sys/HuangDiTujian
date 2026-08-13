@@ -221,41 +221,49 @@ routes:
   year: '501'
   place_id: jian-kang
   event: 起兵建康（自襄阳东下）
+  event_en: "Marched east from Xiangyang on Jiankang"
 - group: 都城
   order: 2
   year: '502'
   place_id: jian-kang
   event: 受禅建梁
+  event_en: "Founding of Liang"
 - group: 其他
   order: 3
   year: '514'
   place_id: fu-shan-yan
   event: 作浮山堰
+  event_en: "Fushan Weir Built"
 - group: 都城
   order: 4
   year: '527'
   place_id: tong-tai-si
   event: 同泰寺开基
+  event_en: "Tongtai Monastery founded"
 - group: 都城
   order: 5
   year: '527'
   place_id: tong-tai-si
   event: 舍身同泰
+  event_en: "Self-Surrenders at Tongtai"
 - group: 都城
   order: 6
   year: '548'
   place_id: tai-cheng
   event: 台城被围
+  event_en: "Taicheng Under Siege"
 - group: 都城
   order: 7
   year: '548'
   place_id: jian-kang
   event: 纳侯景
+  event_en: "Hou Jing Accepted"
 - group: 都城
   order: 8
   year: '549'
   place_id: tai-cheng
   event: 台城饿死
+  event_en: "Starved to Death in Taicheng"
 sources:
 - title: 梁书·武帝纪（卷001–003）
   note: 年表主据（A 级）

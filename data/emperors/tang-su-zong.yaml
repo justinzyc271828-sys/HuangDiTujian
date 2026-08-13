@@ -136,21 +136,25 @@ routes:
   year: '756'
   place_id: ling-wu
   event: 灵武即位
+  event_en: "The Lingwu Throne"
 - group: 其他
   order: 2
   year: '757'
   place_id: chang-an
   event: 收复两京
+  event_en: "Recovering the Two Capitals"
 - group: 其他
   order: 3
   year: '758'
   place_id: ye-cheng
   event: 九节度相州败
+  event_en: "The Nine Commissioners at Xiangzhou"
 - group: 都城
   order: 4
   year: '762'
   place_id: chang-an
   event: 肃宗崩
+  event_en: "Death of Emperor Suzong"
 sources:
 - title: 旧唐书·肃宗纪
   note: 主叙事

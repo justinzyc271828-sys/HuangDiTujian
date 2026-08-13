@@ -153,21 +153,25 @@ routes:
   year: '1368'
   place_id: ying-tian
   event: 称帝建明
+  event_en: "Founding of the Ming"
 - group: 都城
   order: 2
   year: '1380'
   place_id: ying-tian
   event: 废丞相
+  event_en: "Chancellorship Abolished"
 - group: 都城
   order: 3
   year: '1393'
   place_id: ying-tian
   event: 蓝玉案
+  event_en: "The Lanyu Case"
 - group: 都城
   order: 4
   year: '1398'
   place_id: ying-tian
   event: 太祖崩
+  event_en: "Death of Taizu"
 sources:
 - title: 明史
   note: 年表主据

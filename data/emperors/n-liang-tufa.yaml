@@ -130,21 +130,25 @@ routes:
   year: '397'
   place_id: lian-chuan
   event: 都廉川
+  event_en: "Capital at Lianchuan"
 - group: 都城
   order: 2
   year: '397'
   place_id: null
   event: 称西平王
+  event_en: "King of Xiping"
 - group: 其他
   order: 3
   year: '398'
   place_id: null
   event: 改称武威王
+  event_en: "King of Wuwei"
 - group: 都城
   order: 4
   year: '399'
   place_id: null
   event: 乌孤崩
+  event_en: "Death of Wugu"
 sources:
 - title: 晋书·秃发乌孤载记
   note: 主叙事

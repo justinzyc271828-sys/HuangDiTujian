@@ -129,21 +129,25 @@ routes:
   year: '350'
   place_id: chang-an
   event: 入关中
+  event_en: "Into Guanzhong"
 - group: 都城
   order: 2
   year: '351'
   place_id: chang-an
   event: 称天王
+  event_en: "Heavenly King"
 - group: 其他
   order: 3
   year: '354'
   place_id: chang-an
   event: 桓温北伐拒之
+  event_en: "Denying Huan Wen"
 - group: 都城
   order: 4
   year: '355'
   place_id: chang-an
   event: 苻健崩
+  event_en: "Death of Fu Jian"
 sources:
 - title: 晋书·苻健载记
   note: 主叙事

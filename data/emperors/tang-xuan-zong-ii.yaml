@@ -135,21 +135,25 @@ routes:
   year: '846'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '847'
   place_id: chang-an
   event: 罢李德裕
+  event_en: "Dismissing Li Deyu"
 - group: 其他
   order: 3
   year: '848'
   place_id: dun-huang
   event: 收复河湟部分
+  event_en: "Recovering Part of the Hehuang"
 - group: 都城
   order: 4
   year: '859'
   place_id: chang-an
   event: 宣宗崩
+  event_en: "Death of Emperor Xuanzong"
 sources:
 - title: 旧唐书·宣宗纪
   note: 主叙事

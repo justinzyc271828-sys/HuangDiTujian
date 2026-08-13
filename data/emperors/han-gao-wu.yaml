@@ -135,16 +135,19 @@ routes:
   year: '947'
   place_id: jinyang
   event: 称帝太原
+  event_en: "The Throne at Taiyuan"
 - group: 都城
   order: 2
   year: '947'
   place_id: kai-feng
   event: 入汴
+  event_en: "Entering Kaifeng"
 - group: 都城
   order: 3
   year: '948'
   place_id: kai-feng
   event: 高祖崩
+  event_en: "Death of Emperor Gaozu"
 sources:
 - title: 旧五代史·汉高祖纪
   note: 主叙事

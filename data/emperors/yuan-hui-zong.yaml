@@ -142,11 +142,13 @@ routes:
   year: '1333'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1368'
   place_id: da-du
   event: 北奔上都
+  event_en: "Flight to Shangdu"
 sources:
 - title: 元史
   note: 年表主据

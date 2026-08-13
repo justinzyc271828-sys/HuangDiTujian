@@ -136,21 +136,25 @@ routes:
   year: '840'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '843'
   place_id: null
   event: 平泽潞
+  event_en: "Destroying Zelu"
 - group: 都城
   order: 3
   year: '845'
   place_id: chang-an
   event: 会昌灭佛
+  event_en: "The Huichang Persecution"
 - group: 都城
   order: 4
   year: '846'
   place_id: chang-an
   event: 武宗崩
+  event_en: "Death of Emperor Wuzong"
 sources:
 - title: 旧唐书·武宗纪
   note: 主叙事

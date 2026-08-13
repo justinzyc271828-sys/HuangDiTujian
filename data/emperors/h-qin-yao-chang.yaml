@@ -133,21 +133,25 @@ routes:
   year: '384'
   place_id: null
   event: 称万年秦王
+  event_en: "King of Wannian Qin"
 - group: 其他
   order: 2
   year: '385'
   place_id: null
   event: 杀苻坚
+  event_en: "The Slaying of Fu Jian"
 - group: 都城
   order: 3
   year: '386'
   place_id: chang-an
   event: 称帝长安
+  event_en: "The Throne at Chang'an"
 - group: 都城
   order: 4
   year: '393'
   place_id: chang-an
   event: 姚苌崩
+  event_en: "Death of Yao Chang"
 sources:
 - title: 晋书·姚苌载记
   note: 主叙事

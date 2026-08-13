@@ -140,16 +140,19 @@ routes:
   year: '1875'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1898'
   place_id: bei-jing
   event: 戊戌变法
+  event_en: "Hundred Days Reform"
 - group: 都城
   order: 3
   year: '1908'
   place_id: bei-jing
   event: 德宗崩
+  event_en: "Death of Dezong"
 sources:
 - title: 清史稿
   note: 年表主据

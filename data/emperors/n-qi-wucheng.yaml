@@ -133,16 +133,19 @@ routes:
   year: '561'
   place_id: ye-cheng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '565'
   place_id: ye-cheng
   event: 禅位太子
+  event_en: "Abdication to the Heir"
 - group: 都城
   order: 3
   year: '569'
   place_id: ye-cheng
   event: 武成崩
+  event_en: "Death of Emperor Wucheng"
 sources:
 - title: 北齐书·武成纪
   note: 主叙事

@@ -133,26 +133,31 @@ routes:
   year: '348'
   place_id: long-cheng
   event: 嗣燕王
+  event_en: "King of Yan"
 - group: 其他
   order: 2
   year: '350'
   place_id: null
   event: 南进中原
+  event_en: "Into the Central Plains"
 - group: 都城
   order: 3
   year: '352'
   place_id: null
   event: 灭冉魏称帝
+  event_en: "Ran Wei Destroyed, the Throne Taken"
 - group: 都城
   order: 4
   year: '357'
   place_id: ye-cheng
   event: 迁都邺
+  event_en: "Capital at Ye"
 - group: 都城
   order: 5
   year: '360'
   place_id: ye-cheng
   event: 慕容儁崩
+  event_en: "Death of Murong Jun"
 sources:
 - title: 晋书·慕容儁载记
   note: 主叙事

@@ -203,41 +203,49 @@ routes:
   year: '-195'
   place_id: chang-an
   event: 即皇帝位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '-194'
   place_id: chang-an
   event: 吕后称制阴影
+  event_en: "Lü's Shadow over the Court"
 - group: 都城
   order: 3
   year: '-194'
   place_id: chang-an
   event: 城长安
+  event_en: "Building the Walls of Chang'an"
 - group: 都城
   order: 4
   year: '-193'
   place_id: chang-an
   event: 齐悼惠王来朝
+  event_en: "King Daohui of Qi at Court"
 - group: 都城
   order: 5
   year: '-192'
   place_id: chang-an
   event: 发诸侯王城长安
+  event_en: "Feudatories Drafted to Build Chang'an"
 - group: 都城
   order: 6
   year: '-190'
   place_id: chang-an
   event: 长安城成
+  event_en: "The Walls of Chang'an Completed"
 - group: 都城
   order: 7
   year: '-188'
   place_id: chang-an
   event: 惠帝崩
+  event_en: "Death of Emperor Hui"
 - group: 都城
   order: 8
   year: '-188'
   place_id: chang-an
   event: 少帝立
+  event_en: "The Young Emperor Enthroned"
 sources:
 - title: 汉书·惠帝纪
   note: 主叙事

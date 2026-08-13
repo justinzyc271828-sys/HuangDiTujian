@@ -141,26 +141,31 @@ routes:
   year: '105'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '105'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '106'
   place_id: luoyang
   event: 邓太后临朝
+  event_en: "The Deng Regency"
 - group: 都城
   order: 4
   year: '106'
   place_id: luoyang
   event: 殇帝崩
+  event_en: "Death of Emperor Shang"
 - group: 都城
   order: 5
   year: '106'
   place_id: luoyang
   event: 邓后定策立安帝
+  event_en: "Emperor An Chosen"
 sources:
 - title: 后汉书·殇帝纪
   note: 主叙事

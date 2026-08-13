@@ -131,16 +131,19 @@ routes:
   year: '617'
   place_id: chang-an
   event: 即帝位
+  event_en: "The Throne"
 - group: 都城
   order: 2
   year: '618'
   place_id: chang-an
   event: 禅位唐
+  event_en: "Abdication to Tang"
 - group: 都城
   order: 3
   year: '619'
   place_id: chang-an
   event: 薨
+  event_en: "Death"
 sources:
 - title: 隋书·恭帝纪
   note: 主叙事

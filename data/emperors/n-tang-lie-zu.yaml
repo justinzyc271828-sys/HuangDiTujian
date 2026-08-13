@@ -134,16 +134,19 @@ routes:
   year: '937'
   place_id: jian-kang
   event: 受吴禅
+  event_en: "The Wu Abdication"
 - group: 都城
   order: 2
   year: '939'
   place_id: jian-kang
   event: 复姓李
+  event_en: "The Li Surname Resumed"
 - group: 都城
   order: 3
   year: '943'
   place_id: jian-kang
   event: 烈祖崩
+  event_en: "Death of the Ancestor Lie"
 sources:
 - title: 新五代史·南唐世家
   note: 主叙事

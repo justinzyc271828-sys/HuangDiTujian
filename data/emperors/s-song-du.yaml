@@ -144,21 +144,25 @@ routes:
   year: '1264'
   place_id: lin-an
   event: 即位
+  event_en: "即位"
 - group: 其他
   order: 2
   year: '1268'
   place_id: xiang-yang
   event: 襄樊被围
+  event_en: "襄樊被围"
 - group: 其他
   order: 3
   year: '1273'
   place_id: xiang-yang
   event: 襄阳陷
+  event_en: "襄阳陷"
 - group: 都城
   order: 4
   year: '1274'
   place_id: lin-an
   event: 度宗崩
+  event_en: "度宗崩"
 sources:
 - title: 宋史
   note: 年表主据

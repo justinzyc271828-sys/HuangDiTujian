@@ -137,21 +137,25 @@ routes:
   year: '882'
   place_id: kai-feng
   event: 降唐
+  event_en: "Surrender to Tang"
 - group: 都城
   order: 2
   year: '904'
   place_id: luoyang
   event: 迁唐都洛
+  event_en: "The Tang Court Moved to Luoyang"
 - group: 都城
   order: 3
   year: '907'
   place_id: kai-feng
   event: 受禅称帝
+  event_en: "The Abdication Throne"
 - group: 都城
   order: 4
   year: '912'
   place_id: luoyang
   event: 被弑
+  event_en: "Slain"
 sources:
 - title: 旧五代史·梁太祖纪
   note: 主叙事

@@ -137,21 +137,25 @@ routes:
   year: '908'
   place_id: jinyang
   event: 嗣晋王
+  event_en: "King of Jin"
 - group: 亲征
   order: 2
   year: '923'
   place_id: luoyang
   event: 称帝灭梁
+  event_en: "The Throne and the Fall of Liang"
 - group: 其他
   order: 3
   year: '925'
   place_id: cheng-du
   event: 灭前蜀
+  event_en: "Destroying Former Shu"
 - group: 都城
   order: 4
   year: '926'
   place_id: luoyang
   event: 兴教门之变
+  event_en: "The Xingjiao Gate Mutiny"
 sources:
 - title: 旧五代史·庄宗纪
   note: 主叙事

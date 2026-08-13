@@ -141,26 +141,31 @@ routes:
   year: '961'
   place_id: jin-ling
   event: 即位于金陵
+  event_en: "Accession at Jinling"
 - group: 其他
   order: 2
   year: '974'
   place_id: chang-jiang
   event: 宋师南下伐江南
+  event_en: "Song armies march south against Jiangnan"
 - group: 都城
   order: 3
   year: '975'
   place_id: jin-ling
   event: 金陵城破出降，南唐亡
+  event_en: "Jinling falls; surrender ends Southern Tang"
 - group: 流徙
   order: 4
   year: '976'
   place_id: kai-feng
   event: 北迁汴京，封违命侯
+  event_en: "Taken north to Bianjing; created Marquis of Weiming"
 - group: 流徙
   order: 5
   year: '978'
   place_id: kai-feng
   event: 卒于京师
+  event_en: "Death at the Capital"
 sources:
 - title: 宋史·南唐世家（卷478）
   note: 年表主据

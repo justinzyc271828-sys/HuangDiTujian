@@ -142,26 +142,31 @@ routes:
   year: '560'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '572'
   place_id: chang-an
   event: 诛宇文护
+  event_en: "Slewing Yuwen Hu"
 - group: 都城
   order: 3
   year: '574'
   place_id: chang-an
   event: 灭佛道
+  event_en: "Proscribing Buddhism and Daoism"
 - group: 亲征
   order: 4
   year: '577'
   place_id: ye-cheng
   event: 灭北齐
+  event_en: "Destroying Northern Qi"
 - group: 亲征
   order: 5
   year: '578'
   place_id: chang-an
   event: 武帝崩
+  event_en: "Death of Emperor Wu"
 sources:
 - title: 周书·武帝纪
   note: 主叙事

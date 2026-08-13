@@ -133,16 +133,19 @@ routes:
   year: '472'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '474'
   place_id: jian-kang
   event: 桂阳王休范反
+  event_en: "The Prince of Guiyang's Revolt"
 - group: 都城
   order: 3
   year: '477'
   place_id: jian-kang
   event: 被弑
+  event_en: "Slain"
 sources:
 - title: 宋书·后废帝纪
   note: 主叙事

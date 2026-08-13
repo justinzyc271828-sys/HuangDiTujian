@@ -153,26 +153,31 @@ routes:
   year: '1572'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1582'
   place_id: bei-jing
   event: 居正卒
+  event_en: "Juzheng Dies"
 - group: 其他
   order: 3
   year: '1592'
   place_id: liaodong
   event: 三大征
+  event_en: "The Three Campaigns"
 - group: 其他
   order: 4
   year: '1619'
   place_id: sa-er-hu
   event: 萨尔浒
+  event_en: "Sarhu"
 - group: 都城
   order: 5
   year: '1620'
   place_id: bei-jing
   event: 神宗崩
+  event_en: "Death of Shenzong"
 sources:
 - title: 明史
   note: 年表主据

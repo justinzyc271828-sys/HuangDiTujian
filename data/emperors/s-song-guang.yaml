@@ -142,21 +142,25 @@ routes:
   year: '1189'
   place_id: lin-an
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1193'
   place_id: lin-an
   event: 不过宫
+  event_en: "不过宫"
 - group: 都城
   order: 3
   year: '1194'
   place_id: lin-an
   event: 内禅
+  event_en: "内禅"
 - group: 都城
   order: 4
   year: '1200'
   place_id: lin-an
   event: 太上皇崩
+  event_en: "太上皇崩"
 sources:
 - title: 宋史
   note: 年表主据

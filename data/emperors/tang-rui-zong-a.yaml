@@ -140,16 +140,19 @@ routes:
   year: '684'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '684'
   place_id: null
   event: 改元与扬州起兵
+  event_en: "The Era and the Yangzhou Rising"
 - group: 都城
   order: 3
   year: '690'
   place_id: luoyang
   event: 降为皇嗣
+  event_en: "Reduced to Heir"
 sources:
 - title: 旧唐书·睿宗纪
   note: 主叙事

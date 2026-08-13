@@ -137,21 +137,25 @@ routes:
   year: '384'
   place_id: null
   event: 称燕王
+  event_en: "King of Yan"
 - group: 都城
   order: 2
   year: '386'
   place_id: zhong-shan
   event: 称帝中山
+  event_en: "The Throne at Zhongshan"
 - group: 亲征
   order: 3
   year: '395'
   place_id: can-he-po
   event: 参合陂之败
+  event_en: "The Disaster at the Canhe Marshes"
 - group: 亲征
   order: 4
   year: '396'
   place_id: shang-gu
   event: 伐魏病崩
+  event_en: "Death on the Wei Campaign"
 sources:
 - title: 晋书·慕容垂载记
   note: 主叙事

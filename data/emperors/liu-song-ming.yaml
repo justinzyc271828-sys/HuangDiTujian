@@ -134,16 +134,19 @@ routes:
   year: '465'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '466'
   place_id: null
   event: 平晋安王子勋
+  event_en: "The Prince of Jin'an's Rising"
 - group: 都城
   order: 3
   year: '472'
   place_id: jian-kang
   event: 明帝崩
+  event_en: "Death of Emperor Ming"
 sources:
 - title: 宋书·明帝纪
   note: 主叙事

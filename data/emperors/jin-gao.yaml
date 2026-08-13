@@ -137,21 +137,25 @@ routes:
   year: '936'
   place_id: jinyang
   event: 称帝联契丹
+  event_en: "The Throne and the Khitan"
 - group: 都城
   order: 2
   year: '936'
   place_id: kai-feng
   event: 灭后唐
+  event_en: "Destroying Later Tang"
 - group: 其他
   order: 3
   year: '938'
   place_id: null
   event: 契丹改辽
+  event_en: "The Khitan Become Liao"
 - group: 都城
   order: 4
   year: '942'
   place_id: kai-feng
   event: 高祖崩
+  event_en: "Death of Emperor Gaozu"
 sources:
 - title: 旧五代史·晋高祖纪
   note: 主叙事

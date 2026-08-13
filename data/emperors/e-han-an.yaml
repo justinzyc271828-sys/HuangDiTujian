@@ -209,51 +209,61 @@ routes:
   year: '94'
   place_id: qing-he
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '106'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 3
   year: '107'
   place_id: hexi
   event: 西域叛
+  event_en: "The Western Regions Turn"
 - group: 其他
   order: 4
   year: '108'
   place_id: hexi
   event: 先零羌大叛
+  event_en: "The Xianling Qiang Rise"
 - group: 都城
   order: 5
   year: '108'
   place_id: luoyang
   event: 安帝朝羌乱边费
+  event_en: "The War's Cost"
 - group: 都城
   order: 6
   year: '115'
   place_id: luoyang
   event: 立阎后
+  event_en: "Empress Yan Enthroned"
 - group: 都城
   order: 7
   year: '120'
   place_id: luoyang
   event: 立刘保为太子
+  event_en: "Liu Bao Made Heir"
 - group: 都城
   order: 8
   year: '121'
   place_id: luoyang
   event: 邓后崩安帝亲政
+  event_en: "Personal Rule at Last"
 - group: 都城
   order: 9
   year: '124'
   place_id: luoyang
   event: 废太子保
+  event_en: "The Heir Set Aside"
 - group: 巡狩
   order: 10
   year: '125'
   place_id: ye-xian
   event: 南巡崩
+  event_en: "Death on the Southern Tour"
 sources:
 - title: 后汉书·安帝纪
   note: 主叙事

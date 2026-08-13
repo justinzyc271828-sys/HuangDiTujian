@@ -133,21 +133,25 @@ routes:
   year: '948'
   place_id: kai-feng
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '949'
   place_id: null
   event: 河中李守贞反
+  event_en: "Li Shouzhen Rises at Hezhong"
 - group: 都城
   order: 3
   year: '950'
   place_id: kai-feng
   event: 杀顾命大臣
+  event_en: "The Regents Slain"
 - group: 都城
   order: 4
   year: '950'
   place_id: kai-feng
   event: 郭威入汴
+  event_en: "Guo Wei Enters Kaifeng"
 sources:
 - title: 旧五代史·汉隐帝纪
   note: 主叙事

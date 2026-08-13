@@ -131,16 +131,19 @@ routes:
   year: '464'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '465'
   place_id: jian-kang
   event: 诛杀大臣宗室
+  event_en: "Ministers and Princes Slain"
 - group: 都城
   order: 3
   year: '465'
   place_id: jian-kang
   event: 被弑
+  event_en: "Slain"
 sources:
 - title: 宋书·前废帝纪
   note: 主叙事

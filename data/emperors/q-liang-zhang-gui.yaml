@@ -130,16 +130,19 @@ routes:
   year: '301'
   place_id: gu-zang
   event: 出为凉州刺史
+  event_en: "Governor of Liangzhou"
 - group: 其他
   order: 2
   year: '305'
   place_id: null
   event: 破鲜卑若罗拔能
+  event_en: "Breaking the Ruoluo Baneng"
 - group: 都城
   order: 3
   year: '314'
   place_id: gu-zang
   event: 张轨卒
+  event_en: "Death of Zhang Gui"
 sources:
 - title: 晋书·张轨传
   note: 主叙事

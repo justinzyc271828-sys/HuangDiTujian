@@ -85,6 +85,7 @@ routes:
     year: "-210"
     place_id: xianyang
     event: 在位期间主要活动于咸阳政治中心
+    event_en: "Reign centered on the Xianyang court"
 
 sources:
   - title: 史记·秦始皇本纪

@@ -135,21 +135,25 @@ routes:
   year: '394'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '399'
   place_id: null
   event: 灭前秦残部
+  event_en: "Ending Former Qin"
 - group: 都城
   order: 3
   year: '401'
   place_id: chang-an
   event: 迎鸠摩罗什
+  event_en: "Welcoming Kumarajiva"
 - group: 都城
   order: 4
   year: '416'
   place_id: chang-an
   event: 姚兴崩
+  event_en: "Death of Yao Xing"
 sources:
 - title: 晋书·姚兴载记
   note: 主叙事

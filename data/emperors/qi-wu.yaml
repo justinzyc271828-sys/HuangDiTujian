@@ -133,21 +133,25 @@ routes:
   year: '482'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '485'
   place_id: jian-kang
   event: 永明之治
+  event_en: "The Yongming Recovery"
 - group: 其他
   order: 3
   year: '487'
   place_id: null
   event: 北讨无大功
+  event_en: "The North Gains Nothing"
 - group: 都城
   order: 4
   year: '493'
   place_id: jian-kang
   event: 武帝崩
+  event_en: "Death of Emperor Wu"
 sources:
 - title: 南齐书·武帝纪
   note: 主叙事

@@ -131,26 +131,31 @@ routes:
   year: '383'
   place_id: xi-yu
   event: 征西域
+  event_en: "The Western Campaign"
 - group: 都城
   order: 2
   year: '385'
   place_id: gu-zang
   event: 还据凉州
+  event_en: "Holding Liangzhou"
 - group: 都城
   order: 3
   year: '386'
   place_id: gu-zang
   event: 称凉州牧
+  event_en: "Governor of Liangzhou"
 - group: 都城
   order: 4
   year: '396'
   place_id: gu-zang
   event: 称天王
+  event_en: "Heavenly King"
 - group: 都城
   order: 5
   year: '399'
   place_id: gu-zang
   event: 吕光崩
+  event_en: "Death of Lü Guang"
 sources:
 - title: 晋书·吕光载记
   note: 主叙事

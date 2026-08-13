@@ -140,6 +140,7 @@ routes:
   year: '1329'
   place_id: helin
   event: 即位
+  event_en: "Accession"
 sources:
 - title: 元史
   note: 年表主据

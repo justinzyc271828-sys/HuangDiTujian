@@ -142,21 +142,25 @@ routes:
   year: '1224'
   place_id: kai-feng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1232'
   place_id: kai-feng
   event: 汴京被围
+  event_en: "Siege of Bianjing"
 - group: 都城
   order: 3
   year: '1233'
   place_id: cai-zhou
   event: 奔蔡州
+  event_en: "Flight to Caizhou"
 - group: 都城
   order: 4
   year: '1234'
   place_id: cai-zhou
   event: 蔡州自缢金亡
+  event_en: "Death at Caizhou; Fall of Jin"
 sources:
 - title: 金史
   note: 年表主据

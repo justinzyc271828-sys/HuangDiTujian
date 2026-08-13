@@ -142,11 +142,13 @@ routes:
   year: '1189'
   place_id: jin-zhong-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1208'
   place_id: jin-zhong-du
   event: 章宗崩
+  event_en: "章宗崩"
 sources:
 - title: 金史
   note: 年表主据

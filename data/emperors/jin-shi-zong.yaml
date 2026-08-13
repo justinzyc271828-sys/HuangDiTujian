@@ -143,16 +143,19 @@ routes:
   year: '1161'
   place_id: liao-yang
   event: 辽阳即位
+  event_en: "Enthroned at Liaoyang"
 - group: 其他
   order: 2
   year: '1170'
   place_id: jin-zhong-du
   event: 大定之治
+  event_en: "Dading Governance"
 - group: 都城
   order: 3
   year: '1189'
   place_id: jin-zhong-du
   event: 世宗崩
+  event_en: "世宗崩"
 sources:
 - title: 金史
   note: 年表主据

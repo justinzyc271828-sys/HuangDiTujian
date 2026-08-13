@@ -137,21 +137,25 @@ routes:
   year: '550'
   place_id: ye-cheng
   event: 受禅称帝
+  event_en: "The Abdication Throne"
 - group: 亲征
   order: 2
   year: '553'
   place_id: null
   event: 破库莫奚等
+  event_en: "Breaking the Kumo Xi"
 - group: 其他
   order: 3
   year: '555'
   place_id: null
   event: 筑长城
+  event_en: "Building the Great Wall"
 - group: 都城
   order: 4
   year: '559'
   place_id: ye-cheng
   event: 文宣崩
+  event_en: "Death of Emperor Wenxuan"
 sources:
 - title: 北齐书·文宣纪
   note: 主叙事

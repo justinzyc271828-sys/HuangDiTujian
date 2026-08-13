@@ -128,16 +128,19 @@ routes:
   year: '907'
   place_id: hang-zhou
   event: 封吴越王
+  event_en: "King of Wuyue"
 - group: 都城
   order: 2
   year: '910'
   place_id: hang-zhou
   event: 筑捍海塘
+  event_en: "The Sea Wall"
 - group: 都城
   order: 3
   year: '932'
   place_id: hang-zhou
   event: 钱镠卒
+  event_en: "Death of Qian Liu"
 sources:
 - title: 新五代史·吴越世家
   note: 主叙事

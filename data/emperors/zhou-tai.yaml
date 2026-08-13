@@ -137,16 +137,19 @@ routes:
   year: '950'
   place_id: kai-feng
   event: 邺都起兵
+  event_en: "Rising at Yedu"
 - group: 都城
   order: 2
   year: '951'
   place_id: kai-feng
   event: 称帝
+  event_en: "The Throne"
 - group: 都城
   order: 3
   year: '954'
   place_id: kai-feng
   event: 太祖崩
+  event_en: "Death of Emperor Taizu"
 sources:
 - title: 旧五代史·周太祖纪
   note: 主叙事

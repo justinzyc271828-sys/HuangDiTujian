@@ -128,21 +128,25 @@ routes:
   year: '337'
   place_id: null
   event: 称燕王
+  event_en: "King of Yan"
 - group: 都城
   order: 2
   year: '342'
   place_id: long-cheng
   event: 迁都龙城
+  event_en: "Capital at Longcheng"
 - group: 其他
   order: 3
   year: '344'
   place_id: null
   event: 破宇文等
+  event_en: "Breaking the Yuwen"
 - group: 都城
   order: 4
   year: '348'
   place_id: long-cheng
   event: 慕容皝崩
+  event_en: "Death of Murong Huang"
 sources:
 - title: 晋书·慕容皝载记
   note: 主叙事

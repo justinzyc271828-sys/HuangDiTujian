@@ -152,26 +152,31 @@ routes:
   year: '1435'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1442'
   place_id: bei-jing
   event: 王振用事
+  event_en: "Wang Zhen Rises"
 - group: 都城
   order: 3
   year: '1449'
   place_id: bei-jing
   event: 郕王监国
+  event_en: "Prince Cheng Regent"
 - group: 亲征
   order: 4
   year: '1449'
   place_id: tu-mu-bao
   event: 土木之变
+  event_en: "The Tumu Incident"
 - group: 流徙
   order: 5
   year: '1449'
   place_id: wa-la
   event: 北狩
+  event_en: "Captivity in the North"
 sources:
 - title: 明史
   note: 年表主据

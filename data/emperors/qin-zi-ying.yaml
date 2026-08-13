@@ -131,21 +131,25 @@ routes:
   year: '-207'
   place_id: xianyang
   event: 赵高立子婴
+  event_en: "Zhao Gao Sets Up Ziying"
 - group: 都城
   order: 2
   year: '-207'
   place_id: xianyang
   event: 诛杀赵高
+  event_en: "Putting Zhao Gao to Death"
 - group: 都城
   order: 3
   year: '-207'
   place_id: xianyang
   event: 降刘邦
+  event_en: "Surrender to Liu Bang"
 - group: 都城
   order: 4
   year: '-206'
   place_id: xianyang
   event: 项羽杀子婴
+  event_en: "Xiang Yu Puts Ziying to Death"
 sources:
 - title: 史记·秦始皇本纪
   note: 主叙事

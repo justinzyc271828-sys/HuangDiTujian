@@ -140,6 +140,7 @@ routes:
   year: '969'
   place_id: linhuang
   event: 即位
+  event_en: "Accession"
 sources:
 - title: 辽史
   note: 年表主据

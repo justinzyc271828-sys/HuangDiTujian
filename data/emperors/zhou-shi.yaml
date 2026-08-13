@@ -219,26 +219,31 @@ routes:
   year: '954'
   place_id: kai-feng
   event: 即位改元
+  event_en: "Accession; new era proclaimed"
 - group: 亲征
   order: 2
   year: '954'
   place_id: gao-ping
   event: 高平之战
+  event_en: "Battle of Gaoping"
 - group: 亲征
   order: 3
   year: '956'
   place_id: huai-nan
   event: 三征淮南，取江北十四州
+  event_en: "Three Huainan campaigns; fourteen prefectures north of the river taken"
 - group: 亲征
   order: 4
   year: '959'
   place_id: guan-nan
   event: 北伐契丹，收复三关
+  event_en: "Northern campaign against Khitan; three passes recovered"
 - group: 都城
   order: 5
   year: '959'
   place_id: kai-feng
   event: 病重托孤，崩于开封
+  event_en: "Gravely ill, named regents; died at Kaifeng"
 sources:
 - title: 旧五代史·周书·世宗纪
   note: 年表主据

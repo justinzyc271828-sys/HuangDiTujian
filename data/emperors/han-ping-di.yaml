@@ -212,46 +212,55 @@ routes:
   year: '-9'
   place_id: zhong-shan
   event: 生于中山
+  event_en: "Born in Zhongshan"
 - group: 都城
   order: 2
   year: '-1'
   place_id: chang-an
   event: 即皇帝位
+  event_en: "Enthroned"
 - group: 都城
   order: 3
   year: '1'
   place_id: chang-an
   event: 废成帝赵后哀帝傅后
+  event_en: "The Two Empresses Dowager Set Aside"
 - group: 都城
   order: 4
   year: '1'
   place_id: chang-an
   event: 莽为安汉公
+  event_en: "Mang Made Duke of Anding Han"
 - group: 都城
   order: 5
   year: '2'
   place_id: chang-an
   event: 纳莽女为皇后
+  event_en: "Mang's Daughter Made Empress"
 - group: 都城
   order: 6
   year: '4'
   place_id: chang-an
   event: 加莽宰衡
+  event_en: "Mang Made Chief of the Realm"
 - group: 都城
   order: 7
   year: '4'
   place_id: chang-an
   event: 莽加九锡
+  event_en: "The Nine Distinctions"
 - group: 都城
   order: 8
   year: '5'
   place_id: chang-an
   event: 平帝崩
+  event_en: "Death of Emperor Ping"
 - group: 都城
   order: 9
   year: '5'
   place_id: chang-an
   event: 立孺子居摄
+  event_en: "The Infant and the Regency"
 sources:
 - title: 汉书·平帝纪
   note: 主叙事（本纪甚简）

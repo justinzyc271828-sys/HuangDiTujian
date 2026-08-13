@@ -131,11 +131,13 @@ routes:
   year: '422'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '424'
   place_id: jian-kang
   event: 被废弑
+  event_en: "Deposed and Slain"
 sources:
 - title: 宋书·少帝纪
   note: 主叙事

@@ -154,26 +154,31 @@ routes:
   year: '386'
   place_id: sheng-le
   event: 即代王位
+  event_en: "King of Dai"
 - group: 亲征
   order: 2
   year: '395'
   place_id: can-he-po
   event: 参合陂之战
+  event_en: "The Canhe Marshes"
 - group: 亲征
   order: 3
   year: '396'
   place_id: null
   event: 取并州
+  event_en: "Taking Bingzhou"
 - group: 都城
   order: 4
   year: '398'
   place_id: ping-cheng
   event: 迁都平城称帝
+  event_en: "Capital at Pingcheng"
 - group: 都城
   order: 5
   year: '409'
   place_id: ping-cheng
   event: 遇弑
+  event_en: "Slain"
 sources:
 - title: 魏书·太祖纪
   note: 主叙事

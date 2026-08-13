@@ -217,36 +217,43 @@ routes:
   year: '1032'
   place_id: xing-qing-fu
   event: 袭夏王位
+  event_en: "Succeeded as Prince of Xia"
 - group: 亲征
   order: 2
   year: '1036'
   place_id: hexi
   event: 取瓜沙肃
+  event_en: "Capture of Hexi Prefectures"
 - group: 都城
   order: 3
   year: '1038'
   place_id: xing-qing-fu
   event: 河西称帝
+  event_en: "Proclaimed Emperor in Hexi"
 - group: 亲征
   order: 4
   year: '1040'
   place_id: san-chuan-kou
   event: 三川口之战
+  event_en: "Battle of Sanchuankou"
 - group: 亲征
   order: 5
   year: '1041'
   place_id: hao-shui-chuan
   event: 好水川大捷
+  event_en: "Victory at Haoshuichuan"
 - group: 亲征
   order: 6
   year: '1042'
   place_id: ding-chuan-zhai
   event: 定川寨之战
+  event_en: "Battle of Dingchuanzhai"
 - group: 都城
   order: 7
   year: '1048'
   place_id: xing-qing-fu
   event: 遇弑，幼主谅祚继立
+  event_en: "Assassinated; infant Liangzuo succeeds"
 sources:
 - title: 宋史·卷485·夏国传
   note: 年表主据；史料卡同步

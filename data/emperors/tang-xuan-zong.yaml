@@ -188,41 +188,49 @@ routes:
   year: '710'
   place_id: chang-an
   event: 诛韦后
+  event_en: "Slewing Empress Wei"
 - group: 都城
   order: 2
   year: '712'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '713'
   place_id: chang-an
   event: 诛太平归政
+  event_en: "The Taiping Party Destroyed"
 - group: 都城
   order: 4
   year: '720'
   place_id: chang-an
   event: 开元之治
+  event_en: "The Kaiyuan Golden Age"
 - group: 都城
   order: 5
   year: '745'
   place_id: chang-an
   event: 杨太真为贵妃
+  event_en: "Yang Taizhen Made Consort"
 - group: 其他
   order: 6
   year: '755'
   place_id: fan-yang
   event: 安史之乱起
+  event_en: "The An–Shi Rebellion Begins"
 - group: 其他
   order: 7
   year: '756'
   place_id: null
   event: 马嵬与幸蜀
+  event_en: "Mawei and the Flight to Shu"
 - group: 都城
   order: 8
   year: '762'
   place_id: chang-an
   event: 太上皇崩
+  event_en: "Death of the Grand Emperor"
 sources:
 - title: 旧唐书·玄宗纪
   note: 主叙事

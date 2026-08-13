@@ -135,16 +135,19 @@ routes:
   year: '560'
   place_id: ye-cheng
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '561'
   place_id: null
   event: 北讨库莫奚
+  event_en: "Against the Kumo Xi"
 - group: 都城
   order: 3
   year: '561'
   place_id: ye-cheng
   event: 孝昭崩
+  event_en: "Death of Emperor Xiaozhao"
 sources:
 - title: 北齐书·孝昭纪
   note: 主叙事

@@ -142,21 +142,25 @@ routes:
   year: '888'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '901'
   place_id: feng-xiang
   event: 宦官劫幸凤翔
+  event_en: "The Eunuchs Carry Him to Fengxiang"
 - group: 都城
   order: 3
   year: '903'
   place_id: chang-an
   event: 朱全忠尽诛宦官
+  event_en: "Zhu Quanzhong Destroys the Eunuchs"
 - group: 都城
   order: 4
   year: '904'
   place_id: luoyang
   event: 迁洛被弑
+  event_en: "Taken to Luoyang and Slain"
 sources:
 - title: 旧唐书·昭宗纪
   note: 主叙事

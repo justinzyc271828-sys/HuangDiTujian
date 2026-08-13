@@ -146,6 +146,7 @@ routes:
   year: '1276'
   place_id: fu-zhou
   event: 福州即位
+  event_en: "福州即位"
 sources:
 - title: 宋史
   note: 年表主据

@@ -213,31 +213,37 @@ routes:
   year: '471'
   place_id: ping-cheng
   event: 即位
+  event_en: "Childhood Accession"
 - group: 都城
   order: 2
   year: '476'
   place_id: ping-cheng
   event: 冯太后再临朝
+  event_en: "Empress Dowager Feng's Second Regency"
 - group: 迁都
   order: 3
   year: '493'
   place_id: luoyang
   event: 迁都洛阳
+  event_en: "Capital Moved to Luoyang"
 - group: 都城
   order: 4
   year: '496'
   place_id: luoyang
   event: 太子恂废
+  event_en: "Crown Prince Xun Deposed"
 - group: 亲征
   order: 5
   year: '497'
   place_id: xiang-yang
   event: 南伐襄阳线
+  event_en: "Southern Campaigns toward Xiangyang"
 - group: 亲征
   order: 6
   year: '499'
   place_id: luoyang
   event: 南伐崩于军，归葬洛阳
+  event_en: "Died on campaign; buried at Luoyang"
 sources:
 - title: 魏书·高祖纪（卷007上下）
   note: 年表主据

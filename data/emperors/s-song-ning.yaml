@@ -158,16 +158,19 @@ routes:
   year: '1194'
   place_id: lin-an
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1196'
   place_id: lin-an
   event: 庆元党禁
+  event_en: "庆元党禁"
 - group: 都城
   order: 3
   year: '1224'
   place_id: lin-an
   event: 宁宗崩
+  event_en: "宁宗崩"
 sources:
 - title: 宋史
   note: 年表主据

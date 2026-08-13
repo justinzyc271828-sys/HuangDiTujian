@@ -140,21 +140,25 @@ routes:
   year: '515'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '520'
   place_id: luoyang
   event: 元叉幽太后
+  event_en: "Yuan Cha Confines the Empress"
 - group: 其他
   order: 3
   year: '523'
   place_id: null
   event: 六镇起义
+  event_en: "The Six Garrisons Rising"
 - group: 都城
   order: 4
   year: '528'
   place_id: luoyang
   event: 孝明暴崩
+  event_en: "The Sudden Death of Xiaoming"
 sources:
 - title: 魏书·肃宗纪
   note: 主叙事

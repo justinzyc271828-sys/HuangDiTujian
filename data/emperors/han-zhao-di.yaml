@@ -208,56 +208,67 @@ routes:
   year: '-94'
   place_id: chang-an
   event: 钩弋子生
+  event_en: "Son of the Hook-Yi Lady"
 - group: 都城
   order: 2
   year: '-87'
   place_id: chang-an
   event: 立太子并即位
+  event_en: "Heir Apparent, then Emperor"
 - group: 其他
   order: 3
   year: '-86'
   place_id: yi-zhou
   event: 益州廉头姑缯反
+  event_en: "Revolt in Yizhou"
 - group: 都城
   order: 4
   year: '-81'
   place_id: chang-an
   event: 盐铁会议
+  event_en: "The Salt and Iron Debate"
 - group: 都城
   order: 5
   year: '-80'
   place_id: chang-an
   event: 燕王旦上官桀谋反
+  event_en: "Plot of the King of Yan and Shangguan Jie"
 - group: 都城
   order: 6
   year: '-80'
   place_id: chang-an
   event: 霍光权固
+  event_en: "Huo Guang's Grip Firm"
 - group: 其他
   order: 7
   year: '-77'
   place_id: loulan
   event: 傅介子斩楼兰王
+  event_en: "Fu Jiezi Slays the King of Loulan"
 - group: 都城
   order: 8
   year: '-74'
   place_id: chang-an
   event: 昭帝崩
+  event_en: "Death of Emperor Zhao"
 - group: 都城
   order: 9
   year: '-74'
   place_id: chang-an
   event: 立昌邑王贺
+  event_en: "Prince He of Changyi Enthroned"
 - group: 都城
   order: 10
   year: '-74'
   place_id: chang-an
   event: 废昌邑王
+  event_en: "Prince He Deposed"
 - group: 都城
   order: 11
   year: '-74'
   place_id: chang-an
   event: 迎立宣帝
+  event_en: "Emperor Xuan Called to the Throne"
 sources:
 - title: 汉书·昭帝纪
   note: 主叙事

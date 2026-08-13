@@ -132,16 +132,19 @@ routes:
   year: '954'
   place_id: jinyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '960'
   place_id: jinyang
   event: 拒宋
+  event_en: "Holding against Song"
 - group: 都城
   order: 3
   year: '968'
   place_id: jinyang
   event: 刘钧卒
+  event_en: "Death of Liu Jun"
 sources:
 - title: 新五代史·东汉世家
   note: 主叙事

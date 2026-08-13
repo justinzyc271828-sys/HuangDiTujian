@@ -215,31 +215,37 @@ routes:
   year: '223'
   place_id: cheng-du
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '234'
   place_id: wuzhang-yuan
   event: 诸葛亮卒
+  event_en: "Death of Zhuge Liang"
 - group: 都城
   order: 3
   year: '263'
   place_id: cheng-du
   event: 邓艾入蜀
+  event_en: "Deng Ai Enters Shu"
 - group: 都城
   order: 4
   year: '263'
   place_id: cheng-du
   event: 刘禅降
+  event_en: "The Surrender of Liu Shan"
 - group: 都城
   order: 5
   year: '264'
   place_id: luoyang
   event: 封安乐公
+  event_en: "Duke of Anle"
 - group: 都城
   order: 6
   year: '271'
   place_id: luoyang
   event: 薨于洛阳
+  event_en: "Death at Luoyang"
 sources:
 - title: 三国志·后主传
   note: 主叙事

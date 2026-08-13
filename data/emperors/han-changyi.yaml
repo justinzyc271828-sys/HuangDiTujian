@@ -138,26 +138,31 @@ routes:
   year: '-92'
   place_id: chang-yi
   event: 为昌邑王
+  event_en: "King of Changyi"
 - group: 都城
   order: 2
   year: '-74'
   place_id: chang-an
   event: 迎立为帝
+  event_en: "Called to the Throne"
 - group: 都城
   order: 3
   year: '-74'
   place_id: chang-an
   event: 淫戏无度
+  event_en: "Dissolute in Excess"
 - group: 都城
   order: 4
   year: '-74'
   place_id: chang-an
   event: 被废
+  event_en: "Deposed"
 - group: 流徙
   order: 5
   year: '-63'
   place_id: hai-hun
   event: 废为海昏侯
+  event_en: "Reduced to Marquis of Haihun"
 sources:
 - title: 汉书·霍光传
   note: 废立始末

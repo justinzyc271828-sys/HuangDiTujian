@@ -145,16 +145,19 @@ routes:
   year: '927'
   place_id: linhuang
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '936'
   place_id: jinyang
   event: 扶石晋
+  event_en: "Supporting Shi Jingtang"
 - group: 都城
   order: 3
   year: '947'
   place_id: kai-feng
   event: 入汴
+  event_en: "Entry into Bian"
 sources:
 - title: 辽史
   note: 年表主据

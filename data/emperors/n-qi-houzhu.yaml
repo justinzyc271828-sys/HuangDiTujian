@@ -139,21 +139,25 @@ routes:
   year: '565'
   place_id: ye-cheng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '572'
   place_id: ye-cheng
   event: 杀斛律光
+  event_en: "Slewing Hulü Guang"
 - group: 其他
   order: 3
   year: '576'
   place_id: null
   event: 周师深入
+  event_en: "The Zhou Armies Come Deep"
 - group: 都城
   order: 4
   year: '577'
   place_id: ye-cheng
   event: 齐亡
+  event_en: "The Fall of Qi"
 sources:
 - title: 北齐书·后主纪
   note: 主叙事

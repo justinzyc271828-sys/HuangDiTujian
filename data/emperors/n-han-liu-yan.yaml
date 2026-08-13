@@ -130,16 +130,19 @@ routes:
   year: '911'
   place_id: pan-yu
   event: 据岭南
+  event_en: "Holding Lingnan"
 - group: 都城
   order: 2
   year: '917'
   place_id: pan-yu
   event: 称帝
+  event_en: "The Imperial Title"
 - group: 都城
   order: 3
   year: '942'
   place_id: pan-yu
   event: 刘岩卒
+  event_en: "Death of Liu Yan"
 sources:
 - title: 新五代史·南汉世家
   note: 主叙事

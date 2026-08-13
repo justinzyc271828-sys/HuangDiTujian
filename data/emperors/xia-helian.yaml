@@ -134,21 +134,25 @@ routes:
   year: '407'
   place_id: null
   event: 称大夏天王
+  event_en: "Heavenly King of Xia"
 - group: 都城
   order: 2
   year: '413'
   place_id: tong-wan
   event: 筑统万城
+  event_en: "Building Tongwan"
 - group: 其他
   order: 3
   year: '418'
   place_id: chang-an
   event: 取长安称帝
+  event_en: "Chang'an Taken, the Throne"
 - group: 都城
   order: 4
   year: '425'
   place_id: tong-wan
   event: 勃勃崩
+  event_en: "Death of Bobo"
 sources:
 - title: 晋书·赫连勃勃载记
   note: 主叙事

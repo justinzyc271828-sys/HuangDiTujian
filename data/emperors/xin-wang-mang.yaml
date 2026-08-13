@@ -218,41 +218,49 @@ routes:
   year: '1'
   place_id: chang-an
   event: 安汉公
+  event_en: "Duke of Anhan"
 - group: 都城
   order: 2
   year: '6'
   place_id: chang-an
   event: 居摄称制
+  event_en: "Acting as Regent"
 - group: 都城
   order: 3
   year: '8'
   place_id: chang-an
   event: 符命劝进
+  event_en: "Portents Urge Accession"
 - group: 都城
   order: 4
   year: '9'
   place_id: chang-an
   event: 代汉称帝
+  event_en: "Replacing Han as Emperor"
 - group: 其他
   order: 5
   year: '22'
   place_id: lv-lin
   event: 绿林新市兵起
+  event_en: "Lulin and Xinshi Rise"
 - group: 其他
   order: 6
   year: '23'
   place_id: kun-yang
   event: 昆阳新败
+  event_en: "Xin Defeated at Kunyang"
 - group: 都城
   order: 7
   year: '23'
   place_id: chang-an
   event: 更始入关前夜
+  event_en: "Gengshi at the Passes"
 - group: 都城
   order: 8
   year: '23'
   place_id: chang-an
   event: 渐台之死
+  event_en: "Death on the Jian Terrace"
 sources:
 - title: 汉书·王莽传
   note: 年表主据

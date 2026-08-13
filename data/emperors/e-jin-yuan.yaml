@@ -211,26 +211,31 @@ routes:
   year: '307'
   place_id: jian-kang
   event: 镇建邺
+  event_en: "Governing Jianye"
 - group: 都城
   order: 2
   year: '317'
   place_id: jian-kang
   event: 称晋王
+  event_en: "King of Jin"
 - group: 都城
   order: 3
   year: '318'
   place_id: jian-kang
   event: 即皇帝位
+  event_en: "Taking the Imperial Throne"
 - group: 都城
   order: 4
   year: '322'
   place_id: jian-kang
   event: 王敦反
+  event_en: "Wang Dun's Revolt"
 - group: 都城
   order: 5
   year: '322'
   place_id: jian-kang
   event: 元帝崩
+  event_en: "Death of Emperor Yuan"
 sources:
 - title: 晋书·元帝纪
   note: 主叙事

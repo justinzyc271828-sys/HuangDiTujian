@@ -130,16 +130,19 @@ routes:
   year: '925'
   place_id: cheng-du
   event: 镇西川
+  event_en: "Holding Xichuan"
 - group: 亲征
   order: 2
   year: '932'
   place_id: null
   event: 并东川
+  event_en: "Uniting the East Chuan"
 - group: 都城
   order: 3
   year: '934'
   place_id: cheng-du
   event: 称帝
+  event_en: "The Imperial Title"
 sources:
 - title: 新五代史·后蜀世家
   note: 主叙事

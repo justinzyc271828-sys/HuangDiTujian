@@ -141,26 +141,31 @@ routes:
   year: '710'
   place_id: chang-an
   event: 复位
+  event_en: "The Restoration"
 - group: 都城
   order: 2
   year: '710'
   place_id: chang-an
   event: 立太子隆基
+  event_en: "Longji Made Heir"
 - group: 都城
   order: 3
   year: '712'
   place_id: chang-an
   event: 传位玄宗
+  event_en: "Yielding to Xuanzong"
 - group: 都城
   order: 4
   year: '713'
   place_id: chang-an
   event: 太平公主赐死
+  event_en: "The Princess Taiping Put to Death"
 - group: 都城
   order: 5
   year: '716'
   place_id: chang-an
   event: 太上皇崩
+  event_en: "Death of the Grand Emperor"
 sources:
 - title: 旧唐书·睿宗纪
   note: 主叙事

@@ -225,41 +225,49 @@ routes:
   year: '265'
   place_id: luoyang
   event: 受禅即位
+  event_en: "The Abdication Throne"
 - group: 都城
   order: 2
   year: '266'
   place_id: luoyang
   event: 郊祀建制
+  event_en: "Rites and Institutions"
 - group: 都城
   order: 3
   year: '273'
   place_id: luoyang
   event: 选公卿女充后宫
+  event_en: "Choosing the Court Ladies"
 - group: 其他
   order: 4
   year: '279'
   place_id: hexi
   event: 马隆平凉州
+  event_en: "Ma Long Pacifies Liangzhou"
 - group: 其他
   order: 5
   year: '280'
   place_id: null
   event: 平吴统一
+  event_en: "Unification by the Wu Conquest"
 - group: 都城
   order: 6
   year: '280'
   place_id: luoyang
   event: 罢州郡兵
+  event_en: "Disbanding the Provincial Armies"
 - group: 都城
   order: 7
   year: '289'
   place_id: luoyang
   event: 封宗室强藩
+  event_en: "The Princes Given Power"
 - group: 都城
   order: 8
   year: '290'
   place_id: luoyang
   event: 武帝崩
+  event_en: "Death of Emperor Wu"
 sources:
 - title: 晋书·武帝纪
   note: 主叙事

@@ -129,16 +129,19 @@ routes:
   year: '897'
   place_id: fu-zhou
   event: 据福州
+  event_en: "Holding Fuzhou"
 - group: 都城
   order: 2
   year: '909'
   place_id: fu-zhou
   event: 封闽王
+  event_en: "King of Min"
 - group: 都城
   order: 3
   year: '925'
   place_id: fu-zhou
   event: 审知卒
+  event_en: "Death of Wang Shenzhi"
 sources:
 - title: 新五代史·闽世家
   note: 主叙事

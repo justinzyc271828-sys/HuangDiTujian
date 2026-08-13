@@ -209,26 +209,31 @@ routes:
   year: '325'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '328'
   place_id: jian-kang
   event: 建康倾覆
+  event_en: "The Fall of Jiankang"
 - group: 都城
   order: 3
   year: '329'
   place_id: jian-kang
   event: 平苏峻
+  event_en: "The Pacification of Su Jun"
 - group: 其他
   order: 4
   year: '335'
   place_id: li-yang
   event: 石虎寇历阳
+  event_en: "Shi Hu Raids Liyang"
 - group: 都城
   order: 5
   year: '342'
   place_id: jian-kang
   event: 成帝崩
+  event_en: "Death of Emperor Cheng"
 sources:
 - title: 晋书·成帝纪
   note: 主叙事

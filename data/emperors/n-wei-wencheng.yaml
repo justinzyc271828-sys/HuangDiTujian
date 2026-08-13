@@ -137,21 +137,25 @@ routes:
   year: '452'
   place_id: ping-cheng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '453'
   place_id: ping-cheng
   event: 复佛法
+  event_en: "Restoring Buddhism"
 - group: 都城
   order: 3
   year: '460'
   place_id: ping-cheng
   event: 云冈开窟
+  event_en: "The Yungang Caves Opened"
 - group: 都城
   order: 4
   year: '465'
   place_id: ping-cheng
   event: 文成帝崩
+  event_en: "Death of Emperor Wencheng"
 sources:
 - title: 魏书·高宗纪
   note: 主叙事

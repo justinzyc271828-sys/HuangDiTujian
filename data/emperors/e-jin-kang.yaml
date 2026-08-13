@@ -134,16 +134,19 @@ routes:
   year: '342'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '343'
   place_id: wu-chang
   event: 庾翼北伐议
+  event_en: "Yu Yi's Northern Plan"
 - group: 都城
   order: 3
   year: '344'
   place_id: jian-kang
   event: 康帝崩
+  event_en: "Death of Emperor Kang"
 sources:
 - title: 晋书·康帝纪
   note: 主叙事

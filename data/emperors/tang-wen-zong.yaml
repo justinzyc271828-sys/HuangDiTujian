@@ -136,16 +136,19 @@ routes:
   year: '826'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '835'
   place_id: chang-an
   event: 甘露之变
+  event_en: "The Ganlu Incident"
 - group: 都城
   order: 3
   year: '840'
   place_id: chang-an
   event: 文宗崩
+  event_en: "Death of Emperor Wenzong"
 sources:
 - title: 旧唐书·文宗纪
   note: 主叙事

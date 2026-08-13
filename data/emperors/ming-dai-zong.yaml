@@ -140,21 +140,25 @@ routes:
   year: '1449'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1449'
   place_id: bei-jing
   event: 北京保卫战
+  event_en: "Defense of Beijing"
 - group: 都城
   order: 3
   year: '1450'
   place_id: bei-jing
   event: 英宗还
+  event_en: "Yingzong Returns"
 - group: 都城
   order: 4
   year: '1457'
   place_id: bei-jing
   event: 夺门之变
+  event_en: "The Restoration Coup"
 sources:
 - title: 明史
   note: 年表主据

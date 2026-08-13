@@ -141,16 +141,19 @@ routes:
   year: '1294'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1297'
   place_id: da-du
   event: 改元大德
+  event_en: "Era Dade"
 - group: 都城
   order: 3
   year: '1307'
   place_id: da-du
   event: 成宗崩
+  event_en: "Death of Chengzong"
 sources:
 - title: 元史
   note: 年表主据

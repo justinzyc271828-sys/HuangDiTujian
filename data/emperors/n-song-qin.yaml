@@ -147,21 +147,25 @@ routes:
   year: '1125'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1126'
   place_id: kai-feng
   event: 李纲守城
+  event_en: "李纲守城"
 - group: 都城
   order: 3
   year: '1127'
   place_id: kai-feng
   event: 靖康之变
+  event_en: "靖康之变"
 - group: 流徙
   order: 4
   year: '1161'
   place_id: wu-guo-cheng
   event: 崩于金
+  event_en: "崩于金"
 sources:
 - title: 宋史
   note: 年表主据

@@ -137,21 +137,25 @@ routes:
   year: '239'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '249'
   place_id: gao-ping
   event: 高平陵之变
+  event_en: "The Gaopingling Incident"
 - group: 都城
   order: 3
   year: '254'
   place_id: luoyang
   event: 废为齐王
+  event_en: "Deposed as Prince of Qi"
 - group: 都城
   order: 4
   year: '254'
   place_id: luoyang
   event: 李丰张缉谋泄
+  event_en: "The Li Feng–Zhang Ji Conspiracy"
 sources:
 - title: 三国志·三少帝纪
   note: 主叙事

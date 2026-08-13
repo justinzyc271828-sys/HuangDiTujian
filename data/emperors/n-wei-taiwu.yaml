@@ -218,41 +218,49 @@ routes:
   year: '423'
   place_id: ping-cheng
   event: 即位
+  event_en: "Accession at Pingcheng"
 - group: 亲征
   order: 2
   year: '427'
   place_id: tong-wan
   event: 取统万
+  event_en: "Capture of Tongwan"
 - group: 亲征
   order: 3
   year: '431'
   place_id: chang-an
   event: 灭胡夏取关中
+  event_en: "Destroyed Hu Xia; took Guanzhong"
 - group: 其他
   order: 4
   year: '436'
   place_id: he-long
   event: 灭北燕
+  event_en: "Destruction of Northern Yan"
 - group: 亲征
   order: 5
   year: '439'
   place_id: hexi
   event: 凉州平、灭北凉
+  event_en: "Liangzhou pacified; Northern Liang destroyed"
 - group: 其他
   order: 6
   year: '445'
   place_id: chang-an
   event: 镇压盖吴
+  event_en: "Gai Wu's revolt suppressed"
 - group: 亲征
   order: 7
   year: '450'
   place_id: gua-bu
   event: 南征至瓜步
+  event_en: "Southern campaign reached Guabu"
 - group: 都城
   order: 8
   year: '452'
   place_id: ping-cheng
   event: 被弑
+  event_en: "Assassinated by Zong Ai"
 sources:
 - title: 魏书·世祖纪（卷004）
   note: 年表主据

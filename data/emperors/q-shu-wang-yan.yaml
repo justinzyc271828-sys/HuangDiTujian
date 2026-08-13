@@ -134,16 +134,19 @@ routes:
   year: '918'
   place_id: cheng-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '925'
   place_id: cheng-du
   event: 降唐
+  event_en: "Surrender to Tang"
 - group: 其他
   order: 3
   year: '926'
   place_id: null
   event: 被杀
+  event_en: "Slain"
 sources:
 - title: 新五代史·前蜀世家
   note: 主叙事

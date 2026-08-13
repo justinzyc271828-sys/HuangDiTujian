@@ -141,16 +141,19 @@ routes:
   year: '1114'
   place_id: ning-jiang-zhou
   event: 起兵反辽
+  event_en: "Revolt against Liao"
 - group: 都城
   order: 2
   year: '1115'
   place_id: huining
   event: 称帝建国
+  event_en: "Founding of the State"
 - group: 亲征
   order: 3
   year: '1120'
   place_id: linhuang
   event: 取辽上京
+  event_en: "Taking the Liao Upper Capital"
 sources:
 - title: 金史
   note: 年表主据

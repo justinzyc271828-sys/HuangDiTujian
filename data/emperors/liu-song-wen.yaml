@@ -171,26 +171,31 @@ routes:
   year: '424'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '439'
   place_id: jian-kang
   event: 立四学
+  event_en: "The Four Academies"
 - group: 都城
   order: 3
   year: '445'
   place_id: jian-kang
   event: 元嘉之治
+  event_en: "The Yuanjia Recovery"
 - group: 其他
   order: 4
   year: '450'
   place_id: gua-bu
   event: 北伐与魏太武南牧
+  event_en: "The Expedition and the Emperor Taiwu's Ride South"
 - group: 都城
   order: 5
   year: '453'
   place_id: jian-kang
   event: 为太子劭所弑
+  event_en: "Slain by the Heir Shao"
 sources:
 - title: 宋书·文帝纪
   note: 主叙事

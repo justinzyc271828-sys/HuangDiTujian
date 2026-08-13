@@ -222,31 +222,37 @@ routes:
   year: '581'
   place_id: chang-an
   event: 代周建隋
+  event_en: "Replacing Zhou, Founding Sui"
 - group: 迁都
   order: 2
   year: '583'
   place_id: da-xing
   event: 营迁大兴城
+  event_en: "Built and moved to Daxing City"
 - group: 其他
   order: 3
   year: '587'
   place_id: jiang-ling
   event: 灭后梁
+  event_en: "Destroying the Later Liang"
 - group: 其他
   order: 4
   year: '589'
   place_id: jian-kang
   event: 灭陈混一
+  event_en: "Destroying Chen, Unifying the Realm"
 - group: 都城
   order: 5
   year: '600'
   place_id: chang-an
   event: 废勇立广
+  event_en: "Deposing Yong, Installing Guang"
 - group: 都城
   order: 6
   year: '604'
   place_id: renshou-gong
   event: 崩于仁寿宫
+  event_en: "Died at Renshou Palace"
 sources:
 - title: 隋书·高祖纪（卷001–002）
   note: 年表主据

@@ -203,51 +203,61 @@ routes:
   year: '28'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '39'
   place_id: luoyang
   event: 封东海公
+  event_en: "Duke of Donghai"
 - group: 都城
   order: 3
   year: '43'
   place_id: luoyang
   event: 立为皇太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 4
   year: '57'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 5
   year: '58'
   place_id: luoyang
   event: 参与定礼乐
+  event_en: "Rites and Music Settled"
 - group: 都城
   order: 6
   year: '60'
   place_id: luoyang
   event: 图画云台功臣
+  event_en: "The Yuntai Portraits"
 - group: 其他
   order: 7
   year: '69'
   place_id: luoyang
   event: 王景治汴
+  event_en: "Wang Jing Tames the Bian"
 - group: 其他
   order: 8
   year: '73'
   place_id: yi-wu
   event: 窦固取伊吾
+  event_en: "Dou Gu Takes Yiwu"
 - group: 其他
   order: 9
   year: '74'
   place_id: hexi
   event: 西域诸国遣子入侍
+  event_en: "Western Regions Submit"
 - group: 都城
   order: 10
   year: '75'
   place_id: luoyang
   event: 明帝崩
+  event_en: "Death of Emperor Ming"
 sources:
 - title: 后汉书·明帝纪
   note: 主叙事

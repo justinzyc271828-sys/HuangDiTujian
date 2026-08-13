@@ -143,11 +143,13 @@ routes:
   year: '1211'
   place_id: ye-hu-ling
   event: 攻金
+  event_en: "War on Jin"
 - group: 亲征
   order: 2
   year: '1219'
   place_id: xi-yu
   event: 西征
+  event_en: "Western Campaign"
 sources:
 - title: 元史
   note: 年表主据

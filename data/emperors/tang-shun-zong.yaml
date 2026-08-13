@@ -133,21 +133,25 @@ routes:
   year: '805'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '805'
   place_id: chang-an
   event: 二王八司马
+  event_en: "The Two Kings and Eight Marshals"
 - group: 都城
   order: 3
   year: '805'
   place_id: chang-an
   event: 禅位宪宗
+  event_en: "Abdication to Xianzong"
 - group: 都城
   order: 4
   year: '806'
   place_id: chang-an
   event: 太上皇崩
+  event_en: "Death of the Grand Emperor"
 sources:
 - title: 旧唐书·顺宗纪
   note: 主叙事

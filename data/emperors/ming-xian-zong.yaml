@@ -140,16 +140,19 @@ routes:
   year: '1464'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1477'
   place_id: bei-jing
   event: 设西厂
+  event_en: "Western Depot"
 - group: 都城
   order: 3
   year: '1487'
   place_id: bei-jing
   event: 宪宗崩
+  event_en: "Death of Xianzong"
 sources:
 - title: 明史
   note: 年表主据

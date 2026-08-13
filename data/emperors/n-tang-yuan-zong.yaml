@@ -137,21 +137,25 @@ routes:
   year: '943'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '945'
   place_id: null
   event: 灭闽
+  event_en: "Destroying Min"
 - group: 都城
   order: 3
   year: '958'
   place_id: jian-kang
   event: 称臣后周
+  event_en: "Vassal of Zhou"
 - group: 都城
   order: 4
   year: '961'
   place_id: hong-zhou
   event: 迁洪州崩
+  event_en: "The Move to Hongzhou and Death"
 sources:
 - title: 新五代史·南唐世家
   note: 主叙事

@@ -212,41 +212,49 @@ routes:
   year: '311'
   place_id: luoyang
   event: 永嘉乱后华北混战，军势坐大
+  event_en: "Rose amid north-China chaos after the Yongjia turmoil"
 - group: 都城
   order: 2
   year: '319'
   place_id: xiang-guo
   event: 称赵王，都襄国
+  event_en: "Proclaimed King of Zhao; capital at Xiangguo"
 - group: 都城
   order: 3
   year: '319'
   place_id: xiang-guo
   event: 兼称大单于，制度升格
+  event_en: "Also titled Great Chanyu; dual institutions formalized"
 - group: 亲征
   order: 4
   year: '328'
   place_id: luoyang
   event: 与刘曜对峙，洛阳决战前夜
+  event_en: "Standoff with Liu Yao; eve of the Luoyang showdown"
 - group: 亲征
   order: 5
   year: '329'
   place_id: luoyang
   event: 破刘曜，灭前赵
+  event_en: "Defeated Liu Yao; Former Zhao destroyed"
 - group: 都城
   order: 6
   year: '330'
   place_id: xiang-guo
   event: 称皇帝
+  event_en: "Proclaimed Emperor"
 - group: 都城
   order: 7
   year: '333'
   place_id: xiang-guo
   event: 遗命与石弘
+  event_en: "Last testament and Shi Hong"
 - group: 都城
   order: 8
   year: '333'
   place_id: xiang-guo
   event: 石勒崩
+  event_en: "Death of Shi Le"
 sources:
 - title: 晋书·石勒载记（卷104–105）
   note: 年表主据

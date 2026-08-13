@@ -140,16 +140,19 @@ routes:
   year: '1620'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1624'
   place_id: bei-jing
   event: 魏忠贤专权
+  event_en: "Wei Zhongxian in Power"
 - group: 都城
   order: 3
   year: '1627'
   place_id: bei-jing
   event: 熹宗崩
+  event_en: "Death of Xizong"
 sources:
 - title: 明史
   note: 年表主据

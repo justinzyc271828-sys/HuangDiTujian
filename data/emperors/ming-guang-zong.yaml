@@ -140,16 +140,19 @@ routes:
   year: '1620'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1620'
   place_id: bei-jing
   event: 发帑罢矿税
+  event_en: "Treasury and Taxes"
 - group: 都城
   order: 3
   year: '1620'
   place_id: bei-jing
   event: 红丸案
+  event_en: "The Red Pill Case"
 sources:
 - title: 明史
   note: 年表主据

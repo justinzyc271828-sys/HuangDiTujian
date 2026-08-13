@@ -223,41 +223,49 @@ routes:
   year: '-91'
   place_id: chang-an
   event: 民间长养
+  event_en: "Raised Among the People"
 - group: 都城
   order: 2
   year: '-74'
   place_id: chang-an
   event: 霍光迎立
+  event_en: "Enthroned by Huo Guang"
 - group: 都城
   order: 3
   year: '-73'
   place_id: chang-an
   event: 本始改元
+  event_en: "Benshi Era Begins"
 - group: 都城
   order: 4
   year: '-66'
   place_id: chang-an
   event: 诛霍氏亲政
+  event_en: "Huo clan eliminated; personal rule begins"
 - group: 其他
   order: 5
   year: '-61'
   place_id: hexi
   event: 赵充国击羌
+  event_en: "Zhao Chongguo Strikes the Qiang"
 - group: 其他
   order: 6
   year: '-60'
   place_id: hexi
   event: 西域都护始置
+  event_en: "Protectorate of the Western Regions established"
 - group: 都城
   order: 7
   year: '-51'
   place_id: chang-an
   event: 呼韩邪单于入朝
+  event_en: "Chanyu Huhanye's court visit"
 - group: 都城
   order: 8
   year: '-49'
   place_id: chang-an
   event: 宣帝崩
+  event_en: "Death of Emperor Xuan"
 sources:
 - title: 汉书·宣帝纪
   note: 年表主据

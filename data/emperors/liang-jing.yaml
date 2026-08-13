@@ -135,16 +135,19 @@ routes:
   year: '555'
   place_id: jian-kang
   event: 即位建康
+  event_en: "The Throne at Jiankang"
 - group: 都城
   order: 2
   year: '557'
   place_id: jian-kang
   event: 禅位陈
+  event_en: "Abdication to Chen"
 - group: 都城
   order: 3
   year: '558'
   place_id: jian-kang
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 梁书·敬帝纪
   note: 主叙事

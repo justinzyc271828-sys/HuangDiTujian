@@ -141,26 +141,31 @@ routes:
   year: '1592'
   place_id: sheng-jing
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '1626'
   place_id: sheng-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '1636'
   place_id: sheng-jing
   event: 称帝改清
+  event_en: "Renamed Qing, Imperial Title"
 - group: 亲征
   order: 4
   year: '1636'
   place_id: chao-xian
   event: 征朝鲜
+  event_en: "Joseon Campaign"
 - group: 都城
   order: 5
   year: '1643'
   place_id: sheng-jing
   event: 太宗崩
+  event_en: "Death of Taizong"
 sources:
 - title: 清史稿
   note: 年表主据

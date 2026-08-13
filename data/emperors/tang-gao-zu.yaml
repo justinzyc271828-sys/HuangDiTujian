@@ -161,31 +161,37 @@ routes:
   year: '617'
   place_id: jinyang
   event: 太原起兵
+  event_en: "Rising at Taiyuan"
 - group: 都城
   order: 2
   year: '617'
   place_id: chang-an
   event: 克长安立恭帝
+  event_en: "Chang'an Taken, Emperor Gong Set Up"
 - group: 都城
   order: 3
   year: '618'
   place_id: chang-an
   event: 受禅称帝
+  event_en: "The Abdication Throne"
 - group: 其他
   order: 4
   year: '621'
   place_id: luoyang
   event: 平王世充窦建德
+  event_en: "Wang Shichong and Dou Jiande Destroyed"
 - group: 都城
   order: 5
   year: '626'
   place_id: chang-an
   event: 玄武门后退位
+  event_en: "The Xuanwu Gate and the Abdication"
 - group: 都城
   order: 6
   year: '635'
   place_id: chang-an
   event: 太上皇崩
+  event_en: "Death of the Grand Emperor"
 sources:
 - title: 旧唐书·高祖纪
   note: 主叙事

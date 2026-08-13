@@ -136,16 +136,19 @@ routes:
   year: '400'
   place_id: dun-huang
   event: 称凉公
+  event_en: "Duke of Liang"
 - group: 都城
   order: 2
   year: '405'
   place_id: jiu-quan
   event: 迁酒泉
+  event_en: "Capital at Jiuquan"
 - group: 都城
   order: 3
   year: '417'
   place_id: jiu-quan
   event: 李暠崩
+  event_en: "Death of Li Gao"
 sources:
 - title: 晋书·凉武昭王传
   note: 主叙事

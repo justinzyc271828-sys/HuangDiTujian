@@ -205,46 +205,55 @@ routes:
   year: '57'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '60'
   place_id: luoyang
   event: 立为太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 3
   year: '75'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 4
   year: '78'
   place_id: luoyang
   event: 立窦后
+  event_en: "Empress Dou Enthroned"
 - group: 都城
   order: 5
   year: '79'
   place_id: luoyang
   event: 白虎观会议
+  event_en: "The White Tiger Hall Conference"
 - group: 巡狩
   order: 6
   year: '84'
   place_id: nan-yang
   event: 南巡
+  event_en: "The Southern Tour"
 - group: 巡狩
   order: 7
   year: '85'
   place_id: he-nei
   event: 北巡
+  event_en: "The Northern Tour"
 - group: 其他
   order: 8
   year: '87'
   place_id: hexi
   event: 班超定西域
+  event_en: "Ban Chao Settles the Western Regions"
 - group: 都城
   order: 9
   year: '88'
   place_id: luoyang
   event: 章帝崩
+  event_en: "Death of Emperor Zhang"
 sources:
 - title: 后汉书·章帝纪
   note: 主叙事

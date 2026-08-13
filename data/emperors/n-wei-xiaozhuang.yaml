@@ -133,21 +133,25 @@ routes:
   year: '528'
   place_id: luoyang
   event: 即位与河阴
+  event_en: "Accession and the Heyin Massacre"
 - group: 都城
   order: 2
   year: '529'
   place_id: luoyang
   event: 元颢入洛
+  event_en: "Yuan Hao Enters Luoyang"
 - group: 都城
   order: 3
   year: '530'
   place_id: luoyang
   event: 杀尔朱荣
+  event_en: "Slewing Erzhu Rong"
 - group: 都城
   order: 4
   year: '530'
   place_id: jin-yang
   event: 被弑
+  event_en: "Slain"
 sources:
 - title: 魏书·孝庄纪
   note: 主叙事

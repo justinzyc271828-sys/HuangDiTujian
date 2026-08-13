@@ -194,41 +194,49 @@ routes:
   year: '-74'
   place_id: chang-an
   event: 为太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 2
   year: '-49'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '-48'
   place_id: chang-an
   event: 以贡禹等
+  event_en: "Summoning Gong Yu and Others"
 - group: 其他
   order: 4
   year: '-42'
   place_id: long-xi
   event: 陇西羌反
+  event_en: "Qiang Revolt in Longxi"
 - group: 都城
   order: 5
   year: '-40'
   place_id: chang-an
   event: 石显用事
+  event_en: "Shi Xian in Power"
 - group: 其他
   order: 6
   year: '-36'
   place_id: kang-ju
   event: 陈汤斩郅支
+  event_en: "Chen Tang Slays Zhizhi"
 - group: 都城
   order: 7
   year: '-33'
   place_id: chang-an
   event: 呼韩邪入朝请婚
+  event_en: "Huhanye Asks for a Bride"
 - group: 都城
   order: 8
   year: '-33'
   place_id: chang-an
   event: 元帝崩
+  event_en: "Death of Emperor Yuan"
 sources:
 - title: 汉书·元帝纪
   note: 主叙事

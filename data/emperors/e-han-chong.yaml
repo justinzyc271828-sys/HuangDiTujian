@@ -140,21 +140,25 @@ routes:
   year: '143'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '144'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '145'
   place_id: luoyang
   event: 冲帝崩
+  event_en: "Death of Emperor Chong"
 - group: 都城
   order: 4
   year: '145'
   place_id: luoyang
   event: 梁冀立质帝
+  event_en: "Liang Ji Raises Emperor Zhi"
 sources:
 - title: 后汉书·冲帝纪
   note: 主叙事

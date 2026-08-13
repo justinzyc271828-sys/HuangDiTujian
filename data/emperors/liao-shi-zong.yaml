@@ -140,11 +140,13 @@ routes:
   year: '947'
   place_id: linhuang
   event: 改元天禄
+  event_en: "Era Tianlu"
 - group: 亲征
   order: 2
   year: '948'
   place_id: you-zhou
   event: 南伐
+  event_en: "Southern Campaign"
 sources:
 - title: 辽史
   note: 年表主据

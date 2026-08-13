@@ -138,26 +138,31 @@ routes:
   year: '873'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '875'
   place_id: null
   event: 黄巢起兵
+  event_en: "Huang Chao Rises"
 - group: 都城
   order: 3
   year: '880'
   place_id: chang-an
   event: 黄巢入长安
+  event_en: "Huang Chao Enters Chang'an"
 - group: 都城
   order: 4
   year: '883'
   place_id: chang-an
   event: 收复长安
+  event_en: "Recovering Chang'an"
 - group: 都城
   order: 5
   year: '888'
   place_id: chang-an
   event: 僖宗崩
+  event_en: "Death of Emperor Xizong"
 sources:
 - title: 旧唐书·僖宗纪
   note: 主叙事

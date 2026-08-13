@@ -140,16 +140,19 @@ routes:
   year: '1332'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1332'
   place_id: da-du
   event: 改元未行
+  event_en: "No Era Changed"
 - group: 都城
   order: 3
   year: '1332'
   place_id: da-du
   event: 宁宗崩
+  event_en: "Death of Ningzong"
 sources:
 - title: 元史
   note: 年表主据

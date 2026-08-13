@@ -130,21 +130,25 @@ routes:
   year: '498'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '499'
   place_id: jian-kang
   event: 诛杀大臣
+  event_en: "The Ministers Slain"
 - group: 其他
   order: 3
   year: '500'
   place_id: null
   event: 萧衍起兵
+  event_en: "Xiao Yan Rises"
 - group: 都城
   order: 4
   year: '501'
   place_id: jian-kang
   event: 建康陷落
+  event_en: "The Fall of Jiankang"
 sources:
 - title: 南齐书·东昏侯
   note: 主叙事

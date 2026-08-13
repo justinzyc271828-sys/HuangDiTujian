@@ -142,11 +142,13 @@ routes:
   year: '916'
   place_id: linhuang
   event: 称帝建元
+  event_en: "Imperial Title and Era"
 - group: 亲征
   order: 2
   year: '926'
   place_id: huhan-cheng
   event: 灭渤海
+  event_en: "Conquest of Balhae"
 sources:
 - title: 辽史
   note: 年表主据

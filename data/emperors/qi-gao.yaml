@@ -132,16 +132,19 @@ routes:
   year: '477'
   place_id: jian-kang
   event: 弑后废帝立顺帝
+  event_en: "The Deposed Emperor Slain"
 - group: 都城
   order: 2
   year: '479'
   place_id: jian-kang
   event: 受禅称帝
+  event_en: "The Abdication Throne"
 - group: 都城
   order: 3
   year: '482'
   place_id: jian-kang
   event: 高帝崩
+  event_en: "Death of Emperor Gao"
 sources:
 - title: 南齐书·高帝纪
   note: 主叙事

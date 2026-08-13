@@ -218,36 +218,43 @@ routes:
   year: '290'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '291'
   place_id: luoyang
   event: 诛杨骏
+  event_en: "Yang Jun Executed"
 - group: 都城
   order: 3
   year: '300'
   place_id: luoyang
   event: 杀太子遹
+  event_en: "The Heir Yu Slain"
 - group: 都城
   order: 4
   year: '301'
   place_id: luoyang
   event: 赵王伦篡
+  event_en: "Sima Lun Usurps"
 - group: 都城
   order: 5
   year: '301'
   place_id: luoyang
   event: 帝反正
+  event_en: "Restoration of the Emperor"
 - group: 流徙
   order: 6
   year: '304'
   place_id: chang-an
   event: 帝迁长安
+  event_en: "The Emperor Moved to Chang'an"
 - group: 都城
   order: 7
   year: '306'
   place_id: luoyang
   event: 还洛崩
+  event_en: "Death on Returning to Luoyang"
 sources:
 - title: 晋书·惠帝纪
   note: 主叙事

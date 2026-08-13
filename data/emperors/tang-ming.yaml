@@ -135,16 +135,19 @@ routes:
   year: '926'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '928'
   place_id: luoyang
   event: 宽政息兵
+  event_en: "Lenient Government"
 - group: 都城
   order: 3
   year: '933'
   place_id: luoyang
   event: 明宗崩
+  event_en: "Death of Emperor Mingzong"
 sources:
 - title: 旧五代史·明宗纪
   note: 主叙事

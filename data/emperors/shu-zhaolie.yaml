@@ -213,41 +213,49 @@ routes:
   year: '161'
   place_id: zhuo-jun
   event: 生涿郡
+  event_en: "Birth at Zhuojun"
 - group: 其他
   order: 2
   year: '208'
   place_id: chi-bi
   event: 赤壁联合抗曹
+  event_en: "The Red Cliffs Alliance"
 - group: 都城
   order: 3
   year: '214'
   place_id: cheng-du
   event: 得益州
+  event_en: "Winning Yizhou"
 - group: 都城
   order: 4
   year: '219'
   place_id: han-zhong
   event: 汉中称王
+  event_en: "King of Hanzhong"
 - group: 都城
   order: 5
   year: '221'
   place_id: cheng-du
   event: 即皇帝位
+  event_en: "Taking the Imperial Throne"
 - group: 亲征
   order: 6
   year: '221'
   place_id: null
   event: 伐吴
+  event_en: "Campaign against Wu"
 - group: 亲征
   order: 7
   year: '222'
   place_id: yi-ling
   event: 夷陵之败
+  event_en: "The Disaster at Yiling"
 - group: 都城
   order: 8
   year: '223'
   place_id: yong-an
   event: 崩于永安
+  event_en: "Death at Yong'an"
 sources:
 - title: 三国志·先主传
   note: 主叙事

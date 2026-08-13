@@ -130,21 +130,25 @@ routes:
   year: '892'
   place_id: yang-zhou
   event: 据扬州
+  event_en: "Holding Yangzhou"
 - group: 亲征
   order: 2
   year: '895'
   place_id: null
   event: 破孙儒
+  event_en: "Destroying Sun Ru"
 - group: 都城
   order: 3
   year: '902'
   place_id: yang-zhou
   event: 封吴王
+  event_en: "King of Wu"
 - group: 都城
   order: 4
   year: '905'
   place_id: yang-zhou
   event: 行密卒
+  event_en: "Death of Yang Xingmi"
 sources:
 - title: 新五代史·吴世家
   note: 主叙事

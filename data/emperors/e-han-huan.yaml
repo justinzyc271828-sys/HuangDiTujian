@@ -204,46 +204,55 @@ routes:
   year: '146'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '147'
   place_id: luoyang
   event: 立梁后
+  event_en: "Empress Liang Enthroned"
 - group: 都城
   order: 3
   year: '159'
   place_id: luoyang
   event: 诛梁冀
+  event_en: "Liang Ji Destroyed"
 - group: 都城
   order: 4
   year: '159'
   place_id: luoyang
   event: 封五侯
+  event_en: "The Five Marquises"
 - group: 都城
   order: 5
   year: '161'
   place_id: luoyang
   event: 减公卿以下奉
+  event_en: "Salaries Cut"
 - group: 都城
   order: 6
   year: '165'
   place_id: luoyang
   event: 废邓后
+  event_en: "Empress Deng Set Aside"
 - group: 都城
   order: 7
   year: '166'
   place_id: luoyang
   event: 第一次党锢
+  event_en: "The First Proscription"
 - group: 都城
   order: 8
   year: '167'
   place_id: luoyang
   event: 赦党人归田里
+  event_en: "The Partisans Released"
 - group: 都城
   order: 9
   year: '168'
   place_id: luoyang
   event: 桓帝崩
+  event_en: "Death of Emperor Huan"
 sources:
 - title: 后汉书·桓帝纪
   note: 主叙事

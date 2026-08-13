@@ -192,41 +192,49 @@ routes:
   year: '-196'
   place_id: zhong-du
   event: 立为代王
+  event_en: "Made King of Dai"
 - group: 都城
   order: 2
   year: '-180'
   place_id: chang-an
   event: 大臣迎立入长安
+  event_en: "Called to the Throne at Chang'an"
 - group: 都城
   order: 3
   year: '-179'
   place_id: chang-an
   event: 益封诛吕功臣
+  event_en: "Rewards for the Lü-Court Destroyers"
 - group: 都城
   order: 4
   year: '-167'
   place_id: chang-an
   event: 除肉刑
+  event_en: "Abolition of Mutilation Punishments"
 - group: 其他
   order: 5
   year: '-166'
   place_id: bei-di
   event: 匈奴入边
+  event_en: "Xiongnu Raids on the Frontier"
 - group: 都城
   order: 6
   year: '-165'
   place_id: chang-an
   event: 亲策贤良
+  event_en: "Examining the Worthy in Person"
 - group: 其他
   order: 7
   year: '-158'
   place_id: chang-an
   event: 匈奴大入与细柳
+  event_en: "The Great Raids and Xiliu Camp"
 - group: 都城
   order: 8
   year: '-157'
   place_id: chang-an
   event: 文帝崩薄葬
+  event_en: "Death and the Frugal Will"
 sources:
 - title: 汉书·文帝纪
   note: 主叙事

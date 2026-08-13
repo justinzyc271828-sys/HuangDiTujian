@@ -179,26 +179,31 @@ routes:
   year: '976'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '976'
   place_id: kai-feng
   event: 烛影斧声
+  event_en: "烛影斧声"
 - group: 亲征
   order: 3
   year: '979'
   place_id: jinyang
   event: 灭北汉
+  event_en: "灭北汉"
 - group: 亲征
   order: 4
   year: '979'
   place_id: you-zhou
   event: 高梁河之败
+  event_en: "高梁河之败"
 - group: 都城
   order: 5
   year: '997'
   place_id: kai-feng
   event: 太宗崩
+  event_en: "太宗崩"
 sources:
 - title: 宋史
   note: 年表主据

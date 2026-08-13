@@ -134,16 +134,19 @@ routes:
   year: '338'
   place_id: sheng-le
   event: 即代王位
+  event_en: "King of Dai"
 - group: 其他
   order: 2
   year: '367'
   place_id: null
   event: 破高车等
+  event_en: "Breaking the Gaoche"
 - group: 都城
   order: 3
   year: '376'
   place_id: sheng-le
   event: 前秦灭代
+  event_en: "The Qin Conquest of Dai"
 sources:
 - title: 魏书·序纪
   note: 主叙事

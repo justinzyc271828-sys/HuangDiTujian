@@ -200,51 +200,61 @@ routes:
   year: '-51'
   place_id: chang-an
   event: 生于甲观画堂
+  event_en: "Born in the Jiaguan Hall"
 - group: 都城
   order: 2
   year: '-33'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '-32'
   place_id: chang-an
   event: 封诸舅
+  event_en: "Enfeoffing the Maternal Uncles"
 - group: 其他
   order: 4
   year: '-28'
   place_id: dong-jun
   event: 黄河决
+  event_en: "The Yellow River Breaks"
 - group: 都城
   order: 5
   year: '-20'
   place_id: chang-an
   event: 罢昌陵
+  event_en: "The Changling Project Halted"
 - group: 都城
   order: 6
   year: '-18'
   place_id: chang-an
   event: 许后废
+  event_en: "Empress Xu Deposed"
 - group: 都城
   order: 7
   year: '-16'
   place_id: chang-an
   event: 立赵飞燕为后
+  event_en: "Zhao Feiyan Made Empress"
 - group: 都城
   order: 8
   year: '-8'
   place_id: chang-an
   event: 立定陶王为太子
+  event_en: "King Dingtao Made Heir"
 - group: 都城
   order: 9
   year: '-7'
   place_id: chang-an
   event: 王莽为大司马
+  event_en: "Wang Mang Made Commander-in-Chief"
 - group: 都城
   order: 10
   year: '-7'
   place_id: chang-an
   event: 成帝崩
+  event_en: "Death of Emperor Cheng"
 sources:
 - title: 汉书·成帝纪
   note: 主叙事

@@ -137,16 +137,19 @@ routes:
   year: '409'
   place_id: ping-cheng
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '422'
   place_id: null
   event: 取河南
+  event_en: "Taking Henan"
 - group: 都城
   order: 3
   year: '423'
   place_id: ping-cheng
   event: 明元帝崩
+  event_en: "Death of Emperor Mingyuan"
 sources:
 - title: 魏书·太宗纪
   note: 主叙事

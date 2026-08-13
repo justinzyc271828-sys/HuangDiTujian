@@ -140,16 +140,19 @@ routes:
   year: '1320'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1321'
   place_id: da-du
   event: 改元至治
+  event_en: "Era Zhizhi"
 - group: 都城
   order: 3
   year: '1322'
   place_id: da-du
   event: 拜住为相
+  event_en: "Baiju as Chancellor"
 sources:
 - title: 元史
   note: 年表主据

@@ -137,21 +137,25 @@ routes:
   year: '683'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '684'
   place_id: chang-an
   event: 被废
+  event_en: "Deposed"
 - group: 都城
   order: 3
   year: '684'
   place_id: chang-an
   event: 立睿宗
+  event_en: "Ruizong Set Up"
 - group: 都城
   order: 4
   year: '698'
   place_id: luoyang
   event: 自房州还
+  event_en: "Return from Fangzhou"
 sources:
 - title: 旧唐书·中宗纪
   note: 主叙事

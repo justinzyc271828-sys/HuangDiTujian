@@ -199,36 +199,43 @@ routes:
   year: '220'
   place_id: luoyang
   event: 受禅称帝
+  event_en: "The Abdication Throne"
 - group: 都城
   order: 2
   year: '220'
   place_id: luoyang
   event: 定服色郊祀
+  event_en: "Rites and Vestments Fixed"
 - group: 都城
   order: 3
   year: '221'
   place_id: luoyang
   event: 杀鲍勋等
+  event_en: "Execution of Bao Xun and Others"
 - group: 都城
   order: 4
   year: '221'
   place_id: luoyang
   event: 贬爵诸侯
+  event_en: "Princes Demoted"
 - group: 巡狩
   order: 5
   year: '224'
   place_id: guangling
   event: 东巡广陵
+  event_en: "Eastern Tour to Guangling"
 - group: 巡狩
   order: 6
   year: '225'
   place_id: guangling
   event: 再幸广陵
+  event_en: "Second Tour to Guangling"
 - group: 都城
   order: 7
   year: '226'
   place_id: luoyang
   event: 文帝崩
+  event_en: "Death of Emperor Wen"
 sources:
 - title: 三国志·文帝纪
   note: 主叙事

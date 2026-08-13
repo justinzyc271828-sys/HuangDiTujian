@@ -133,21 +133,25 @@ routes:
   year: '934'
   place_id: cheng-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '950'
   place_id: cheng-du
   event: 升平文治
+  event_en: "Culture and Peace"
 - group: 都城
   order: 3
   year: '965'
   place_id: cheng-du
   event: 降宋
+  event_en: "Surrender to Song"
 - group: 都城
   order: 4
   year: '965'
   place_id: kai-feng
   event: 卒于汴
+  event_en: "Death at Bian"
 sources:
 - title: 新五代史·后蜀世家
   note: 主叙事

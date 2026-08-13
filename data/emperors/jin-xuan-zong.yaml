@@ -142,16 +142,19 @@ routes:
   year: '1213'
   place_id: jin-zhong-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1214'
   place_id: kai-feng
   event: 迁都南京
+  event_en: "Capital at Bianjing"
 - group: 都城
   order: 3
   year: '1223'
   place_id: kai-feng
   event: 宣宗崩
+  event_en: "宣宗崩"
 sources:
 - title: 金史
   note: 年表主据

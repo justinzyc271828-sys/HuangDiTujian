@@ -126,16 +126,19 @@ routes:
   year: '896'
   place_id: tan-zhou
   event: 入湖南
+  event_en: "Into Hunan"
 - group: 都城
   order: 2
   year: '907'
   place_id: tan-zhou
   event: 封楚王
+  event_en: "King of Chu"
 - group: 都城
   order: 3
   year: '930'
   place_id: tan-zhou
   event: 马殷卒
+  event_en: "Death of Ma Yin"
 sources:
 - title: 新五代史·楚世家
   note: 主叙事

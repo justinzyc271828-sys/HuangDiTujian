@@ -225,21 +225,25 @@ routes:
   year: '-141'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '-127'
   place_id: shuofang
   event: 河南朔方
+  event_en: "Henan and Shuofang"
 - group: 其他
   order: 3
   year: '-121'
   place_id: hexi
   event: 河西之役
+  event_en: "The Hexi Campaign"
 - group: 巡狩
   order: 4
   year: '-110'
   place_id: taishan
   event: 封禅泰山
+  event_en: "Feng-Shan at Mount Tai"
 sources:
 - title: 汉书·武帝纪
   note: 年表主据

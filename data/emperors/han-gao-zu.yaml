@@ -100,16 +100,19 @@ routes:
     year: "-209"
     place_id: pei-xian
     event: 沛县起事
+    event_en: "Uprising at Pei County"
   - group: 入关
     order: 2
     year: "-206"
     place_id: xianyang
     event: 入关中
+    event_en: "Entered the Guanzhong heartland"
   - group: 都城
     order: 3
     year: "-200"
     place_id: chang-an
     event: 定都关中（长安体系）
+    event_en: "Capital fixed in Guanzhong (Chang'an)"
 
 sources:
   - title: 史记·高祖本纪

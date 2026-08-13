@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import type { Emperor, Place, RoutePoint } from "../types";
 import { BASE_CITIES, COAST, ISLANDS, MOUNTAINS, RANGES, RIVERS, TERRAIN } from "./chinaBase";
 import { TERRITORY } from "./territory";
-import { groupLabel, useLang } from "../i18n";
+import { fmtYear, groupLabel, useLang } from "../i18n";
 
 const GROUP_COLOR: Record<string, string> = {
   都城: "#6b5c42",
@@ -327,8 +327,8 @@ export default function MemorialMap({ emperor, places, activePlaceId, onSelectPl
             onClick={() => onSelectPlace(p.r.place_id)}
           >
             <strong>
-              {p.r.year ? `${p.r.year} · ` : ""}
-              {p.r.event}
+              {p.r.year ? `${isEn ? fmtYear(p.r.year) : p.r.year} · ` : ""}
+              {isEn ? (p.r.event_en ?? p.r.event) : p.r.event}
             </strong>
             <div>
               {placeName(p.pl)}

@@ -32,6 +32,7 @@ export type RoutePoint = {
   year?: string;
   place_id: string;
   event: string;
+  event_en?: string;
 };
 
 export type BioPart =

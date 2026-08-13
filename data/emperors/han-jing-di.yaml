@@ -207,51 +207,61 @@ routes:
   year: '-157'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '-154'
   place_id: chang-an
   event: 晁错议削藩
+  event_en: "Chao Cuo's Trimming Plan"
 - group: 其他
   order: 3
   year: '-154'
   place_id: guangling
   event: 七国之乱起
+  event_en: "Revolt of the Seven States"
 - group: 都城
   order: 4
   year: '-154'
   place_id: chang-an
   event: 斩晁错于东市
+  event_en: "Chao Cuo Beheaded at the East Market"
 - group: 其他
   order: 5
   year: '-154'
   place_id: sui-yang
   event: 梁孝王拒吴楚
+  event_en: "Prince Xiao of Liang Bars the Rebels"
 - group: 其他
   order: 6
   year: '-154'
   place_id: chang-yi
   event: 周亚夫平吴楚
+  event_en: "Zhou Yafu Quells Wu and Chu"
 - group: 都城
   order: 7
   year: '-150'
   place_id: chang-an
   event: 废栗太子
+  event_en: "The Li Heir Set Aside"
 - group: 都城
   order: 8
   year: '-148'
   place_id: chang-an
   event: 临江王荣死
+  event_en: "Death of the Prince of Linjiang"
 - group: 都城
   order: 9
   year: '-143'
   place_id: chang-an
   event: 周亚夫下狱死
+  event_en: "Zhou Yafu Dies in Prison"
 - group: 都城
   order: 10
   year: '-141'
   place_id: chang-an
   event: 景帝崩
+  event_en: "Death of Emperor Jing"
 sources:
 - title: 汉书·景帝纪
   note: 主叙事

@@ -204,51 +204,61 @@ routes:
   year: '168'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '168'
   place_id: luoyang
   event: 窦武陈蕃谋诛宦官败
+  event_en: "Dou Wu and Chen Fan Fall"
 - group: 都城
   order: 3
   year: '169'
   place_id: luoyang
   event: 诏州郡更考党人
+  event_en: "The Proscription Widened"
 - group: 都城
   order: 4
   year: '178'
   place_id: luoyang
   event: 初开西园卖官
+  event_en: "Offices Sold at the West Garden"
 - group: 都城
   order: 5
   year: '178'
   place_id: luoyang
   event: 置鸿都门学
+  event_en: "The Hongdu Academy"
 - group: 都城
   order: 6
   year: '184'
   place_id: luoyang
   event: 赦党人
+  event_en: "The Proscription Lifted"
 - group: 其他
   order: 7
   year: '184'
   place_id: ju-lu
   event: 黄巾起
+  event_en: "The Yellow Turbans Rise"
 - group: 都城
   order: 8
   year: '185'
   place_id: luoyang
   event: 造万金堂
+  event_en: "The Hall of Ten Thousand Gold"
 - group: 都城
   order: 9
   year: '188'
   place_id: luoyang
   event: 置西园八校尉
+  event_en: "The Eight Colonels of the West Garden"
 - group: 都城
   order: 10
   year: '189'
   place_id: luoyang
   event: 灵帝崩
+  event_en: "Death of Emperor Ling"
 sources:
 - title: 后汉书·灵帝纪
   note: 主叙事

@@ -136,21 +136,25 @@ routes:
   year: '145'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '146'
   place_id: luoyang
   event: 目冀为跋扈将军
+  event_en: "The Arrogant General"
 - group: 都城
   order: 3
   year: '146'
   place_id: luoyang
   event: 质帝崩
+  event_en: "Death of Emperor Zhi"
 - group: 都城
   order: 4
   year: '146'
   place_id: luoyang
   event: 立桓帝
+  event_en: "Emperor Huan Raised"
 sources:
 - title: 后汉书·质帝纪
   note: 主叙事

@@ -134,21 +134,25 @@ routes:
   year: '453'
   place_id: jian-kang
   event: 讨劭即位
+  event_en: "The Parricide Destroyed"
 - group: 其他
   order: 2
   year: '454'
   place_id: null
   event: 平南郡王义宣
+  event_en: "The Prince of Nanjun's Revolt"
 - group: 其他
   order: 3
   year: '459'
   place_id: guangling
   event: 竟陵王诞反
+  event_en: "The Prince of Jingling's Revolt"
 - group: 都城
   order: 4
   year: '464'
   place_id: jian-kang
   event: 孝武崩
+  event_en: "Death of Emperor Xiaowu"
 sources:
 - title: 宋书·孝武帝纪
   note: 主叙事

@@ -140,21 +140,25 @@ routes:
   year: '1627'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1630'
   place_id: bei-jing
   event: 杀袁崇焕
+  event_en: "Yuan Chonghuan Executed"
 - group: 都城
   order: 3
   year: '1644'
   place_id: bei-jing
   event: 李自成入京
+  event_en: "Li Zicheng Enters"
 - group: 都城
   order: 4
   year: '1644'
   place_id: bei-jing
   event: 煤山自缢
+  event_en: "Death on Coal Hill"
 sources:
 - title: 明史
   note: 年表主据

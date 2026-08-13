@@ -140,16 +140,19 @@ routes:
   year: '1425'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '1426'
   place_id: le-an
   event: 汉王高煦反
+  event_en: "The Han Revolt"
 - group: 都城
   order: 3
   year: '1435'
   place_id: bei-jing
   event: 宣宗崩
+  event_en: "Death of Xuanzong"
 sources:
 - title: 明史
   note: 年表主据

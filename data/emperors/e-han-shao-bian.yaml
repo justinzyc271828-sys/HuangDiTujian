@@ -140,31 +140,37 @@ routes:
   year: '176'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '189'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '189'
   place_id: luoyang
   event: 何进谋诛宦官
+  event_en: "He Jin's Plot"
 - group: 都城
   order: 4
   year: '189'
   place_id: luoyang
   event: 十常侍乱
+  event_en: "The Ten Attendants' Chaos"
 - group: 都城
   order: 5
   year: '189'
   place_id: luoyang
   event: 董卓废少帝
+  event_en: "Dong Zhuo's Deposition"
 - group: 都城
   order: 6
   year: '190'
   place_id: luoyang
   event: 弘农王被弑
+  event_en: "Death of the Prince of Hongnong"
 sources:
 - title: 后汉书·献帝纪
   note: 主叙事

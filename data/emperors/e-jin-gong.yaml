@@ -143,16 +143,19 @@ routes:
   year: '418'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '419'
   place_id: jian-kang
   event: 裕进爵宋王
+  event_en: "Liu Yu Made King of Song"
 - group: 都城
   order: 3
   year: '420'
   place_id: jian-kang
   event: 禅位于宋
+  event_en: "Abdication to Song"
 sources:
 - title: 晋书·恭帝纪
   note: 主叙事

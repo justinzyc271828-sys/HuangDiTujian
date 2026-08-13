@@ -204,36 +204,43 @@ routes:
   year: '805'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '806'
   place_id: xia-zhou
   event: 平夏绥杨惠琳
+  event_en: "Pacifying Yang Huilin"
 - group: 其他
   order: 3
   year: '806'
   place_id: cheng-du
   event: 平西川
+  event_en: "Pacifying Xichuan"
 - group: 都城
   order: 4
   year: '815'
   place_id: chang-an
   event: 李师道刺武元衡
+  event_en: "Wu Yuanheng Assassinated"
 - group: 其他
   order: 5
   year: '817'
   place_id: cai-zhou
   event: 裴度宣慰淮西
+  event_en: "Pei Du Reassures Huaixi"
 - group: 其他
   order: 6
   year: '817'
   place_id: cai-zhou
   event: 平淮西
+  event_en: "Huaixi Pacified"
 - group: 都城
   order: 7
   year: '819'
   place_id: chang-an
   event: 迎佛骨
+  event_en: "Receiving the Buddha's Relic"
 sources:
 - title: 旧唐书·宪宗纪（卷014–015）
   note: 年表主据

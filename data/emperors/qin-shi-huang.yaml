@@ -214,46 +214,55 @@ routes:
   year: '-259'
   place_id: handan
   event: 邯郸出生
+  event_en: "Born in Handan"
 - group: 都城
   order: 2
   year: '-246'
   place_id: xianyang
   event: 即位为秦王
+  event_en: "Accession as King of Qin"
 - group: 都城
   order: 3
   year: '-238'
   place_id: xianyang
   event: 王冠亲政
+  event_en: "Capped, Ruling in Person"
 - group: 其他
   order: 4
   year: '-230'
   place_id: xinzheng
   event: 灭韩
+  event_en: "Fall of Han"
 - group: 都城
   order: 5
   year: '-221'
   place_id: xianyang
   event: 称始皇帝
+  event_en: "Proclaimed First Emperor"
 - group: 巡狩
   order: 6
   year: '-219'
   place_id: taishan
   event: 封禅泰山
+  event_en: "Feng and Shan at Mount Tai"
 - group: 巡狩
   order: 7
   year: '-210'
   place_id: shaqiu
   event: 沙丘崩
+  event_en: "Death at Shaqiu"
 - group: 都城
   order: 8
   year: '-210'
   place_id: shaqiu
   event: 沙丘嗣位
+  event_en: "Succession at Shaqiu"
 - group: 其他
   order: 9
   year: '-207'
   place_id: xianyang
   event: 秦亡对照
+  event_en: "Fall of Qin (Cross-Page)"
 sources:
 - title: 史记·秦始皇本纪
   note: 主叙事

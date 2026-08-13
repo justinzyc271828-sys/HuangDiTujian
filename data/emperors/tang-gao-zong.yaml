@@ -163,26 +163,31 @@ routes:
   year: '649'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '655'
   place_id: chang-an
   event: 废王立武
+  event_en: "Wang Deposed, Wu Made Empress"
 - group: 都城
   order: 3
   year: '660'
   place_id: chang-an
   event: 风眩委政
+  event_en: "Vertigo and the Regency"
 - group: 其他
   order: 4
   year: '668'
   place_id: null
   event: 平高丽
+  event_en: "Subduing Goguryeo"
 - group: 都城
   order: 5
   year: '683'
   place_id: luoyang
   event: 高宗崩
+  event_en: "Death of Emperor Gaozong"
 sources:
 - title: 旧唐书·高宗纪
   note: 主叙事

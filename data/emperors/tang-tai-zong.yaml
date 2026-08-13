@@ -213,46 +213,55 @@ routes:
   year: '598'
   place_id: chang-an
   event: 生于武功
+  event_en: "Born at Wugong"
 - group: 起兵
   order: 2
   year: '617'
   place_id: jinyang
   event: 太原义举
+  event_en: "The Taiyuan Uprising"
 - group: 都城
   order: 3
   year: '618'
   place_id: chang-an
   event: 唐朝建立
+  event_en: "Founding of the Tang"
 - group: 其他
   order: 4
   year: '626'
   place_id: xuanwu-men
   event: 玄武门之变
+  event_en: "Xuanwu Gate Incident"
 - group: 都城
   order: 5
   year: '627'
   place_id: chang-an
   event: 改元贞观
+  event_en: "Era Changed to Zhenguan"
 - group: 其他
   order: 6
   year: '630'
   place_id: yinshan
   event: 破突厥
+  event_en: "Defeat of the Turks"
 - group: 都城
   order: 7
   year: '643'
   place_id: chang-an
   event: 凌烟阁
+  event_en: "Lingyan Pavilion"
 - group: 亲征
   order: 8
   year: '645'
   place_id: liaodong
   event: 亲征辽东
+  event_en: "Personal Campaign in Liaodong"
 - group: 都城
   order: 9
   year: '649'
   place_id: chang-an
   event: 崩于长安
+  event_en: "Death at Chang'an"
 sources:
 - title: 旧唐书·太宗本纪
   note: 主叙事之一

@@ -193,46 +193,55 @@ routes:
   year: '-25'
   place_id: dingtao
   event: 为定陶王
+  event_en: "King of Dingtao"
 - group: 都城
   order: 2
   year: '-8'
   place_id: chang-an
   event: 立为太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 3
   year: '-7'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 4
   year: '-5'
   place_id: chang-an
   event: 改号陈圣刘太平皇帝等
+  event_en: "The Chengsheng Liu Taiping Farce"
 - group: 都城
   order: 5
   year: '-3'
   place_id: chang-an
   event: 董贤贵幸
+  event_en: "Dong Xian's Extraordinary Favor"
 - group: 都城
   order: 6
   year: '-2'
   place_id: chang-an
   event: 策免三公求直言
+  event_en: "Dismissing the Three Excellencies"
 - group: 都城
   order: 7
   year: '-1'
   place_id: chang-an
   event: 匈奴单于来朝
+  event_en: "The Chanyu at Court"
 - group: 都城
   order: 8
   year: '-1'
   place_id: chang-an
   event: 王莽再起
+  event_en: "Wang Mang's Return"
 - group: 都城
   order: 9
   year: '-1'
   place_id: chang-an
   event: 哀帝崩
+  event_en: "Death of Emperor Ai"
 sources:
 - title: 汉书·哀帝纪
   note: 主叙事

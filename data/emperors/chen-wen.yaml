@@ -134,21 +134,25 @@ routes:
   year: '559'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '560'
   place_id: null
   event: 破王琳
+  event_en: "Breaking Wang Lin"
 - group: 都城
   order: 3
   year: '563'
   place_id: jian-kang
   event: 安集江南
+  event_en: "Settling the South"
 - group: 都城
   order: 4
   year: '566'
   place_id: jian-kang
   event: 文帝崩
+  event_en: "Death of Emperor Wen"
 sources:
 - title: 陈书·世祖纪
   note: 主叙事

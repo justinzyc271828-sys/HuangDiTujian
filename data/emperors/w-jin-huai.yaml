@@ -136,16 +136,19 @@ routes:
   year: '306'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '311'
   place_id: luoyang
   event: 洛阳倾覆
+  event_en: "The Fall of Luoyang"
 - group: 流徙
   order: 3
   year: '313'
   place_id: ping-yang
   event: 平阳遇害
+  event_en: "Death at Pingyang"
 sources:
 - title: 晋书·怀帝纪
   note: 主叙事

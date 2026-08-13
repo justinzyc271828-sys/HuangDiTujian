@@ -140,21 +140,25 @@ routes:
   year: '705'
   place_id: luoyang
   event: 复位
+  event_en: "The Restoration"
 - group: 都城
   order: 2
   year: '706'
   place_id: chang-an
   event: 迁还长安
+  event_en: "Return to Chang'an"
 - group: 都城
   order: 3
   year: '707'
   place_id: chang-an
   event: 节愍太子兵变
+  event_en: "The Crown Prince's Rising"
 - group: 都城
   order: 4
   year: '710'
   place_id: chang-an
   event: 中宗崩
+  event_en: "Death of Emperor Zhongzong"
 sources:
 - title: 旧唐书·中宗纪
   note: 主叙事

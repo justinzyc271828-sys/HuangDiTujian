@@ -134,21 +134,25 @@ routes:
   year: '951'
   place_id: jinyang
   event: 称帝太原
+  event_en: "The Throne at Taiyuan"
 - group: 其他
   order: 2
   year: '951'
   place_id: null
   event: 结契丹
+  event_en: "The Khitan Alliance"
 - group: 亲征
   order: 3
   year: '954'
   place_id: null
   event: 高平之败
+  event_en: "The Gaoping Defeat"
 - group: 都城
   order: 4
   year: '954'
   place_id: jinyang
   event: 刘崇卒
+  event_en: "Death of Liu Chong"
 sources:
 - title: 新五代史·东汉世家
   note: 主叙事

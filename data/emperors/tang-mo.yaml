@@ -137,16 +137,19 @@ routes:
   year: '934'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '936'
   place_id: jinyang
   event: 石敬瑭反
+  event_en: "Shi Jingtang Rises"
 - group: 都城
   order: 3
   year: '936'
   place_id: luoyang
   event: 自焚国亡
+  event_en: "Death by Fire, the Realm Lost"
 sources:
 - title: 旧五代史·唐末帝纪
   note: 主叙事

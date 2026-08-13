@@ -175,26 +175,31 @@ routes:
   year: '1127'
   place_id: ying-tian
   event: 即位南京
+  event_en: "即位南京"
 - group: 都城
   order: 2
   year: '1138'
   place_id: lin-an
   event: 定都临安
+  event_en: "定都临安"
 - group: 都城
   order: 3
   year: '1141'
   place_id: lin-an
   event: 绍兴和议与杀岳飞
+  event_en: "绍兴和议与杀岳飞"
 - group: 都城
   order: 4
   year: '1162'
   place_id: lin-an
   event: 内禅
+  event_en: "内禅"
 - group: 都城
   order: 5
   year: '1187'
   place_id: lin-an
   event: 太上皇崩
+  event_en: "太上皇崩"
 sources:
 - title: 宋史
   note: 年表主据

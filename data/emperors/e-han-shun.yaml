@@ -205,46 +205,55 @@ routes:
   year: '115'
   place_id: luoyang
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '120'
   place_id: luoyang
   event: 立为太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 3
   year: '125'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 4
   year: '126'
   place_id: luoyang
   event: 封孙程等
+  event_en: "The Nineteen Enfeoffed"
 - group: 其他
   order: 5
   year: '127'
   place_id: hexi
   event: 班勇击西域
+  event_en: "Ban Yong Strikes West"
 - group: 都城
   order: 6
   year: '132'
   place_id: luoyang
   event: 立梁后
+  event_en: "Empress Liang Enthroned"
 - group: 都城
   order: 7
   year: '135'
   place_id: luoyang
   event: 梁商为大将军
+  event_en: "Liang Shang Commander-in-Chief"
 - group: 都城
   order: 8
   year: '141'
   place_id: luoyang
   event: 梁商薨梁冀代
+  event_en: "Liang Ji Succeeds Liang Shang"
 - group: 都城
   order: 9
   year: '144'
   place_id: luoyang
   event: 顺帝崩
+  event_en: "Death of Emperor Shun"
 sources:
 - title: 后汉书·顺帝纪
   note: 主叙事

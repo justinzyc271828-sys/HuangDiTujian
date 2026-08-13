@@ -140,16 +140,19 @@ routes:
   year: '1566'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1567'
   place_id: bei-jing
   event: 用高拱
+  event_en: "Gao Gong Raised"
 - group: 都城
   order: 3
   year: '1572'
   place_id: bei-jing
   event: 穆宗崩
+  event_en: "Death of Muzong"
 sources:
 - title: 明史
   note: 年表主据

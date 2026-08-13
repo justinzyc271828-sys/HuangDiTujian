@@ -214,26 +214,31 @@ routes:
   year: '357'
   place_id: chang-an
   event: 杀苻生即位、改元永兴
+  event_en: "Killed Fu Sheng and took throne; era Yongxing"
 - group: 其他
   order: 2
   year: '370'
   place_id: ye-cheng
   event: 王猛克邺、灭前燕
+  event_en: "Wang Meng took Ye; Former Yan destroyed"
 - group: 其他
   order: 3
   year: '376'
   place_id: hexi
   event: 灭前凉
+  event_en: "Destruction of Former Liang"
 - group: 亲征
   order: 4
   year: '383'
   place_id: fei-shui
   event: 淝水之战
+  event_en: "Battle of the Fei River"
 - group: 流徙
   order: 5
   year: '385'
   place_id: wu-jiang-shan
   event: 西奔败亡
+  event_en: "Fled west; defeat and death"
 sources:
 - title: 晋书·苻坚载记（卷113–114）
   note: 年表主据

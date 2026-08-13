@@ -145,16 +145,19 @@ routes:
   year: '1135'
   place_id: huining
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1138'
   place_id: huining
   event: 官制汉化
+  event_en: "Sinicization of the Official System"
 - group: 都城
   order: 3
   year: '1149'
   place_id: huining
   event: 被弑
+  event_en: "Assassinated"
 sources:
 - title: 金史
   note: 年表主据

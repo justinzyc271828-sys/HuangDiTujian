@@ -140,16 +140,19 @@ routes:
   year: '1796'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1799'
   place_id: bei-jing
   event: 诛和珅
+  event_en: "Heshen Executed"
 - group: 其他
   order: 3
   year: '1820'
   place_id: cheng-de
   event: 仁宗崩
+  event_en: "Death of Renzong"
 sources:
 - title: 清史稿
   note: 年表主据

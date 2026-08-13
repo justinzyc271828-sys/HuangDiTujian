@@ -137,16 +137,19 @@ routes:
   year: '371'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '371'
   place_id: jian-kang
   event: 温求九锡未成
+  event_en: "Wen's Bid for the Nine Gifts Fails"
 - group: 都城
   order: 3
   year: '372'
   place_id: jian-kang
   event: 简文帝崩
+  event_en: "Death of Emperor Jianwen"
 sources:
 - title: 晋书·简文帝纪
   note: 主叙事

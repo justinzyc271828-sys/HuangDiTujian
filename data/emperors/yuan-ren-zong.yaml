@@ -141,21 +141,25 @@ routes:
   year: '1311'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1313'
   place_id: da-du
   event: 复科举
+  event_en: "Examinations Restored"
 - group: 其他
   order: 3
   year: '1314'
   place_id: da-du
   event: 改元延祐
+  event_en: "Era Yanyou"
 - group: 都城
   order: 4
   year: '1320'
   place_id: da-du
   event: 仁宗崩
+  event_en: "Death of Renzong"
 sources:
 - title: 元史
   note: 年表主据

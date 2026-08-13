@@ -218,41 +218,49 @@ routes:
   year: '22'
   place_id: chong-ling
   event: 舂陵起兵
+  event_en: "Uprising at Chongling"
 - group: 亲征
   order: 2
   year: '23'
   place_id: kun-yang
   event: 昆阳之战
+  event_en: "Battle of Kunyang"
 - group: 亲征
   order: 3
   year: '24'
   place_id: handan
   event: 定河北
+  event_en: "Securing Hebei"
 - group: 都城
   order: 4
   year: '25'
   place_id: hao
   event: 鄗南称帝
+  event_en: "Enthroned south of Hao"
 - group: 迁都
   order: 5
   year: '25'
   place_id: luoyang
   event: 定都洛阳
+  event_en: "Capital fixed at Luoyang"
 - group: 其他
   order: 6
   year: '43'
   place_id: jiao-zhi
   event: 交趾征侧平
+  event_en: "Pacification of Zheng Ce in Jiaozhi"
 - group: 巡狩
   order: 7
   year: '56'
   place_id: taishan
   event: 封禅泰山
+  event_en: "Feng-Shan at Mount Tai"
 - group: 都城
   order: 8
   year: '57'
   place_id: luoyang
   event: 光武崩
+  event_en: "Death of Guangwu"
 sources:
 - title: 后汉书·光武帝纪
   note: 年表主据

@@ -136,16 +136,19 @@ routes:
   year: '913'
   place_id: kai-feng
   event: 诛友珪即位
+  event_en: "The Brother Slain, the Throne"
 - group: 其他
   order: 2
   year: '915'
   place_id: null
   event: 河北争夺
+  event_en: "The Contest for Hebei"
 - group: 都城
   order: 3
   year: '923'
   place_id: kai-feng
   event: 梁亡
+  event_en: "The Fall of Liang"
 sources:
 - title: 旧五代史·梁末帝纪
   note: 主叙事

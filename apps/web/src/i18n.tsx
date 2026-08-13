@@ -316,6 +316,13 @@ export function fmtReign(start: string, end: string): string {
   return `${s}–${e}`;
 }
 
+/** 单年份英文化:"-259" → "259 BC";"649" → "649"(AD 不加后缀);非数字原样 */
+export function fmtYear(y: string): string {
+  const n = parseInt(y, 10);
+  if (Number.isNaN(n)) return y;
+  return n < 0 ? `${-n} BC` : String(n);
+}
+
 /* ---------------- 语言切换按钮 ---------------- */
 
 export function LangSwitch() {

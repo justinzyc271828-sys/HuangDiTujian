@@ -133,21 +133,25 @@ routes:
   year: '859'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '868'
   place_id: null
   event: 庞勋起义
+  event_en: "The Pang Xun Rising"
 - group: 都城
   order: 3
   year: '873'
   place_id: chang-an
   event: 迎佛骨
+  event_en: "Welcoming the Buddha Relic"
 - group: 都城
   order: 4
   year: '873'
   place_id: chang-an
   event: 懿宗崩
+  event_en: "Death of Emperor Yizong"
 sources:
 - title: 旧唐书·懿宗纪
   note: 主叙事

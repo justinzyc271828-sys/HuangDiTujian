@@ -144,16 +144,19 @@ routes:
   year: '982'
   place_id: linhuang
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '1004'
   place_id: chan-zhou
   event: 澶渊之役
+  event_en: "Chanyuan Campaign"
 - group: 都城
   order: 3
   year: '1031'
   place_id: linhuang
   event: 圣宗崩
+  event_en: "圣宗崩"
 sources:
 - title: 辽史
   note: 年表主据

@@ -138,16 +138,19 @@ routes:
   year: '552'
   place_id: jiang-ling
   event: 平侯景称帝
+  event_en: "Hou Jing Destroyed, the Throne"
 - group: 其他
   order: 2
   year: '553'
   place_id: null
   event: 与益州萧纪相攻
+  event_en: "Against Xiao Ji of Yizhou"
 - group: 都城
   order: 3
   year: '554'
   place_id: jiang-ling
   event: 西魏破江陵
+  event_en: "Western Wei Breaks Jiangling"
 sources:
 - title: 梁书·元帝纪
   note: 主叙事

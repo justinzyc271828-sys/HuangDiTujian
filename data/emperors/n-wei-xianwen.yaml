@@ -134,16 +134,19 @@ routes:
   year: '465'
   place_id: ping-cheng
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '471'
   place_id: ping-cheng
   event: 禅位太子
+  event_en: "Abdication to the Heir"
 - group: 都城
   order: 3
   year: '476'
   place_id: ping-cheng
   event: 暴崩
+  event_en: "The Sudden Death"
 sources:
 - title: 魏书·显祖纪
   note: 主叙事

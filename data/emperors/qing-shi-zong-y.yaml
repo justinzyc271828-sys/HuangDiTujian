@@ -140,21 +140,25 @@ routes:
   year: '1722'
   place_id: bei-jing
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1723'
   place_id: bei-jing
   event: 摊丁入亩
+  event_en: "Single Tax"
 - group: 都城
   order: 3
   year: '1729'
   place_id: bei-jing
   event: 设军机房
+  event_en: "Grand Council"
 - group: 都城
   order: 4
   year: '1735'
   place_id: bei-jing
   event: 世宗崩
+  event_en: "Death of Shizong"
 sources:
 - title: 清史稿
   note: 年表主据

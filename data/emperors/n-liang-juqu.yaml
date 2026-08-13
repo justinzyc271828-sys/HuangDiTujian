@@ -137,21 +137,25 @@ routes:
   year: '401'
   place_id: zhang-ye
   event: 杀业自立
+  event_en: "Slewing Duan Ye"
 - group: 都城
   order: 2
   year: '412'
   place_id: gu-zang
   event: 迁姑臧称王
+  event_en: "Capital at Guzang"
 - group: 其他
   order: 3
   year: '421'
   place_id: dun-huang
   event: 灭西凉
+  event_en: "Destroying Western Liang"
 - group: 都城
   order: 4
   year: '433'
   place_id: gu-zang
   event: 蒙逊崩
+  event_en: "Death of Mengxun"
 sources:
 - title: 晋书·沮渠蒙逊载记
   note: 主叙事

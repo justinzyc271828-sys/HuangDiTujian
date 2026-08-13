@@ -136,16 +136,19 @@ routes:
   year: '942'
   place_id: kai-feng
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '944'
   place_id: null
   event: 与契丹开战
+  event_en: "War with the Khitan"
 - group: 都城
   order: 3
   year: '947'
   place_id: kai-feng
   event: 晋亡北迁
+  event_en: "The Fall and the Northward March"
 sources:
 - title: 旧五代史·晋少帝纪
   note: 主叙事

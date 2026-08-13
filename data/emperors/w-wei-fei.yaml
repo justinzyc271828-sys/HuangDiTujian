@@ -130,21 +130,25 @@ routes:
   year: '551'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '554'
   place_id: jiang-ling
   event: 破江陵
+  event_en: "The Jiangling Conquest"
 - group: 都城
   order: 3
   year: '554'
   place_id: chang-an
   event: 被废
+  event_en: "Deposed"
 - group: 都城
   order: 4
   year: '554'
   place_id: chang-an
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 北史·魏本纪
   note: 主叙事

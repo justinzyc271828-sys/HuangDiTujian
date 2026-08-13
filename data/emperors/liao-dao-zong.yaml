@@ -143,16 +143,19 @@ routes:
   year: '1032'
   place_id: zhong-jing
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '1055'
   place_id: zhong-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '1075'
   place_id: zhong-jing
   event: 乙辛之祸
+  event_en: "The Yixin Catastrophe"
 sources:
 - title: 辽史
   note: 年表主据

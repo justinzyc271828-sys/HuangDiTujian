@@ -213,51 +213,61 @@ routes:
   year: '189'
   place_id: luoyang
   event: 立为帝
+  event_en: "Enthroned"
 - group: 迁都
   order: 2
   year: '190'
   place_id: chang-an
   event: 迁都长安
+  event_en: "The Capital Moves to Chang'an"
 - group: 都城
   order: 3
   year: '192'
   place_id: chang-an
   event: 王允诛董卓
+  event_en: "Wang Yun Kills Dong Zhuo"
 - group: 流徙
   order: 4
   year: '195'
   place_id: hong-nong
   event: 东归
+  event_en: "The Eastward Flight"
 - group: 迁都
   order: 5
   year: '196'
   place_id: xu-chang
   event: 都许
+  event_en: "The Court Settles at Xu"
 - group: 其他
   order: 6
   year: '200'
   place_id: guan-du
   event: 官渡之战背景
+  event_en: "The Guandu Campaign"
 - group: 其他
   order: 7
   year: '208'
   place_id: chi-bi
   event: 赤壁
+  event_en: "The Red Cliffs"
 - group: 都城
   order: 8
   year: '214'
   place_id: xu-chang
   event: 伏后被弑
+  event_en: "Empress Fu Slain"
 - group: 都城
   order: 9
   year: '220'
   place_id: luoyang
   event: 曹丕篡禅
+  event_en: "The Abdication to Cao Pi"
 - group: 流徙
   order: 10
   year: '234'
   place_id: shan-yang
   event: 山阳公薨
+  event_en: "Death of the Duke of Shanyang"
 sources:
 - title: 后汉书·献帝纪
   note: 主叙事

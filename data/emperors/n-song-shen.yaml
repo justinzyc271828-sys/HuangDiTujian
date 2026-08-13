@@ -160,21 +160,25 @@ routes:
   year: '1067'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1069'
   place_id: kai-feng
   event: 用王安石变法
+  event_en: "用王安石变法"
 - group: 都城
   order: 3
   year: '1076'
   place_id: kai-feng
   event: 安石罢相
+  event_en: "安石罢相"
 - group: 都城
   order: 4
   year: '1085'
   place_id: kai-feng
   event: 神宗崩
+  event_en: "神宗崩"
 sources:
 - title: 宋史
   note: 年表主据

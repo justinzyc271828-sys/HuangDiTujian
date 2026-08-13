@@ -144,16 +144,19 @@ routes:
   year: '365'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '369'
   place_id: fang-tou
   event: 桓温枋头之败
+  event_en: "Huan Wen's Defeat at Fangtou"
 - group: 都城
   order: 3
   year: '371'
   place_id: jian-kang
   event: 温废帝
+  event_en: "Huan Wen Deposes the Emperor"
 sources:
 - title: 晋书·海西公纪
   note: 主叙事

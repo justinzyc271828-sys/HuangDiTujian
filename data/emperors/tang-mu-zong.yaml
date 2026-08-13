@@ -136,21 +136,25 @@ routes:
   year: '820'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '821'
   place_id: null
   event: 河北再乱
+  event_en: "Hebei Rises Again"
 - group: 都城
   order: 3
   year: '822'
   place_id: chang-an
   event: 销兵争议
+  event_en: "The Debate on Disbanding the Armies"
 - group: 都城
   order: 4
   year: '824'
   place_id: chang-an
   event: 穆宗崩
+  event_en: "Death of Emperor Muzong"
 sources:
 - title: 旧唐书·穆宗纪
   note: 主叙事

@@ -142,26 +142,31 @@ routes:
   year: '5'
   place_id: chang-an
   event: 立为皇太子
+  event_en: "Heir Apparent"
 - group: 都城
   order: 2
   year: '6'
   place_id: chang-an
   event: 莽居摄践祚
+  event_en: "Mang Takes the Regency"
 - group: 其他
   order: 3
   year: '7'
   place_id: dong-jun
   event: 翟义起兵
+  event_en: "Zhai Yi Rises"
 - group: 都城
   order: 4
   year: '8'
   place_id: chang-an
   event: 符命劝进
+  event_en: "Portents and Petitions"
 - group: 都城
   order: 5
   year: '9'
   place_id: chang-an
   event: 莽称帝废婴
+  event_en: "Mang Takes the Throne"
 sources:
 - title: 汉书·王莽传
   note: 主叙事

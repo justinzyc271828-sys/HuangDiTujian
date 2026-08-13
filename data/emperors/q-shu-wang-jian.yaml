@@ -133,16 +133,19 @@ routes:
   year: '891'
   place_id: cheng-du
   event: 据成都
+  event_en: "Holding Chengdu"
 - group: 都城
   order: 2
   year: '907'
   place_id: cheng-du
   event: 称帝
+  event_en: "The Imperial Title"
 - group: 都城
   order: 3
   year: '918'
   place_id: cheng-du
   event: 王建崩
+  event_en: "Death of Wang Jian"
 sources:
 - title: 新五代史·前蜀世家
   note: 主叙事

@@ -138,21 +138,25 @@ routes:
   year: '499'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '500'
   place_id: luoyang
   event: 亲政
+  event_en: "Personal Rule"
 - group: 其他
   order: 3
   year: '503'
   place_id: null
   event: 南伐梁
+  event_en: "The Liang Wars"
 - group: 都城
   order: 4
   year: '515'
   place_id: luoyang
   event: 宣武崩
+  event_en: "Death of Emperor Xuanwu"
 sources:
 - title: 魏书·世宗纪
   note: 主叙事

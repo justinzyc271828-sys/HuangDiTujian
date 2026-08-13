@@ -213,41 +213,49 @@ routes:
   year: '226'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '228'
   place_id: jie-ting
   event: 街亭与诸葛亮北伐
+  event_en: "Jieting and Zhuge Liang's Expedition"
 - group: 其他
   order: 3
   year: '234'
   place_id: wuzhang-yuan
   event: 诸葛亮卒于渭南
+  event_en: "Zhuge Liang Dies at the Weinan"
 - group: 都城
   order: 4
   year: '235'
   place_id: hexi
   event: 张掖柳谷口瑞石
+  event_en: "The Portent Stone at Liugu Pass"
 - group: 都城
   order: 5
   year: '237'
   place_id: luoyang
   event: 改元景初
+  event_en: "Era Changed to Jingchu"
 - group: 都城
   order: 6
   year: '237'
   place_id: luoyang
   event: 大营宫室
+  event_en: "The Great Palace Works"
 - group: 其他
   order: 7
   year: '238'
   place_id: liaodong
   event: 司马懿平辽东
+  event_en: "Sima Yi Subdues Liaodong"
 - group: 都城
   order: 8
   year: '239'
   place_id: luoyang
   event: 明帝崩托孤
+  event_en: "Death and the Regency Trust"
 sources:
 - title: 三国志·明帝纪
   note: 主叙事

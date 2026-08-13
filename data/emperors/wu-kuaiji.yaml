@@ -140,16 +140,19 @@ routes:
   year: '252'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '253'
   place_id: hefei-xincheng
   event: 诸葛恪新城败
+  event_en: "Zhuge Ke's Failure at the New City"
 - group: 都城
   order: 3
   year: '260'
   place_id: kuaiji
   event: 自杀
+  event_en: "Death by Own Hand"
 sources:
 - title: 三国志·三嗣主传
   note: 主叙事

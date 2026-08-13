@@ -127,16 +127,19 @@ routes:
   year: '385'
   place_id: null
   event: 称大单于
+  event_en: "Great Chanyu"
 - group: 其他
   order: 2
   year: '386'
   place_id: null
   event: 讨鲜卑诸部
+  event_en: "Against the Xianbei Tribes"
 - group: 都城
   order: 3
   year: '388'
   place_id: null
   event: 国仁崩
+  event_en: "Death of Guoren"
 sources:
 - title: 晋书·乞伏国仁载记
   note: 主叙事

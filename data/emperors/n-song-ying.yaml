@@ -143,21 +143,25 @@ routes:
   year: '1063'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 其他
   order: 2
   year: '1064'
   place_id: kai-feng
   event: 改元治平
+  event_en: "改元治平"
 - group: 都城
   order: 3
   year: '1065'
   place_id: kai-feng
   event: 濮议
+  event_en: "濮议"
 - group: 都城
   order: 4
   year: '1067'
   place_id: kai-feng
   event: 英宗崩
+  event_en: "英宗崩"
 sources:
 - title: 宋史
   note: 年表主据

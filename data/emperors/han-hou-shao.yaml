@@ -141,26 +141,31 @@ routes:
   year: '-184'
   place_id: chang-an
   event: 立为帝
+  event_en: "Enthroned"
 - group: 都城
   order: 2
   year: '-181'
   place_id: chang-an
   event: 赵王友幽死
+  event_en: "King You of Zhao Starved"
 - group: 都城
   order: 3
   year: '-180'
   place_id: chang-an
   event: 高后崩
+  event_en: "Death of Empress Lü"
 - group: 都城
   order: 4
   year: '-180'
   place_id: chang-an
   event: 周勃陈平诛诸吕
+  event_en: "The Lü Clan Destroyed"
 - group: 都城
   order: 5
   year: '-180'
   place_id: chang-an
   event: 后少帝废
+  event_en: "The Later Young Emperor Set Aside"
 sources:
 - title: 史记·吕太后本纪
   note: 主叙事

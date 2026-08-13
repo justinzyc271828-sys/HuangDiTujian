@@ -140,11 +140,13 @@ routes:
   year: '1031'
   place_id: linhuang
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '1044'
   place_id: xia-zhou
   event: 伐夏
+  event_en: "Campaign against Xia"
 sources:
 - title: 辽史
   note: 年表主据

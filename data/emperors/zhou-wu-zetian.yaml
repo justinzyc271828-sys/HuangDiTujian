@@ -241,36 +241,43 @@ routes:
   year: '637'
   place_id: chang-an
   event: 入宫为才人
+  event_en: "Entered the palace as a junior consort (cairen)"
 - group: 都城
   order: 2
   year: '655'
   place_id: chang-an
   event: 立为皇后（废王立武）
+  event_en: "Made Empress (Wang deposed, Wu enthroned)"
 - group: 都城
   order: 3
   year: '683'
   place_id: luoyang
   event: 高宗崩，临朝称制
+  event_en: "Gaozong dies; Wu rules from behind the screen"
 - group: 都城
   order: 4
   year: '684'
   place_id: luoyang
   event: 废中宗立睿宗
+  event_en: "Deposed Zhongzong, enthroned Ruizong"
 - group: 都城
   order: 5
   year: '688'
   place_id: luoyang
   event: 明堂落成
+  event_en: "Hall of Light completed"
 - group: 都城
   order: 6
   year: '690'
   place_id: luoyang
   event: 改唐为周，称帝神都
+  event_en: "Tang renamed Zhou; proclaimed Emperor at Shendu"
 - group: 都城
   order: 7
   year: '705'
   place_id: luoyang
   event: 神龙政变，迁宫
+  event_en: "Shenlong coup; forced from power"
 sources:
 - title: 旧唐书·则天皇后本纪
   note: 年表主据

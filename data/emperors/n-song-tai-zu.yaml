@@ -217,31 +217,37 @@ routes:
   year: '960'
   place_id: chen-qiao
   event: 陈桥兵变
+  event_en: "Chenqiao Mutiny"
 - group: 都城
   order: 2
   year: '960'
   place_id: kai-feng
   event: 定都开封
+  event_en: "Capital Established at Kaifeng"
 - group: 其他
   order: 3
   year: '963'
   place_id: jing-hu
   event: 平荆湖
+  event_en: "Pacification of Jinghu"
 - group: 其他
   order: 4
   year: '965'
   place_id: cheng-du
   event: 灭后蜀
+  event_en: "Conquest of Later Shu"
 - group: 其他
   order: 5
   year: '971'
   place_id: pan-yu
   event: 灭南汉
+  event_en: "Conquest of Southern Han"
 - group: 其他
   order: 6
   year: '975'
   place_id: jin-ling
   event: 灭南唐
+  event_en: "Conquest of Southern Tang"
 sources:
 - title: 宋史·太祖纪（卷001–003）
   note: 年表主据

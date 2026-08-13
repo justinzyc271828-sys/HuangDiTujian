@@ -154,16 +154,19 @@ routes:
   year: '1399'
   place_id: bei-jing
   event: 靖难起兵
+  event_en: "The Jingnan Rising"
 - group: 都城
   order: 2
   year: '1402'
   place_id: ying-tian
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 3
   year: '1421'
   place_id: bei-jing
   event: 迁都北京
+  event_en: "Capital at Beijing"
 sources:
 - title: 明史
   note: 年表主据

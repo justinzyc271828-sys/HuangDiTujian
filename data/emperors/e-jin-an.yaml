@@ -210,41 +210,49 @@ routes:
   year: '396'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '399'
   place_id: kuaiji
   event: 孙恩乱
+  event_en: "Sun En's Revolt"
 - group: 都城
   order: 3
   year: '402'
   place_id: jian-kang
   event: 桓玄入京
+  event_en: "Huan Xuan Enters the Capital"
 - group: 都城
   order: 4
   year: '403'
   place_id: jian-kang
   event: 桓玄篡位
+  event_en: "Huan Xuan Usurps"
 - group: 都城
   order: 5
   year: '404'
   place_id: jing-kou
   event: 刘裕起兵
+  event_en: "Liu Yu Rises"
 - group: 其他
   order: 6
   year: '409'
   place_id: guang-gu
   event: 裕灭南燕
+  event_en: "Liu Yu Destroys Southern Yan"
 - group: 其他
   order: 7
   year: '416'
   place_id: luoyang
   event: 裕北伐后秦
+  event_en: "Liu Yu's Campaign against Later Qin"
 - group: 都城
   order: 8
   year: '418'
   place_id: jian-kang
   event: 安帝被弑
+  event_en: "The Murder of Emperor An"
 sources:
 - title: 晋书·安帝纪
   note: 主叙事

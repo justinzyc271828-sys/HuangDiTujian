@@ -140,26 +140,31 @@ routes:
   year: '1559'
   place_id: hetu-ala
   event: 生
+  event_en: "Birth"
 - group: 都城
   order: 2
   year: '1616'
   place_id: hetu-ala
   event: 称汗建国
+  event_en: "Khagan and State Founded"
 - group: 亲征
   order: 3
   year: '1619'
   place_id: sa-er-hu
   event: 萨尔浒之战
+  event_en: "Battle of Sarhu"
 - group: 都城
   order: 4
   year: '1621'
   place_id: sheng-jing
   event: 取沈阳辽阳
+  event_en: "Shenyang and Liaoyang Taken"
 - group: 亲征
   order: 5
   year: '1626'
   place_id: ning-yuan
   event: 宁远之败崩
+  event_en: "Death after Ningyuan"
 sources:
 - title: 清史稿
   note: 年表主据

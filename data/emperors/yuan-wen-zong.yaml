@@ -144,21 +144,25 @@ routes:
   year: '1328'
   place_id: da-du
   event: 大都即位
+  event_en: "Enthroned at Dadu"
 - group: 都城
   order: 2
   year: '1329'
   place_id: shang-du
   event: 复位
+  event_en: "Restored"
 - group: 都城
   order: 3
   year: '1329'
   place_id: da-du
   event: 让位明宗
+  event_en: "Abdication to Mingzong"
 - group: 都城
   order: 4
   year: '1332'
   place_id: da-du
   event: 文宗崩
+  event_en: "Death of Wenzong"
 sources:
 - title: 元史
   note: 年表主据

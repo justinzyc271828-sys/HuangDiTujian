@@ -145,16 +145,19 @@ routes:
   year: '258'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '258'
   place_id: jian-kang
   event: 诛孙綝
+  event_en: "The Slaying of Sun Chen"
 - group: 都城
   order: 3
   year: '264'
   place_id: jian-kang
   event: 休崩
+  event_en: "Death of Sun Xiu"
 sources:
 - title: 三国志·三嗣主传
   note: 主叙事

@@ -140,11 +140,13 @@ routes:
   year: '1246'
   place_id: helin
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1247'
   place_id: helin
   event: 遣使欧洲
+  event_en: "Envoys to Europe"
 sources:
 - title: 元史
   note: 年表主据

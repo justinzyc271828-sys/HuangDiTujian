@@ -136,16 +136,19 @@ routes:
   year: '322'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 亲征
   order: 2
   year: '324'
   place_id: jian-kang
   event: 讨平王敦
+  event_en: "The Subjugation of Wang Dun"
 - group: 都城
   order: 3
   year: '325'
   place_id: jian-kang
   event: 明帝崩
+  event_en: "Death of Emperor Ming"
 sources:
 - title: 晋书·明帝纪
   note: 主叙事

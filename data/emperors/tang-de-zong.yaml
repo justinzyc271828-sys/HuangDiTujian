@@ -148,26 +148,31 @@ routes:
   year: '779'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '780'
   place_id: chang-an
   event: 行两税法
+  event_en: "The Two-Tax System"
 - group: 都城
   order: 3
   year: '783'
   place_id: feng-tian
   event: 奉天之难
+  event_en: "The Fengtian Crisis"
 - group: 都城
   order: 4
   year: '784'
   place_id: chang-an
   event: 罪己与还京
+  event_en: "Self-Blame and the Return"
 - group: 都城
   order: 5
   year: '805'
   place_id: chang-an
   event: 德宗崩
+  event_en: "Death of Emperor Dezong"
 sources:
 - title: 旧唐书·德宗纪
   note: 主叙事

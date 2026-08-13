@@ -131,16 +131,19 @@ routes:
   year: '477'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '479'
   place_id: jian-kang
   event: 禅位宋亡
+  event_en: "Abdication and the Fall of Song"
 - group: 都城
   order: 3
   year: '479'
   place_id: jian-kang
   event: 被杀
+  event_en: "Slain"
 sources:
 - title: 宋书·顺帝纪
   note: 主叙事

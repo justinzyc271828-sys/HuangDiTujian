@@ -164,21 +164,25 @@ routes:
   year: '1224'
   place_id: lin-an
   event: 即位
+  event_en: "即位"
 - group: 其他
   order: 2
   year: '1234'
   place_id: luoyang
   event: 端平入洛
+  event_en: "端平入洛"
 - group: 都城
   order: 3
   year: '1264'
   place_id: lin-an
   event: 理宗崩
+  event_en: "理宗崩"
 - group: 其他
   order: 4
   year: undated
   place_id: lin-an
   event: 崇道学
+  event_en: "崇道学"
 sources:
 - title: 宋史
   note: 年表主据

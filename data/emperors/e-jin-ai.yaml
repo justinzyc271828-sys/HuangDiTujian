@@ -137,16 +137,19 @@ routes:
   year: '361'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '363'
   place_id: jian-kang
   event: 桓温加大司马
+  event_en: "Huan Wen Grand Marshal"
 - group: 都城
   order: 3
   year: '365'
   place_id: jian-kang
   event: 哀帝崩
+  event_en: "Death of Emperor Ai"
 sources:
 - title: 晋书·哀帝纪
   note: 主叙事

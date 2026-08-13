@@ -136,16 +136,19 @@ routes:
   year: '313'
   place_id: chang-an
   event: 即位长安
+  event_en: "Accession at Chang'an"
 - group: 都城
   order: 2
   year: '316'
   place_id: chang-an
   event: 长安陷帝降
+  event_en: "The City Falls, the Emperor Surrenders"
 - group: 流徙
   order: 3
   year: '317'
   place_id: ping-yang
   event: 平阳遇害
+  event_en: "Death at Pingyang"
 sources:
 - title: 晋书·愍帝纪
   note: 主叙事

@@ -152,16 +152,19 @@ routes:
   year: '997'
   place_id: kai-feng
   event: 即位
+  event_en: "即位"
 - group: 亲征
   order: 2
   year: '1004'
   place_id: chan-zhou
   event: 澶渊之盟
+  event_en: "澶渊之盟"
 - group: 都城
   order: 3
   year: '1022'
   place_id: kai-feng
   event: 真宗崩
+  event_en: "真宗崩"
 sources:
 - title: 宋史
   note: 年表主据

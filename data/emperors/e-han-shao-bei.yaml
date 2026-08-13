@@ -137,26 +137,31 @@ routes:
   year: '125'
   place_id: luoyang
   event: 阎后立北乡侯
+  event_en: "Raised by Empress Yan"
 - group: 都城
   order: 2
   year: '125'
   place_id: luoyang
   event: 少帝卒
+  event_en: "Death of the Young Ruler"
 - group: 都城
   order: 3
   year: '125'
   place_id: luoyang
   event: 孙程迎济阴王
+  event_en: "Sun Cheng and the Prince of Jiyin"
 - group: 都城
   order: 4
   year: '125'
   place_id: luoyang
   event: 阎后迁离宫
+  event_en: "Empress Yan Cast Out"
 - group: 都城
   order: 5
   year: '125'
   place_id: luoyang
   event: 十九侯迎立顺帝
+  event_en: "The Nineteen Marquises"
 sources:
 - title: 后汉书·顺帝纪
   note: 主叙事

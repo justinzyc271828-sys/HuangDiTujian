@@ -140,21 +140,25 @@ routes:
   year: '762'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '763'
   place_id: chang-an
   event: 吐蕃入长安
+  event_en: "The Tibetans at Chang'an"
 - group: 其他
   order: 3
   year: '765'
   place_id: null
   event: 仆固怀恩引寇
+  event_en: "Pugu Huaien Draws the Invaders"
 - group: 都城
   order: 4
   year: '779'
   place_id: chang-an
   event: 代宗崩
+  event_en: "Death of Emperor Daizong"
 sources:
 - title: 旧唐书·代宗纪
   note: 主叙事

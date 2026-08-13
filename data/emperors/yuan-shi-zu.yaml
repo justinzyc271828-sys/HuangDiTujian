@@ -205,36 +205,43 @@ routes:
   year: '1260'
   place_id: shang-du
   event: 开平即位
+  event_en: "Accession at Kaiping"
 - group: 亲征
   order: 2
   year: '1260'
   place_id: shang-du
   event: 与阿里不哥争位（开平/漠北）
+  event_en: "Succession struggle with Ariq Böke (Kaiping/steppe)"
 - group: 迁都
   order: 3
   year: '1272'
   place_id: da-du
   event: 都于大都
+  event_en: "Capital Established at Dadu"
 - group: 其他
   order: 4
   year: '1273'
   place_id: xiang-yang
   event: 襄樊破
+  event_en: "Fall of Xiangyang"
 - group: 其他
   order: 5
   year: '1276'
   place_id: lin-an
   event: 下临安
+  event_en: "Capture of Lin'an"
 - group: 其他
   order: 6
   year: '1279'
   place_id: ya-shan
   event: 崖山灭宋
+  event_en: "Song Destroyed at Yashan"
 - group: 都城
   order: 7
   year: '1294'
   place_id: da-du
   event: 世祖崩
+  event_en: "Death of Shizu"
 sources:
 - title: 元史·世祖本纪（卷004–017）
   note: 年表主据

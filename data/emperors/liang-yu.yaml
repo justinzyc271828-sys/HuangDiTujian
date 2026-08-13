@@ -136,16 +136,19 @@ routes:
   year: '551'
   place_id: jian-kang
   event: 被立为帝
+  event_en: "Set Up as Emperor"
 - group: 都城
   order: 2
   year: '551'
   place_id: jian-kang
   event: 禅位侯景
+  event_en: "Abdication to Hou Jing"
 - group: 都城
   order: 3
   year: '552'
   place_id: jian-kang
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 梁书·侯景传
   note: 主叙事

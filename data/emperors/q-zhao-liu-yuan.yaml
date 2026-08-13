@@ -136,21 +136,25 @@ routes:
   year: '304'
   place_id: li-shi
   event: 离石起兵
+  event_en: "Rising at Lishi"
 - group: 都城
   order: 2
   year: '308'
   place_id: ping-yang
   event: 称帝迁平阳
+  event_en: "Throne and Move to Pingyang"
 - group: 其他
   order: 3
   year: '309'
   place_id: luoyang
   event: 遣将寇洛阳
+  event_en: "Lieutenants against Luoyang"
 - group: 都城
   order: 4
   year: '310'
   place_id: ping-yang
   event: 刘渊崩
+  event_en: "Death of Liu Yuan"
 sources:
 - title: 晋书·刘元海载记
   note: 主叙事

@@ -209,26 +209,31 @@ routes:
   year: '344'
   place_id: jian-kang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '347'
   place_id: cheng-du
   event: 桓温灭成汉
+  event_en: "Huan Wen Destroys Cheng Han"
 - group: 其他
   order: 3
   year: '354'
   place_id: chang-an
   event: 桓温北伐关中
+  event_en: "Huan Wen Marches on Guanzhong"
 - group: 其他
   order: 4
   year: '356'
   place_id: luoyang
   event: 温复洛阳
+  event_en: "Huan Wen Restores Luoyang"
 - group: 都城
   order: 5
   year: '361'
   place_id: jian-kang
   event: 穆帝崩
+  event_en: "Death of Emperor Mu"
 sources:
 - title: 晋书·穆帝纪
   note: 主叙事
