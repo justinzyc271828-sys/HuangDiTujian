@@ -179,6 +179,38 @@ def main() -> int:
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(site, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # 拆包:图鉴墙只拉轻量 index;详情页按需拉 emperor/<id>.json;places 单独一份
+    # site.json 仍生成(工具链/审计用),postbuild 会从 dist 剔除,不随站发布
+    LIGHT_KEYS = (
+        "id", "tier", "sort_key", "page_status", "names", "dynasty", "reign",
+        "summary", "summary_en", "tags", "tags_en", "illustration",
+    )
+    light = [{k: e[k] for k in LIGHT_KEYS if k in e} for e in emperors]
+    (OUT.parent / "index.json").write_text(
+        json.dumps(
+            {
+                "generated_note": site["generated_note"],
+                "dynasties": dynasties,
+                "emperors": light,
+                "featured_ids": featured_ids,
+                "catalog_stats": catalog_stats,
+            },
+            ensure_ascii=False,
+            separators=(",", ":"),
+        ),
+        encoding="utf-8",
+    )
+    (OUT.parent / "places.json").write_text(
+        json.dumps(places, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
+    emp_dir = OUT.parent / "emperor"
+    emp_dir.mkdir(exist_ok=True)
+    for e in emperors:
+        (emp_dir / f"{e['id']}.json").write_text(
+            json.dumps(e, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+        )
+    print(f"OK -> data/index.json + places.json + emperor/*.json x{len(emperors)}")
+
     # 替身档 Lab 数据
     stand_src = ROOT / "data" / "catalog" / "stand_stats.json"
     if stand_src.is_file():

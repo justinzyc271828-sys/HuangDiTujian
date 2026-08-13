@@ -8,7 +8,7 @@
     "prebuild": "python ../../tools/build_site_data.py",
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "postbuild": "python ../../tools/build_share_pages.py",
+    "postbuild": "python ../../tools/build_share_pages.py && python ../../tools/subset_dist_fonts.py",
     "preview": "vite preview"
   },
   "dependencies": {

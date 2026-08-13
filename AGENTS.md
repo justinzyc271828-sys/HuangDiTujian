@@ -10,10 +10,10 @@ Run commands from the repository root unless noted:
 
 ```powershell
 python tools/validate_data.py          # Check IDs, references, links, and asset declarations
-python tools/build_site_data.py        # Generate apps/web/public/data/site.json (maps illustrations/<id>.webp when present)
+python tools/build_site_data.py        # Generate apps/web/public/data/{site,index,places,emperor/*}.json (maps illustrations/<id>.webp when present; site.json is tooling-only, pruned from dist)
 python tools/convert_illustrations_webp.py  # Convert key-art PNG masters into public/illustrations/*.webp + og/*.jpg
 cd apps/web; npm ci; npm run dev       # Install locked dependencies and start Vite on port 5173
-npm run build                          # Type-check, create the production bundle, then postbuild per-emperor OG share pages + 404.html
+npm run build                          # Type-check, create the production bundle, then postbuild per-emperor OG share pages + 404.html + sitemap/robots + font subsetting (needs pip: pyyaml fonttools brotli)
 npm run preview                        # Serve the built bundle for final inspection (base path /HuangDiTujian/)
 ```
 

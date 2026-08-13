@@ -1,11 +1,12 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, lazy, useEffect, useMemo, useRef, useState } from "react";
 import { Route, Routes } from "react-router-dom";
 import type { SiteData } from "./types";
 import { LangSwitch, tradDeep, useLang } from "./i18n";
 import BgMusic from "./components/BgMusic";
 import Gallery from "./pages/Gallery";
-import StandLab from "./pages/StandLab";
 import EmperorMemorialPage from "./memorial/EmperorMemorialPage";
+
+const StandLab = lazy(() => import("./pages/StandLab"));
 
 export default function App() {
   const { lang, t } = useLang();
@@ -13,14 +14,14 @@ export default function App() {
   const [err, setErr] = useState<string | null>(null);
   const hantCache = useRef<SiteData | null>(null);
 
-  // site.json 只拉一次,与语言无关;繁体由 tradDeep 派生(见下)
+  // 轻量 index.json 只拉一次,与语言无关;详情页按需再拉 emperor/<id>.json 与 places.json
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/site.json`)
+    fetch(`${import.meta.env.BASE_URL}data/index.json`)
       .then((r) => {
         if (!r.ok) throw new Error(String(r.status));
         return r.json();
       })
-      .then((data: SiteData) => setRaw(data))
+      .then((data: Omit<SiteData, "places">) => setRaw({ places: {}, ...data }))
       .catch((e: Error) => setErr(e.message));
   }, []);
 
@@ -47,7 +48,14 @@ export default function App() {
       <Routes>
         <Route path="/" element={<Gallery site={site} />} />
         <Route path="/emperor/:id" element={<EmperorMemorialPage site={site} />} />
-        <Route path="/lab" element={<StandLab site={site} />} />
+        <Route
+          path="/lab"
+          element={
+            <Suspense fallback={<div className="loading">{t("app.loading")}</div>}>
+              <StandLab site={site} />
+            </Suspense>
+          }
+        />
       </Routes>
     );
   }

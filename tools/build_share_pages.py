@@ -10,7 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "apps" / "web" / "dist"
-SITE_JSON = ROOT / "apps" / "web" / "public" / "data" / "site.json"
+SITE_JSON = ROOT / "apps" / "web" / "public" / "data" / "index.json"
 
 SITE_ORIGIN = "https://justinzyc271828-sys.github.io"
 BASE_PATH = "/HuangDiTujian"
@@ -65,6 +65,10 @@ def main() -> None:
         n += 1
     # SPA 回退:Pages 对未命中路径返回 404.html,前端路由接管
     shutil.copy2(DIST / "index.html", DIST / "404.html")
+    # site.json 全量包仅供工具链,不随站发布(前端走 index/places/emperor 拆包)
+    bundled = DIST / "data" / "site.json"
+    if bundled.exists():
+        bundled.unlink()
     # SEO:sitemap.xml(首页 + lab + 全部帝王页)+ robots.txt 指 sitemap
     urls = [f"{SITE_ORIGIN}{BASE_PATH}/", f"{SITE_ORIGIN}{BASE_PATH}/lab"]
     urls += [f"{SITE_ORIGIN}{BASE_PATH}/emperor/{e['id']}" for e in site["emperors"]]
