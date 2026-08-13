@@ -17,7 +17,10 @@ except ImportError:
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "apps" / "web" / "public" / "data" / "site.json"
 MASTER = ROOT / "data" / "catalog" / "emperors_master.json"
-ILLU_DIR = ROOT / "assets" / "video-01" / "emperor-illustrations" / "outputs"
+ILLU_DIRS = [
+    ROOT / "assets" / "video-01" / "emperor-illustrations" / "outputs",
+    ROOT / "key-art-en-prompts-all" / "outputs",
+]
 LINK_RE = re.compile(r"\[\[([a-z0-9-]+)(?:\|([^\]]+))?\]\]")
 
 
@@ -123,12 +126,14 @@ def main() -> int:
         d["meta"] = meta
         full[d["id"]] = d
 
-    # video-01 已批准插画：拷贝到 public/illustrations/ 并写入 illustration 字段
+    # 已批准插画（video-01 二十幅与全库增补二四九幅）：拷贝到 public/illustrations/ 并写入 illustration 字段
     illu_copied: dict[str, str] = {}
-    if ILLU_DIR.is_dir():
-        illu_out = OUT.parent.parent / "illustrations"
-        illu_out.mkdir(parents=True, exist_ok=True)
-        for png in sorted(ILLU_DIR.glob("*.png")):
+    illu_out = OUT.parent.parent / "illustrations"
+    illu_out.mkdir(parents=True, exist_ok=True)
+    for illu_dir in ILLU_DIRS:
+        if not illu_dir.is_dir():
+            continue
+        for png in sorted(illu_dir.glob("*.png")):
             m = re.fullmatch(r"\d+-(.+)\.png", png.name)
             if not m:
                 continue

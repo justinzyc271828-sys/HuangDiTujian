@@ -37,3 +37,5 @@ __pycache__/
 
 # 简繁转换冒烟测试的打包产物（源文件 trad_smoke.ts 与 OpenCC 词典入库）
 tools/_tmp/*.cjs
+# AI 出图成品原始 PNG(体量大,网页用压缩派生版;原始文件仅本地)
+key-art-en-prompts-all/outputs/
