@@ -6,7 +6,7 @@ names:
   display_en: Emperor Wen of Western Wei
   personal: 元宝炬
   personal_en: Yuan Baoju
-  temple: 文帝
+  temple: null
   posthumous: 文皇帝
   aliases:
   - 拓跋宝炬
@@ -135,21 +135,25 @@ routes:
   year: '535'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '537'
   place_id: sha-yuan
   event: 沙苑之战
+  event_en: "The Shayuan Battle"
 - group: 其他
   order: 3
   year: '543'
   place_id: mang-shan
   event: 邙山之战
+  event_en: "The Mangshan Battle"
 - group: 都城
   order: 4
   year: '551'
   place_id: chang-an
   event: 文帝崩
+  event_en: "Death of Emperor Wen"
 sources:
 - title: 北史·魏本纪
   note: 主叙事

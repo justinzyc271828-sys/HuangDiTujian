@@ -6,7 +6,7 @@ names:
   display_en: Emperor Xiaowu of Northern Wei
   personal: 元修
   personal_en: Yuan Xiu
-  temple: 出帝
+  temple: null
   posthumous: 孝武皇帝
   aliases:
   - 拓跋修
@@ -136,16 +136,19 @@ routes:
   year: '532'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '534'
   place_id: chang-an
   event: 西奔长安
+  event_en: "Fleeing West to Chang'an"
 - group: 都城
   order: 3
   year: '534'
   place_id: chang-an
   event: 遇鸩
+  event_en: "Poisoned"
 sources:
 - title: 魏书·出帝纪
   note: 主叙事

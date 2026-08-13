@@ -6,7 +6,7 @@ names:
   display_en: Prince Weishao of Jin
   personal: 完颜允济
   personal_en: Wanyan Yunji
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 完颜永济
@@ -140,16 +140,19 @@ routes:
   year: '1208'
   place_id: jin-zhong-du
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1212'
   place_id: jin-zhong-du
   event: 中都被围
+  event_en: "Zhongdu Besieged"
 - group: 都城
   order: 3
   year: '1213'
   place_id: jin-zhong-du
   event: 被弑
+  event_en: "Assassinated"
 sources:
 - title: 金史
   note: 年表主据

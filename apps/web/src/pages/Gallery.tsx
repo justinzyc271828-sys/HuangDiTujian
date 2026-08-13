@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import type { Emperor, SiteData } from "../types";
 import { useCollection } from "../hooks/useCollection";
-import { dynastyLabel, pinyinOf, useLang } from "../i18n";
+import { dynastyLabel, pinyinOf, toTrad, useLang } from "../i18n";
 import "./gallery.css";
 
 type Props = { site: SiteData };
@@ -38,16 +38,18 @@ export default function Gallery({ site }: Props) {
     }
     const query = q.trim();
     if (query) {
+      // 繁体模式下数据层已整体转繁,搜索词同步转繁再比对
+      const needle = lang === "hant" ? toTrad(query) : query;
       xs = xs.filter(
         (e) =>
-          e.names.display.includes(query) ||
-          e.names.personal.includes(query) ||
+          e.names.display.includes(needle) ||
+          e.names.personal.includes(needle) ||
           e.id.includes(query) ||
-          (e.dynasty.label || "").includes(query)
+          (e.dynasty.label || "").includes(needle)
       );
     }
     return xs;
-  }, [site.emperors, filter, read, featured, q]);
+  }, [site.emperors, filter, read, featured, q, lang]);
 
   const chips: { id: Filter; label: string }[] = [
     { id: "all", label: `${t("chip.all")} ${stats.total}` },
@@ -107,7 +109,7 @@ export default function Gallery({ site }: Props) {
               >
                 <div className="g-illu">
                   {e.illustration ? (
-                    <img src={`${import.meta.env.BASE_URL}${e.illustration}`} alt="" loading="lazy" />
+                    <img src={`${import.meta.env.BASE_URL}illustrations/og/${e.id}.jpg`} alt={display} loading="lazy" />
                   ) : (
                     <div className="g-illu-pending">{t("gallery.portraitPending")}</div>
                   )}

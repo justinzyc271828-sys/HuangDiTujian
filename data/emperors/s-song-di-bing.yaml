@@ -6,7 +6,7 @@ names:
   display_en: Emperor Bing of Song
   personal: 赵昺
   personal_en: Zhao Bing
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 卫王
@@ -145,21 +145,25 @@ routes:
   year: '1278'
   place_id: ya-shan
   event: 即位
+  event_en: "即位"
 - group: 都城
   order: 2
   year: '1278'
   place_id: ya-shan
   event: 张世杰拥立
+  event_en: "张世杰拥立"
 - group: 其他
   order: 3
   year: '1279'
   place_id: ya-shan
   event: 陆秀夫负帝沉海
+  event_en: "陆秀夫负帝沉海"
 - group: 其他
   order: 4
   year: '1279'
   place_id: ya-shan
   event: 崖山海战
+  event_en: "崖山海战"
 sources:
 - title: 宋史
   note: 年表主据

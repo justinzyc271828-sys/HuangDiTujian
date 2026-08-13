@@ -6,7 +6,7 @@ names:
   display_en: Emperor Gong of Western Wei
   personal: 元廓
   personal_en: Yuan Kuo
-  temple: 恭帝
+  temple: null
   posthumous: 恭皇帝
   aliases:
   - 拓跋廓
@@ -132,16 +132,19 @@ routes:
   year: '554'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '556'
   place_id: chang-an
   event: 禅位周
+  event_en: "Abdication to Zhou"
 - group: 都城
   order: 3
   year: '557'
   place_id: chang-an
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 北史·魏本纪
   note: 主叙事

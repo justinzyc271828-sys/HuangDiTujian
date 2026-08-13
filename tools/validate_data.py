@@ -29,6 +29,7 @@ def load_yaml(path: Path):
 def main() -> int:
     errors: list[str] = []
     warnings: list[str] = []
+    portrait_missing: list[str] = []
 
     emperors: dict[str, dict] = {}
     for path in sorted(EMP_DIR.glob("*.yaml")):
@@ -112,9 +113,12 @@ def main() -> int:
                 if status == "published":
                     errors.append(msg)
                 else:
-                    warnings.append(msg)
+                    # 非 published 不逐条 WARN:全员缺画像期 269 条刷屏等于没有告警,聚合成一行
+                    portrait_missing.append(msg)
 
     print(f"帝王 {len(emperors)} · 地点 {len(places)}")
+    if portrait_missing:
+        print(f"  WARN  画像缺失(非 published 聚合): {len(portrait_missing)} 人")
     for w in warnings:
         print(f"  WARN  {w}")
     for e in errors:

@@ -6,7 +6,7 @@ names:
   display_en: Emperor Tianzuo of Liao
   personal: 耶律延禧
   personal_en: Yelü Yanxi
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 耶律阿果
@@ -145,16 +145,19 @@ routes:
   year: '1101'
   place_id: zhong-jing
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1122'
   place_id: you-zhou
   event: 南京陷
+  event_en: "Fall of the Southern Capital"
 - group: 其他
   order: 3
   year: '1125'
   place_id: ying-zhou
   event: 被俘辽亡
+  event_en: "Captured; Liao Falls"
 sources:
 - title: 辽史
   note: 年表主据

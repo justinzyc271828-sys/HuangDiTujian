@@ -6,7 +6,7 @@ names:
   display_en: Emperor Jiemin of Northern Wei
   personal: 元恭
   personal_en: Yuan Gong
-  temple: 节闵帝
+  temple: null
   posthumous: 节闵皇帝
   aliases:
   - 拓跋恭
@@ -130,16 +130,19 @@ routes:
   year: '531'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '532'
   place_id: luoyang
   event: 被废
+  event_en: "Deposed"
 - group: 都城
   order: 3
   year: '532'
   place_id: luoyang
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 魏书·前废帝纪
   note: 主叙事

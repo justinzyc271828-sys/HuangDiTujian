@@ -6,7 +6,7 @@ names:
   display_en: Prince Hailing of Jin
   personal: 完颜亮
   personal_en: Wanyan Liang
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 完颜迪古乃
@@ -142,21 +142,25 @@ routes:
   year: '1149'
   place_id: huining
   event: 弑熙宗自立
+  event_en: "Regicide and Usurpation"
 - group: 都城
   order: 2
   year: '1153'
   place_id: jin-zhong-du
   event: 迁都燕京
+  event_en: "Capital at Yanjing"
 - group: 亲征
   order: 3
   year: '1161'
   place_id: chang-jiang
   event: 伐宋
+  event_en: "Campaign against Song"
 - group: 其他
   order: 4
   year: '1161'
   place_id: yang-zhou
   event: 被弑
+  event_en: "Assassinated"
 sources:
 - title: 金史
   note: 年表主据

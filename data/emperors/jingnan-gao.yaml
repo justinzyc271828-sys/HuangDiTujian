@@ -6,7 +6,7 @@ names:
   display_en: Gao Jixing, King Wuxin of Nanping
   personal: 高季兴
   personal_en: Gao Jixing
-  temple: 武信王
+  temple: null
   posthumous: 武信王
   aliases:
   - 高贻孙
@@ -127,16 +127,19 @@ routes:
   year: '907'
   place_id: jiang-ling
   event: 镇荆南
+  event_en: "Holding Jingnan"
 - group: 都城
   order: 2
   year: '924'
   place_id: jiang-ling
   event: 封南平王
+  event_en: "King of Nanping"
 - group: 都城
   order: 3
   year: '928'
   place_id: jiang-ling
   event: 季兴卒
+  event_en: "Death of Gao Jixing"
 sources:
 - title: 新五代史·南平世家
   note: 主叙事

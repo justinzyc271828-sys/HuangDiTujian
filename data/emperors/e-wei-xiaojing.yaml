@@ -6,7 +6,7 @@ names:
   display_en: Emperor Xiaojing of Eastern Wei
   personal: 元善见
   personal_en: Yuan Shanjian
-  temple: 孝静帝
+  temple: null
   posthumous: 孝静皇帝
   aliases:
   - 拓跋善见
@@ -136,21 +136,25 @@ routes:
   year: '534'
   place_id: ye-cheng
   event: 即位迁邺
+  event_en: "Throne and Move to Ye"
 - group: 其他
   order: 2
   year: '543'
   place_id: sha-yuan
   event: 沙苑邙山后
+  event_en: "After Shayuan and Mangshan"
 - group: 都城
   order: 3
   year: '550'
   place_id: ye-cheng
   event: 禅位北齐
+  event_en: "Abdication to Northern Qi"
 - group: 都城
   order: 4
   year: '551'
   place_id: ye-cheng
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 魏书·孝静纪
   note: 主叙事

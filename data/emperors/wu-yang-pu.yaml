@@ -6,7 +6,7 @@ names:
   display_en: Yang Pu, Emperor Rui of Wu
   personal: 杨溥
   personal_en: Yang Pu
-  temple: 睿帝
+  temple: null
   posthumous: 睿皇帝
   aliases: []
 dynasty:
@@ -135,16 +135,19 @@ routes:
   year: '920'
   place_id: yang-zhou
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '927'
   place_id: yang-zhou
   event: 称帝
+  event_en: "The Imperial Title"
 - group: 都城
   order: 3
   year: '937'
   place_id: jian-kang
   event: 禅南唐
+  event_en: "Abdication to Southern Tang"
 sources:
 - title: 新五代史·吴世家
   note: 主叙事

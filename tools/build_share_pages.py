@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # postbuild:为每位皇帝生成带独立 OG/Twitter 分享卡 meta 的静态页,并产出 404.html 回退。
 # 静态托管(GitHub Pages)上爬虫不执行 JS,分享卡 meta 必须落在静态 HTML 里。
-# 产物:apps/web/dist/emperor/<id>/index.html ×269 + dist/404.html
+# 产物:apps/web/dist/emperor/<id>/index.html ×269 + dist/404.html + sitemap.xml + robots.txt
 import html
 import json
 import re
@@ -65,7 +65,21 @@ def main() -> None:
         n += 1
     # SPA 回退:Pages 对未命中路径返回 404.html,前端路由接管
     shutil.copy2(DIST / "index.html", DIST / "404.html")
-    print(f"OK -> share pages: {n}, 404.html written")
+    # SEO:sitemap.xml(首页 + lab + 全部帝王页)+ robots.txt 指 sitemap
+    urls = [f"{SITE_ORIGIN}{BASE_PATH}/", f"{SITE_ORIGIN}{BASE_PATH}/lab"]
+    urls += [f"{SITE_ORIGIN}{BASE_PATH}/emperor/{e['id']}" for e in site["emperors"]]
+    xml = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',
+    ]
+    xml += [f"  <url><loc>{html.escape(u)}</loc></url>" for u in urls]
+    xml.append("</urlset>")
+    (DIST / "sitemap.xml").write_text("\n".join(xml) + "\n", encoding="utf-8")
+    (DIST / "robots.txt").write_text(
+        f"User-agent: *\nAllow: /\n\nSitemap: {SITE_ORIGIN}{BASE_PATH}/sitemap.xml\n",
+        encoding="utf-8",
+    )
+    print(f"OK -> share pages: {n}, 404.html, sitemap.xml ({len(urls)} urls), robots.txt written")
 
 
 if __name__ == "__main__":

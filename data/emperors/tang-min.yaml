@@ -6,7 +6,7 @@ names:
   display_en: Emperor Min of Later Tang
   personal: 李从厚
   personal_en: Li Conghou
-  temple: 闵帝
+  temple: null
   posthumous: 闵皇帝
   aliases: []
 dynasty:
@@ -128,16 +128,19 @@ routes:
   year: '933'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '934'
   place_id: null
   event: 潞王反
+  event_en: "The Prince of Lu Rises"
 - group: 都城
   order: 3
   year: '934'
   place_id: luoyang
   event: 被废遇害
+  event_en: "Deposed and Done to Death"
 sources:
 - title: 旧五代史·闵帝纪
   note: 主叙事

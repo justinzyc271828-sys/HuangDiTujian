@@ -6,7 +6,7 @@ names:
   display_en: Emperor Taiding of Yuan
   personal: 孛儿只斤也孙铁木儿
   personal_en: Borjigin Yesun Temur
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 泰定帝
@@ -141,21 +141,25 @@ routes:
   year: '1323'
   place_id: da-du
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '1324'
   place_id: da-du
   event: 改元
+  event_en: "Era Changed"
 - group: 其他
   order: 3
   year: '1325'
   place_id: da-du
   event: 守成
+  event_en: "Consolidation"
 - group: 都城
   order: 4
   year: '1328'
   place_id: shang-du
   event: 泰定帝崩
+  event_en: "Death of Taiding"
 sources:
 - title: 元史
   note: 年表主据

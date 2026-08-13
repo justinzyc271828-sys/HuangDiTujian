@@ -6,7 +6,7 @@ names:
   display_en: Emperor Gongzong of Song
   personal: 赵显
   personal_en: Zhao Xian
-  temple: 恭帝
+  temple: null
   posthumous: ''
   aliases:
   - 瀛国公
@@ -147,11 +147,13 @@ routes:
   year: '1274'
   place_id: lin-an
   event: 即位
+  event_en: "即位"
 - group: 流徙
   order: 2
   year: '1276'
   place_id: lin-an
   event: 降元
+  event_en: "降元"
 sources:
 - title: 宋史
   note: 年表主据

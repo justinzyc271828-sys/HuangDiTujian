@@ -6,7 +6,7 @@ names:
   display_en: Emperor Ai of Tang
   personal: 李柷
   personal_en: Li Zhu
-  temple: 哀帝
+  temple: null
   posthumous: 昭宣光烈孝皇帝
   aliases:
   - 李祚
@@ -135,21 +135,25 @@ routes:
   year: '904'
   place_id: luoyang
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '905'
   place_id: null
   event: 白马驿之祸
+  event_en: "The Baimayi Disaster"
 - group: 都城
   order: 3
   year: '907'
   place_id: luoyang
   event: 禅位后梁
+  event_en: "Abdication to Later Liang"
 - group: 都城
   order: 4
   year: '908'
   place_id: luoyang
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 旧唐书·哀帝纪
   note: 主叙事

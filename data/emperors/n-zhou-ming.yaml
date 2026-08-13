@@ -6,7 +6,7 @@ names:
   display_en: Emperor Ming of Northern Zhou
   personal: 宇文毓
   personal_en: Yuwen Yu
-  temple: 明帝
+  temple: 世宗
   posthumous: 明皇帝
   aliases:
   - 宇文统万突
@@ -132,16 +132,19 @@ routes:
   year: '557'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '559'
   place_id: chang-an
   event: 称皇帝
+  event_en: "The Title of Emperor"
 - group: 都城
   order: 3
   year: '560'
   place_id: chang-an
   event: 被鸩崩
+  event_en: "Poisoned"
 sources:
 - title: 周书·明帝纪
   note: 主叙事

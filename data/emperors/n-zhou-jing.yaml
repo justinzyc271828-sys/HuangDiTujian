@@ -6,7 +6,7 @@ names:
   display_en: Emperor Jing of Northern Zhou
   personal: 宇文阐
   personal_en: Yuwen Chan
-  temple: 静帝
+  temple: null
   posthumous: 静皇帝
   aliases:
   - 宇文衍
@@ -135,21 +135,25 @@ routes:
   year: '579'
   place_id: chang-an
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '580'
   place_id: ye-cheng
   event: 平尉迟迥
+  event_en: "Yuchi Jiong Destroyed"
 - group: 都城
   order: 3
   year: '581'
   place_id: chang-an
   event: 禅位隋
+  event_en: "Abdication to Sui"
 - group: 都城
   order: 4
   year: '581'
   place_id: chang-an
   event: 遇害
+  event_en: "Done to Death"
 sources:
 - title: 周书·静帝纪
   note: 主叙事

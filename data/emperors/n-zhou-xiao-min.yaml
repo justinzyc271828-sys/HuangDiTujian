@@ -6,7 +6,7 @@ names:
   display_en: Emperor Xiaomin of Northern Zhou
   personal: 宇文觉
   personal_en: Yuwen Jue
-  temple: 孝闵帝
+  temple: null
   posthumous: 孝闵皇帝
   aliases:
   - 宇文陀罗尼
@@ -134,11 +134,13 @@ routes:
   year: '557'
   place_id: chang-an
   event: 受禅称天王
+  event_en: "The Abdication, the Title of King"
 - group: 都城
   order: 2
   year: '557'
   place_id: chang-an
   event: 被废弑
+  event_en: "Deposed and Slain"
 sources:
 - title: 周书·孝闵帝纪
   note: 主叙事

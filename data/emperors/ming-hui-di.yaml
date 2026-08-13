@@ -6,7 +6,7 @@ names:
   display_en: Jianwen Emperor
   personal: 朱允炆
   personal_en: Zhu Yunwen
-  temple: ''
+  temple: null
   posthumous: 惠帝
   aliases:
   - 建文皇帝
@@ -140,21 +140,25 @@ routes:
   year: '1398'
   place_id: ying-tian
   event: 即位
+  event_en: "Accession"
 - group: 都城
   order: 2
   year: '1399'
   place_id: ying-tian
   event: 削藩
+  event_en: "Reduction of the Princes"
 - group: 都城
   order: 3
   year: '1400'
   place_id: ying-tian
   event: 用方黄
+  event_en: "Fang and Huang"
 - group: 都城
   order: 4
   year: '1402'
   place_id: ying-tian
   event: 南京陷
+  event_en: "Fall of Nanjing"
 sources:
 - title: 明史
   note: 年表主据

@@ -6,7 +6,7 @@ names:
   display_en: Emperor Tianshun of Yuan
   personal: 孛儿只斤阿速吉八
   personal_en: Borjigin Arigaba
-  temple: ''
+  temple: null
   posthumous: ''
   aliases:
   - 天顺帝
@@ -140,16 +140,19 @@ routes:
   year: '1328'
   place_id: shang-du
   event: 上都即位
+  event_en: "Enthroned at Shangdu"
 - group: 都城
   order: 2
   year: '1328'
   place_id: shang-du
   event: 倒剌沙专权
+  event_en: "Dawlat Shah in Power"
 - group: 都城
   order: 3
   year: '1328'
   place_id: shang-du
   event: 两都之战败
+  event_en: "Two-Capital War Lost"
 sources:
 - title: 元史
   note: 年表主据

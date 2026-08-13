@@ -23,6 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install pyyaml
+      - run: python tools/validate_data.py
       - uses: actions/setup-node@v4
         with:
           node-version: 20

@@ -6,7 +6,7 @@ names:
   display_en: Emperor Gong of Later Zhou
   personal: 柴宗训
   personal_en: Chai Zongxun
-  temple: 恭帝
+  temple: null
   posthumous: 恭皇帝
   aliases: []
 dynasty:
@@ -134,21 +134,25 @@ routes:
   year: '959'
   place_id: kai-feng
   event: 即位
+  event_en: "Accession"
 - group: 其他
   order: 2
   year: '960'
   place_id: chen-qiao
   event: 陈桥兵变
+  event_en: "The Chenqiao Mutiny"
 - group: 都城
   order: 3
   year: '960'
   place_id: kai-feng
   event: 禅位宋
+  event_en: "Abdication to Song"
 - group: 都城
   order: 4
   year: '973'
   place_id: kai-feng
   event: 薨
+  event_en: "Death"
 sources:
 - title: 旧五代史·周恭帝纪
   note: 主叙事
