@@ -6,4 +6,4 @@ In the 5th year of Huichang Wuzong proscribed Buddhism by edict: over 4,600 mona
 
 The histories say: "with Li Deyu he won the name of the Huichang revival; he loved Daoism and the elixirs, and his years were not long." His reign was the strongest of Tang's arms and government since the An–Shi storm; but the persecution and the elixir-death made the revival a flash in the pan. The meeting of Wuzong's ability and Deyu's talent came too late and ended too soon — the chance of the restoration was gone.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 18a ("Benji of Emperor Wuzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 18a ("Benji of Emperor Wuzong").

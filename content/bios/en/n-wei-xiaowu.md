@@ -6,4 +6,4 @@ In the pass he changed the era to Yongxi; but Yuwen Tai's grip was no lighter th
 
 The histories say: "he sat at the split of Wei, fled west, and came to no good end." His resolve not to be a puppet drove him west to Tai, hoping to stand by the power of Guanzhong; but "he entered the tiger's den to fall to the wolf," and the Yuwen house destroyed him. His death ended the unity of Wei: East and West Wei, then Northern Qi and Northern Zhou, carried the realm into a new age of division.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 11 ("Benji of the Emperor Who Departed"), and the *Beishi*, ch. 5 (Wei basic annals) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 11 ("Benji of the Emperor Who Departed"), and the *Beishi*, ch. 5 (Wei basic annals).

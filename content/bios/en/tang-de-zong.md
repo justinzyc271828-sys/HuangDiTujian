@@ -6,4 +6,4 @@ In the 4th year of Jianzhong came the Jingyuan mutiny: the Jingyuan troops, pass
 
 In the Zhenyuan years he "grew daily more suspicious and ever keener on revenue": the eunuch command of the imperial armies began in his reign, and the market-depredations and the tribute-seeking were his government's ways. He died in the 21st year of Zhenyuan, aged sixty-four. The histories say: "he would cut the feudatories at first, suffered exile in the middle, and grew suspicious and grasping at the last." The two-tax system and the Fengtian crisis are his reign's great deeds — the hinge of Tang's passage from height to decline.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 12 and 13 ("Benji of Emperor Dezong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 12 and 13 ("Benji of Emperor Dezong").

@@ -6,4 +6,4 @@ In the 5th year of Wuding Huan died, and his son Gao Cheng took the government, 
 
 Sixteen years the only sovereign of Eastern Wei: "a puppet, yet keeping the sovereign's bearing" — he played Go with Gao Cheng without changing color. But "sharp and fond of letters, in the end the Gao house's captive." The fall of Eastern Wei marked the Gao house's succession — the rise of Northern Qi ran through the puppet throne of Eastern Wei. The historians absolve Shanjian: "a child receiving the abdication, watching the realm pass, dying with the state — it was not his fault."
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 12 ("Benji of Emperor Xiaojing"), and the *Bei Qishu*, ch. 1 ("Annals of the Divine Warrior") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 12 ("Benji of Emperor Xiaojing"), and the *Bei Qishu*, ch. 1 ("Annals of the Divine Warrior").

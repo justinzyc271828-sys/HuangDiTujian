@@ -8,4 +8,4 @@ In person rule he sank into wine and women, drinking daily with Daozi while the 
 
 The historians say: "Relying on Xie An at first, the Fei River battle saved the south; later he drowned in wine and women, and left government to Daozi." The Fei River was the summit of Eastern Jin's recovery and the hinge of its decline: after it, Daozi and the Huans contended, Sun En and Lu Xun rose, and Liu Yu, a common soldier, rose from Jingkou — the fall of Eastern Jin was already in view in Xiaowu's reign.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 9 ("Benji of Emperor Xiaowu"), ch. 79 (biography of Xie Xuan) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 9 ("Benji of Emperor Xiaowu"), ch. 79 (biography of Xie Xuan).

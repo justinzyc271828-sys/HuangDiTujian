@@ -6,4 +6,4 @@ In the ninth month of the 2nd year of Jianyuan Kang died at twenty-three, and hi
 
 The historians say of Kang: "Two years on the throne, the government still of the great clans." A brief reign amid strong ministers, he did nothing and did no harm. But he came to the throne by the Yu clan's "grown sovereign" plot, and left a child heir — the Eastern Jin pattern of "a child sovereign, a doubtful state" continued; Kang was but a passing figure in it, the Yu clan's power the real story of his age.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 7 ("Benji of Emperor Kang"), ch. 73 (biography of Yu Yi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 7 ("Benji of Emperor Kang"), ch. 73 (biography of Yu Yi).

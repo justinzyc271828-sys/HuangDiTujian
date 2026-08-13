@@ -6,4 +6,4 @@ His accession was wholly Huan Wen's doing: Wen came to court, and Yu, weeping, a
 
 The historians say of him: "Pure and passionless, a master of metaphysical talk." A conversationalist set on the imperial throne, he had neither the talent nor the will to rule; his single achievement was parrying Huan Wen's abdication, buying the Jin house a decade. That Xie An and Wang Tanzhi could play their game was thanks to their sovereign's humility. His reign had no great deeds; but by enduring the strong minister's grip without an inch of power, he kept the altars standing — no mean art in that age.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 9 ("Benji of Emperor Jianwen"), ch. 98 (biography of Huan Wen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 9 ("Benji of Emperor Jianwen"), ch. 98 (biography of Huan Wen).

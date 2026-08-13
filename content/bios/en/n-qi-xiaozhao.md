@@ -6,4 +6,4 @@ But he reigned barely a year: in the 2nd year of Huangjian, campaigning in perso
 
 The histories say: "clear-sighted and frugal, he meant to repair Wenxuan's evils," yet "won the throne by usurpation, and his years were few." Of Qi's five sovereigns Xiaozhao was the worthiest — pity his reign was brief; his seizure of the throne was ill-gotten, but his government was the one brief clarity of Qi. With his death Wucheng took the throne, and Qi returned to the dark road.
 
-> Local references: the punctuated critical edition of the *Bei Qishu*, ch. 6 ("Benji of Emperor Xiaozhao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Bei Qishu*, ch. 6 ("Benji of Emperor Xiaozhao").

@@ -6,4 +6,4 @@ In the 3rd year of Taichu, drunk, he fell from his horse, hurt his ribs, and die
 
 The historians judge Wugu: "a rough founding of Southern Liang, and the realm's years were few." A Hexi Xianbei tribe seizing its chance on Later Liang's decline, it rose swiftly; his death by drink left the succession weak. The records' preface notes the legend that the Tufa and the Tuoba share a common origin — the fate of the one house rising while the other fell is a mirror of the age.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 126 (records of Tufa Wugu), ch. 126 (records of Tufa Nutan) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 126 (records of Tufa Wugu), ch. 126 (records of Tufa Nutan).

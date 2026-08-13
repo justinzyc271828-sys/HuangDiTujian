@@ -6,4 +6,4 @@ In the 2nd year of Yong'an, Liang propped up the Wei prince Yuan Hao to enter Lu
 
 His will to avenge and his own hand against the strong minister were brave; but "the strength did not match," the Erzhu power was untouched, and the emperor died and the realm fell into chaos. The histories say he "had the bearing of a hero, but the age was against him": the slaying of Erzhu Rong was the one great deed of Wei's last years — yet only a dying ember, as the realm passed to the Erzhu, to Gao Huan, to Yuwen Tai.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 10 ("Benji of Emperor Xiaozhuang"), ch. 74 (biography of Erzhu Rong) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 10 ("Benji of Emperor Xiaozhuang"), ch. 74 (biography of Erzhu Rong).

@@ -6,4 +6,4 @@ The three regency years were not without opposition: in the second Jushe year, Z
 
 The deposed Infant was shut away, and as he grew he could not even speak coherently; during the Gengshi era, amid the collapse of the Xin dynasty, he died in the disorder of the soldiery. He is among the youngest and most complete puppets in Chinese imperial history: invested at two, losing the state at four, never holding a scrap of power, yet written into the histories under the title of emperor. This gazetteer lists him as a quasi-emperor, standing between Mang's usurpation and the restoration of [[e-han-guangwu|Emperor Guangwu]] — a footnote to the rise and fall of the Han mandate.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 99 (Biography of Wang Mang), and the *Hou Hanshu*, biography of Liu Xuan; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 99 (Biography of Wang Mang), and the *Hou Hanshu*, biography of Liu Xuan; Tan Qixiang's atlas, vol. 2.

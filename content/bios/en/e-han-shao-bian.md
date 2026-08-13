@@ -6,4 +6,4 @@ He Jin meant to destroy the eunuchs, but hesitated and instead summoned troops f
 
 Bian had reigned under half a year. Deposed, he was shut up in a tower; in the first month of the first Chuping year Dong Zhuo sent Li Ru with poisoned wine. Bian sang a farewell to his wife Tang Ji as he drank, and died at fourteen. He never made a single decision of his own, yet he witnessed the final collapse of Han sovereignty: before him the emperor had been the prize fought over by consorts and eunuchs; after him, the emperor became a seal in the hands of warlords.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 8 (Benji of Emperor Ling), ch. 9 (Benji of Emperor Xian), and the biographies of Dong Zhuo and He Jin; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 8 (Benji of Emperor Ling), ch. 9 (Benji of Emperor Xian), and the biographies of Dong Zhuo and He Jin; Tan Qixiang's atlas, vol. 2.

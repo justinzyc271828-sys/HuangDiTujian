@@ -6,4 +6,4 @@ Eleven years on the throne, he raised buildings endlessly, changing his palaces 
 
 He died in the 8th year of Daming at thirty-five; the Former Deposed Emperor Ziye succeeded. The histories say he was "sharp from youth, of brilliant bearing," yet "trusting his own ability, he slew without measure." The slaughters of the southern palace grew worse from his reign on: he won the throne by avenging a parricide, and his son died a tyrant's death — the family wars of Liu Song could not be stopped.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 6 ("Benji of Emperor Xiaowu"), ch. 79 (biography of the Prince of Jingling) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 6 ("Benji of Emperor Xiaowu"), ch. 79 (biography of the Prince of Jingling).

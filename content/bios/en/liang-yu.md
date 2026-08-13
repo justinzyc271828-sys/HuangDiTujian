@@ -6,4 +6,4 @@ In the 1st year of Tianzheng Jing forced Dong to abdicate and took the throne hi
 
 Dong's enthronement and his fall were both Hou Jing's toys: the grandson of Zhaoming in the Liang imperial sequence, in fact the extreme of the age's puppetry. The gazetteer keeps him in the Liang line as quasi-emperor. The historians say: "young, weak, powerless — not his own master." In the Hou Jing storm none of the Liang princes escaped; Dong was only the most innocent of them.
 
-> Local references: the punctuated critical edition of the *Liangshu*, ch. 56 (biography of Hou Jing), and the *Nanshi*, ch. 53 (the sons of Zhaoming) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Liangshu*, ch. 56 (biography of Hou Jing), and the *Nanshi*, ch. 53 (the sons of Zhaoming).

@@ -6,4 +6,4 @@ He punished and slew without measure: on accession he slew his uncle the Prince 
 
 After his death the child Jing took the throne and Yang Jian, by forged edict, the regency — and soon the abdication: Northern Zhou fell to Xuan's tyranny. The histories say: "the Tianyuan's excess destroyed his own realm." The unity won by Emperor Wu was thrown away within ten years; Zhou rose swiftly and fell swiftly, and Xuan's darkness wrote its ending.
 
-> Local references: the punctuated critical edition of the *Zhoushu*, ch. 7 ("Benji of Emperor Xuan") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Zhoushu*, ch. 7 ("Benji of Emperor Xuan").

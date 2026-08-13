@@ -6,4 +6,4 @@ But in his three years the armies and the realm were decided wholly by Hu, who "
 
 The histories say: "generous and kind, and poisoned by the strong minister." Of the first three Zhou sovereigns, two died by Yuwen Hu's hand; Ming, the poet on the captive throne, is the more to be pitied. His will chose the hero of the age — his death was, in the end, Zhou's good fortune.
 
-> Local references: the punctuated critical edition of the *Zhoushu*, ch. 4 ("Benji of Emperor Ming") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Zhoushu*, ch. 4 ("Benji of Emperor Ming").

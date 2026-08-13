@@ -6,4 +6,4 @@ The edict of abdication made, Shun "wept as he mounted the carriage"; leaving th
 
 His abdication follows the same road as Gong's, as the abdications of Han and Wei: the name of abdication masking the fact of usurpation, and the abdicated sovereign slain to complete it. Liu Yu took the Jin and slew Emperor Gong; Xiao Daocheng took the Song and slew Emperor Shun — the mask wearing ever thinner. The historians absolve Shun: a ten-year-old watching his grandfather's realm pass, it was not his fault; Liu Song fell to its family slaughters and its overgrown ministers, long before he sat the throne.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 10 ("Benji of Emperor Shun"), and the *Nanqishu*, ch. 1 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 10 ("Benji of Emperor Shun"), and the *Nanqishu*, ch. 1 ("Benji of Emperor Gao").

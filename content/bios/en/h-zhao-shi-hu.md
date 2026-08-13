@@ -6,4 +6,4 @@ His tyranny was the worst of the Sixteen States: corvée without limit, slaughte
 
 The historians say of him: "With a savage nature and a brutal temper, though he put on the robes of civilization, his virtue was the wolf's." The realm's strength was spent in cruelty; and the Hu–Han slaughter of his fall was the bitterest of the barbarian age. His rise and ruin stand as the warning of tyranny.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 106 (records of Shi Jilong), ch. 107 (records of Shi Min) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 106 (records of Shi Jilong), ch. 107 (records of Shi Min).

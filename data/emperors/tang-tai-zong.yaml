@@ -41,7 +41,7 @@ portrait:
   primary: assets/portraits/tang-tai-zong/primary.png
   variants: []
   style_version: v1
-  appearance_basis: '传世画像与后世想象并存。MVP 占位；定稿前按唐初冠服作艺术想象。
+  appearance_basis: '传世画像与后世想象并存。图像为按唐初冠服所作的 AI 艺术想象。
 
     '
   prompt_ref: tools/prompts/portrait-v1.md

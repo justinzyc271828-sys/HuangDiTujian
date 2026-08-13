@@ -6,4 +6,4 @@ In the 4th year of Yongjia Liu Yuan died and Liu Cong succeeded, sending Liu Yao
 
 Six years on the throne, Chi was no man without spirit, but he inherited the wreck of the princes' war with the barbarian cavalry at the gate; there was no room for recovery. The Yongjia disaster and the "crossing of the caps and gowns south" mark the fall of Western Jin: with Luoyang in ashes and the Central Plains lost, the Jin house fled south, and the age of the Eastern Jin and the Five Barbarian Sixteen States began.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 5 ("Benji of Emperor Huai"), ch. 102 (records of Liu Cong) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 5 ("Benji of Emperor Huai"), ch. 102 (records of Liu Cong).

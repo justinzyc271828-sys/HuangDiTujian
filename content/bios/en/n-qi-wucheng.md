@@ -6,4 +6,4 @@ But he "sank into debauchery without limit": the records tell of his "extravagan
 
 He died at Jinyang in the 5th year of Tiantong at thirty-two. The histories say: "debauched, trusting flatterers, he laid the ground of Qi's decline." Qi did not fall in the Last Sovereign's reign alone; it fell to Wucheng's license — slaying the worthy, trusting the favorites, abdicating to his pleasures: the diseases of Qi all began with him.
 
-> Local references: the punctuated critical edition of the *Bei Qishu*, ch. 7 ("Benji of Emperor Wucheng") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Bei Qishu*, ch. 7 ("Benji of Emperor Wucheng").

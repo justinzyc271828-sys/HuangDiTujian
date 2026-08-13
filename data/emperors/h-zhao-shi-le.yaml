@@ -38,7 +38,7 @@ portrait:
   primary: assets/portraits/h-zhao-shi-le/primary.png
   variants: []
   style_version: v1
-  appearance_basis: '羯人，史载重其雄略。MVP 用占位图；定稿前依时代冠服作艺术想象。
+  appearance_basis: '羯人，史载重其雄略。图像为依时代冠服所作的 AI 艺术想象。
 
     '
   prompt_ref: tools/prompts/portrait-v1.md

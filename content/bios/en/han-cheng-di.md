@@ -6,4 +6,4 @@ Cheng himself was sunk in wine and women, leaving government to his mother's fam
 
 In the second Suihe year, Wang Gen recommended his nephew Wang Mang as Grand Commander-in-Chief, carrying Wang power to its peak; in the third month Cheng died suddenly at forty-five. The historians' verdict: "sunk in wine and women; the Zhaos threw the inner court into disorder; the maternal kin ran the government." In twenty-six years the tumor in the structure of the Han state grew complete — consort power, harem intrigue, and a throne without an heir — and [[xin-wang-mang|Wang Mang]] grew from exactly that soil. The fall of Western Han was largely seeded in the reign of Cheng.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 10 (Benji of Emperor Cheng), the biography of Empress Yuan, and the biography of the Consorts; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 10 (Benji of Emperor Cheng), the biography of Empress Yuan, and the biography of the Consorts; Tan Qixiang's atlas, vol. 2.

@@ -6,4 +6,4 @@ In the 1st year of Kaiping Emperor Ai abdicated; Zhu Wen took the throne, founde
 
 The histories say: "a bandit who took the Tang throne; the histories record his cruelty." A surrendered rebel who took the Tang realm, his cruelty and lust were the worst of the Five Dynasties founders; but his "taking of Tang" was the inevitable end of the late-Tang warlordism. The chaos of the Five Dynasties begins with Zhu Wen — the age of Five Dynasties and Ten Kingdoms opens here.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 1–7 ("Annals of the Liang Taizu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 1–7 ("Annals of the Liang Taizu").

@@ -58,7 +58,7 @@ portrait:
   primary: assets/portraits/zhou-wu-zetian/primary.png
   variants: []
   style_version: v1
-  appearance_basis: '正史着墨于其政治行事，容貌少有实录。MVP 用占位图；定稿前依唐代后妃与帝王冠服作艺术想象。
+  appearance_basis: '正史着墨于其政治行事，容貌少有实录。图像为依唐代后妃与帝王冠服所作的 AI 艺术想象。
 
     '
   prompt_ref: tools/prompts/portrait-v1.md

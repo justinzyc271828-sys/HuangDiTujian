@@ -6,4 +6,4 @@ Wang Ling's plot to set up Prince Biao of Chu failed, and Ling took his own life
 
 The Duke of Gaogui District succeeded him, and Fang lived out his days as Prince of Qi, dying in the 10th year of Jin Taishi. The historians' judgment: a child sovereign could do nothing, yet the slaying of Cao Shuang began the Sima usurpation — the Gaopingling incident deposed more than one man; it was the fate of the Wei dynasty. Fang's fall was blamed on himself by the official historians, but a child emperor's "fault" was only the strong minister's will.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 9 (biography of Cao Shuang), ch. 44 (biography of Sima Yi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 9 (biography of Cao Shuang), ch. 44 (biography of Sima Yi).

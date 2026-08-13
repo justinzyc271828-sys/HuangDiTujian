@@ -6,4 +6,4 @@ In the 3rd year of Tianfu (938) the Khitan took the name Liao, and Jingtang sent
 
 In the 7th year of Tianfu Jingtang died, aged fifty-one. The histories say: "he served the Khitan with his lands — the histories call him the son emperor." Jingtang's crime was not the throne (any warlord of the age might be emperor) but the cession of Yanyun and the vassal's name — with the Sixteen Prefectures, the Central Plains lost the shield of the Great Wall, and "the balance of the realm ran from north to south" from that day; the disaster ran on into Song and Ming, the greatest stain of the age.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 75–80 ("Annals of the Jin Gaozu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 75–80 ("Annals of the Jin Gaozu").

@@ -6,4 +6,4 @@ His reign saw the risings begin: in the 9th year of Xiantong the Guilin garrison
 
 He died in the 14th year of Xiantong, aged forty-one. The histories say: "extravagant and Buddhist-mad, he let the bandits flame up." His reign was the prologue to the great disorders of the Tang's end: Pang Xun opened the way, and Wang Xianzhi and Huang Chao followed — the fall of Tang began with Yizong's extravagance and misrule.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 19a ("Benji of Emperor Yizong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 19a ("Benji of Emperor Yizong").

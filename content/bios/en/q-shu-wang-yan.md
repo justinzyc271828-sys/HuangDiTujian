@@ -6,4 +6,4 @@ In the 1st year of Xiankang (925) Emperor Zhuangzong of Later Tang sent Guo Chon
 
 The histories say: "a child who lost the realm." Former Shu held the heavenly prefecture, with the means to stand; but Wang Yan "lost his realm to ease," and a decade's enterprise was spent in a day. Zhuangzong, who "cased the heads of the Liang lords," destroyed Shu — and then lost himself to the same ease: "the fall of Wang Yan's realm and the fall of Zhuangzong's self, the same two words: ease and pleasure."
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 63 ("Annals of Former Shu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 63 ("Annals of Former Shu").

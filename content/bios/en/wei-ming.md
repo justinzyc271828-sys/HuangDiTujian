@@ -6,4 +6,4 @@ Ming's failing was the great palace works: the Luoyang Palace and the Zhaoyang a
 
 In the first month of the 3rd year of Jingchu, mortally ill, he summoned Sima Yi from Liaodong, took his hand, named his adopted son Cao Fang heir, and entrusted him to Cao Shuang and Sima Yi; he died at thirty-six. Ten years later came the Gaopingling incident, and Wei's power passed wholly to the Simas. His regency trust was the hinge of Wei's fate: Sima Yi, the man who won Liaodong and held Zhuge Liang at bay, was the same man whose house would take the realm.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 3 ("Benji of Emperor Ming"), ch. 35 (biography of Zhuge Liang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 3 ("Benji of Emperor Ming"), ch. 35 (biography of Zhuge Liang).

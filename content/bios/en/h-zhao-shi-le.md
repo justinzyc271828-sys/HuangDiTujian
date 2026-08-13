@@ -1,6 +1,6 @@
 # Gaozu of Later Zhao · Principal Deeds
 
-Shi Le was a Jie. In his youth, around the Yongxing era of the Western Jin, he was kidnapped and sold into slavery; he later gathered a following, rose in arms, and finally ascended the imperial throne — the span from slave to Son of Heaven makes him the most dramatic state-founder in the history of the Sixteen Kingdoms. This page takes the Shi Le annals in juan 104–105 of the 《晋书》 as its chronological backbone, supplemented by the chronicle of the 《资治通鉴》 (available in the local reference library).
+Shi Le was a Jie. In his youth, around the Yongxing era of the Western Jin, he was kidnapped and sold into slavery; he later gathered a following, rose in arms, and finally ascended the imperial throne — the span from slave to Son of Heaven makes him the most dramatic state-founder in the history of the Sixteen Kingdoms. This page takes the Shi Le annals in juan 104–105 of the 《晋书》 as its chronological backbone, supplemented by the chronicle of the 《资治通鉴》.
 
 At the start of his enterprise he attached himself for a time to the Han-Zhao system of Liu Yuan and Liu Cong, building strength through campaigns in north China under the Han-Zhao banner. Around the fall of Luoyang in Yongjia 5 (311), he joined the melee that followed the Yongjia upheaval in north China; his military power swelled rapidly, making him a leading force among the regional powers.
 

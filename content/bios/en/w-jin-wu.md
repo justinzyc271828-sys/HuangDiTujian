@@ -6,4 +6,4 @@ In the 1st year of Taikang, with Jia Chong grand commander, Wang Jun, Wang Hun, 
 
 In the fourth month of the 1st year of Taixi the emperor died at fifty-five, and his dull-witted heir brought on the War of the Eight Princes. The historians credit him as "broad of bearing and shrewd in counsel," a sovereign worthy of the unification; but the three errors — disbanding the armies, enfeoffing the princes, favoring his wives' kin — sowed the ruin while the Taikang recovery flourished. Western Jin's fall, the historians agree, was prepared in his own reign.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 3 ("Benji of Emperor Wu"), ch. 42 (biography of Wang Jun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 3 ("Benji of Emperor Wu"), ch. 42 (biography of Wang Jun).

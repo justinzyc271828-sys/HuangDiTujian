@@ -6,4 +6,4 @@ In the 1st year of Shaotai, when Sengbian received the Marquis of Zhenyang propp
 
 Three years he reigned, dying in the 3rd year of Yongding at fifty-seven. Chen stood on ground laid waste by the Hou Jing storm — "the south of the river in ruins" — and Baxian, a common man, took the realm from chaos; but his reign was brief and the succession unsecured, until his nephew Chen Qian (Emperor Wen) carried on. The histories say of him: "of heroic strategy and open measure" — the pillar of the southern courts' last age for two deeds, the destruction of Hou Jing and the holding of the Qi.
 
-> Local references: the punctuated critical edition of the *Chenshu*, ch. 1 and 2 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Chenshu*, ch. 1 and 2 ("Benji of Emperor Gao").

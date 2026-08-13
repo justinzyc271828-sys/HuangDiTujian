@@ -6,4 +6,4 @@ In the eighth month of the 2nd year of Xianxi Sima Zhao died, and his son Yan su
 
 Wei did not fall to its last emperor but to the long drift that began at Gaopingling: from Fang to Mao to Huan, three sovereigns sat at the mercy of deposition. The historians write that Wei's loss of government began with Wen and Ming's regency trust and was completed at Gaopingling. Huan's abdication mirrors his house's own act — Emperor Xian had abdicated to Cao, and Cao Huan abdicated to the Simas: the wheel turned, and the historians mark the irony that Wen of Wei, who took the throne on the Fanyang altar, saw his descendants bow to the south as vassals.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 3 ("Benji of Emperor Ming"), and the *Jinshu*, ch. 3 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns"), ch. 3 ("Benji of Emperor Ming"), and the *Jinshu*, ch. 3 ("Benji of Emperor Wu").

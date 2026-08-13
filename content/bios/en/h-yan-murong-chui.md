@@ -6,4 +6,4 @@ In the 1st year of Yanyuan he turned on Qin, styled himself King of Yan at Xingy
 
 As a general he was without equal in his age; as a sovereign he restored the Yan line. But "the Canhe disaster, though not his own campaign, broke his edge" — with his death Later Yan declined, and within years Wei destroyed it. The historians say he was "marked from youth for greatness, seven feet seven tall, his hands hanging past his knees," yet "benevolent without being martial, unable to cut down the heroes of the age": a veteran who rebuilt a state, only to see his heirs and his enemies undo it.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 123 (records of Murong Chui), ch. 124 (records of Murong Bao) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 123 (records of Murong Chui), ch. 124 (records of Murong Bao).

@@ -6,4 +6,4 @@ After unification he toured incessantly (see the timeline and the sidebar map): 
 
 After the coup at Shaqiu, the throne fell to [[qin-er-shi|Qin Er Shi, the Second Emperor of Qin]], and the empire quickly lost stability. A few years later, the new political force represented by Liu Bang, [[han-gao-zu|Emperor Gaozu of Han]], took control of Guanzhong, yet Qin's institutional legacy entered the Han order in a more flexible form. The Feng and Shan rites and frontier expansion of later rulers such as [[han-wu-di|Emperor Wu of Han]] may also be read against this page over the long term.
 
-> Local references: the punctuated critical edition of the *Shiji*, Tan Qixiang's atlas, vol. 2, and the chronology tables (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Shiji*, Tan Qixiang's atlas, vol. 2, and the chronology tables.

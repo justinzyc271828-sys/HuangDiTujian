@@ -6,4 +6,4 @@ Guanzheng he was strong; governing he was without art: he made generals of his s
 
 The historians say he was "resolute from youth and of real bearing," yet "jealous by nature, untrusting of his subordinates." With the glory of the western campaign and the possession of Liangzhou he might have built a lasting state; but he ruled as a soldier, without the arts of conciliation, the peoples of Hexi fell away, and Later Liang passed swiftly. His western conquest stands alone among the Sixteen States' sovereigns; but the glory of arms did not cure the failure of government.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 122 (records of Lü Guang), ch. 125 (records of Tufa Wugu) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 122 (records of Lü Guang), ch. 125 (records of Tufa Wugu).

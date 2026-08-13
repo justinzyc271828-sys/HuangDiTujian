@@ -8,4 +8,4 @@ In the first Zhongping year Zhang Jiao of Julu gathered followers through the Wa
 
 In the sixth Zhongping year Ling died at thirty-four, leaving an empire in tatters: eunuchs and scholars at each other's throats, Yellow Turban remnants across the provinces, and frontier warlords closing in. [[e-han-shao-bian|The Young Emperor Bian]] was deposed by Dong Zhuo within months, and Eastern Han entered its last age.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 8 (Benji of Emperor Ling), and the biographies of the Proscribed Partisans, Chen Fan, and Huangfu Song; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 8 (Benji of Emperor Ling), and the biographies of the Proscribed Partisans, Chen Fan, and Huangfu Song; Tan Qixiang's atlas, vol. 2.

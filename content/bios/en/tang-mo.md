@@ -6,4 +6,4 @@ In the 3rd year of Qingtai (936) Jingtang took the throne at Taiyuan, called on 
 
 The histories say: "his throne was ill-gotten, and he fell to the Khitan at last." Later Tang fell to Jingtang's revolt and the Khitan's strength; and the cession of the Sixteen Prefectures was a disaster for China for four hundred years — from Liao and Jin to the Mongols, the northern menace ran from this. The Last Sovereign, dying in his own fire, kept at least the fire of a fallen king.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 46–48 ("Annals of the Tang Last Sovereign") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 46–48 ("Annals of the Tang Last Sovereign").

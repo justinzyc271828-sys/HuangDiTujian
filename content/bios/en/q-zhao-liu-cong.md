@@ -6,4 +6,4 @@ His rule was tyranny: the records harp on his boundless hunting and extravagant 
 
 For destroying the Jin, Cong stands first in arms among the Five Barbarian sovereigns; but he "won the realm without benevolence," and his tyranny brought the Xiongnu Han state low within two generations. His destruction of Western Jin opened the full age of the Sixteen States: the north would know no unity, and the southern courts' long isolation was fixed.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 102 (records of Liu Cong), ch. 5 ("Benji of Emperor Huai") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 102 (records of Liu Cong), ch. 5 ("Benji of Emperor Huai").

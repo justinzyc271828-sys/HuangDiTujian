@@ -6,4 +6,4 @@ His government was light-levied: "he was frugal himself and rested the people," 
 
 The histories say: "a worthy founder; the people of Min call him loyal and good." But after his death his sons contended — Yanhan, Yanjun in turn, kin slaying kin, the government of Min falling into disorder until Southern Tang destroyed it in 945. Min rose on Shenzhi's benevolence and fell to his descendants' slaughter — "a worthy founder, unworthy heirs," the common fate of the Ten Kingdoms.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 68 ("Annals of Min") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 68 ("Annals of Min").

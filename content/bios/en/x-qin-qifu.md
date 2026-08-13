@@ -6,4 +6,4 @@ He died in the 4th year of Jianyi, his brother Gangui carrying on Western Qin. U
 
 The historians judge him: a rough founding, and the realm's years were few. Western Qin was among the weakest of the Sixteen States; it rose on Former Qin's ruin and fell before the stronger powers — the difficulty of a single Xianbei tribe holding its own through decades of chaos. Guoren's name is but a moment in the storm.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 125 (records of Qifu Guoren), ch. 125 (records of Qifu Gangui) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 125 (records of Qifu Guoren), ch. 125 (records of Qifu Gangui).

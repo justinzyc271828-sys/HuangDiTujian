@@ -6,4 +6,4 @@ But he was "fond of great designs": in mid-Baoda, riding Min's internal wars, he
 
 The histories say: "he inherited and held, loving letters; he widened the borders and lost by misjudgment." The decline of Southern Tang began with his widening: the north of the river lost, the state's strength ebbed — and Li Yu, inheriting, "forty years of home and realm," fell to Song at last. The Yuan Zong's ci and the Yuan Zong's loss are the two faces of Southern Tang.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 62 ("Annals of Southern Tang"), and the *Nantangshu* (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 62 ("Annals of Southern Tang"), and the *Nantangshu*.

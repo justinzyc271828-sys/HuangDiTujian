@@ -6,4 +6,4 @@ In the mid-Taishi years, with Wei in internal disorder, he campaigned north — 
 
 He died in the 1st year of Taiyu at thirty-four; the Later Deposed Emperor Yu succeeded. The histories say: "jealous and cruel, worst of all in his last years." From Wu's founding to Ming, not fifty years, and kin slaying kin was the norm; with Ming's death Liu Song was spent — the Later Deposed Emperor was slain, Emperor Shun abdicated, and Xiao Daocheng took the realm.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 8 ("Benji of Emperor Ming"), ch. 84 (biography of the Prince of Jin'an) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 8 ("Benji of Emperor Ming"), ch. 84 (biography of the Prince of Jin'an).

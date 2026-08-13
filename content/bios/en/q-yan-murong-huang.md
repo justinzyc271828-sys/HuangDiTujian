@@ -6,4 +6,4 @@ He ruled with both Hu and Han: the Han gentry Pei Ni, Feng Yi, and the rest were
 
 From one corner of Liaodong Huang built the foundations of Former Yan, "his authority and virtue together drawing the gentry and the people." His son Jun destroyed Ran Wei and entered the Central Plains; his grandson Wei reigned at the height of Former Yan — the work of Huang's founding. But he distrusted his brothers, driving Murong Han away, and the seed of the house's internal wars was sown here: Former Yan rose swiftly and fell swiftly, and the root of the ruin lay in the founder.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 109 (records of Murong Huang), ch. 110 (records of Murong Jun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 109 (records of Murong Huang), ch. 110 (records of Murong Jun).

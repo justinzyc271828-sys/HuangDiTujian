@@ -6,4 +6,4 @@ Seven years he reigned, at peace with the Khitan, Wu, and Shu on his borders, re
 
 The histories say: "lenient government, stilling the wars — the Five Dynasties' one peace." An adopted son who won the throne and kept it with benevolence, the rarest worthy of the age; but "the old abuses ran too deep for one man to mend" — after his death the realm fell at once into the Min and Mo emperors' wars, and Later Tang was gone within three years. The chaos of the age could not be stopped by one sovereign.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 35–44 ("Annals of Emperor Mingzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 35–44 ("Annals of Emperor Mingzong").

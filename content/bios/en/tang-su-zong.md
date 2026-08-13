@@ -6,4 +6,4 @@ In the 1st year of Qianyuan he sent nine commissioners to besiege An Qingxu at Y
 
 The histories say: "a hard-won throne: the two capitals recovered, but Hebei unquiet." Suzong, a heir enthroned in the storm, restored the Tang house; but his use of Li Fuguo and Empress Zhang opened the age of eunuch power, and the feudatory division of Hebei was fixed in his reign — the rebellion ended, but the decline of Tang could not be reversed.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 10 ("Benji of Emperor Suzong"), and the *Zizhi Tongjian*, ch. 218–222 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 10 ("Benji of Emperor Suzong"), and the *Zizhi Tongjian*, ch. 218–222.

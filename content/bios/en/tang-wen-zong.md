@@ -6,4 +6,4 @@ In the 5th year of Dahe the chancellor Song Shenxi plotted against the eunuchs, 
 
 He died in the 5th year of Kaicheng, aged thirty-two. The histories say: "frugal and fond of letters, his will to destroy the eunuchs defeated." The Ganlu incident was the summit of eunuch power: from it, "the enthroning and deposing of emperors came all from the inner court." A gentle sovereign seeking to sweep away the old plague — his will is to be honored, his failure mourned: after Ganlu, the government of Tang passed to the northern court of the eunuchs.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 17b ("Benji of Emperor Wenzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 17b ("Benji of Emperor Wenzong").

@@ -6,4 +6,4 @@ That same year Hu pressed Gong to abdicate to Jue — Western Wei was no more, a
 
 The histories say of him: "caught in the abdication, he ended Western Wei." A child sovereign watching the Yuwens take the realm, not his own master; his abdication and death mirror Emperor Xiaojing of Eastern Wei — the two Wei, both transitional states of strong ministers. Western Wei died, but the Guanzhong-based institutions and the fubing system it created were the direct source of the Sui–Tang empire.
 
-> Local references: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 3 ("Annals of Emperor Xiaomin") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 3 ("Annals of Emperor Xiaomin").

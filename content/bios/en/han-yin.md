@@ -6,4 +6,4 @@ In the 3rd year of Qianyou, heeding the slanders of Su Fengji and the rest, the 
 
 The histories say: "a child heeding slander, he destroyed his own shield." Later Han fell to the Yin emperor's credulity and slaughter: the regents destroyed in a day, Guo Wei driven to revolt — the age's worst "pulling down one's own wall." Guo Wei, entering Kaifeng, first set up the Han prince Liu Yun (later deposed) and then took the throne himself as the realm Zhou — the Five Dynasties passed to Later Zhou.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 101–102 ("Annals of the Han Yin Emperor") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 101–102 ("Annals of the Han Yin Emperor").

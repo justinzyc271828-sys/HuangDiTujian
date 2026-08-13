@@ -1,6 +1,6 @@
 # Emperor Guangwu of Han · Principal Deeds
 
-Liu Xiu was the restoration sovereign who rebuilt the Han house amid the chaos at the end of the Xin dynasty. This page takes the 《后汉书·光武帝纪》 as its chronological backbone, cross-referenced with the biographies of the Yuntai generals and of Ma Yuan (available in the local reference library).
+Liu Xiu was the restoration sovereign who rebuilt the Han house amid the chaos at the end of the Xin dynasty. This page takes the 《后汉书·光武帝纪》 as its chronological backbone, cross-referenced with the biographies of the Yuntai generals and of Ma Yuan.
 
 In Dihuang 3 of the Xin (22), he rose in arms at Chongling with imperial kinsmen and retainers, joining the tide of revolt against the Xin; the next year, at the Battle of Kunyang, he struck the many with the few and shattered the main Xin army of [[xin-wang-mang|Wang Mang]], establishing his military renown in a single stroke. During the Gengshi period he crossed the river to build a base in Hebei, gathering talent and drifting steadily away from the Gengshi regime; in Jianwu 1 (25) he took the imperial throne south of Hao, founded the Jianwu era, continued the Han dynastic name, and soon fixed the capital at Luoyang, thereby establishing the political center of the Eastern Han.
 

@@ -6,4 +6,4 @@ In the 1st year of Fengxiang he drove a hundred thousand laborers to build Tongw
 
 He died in the 7th year of Zhenxing; his son Helian Chang succeeded, and in the 3rd year of Cheng'guang Emperor Taiwu of Northern Wei broke Tongwan and took Chang. Xia, fleeing west, was finally destroyed in the 4th year of Dingsheng. The historians say: "of more than common ferocity, cruel and loving slaughter — among the Xiongnu there was none worse." Tongwan's walls still stand in the northern Shaanxi sands — the monument of his tyranny.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 130 (records of Helian Bobo), ch. 131 (records of Helian Chang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 130 (records of Helian Bobo), ch. 131 (records of Helian Chang).

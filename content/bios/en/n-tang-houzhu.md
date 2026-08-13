@@ -1,6 +1,6 @@
 # Li Yu, Last Ruler of Southern Tang · Major Events
 
-Li Yu was the last ruler of the Southern Tang. In the second year of the Song Jianlong era (961), the Middle Ruler Li Jing died, and Li Yu succeeded to the throne at Jinling, with Southern Tang already at a disadvantage against the Song. This page takes 《宋史·卷478·南唐世家》 as the chronological backbone, cross-checked against the annals in 《宋史·太祖纪》 (available in the local reference library).
+Li Yu was the last ruler of the Southern Tang. In the second year of the Song Jianlong era (961), the Middle Ruler Li Jing died, and Li Yu succeeded to the throne at Jinling, with Southern Tang already at a disadvantage against the Song. This page takes 《宋史·卷478·南唐世家》 as the chronological backbone, cross-checked against the annals in 《宋史·太祖纪》.
 
 Around the Kaibao era (971), he renounced the imperial title, styled himself Ruler of Jiangnan, and submitted to the Song as a vassal in search of a precarious peace; throughout his reign he poured his energy into painting, calligraphy, music, and verse, and his literary achievement far outran his record as a sovereign.
 

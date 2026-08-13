@@ -6,4 +6,4 @@ In the 6th year of Yonghui he deposed Empress Wang and made the Consort Wu his e
 
 He died in the Zhenguan Hall at the eastern capital in the 1st year of Hongdao, aged fifty-six. The histories say: "Yonghui carried the Zhenguan air; after his middle years the government passed to Empress Wu." Gentle and weak, he inherited the Zhenguan foundations and opened the way for Wu: his reign was the hinge from Tang to the Zhou — the rise of the Wu Zhou was Wu's ambition, but also the fruit of his delegation.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 4 and 5 ("Benji of Emperor Gaozong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 4 and 5 ("Benji of Emperor Gaozong").

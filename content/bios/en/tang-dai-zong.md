@@ -6,4 +6,4 @@ His reign was full of external troubles: in the 1st year of Guangde the Tibetans
 
 He died in the 14th year of Dali, aged fifty-three. The histories say: "he ended the rebellion and held the realm, while the feudatories grew great." His reign was the transition after the An–Shi storm: the arms were Guo Ziyi's and the rest, and the feudatories, the eunuchs, and the monasteries all gathered strength in his years — the decline of Tang became visible under Daizong.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 11 ("Benji of Emperor Daizong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 11 ("Benji of Emperor Daizong").

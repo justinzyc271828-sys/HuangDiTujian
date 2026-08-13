@@ -66,13 +66,7 @@ export default function Gallery({ site }: Props) {
               {t("gallery.seal")} {stats.total}
             </span>
           </div>
-          <p className="g-sub">
-            {t("gallery.sub", {
-              draft: stats.draft,
-              stub: stats.stub,
-              quasi: stats.quasi,
-            })}
-          </p>
+          <p className="g-sub">{t("gallery.sub")}</p>
         </header>
 
         <div className="g-controls">
@@ -122,7 +116,6 @@ export default function Gallery({ site }: Props) {
                   <div className="g-card-top">
                     <h2 className="g-name">{display}</h2>
                     <div className="g-badges">
-                      {isFeatured && <span className="g-badge b-first">{t("badge.first")}</span>}
                       {isStub && <span className="g-badge b-stub">{t("badge.stub")}</span>}
                       {isQuasi && <span className="g-badge b-quasi">{t("badge.quasi")}</span>}
                     </div>

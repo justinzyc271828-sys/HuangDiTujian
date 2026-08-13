@@ -6,4 +6,4 @@ In the 1st year of Wude, Emperor Gong abdicated; Yuan took the throne, styled th
 
 In the 9th year of Wude came the Xuanwu Gate: Shimin slew the heir Jiancheng and the Prince of Qi, Yuanji, and Yuan, compelled, yielded the throne to Shimin, styling himself Grand Emperor. He died in the Tai'an Palace in the 9th year of Zhenguan, aged seventy. The histories say he "founded the Tang house with its capital in Guanzhong," yet "irresolute, his yielding of the throne bound up with the Xuanwu Gate." The three hundred years of Tang were laid open by Gaozu's Wude; and his yielding made Taizong's reign possible.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 1 ("Benji of Emperor Gaozu"), and the *Xin Tangshu*, ch. 1 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 1 ("Benji of Emperor Gaozu"), and the *Xin Tangshu*, ch. 1.

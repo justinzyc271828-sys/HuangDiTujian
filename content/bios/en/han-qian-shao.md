@@ -6,4 +6,4 @@ His four years were the apex of Lü power: in the first year of the regency the 
 
 Growing up, he learned he was not the empress's son and spoke resentfully; in the fourth year of the regency he was imprisoned and slain, and Liu Hong, king of Hengshan, was enthroned in his place — the Later Young Emperor. Within four years the Han throne changed hands twice, both times at Lü's pleasure, until the accession of [[han-wen-di|Emperor Wen]] returned real sovereignty to the Liu house. The histories leave the Former Young Emperor's legitimacy an open question; this gazetteer therefore lists him as a quasi-emperor.
 
-> Local references: the punctuated critical edition of the *Shiji*, "Basic Annals of Empress Lü," and the *Hanshu*, ch. 3 (Benji of Empress Lü); Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Shiji*, "Basic Annals of Empress Lü," and the *Hanshu*, ch. 3 (Benji of Empress Lü); Tan Qixiang's atlas, vol. 2.

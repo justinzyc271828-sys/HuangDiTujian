@@ -6,4 +6,4 @@ In the 3rd year of Dazhong, Zhang Yichao of Shazhou rose and submitted to Tang, 
 
 He died in the 13th year of Dazhong, aged fifty. The histories say: "he judged sharply, saw clearly, and the Tang house enjoyed a small peace." The Dazhong recovery was the last modest ease of the Tang's last years; but the "Little Taizong" only kept the realm, and could not root out the feudatories and the eunuchs. After his death came Yizong's extravagance and Xizong's flight — the Dazhong recovery was the Tang's last glow.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 18b ("Benji of Emperor Xuanzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 18b ("Benji of Emperor Xuanzong").

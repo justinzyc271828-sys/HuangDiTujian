@@ -6,4 +6,4 @@ In the 1st year of Xiantian he yielded the throne to the heir Longji (Xuanzong) 
 
 The histories say of his restoration: "he yielded to his worthy son — a good name in history." Twice on the throne, twice a puppet (of Wu, of the princess); but he knew his son, and his yielding opened the Kaiyuan golden age. The turn of Tang was his abdication — "knowing when to withdraw" is the whole of his life.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Ruizong"), ch. 8 ("Benji of Emperor Xuanzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Ruizong"), ch. 8 ("Benji of Emperor Xuanzong").

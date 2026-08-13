@@ -1,6 +1,6 @@
 # Emperor Xianzong of Tang · Key Events
 
-Li Chun reigned for fifteen years (805–820) under the era name Yuanhe and was the most revitalizing emperor of the Tang after the An Lushan Rebellion. This page builds its chronology on the "Annals of Xianzong" in the Old Book of Tang, checked against the "Annals of Xianzong" in the New Book of Tang and the Zizhi Tongjian (all held in the local reference library). The main line of his life comes down to two words: reducing the provinces.
+Li Chun reigned for fifteen years (805–820) under the era name Yuanhe and was the most revitalizing emperor of the Tang after the An Lushan Rebellion. This page builds its chronology on the "Annals of Xianzong" in the Old Book of Tang, checked against the "Annals of Xianzong" in the New Book of Tang and the Zizhi Tongjian. The main line of his life comes down to two words: reducing the provinces.
 
 Yuanhe 1 (806) showed his opening hand: first he suppressed Yang Huilin of Xia-Sui, then Liu Pi of Xichuan. Two victories in a row announced to every military province that the court would no longer be lenient. But the campaign against Wang Chengzong of Chengde in Yuanhe 4 (809) achieved limited results, and it taught him how deeply entrenched the Heshuo provinces were and how hard they would be to crack.
 

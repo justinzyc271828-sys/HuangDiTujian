@@ -6,4 +6,4 @@ All the government of Western Wei came from Tai: he set up the fubing system, ra
 
 The histories say of him: "frugal, benevolent, a sovereign of preservation." Cramped in Guanzhong, Western Wei held Eastern Wei at bay through Tai's management; and Wen, though powerless, gave the emerging Guanzhong bloc a stable shell of imperial legitimacy — the foundations of Northern Zhou, Sui, and Tang were laid in Western Wei.
 
-> Local references: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 1 ("Annals of Emperor Wen") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 1 ("Annals of Emperor Wen").

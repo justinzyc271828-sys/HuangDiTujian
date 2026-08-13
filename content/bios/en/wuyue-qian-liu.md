@@ -6,4 +6,4 @@ His rule ran on "serving the great and keeping the borders": to every dynasty of
 
 He died in the 3rd year of Changxing, aged eighty-one. The histories say: "he served Zhe well; the people praise him to this day." Wuyue hugged one corner, but Qian Liu's wall, his Hangzhou, and his peace laid the base of the "earthly paradise" of Hangzhou; and his heirs, surrendering their lands to Song in the 3rd year of Taiping Xingguo, ended well — a rare ending in that age.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 67 ("Annals of Wuyue") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 67 ("Annals of Wuyue").

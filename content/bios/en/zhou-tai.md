@@ -6,4 +6,4 @@ Three years he reigned, bent on reform: he abolished the military farms, lighten
 
 The histories say: "he rose from the ranks with the ambition of the realm." A soldier who took the throne and ruled with benevolence, the worthiest of the Five Dynasties founders; his adopted son's reforms and northern campaigns stood on his base. Zhou lasted three generations and ten years, yet "the government of Zhou was the best of the Five Dynasties" — and the Song, taking Zhou's place, inherited Zhou's legacy.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 110–113 ("Annals of the Zhou Taizu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 110–113 ("Annals of the Zhou Taizu").

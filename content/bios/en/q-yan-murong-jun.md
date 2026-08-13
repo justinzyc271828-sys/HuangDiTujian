@@ -6,4 +6,4 @@ He moved the capital to Ye, the old seat of the Shi house, "his palaces and inst
 
 For destroying Ran Wei and entering the Central Plains, Jun brought Former Yan to its height; but his endless wars and his suspicion of his own kin laid the fuse of its decline. The historians say he was "bold and full of stratagems," yet "a realm won by arms, not adorned by virtue — it rose swiftly and fell swiftly."
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 110 (records of Murong Jun), ch. 111 (records of Murong Wei) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 110 (records of Murong Jun), ch. 111 (records of Murong Wei).

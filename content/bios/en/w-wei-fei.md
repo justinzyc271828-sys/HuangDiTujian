@@ -6,4 +6,4 @@ The Deposed Emperor would not be a puppet: "the emperor plotted secretly to slay
 
 His fall fixed the "empty throne" of the Guanzhong bloc: from the Gong emperor of Western Wei through the emperors of Northern Zhou, the throne was the Yuwens' instrument. And the Jiangling conquest brought the south's books and institutions into Guanzhong — the sources of Sui–Tang institutions, gathered under Western Wei.
 
-> Local references: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 2 ("Annals of Emperor Wen") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Beishi*, ch. 5 (Wei basic annals), and the *Zhoushu*, ch. 2 ("Annals of Emperor Wen").

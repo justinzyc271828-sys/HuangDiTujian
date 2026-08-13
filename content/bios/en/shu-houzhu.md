@@ -8,4 +8,4 @@ In the 6th year of Jingyao Wei invaded on three roads; Deng Ai came by the Yinpi
 
 The historians' judgment: with worthy ministers he was a right-reasoning sovereign, beguiled by eunuchs a darkened one — the state's fate turned on the men he chose. That Shu held forty years was the work of Zhuge Liang, Jiang Wan, and Fei Yi; that it fell was the work of Huang Hao's power, Jiang Wei's exhausting wars, and the failure of relief. Yet "happier here" kept him alive in an age of slaughter — the self-preservation of a weakling, and perhaps a kind of wisdom.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 33 ("Biography of the Later Sovereign"), ch. 35 (biography of Zhuge Liang), ch. 44 (biography of Jiang Wei) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 33 ("Biography of the Later Sovereign"), ch. 35 (biography of Zhuge Liang), ch. 44 (biography of Jiang Wei).

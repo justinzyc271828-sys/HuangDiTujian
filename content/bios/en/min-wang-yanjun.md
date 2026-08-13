@@ -6,4 +6,4 @@ In the 1st year of Yonghe (935) his son Wang Chang, with the palace commander Li
 
 The histories say: "he took the imperial title, and the government fell into disorder." From Yanjun's title on, the throne of Min passed by kin slaying kin: Yanjun slew his brother to rise, and his son Chang slew him — "the disorders of Min began with Yanjun." Wang Chang, Wang Yanxi, Wang Yanzheng followed, and Min, torn within, was destroyed by Southern Tang in 945.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 68 ("Annals of Min") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 68 ("Annals of Min").

@@ -6,4 +6,4 @@ The edict made, Emperor He yielded, enfeoffed Duke of Baling; within days Yan's 
 
 The histories absolve him: "a child in a perilous seat," his abdication and his death were not his doing. The four southern dynasties — Song, Qi, Liang, Chen — all took the realm by "abdication," and most of the abdicated sovereigns were murdered: Emperor Gong of Jin, Emperor Shun of Song, Emperor He of Qi — none died in his bed. The falseness of "abdication" was exposed to the full in the southern courts. Qi was brief, but Liang followed, and the age passed to Emperor Wu of Liang.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 8 ("Benji of Emperor He"), and the *Liangshu*, ch. 1 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 8 ("Benji of Emperor He"), and the *Liangshu*, ch. 1 ("Benji of Emperor Wu").

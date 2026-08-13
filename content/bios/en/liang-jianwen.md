@@ -6,4 +6,4 @@ Two years he reigned as Jing's puppet: Jing made himself chancellor and "Grand G
 
 A man of letters on a dying throne: his palace style opened the sensuous poetry of the Qi–Liang age, the herald of Tang verse; but "letters in plenty, and in the storm he could not rise" — he watched the altars fall without the power to move. The Hou Jing rebellion was the hinge of the southern decline, and Jianwen was but its victim: the age of "four hundred eighty temples in the southern land" was at an end.
 
-> Local references: the punctuated critical edition of the *Liangshu*, ch. 4 ("Benji of Emperor Jianwen"), ch. 56 (biography of Hou Jing) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Liangshu*, ch. 4 ("Benji of Emperor Jianwen"), ch. 56 (biography of Hou Jing).

@@ -6,4 +6,4 @@ In the third month of the 2nd year of Yining, Emperor Yang was slain at Jiangdu 
 
 His enthronement, his abdication, and his death were none of his choosing: a child on the throne in the great chaos, the instrument of Li Yuan's "holding the emperor to command the lords." The historians say Sui fell to Emperor Yang's tyranny and his wars; Gong only inherited the disaster. The gazetteer keeps him in the Sui line as quasi-emperor. Sui fell and Tang rose, and the three hundred years of the Tang opened.
 
-> Local references: the punctuated critical edition of the *Suishu*, ch. 5 ("Benji of Emperor Gong"), and the *Jiu Tangshu*, ch. 1 ("Benji of Emperor Gaozu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Suishu*, ch. 5 ("Benji of Emperor Gong"), and the *Jiu Tangshu*, ch. 1 ("Benji of Emperor Gaozu").

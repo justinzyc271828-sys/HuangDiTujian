@@ -6,4 +6,4 @@ In the 1st year of Wutai the empress dowager returned to power and had Xiaoming 
 
 Xiaoming, "a child in the storm, the power with his mother and the strong ministers," sat thirteen years in the grip of Empress Hu and Yuan Cha, unable to move. The Six Garrisons rising was the fuse of Wei's ruin, and his death and the Heyin massacre opened the split of the realm — the fall of Northern Wei began in his reign.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 9 ("Benji of Emperor Xiaoming"), ch. 13 (biographies of the empresses) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 9 ("Benji of Emperor Xiaoming"), ch. 13 (biographies of the empresses).

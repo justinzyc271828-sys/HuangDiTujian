@@ -6,4 +6,4 @@ His reign had two great errors. The first was the northern expeditions: in the 7
 
 "Sharp and benevolent, his Yuanjia years well governed" — yet the expeditions too hasty and kin slaying kin, he ended in catastrophe. Of the southern sovereigns Wen was among the best; but the substance of the Yuanjia recovery was spent on the two expeditions and the family slaughter — the decline of Liu Song began in his own reign.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 5 ("Benji of Emperor Wen"), ch. 99 (the Two Parricides) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 5 ("Benji of Emperor Wen"), ch. 99 (the Two Parricides).

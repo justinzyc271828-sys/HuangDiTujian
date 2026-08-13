@@ -6,4 +6,4 @@ In the sixth month of the 2nd year of Yuanxi, Liu Yu had men hint at abdication;
 
 The fall of Jin, like the fall of Han and Wei, wore the name of abdication — but the sequence of Han yielding to Wei, Wei to Jin, and Jin to Song showed the mask wearing thin. Gong was murdered a year after his abdication, unlike Emperor Xian of Han, who ended his days in peace, or Emperor Yuan of Wei, who was spared. The historians say Jin fell not to Gong but to the accumulated disease of aristocratic politics; and in Liu Yu, a common soldier, taking the Sima realm, the age of the great clans began its turn.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 10 ("Benji of Emperor Gong"), and the *Songshu*, ch. 1 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 10 ("Benji of Emperor Gong"), and the *Songshu*, ch. 1 ("Benji of Emperor Wu").

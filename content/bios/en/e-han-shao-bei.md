@@ -6,4 +6,4 @@ He reigned about two hundred days before dying, and the histories did not even g
 
 In the tenth month the Marquis of Beixiang died. The Yans concealed the death, intending to raise another king; but the palace eunuch Sun Cheng and eighteen others struck first, slew Jiang Jing, and enthroned the deposed heir, the prince of Jiyin [[e-han-shun|Liu Bao]], as Emperor Shun; Empress Yan was moved out of the palace and the Yan clan fell. The marquis's two hundred days of "reign" were the stage scenery for the showdown between the Yan faction and the eunuchs — and the last quasi-emperor enthronement of doubtful standing in Eastern Han.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Shun), ch. 5 (Emperor An), the Annals of the Empresses, and the biography of the Eunuchs; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Shun), ch. 5 (Emperor An), the Annals of the Empresses, and the biography of the Eunuchs; Tan Qixiang's atlas, vol. 2.

@@ -6,4 +6,4 @@ After the Song founder took the throne, the Song armies attacked Taiyuan again a
 
 The histories say: "he could hold, but not extend." Northern Han defied Zhou and Song for over thirty years on the sliver of Hedong, by the strength of Taiyuan and the Liao alliance; but "Northern Han lived on the standoff of Song and Liao" — and with its fall the Song–Liao struggle began in earnest. Jun's stewardship, though without glory, was the stubborn tail of the Five Dynasties.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 70 ("Annals of the Eastern Han"), and the *Songshi*, ch. 482 (the Liu of Northern Han) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 70 ("Annals of the Eastern Han"), and the *Songshi*, ch. 482 (the Liu of Northern Han).

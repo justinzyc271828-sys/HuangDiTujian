@@ -8,4 +8,4 @@ In the 1st year of Zhangwu, on the rumored death of Emperor Xian, Bei took the t
 
 Chen Shou's verdict: "magnanimous, resolute, and generous, discerning in men and generous to officers — the manner of Gaozu and the bearing of a hero," yet "his cunning and resource fell short of the martial Wei." A shoemaker who never despaired through defeat after defeat, he yet built a corner of the tripartite realm; his last charge — "do no evil because it is small, omit no good because it is small" — and his name for benevolence outlived him, making him the most beloved of the Three Kingdoms' sovereigns.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 32 ("Biography of the Former Sovereign"), ch. 35 (biography of Zhuge Liang), ch. 47 ("Biography of the Wu Sovereign") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 32 ("Biography of the Former Sovereign"), ch. 35 (biography of Zhuge Liang), ch. 47 ("Biography of the Wu Sovereign").

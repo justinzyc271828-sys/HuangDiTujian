@@ -6,4 +6,4 @@ In thirty years Xiong's rule was the most benign of the age: light levies, easy 
 
 The historians say: "With a measure of benevolence Xiong nourished the refugees, and so held Bashu for nearly thirty years." Amid the tyrants of the Sixteen States his rule stands out; but the succession was unsecured and his sons tore the state — the good rule was a brief spring. Huan Wen of Eastern Jin later destroyed Cheng Han, and the enclave ended.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 121 (records of Li Xiong), ch. 120 (records of Li Te) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 121 (records of Li Xiong), ch. 120 (records of Li Te).

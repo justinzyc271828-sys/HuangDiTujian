@@ -8,4 +8,4 @@ His late years were wrecked by the succession: in the 4th year of Chiwu the crow
 
 Chen Shou's verdict: "Sun Quan, bending himself and swallowing humiliation, employing talent and valuing stratagems, had the rare heroism of a Goujian — a man of eminence. So he could hold the south of the river and complete the tripod's reign. But his nature was jealous and suspicious, quick to kill, and in his last years it grew worse." "A son should be born like Sun Zhongmou" passed into the people's praise; yet the succession's double error was the distant cause of Wu's fall — a pity that a lifetime's hero could not keep his own house.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 47 ("Biography of the Wu Sovereign"), ch. 54 (biography of Zhou Yu), ch. 58 (biography of Lu Xun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 47 ("Biography of the Wu Sovereign"), ch. 54 (biography of Zhou Yu), ch. 58 (biography of Lu Xun).

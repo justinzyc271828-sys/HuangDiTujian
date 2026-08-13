@@ -6,4 +6,4 @@ In the Kaiyun years Jin and Liao fought their great wars: the Khitan came south 
 
 The histories say: "he could neither serve the Khitan humbly nor stand on his own." A son-emperor's realm seeking to defy the Khitan with insufficient strength — "to fight, strength wanting; to make peace, the name already broken" — he ended in national ruin and personal captivity. The fall of Jin was the bitterest of the Five Dynasties: the Central Plains stood masterless, the Khitan entered Kaifeng for a time, and Liu Zhiyuan seized the chance to found Han.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 81–85 ("Annals of the Jin Young Emperor") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 81–85 ("Annals of the Jin Young Emperor").

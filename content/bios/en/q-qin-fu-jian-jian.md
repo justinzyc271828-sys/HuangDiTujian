@@ -6,4 +6,4 @@ In mid-Huangshi, Huan Wen of Eastern Jin campaigned north and entered the pass, 
 
 A Di who seized Guanzhong in the chaos and founded Former Qin, Jian showed real generalship in denying Huan Wen. He founded the state but did not live to perfect it; the tyrant Sheng and the rise of Fu Jian were the work of his successors. Former Qin became the strongest of the Sixteen States under Fu Jian — but its roots were planted in Jian's reign.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 112 (records of Fu Jian), ch. 113 (records of Fu Jian the Great Ancestor) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 112 (records of Fu Jian), ch. 113 (records of Fu Jian the Great Ancestor).

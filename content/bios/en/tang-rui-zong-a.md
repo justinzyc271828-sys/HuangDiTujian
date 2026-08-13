@@ -6,4 +6,4 @@ Through the Chuigong, Yongchang, and Zaichu years Wu moved toward the reality of
 
 His enthronement and his reduction were none of his choosing; his quiet yielding kept him safe. His restoration after the Tanglong coup is recorded under "Emperor Ruizong of Tang (Restored)."
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Ruizong"), ch. 6 ("Benji of Empress Zetian") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Ruizong"), ch. 6 ("Benji of Empress Zetian").

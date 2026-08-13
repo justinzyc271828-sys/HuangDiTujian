@@ -6,4 +6,4 @@ In the 1st year of Jianchu Chang took the imperial throne at Chang'an, styling t
 
 A Qiang who rose with the times, slew Fu Jian, and founded a realm — the historians call him an adventurer; his slaying of his lord and his jealousy blacken his name among the Sixteen States' sovereigns. Later Qin rose by Chang's cunning and lost its virtue by his crime; his son Yao Xing's patronage of learning and Buddhism partly repaired the name, but could not wash it clean.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 116 (records of Yao Chang), ch. 114 (records of Fu Jian) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 116 (records of Yao Chang), ch. 114 (records of Fu Jian).

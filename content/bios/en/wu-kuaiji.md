@@ -6,4 +6,4 @@ In the 1st year of Taiping Jun died of illness, and his cousin Sun Chen took the
 
 The histories call Liang "sharp-witted though a child"; his own judgments of court affairs and his recognition of Sun Chen's villainy show no dullard. But a nine-year-old sovereign amid a succession of strong ministers was at the mercy of the age, and he ended deposed and dead. After Sun Quan's death Wu changed sovereigns three times in ten years — Liang, Xiu, Hao — each change by the strong ministers' will: the deposition of Sun Liang opened the era in which Wu's throne passed by coup.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 64 (biographies of Zhuge Ke and Sun Chen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 64 (biographies of Zhuge Ke and Sun Chen).

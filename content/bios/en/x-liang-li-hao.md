@@ -6,4 +6,4 @@ His rule honored letters: he founded an academy, enlarged the students to five h
 
 The historians say of him: "of outstanding bearing, with the air of a hero," yet "his land was not a hundred commanderies, his host not ten thousand men" — no match for Mengxun. Western Liang lasted twenty-one years; its government was admirable, but between strong neighbors culture could not hold against arms. His descendants served Northern Wei and passed into the Sui and Tang — the Tang founder Li Yuan claiming descent from King Wuzhao of Liang: the state died, but the Li line ran on to an empire.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 87 (biography of the Martial King of Liang), ch. 129 (records of Juqu Mengxun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 87 (biography of the Martial King of Liang), ch. 129 (records of Juqu Mengxun).

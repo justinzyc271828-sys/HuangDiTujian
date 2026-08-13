@@ -6,4 +6,4 @@ Wen, who harbored designs, sought to restore his name by deposing the emperor: i
 
 In the 11th year of Taiyuan the Duke of Haixi died in Wu at forty-five. The historians say: "The emperor was in fact without great fault; Wen deposed him to awe the court." That a strong minister could depose an emperor on a word began with Huan Wen's act; Huan Xuan's usurpation and Liu Yu's abdication followed the same road. A mediocre sovereign done to death by calumny, he kept his life but not his throne — and the dignity of the imperial office, in Eastern Jin, was never quite the same.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of the Duke of Haixi"), ch. 98 (biography of Huan Wen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of the Duke of Haixi"), ch. 98 (biography of Huan Wen).

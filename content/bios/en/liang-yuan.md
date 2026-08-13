@@ -6,4 +6,4 @@ Three years he reigned: in the 2nd year of Chengsheng his brother the Prince of 
 
 Sharp and studious but steeped in jealousy, the historians say "his error was not returning to Jiankang in time": with the rebellion ended, the Liang house should have stood on Jiankang, but Yuan hugged Jiangling and slew his kin until Western Wei struck through the gap. Liang fell not to Hou Jing but to Yuan's jealousy and his short sight; and the fire of Jiangling burned away the culture that a hundred years of the southern courts had built.
 
-> Local references: the punctuated critical edition of the *Liangshu*, ch. 5 ("Benji of Emperor Yuan"), and the *Zhoushu*, ch. 15 (biography of Yujin) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Liangshu*, ch. 5 ("Benji of Emperor Yuan"), and the *Zhoushu*, ch. 15 (biography of Yujin).

@@ -6,4 +6,4 @@ The Yuanshi years looked like an age of flourishing culture, but every flourish 
 
 In the twelfth month of the fifth Yuanshi year Ping died at fourteen. The benji records only the word "died"; the Wang Mang biography carries the tale of poisoned wine. The two versions stand together, and history cannot decide. After his death Mang raised Xuan's great-great-grandson Ying as heir, styled "the Infant," took the regency, and two years later took the dynasty itself. Ping's annals survive, but no matter of state passed through his hands: he was the most complete puppet on the Western Han throne — brought in at nine, dead at fourteen, the five years between being a script written entirely by others.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 12 (Benji of Emperor Ping) and ch. 99 (Biography of Wang Mang); Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 12 (Benji of Emperor Ping) and ch. 99 (Biography of Wang Mang); Tan Qixiang's atlas, vol. 2.

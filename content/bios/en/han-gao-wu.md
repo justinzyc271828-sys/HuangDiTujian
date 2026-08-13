@@ -6,4 +6,4 @@ When the Khitan withdrew north, Zhiyuan came down from Taiyuan, entered Kaifeng,
 
 The histories say: "he watched the Khitan quietly and took his realm by the chance." Later Han was a realm picked up: the Khitan destroyed Jin and would not hold it, and Zhiyuan slipped in — no founding of the Five Dynasties came easier; and none fell faster, two emperors and four years. "Swift to rise, swift to fall" — Later Han was the briefest of the Five.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 99–100 ("Annals of the Han Gaozu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 99–100 ("Annals of the Han Gaozu").

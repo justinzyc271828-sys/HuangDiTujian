@@ -6,4 +6,4 @@ He would not be Hu's puppet: with Li Zhi, Sun Heng, and the others he plotted ag
 
 The histories say: "a child receiving the abdication, the power with the Duke of Jin, Hu." Northern Zhou ran on the *Zhouli* — the title of Heavenly King, the six ministries, all Tai's design; but the throne was not yet strong when the minister was, and Xiaomin was but a passing figure. The throne of Zhou recovered only when Emperor Wu slew Hu — Xiaomin's death was the first eruption of the minister's tyranny in Northern Zhou.
 
-> Local references: the punctuated critical edition of the *Zhoushu*, ch. 3 ("Benji of Emperor Xiaomin"), ch. 11 (biography of the Duke of Jin, Hu) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Zhoushu*, ch. 3 ("Benji of Emperor Xiaomin"), ch. 11 (biography of the Duke of Jin, Hu).

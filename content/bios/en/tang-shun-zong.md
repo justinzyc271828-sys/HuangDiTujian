@@ -6,4 +6,4 @@ But the eunuch Ju Wenzhen and the rest, linking with the feudatories, pressed th
 
 The histories say: "his reign was brief; he meant to clear the abuses and could not finish." A sick man on the throne, his will to reform and his choice of men might have restored the Tang; but the eunuchs' strength and the depth of the old abuses were beyond one reign. The reform failed, yet its program — check the eunuchs, abolish the market-depredations — was the forerunner of Wenzong's Ganlu attempt: the eunuch domination of Tang was by then unbreakable.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 14 ("Benji of Emperor Shunzong"), and Han Yu's *Shunzong Shilu* (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 14 ("Benji of Emperor Shunzong"), and Han Yu's *Shunzong Shilu*.

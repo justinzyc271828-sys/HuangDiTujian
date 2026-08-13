@@ -6,4 +6,4 @@ In the 1st year of Guangming, Huang Chao crossed the Huai, took Luoyang, and ent
 
 He died after returning to the capital in the 1st year of Wende, aged twenty-seven. The histories say: "a child in exile, the Tang near its fall." The Huang Chao rebellion was the direct prelude to the fall: the feudatories grew stronger than ever (Zhu Wen and Li Keyong were both rebel generals), the eunuch disaster worse — "the fall of Tang was truly prepared in Xizong's reign."
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 19b ("Benji of Emperor Xizong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 19b ("Benji of Emperor Xizong").

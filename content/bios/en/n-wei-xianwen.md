@@ -6,4 +6,4 @@ In the 5th year of Huangxing he abdicated to his heir Hong (Emperor Xiaowen) and
 
 His abdication, whether high-minded or compelled, brought Xiaowen early to the throne and advanced the sinicization reforms by a generation. The histories say of him: "sharp from youth, benevolent and generous when grown," yet "soaked in the Buddha, he came to abdicate." The struggle between the throne and the empress dowager's power grew fierce in his reign — the thread that runs through Xiaowen's reforms and Xuanwu's Buddhism.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 6 ("Benji of Emperor Xianwen"), ch. 13 (biographies of the empresses) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 6 ("Benji of Emperor Xianwen"), ch. 13 (biographies of the empresses).

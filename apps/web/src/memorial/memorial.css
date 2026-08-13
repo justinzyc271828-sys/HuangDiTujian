@@ -1050,3 +1050,60 @@
     margin: 0 auto;
   }
 }
+
+/* 侧栏顶行:返回在左,分享箭头在右 */
+.spread-topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.1rem;
+}
+
+.spread-topbar .spread-back {
+  margin-bottom: 0;
+}
+
+/* 详情页分享按钮:小箭头图标,复制成功变勾 */
+.share-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  color: var(--toc-ink-dim);
+  background: transparent;
+  border: 1px solid var(--edge-gold);
+  border-radius: 2px;
+  cursor: pointer;
+  opacity: 0.85;
+  transition: opacity 0.16s ease, color 0.16s ease, border-color 0.16s ease;
+}
+
+.share-btn:hover {
+  opacity: 1;
+  color: var(--gold-bright);
+  border-color: var(--gold-bright);
+}
+
+.share-btn.copied {
+  opacity: 1;
+  color: #9fc08d;
+  border-color: rgba(159, 192, 141, 0.55);
+}
+
+.share-toast {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  z-index: 5;
+  padding: 2px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+  color: #9fc08d;
+  background: rgba(20, 15, 10, 0.9);
+  border: 1px solid rgba(159, 192, 141, 0.45);
+  border-radius: 2px;
+  pointer-events: none;
+}

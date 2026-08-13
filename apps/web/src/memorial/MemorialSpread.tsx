@@ -6,6 +6,7 @@ import MemorialToc from "./MemorialToc";
 import MemorialMain from "./MemorialMain";
 import MemorialMap from "./MemorialMap";
 import { useCollection } from "../hooks/useCollection";
+import { ShareButton } from "../components/ShareButton";
 import { TOC_ITEMS } from "./memorialUtils";
 import { useLang } from "../i18n";
 
@@ -54,9 +55,12 @@ export default function MemorialSpread({ site, emperor, axes, profile }: Props) 
   return (
     <div className="memorial-spread" ref={rootRef}>
       <div className="spread-left">
-        <Link to="/" className="spread-back">
-          {t("back")}
-        </Link>
+        <div className="spread-topbar">
+          <Link to="/" className="spread-back">
+            {t("back")}
+          </Link>
+          <ShareButton id={emperor.id} />
+        </div>
         <MemorialToc
           site={site}
           emperor={emperor}

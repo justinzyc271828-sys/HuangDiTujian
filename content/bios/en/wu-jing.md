@@ -6,4 +6,4 @@ In person rule Xiu governed diligently: he decreed chairs of the Five Classics, 
 
 In the 6th year of Yong'an, with Shu fallen and the Wei armies massed on the border, Xiu fell ill; the crown prince was a child, and he entrusted the heir to the chancellor Puru Yangxing. He died that July at thirty, posthumously styled Jing. After his death Yangxing and the others, deeming the child heir too weak for the hour, set aside the late sovereign's will and brought in Sun Hao, marquis of Wucheng — the precedent of enthronement by coup that undid Wu. Six years of slaying Sun Chen, founding schools, and ruling in person were the good deeds of a competent sovereign; his early death was Wu's misfortune.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 64 (biography of Sun Chen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 64 (biography of Sun Chen).

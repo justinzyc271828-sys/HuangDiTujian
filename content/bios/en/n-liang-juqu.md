@@ -6,4 +6,4 @@ His crowning deed was the destruction of Western Liang: in the 10th year of Xuan
 
 The historians say of him: "bold of nature, of real courage, skilled in shifts." A Hu who slew his lord to take power, he had cunning in plenty and faith in little; yet he held Hexi more than thirty years, kept his borders and his people, and furthered letters and the faith — the longest-lived of the Five Liang states. Its fall also sounded the end of the Sixteen States age.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 129 (records of Juqu Mengxun), and the *Weishu*, biography of Juqu Mengxun (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 129 (records of Juqu Mengxun), and the *Weishu*, biography of Juqu Mengxun.

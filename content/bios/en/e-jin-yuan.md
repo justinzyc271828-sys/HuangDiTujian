@@ -6,4 +6,4 @@ In the 1st year of Jianwu, with Emperor Min's fate unconfirmed, Rui styled himse
 
 A distant kinsman of the imperial house, Yuan crossed south and saved the caps and gowns, re-founding the Jin line — a service to the altars. But the co-rule of the crossed clans and the local houses pushed the throne aside and the great clans up; the age of aristocratic politics, and of "Wang and Sima sharing the realm," had begun.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 6 ("Benji of Emperor Yuan"), ch. 65 (biography of Wang Dao) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 6 ("Benji of Emperor Yuan"), ch. 65 (biography of Wang Dao).

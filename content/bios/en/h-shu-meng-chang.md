@@ -6,4 +6,4 @@ But "long peace bred ease and pleasure": in his last years he "grew luxurious an
 
 The histories say: "he lost the realm to ease and pleasure." Later Shu held the shield of the two Chuan and the wealth of the heavenly prefecture, "the spring of the Jinjiang"; but "born in ease, dead in ease" — Chang fell not to Song's strength but to the two words "ease and pleasure." His fall began the closing of the Ten: Southern Han, Southern Tang, and Wuyue followed into Song.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 64 ("Annals of Later Shu"), and the *Songshi*, ch. 479 (the Meng of Xishu) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 64 ("Annals of Later Shu"), and the *Songshi*, ch. 479 (the Meng of Xishu).

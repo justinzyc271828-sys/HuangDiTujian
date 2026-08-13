@@ -6,4 +6,4 @@ In the 3rd year of Taining he met Shi Le of Later Zhao in battle west of Luoyang
 
 Yao's courage exceeded his counsel, which fell short of Shi Le's: he fixed his capital at Chang'an without the support of the east, the Hu and the Han were estranged, and the people's hearts were not with him — one defeat at Luoyang ended the state and the man. The historians say he was "sharp from youth and of more than common courage when grown," but "government lost the way and the people scattered": Former Zhao fell for want of men's hearts.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 103 (records of Liu Yao), ch. 104 (records of Shi Le) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 103 (records of Liu Yao), ch. 104 (records of Shi Le).

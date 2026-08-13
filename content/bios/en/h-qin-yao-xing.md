@@ -6,4 +6,4 @@ His rule favored letters and Buddhism: in the 3rd year of Hongshi he brought Kum
 
 But his succession was ill-managed: the heir Hong and his brother Bi contended, and while Xing lay ill his sons fought, and the state's strength ebbed. He died in the 1st year of Yonghe; in the 13th, Liu Yu of Eastern Jin destroyed Later Qin. The historians credit him with "care for government" and note "though law and punishment were imperfect, manners and teaching were admirable": in civil rule he stands first among the Sixteen States' sovereigns, but in arms he fell short of his father.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 117 (records of Yao Xing), ch. 118 (records of Yao Hong) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 117 (records of Yao Xing), ch. 118 (records of Yao Hong).

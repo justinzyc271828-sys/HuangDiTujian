@@ -6,4 +6,4 @@ Seventeen years he reigned as the Xu's puppet: after Xu Wen's death, Xu Zhigao (
 
 The histories say of Pu: "he ceded the realm with folded hands." Yang Wu fell not to Pu's dullness but to the Xu's strength — Xu Wen, an adopted son, took the Yang power, and the "taking of Wu" was already fixed from Xingmi's death. Pu, a puppet sovereign, only folded his hands; the rise of Southern Tang was the continuation of Yang Wu.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 61 ("Annals of Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 61 ("Annals of Wu").

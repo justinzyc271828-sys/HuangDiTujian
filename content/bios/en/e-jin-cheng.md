@@ -6,4 +6,4 @@ After the Su Jun revolt the center was spent: the child emperor left government 
 
 In the sixth month of the 8th year of Xiankang he died at twenty-two. On his deathbed, Yu Bing — "with strong enemies abroad, a grown sovereign should be raised" — had his younger brother Yue brought in, opening the Eastern Jin practice of brother succeeding brother. The historians judge Cheng a modest sovereign who left government to his ministers; his reign saw the greatest upheaval since the founding, the Su Jun revolt, restored by Tao Kan and the great officers — and the great clans' grip on government only tightened.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 7 ("Benji of Emperor Cheng"), ch. 73 (biography of Yu Liang) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 7 ("Benji of Emperor Cheng"), ch. 73 (biography of Yu Liang).

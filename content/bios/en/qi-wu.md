@@ -6,4 +6,4 @@ The Yongming years shone in culture: the emperor and the Prince of Jingling, Xia
 
 He died in the 11th year of Yongming at fifty-four; his grandson Zhaoye succeeded. The histories say he "attended to government and kept it simple," yet "trusted the petty men, and the court's discipline slackened." The Yongming recovery was the last glow of the southern golden age: within ten years of his death Xiao Luan usurped, the Marquis of Donghun raged, Xiao Yan took the realm — the glory of Yongming passed like a dream.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 3 ("Benji of Emperor Wu"), ch. 52 (biographies of the literary men) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 3 ("Benji of Emperor Wu"), ch. 52 (biographies of the literary men).

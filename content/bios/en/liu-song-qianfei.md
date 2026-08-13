@@ -6,4 +6,4 @@ In the eleventh month of the 1st year of Jinghe, the Prince of Xiangdong, Liu Yu
 
 The historians see in him not a monster but the product of the southern palace system: since Emperor Wen's slaying and Xiaowu's massacre, kin slaying kin had become the instinct of Liu Song. One year on the throne, and the state never recovered: under Emperor Ming the family slaughters went on, the Later Deposed Emperor was slain, Emperor Shun abdicated — within twenty years Liu Song was gone.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 7 ("Benji of the Former Deposed Emperor"), ch. 8 ("Benji of Emperor Ming") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 7 ("Benji of the Former Deposed Emperor"), ch. 8 ("Benji of Emperor Ming").

@@ -6,4 +6,4 @@ In the 1st year of Tianfu the eunuch Han Quanhui carried Zhaozong to Fengxiang, 
 
 In the 1st year of Tianyou Quanzhong forced the move to Luoyang, demolishing Chang'an's palaces; in the eighth month he had Jiang Xuanhui and the others slay Zhaozong in the Jiaodian Hall of Luoyang, aged thirty-eight — and Emperor Ai, the last of the Tang, was set up. The histories say: "he meant to restore the realm, and was in the end bound by Quanzhong." His realm was already like eggs piled: his will to restore is to be honored, but "the feudatories' strength and the depth of the old abuses" were beyond any one man. With his slaying, the fall of Tang was unavoidable.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 20a ("Benji of Emperor Zhaozong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 20a ("Benji of Emperor Zhaozong").

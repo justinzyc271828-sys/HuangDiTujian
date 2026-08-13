@@ -6,4 +6,4 @@ In the Shengping years Wen held Jingzhou and Yangzhou, commanding the court from
 
 In the fifth month of the 5th year of Shengping Mu died at nineteen. The historians say: "A child on the throne, the government with the strong ministers." Huan Wen's northern victories were deeds of the reign, not of the sovereign; yet a two-year-old holding the throne seventeen years without the state's collapse was thanks to Empress Chu and the great officers. Eastern Jin, through five sovereigns, had settled into its pattern — the great clans contending, and Huan Wen's northern glory becoming the springboard of his ambition.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of Emperor Mu"), ch. 98 (biography of Huan Wen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of Emperor Mu"), ch. 98 (biography of Huan Wen).

@@ -6,4 +6,4 @@ His government aimed at stability: he made his heir Tao regent — the "heir's r
 
 The histories say of him: "sharp, gentle, of both letters and arms." A steward who, in the moment of Liu Yu's great expedition, extended his borders and reaped where others sowed — his vision matched Daowu's own. His reign made the state rich and strong; the unification of the north under Taiwu stood on the foundations his father and he had laid.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 3 ("Benji of Emperor Mingyuan") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 3 ("Benji of Emperor Mingyuan").

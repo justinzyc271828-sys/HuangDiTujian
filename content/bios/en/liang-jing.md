@@ -6,4 +6,4 @@ Three years he reigned: in the 1st year of Taiping Baxian held the Qi armies at 
 
 "Caught in the storm as a child, caught in the abdication": his accession, his abdication, and his death were all beyond his choosing. After Liang fell, the southern stage passed to Chen Baxian — and Chen lasted but thirty-three years, the briefest of the southern dynasties. The historians absolve Fangzhi: a thirteen-year-old watching his grandfather's realm pass was not the cause; Liang fell to the Hou Jing rebellion and the family slaughter, the disease long planted.
 
-> Local references: the punctuated critical edition of the *Liangshu*, ch. 6 ("Benji of Emperor Jing"), and the *Chenshu*, ch. 1 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Liangshu*, ch. 6 ("Benji of Emperor Jing"), and the *Chenshu*, ch. 1 ("Benji of Emperor Gao").

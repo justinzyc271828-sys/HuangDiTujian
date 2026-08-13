@@ -6,4 +6,4 @@ In the 3rd year of Zhenming, Emperor Wen of Sui sent He Ruobi and Han Qinhu sout
 
 Taken into Sui, he was made Duke of Changcheng and died at Luoyang in the 4th year of Renshou, aged fifty-two. The historians say of him: "a lost sovereign and the father of the sensuous verse"; his talent was real, but "with the gifts of a pleasure-lover on the throne of a crumbling age," ruin overtook him. Chen fell not to the strength of Sui but to his own indulgence — the *Jade Trees* remains the eternal warning.
 
-> Local references: the punctuated critical edition of the *Chenshu*, ch. 6 ("Benji of the Last Sovereign"), and the *Suishu*, ch. 2 ("Benji of Emperor Wen") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Chenshu*, ch. 6 ("Benji of the Last Sovereign"), and the *Suishu*, ch. 2 ("Benji of Emperor Wen").

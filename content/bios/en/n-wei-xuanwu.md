@@ -6,4 +6,4 @@ His age saw Buddhism at its height: the princes and nobles raced to raise monast
 
 He died in the 4th year of Yanchang at thirty-three; his son Xu, Emperor Xiaoming, succeeded, with Empress Hu entering the government — the turn of Northern Wei from height to decline. The histories say he "truly loved letters and, once on the throne, gave real care to government," yet "trusted the petty men, and the court's discipline slackened." He inherited Xiaowen's enterprise but not his purpose; the decline of Wei began in his reign.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 8 ("Benji of Emperor Xuanwu"), ch. 114 ("Treatise on Buddhism and Daoism") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 8 ("Benji of Emperor Xuanwu"), ch. 114 ("Treatise on Buddhism and Daoism").

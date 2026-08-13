@@ -8,4 +8,4 @@ The lenient side had its price: in the third Jianchu year Dou was made empress, 
 
 Seen beside [[e-han-guangwu|Emperor Guangwu of Han]] and Emperor Ming, Zhang traces the path of Eastern Han from founding to consolidation: Guangwu settled the realm by the soft way, Ming disciplined it with strictness, and Zhang maintained it with lenience — achieving the Ming-Zhang age while handing the fuse of the consort-clan question to his successors.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 3 (Benji of Emperor Zhang), ch. 2 (Emperor Ming), and ch. 4 (Emperor He); the biographies of Ban Gu, Ban Chao, and the Annals of the Empresses; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 3 (Benji of Emperor Zhang), ch. 2 (Emperor Ming), and ch. 4 (Emperor He); the biographies of Ban Gu, Ban Chao, and the Annals of the Empresses; Tan Qixiang's atlas, vol. 2.

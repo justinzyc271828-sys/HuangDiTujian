@@ -6,4 +6,4 @@ Over twenty years he kept his borders and opened his commerce: serving Liang and
 
 The histories say: "he kept his borders and opened the trade, and Hunan was at peace." Chu, a realm built on tea, was the most commercial of the Ten; but after Ma Yin's death "the sons contended, brothers slaying brothers," and within two generations Chu fell to Southern Tang in 951. Chu rose on commerce and fell on discord — one lesson of the age.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 66 ("Annals of Chu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 66 ("Annals of Chu").

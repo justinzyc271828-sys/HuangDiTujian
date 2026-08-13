@@ -6,4 +6,4 @@ In the Yongyuan years he "kept himself hidden," leaving the government to the fa
 
 The histories say: "of slow speech, keeping to himself," yet "cruel, extravagant, and lawless beyond measure." From Gao's founding, Qi ran seven sovereigns and twenty-four years — Luan's usurpation and the princes' slaughter, the Marquis's tyranny and the realm's desertion: Xiao Yan's succession was only the last step. The Marquis's fall is another instance of the southern tyrant's swift ruin; the golden lotus and the slaughter remain the eternal warning.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 7 (the Marquis of Donghun), and the *Liangshu*, ch. 1 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 7 (the Marquis of Donghun), and the *Liangshu*, ch. 1 ("Benji of Emperor Wu").

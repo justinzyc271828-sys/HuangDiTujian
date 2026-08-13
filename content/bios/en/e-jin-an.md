@@ -6,4 +6,4 @@ Twenty-two years he sat while the dynasty was turned upside down: in the 3rd yea
 
 In the 14th year of Yixi, in haste for the abdication, Liu Yu had the emperor strangled in the eastern hall and set up his brother Dewen as Emperor Gong. A mindless man on the throne for twenty-two years, Dezong watched Huan Xuan's usurpation and Liu Yu's rise without ever knowing them — Eastern Jin's rise and fall passed him by. The historians say: "Unfortunate, he left all power to the ministers." That such a sovereign prolonged the Jin line twenty years was the accident of the strong ministers' rivalry; the moment Liu Yu made up his mind, the mandate passed.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 10 ("Benji of Emperor An"), ch. 99 (biography of Huan Xuan) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 10 ("Benji of Emperor An"), ch. 99 (biography of Huan Xuan).

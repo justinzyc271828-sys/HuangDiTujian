@@ -6,4 +6,4 @@ Thirteen years he reigned, his punishments lenient and his government simple, le
 
 The histories say: "divine from birth, benevolent and generous when grown." A thirteen-year-old who steadied the realm after Taiwu's sudden death, restored the faith, and opened the Yungang age — his stewardship was real. The Buddhist revival and the grottoes begin with him; and the entry of Empress Feng into the palace laid the thread of the sinicization to come.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 5 ("Benji of Emperor Wencheng"), ch. 114 ("Treatise on Buddhism and Daoism") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 5 ("Benji of Emperor Wencheng"), ch. 114 ("Treatise on Buddhism and Daoism").

@@ -6,4 +6,4 @@ He reigned about five months. In the first Yongjia year bandits rose in force at
 
 No policy, no will, not even a settled era-name system of his own belongs to Chong's reign (Yongjia was the era adopted after Jiankang, its government all Liang's doing). His significance is that the Han throne had grown empty enough to be filled by an infant — and the next infant to be filled in, the eight-year-old [[e-han-zhi|Emperor Zhi]], would end himself with the phrase "arrogant general," opening the curtain on the Huan-Ling age.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Chong) and the biography of Liang Ji; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Chong) and the biography of Liang Ji; Tan Qixiang's atlas, vol. 2.

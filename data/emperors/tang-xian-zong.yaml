@@ -42,7 +42,7 @@ portrait:
   variants: []
   style_version: v1
   appearance_basis: |
-    正史不载容貌细节，传统帝王画像多属后世图绘。MVP 用占位图；定稿前依时代冠服作艺术想象。
+    正史不载容貌细节，传统帝王画像多属后世图绘。图像为依时代冠服所作的 AI 艺术想象。
   prompt_ref: tools/prompts/portrait-v1.md
   disclaimer: 艺术想象，非考古复原
 bio:

@@ -6,4 +6,4 @@ Seven years he reigned, urging farming and lightening corvée, repairing the reg
 
 He died in the 1st year of Tiankang at forty-five; his son Bozong, the Deposed Emperor, succeeded. The histories say: "of real military ability, he held the south of the river." Cramped between Northern Qi and Northern Zhou, Chen won a decade of peace through his lenient government and his martial gifts — pity he died early, leaving a child heir; his brother Xuan deposed the child, and the foundations of Chen turned toward decline.
 
-> Local references: the punctuated critical edition of the *Chenshu*, ch. 3 ("Benji of Emperor Wen") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Chenshu*, ch. 3 ("Benji of Emperor Wen").

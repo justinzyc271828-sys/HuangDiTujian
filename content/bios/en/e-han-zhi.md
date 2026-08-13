@@ -6,4 +6,4 @@ Zhi was sharp-witted as a child; the histories say he was "quick and clever from
 
 After Zhi's death Liang Ji raised the marquis of Liwu, [[e-han-huan|Liu Zhi]], as Emperor Huan, and the Liang scourge ran another thirteen years until Huan destroyed it with the eunuchs in the second Yanxi year. Zhi's death is the footnote to Liang Ji's power, and the origin of the士人's collective memory of the word "arrogant" — "the arrogant general" has been the eternal epithet of the overbearing minister ever since.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Zhi) and the biography of Liang Ji; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 6 (Benji of Emperor Zhi) and the biography of Liang Ji; Tan Qixiang's atlas, vol. 2.

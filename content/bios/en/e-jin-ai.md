@@ -6,4 +6,4 @@ In the 1st year of Longhe Huan Wen urged moving the capital to Luoyang; the cour
 
 The histories record his death plainly: the drugs. His fasting and elixirs wasted him — the strange fate of an Eastern Jin sovereign. He was no tyrant and did nothing wrong; he simply destroyed himself chasing immortality. Huan Wen's power swelled in his reign, and the plot of deposition was already in view. Of the Eastern Jin emperors after Ming, most were children or weaklings; Ai, grown and healthy, was the more to be pitied for wasting himself.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of Emperor Ai"), ch. 98 (biography of Huan Wen) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 8 ("Benji of Emperor Ai"), ch. 98 (biography of Huan Wen).

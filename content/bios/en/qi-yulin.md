@@ -6,4 +6,4 @@ Within a year of his accession Luan, governing in his name, gathered the power: 
 
 The histories say of him: "handsome in his youth, a master of clerical script," yet "artful and dissolute, reckless in pleasure." The grandson of Wu, the heir of Wenhui, he should have carried on the Yongming recovery; but "untaught in childhood, ungoverned in youth," he was seized by Luan. His fall was the hinge of the Qi line: after it, Luan slaughtered the sons of Gao and Wu, the princes' strength was spent, and the Marquis of Donghun's ruin and Xiao Yan's succession were but its aftermath.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 4 (the Prince of Yulin), ch. 6 ("Benji of Emperor Ming") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 4 (the Prince of Yulin), ch. 6 ("Benji of Emperor Ming").

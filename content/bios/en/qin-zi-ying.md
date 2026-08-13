@@ -6,4 +6,4 @@ With Gao gone, Qin was past saving. Liu Bang broke the Wu Pass, took Lantian, an
 
 Ziying enters the histories as the last king of Qin. He never bore the imperial title and stands outside the imperial line, so the gazetteer lists him as quasi-emperor. His resolution in slaying Zhao Gao shows a ruler equal to a desperate hour; but inheriting the ruin of the book-burning and scholar-burying age, against the converging six states, even a worthy sovereign could not have turned the tide. The historians' regret is a vindication: Qin fell not by his hand but by the tyranny of the First and Second Emperors.
 
-> Local references: the punctuated critical edition of the *Shiji*, ch. 6 ("Basic Annals of Qin"), ch. 8 ("Basic Annals of Gaozu"), ch. 7 ("Basic Annals of Xiang Yu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Shiji*, ch. 6 ("Basic Annals of Qin"), ch. 8 ("Basic Annals of Gaozu"), ch. 7 ("Basic Annals of Xiang Yu").

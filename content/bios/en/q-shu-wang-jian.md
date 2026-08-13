@@ -6,4 +6,4 @@ He was "bold and suspicious, good at handling his soldiers": he employed the old
 
 The histories say: "a bandit who rose to hold the lands of Shu." Former Shu stood on the shield of the two Chuan and the wealth of the heavenly prefecture, a strong state of the Ten; but Wang Jian's last years distrusted his meritorious men, and his heir Wang Yan was "a child at ease" — Former Shu fell in two generations, destroyed by Later Tang (925). "Swift to rise, swift to fall" — the fate of Former Shu is the Ten Kingdoms in miniature.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 63 ("Annals of Former Shu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 63 ("Annals of Former Shu").

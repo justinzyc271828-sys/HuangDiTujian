@@ -6,4 +6,4 @@ In the 1st year of Jingping Wei came south, and the commanderies of Si, Yan, and
 
 His deposition opened the southern dynasties' practice of deposition by ministers: for three centuries to come, deposed sovereigns and murdered lords were common, from Xiao Daocheng's slaying of the Later Deposed Emperor to Xiao Luan's deposition of the Princes of Yulin and Hailing. That a young emperor lost his realm to play was his own doing; but the pattern — a child on the throne, strong ministers usurping — began with Liu Song: Wu's jealousy and the Young Emperor's frivolity together colored the politics of the age.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 4 ("Benji of the Young Emperor"), ch. 43 (biography of Xu Xianzhi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 4 ("Benji of the Young Emperor"), ch. 43 (biography of Xu Xianzhi).

@@ -8,4 +8,4 @@ The twenty-four years at Xu were the years of the Cao house's conquest of the re
 
 As Duke of Shanyang he lived another fourteen years, dying in the second Qinglong year of Wei at fifty-four, buried with the rites of a Han emperor. The historians' verdict — "he got the throne in hardship and drifting, tossed on the waves of the age" — fits him exactly: the Han mandate, opened by [[e-han-guangwu|Emperor Guangwu]]'s restoration, closed with Xian's abdication.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 9 (Benji of Emperor Xian) and the biography of Dong Zhuo; the *Sanguozhi*, biographies of Emperor Wu (Cao Cao) and Emperor Wen (Cao Pi); Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 9 (Benji of Emperor Xian) and the biography of Dong Zhuo; the *Sanguozhi*, biographies of Emperor Wu (Cao Cao) and Emperor Wen (Cao Pi); Tan Qixiang's atlas, vol. 2.

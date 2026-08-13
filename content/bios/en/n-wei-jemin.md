@@ -6,4 +6,4 @@ About a year he reigned as the Erzhu's puppet: Erzhu Zhao held Jinyang, Erzhu Sh
 
 The histories say: "he hid by feigning deafness, and could not escape in the end." In Wei's last years the princes lived and died by the strong ministers' will; Gong's feigned deafness saved him for a time, and Gao Huan destroyed him in the end. At his deposition, the records say, "he descended from the carriage, bowed, and went with folded hands" — a composure rare among the princes of that age. The gazetteer lists him as quasi-emperor for his brief reign and his place in the Wei line.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 11 ("Benji of the Former Deposed Emperor") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 11 ("Benji of the Former Deposed Emperor").

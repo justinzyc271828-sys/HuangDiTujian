@@ -6,4 +6,4 @@ His reign opened with some promise: Confucian scholars such as Gong Yu were summ
 
 In the first Jingning year the Huhanye chanyu came to court seeking a bride, and Yuan granted him the palace woman Wang Zhaojun; her departure became the last great chapter of Han-Xiongnu marriage alliance. In the fifth month of the same year, Yuan died and [[han-cheng-di|Emperor Cheng]] succeeded. The historians wrote that Yuan was "fettered by the letter of the classics, irresolute to the end"; in the Yuan-Cheng age, consort-clan and eunuch problems accumulated in turn, and the decline of the house of Han began here.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 9 (Benji of Emperor Yuan), ch. 94 (Treatise on the Xiongnu), and the biographies of Gong Yu and Chen Tang; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 9 (Benji of Emperor Yuan), ch. 94 (Treatise on the Xiongnu), and the biographies of Gong Yu and Chen Tang; Tan Qixiang's atlas, vol. 2.

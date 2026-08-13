@@ -6,4 +6,4 @@ Twelve years he reigned, and Qi went from decline to death: in the 3rd year of W
 
 Taken to Chang'an, he was made Duke of Wenguo by Emperor Wu of Zhou, and soon put to death on a charge of "revolt." The histories say: "the Sorrowless Sovereign, the sovereign of a lost realm." The enterprise of Gao Huan and Gao Yang, six sovereigns and twenty-eight years, was spent — Wucheng's license and the Last Sovereign's blindness pulling down the wall until the realm fell. "Without sorrow" became the prophecy of Qi's ruin.
 
-> Local references: the punctuated critical edition of the *Bei Qishu*, ch. 8 ("Benji of the Last Sovereign") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Bei Qishu*, ch. 8 ("Benji of the Last Sovereign").

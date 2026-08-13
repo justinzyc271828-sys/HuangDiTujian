@@ -8,4 +8,4 @@ But in the Tianbao years he grew complacent: "trusting the long peace, he gave h
 
 He died in the Shenlong Hall in the 1st year of Baoying, aged seventy-eight. The histories say: "Kaiyuan diligent, Tianbao complacent — one life, a whole age's rise and fall." In one man met the golden age and the beginning of the ruin: the splendor of Kaiyuan–Tianbao and the disaster of the An–Shi rebellion were both his — the classic mirror of a sovereign's rise and fall.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 8 and 9 ("Benji of Emperor Xuanzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 8 and 9 ("Benji of Emperor Xuanzong").

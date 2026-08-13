@@ -6,4 +6,4 @@ Nanping held the sliver of Jiangling, "the land narrow and the soldiers few," th
 
 He died in the 3rd year of Tiancheng (928). Small and contemptible as Nanping was, "it lived by serving the great," through five Gao rulers and over forty years, until Song destroyed it in 963 — the "Gao rascal" mocked, yet "keeping whole one's life amid the storm" had its own way.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 69 ("Annals of Nanping") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 69 ("Annals of Nanping").

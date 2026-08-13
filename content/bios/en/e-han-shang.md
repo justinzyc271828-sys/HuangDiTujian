@@ -6,4 +6,4 @@ He reigned less than a year, and government was from the start in the hands of D
 
 His enthronement and his death are the first extreme specimen of Eastern Han's child-emperor politics: the sovereign had become too young to be any kind of political subject, and imperial power was merely a title in the hands of an empress dowager and her kin. Deng then chose Hu, son of the prince of Qinghe, as [[e-han-an|Emperor An]] — from then on, every succession in Eastern Han passed through a decision made behind the palace gates.
 
-> Local references: the punctuated critical edition of the *Hou Hanshu*, ch. 4 (Benji of Emperor Shang) and the Annals of the Empresses (Empress Deng); Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hou Hanshu*, ch. 4 (Benji of Emperor Shang) and the Annals of the Empresses (Empress Deng); Tan Qixiang's atlas, vol. 2.

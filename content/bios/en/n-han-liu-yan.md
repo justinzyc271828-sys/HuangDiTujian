@@ -6,4 +6,4 @@ But his "punishments and government were cruel beyond measure": the records tell
 
 The histories say: "he united Lingnan by merit, but his punishments and government were poison." Southern Han stood on the rich lands of Lingnan; but Liu Yan's tyranny and his heirs' folly — the Shang, Zhongzong, and Last Sovereign — rotted the government, and Song destroyed it in 971. The fall of Southern Han was the fall of the Liu's cruelty — "the wealth of Lingnan could not save its cruelty."
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 65 ("Annals of Southern Han") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 65 ("Annals of Southern Han").

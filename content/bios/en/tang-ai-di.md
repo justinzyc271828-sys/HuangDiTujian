@@ -6,4 +6,4 @@ In the 4th year of Tianyou Quanzhong forced the abdication: Tang fell, and the L
 
 The histories say: "a child at the fall of the realm — the three hundred years of Tang were at an end." Tang did not fall in Ai's reign but to the long disease of feudatories, eunuchs, and factionalism since the An–Shi rebellion: Xizong's flight, Zhaozong's slaying, the Baimayi disaster were its funeral march. Ai only inherited the catastrophe. With "the fall of Tang," Chinese history entered the Five Dynasties and Ten Kingdoms.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 20b ("Benji of Emperor Ai"), and the *Xin Wudaishi*, ch. 1 ("Annals of Liang") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 20b ("Benji of Emperor Ai"), and the *Xin Wudaishi*, ch. 1 ("Annals of Liang").

@@ -6,4 +6,4 @@ That same day in the sixth month, the Prince of Linzi, Li Longji (Xuanzong), wit
 
 Less than a month on the throne; the histories say: "a child puppet caught in the palace coup." The palace coups of the Tang came thickest in the Zhongzong–Shang years: the Shenlong coup, the Jinglong disorders, the Tanglong coup — three changes within a decade. Shang was but a passing figure; the gazetteer keeps him in the Tang line as quasi-emperor.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Zhongzong"), and the *Xin Tangshu*, ch. 4 ("Benji of Emperor Zhongzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 7 ("Benji of Emperor Zhongzong"), and the *Xin Tangshu*, ch. 4 ("Benji of Emperor Zhongzong").

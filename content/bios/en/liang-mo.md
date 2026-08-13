@@ -6,4 +6,4 @@ In the Zhenming and Longde years "the government came from many mouths," Duan Ni
 
 The histories say: "he could not control his generals, and fell to the Shatuo at last." From Taizu's abdication to the Last Sovereign's fall, two emperors and seventeen years — one of the briefest of the Five Dynasties. Liang fell to Taizu's tyranny and the Last Sovereign's weakness; and the rise of Li Cunxu opened the three Shatuo dynasties — Later Tang, Later Jin, Later Han.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 8–10 ("Annals of the Liang Last Sovereign") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 8–10 ("Annals of the Liang Last Sovereign").

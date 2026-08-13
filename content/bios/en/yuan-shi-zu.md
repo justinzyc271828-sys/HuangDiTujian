@@ -1,6 +1,6 @@
 # Kublai Khan, Emperor Shizu of Yuan · Major Events
 
-Kublai was the emperor who rewrote the Mongol khanate into a Chinese-style dynasty and completed the first grand unification since the fall of the Tang. This page takes 《元史·世祖本纪》 (juan 004–017) as its chronological backbone, with the conquest of the Song cross-checked against 《宋史·瀛国公纪》 and 《二王本纪》 (available in the local reference library).
+Kublai was the emperor who rewrote the Mongol khanate into a Chinese-style dynasty and completed the first grand unification since the fall of the Tang. This page takes 《元史·世祖本纪》 (juan 004–017) as its chronological backbone, with the conquest of the Song cross-checked against 《宋史·瀛国公纪》 and 《二王本纪》.
 
 His opening act was a civil war over the khanship: in the first year of Zhongtong (1260) he took the throne as Great Khan at Kaiping and established the Zhongtong era, then immediately fought Ariq Böke for the succession and prevailed. Institutions for the Chinese territories advanced step by step thereafter: the era name changed in the first year of Zhiyuan (1264); in the eighth year of Zhiyuan (1271), taking the Yijing phrase "great is the qian origin," he proclaimed the dynastic name Great Yuan; and in the ninth year of Zhiyuan (1272) Zhongdu was renamed Dadu, fixing the political center in the land of Yan.
 

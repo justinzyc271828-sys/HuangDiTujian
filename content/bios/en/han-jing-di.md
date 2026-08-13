@@ -8,4 +8,4 @@ The years after the revolt were not tranquil: the heir of the Li clan was set as
 
 In the first month of the later third year, Emperor Jing died in the Weiyang Palace and Crown Prince Che succeeded. Four decades of Wen-Jing recuperation now passed into the hands of the most expansionist emperor in Chinese history; and "the Wen-Jing recovery," the byword for the House of Han's foundations, became the hinge between [[han-gao-zu|Emperor Gaozu]]'s founding and Emperor Wu's frontier expansion.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 5 (Benji of Emperor Jing), ch. 6 (Benji of Emperor Wu), and the biography of Chao Cuo; the *Shiji* biography of the King of Wu, the House of Zhou Bo, and the House of Liang; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 5 (Benji of Emperor Jing), ch. 6 (Benji of Emperor Wu), and the biography of Chao Cuo; the *Shiji* biography of the King of Wu, the House of Zhou Bo, and the House of Liang; Tan Qixiang's atlas, vol. 2.

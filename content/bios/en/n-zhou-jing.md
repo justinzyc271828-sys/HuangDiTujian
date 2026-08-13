@@ -6,4 +6,4 @@ In the second month of the 1st year of Dading Jian received the abdication, styl
 
 The histories say: "a child in the abdication, his life the foundation of Sui." A seven-year-old watching his grandfather's realm pass, not his own master. Zhou fell not to Jing but to Xuan's tyranny; Jing only inherited the disaster. And the Sui reunification, carrying Zhou's foundations into the age of Tang, shows how far the fallen Zhou still reached.
 
-> Local references: the punctuated critical edition of the *Zhoushu*, ch. 8 ("Benji of Emperor Jing"), and the *Suishu*, ch. 1 ("Benji of Emperor Wen") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Zhoushu*, ch. 8 ("Benji of Emperor Jing"), and the *Suishu*, ch. 1 ("Benji of Emperor Wen").

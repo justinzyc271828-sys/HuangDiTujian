@@ -6,4 +6,4 @@ His rule was lenient and pacific: he lightened corvée and taxes, encouraged far
 
 The historians say of Ba: "benevolent and generous, careful in economy," yet "he held his borders and cared for his people, but could not press into the Central Plains." A Han regime ringed by barbarian states, Northern Yan held on over twenty years by its lenient rule and its marriages of peace; and with its fall, the Sixteen States age itself drew to its end.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 125 (records of Feng Ba), ch. 125 (records of Feng Hong), and the *Weishu*, biography of Feng Ba (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 125 (records of Feng Ba), ch. 125 (records of Feng Hong), and the *Weishu*, biography of Feng Ba.

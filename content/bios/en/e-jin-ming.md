@@ -6,4 +6,4 @@ His reign opened with Wang Dun holding Wuchang, overbearing to the last degree. 
 
 In the intercalary month of the 3rd year of Taining he died at twenty-seven. The histories call him "devoted to his parents, gifted in arms and letters," the strongest of the Eastern Jin sovereigns, a young emperor who put down a rebel minister in person. His early death left a five-year-old heir, Empress Yu's regency, and Yu Liang's government — and the Su Jun revolt. His brilliance and his brevity together shaped the pattern of Eastern Jin: a child on the throne, strong ministers rising.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 6 ("Benji of Emperor Ming"), ch. 98 (biography of Wang Dun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 6 ("Benji of Emperor Ming"), ch. 98 (biography of Wang Dun).

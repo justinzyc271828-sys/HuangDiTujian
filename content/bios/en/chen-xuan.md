@@ -6,4 +6,4 @@ In the 9th year of Taijian Northern Zhou destroyed Northern Qi, and Chen contend
 
 He died in the 14th year of Taijian at fifty-three; his son Shubao, the Last Sovereign, succeeded. The histories say: "of great strategy, but of narrow vision." The rise of Chen was Xuan's northern expedition; the fall of Chen was the Lüliang disaster — his game against Qi and Zhou could not match the strength of the north. Eight years after his death, Sui destroyed Chen, and the Southern Dynasties were at an end.
 
-> Local references: the punctuated critical edition of the *Chenshu*, ch. 5 ("Benji of Emperor Xuan") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Chenshu*, ch. 5 ("Benji of Emperor Xuan").

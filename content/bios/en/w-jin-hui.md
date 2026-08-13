@@ -6,4 +6,4 @@ In the 1st year of Taixi Wu died and Zhong took the throne at thirty-two. Empres
 
 Sixteen years on the throne, he never knew he was in a storm, carried about by this prince and that. The war exhausted Jin's strength; Li Xiong took Shu and Liu Yuan styled himself king of Han — the Five Barbarian invasions had begun. The historians do not blame Zhong himself; they blame Wu's choice of heir. "Why not eat minced meat?" passed into the language as the eternal byword of a fool, and of a dynasty that entrusted its realm to one.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 4 ("Benji of Emperor Hui"), ch. 31 (biographies of the empresses) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 4 ("Benji of Emperor Hui"), ch. 31 (biographies of the empresses).

@@ -6,4 +6,4 @@ From the histories, the accession was doomed from the start: He galloped into Ch
 
 After his deposition He lived quietly in Changyi for over a decade, and under [[han-xuan-di|Emperor Xuan]] he was further degraded and enfeoffed as Marquis of Haihun, to be settled in Yuzhang (present-day Jiangxi). His final fate was to re-enter public view two millennia later through the archaeology of the Haihun tomb near Nanchang — tens of thousands of gold pieces, coins, and bamboo slips making the twenty-seven-day emperor famous in a new way. This gazetteer lists him as a quasi-emperor, in view of a reign that never completed its first year.
 
-> Local references: the punctuated critical edition of the *Hanshu*, biographies of Huo Guang and of the Five Sons of Emperor Wu; Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, biographies of Huo Guang and of the Five Sons of Emperor Wu; Tan Qixiang's atlas, vol. 2.

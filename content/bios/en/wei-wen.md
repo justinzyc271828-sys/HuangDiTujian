@@ -6,4 +6,4 @@ His seven years were richer in institutions than in arms: he fixed the calendar,
 
 In the fifth month of Huangchu 7 he died in the Jiafu Hall at Luoyang, aged forty, and Emperor Ming (Cao Rui) succeeded. Chen Shou judged him "gifted of literary talent, writing at the brush's touch," while regretting the want of magnanimity. His *Dianlun: On Literature* founded Chinese literary criticism; "literary composition is the great enterprise of statecraft, the glorious work of the imperishable" still echoes — in both letters and institutions, Wen of Wei stands as the hinge of his age.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 2 ("Benji of Emperor Wen"), ch. 12 (biography of Bao Xun) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 2 ("Benji of Emperor Wen"), ch. 12 (biography of Bao Xun).

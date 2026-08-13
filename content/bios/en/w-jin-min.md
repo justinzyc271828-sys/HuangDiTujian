@@ -6,4 +6,4 @@ In the eleventh month of the 4th year of Jianxing Liu Yao took the city, and the
 
 Three years on the throne, Min committed no fault; he simply had nothing to work with — a few dozen li of territory, a few thousand men. The historians write that Western Jin fell not in Min's reign but in Wu's enfeoffment of the princes and Hui's accession; Min only inherited the disaster. A child sovereign in a realm in ruins, his fate matched Huai's, and the two are joined in history as "the Huai–Min tragedy," the opening wound of the southern Jin.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 5 ("Benji of Emperor Min"), ch. 103 (records of Liu Yao) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 5 ("Benji of Emperor Min"), ch. 103 (records of Liu Yao).

@@ -6,4 +6,4 @@ His reign was not, however, a blank. The repeal of the law against private posse
 
 Emperor Hui died in the Weiyang Palace at the age of twenty-four and was buried at Anling. After his death Lü enthroned a young emperor and assumed the regency in her own right; the Liu kings were nearly destroyed one by one, until the accession of [[han-wen-di|Emperor Wen of Han]] returned the House of Han to its proper line. The historians called Hui "gentle and weak," yet in what his reign accumulated, he may be read against Emperor Wen's over the long term.
 
-> Local references: the punctuated critical edition of the *Hanshu*, ch. 2 (Benji of Emperor Hui) and ch. 3 (Benji of Empress Lü), the *Shiji* "Basic Annals of Empress Lü," and Tan Qixiang's atlas, vol. 2 (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Hanshu*, ch. 2 (Benji of Emperor Hui) and ch. 3 (Benji of Empress Lü), the *Shiji* "Basic Annals of Empress Lü," and Tan Qixiang's atlas, vol. 2.

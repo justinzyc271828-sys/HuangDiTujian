@@ -6,4 +6,4 @@ In the fifth month of the 5th year of Ganlu, with Sima Zhao's ambition plain, th
 
 After the slaying, Sima Zhao blamed the emperor by the empress dowager's edict, degraded him to commoner, and installed Cao Huan, marquis of Changdao District. Posterity judges Cao Mao: of sharp spirit in a doomed position, he acted knowing he could not win — his constancy is pitiable, his resolve admirable. Of the Three Kingdoms' emperors, from Emperor Xian on, all clung to life; only the Duke of Gaogui District died for his altars. "Sima Zhao's heart" has passed into the language as the verdict of the people.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns") and the commentary citing the *Han–Jin Annals* (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 4 ("Annals of the Three Young Sovereigns") and the commentary citing the *Han–Jin Annals*.

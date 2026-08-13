@@ -6,4 +6,4 @@ His government aimed at peace within the borders: he made friends with Wuyue and
 
 He died in the 7th year of Shengyuan, aged fifty-six; his son Jing (the Yuan Zong) succeeded. The histories say: "his founding was well-ordered; his reign was brief." Southern Tang, seated at Jinling over the rich lands of the Yang Wu, became the most cultivated of the Ten Kingdoms — and the pattern was the Ancestor Lie's.
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 62 ("Annals of Southern Tang") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 62 ("Annals of Southern Tang").

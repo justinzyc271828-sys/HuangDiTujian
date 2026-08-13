@@ -6,4 +6,4 @@ In the 2nd year of Yongjia he took the imperial throne, styled the realm Han, mo
 
 A Xiongnu who rode the Jin collapse to found a state, Liu Yuan opened the "Five Barbarian invasions." His claim of succession to Han and his adoption of Han rites show how deep Chinese culture had sunk into him; yet his state stood on arms and passed on tyranny — heirs murdering heirs, the people's hearts lost — and perished within a generation. His rising was ambition, not benevolence; the historians, beyond his "quickness and love of learning," see the beginning of the Hu–Han conflict.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 101 (records of Liu Yuanhai), ch. 102 (records of Liu Cong) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 101 (records of Liu Yuanhai), ch. 102 (records of Liu Cong).

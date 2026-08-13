@@ -6,4 +6,4 @@ In the 1st year of Changqing the three garrisons of Lulong, Chengde, and Weibo r
 
 He died in the 4th year of Changqing of an elixir-sickness, aged thirty. The histories say: "disbanding the armies misled the realm, and Hebei rose again." The Yuanhe cutting of the feudatories was the summit of the restoration; Muzong's disbanding was the turn of the decline — "disbanding the armies" became the historians' warning. A pleasure-loving sovereign who threw away a restored realm: the decline of Tang could no longer be stopped from his reign.
 
-> Local references: the punctuated critical edition of the *Jiu Tangshu*, ch. 16 ("Benji of Emperor Muzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Tangshu*, ch. 16 ("Benji of Emperor Muzong").

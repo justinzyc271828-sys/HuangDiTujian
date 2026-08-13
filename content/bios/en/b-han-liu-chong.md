@@ -6,4 +6,4 @@ Northern Han was narrow and weak, and Chong "borrowed the Khitan to hold out aga
 
 The histories say: "he borrowed the Khitan to hold out against Zhou and Song." Northern Han was an island of the age: leaning on the Khitan in the north, defying Zhou and Song in the south, it lingered twenty-eight years (until Taizong of Song destroyed it in 979). Chong, "a scion of the Han house" defying Zhou, was yet the successor of the "son emperor" Shi Jingtang — "borrowing the outsider to stand, in the end bound by the outsider."
 
-> Local references: the punctuated critical edition of the *Xin Wudaishi*, ch. 70 ("Annals of the Eastern Han") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Xin Wudaishi*, ch. 70 ("Annals of the Eastern Han").

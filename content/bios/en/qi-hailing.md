@@ -6,4 +6,4 @@ His enthronement was pure transition for Luan's usurpation: one emperor deposed,
 
 The historians say: "A child on the throne, and the realm's power was already gone." From Gao's founding to Hailing's deposition was but sixteen years; Luan, usurping as a senior prince, deposed two emperors and slew both (Yulin and Hailing) — cruelty beyond Xiao Daocheng's. Hailing's brief reign reflects the southern norm: the throne itself had become a thing in the strong minister's hand.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 5 (the Prince of Hailing), ch. 6 ("Benji of Emperor Ming") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 5 (the Prince of Hailing), ch. 6 ("Benji of Emperor Ming").

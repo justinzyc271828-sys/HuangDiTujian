@@ -6,4 +6,4 @@ But the nobles' roots ran deep: his uncles the Princes of Changshan and Zhanggua
 
 His deposition began the "uncle taking the nephew's throne" of Northern Qi: Xiaozhao and Wucheng in turn usurped as princes, the throne fell into the Xianbei nobles' hands, and the Han gentry's power was broken at a stroke. The histories say: "studious from youth, unable to hold his own." A fifteen-year-old before strong uncles, his deposition and his death were not his choosing — and the decline of Qi quickened from his fall.
 
-> Local references: the punctuated critical edition of the *Bei Qishu*, ch. 5 ("Benji of the Deposed Emperor") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Bei Qishu*, ch. 5 ("Benji of the Deposed Emperor").

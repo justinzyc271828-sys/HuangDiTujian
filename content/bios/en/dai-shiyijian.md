@@ -6,4 +6,4 @@ His reign marks the passage of the Tuoba from tribal league to state: he first f
 
 But the Tuoba root was not cut: his grandson Tuoba Gui, after the Fei River defeat, restored the state under the name Wei — Emperor Daowu of Northern Wei. Northern Wei honored Shiyijian as Emperor Zhaocheng. The historians see in him the maker of the laws and statehood of the Tuoba, the forerunner of Northern Wei: of all the barbarian states, only the Tuoba fell and rose again to unite the north — and the foundation was laid by Shiyijian.
 
-> Local references: the punctuated critical edition of the *Weishu*, ch. 1 ("Prefatory Annals"), ch. 113 (treatise on official clans) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Weishu*, ch. 1 ("Prefatory Annals"), ch. 113 (treatise on official clans).

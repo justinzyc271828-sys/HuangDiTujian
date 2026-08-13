@@ -6,4 +6,4 @@ In the 2nd year of Yuanhui the Prince of Guiyang, Xiufan, rose and struck at Jia
 
 Five years on the throne, and the pattern of "a child sovereign, a doubtful state, strong ministers grown great" was complete: a child playing and killing, ministers deposing and enthroning at will. Daocheng walked the standard road of the southern usurper — merit in pacification, a slain sovereign, an abdication. The histories see the Later Deposed Emperor as no less a victim of the southern system than a monster: the fall of Liu Song was not the work of one child but of the accumulated disease of its princely politics.
 
-> Local references: the punctuated critical edition of the *Songshu*, ch. 9 ("Benji of the Later Deposed Emperor"), and the *Nanqishu*, ch. 1 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Songshu*, ch. 9 ("Benji of the Later Deposed Emperor"), and the *Nanqishu*, ch. 1 ("Benji of Emperor Gao").

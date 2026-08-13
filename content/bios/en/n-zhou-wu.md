@@ -6,4 +6,4 @@ His rule ran on frugality and the Confucian way: in the 3rd year of Jiande he cu
 
 In the 1st year of Xuanzheng, on the campaign against the Turks, he fell ill on the road and died at Yunyang, aged thirty-six. "Heroic and frugal," he was the first sovereign of the later northern age; but his early death left the throne to the tyrant Xuan, and Yang Jian took the realm — the unity he won passed within years to Sui. The histories say: "of surpassing strategy, he united the north," but "his early death loosed the disaster" — Sui was Zhou's continuation.
 
-> Local references: the punctuated critical edition of the *Zhoushu*, ch. 5 and 6 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Zhoushu*, ch. 5 and 6 ("Benji of Emperor Wu").

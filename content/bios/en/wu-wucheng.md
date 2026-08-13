@@ -8,4 +8,4 @@ In the 4th year of Tianji Emperor Wu of Jin invaded on six roads: Wang Jun's fle
 
 Brought with his house to Luoyang, he was made Marquis of Guiming by Jin, and died there in the 4th year of Taikang at forty-two. The historians' verdict: "brutal, stubborn, arrogant, cruel beyond measure" — Wu fell not to the strength of Jin but to his own tyranny: "he had lost the people's hearts and Heaven's mandate alike." No fallen sovereign surpasses him in infamy. Yet his opening reforms show a man of some ability; the tyrant in him, once loosed, could not be checked — a lesson for unchecked power.
 
-> Local references: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 58 (biography of Lu Kang), and the *Jinshu*, ch. 3 ("Benji of Emperor Wu") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Sanguozhi*, ch. 48 ("Biographies of the Three Successors"), ch. 58 (biography of Lu Kang), and the *Jinshu*, ch. 3 ("Benji of Emperor Wu").

@@ -6,4 +6,4 @@ Four years he reigned, in frugality: "he would not use fine things," and said, "
 
 The histories say of him: "deep and of great measure, lenient and strict in due proportion." A common soldier who took the realm and kept it frugally — the rarest of the southern founders. But the Qi line was brief: his frugality did not outlast his sons; after Wu's Yongming recovery, the Princes of Yulin and Hailing were deposed in turn, Xiao Luan usurped, and within twenty years Qi was gone. Gao's virtue did not reach the third generation.
 
-> Local references: the punctuated critical edition of the *Nanqishu*, ch. 1 and 2 ("Benji of Emperor Gao") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Nanqishu*, ch. 1 and 2 ("Benji of Emperor Gao").

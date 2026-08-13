@@ -6,4 +6,4 @@ His rule: he broke the Xianbei Ruoluo Baneng and his name ran through Hexi; with
 
 The historians say of him: "he cherished the Qiang and the Hu, and carried civilization through the river lands." While the Central Plains went under, Liangzhou alone kept its peace; besides the caps and gowns crossing south, there was a westward flight of scholars — "Liangzhou's cattle were the realm's wealth" — and Gui's rule was a refuge in the storm. His descendants were later swept away by Former Qin, but the virtue of Former Liang was long remembered.
 
-> Local references: the punctuated critical edition of the *Jinshu*, ch. 86 (biography of Zhang Gui), ch. 86 (biography of Zhang Shi) (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jinshu*, ch. 86 (biography of Zhang Gui), ch. 86 (biography of Zhang Shi).

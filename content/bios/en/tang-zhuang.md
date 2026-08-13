@@ -6,4 +6,4 @@ In the 3rd year of Tongguang he sent Guo Chongtao and the Prince of Wei to conqu
 
 In the 4th year of Tongguang the Weizhou garrison mutinied, and Li Siyuan (Mingzong) was carried south by his troops; Zhuangzong's own campaign failed, and in Luoyang the actor Guo Congqian and the others rose, Zhuangzong fell to an arrow and died, aged forty-two. The histories say: "bold and wanting in rites, favoring actors and eunuchs — he won, and did not last." He won the realm by arms and lost it by misrule — "decades of labor, ruined in a day" — the most typical rise and fall of the Five Dynasties.
 
-> Local references: the punctuated critical edition of the *Jiu Wudaishi*, ch. 27–34 ("Annals of Emperor Zhuangzong") (see `HuangDiTujian-Ref`). This MVP text is for closed-loop demonstration; see the source cards for refinements.
+> References: the punctuated critical edition of the *Jiu Wudaishi*, ch. 27–34 ("Annals of Emperor Zhuangzong").
